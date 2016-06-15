@@ -1,0 +1,20 @@
+{
+  "name": "nus_progress_bar",
+  "version": "1.0.0",
+  "description": "NUS module planner",
+  "main": "index.html",
+  "scripts": {
+  "browserify": "browserify ./scripts/main.js -o ./bundle.js"
+},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com//%1B%5BD%1B%5BD%1B%5BD%1B%5BD%1B%5BD%1B%5BD%1B%5BD%1B%5BD%1B%5BD%1B%5BD%1B%5BD%1B%5BD%1B%5BD%1B%5BD%1B%5BD%1B%5BD%1B%5BD%1B%5BD%1B%5BD%1B%5BD%1B%5BD%1B%5BD%1B%5BD%1BExceptionOverflow%2FnusProgressBar.git"
+  },
+  "author": "Yan Hongwei, Song Jiaming",
+  "license": "MIT",
+  "devDependencies": {
+    "browserify": "^13.0.1",
+    "jspm": "^0.16.39",
+    "webpack": "^1.13.1"
+  }
+}
