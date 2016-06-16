@@ -1,0 +1,15 @@
+#primary-plan {
+	background-color: orange;
+}
+
+
+.progress-bar {
+	background-color: blue;
+	height:  120px;
+
+}
+
+.module-table {
+	background-color: yellow;
+	height: 500px;
+}
