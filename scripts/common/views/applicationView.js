@@ -2,11 +2,12 @@
 
 var drawDefaultProgressBar = require('./drawDefaultProgressBar');
 var drawEmptyModuleTable = require('./drawEmptyModuleTable');
-var drawDeafaultModuleInfo = require('./drawDeafaultModuleInfo');
+var drawDefaultModuleInfo = require('./drawDefaultModuleInfo');
 
 var ApplicationView = {
-	initialise: function(){
-		drawDeafaultModuleInfo.draw();
+	//Build default view for the enitre app
+	initialise: function() {
+		drawDefaultModuleInfo.draw();
 	}
 };
 

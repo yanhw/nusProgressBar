@@ -15,22 +15,33 @@ module.exports = App;
 
 var drawDefaultProgressBar = require('./drawDefaultProgressBar');
 var drawEmptyModuleTable = require('./drawEmptyModuleTable');
-var drawDeafaultModuleInfo = require('./drawDeafaultModuleInfo');
+var drawDefaultModuleInfo = require('./drawDefaultModuleInfo');
 
 var ApplicationView = {
-	initialise: function(){
-		drawDeafaultModuleInfo.draw();
+	//Build default view for the enitre app
+	initialise: function() {
+		drawDefaultModuleInfo.draw();
 	}
 };
 
 module.exports = ApplicationView;
-},{"./drawDeafaultModuleInfo":3,"./drawDefaultProgressBar":4,"./drawEmptyModuleTable":5}],3:[function(require,module,exports){
+},{"./drawDefaultModuleInfo":3,"./drawDefaultProgressBar":4,"./drawEmptyModuleTable":5}],3:[function(require,module,exports){
+'use strict';
 
+var drawDefaultModuleInfo = {
+	draw : function() {
+		$( ".remove-me" ).remove();
+		var searchBar=$('<div class="input-group moudle-search-bar"><input type="text" class="form-control" placeholder="Enter module code or module name"><span class="input-group-btn"><button class="btn btn-default" type="button">Select</button></span></div>');
+		$('#module-info').html(searchBar);
+	}
+};
+
+module.exports = drawDefaultModuleInfo;
 },{}],4:[function(require,module,exports){
-$( ".remove-me" ).remove();
+
 },{}],5:[function(require,module,exports){
-arguments[4][3][0].apply(exports,arguments)
-},{"dup":3}],6:[function(require,module,exports){
+arguments[4][4][0].apply(exports,arguments)
+},{"dup":4}],6:[function(require,module,exports){
 'use strict';
 
 // Meta settings here. To be added in the future.
