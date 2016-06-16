@@ -4,8 +4,8 @@
   "description": "NUS module planner",
   "main": "index.html",
   "scripts": {
-  "browserify": "browserify ./scripts/main.js -o ./bundle.js"
-},
+    "browserify": "browserify ./scripts/main.js -o ./bundle.js"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com//%1B%5BD%1B%5BD%1B%5BD%1B%5BD%1B%5BD%1B%5BD%1B%5BD%1B%5BD%1B%5BD%1B%5BD%1B%5BD%1B%5BD%1B%5BD%1B%5BD%1B%5BD%1B%5BD%1B%5BD%1B%5BD%1B%5BD%1B%5BD%1B%5BD%1B%5BD%1B%5BD%1BExceptionOverflow%2FnusProgressBar.git"
@@ -16,5 +16,8 @@
     "browserify": "^13.0.1",
     "jspm": "^0.16.39",
     "webpack": "^1.13.1"
+  },
+  "dependencies": {
+    "handlebars": "^4.0.5"
   }
 }
