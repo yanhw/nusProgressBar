@@ -13,3 +13,19 @@ var App = require('./app');
 
 
 App.start();
+
+console.log("I am at the end");
+
+$(document).ready(function() {
+	console.log("not triggered!");
+		$('#module-search-bar-select').click(function(){
+	        var toAdd =  $('input[name=moudle-search-bar-box]').val();
+	        console.log("triggered!");
+	 	$('.module-table').append('<div class="item">' + toAdd + '</div>');
+	});	
+
+	$('#module-search-bar-select').on('click', function() {
+    	// TODO event handler logic
+    	console.log("aaaaaa");
+	});
+});
