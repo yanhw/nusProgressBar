@@ -1,11 +1,41 @@
 'use strict';
 
+// var $ = require('jqurey')
+var Handlebars = require('handlebars');
+var fs = require('fs');
+
+
+
 var drawDefaultModuleInfo = {
 	draw : function() {
-		$( ".remove-me" ).remove();
-		var searchBar=$('<div class="input-group moudle-search-bar"><input type="text" class="form-control" placeholder="Enter module code or module name"><span class="input-group-btn"><button class="btn btn-default" type="button">Select</button></span></div>');
-		$('#module-info').html(searchBar);
+		//for debugging purpose
+		$(".remove-me").remove();
+
+		$('#module-info').load("/scripts/common/views/moduleInfo.html");
+
+		//This block will be shifted to another js file
+
+		var moduleList = require('../../../data/moduleList.json');
+
+
+	//	$('#module-search-bar-box').typeahead({source: moduleList});
+		console.log("I am still alive");
+
+		$(document).ready(function() {
+			$('#module-search-bar-select').click(function(){
+	        	var toAdd =  $('input[name=moudle-search-bar-box]').val();
+	        	console.log("triggered!");
+	        	$('.module-table').append('<div class="item">' + toAdd + '</div>');
+	        });	
+		});
+
+        console.log("end of function!");
+		//End of block
+
 	}
 };
 
 module.exports = drawDefaultModuleInfo;
+
+
+

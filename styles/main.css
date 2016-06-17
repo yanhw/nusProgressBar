@@ -17,3 +17,9 @@
 .module-search-bar {
 	
 }
+
+.pre-requisite-tree {
+	border-style: double;
+	height: 200px;
+	text-orientation: center;
+}
