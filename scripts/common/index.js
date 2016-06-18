@@ -1,13 +1,12 @@
 'use strict';
 
+var ModuleInfo = require("../moduleInfo/index.js");
+
 var AppBody = {
 	run: function(){
-		$('#module-search-bar-select').click(function(){
-	       	var toAdd =  $('input[name=moudle-search-bar-box]').val();
-	       	console.log("triggered!");
-	       	$('.module-table').append('<div class="item">' + toAdd + '</div>');
-	    });	
-		console.log("inside AppBody");
+		ModuleInfo.setup();
+
+	
 	},
 	request: function(origin, type, data) {
 
@@ -16,3 +15,5 @@ var AppBody = {
 
 
 module.exports = AppBody;
+
+

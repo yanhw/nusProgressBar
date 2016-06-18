@@ -4,33 +4,56 @@
 var Handlebars = require('handlebars');
 var fs = require('fs');
 
-
-
 var drawDefaultModuleInfo = {
 	draw : function() {
 		//for debugging purpose
 		$(".remove-me").remove();
 
-		$('#module-info').load("/scripts/common/views/moduleInfo.html");
+
+
+		$('#module-info').load("./scripts/common/views/moduleInfo.html", function (){
+
+
+	    	var substringMatcher = function(strs) {
+			  return function findMatches(q, cb) {
+			    var matches, substringRegex;
+
+			    // an array that will be populated with substring matches
+			    matches = [];
+
+			    // regex used to determine if a string contains the substring `q`
+			    substringRegex = new RegExp(q, 'i');
+
+			    // iterate through the pool of strings and for any string that
+			    // contains the substring `q`, add it to the `matches` array
+			    $.each(strs, function(i, str) {
+			      if (substringRegex.test(str)) {
+			        matches.push(str);
+			      }
+			    });
+
+			    cb(matches);
+			  };
+			};
+
+	    	$('#module-search-bar-box').typeahead({
+			  hint: true,
+			  highlight: true,
+			  minLength: 1
+			},
+			{
+			  name: 'moduleList',
+			  source: substringMatcher(moduleList)
+			});
+		});
 
 		//This block will be shifted to another js file
 
 		var moduleList = require('../../../data/moduleList.json');
 
 
-	//	$('#module-search-bar-box').typeahead({source: moduleList});
-		console.log("I am still alive");
+		var moduleInput = $('#module-search-bar-box');
 
-		$(document).ready(function() {
-			$('#module-search-bar-select').click(function(){
-	        	var toAdd =  $('input[name=moudle-search-bar-box]').val();
-	        	console.log("triggered!");
-	        	$('.module-table').append('<div class="item">' + toAdd + '</div>');
-	        });	
-		});
-
-        console.log("end of function!");
-		//End of block
 
 	}
 };
