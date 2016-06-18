@@ -1,20 +1,33 @@
 <div class='input-group' id='moudle-search-bar'>
-	<input type='text' class='form-control' id='moudle-search-bar-box' placeholder='Enter module code or module name'>
+	<input type='text' class='form-control' id='module-search-bar-box' placeholder='Enter module code or module name'>
 	<span class='input-group-btn'>
 		<button class='btn btn-default' id='module-search-bar-select' type='button'>Select</button>
 	</span>
 </div>
 
 <div class='selected-module-info'>
-	<div class='module-code'>
-	</div>
-	<div class='MC'>
+	<div class="inline">
+		<div class='module-code'>
+			<div class="module-info-head">
+				Module Code:
+			</div>
+			<div>
+				{{module-code}}
+			</div>
+		</div>
+		<div class='MC'>
+			{{mc}} MCs
+		</div>
 	</div>
 	<div class='module-title'>
+		Module Title: {{module-title}}
 	</div>
 	<div class="pre-requisites">
 	</div>
 	<div class="preclusion">
+	</div>
+	<div class="add-module">
+		<button class="btn" id="add-module-botton" type="button">Add</button>
 	</div>
 	<div class='semester-history'>
 	</div>

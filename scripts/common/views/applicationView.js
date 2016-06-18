@@ -8,6 +8,7 @@ var ApplicationView = {
 	//Build default view for the enitre app
 	initialise: function() {
 		drawDefaultModuleInfo.draw();
+		drawEmptyModuleTable.draw();
 	}
 };
 

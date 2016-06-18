@@ -13,9 +13,11 @@
   "author": "Yan Hongwei, Song Jiaming",
   "license": "MIT",
   "devDependencies": {
+    "brfs": "^1.4.3",
     "browserify": "^13.0.1",
     "jquery": "^3.0.0",
     "jspm": "^0.16.39",
+    "typeahead": "^0.2.2",
     "webpack": "^1.13.1"
   },
   "dependencies": {
