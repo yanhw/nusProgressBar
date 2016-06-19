@@ -9,7 +9,7 @@
 
 }
 
-.module-table {
+#module-table {
 	background-color: yellow;
 	height: 500px;
 }
@@ -24,9 +24,43 @@
 	text-orientation: center;
 }
 
+.selected-module-tile {
+	background-color: red;
+}
+
+.occupied-module-tile {
+	background-color: brown;
+}
+
+.active-module-tile {
+	background-color: green;
+}
+
+.empty-module-tile {
+	background-color: gray;
+}
+
+.module-tile {
+	border-style: solid;
+	display: inline-block;
+	height: 60px;
+	width: 120px;
+	vertical-align:top;
+}
+
+.semester {
+	height: 60px;
+}
+
+.semester-head {
+	display: inline-block;
+	height: 60px;
+	width: 80px;
+	vertical-align:top;
+}
 
 .inline {
-	display: inline;
+	display: inline-block;
 }
 
 

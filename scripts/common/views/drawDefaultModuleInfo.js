@@ -13,7 +13,7 @@ var drawDefaultModuleInfo = {
 
 		$('#module-info').load("./scripts/common/views/moduleInfo.html", function (){
 
-
+			//Want to shift this call back function to moduleInfo/index.js
 	    	var substringMatcher = function(strs) {
 			  return function findMatches(q, cb) {
 			    var matches, substringRegex;
@@ -45,6 +45,8 @@ var drawDefaultModuleInfo = {
 			  name: 'moduleList',
 			  source: substringMatcher(moduleList)
 			});
+
+
 		});
 
 		//This block will be shifted to another js file
