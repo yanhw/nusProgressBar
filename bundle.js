@@ -39771,19 +39771,69 @@ var AppBody = {
 	request: function(origin, type, data) {
 		switch(origin) {
 			case "moduleSearchBox" :
-				console.log("requrest recieved" + data);
+				console.log("search request recieved " + data);
 				ModuleInfo.display(data);
+				if (MyPlan.isInsidePlan(data))
+					ModuleInfo.setButton("Remove");
+				else
+					ModuleInfo.setButton("Add");
 				break;
+
 			case "addModuleButton" :
-				var isInsidePlan = MyPlan.add(data);
-				if (!isInsidePlan) {
-					ModuleTable.standby(data);
+				if (type === "Add") {
+					var hasModule = ModuleInfo.hasModule();
+					var isInsidePlan = MyPlan.isInsidePlan(data);
+					if ((!isInsidePlan) && (hasModule)) {
+						ModuleTable.standby(data);
+					}
 				}
+				else {
+					MyPlan.removeModule(data);
+					var target = ModuleTable.getTileByCode(data);
+					if (ModuleTable.hasSelected())
+						ModuleTable.removeSelection(target);
+					ModuleTable.removeModule(target);
+					ModuleInfo.setButton("Add");
+				}
+				break;
+
+			case "addModuleToTile" :
+				MyPlan.add(data);
+				ModuleTable.removeStandby();
+				ModuleTable.addModule(type, data);
+				ModuleInfo.setButton("Remove");
+				break;
+
+			case "selectThisModule" :
+				var realtives = MyPlan.getRelatives(data);
+				ModuleTable.select(type, realtives);
+				ModuleInfo.display(data);
+				ModuleInfo.setButton("Remove");
+				break;
+
+			case "removeSelection" :
+				ModuleTable.removeSelection(data);
+				break;
+
+			case "swapToEmptyTile" :
+				var moduleCode = ModuleTable.getCodeByTile(type);
+				ModuleTable.removeSelection(type);
+				ModuleTable.removeModule(type);
+				ModuleTable.addModule(data, moduleCode);
+				break;
+
+			case "swapToOccupiedTile" :
+				var firstModuleCode = ModuleTable.getCodeByTile(type);
+				var secondModuleCode = ModuleTable.getCodeByTile(data);
+				ModuleTable.removeSelection(type);
+				ModuleTable.addModule(type, secondModuleCode);
+				ModuleTable.addModule(data, firstModuleCode);
+				break;
+
+			default: 
+				alert("unrecorded request!  " + origin);
 		}
-	},
-
-
-	test: "test"
+	}
 }
 
 
@@ -39792,12 +39842,13 @@ module.exports = AppBody;
 'use strict';
 
 var myModules = [];
+var year;
+var programmes = [];
+
 
 var modulePlan = {
-	year : null,
-	degree : "default",
 
-	add: function(moduleCode) {
+	isInsidePlan: function(moduleCode) {
 		var isInsidePlan = false;
 		for (var i = 0; i < myModules.length; i++) {
 			if (moduleCode === myModules[i]) {
@@ -39809,8 +39860,24 @@ var modulePlan = {
 			return true;
 		}
 		else {
-			myModules.push(moduleCode);
 			return false;
+		}
+	},
+
+	add: function(moduleCode) {
+		myModules.push(moduleCode);
+	},
+
+	getRelatives: function(moduleCode) {
+		return "a list of modules";
+	},
+
+	removeModule: function(moduleCode) {
+		for (var i = 0; i < myModules.length; i++) {
+			if (myModules[i] === moduleCode) {
+				myModules.splice(i, 1);
+				break;
+			}
 		}
 	}
 };
@@ -39937,7 +40004,7 @@ console.log("I am at the end");
 },{"./app":50}],58:[function(require,module,exports){
 'use strict';
 
-var selectedModule;
+var selectedModule = null;
 var anuglar = require("angular");
 
 //For controller, need to shift with the controller
@@ -39956,7 +40023,7 @@ var moduleInfo = {
 		$("#module-info").on("click", '#module-search-bar-select', function(){
 			var AppBody = require("../common/index.js");
 		    var moduleCode =  $('#module-search-bar-box').val();
-	       	console.log("select button triggered!" + moduleCode);
+	       	console.log("select button triggered! " + moduleCode);
 
 	       	AppBody.request("moduleSearchBox", "select", moduleCode);
 		});
@@ -39964,11 +40031,12 @@ var moduleInfo = {
 
 		//Add module button
 		$("#module-info").on("click", "#add-module-button", function(){
-			var AppBody = require("../common/index.js");
-		    var moduleCode =  $('#module-search-bar-box').val();    //Need to change!
-	       	console.log("add button triggered!" + moduleCode);
 
-	       	AppBody.request("addModuleButton", "select", moduleCode);
+			var AppBody = require("../common/index.js");
+		    var moduleCode =  selectedModule;    
+	       	console.log($(this).html() + " button triggered! " + moduleCode);
+	       	var state = $(this).html();
+	       	AppBody.request("addModuleButton", state, moduleCode);
 		});
 
 
@@ -39977,7 +40045,7 @@ var moduleInfo = {
 
 		// //moduleInfoController(app);
 
-		// //-----------This part will be shifted to moduleInfoController.js---------------------------(temp abandonded anjularjs)
+		// //-----------This part will be shifted to moduleInfoController.js---------------------------(temp abandended anjularjs)
 		// app.controller('moduleInfoController',['$scope',function($scope) {
 
 		// 	$scope.moduleCode = modules[index].ModuleCode;
@@ -40003,12 +40071,26 @@ var moduleInfo = {
 			return;
 		}
 
+		selectedModule = moduleCode;
 		$(".module-info-head").text(modules[index].ModuleCode);
 		$(".MC").text(modules[index].ModuleCredit + " MCs");
 		$(".module-title").text("Title: " + modules[index].ModuleTitle);
 		$(".preclusion").text("Preclusion: " + modules[index].Preclusion);
 
 
+	},
+
+	//Check if there is any module in display
+	hasModule: function() {
+		if (selectedModule === null)
+			return false;
+		else
+			return true;
+	},
+
+	//Set text for add module button
+	setButton: function(state) {
+			$("#add-module-button").text(state);
 	}
 };
 
@@ -40018,35 +40100,182 @@ module.exports = moduleInfo;
 
 var standingByModule;
 var isStandingBy = false;
+var isSelected = false;
+var selectedTile = null;
+var SelectedModule = require("./view/selectedModule.js");
 
 var moduleTable = {
 	setup: function() {
-		$("#module-table").on("click", '.active-module-tile', function(){
-			console.log(isStandingBy);
+		//Add module to vacant module tile in module table
+		$("#module-table").on("click", '.active-module-tile', function() {
 			if (isStandingBy) {
-				$(this).addClass("occupied-module-tile");
-				$(this).removeClass("active-module-tile");
-				$(this).text(standingByModule);
-
-				$(".active-module-tile").each(function (){
-					$(this).addClass("empty-module-tile");
-					$(this).removeClass("active-module-tile");
-				});
-				isStandingBy = false;
+				var AppBody = require("../common/index.js");
+				AppBody.request("addModuleToTile", this, standingByModule);
 			}
+			else{		//This should not happen
+				alert("active-module-tile is present without isStandingBy!");
+			}
+		});
+
+		//Click on occupied module tile
+		$("#module-table").on("click", ".occupied-module-tile", function() {
+			var moduleCode = $(this).html();
+			var AppBody = require("../common/index.js");
+			AppBody.request("selectThisModule", this, moduleCode);
+		});
+
+		//Click on selected module tile
+		$("#module-table").on("click", ".selected-module-tile", function() {
+			var AppBody = require("../common/index.js");
+			AppBody.request("removeSelection", null, this);
+		});
+
+		//Click on an empty tile that is able to swap with current tile
+		$("#module-table").on("click", ".avaliable-to-replace-module-tile", function() {
+			var AppBody = require("../common/index.js");
+			AppBody.request("swapToEmptyTile", selectedTile, this);
+		});
+
+		//Click on another occupied module tile that is able to swap with current tile
+		$("#module-table").on("click", ".free-to-swap-module-tile", function() {
+			var AppBody = require("../common/index.js");
+			AppBody.request("swapToOccupiedTile", selectedTile, this);
 		});
 	},
 
+	//Stand by to add a given module
 	standby: function(moduleCode) {
 		standingByModule = moduleCode;
-		console.log("standing by module table");
 		$(".empty-module-tile").each(function (){
 			$(this).addClass("active-module-tile");
 			$(this).removeClass("empty-module-tile");
 		});
 		isStandingBy = true;
+	},
+
+	//Convert empty tiles to normal state
+	removeStandby: function() {
+		$(".active-module-tile").each(function (){
+			$(this).addClass("empty-module-tile");
+			$(this).removeClass("active-module-tile");
+		});
+		isStandingBy = false;
+	},
+
+	//Select a module tile
+	select: function(targetTile, relatives) {
+		// SelectedModule.select(targetTile, relatives);
+		if (isSelected) {
+			alert("some other tile is selected");
+		}
+		else {
+			$(targetTile).addClass("selected-module-tile");
+			$(targetTile).removeClass("occupied-module-tile");
+			selectedTile = targetTile;
+			moduleTable.buildChildrenBlock(relatives);
+			$(".empty-module-tile").each(function () {
+				$(this).addClass("avaliable-to-replace-module-tile");
+				$(this).removeClass("empty-module-tile");
+			});
+			$(".occupied-module-tile").each(function () {
+				//This condition need to be modified!!
+				if (true) {
+					$(this).addClass("free-to-swap-module-tile");
+					$(this).removeClass("occupied-module-tile");
+				}
+			});
+			isSelected = true;
+		}
+	},
+
+	//Check if there is any selected module
+	hasSelected: function() {
+		return isSelected;
+	},
+
+	//Returns selected tile
+	getSelectedTile: function() {
+		return selectedTile;
+	},
+
+	//Remove seleted status from target tile
+	removeSelection: function(target) {
+		$(".children-block").remove();
+		$(target).addClass("occupied-module-tile");
+		$(target).removeClass("selected-module-tile");
+		$(".avaliable-to-replace-module-tile").each(function (){
+			$(this).addClass("empty-module-tile");
+			$(this).removeClass("avaliable-to-replace-module-tile");
+		});
+		$(".free-to-swap-module-tile").each(function (){
+			$(this).addClass("occupied-module-tile");
+			$(this).removeClass("free-to-swap-module-tile");
+		});
+		isSelected = false;
+		selectedTile = null;
+	},
+
+	//Attach children block for a selected module
+	buildChildrenBlock: function(relatives) {
+		var targetSem = $(selectedTile).parent(".semester");
+		targetSem.after("<div class='children-block'></div>");
+		$(".children-block").text(relatives);
+	},
+
+	//Return module code of required tile
+	getCodeByTile: function(target) {
+		return $(target).html();
+	},
+
+	//Return module-tile that holds the module
+	getTileByCode: function(moduleCode) {
+		var target;
+		$(".module-tile").each(function () {
+			if ($(this).html() === moduleCode) {
+				target = this;
+				// return this;			This should works but it does not and I have no idea why
+			}
+		});
+		return target;
+	},
+
+	//This adds a module to target tile
+	addModule: function(target, moduleCode) {
+		$(target).addClass("occupied-module-tile");
+		$(target).removeClass("empty-module-tile");
+		$(target).text(moduleCode);
+	},
+
+	//This removes a module from target tile
+	removeModule: function(target) {
+		console.log($(target).html());
+		$(target).addClass("empty-module-tile");
+		$(target).removeClass("occupied-module-tile");
+		$(target).text("");
 	}
 };
 
 module.exports = moduleTable;
-},{}]},{},[57]);
+},{"../common/index.js":51,"./view/selectedModule.js":60}],60:[function(require,module,exports){
+'use strict';
+
+var ModuleTable = require("../index.js");  			//This line is not working, and I have no idea why
+var selectedTile = null;
+
+var selectedModule = {
+	select: function(target, relatives) {
+		var ModuleTable = require("../index.js");  	//This line works here, and I have no idea why
+
+		if(ModuleTable.hasSelected()) {
+			alert("some other tile is selected");
+		}
+		else {
+			$(target).addClass("selected-module-tile");
+			$(target).removeClass("occupied-module-tile");
+			
+		}
+	}
+};
+
+module.exports = selectedModule;
+},{"../index.js":59}]},{},[57]);
