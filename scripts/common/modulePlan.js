@@ -1,12 +1,13 @@
 'use strict';
 
 var myModules = [];
+var year;
+var programmes = [];
+
 
 var modulePlan = {
-	year : null,
-	degree : "default",
 
-	add: function(moduleCode) {
+	isInsidePlan: function(moduleCode) {
 		var isInsidePlan = false;
 		for (var i = 0; i < myModules.length; i++) {
 			if (moduleCode === myModules[i]) {
@@ -18,8 +19,24 @@ var modulePlan = {
 			return true;
 		}
 		else {
-			myModules.push(moduleCode);
 			return false;
+		}
+	},
+
+	add: function(moduleCode) {
+		myModules.push(moduleCode);
+	},
+
+	getRelatives: function(moduleCode) {
+		return "a list of modules";
+	},
+
+	removeModule: function(moduleCode) {
+		for (var i = 0; i < myModules.length; i++) {
+			if (myModules[i] === moduleCode) {
+				myModules.splice(i, 1);
+				break;
+			}
 		}
 	}
 };

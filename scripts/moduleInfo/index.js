@@ -1,6 +1,6 @@
 'use strict';
 
-var selectedModule;
+var selectedModule = null;
 var anuglar = require("angular");
 
 //For controller, need to shift with the controller
@@ -19,7 +19,7 @@ var moduleInfo = {
 		$("#module-info").on("click", '#module-search-bar-select', function(){
 			var AppBody = require("../common/index.js");
 		    var moduleCode =  $('#module-search-bar-box').val();
-	       	console.log("select button triggered!" + moduleCode);
+	       	console.log("select button triggered! " + moduleCode);
 
 	       	AppBody.request("moduleSearchBox", "select", moduleCode);
 		});
@@ -27,11 +27,12 @@ var moduleInfo = {
 
 		//Add module button
 		$("#module-info").on("click", "#add-module-button", function(){
-			var AppBody = require("../common/index.js");
-		    var moduleCode =  $('#module-search-bar-box').val();    //Need to change!
-	       	console.log("add button triggered!" + moduleCode);
 
-	       	AppBody.request("addModuleButton", "select", moduleCode);
+			var AppBody = require("../common/index.js");
+		    var moduleCode =  selectedModule;    
+	       	console.log($(this).html() + " button triggered! " + moduleCode);
+	       	var state = $(this).html();
+	       	AppBody.request("addModuleButton", state, moduleCode);
 		});
 
 
@@ -40,7 +41,7 @@ var moduleInfo = {
 
 		// //moduleInfoController(app);
 
-		// //-----------This part will be shifted to moduleInfoController.js---------------------------(temp abandonded anjularjs)
+		// //-----------This part will be shifted to moduleInfoController.js---------------------------(temp abandended anjularjs)
 		// app.controller('moduleInfoController',['$scope',function($scope) {
 
 		// 	$scope.moduleCode = modules[index].ModuleCode;
@@ -66,12 +67,26 @@ var moduleInfo = {
 			return;
 		}
 
+		selectedModule = moduleCode;
 		$(".module-info-head").text(modules[index].ModuleCode);
 		$(".MC").text(modules[index].ModuleCredit + " MCs");
 		$(".module-title").text("Title: " + modules[index].ModuleTitle);
 		$(".preclusion").text("Preclusion: " + modules[index].Preclusion);
 
 
+	},
+
+	//Check if there is any module in display
+	hasModule: function() {
+		if (selectedModule === null)
+			return false;
+		else
+			return true;
+	},
+
+	//Set text for add module button
+	setButton: function(state) {
+			$("#add-module-button").text(state);
 	}
 };
 
