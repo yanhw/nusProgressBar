@@ -68,10 +68,11 @@ var moduleInfo = {
 		}
 
 		selectedModule = moduleCode;
-		$(".module-info-head").text(modules[index].ModuleCode);
-		$(".MC").text(modules[index].ModuleCredit + " MCs");
-		$(".module-title").text("Title: " + modules[index].ModuleTitle);
-		$(".preclusion").text("Preclusion: " + modules[index].Preclusion);
+		$(".module-info-head").text(modules[index].moduleCode);
+		$(".MC").text(modules[index].moduleCredit + " MCs");
+		$(".module-title").text("Title: " + modules[index].moduleTitle);
+		$(".description").text("Description: " + modules[index].moduleDescription);
+		$(".preclusion").text("Preclusion: " + modules[index].preclusion);
 
 
 	},
