@@ -2,7 +2,7 @@
 
 var ModuleTable = require("../moduleTable/index.js");
 var ModuleInfo = require("../moduleInfo/index.js");
-var MyPlan = require("./modulePlan.js")
+var MyPlan = require("../modulePlan/modulePlan.js")
 
 var AppBody = {
 	run: function(){
@@ -38,10 +38,11 @@ var AppBody = {
 				}
 				break;
 
-			case "addModuleToTile" :
-				MyPlan.add(data);
+			case "addModuleToTile" :				
 				ModuleTable.removeStandby();
+				var semester = ModuleTable.getSemesterByTile(type);
 				ModuleTable.addModule(type, data);
+				MyPlan.add(data,semester);
 				ModuleInfo.setButton("Remove");
 				break;
 
