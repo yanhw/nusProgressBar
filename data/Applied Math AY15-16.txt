@@ -9,13 +9,13 @@ list-type: default, MMDA, ORFM, visible
 list-name: Level 1000
 list-size: 5
 list-requirement: 5
-list-content: {List I,3;List I,3; List I,3; List I,3; L1_sub2,3;}
+list-content: {List I,3;List I,3;List I,3;List I,3;L1_sub2,3;}
 
 list-type: default, MMDA, ORFM, visible
 list-name: Level 2000
 list-size: 5
 list-requirement: 5
-list-content: {L2_sub1,3;L2_sub2,3;L2_sub3,2;MA2213,1;L2_sub4;}
+list-content: {L2_sub1,3;L2_sub2,3;L2_sub3,3;MA2213,1;L2_sub4,3;}
 
 list-type: default, MMDA, ORFM, visible
 list-name: Level 3000

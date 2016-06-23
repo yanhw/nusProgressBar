@@ -5,12 +5,18 @@ var ModuleInfo = require("../moduleInfo/index.js");
 var MyPlan = require("../modulePlan/modulePlan.js")
 
 var AppBody = {
+
+	//Setup event listeners
 	run: function(){
 		ModuleInfo.setup();
 		ModuleTable.setup();
 	},
+
+	//Handle request from listeners.
 	request: function(origin, type, data) {
 		switch(origin) {
+
+			//type = "select", data = moduleCode
 			case "moduleSearchBox" :
 				console.log("search request recieved " + data);
 				ModuleInfo.display(data);
@@ -20,13 +26,20 @@ var AppBody = {
 					ModuleInfo.setButton("Add");
 				break;
 
+			//type = "Add" or "Remove", data = moduleCode
 			case "addModuleButton" :
 				if (type === "Add") {
 					var hasModule = ModuleInfo.hasModule();
-					var isInsidePlan = MyPlan.isInsidePlan(data);
-					if ((!isInsidePlan) && (hasModule)) {
-						ModuleTable.standby(data);
-					}
+					if (hasModule) {
+						var isInsidePlan = MyPlan.isInsidePlan(data);
+						var notPrecluded = MyPlan.checkPreclusion(data);
+						if ((!isInsidePlan) && (notPrecluded)) {     		//isInsidePlan should always be false, to be removed in the future
+							ModuleTable.standby(data);
+						}
+						if (!notPrecluded) {
+							alert("You cannot add " + data + " because it is precluded!");
+						}
+					}	
 				}
 				else {
 					MyPlan.removeModule(data);
@@ -38,6 +51,7 @@ var AppBody = {
 				}
 				break;
 
+			//type = clicked tile, data = module code of standing by module
 			case "addModuleToTile" :				
 				ModuleTable.removeStandby();
 				var semester = ModuleTable.getSemesterByTile(type);
@@ -46,6 +60,7 @@ var AppBody = {
 				ModuleInfo.setButton("Remove");
 				break;
 
+			//type = module tile, data = module code
 			case "selectThisModule" :
 				var realtives = MyPlan.getRelatives(data);
 				ModuleTable.select(type, realtives);
@@ -53,10 +68,12 @@ var AppBody = {
 				ModuleInfo.setButton("Remove");
 				break;
 
+			//type = null, data = selected module tile
 			case "removeSelection" :
 				ModuleTable.removeSelection(data);
 				break;
 
+			//type = selected module tile, data = target empty tile
 			case "swapToEmptyTile" :
 				var moduleCode = ModuleTable.getCodeByTile(type);
 				ModuleTable.removeSelection(type);
@@ -64,6 +81,7 @@ var AppBody = {
 				ModuleTable.addModule(data, moduleCode);
 				break;
 
+			//type = selected module tile, data = target module tile
 			case "swapToOccupiedTile" :
 				var firstModuleCode = ModuleTable.getCodeByTile(type);
 				var secondModuleCode = ModuleTable.getCodeByTile(data);
