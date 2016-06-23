@@ -68,7 +68,7 @@ var moduleTable = {
 	select: function(targetTile, relatives) {
 		// SelectedModule.select(targetTile, relatives);
 		if (isSelected) {
-			alert("some other tile is selected");
+			alert("some other tile is selected");  		//This should not happen
 		}
 		else {
 			$(targetTile).addClass("selected-module-tile");
@@ -146,6 +146,7 @@ var moduleTable = {
 		var targetSem = $(target).parent(".semester");
 		return targetSem.attr("id");
 	},
+	
 	//This adds a module to target tile
 	addModule: function(target, moduleCode) {
 		$(target).addClass("occupied-module-tile");
