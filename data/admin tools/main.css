@@ -1,0 +1,81 @@
+div {
+	height: 40px;
+	width: 100px;
+	border-color: lightgray;
+	border-style: solid;
+}
+
+#c1 {
+	background-color: white; 
+}
+#c2 {
+	background-color: lightgray;
+}
+
+#c3 {
+	background-color: peachpuff;
+}
+
+#c4 {
+	background-color: salmon;
+}
+
+#c5 {
+	background-color: lightpink;
+}
+
+#c6 {
+	background-color: hotpink
+}
+
+#c7 {
+	background-color: deeppink;
+}
+
+#c8 {
+	background-color: powderblue;
+}
+
+#c9 {
+	background-color: skyblue;
+}
+
+#c10 {
+	background-color: lightskyblue;
+}
+
+#c11 {
+	background-color: royalblue;
+}
+
+#c12 {
+	background-color: blueviolet;
+}
+
+#c13 {
+	background-color: wheat;
+}
+
+#c14 {
+	background-color: violet
+}
+
+#c15 {
+	background-color: moccasin;
+}
+
+#c16 {
+	background-color: papayawhip;
+}
+
+#c17 {
+	background-color: red;
+}
+
+#c18 {
+	background-color: yellow;
+}
+
+#c19 {
+	background-color: green;
+}

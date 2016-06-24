@@ -1,20 +1,39 @@
 #primary-plan {
-	background-color: orange;
+
 }
 
 
 .progress-bar {
-	background-color: blue;
+/*	background-color: blue;*/
 	height:  120px;
 
 }
 
 #module-table {
-	background-color: yellow;
+/*	background-color: yellow;   */
 }
 
 .module-search-bar {
 	
+}
+
+.logo {
+	height: 120px;
+}
+
+#module-info {
+	border-right: dotted;
+	border-right-color: gray;
+}
+
+.desciption-block {
+	width: 100%;
+}
+
+#show-more {
+	position: relative;
+    bottom:0;
+    right:0;
 }
 
 .pre-requisite-tree {
@@ -32,12 +51,13 @@
 }
 
 .free-to-swap-module-tile {
-	border-color: blue;
+	border-color: gold;
 	background-color: brown;   /*The same as .occupied-module-tile */
 }
 
 .occupied-module-tile {
-	background-color: brown;
+	background-color: tomato;
+	border-color: lightgray;
 }
 
 .active-module-tile {
@@ -46,11 +66,12 @@
 
 /*This should be the same as .active-module-tile  */
 .avaliable-to-replace-module-tile {
-	background-color: green;
+	background-color: springgreen;
+	border-color: lightgray;
 }
 
 .empty-module-tile {
-	background-color: gray;
+	border-color: lightgray;
 }
 
 .module-tile {
@@ -59,6 +80,8 @@
 	height: 60px;
 	width: 120px;
 	vertical-align:top;
+	border-radius: 10px;
+	font-family: lucida;
 }
 
 .children-block {
@@ -75,6 +98,14 @@
 	height: 60px;
 	width: 80px;
 	vertical-align:top;
+	border-style: solid;
+	text-align: center;
+	font-size:   13pt;
+    line-height: 14pt; 
+    margin-right: 15px;
+    background-color: lightgray;
+    border-color: darkgray;
+    border-radius: 5px;
 }
 
 .inline {
@@ -132,3 +163,62 @@
 }
 
 /*End of typeahead dropdown */
+
+
+/*For pop-up windows*/
+/*http://inspirationalpixels.com/tutorials/custom-popup-modal*/
+/* Outer */
+.popup {
+    width:100%;
+    height:100%;
+    display:none;
+    position:fixed;
+    top:0px;
+    left:0px;
+    background:rgba(0,0,0,0.75);
+    z-index: 999;
+}
+ 
+/* Inner */
+.popup-inner {
+    max-width:700px;
+    width:90%;
+    padding:40px;
+    position:absolute;
+    top:50%;
+    left:50%;
+    -webkit-transform:translate(-50%, -50%);
+    transform:translate(-50%, -50%);
+    box-shadow:0px 2px 6px rgba(0,0,0,1);
+    border-radius:3px;
+    background:#fff;
+}
+ 
+/* Close Button */
+.popup-close {
+    width:30px;
+    height:30px;
+    padding-top:4px;
+    display:inline-block;
+    position:absolute;
+    top:0px;
+    right:0px;
+    transition:ease 0.25s all;
+    -webkit-transform:translate(50%, -50%);
+    transform:translate(50%, -50%);
+    border-radius:1000px;
+    background:rgba(0,0,0,0.8);
+    font-family:Arial, Sans-Serif;
+    font-size:20px;
+    text-align:center;
+    line-height:100%;
+    color:#fff;
+}
+ 
+.popup-close:hover {
+    -webkit-transform:translate(50%, -50%) rotate(180deg);
+    transform:translate(50%, -50%) rotate(180deg);
+    background:rgba(0,0,0,1);
+    text-decoration:none;
+}
+/*End of pop-up windows*/
