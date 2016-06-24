@@ -7,6 +7,7 @@ var anuglar = require("angular");
 var moduleList = require("../../data/moduleList.json");
 var modules = require("../../data/modules.json");
 var index = -1;
+var descriptionText;
 
 //var moduleInfoController = require("./controller/moduleInfoController.js");
 
@@ -35,6 +36,17 @@ var moduleInfo = {
 	       	AppBody.request("addModuleButton", state, moduleCode);
 		});
 
+		//Display full module description
+		$("#module-info").on("click", "#show-more", function(e){
+			var AppBody = require("../common/index.js");
+			AppBody.request("showMoreButton", e, selectedModule);
+		});
+
+		//Hide full module description
+		$("#module-info").on("click", ".hide-description", function(e){
+			var AppBody = require("../common/index.js");
+			AppBody.request("hideFullDescription", e, selectedModule);
+		});
 
 		// //Module info display controller
 		// var app = angular.module("myApp", []);
@@ -71,7 +83,14 @@ var moduleInfo = {
 		$(".module-info-head").text(modules[index].moduleCode);
 		$(".MC").text(modules[index].moduleCredit + " MCs");
 		$(".module-title").text("Title: " + modules[index].moduleTitle);
-		$(".description").text("Description: " + modules[index].moduleDescription);
+		descriptionText = modules[index].moduleDescription;
+		var displayedText = descriptionText.substring(0,100);
+		index = 100;
+		while ((index < 115) && (displayedText.charAt(displayedText.length-1) != ' ')) {
+			displayedText += descriptionText.substring(index, index+1);
+			index++;
+		}
+		$(".description").text("Description: " + displayedText);
 		$(".preclusion").text("Preclusion: " + modules[index].preclusion);
 
 
@@ -87,7 +106,22 @@ var moduleInfo = {
 
 	//Set text for add module button
 	setButton: function(state) {
-			$("#add-module-button").text(state);
+		$("#add-module-button").text(state);
+	},
+
+	//Display full module description for selected module
+	showFullDescription: function(e) {
+		$("#full-module-description").text(descriptionText);
+		var targeted_popup_class = jQuery($("#show-more")).attr('data-popup-open');
+        $('[data-popup="' + targeted_popup_class + '"]').fadeIn(350);
+
+        e.preventDefault();
+	},
+
+	//Hide full module description
+	hideFullDescription: function(e) {
+		var targeted_popup_class = jQuery($("#hide-description-button")).attr('data-popup-close');
+        $('[data-popup="' + targeted_popup_class + '"]').fadeOut(350);
 	}
 };
 

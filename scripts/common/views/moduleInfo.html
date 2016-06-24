@@ -1,3 +1,4 @@
+
 <div class='input-group' id='moudle-search-bar'>
 	<input type='text' class='form-control' id='module-search-bar-box' placeholder='Enter module code or module name'>
 	<span class='input-group-btn'>
@@ -22,9 +23,21 @@
 	<div class='module-title'>
 		Module Title:
 	</div>
-	<div class="description">
+	<div class="description-block">
+		<div class="description">
+			Description:
+		</div>
+		<a class="btn" id="show-more" data-popup-open="popup-description" href="#">show more</a>
+		<div class="popup" data-popup="popup-description">
+		    <div class="popup-inner">
+		        <p id="full-module-description"></p>
+		        <p class="hide-description"><a data-popup-close="popup-description" href="#">Close</a></p>
+		        <a class="popup-close hide-description" id="hide-description-button" data-popup-close="popup-description" href="#">x</a>
+		    </div>
+		</div>
 	</div>
 	<div class="pre-requisites">
+		Pre-requisites:
 	</div>
 	<div class="preclusion">
 		Preclusions:
