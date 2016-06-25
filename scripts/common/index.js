@@ -42,6 +42,10 @@ var AppBody = {
 				if (type === "Add") {
 					var hasModule = ModuleInfo.hasModule();
 					if (hasModule) {
+						if (ModuleTable.hasSelected()) {
+							var selected = ModuleTable.getSelectedTile();
+							ModuleTable.removeSelection(selected);
+						}
 						var isInsidePlan = MyPlan.isInsidePlan(data);
 						var notPrecluded = MyPlan.checkPreclusion(data);
 						if ((!isInsidePlan) && (notPrecluded)) {     		//isInsidePlan should always be false, to be removed in the future
@@ -88,6 +92,10 @@ var AppBody = {
 				ModuleTable.addModule(type, data);
 				MyPlan.add(data,semester);
 				ModuleInfo.setButton("Remove");
+				var fulfilledPrerequisite = MyPlan.checkPrerequisiteStatus(data, semester);
+				if (!fulfilledPrerequisite) {
+					alert("You have not fulfilled the prerequisite of " + data + "!");
+				}
 				break;
 
 			//type = module tile, data = module code
@@ -115,6 +123,12 @@ var AppBody = {
 				ModuleTable.removeSelection(type);
 				ModuleTable.removeModule(type);
 				ModuleTable.addModule(data, moduleCode);
+				var semester = ModuleTable.getSemesterByTile(data);
+				MyPlan.changeSemester(moduleCode, semester);
+				var fulfilledPrerequisite = MyPlan.checkPrerequisiteStatus(moduleCode, semester);
+				if (!fulfilledPrerequisite) {
+					alert("You have not fulfilled the prerequisite of " + moduleCode + "!");
+				}
 				break;
 
 			//type = selected module tile, data = target module tile
@@ -123,9 +137,21 @@ var AppBody = {
 					return;
 				var firstModuleCode = ModuleTable.getCodeByTile(type);
 				var secondModuleCode = ModuleTable.getCodeByTile(data);
+				var firstSemester = ModuleTable.getSemesterByTile(type);
+				var secondSemester = ModuleTable.getSemesterByTile(data);
 				ModuleTable.removeSelection(type);
 				ModuleTable.addModule(type, secondModuleCode);
 				ModuleTable.addModule(data, firstModuleCode);
+				MyPlan.changeSemester(firstModuleCode, secondSemester);
+				MyPlan.changeSemester(secondModuleCode, firstSemester);
+				var fulfilledPrerequisite = MyPlan.checkPrerequisiteStatus(firstModuleCode, secondSemester);
+				if (!fulfilledPrerequisite) {
+					alert("You have not fulfilled the prerequisite of " + firstModuleCode + "!");
+				}
+				var fulfilledPrerequisite2 = MyPlan.checkPrerequisiteStatus(secondModuleCode, firstSemester);
+				if (!fulfilledPrerequisite2) {
+					alert("You have not fulfilled the prerequisite of " + secondModuleCode + "!");
+				}
 				break;
 
 			default: 

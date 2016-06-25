@@ -1,8 +1,11 @@
 'use strict';
 
 var ModuleUnit = require("./moduleUnit.js");
+var CheckPrerequisite = require("./checkPrerequisite.js");
+
 var modules = require("../../data/modules.json");
 var moduleList = require("../../data/moduleList.json");
+
 
 var myModules = [];			//List of modules inside module table
 var year;					//Year of matric
@@ -72,6 +75,19 @@ var modulePlan = {
 		}
 
 		return notPrecluded;
+	},
+
+	//Check if preprequisite of this module is fullfilled
+	checkPrerequisiteStatus: function (moduleCode, semester) {
+		var requirement = getModuleByCode(moduleCode).parsedPrerequisite;
+		var moduleCodeList = getCodeArray(semester);
+		return CheckPrerequisite.check(requirement, moduleCodeList);
+	},
+
+	//Change semester of this module
+	changeSemester: function(moduleCode, semester) {
+		var thisModule = getModuleUnitByCode(moduleCode);
+		thisModule.setSemester(semester);
 	}
 };
 
@@ -83,6 +99,26 @@ function getModuleByCode (code) {
 			index = i;
 	}
 	return modules[index];
+}
+
+function getModuleUnitByCode (code) {
+	var targetModule;
+	for (var i = 0; i < numOfModules; i++) {
+		if (code === myModules[i].getModuleCode())
+			targetModule = myModules[i];
+	}
+	return targetModule;
+}
+
+//Creaate an array of module codes
+function getCodeArray (semester) {
+	var moduleCodeArray = [];
+	for (var i = 0; i < numOfModules; i++) {
+		if (myModules[i].getSemester() < semester)
+			moduleCodeArray.push(myModules[i].getModuleCode());
+	}
+
+	return moduleCodeArray;
 }
 
 module.exports = modulePlan;

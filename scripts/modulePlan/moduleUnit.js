@@ -14,6 +14,23 @@ function ModuleUnit(module, semester) {
 	this.getSemester = function () {
 		return this.semester;
 	}
+
+	this.setSemester = function (sem) {
+		this.semester = sem;
+	}
+
+	// //Check if preprequisite of this module is fullfilled
+	// this.checkPrerequisiteStatus = function () {
+	// 	requirement = this.module.parsedPrerequisite;
+	// 	if (typeof requirement === "string")
+	// 		return true;
+	// 	else if (requirement.hasOwnProperty("AND")) {
+
+	// 	}
+	// 	else {
+
+	// 	}
+	// }
 }
 
 //ModuleUnit.prototype.
