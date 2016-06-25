@@ -144,7 +144,8 @@ var moduleTable = {
 	//Return semester that the tile is in
 	getSemesterByTile: function(target) {
 		var targetSem = $(target).parent(".semester");
-		return targetSem.attr("id");
+		var sem = targetSem.attr("id");
+		return parseInt(sem.substring(1));
 	},
 	
 	//This adds a module to target tile
@@ -160,7 +161,9 @@ var moduleTable = {
 		$(target).addClass("empty-module-tile");
 		$(target).removeClass("occupied-module-tile");
 		$(target).text("");
-	}
+	},
+
+	
 };
 
 module.exports = moduleTable;
