@@ -3,10 +3,54 @@
 }
 
 
-.progress-bar {
+#progress-bar {
 /*	background-color: blue;*/
-	height:  120px;
+	height: 120px;
+}
 
+#the-progress-bar {
+	height: 118px;
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	z-index: -1;
+}
+
+.visible-list {
+	border-style: double;
+	width: 100px;
+	height: 100px;
+	text-align: center;
+	margin-top: 9px;
+	display: inline-block;
+}
+
+.module-list-1 {
+	background-color: lightpink;
+}
+
+.module-list-2 {
+	background-color: salmon;
+}
+
+.module-list-3 {
+	background-color: hotpink;
+}
+
+.module-list-4 {
+	background-color: deeppink;
+}
+
+.module-list-5 {
+	background-color: wheat;
+}
+
+.module-list-6 {
+	background-color: moccasin;
+}
+
+.module-list-7 {
+	background-color: papayawhip;
 }
 
 #module-table {
@@ -18,6 +62,10 @@
 }
 
 .logo {
+	height: 120px;
+}
+
+#logo-image {
 	height: 120px;
 }
 
@@ -85,8 +133,24 @@
 }
 
 .children-block {
-	height: 60px;
+	height: 120px;
 	text-align: center;
+}
+
+.locked-module-tile {
+	height: 56px;
+	width: 116px;
+	border-style: solid;
+	border-color: gold;
+	display: inline-block;
+}
+
+.selected-locked-module-tile {
+	height: 56px;
+	width: 116px;
+	border-style: solid;
+	border-color: black;
+	display: inline-block;
 }
 
 .semester {
@@ -222,3 +286,9 @@
     text-decoration:none;
 }
 /*End of pop-up windows*/
+
+.scrollable-menu {
+    height: auto;
+    max-height: 200px;
+    overflow-x: hidden;
+}

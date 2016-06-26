@@ -15,10 +15,16 @@ function ModuleUnit(module, semester) {
 		return this.semester;
 	}
 
+	//Return parsedPrerequisite
+	this.getParsedPrerequisite = function() {
+		return this.module.parsedPrerequisite;
+	}
+	
+	//Change the semester of a module
 	this.setSemester = function (sem) {
 		this.semester = sem;
 	}
-
+	
 	// //Check if preprequisite of this module is fullfilled
 	// this.checkPrerequisiteStatus = function () {
 	// 	requirement = this.module.parsedPrerequisite;

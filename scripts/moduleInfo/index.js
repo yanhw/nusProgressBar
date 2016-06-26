@@ -76,7 +76,7 @@ var moduleInfo = {
 
 		if (!isValidCode){
 			alert("Not Valid Module Code!");
-			return;
+			return false;
 		}
 
 		selectedModule = moduleCode;
@@ -85,15 +85,14 @@ var moduleInfo = {
 		$(".module-title").text("Title: " + modules[index].moduleTitle);
 		descriptionText = modules[index].moduleDescription;
 		var displayedText = descriptionText.substring(0,100);
-		index = 100;
-		while ((index < 115) && (displayedText.charAt(displayedText.length-1) != ' ')) {
-			displayedText += descriptionText.substring(index, index+1);
-			index++;
+		var index2 = 100;
+		while ((index2 < 115) && (displayedText.charAt(displayedText.length-1) != ' ')) {
+			displayedText += descriptionText.substring(index2, index2+1);
+			index2++;
 		}
 		$(".description").text("Description: " + displayedText);
 		$(".preclusion").text("Preclusion: " + modules[index].preclusion);
-
-
+		return true;
 	},
 
 	//Check if there is any module in display

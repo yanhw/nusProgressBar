@@ -2,7 +2,9 @@
 
 var ModuleTable = require("../moduleTable/index.js");
 var ModuleInfo = require("../moduleInfo/index.js");
-var MyPlan = require("../modulePlan/modulePlan.js")
+var ProgressBar = require("../progressBar/index.js");
+var MessageArea = require("../messageArea/index.js");
+var MyPlan = require("../modulePlan/modulePlan.js");
 
 var blocked = false;		//blocked is true when there is pop up windows in display
 
@@ -12,6 +14,7 @@ var AppBody = {
 	run: function(){
 		ModuleInfo.setup();
 		ModuleTable.setup();
+		ProgressBar.setup();
 	},
 
 	//Handle request from listeners.
@@ -154,6 +157,17 @@ var AppBody = {
 				}
 				break;
 
+			//type = module code, data = locked module tile
+			case "selectLockedModule" :
+				if (blocked)
+					return;
+				var isRecorded = ModuleInfo.display(type);
+				if (isRecorded) {
+					ModuleTable.selectLockedModule(type, data);
+				}
+				break;
+
+			//This should not happen, only trigered by spelling mistake
 			default: 
 				alert("unrecorded request!  " + origin);
 		}
