@@ -9,6 +9,7 @@ var ApplicationView = {
 	initialise: function() {
 		drawDefaultModuleInfo.draw();
 		drawEmptyModuleTable.draw();
+		drawDefaultProgressBar.draw();
 	}
 };
 

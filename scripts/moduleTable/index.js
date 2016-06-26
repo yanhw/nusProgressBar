@@ -1,9 +1,12 @@
 'use strict';
 
-var standingByModule;
-var isStandingBy = false;
-var isSelected = false;
-var selectedTile = null;
+var standingByModule;					//module code of standing by module
+var isStandingBy = false;				//flag for if there is any standing by module
+var isSelected = false;					//flag for if module table is in selected mode
+var selectedTile = null;				//tile for selected module
+var selectedLockedTile = null;			//tile for selected locked module
+var numCol = 5;							//number of module tiles displaced per semester
+
 var SelectedModule = require("./view/selectedModule.js");
 
 var moduleTable = {
@@ -14,7 +17,7 @@ var moduleTable = {
 				var AppBody = require("../common/index.js");
 				AppBody.request("addModuleToTile", this, standingByModule);
 			}
-			else{		//This should not happen
+			else{		//This should not happen, debug if you see this!
 				alert("active-module-tile is present without isStandingBy!");
 			}
 		});
@@ -42,6 +45,13 @@ var moduleTable = {
 		$("#module-table").on("click", ".free-to-swap-module-tile", function() {
 			var AppBody = require("../common/index.js");
 			AppBody.request("swapToOccupiedTile", selectedTile, this);
+		});
+
+		//Click on locked module tile
+		$("#module-table").on("click", ".locked-module-tile", function() {
+			var moduleCode = $(this).html();
+			var AppBody = require("../common/index.js");
+			AppBody.request("selectLockedModule", moduleCode, this);
 		});
 	},
 
@@ -121,7 +131,16 @@ var moduleTable = {
 	buildChildrenBlock: function(relatives) {
 		var targetSem = $(selectedTile).parent(".semester");
 		targetSem.after("<div class='children-block'></div>");
-		$(".children-block").text(relatives);
+		var lockedModules = relatives.getLockedModules();
+		for (var i = 0; i < lockedModules.length; i++) {
+			$(".children-block").append("<div class='locked-module-tile'>" + lockedModules[i] + "</div>");
+		}
+	},
+
+	//Select a locked module tile
+	selectLockedModule: function(moduleCode, targetTile) {
+		$(targetTile).addClass("selected-locked-module-tile");
+		$(targetTile).removeClass("locked-module-tile");
 	},
 
 	//Return module code of required tile
@@ -161,7 +180,7 @@ var moduleTable = {
 		$(target).addClass("empty-module-tile");
 		$(target).removeClass("occupied-module-tile");
 		$(target).text("");
-	},
+	}
 
 	
 };

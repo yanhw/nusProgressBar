@@ -2,7 +2,7 @@
 
 var ModuleUnit = require("./moduleUnit.js");
 var CheckPrerequisite = require("./checkPrerequisite.js");
-
+var Relatives = require("./relative.js");
 var modules = require("../../data/modules.json");
 var moduleList = require("../../data/moduleList.json");
 
@@ -48,7 +48,9 @@ var modulePlan = {
 
 	//Return other modules that are related to selected module
 	getRelatives: function(moduleCode) {
-		return "a list of modules";
+		var targetModule = getModuleByCode(moduleCode);
+		var relatives = new Relatives(targetModule);
+		return relatives;
 	},
 
 	//Remove a module from module plan. This should be the only point that removes module!
@@ -82,6 +84,15 @@ var modulePlan = {
 		var requirement = getModuleByCode(moduleCode).parsedPrerequisite;
 		var moduleCodeList = getCodeArray(semester);
 		return CheckPrerequisite.check(requirement, moduleCodeList);
+	},
+
+	//Check prerequisite status for all modules in the module table
+	checkAllPrerequisiteStatus: function() {
+		for (var i = 0; i < numOfModules; i++) {
+			var requirement = myModules[i].getParsedPrerequisite();
+			var semester = myModules[i].getSemester();
+			checkPrerequisiteStatus(requirement, semester);
+		}
 	},
 
 	//Change semester of this module
