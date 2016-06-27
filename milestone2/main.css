@@ -1,0 +1,299 @@
+#selector-head {
+    background-color: white;
+}
+
+#primary-plan {
+
+}
+
+
+#progress-bar {
+/*	background-color: blue;*/
+	height: 120px;
+}
+
+#the-progress-bar {
+	height: 118px;
+    width: 750px;
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	z-index: -1;
+}
+
+.visible-list {
+	border-style: double;
+	width: 100px;
+	height: 100px;
+	text-align: center;
+	margin-top: 9px;
+	display: inline-block;
+}
+
+.module-list-1 {
+	background-color: lightpink;
+}
+
+.module-list-2 {
+	background-color: salmon;
+}
+
+.module-list-3 {
+	background-color: hotpink;
+}
+
+.module-list-4 {
+	background-color: deeppink;
+}
+
+.module-list-5 {
+	background-color: wheat;
+}
+
+.module-list-6 {
+	background-color: moccasin;
+}
+
+.module-list-7 {
+	background-color: papayawhip;
+}
+
+#module-table {
+/*	background-color: yellow;   */
+}
+
+.module-search-bar {
+	
+}
+
+.logo {
+	height: 120px;
+}
+
+#logo-image {
+	height: 120px;
+}
+
+#module-info {
+	border-right: dotted;
+	border-right-color: gray;
+}
+
+.desciption-block {
+	width: 100%;
+}
+
+#show-more {
+	position: relative;
+    bottom:0;
+    right:0;
+}
+
+.pre-requisite-tree {
+	border-style: double;
+	height: 200px;
+	text-orientation: center;
+}
+
+.selected-module-tile {
+	background-color: red;
+}
+
+.pre-requisite-module-tile {
+	border-color: red;
+}
+
+.free-to-swap-module-tile {
+	border-color: gold;
+	background-color: brown;   /*The same as .occupied-module-tile */
+}
+
+.occupied-module-tile {
+	background-color: tomato;
+	border-color: lightgray;
+}
+
+.active-module-tile {
+	background-color: green;
+}
+
+/*This should be the same as .active-module-tile  */
+.avaliable-to-replace-module-tile {
+	background-color: springgreen;
+	border-color: lightgray;
+}
+
+.empty-module-tile {
+	border-color: lightgray;
+}
+
+.module-tile {
+	border-style: solid;
+	display: inline-block;
+	height: 60px;
+	width: 120px;
+	vertical-align:top;
+	border-radius: 10px;
+	font-family: lucida;
+}
+
+.children-block {
+	/*height: 120px;*/
+	text-align: center;
+}
+
+.locked-module-tile {
+	height: 56px;
+	width: 116px;
+	border-style: solid;
+	border-color: gold;
+	display: inline-block;
+}
+
+.selected-locked-module-tile {
+	height: 56px;
+	width: 116px;
+	border-style: solid;
+	border-color: black;
+	display: inline-block;
+}
+
+.semester {
+	height: 63px;
+}
+
+.semester-head {
+	display: inline-block;
+	height: 60px;
+	width: 80px;
+	vertical-align:top;
+	border-style: solid;
+	text-align: center;
+	font-size:   13pt;
+    line-height: 14pt; 
+    margin-right: 15px;
+    background-color: lightgray;
+    border-color: darkgray;
+    border-radius: 5px;
+}
+
+.inline {
+	display: inline-block;
+}
+
+
+/*For typeahead dropdown*/
+
+.tt-input, /* UPDATE: newer versions use tt-input instead of tt-query */
+.tt-hint {
+    width: 396px;
+    height: 30px;
+    padding: 8px 12px;
+    font-size: 24px;
+    line-height: 30px;
+    border: 2px solid #ccc;
+    border-radius: 8px;
+    outline: none;
+}
+
+.tt-input { /* UPDATE: newer versions use tt-input instead of tt-query */
+    box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+}
+
+.tt-hint {
+    color: #999;
+}
+
+.tt-menu { /* UPDATE: newer versions use tt-menu instead of tt-dropdown-menu */
+    width: 422px;
+    margin-top: 12px;
+    padding: 8px 0;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border: 1px solid rgba(0, 0, 0, 0.2);
+    border-radius: 8px;
+    box-shadow: 0 5px 10px rgba(0,0,0,.2);
+}
+
+.tt-suggestion {
+    padding: 3px 20px;
+    font-size: 18px;
+    line-height: 24px;
+}
+
+.tt-suggestion.tt-cursor { /* UPDATE: newer versions use .tt-suggestion.tt-cursor */
+    color: #fff;
+    background-color: #0097cf;
+
+}
+
+.tt-suggestion p {
+    margin: 0;
+}
+
+/*End of typeahead dropdown */
+
+
+/*For pop-up windows*/
+/*http://inspirationalpixels.com/tutorials/custom-popup-modal*/
+/* Outer */
+.popup {
+    width:100%;
+    height:100%;
+    display:none;
+    position:fixed;
+    top:0px;
+    left:0px;
+    background:rgba(0,0,0,0.75);
+    z-index: 999;
+}
+ 
+/* Inner */
+.popup-inner {
+    max-width:700px;
+    width:90%;
+    padding:40px;
+    position:absolute;
+    top:50%;
+    left:50%;
+    -webkit-transform:translate(-50%, -50%);
+    transform:translate(-50%, -50%);
+    box-shadow:0px 2px 6px rgba(0,0,0,1);
+    border-radius:3px;
+    background:#fff;
+}
+ 
+/* Close Button */
+.popup-close {
+    width:30px;
+    height:30px;
+    padding-top:4px;
+    display:inline-block;
+    position:absolute;
+    top:0px;
+    right:0px;
+    transition:ease 0.25s all;
+    -webkit-transform:translate(50%, -50%);
+    transform:translate(50%, -50%);
+    border-radius:1000px;
+    background:rgba(0,0,0,0.8);
+    font-family:Arial, Sans-Serif;
+    font-size:20px;
+    text-align:center;
+    line-height:100%;
+    color:#fff;
+}
+ 
+.popup-close:hover {
+    -webkit-transform:translate(50%, -50%) rotate(180deg);
+    transform:translate(50%, -50%) rotate(180deg);
+    background:rgba(0,0,0,1);
+    text-decoration:none;
+}
+/*End of pop-up windows*/
+
+.scrollable-menu {
+    height: auto;
+    max-height: 200px;
+    overflow-x: hidden;
+}
