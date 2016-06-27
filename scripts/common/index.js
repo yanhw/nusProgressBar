@@ -1,10 +1,13 @@
 'use strict';
 
+var ChooseProgramme = require("./chooseProgramme.js");
 var ModuleTable = require("../moduleTable/index.js");
 var ModuleInfo = require("../moduleInfo/index.js");
 var ProgressBar = require("../progressBar/index.js");
 var MessageArea = require("../messageArea/index.js");
 var MyPlan = require("../modulePlan/modulePlan.js");
+
+var AppliedMath = require("../../data/Bachelor of Science (Applied Mathematics).json");
 
 var blocked = false;		//blocked is true when there is pop up windows in display
 
@@ -14,12 +17,26 @@ var AppBody = {
 	run: function(){
 		ModuleInfo.setup();
 		ModuleTable.setup();
-		ProgressBar.setup();
+		ChooseProgramme.setup();
+		// ProgressBar.setup(programme);
 	},
 
 	//Handle request from listeners.
 	request: function(origin, type, data) {
 		switch(origin) {
+
+			//type = null, data = programme name
+			case "saveProgramme" :
+				var programme;
+				for (var i = 0; i < 3; i++) {				
+				// for (var i = 0; i < AppliedMath.specialisations.size(); i++) {
+
+					if (AppliedMath.specialisations[i].specialisationName === data)
+						programme = AppliedMath.specialisations[i].lists;
+				}
+				ProgressBar.setup(programme);
+				MyPlan.saveProgramme(programme);
+				break;
 
 			//type = "select", data = moduleCode
 			case "moduleSearchBox" :
@@ -92,8 +109,8 @@ var AppBody = {
 					return;			
 				ModuleTable.removeStandby();
 				var semester = ModuleTable.getSemesterByTile(type);
-				ModuleTable.addModule(type, data);
-				MyPlan.add(data,semester);
+				var tileClass = MyPlan.add(data,semester);
+				ModuleTable.addModule(type, data, tileClass);
 				ModuleInfo.setButton("Remove");
 				var fulfilledPrerequisite = MyPlan.checkPrerequisiteStatus(data, semester);
 				if (!fulfilledPrerequisite) {
@@ -161,10 +178,24 @@ var AppBody = {
 			case "selectLockedModule" :
 				if (blocked)
 					return;
+
+				ModuleTable.recoverLockedModule();
 				var isRecorded = ModuleInfo.display(type);
+				var isInsidePlan = MyPlan.isInsidePlan(type);
+				if (!isInsidePlan)
+					ModuleInfo.setButton("Add");
 				if (isRecorded) {
 					ModuleTable.selectLockedModule(type, data);
 				}
+				break;
+
+			//type = selected module code, data = selected locked module tile
+			case "recoverLockedModule" :
+				if (blocked)
+					return;
+				ModuleTable.recoverLockedModule();
+				ModuleInfo.setButton("Remove");
+				ModuleInfo.display(type);
 				break;
 
 			//This should not happen, only trigered by spelling mistake
