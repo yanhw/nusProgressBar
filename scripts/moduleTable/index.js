@@ -53,6 +53,12 @@ var moduleTable = {
 			var AppBody = require("../common/index.js");
 			AppBody.request("selectLockedModule", moduleCode, this);
 		});
+
+		//Click on selected locked module tile
+		$("#module-table").on("click", ".selected-locked-module-tile", function() {
+			var AppBody = require("../common/index.js");
+			AppBody.request("recoverLockedModule", $(selectedTile).html(), this);
+		});
 	},
 
 	//Stand by to add a given module
@@ -132,6 +138,7 @@ var moduleTable = {
 		var targetSem = $(selectedTile).parent(".semester");
 		targetSem.after("<div class='children-block'></div>");
 		var lockedModules = relatives.getLockedModules();
+		$(".children-block").css("height", (lockedModules/7+1)*60);
 		for (var i = 0; i < lockedModules.length; i++) {
 			$(".children-block").append("<div class='locked-module-tile'>" + lockedModules[i] + "</div>");
 		}
@@ -141,6 +148,15 @@ var moduleTable = {
 	selectLockedModule: function(moduleCode, targetTile) {
 		$(targetTile).addClass("selected-locked-module-tile");
 		$(targetTile).removeClass("locked-module-tile");
+	},
+
+	//Remove selection on a locked module tile
+	recoverLockedModule: function() {
+
+		$(".selected-module-tile").each(function (){
+			$(".selected-locked-module-tile").addClass("locked-module-tile");
+			$(".selected-locked-module-tile").removeClass("selected-locked-module-tile");
+		});
 	},
 
 	//Return module code of required tile
@@ -168,7 +184,7 @@ var moduleTable = {
 	},
 	
 	//This adds a module to target tile
-	addModule: function(target, moduleCode) {
+	addModule: function(target, moduleCode, tileClass) {
 		$(target).addClass("occupied-module-tile");
 		$(target).removeClass("empty-module-tile");
 		$(target).text(moduleCode);

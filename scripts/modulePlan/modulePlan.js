@@ -6,7 +6,7 @@ var Relatives = require("./relative.js");
 var modules = require("../../data/modules.json");
 var moduleList = require("../../data/moduleList.json");
 
-
+var myProgramme;
 var myModules = [];			//List of modules inside module table
 var year;					//Year of matric
 var programmes = [];		//List of programmes chosen
@@ -44,6 +44,8 @@ var modulePlan = {
 			myModules.push(moduleToAdd);
 		numOfModules++;
 		console.log(numOfModules);
+		$("#the-progress-bar").val(numOfModules*100/40);
+		return "module-list-1";
 	},
 
 	//Return other modules that are related to selected module
@@ -99,6 +101,11 @@ var modulePlan = {
 	changeSemester: function(moduleCode, semester) {
 		var thisModule = getModuleUnitByCode(moduleCode);
 		thisModule.setSemester(semester);
+	},
+
+	//Saves the programme
+	saveProgramme: function(programme) {
+		myProgramme = programme;
 	}
 };
 

@@ -1,3 +1,7 @@
+#selector-head {
+    background-color: white;
+}
+
 #primary-plan {
 
 }
@@ -10,6 +14,7 @@
 
 #the-progress-bar {
 	height: 118px;
+    width: 750px;
 	position: absolute;
 	left: 0px;
 	top: 0px;
@@ -133,7 +138,7 @@
 }
 
 .children-block {
-	height: 120px;
+	/*height: 120px;*/
 	text-align: center;
 }
 

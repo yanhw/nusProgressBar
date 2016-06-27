@@ -91,6 +91,7 @@ var moduleInfo = {
 			index2++;
 		}
 		$(".description").text("Description: " + displayedText);
+		$(".pre-requisites").text("Prerequisites: " + modules[index].prerequisite);
 		$(".preclusion").text("Preclusion: " + modules[index].preclusion);
 		return true;
 	},
