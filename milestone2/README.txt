@@ -1,0 +1,1 @@
+This is a special edition for milestone 2. It merged html files so that the page can run without a server.Keep these files in the same folder and double click index.html to run the application.
