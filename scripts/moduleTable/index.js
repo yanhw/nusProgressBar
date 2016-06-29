@@ -188,6 +188,7 @@ var moduleTable = {
 		$(target).addClass("occupied-module-tile");
 		$(target).removeClass("empty-module-tile");
 		$(target).text(moduleCode);
+		refresh();
 	},
 
 	//This removes a module from target tile
@@ -196,9 +197,54 @@ var moduleTable = {
 		$(target).addClass("empty-module-tile");
 		$(target).removeClass("occupied-module-tile");
 		$(target).text("");
+		refresh();
 	}
 
 	
 };
+
+function refresh () {
+	var maxCount = 0;
+	$(".semester").each(function() {
+		var count = 0;
+		$(this).children(".occupied-module-tile").each(function() {
+			count++;
+		});
+		if (count > maxCount)
+			maxCount = count;
+	});
+
+	if (maxCount === numCol) {  //">=" should work
+		addCol();
+		return;
+	}
+	if ((maxCount < numCol) && (numCol > 6)) {
+		var isFilled = false;
+		$(".last-tile").each(function() {
+			if ($(this).hasClass("occupied-module-tile"))
+				isFilled = ture;
+		});
+		if (!isFilled)
+			removeCol();
+	}
+}
+
+function addCol() {
+	// $(".semester").each(function() {
+	$(".last-tile").each(function() {
+		$(this).removeClass("last-tile");
+	});
+	$(".semester").append("<div class='module-tile last-tile empty-module-tile'>");
+	// });
+	numCol++;
+}
+
+function removeCol() {
+	 $(".last-tile").remove();
+	 $(".semester").each(function() {	
+		$(this).children().last().addClass("last-tile")
+	});
+	numCol--;
+}
 
 module.exports = moduleTable;
