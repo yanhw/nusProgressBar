@@ -188,7 +188,7 @@ var moduleTable = {
 		$(target).addClass("occupied-module-tile");
 		$(target).removeClass("empty-module-tile");
 		$(target).text(moduleCode);
-		refresh();
+
 	},
 
 	//This removes a module from target tile
@@ -197,42 +197,52 @@ var moduleTable = {
 		$(target).addClass("empty-module-tile");
 		$(target).removeClass("occupied-module-tile");
 		$(target).text("");
-		refresh();
-	}
 
-	
+	},
+
+	refresh: function () {
+		var maxCount = 0;
+		$(".semester").each(function() {
+			var count = 0;
+			$(this).children(".occupied-module-tile").each(function() {
+				count++;
+			});
+			if (count > maxCount)
+				maxCount = count;
+		});
+
+		if (maxCount === numCol) {  //">=" should work
+			addCol();
+			return;
+		}
+
+		if ((maxCount < numCol-1) && (numCol > 6)) {
+			var isFilled = false;
+			var index = 0;
+			$(".semester").each(function() {
+				index = 0;
+				$(this).children(".module-tile").each(function() {
+					if ((index >= (numCol-2)) && ($(this).hasClass("occupied-module-tile")))
+						isFilled = true;
+					index++;
+				});
+			});
+			if (!isFilled)
+				removeCol();
+		}
+	}
 };
 
-function refresh () {
-	var maxCount = 0;
-	$(".semester").each(function() {
-		var count = 0;
-		$(this).children(".occupied-module-tile").each(function() {
-			count++;
-		});
-		if (count > maxCount)
-			maxCount = count;
-	});
 
-	if (maxCount === numCol) {  //">=" should work
-		addCol();
-		return;
-	}
-	if ((maxCount < numCol) && (numCol > 6)) {
-		var isFilled = false;
-		$(".last-tile").each(function() {
-			if ($(this).hasClass("occupied-module-tile"))
-				isFilled = ture;
-		});
-		if (!isFilled)
-			removeCol();
-	}
-}
 
 function addCol() {
 	// $(".semester").each(function() {
+	// $(".second-last-tile").each(function() {
+	// 	$(this).removeClass("second-last-tile");
+	// });
 	$(".last-tile").each(function() {
 		$(this).removeClass("last-tile");
+		// $(this).addClass("second-last-tile");
 	});
 	$(".semester").append("<div class='module-tile last-tile empty-module-tile'>");
 	// });
@@ -240,10 +250,14 @@ function addCol() {
 }
 
 function removeCol() {
-	 $(".last-tile").remove();
-	 $(".semester").each(function() {	
+	$(".last-tile").remove();
+	$(".semester").each(function() {
 		$(this).children().last().addClass("last-tile")
 	});
+	// $(".module-tile").each(function() {
+	// 	if ($(this).is(":nth-last-child(2)"))
+	// 		$(this.addClass("second-last-tile"));
+	// });
 	numCol--;
 }
 

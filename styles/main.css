@@ -60,6 +60,7 @@
 
 #module-table {
 /*	background-color: yellow;   */
+    overflow: scroll;
 }
 
 .module-search-bar {
