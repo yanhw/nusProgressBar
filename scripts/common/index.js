@@ -82,6 +82,7 @@ var AppBody = {
 					if (ModuleTable.hasSelected())
 						ModuleTable.removeSelection(target);
 					ModuleTable.removeModule(target);
+					ModuleTable.refresh();
 					ModuleInfo.setButton("Add");
 				}
 				break;
@@ -111,6 +112,7 @@ var AppBody = {
 				var semester = ModuleTable.getSemesterByTile(type);
 				var tileClass = MyPlan.add(data,semester);
 				ModuleTable.addModule(type, data, tileClass);
+				ModuleTable.refresh();
 				ModuleInfo.setButton("Remove");
 				var fulfilledPrerequisite = MyPlan.checkPrerequisiteStatus(data, semester);
 				if (!fulfilledPrerequisite) {
@@ -142,7 +144,8 @@ var AppBody = {
 				var moduleCode = ModuleTable.getCodeByTile(type);
 				ModuleTable.removeSelection(type);
 				ModuleTable.removeModule(type);
-				ModuleTable.addModule(data, moduleCode);
+				ModuleTable.addModule(data, moduleCode);		
+				ModuleTable.refresh();		
 				var semester = ModuleTable.getSemesterByTile(data);
 				MyPlan.changeSemester(moduleCode, semester);
 				var fulfilledPrerequisite = MyPlan.checkPrerequisiteStatus(moduleCode, semester);
