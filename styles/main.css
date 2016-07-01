@@ -60,7 +60,7 @@
 
 #module-table {
 /*	background-color: yellow;   */
-    overflow: scroll;
+    overflow: auto;
 }
 
 .module-search-bar {
@@ -161,6 +161,7 @@
 
 .semester {
 	height: 63px;
+    white-space: nowrap;
 }
 
 .semester-head {
@@ -176,6 +177,13 @@
     background-color: lightgray;
     border-color: darkgray;
     border-radius: 5px;
+    /*line-height: 20px;*/
+}
+
+.semester-head p {
+    /*display: inline-block;*/
+    vertical-align: middle;
+    line-height: 85%; 
 }
 
 .inline {
