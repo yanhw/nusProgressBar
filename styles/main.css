@@ -10,6 +10,15 @@
 #progress-bar {
 /*	background-color: blue;*/
 	height: 120px;
+    display: inline-block;
+}
+
+#button-area {
+    display: inline-block;
+}
+
+.pogramme-selector-area select {
+    width: 400px;
 }
 
 #the-progress-bar {

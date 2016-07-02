@@ -45,6 +45,24 @@
 					<div id="progress-bar">
 						<h2 class="remove-me-progress-bar"> Here is the progress bar. </h2>
 					</div>
+					<div id="button-area">
+						<a class="btn" id="programme-selecter" data-popup-open="popup-programme" href="#">choose programme</a>
+						<div class="popup" data-popup="popup-programme">
+						    <div class="popup-inner" id="programme-selector-area">
+						    	<h5>Choose your faculty</h5>
+						        <select id="faculty-choice"></select>
+						        <h5>Choose your department</h5>
+						        <select id="department-choice"></select>
+						        <h5>Choose your programme</h5>
+						        <select id="programme-choice"></select>
+						        <h5>Choose your specialisationg</h5>
+						        <select id="specialisation-choice"></select>
+						        <button class="btn hide-programme" data-dismiss="modal" aria-hidden="true">Close</button>
+	    						<button class="btn btn-primary" id="save-programme">Save changes</button>
+						        <a class="popup-close hide-programme" id="hide-programme-button" data-popup-close="popup-programme" href="#">x</a>
+						    </div>
+						</div>
+					</div>
 					<div class="message-area">
 						<h6> Here is the message area. (coming soon...) </h6>
 					</div>
@@ -53,21 +71,19 @@
 					</div>
 				</div>
 			</div>
-<!-- 			<div class="col-md-3" id="module-info">
-				<h2 class="remove-me"> Here is the module information. </h2>
-			</div> -->
+
 		</div>
 	</div> 
 	<!-- end main container -->
 
+	<!-- jquery -->
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
 	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.2/js/bootstrap.min.js" integrity="sha384-vZ2WRJMwsjRMW/8U7i6PWi6AlO1L79snBrmgiDpgIWJ82z8eA5lenwvxbMV1PAh7" crossorigin="anonymous"></script>
 
+	<!-- typeahead -->
 	<script src="libs/typeahead.bundle.js"></script>
 
-	<!--<script data-main="scripts/main" src="scripts/common/require.js"></script>-->
-	
-	<!--<script src='./scripts/common/require.js'></script>-->
+	<!-- main js -->
 	<script src="bundle.js" type="text/javascript"></script>
 </body>
 </html>
