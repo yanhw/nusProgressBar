@@ -1,0 +1,180 @@
+title: Bachelor of Science (Applied Mathematics)
+type: degree programme
+AY: 2015
+Updated: 02/07/2015
+Link: abc
+specialization-list: NIL, default; Mathematical Modelling and Data Analytics, MMDA; operations Research and Financial Mathematics, ORFM
+restriction: {cap,1,[MA2288,MA2289,MA3288,MA3289];}
++
+list-type: default, visible
+list-name: Level 1000
+list-size: 5
+list-requirement: 5
+list-content: {List I,3;List I,3;List I,3;List I,3;L1_sub2,3;}
++
+list-type: default, visible
+list-name: Level 2000
+list-size: 5
+list-requirement: 5
+list-content: {L2_sub1,3;L2_sub2,3;L2_sub3,3;MA2213,1;L2_sub4,3;}
++
+list-type: default, visible
+list-name: Level 3000
+list-size: 6
+list-requirement: 6
+list-content: {L3_sub1,3;L3_sub2,3;List AM3,3;List AM3,3;L3_sub3,3;L3_sub3,3;}
++
+list-type: default,visible
+list-name: Level 4000
+list-size: 7
+list-requirement: 7
+list-content: {MA4199,1;List AM4,2;List AM4,2;List AM4,2;List AM4,2;List IV,2;List IV,2;}
++
+list-type: default
+list-name: listI
+list-size:4
+list-requirement: 1
+list-content: {listI_sublist,3; MA1101R,1;MA1102R,1;MA1104,1;}
++
+list-type: default
+list-name: listI_sub1
+list-size: 2
+list-requirement: 1
+list-content: {MA1100,2;CS1231,2;}
++
+list-type: default
+list-name: L1_sub2 
+list-size: 4
+list-requirement: 1
+list-content: {CS1010,2;CS1010E,2;CS1010S,2;CS1010FC,2;}
++
+list-type: default
+list-name: L2_sub1
+list-size: 2
+list-requirement: 1
+list-content: {MA2101,2;MA2101S,2;}
++
+list-type: default
+list-name: L2_sub2
+list-size: 2
+list-requirement: 1
+list-content: {MA2108,2;MA2108S,2;}
++
+list-type: default
+list-name: L2_sub3
+list-size: 2
+list-requirement: 1
+list-content: {MA2216,2;ST2131,2;}
++
+list-type: default
+list-name: L2-sub4
+list-size: 3
+list-requirement: 1
+list-content: {List II,3;List III,3;List IV,3;} 
++
+list-type: default
+list-name: L3_sub1
+list-size: 2
+list-requirement: 1
+list-content: {MA3110, 2;MA3110S,2;}
++
+list-type: default
+list-name: L3_sub2
+list-size: 2
+list-requirement:1
+list-content: {MA3111, 2;MA3111S,2;}
++
+list-type: default
+list-name: L3_sub3
+list-size: 2
+list-requirement: 1
+list-content: {List III,3;List IV,3;}
++
+list-type: default
+list-name: List II
+list-size: 4
+list-requirement: 1
+list-content: {MA2***,4;PS2130,2;PS2132,2;ST2132,2;}+
+exclude: {MA2***,MA23**,4;}
++
+list-type: default
+list-name: List III
+list-size: 11
+list-requirement: 1
+list-content: {MA3***,4;CS3230,2;CS4232,2;CS3234,2;EC3101,2;EC3303,2;PC3130,2;PC3236,2;PC3238,2;ST3131,2;ST3236,2;}+
+exclude: {MA3***,MA3311,1;MA3***,MA3312,1;}
++
+list-type: default
+list-name: List IV
+list-size: 10
+list-requirement: 10
+list-content: {MA4***,5;CS4236,2;CS5230,2;CS5237,2;EC4301,2;EC5104,2;PC4248,2;PC4274,2;ST4238,2;ST4245,2;}
++
+list-type: default
+list-name: List AM3
+list-size: 3
+list-requirement: 1
+list-content: {AM3-General,3;AM3-MMDA,3;AM3-ORFM,3;}
++
+list-type: default
+list-name: AM3-General
+list-size: 3
+list-requirement: 1
+list-content: {MA3209,2;MA3218,2;MA3220,2;}
++
+list-type: default
+list-name: AM3-MMDA
+list-size: 4
+list-requirement: 1
+list-content: {MA3227,2;MA3233,2;MA3264,2;ST3131,2;}
++
+list-type: default
+list-name: AM3-ORFM
+list-size: 4
+list-requirement: 1
+list-content: {MA3236,2;MA3252,2;MA3269,2;ST3131,2;}
++
+list-type: default
+list-name: List AM4
+list-size: 3
+list-requirement: 1
+list-content: {AM4-General,3;AM4-MMDA,3;AM4-ORFM,3;}
++
+list-type: default
+list-name: AM4-General
+list-size: 4
+list-requirement:1
+list-content: {MA4211,2; MA4221,2; MA4235,2; MA4261,2;}
++
+list-type: default
+list-name: AM4-MMDA
+list-size: 6
+list-requirement:1
+list-content: {MA4229,2; MA4230,2; MA4255,2; MA4268,2; MA4270,2; MA4272,2;}
++
+list-type: default
+list-name: AM4-ORFM
+list-size: 5
+list-requirement:1
+list-content: {MA4254,2; MA4260,2; MA4264,2; MA4269,2; ST4245,2;}
+
+list-type: MMDA
+list-name: mmda list
+list-size: 6
+list-requirement: 6
+list-content: {AM3-MMDA,3;AM3-MMDA,3;AM4-MMDA,3;AM4-MMDA,3;AM4-MMDA,3;AM4-MMDA,3;}
+
+list-type: ORFM
+list-name: orfm list
+list-size: 6
+list-requirement: 6
+list-content: {AM3-ORFM,3;AM3-ORFM,3;AM4-ORFM,3;AM4-ORFM,3;AM4-ORFM,3;AM4-ORFM,3;}
+
+
+Type:
+1.	Essential
+2.	Optional
+3.	List
+4.	All modules in the level e.g. MA3***, CS21**
+5.	All modules in the level or higher
+
