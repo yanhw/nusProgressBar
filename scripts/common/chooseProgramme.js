@@ -6,6 +6,9 @@ var ChooseProgramme = {
 	//Add event listeners
 	setup : function() {
 
+		//Load year of admission
+		
+
 		//Load faculty choices
 		var facultyList = [];
 		for (var i = 0; i < ProgrammeList.length; i++) {
@@ -30,6 +33,8 @@ var ChooseProgramme = {
         	$('[data-popup="' + targeted_popup_class + '"]').fadeOut(350);
 		});
 
+		//Choose your faculty
+		$("#")
 		//Choose your programme
 		$("#save-programme").on("click", function(){
 			var AppBody = require("./index.js");
