@@ -5,6 +5,7 @@ var CheckPrerequisite = require("./checkPrerequisite.js");
 var Relatives = require("./relative.js");
 var modules = require("../../data/modules.json");
 var moduleList = require("../../data/moduleList.json");
+var Message = require("../common/message.js");
 
 var myProgramme;
 var myModules = [];			//List of modules inside module table
@@ -25,7 +26,7 @@ var modulePlan = {
 //			console.log(myModules[i].moduleCode);
 		}
 		if (isInsidePlan) {	
-			alert(moduleCode + "is already inside your plan");
+			// alert(moduleCode + "is already inside your plan");
 			return true;
 		}
 		else {
@@ -74,7 +75,7 @@ var modulePlan = {
 		for (var i = 0; i < targetModule.preclusionList.length; i++) {
 			for (var j = 0; j < numOfModules; j++) {
 				if (targetModule.preclusionList[i] === myModules[j].getModuleCode())
-					notPrecluded = false;
+					notPrecluded = new Message("warning", "You cannot add this module because it is precluded by " + myModules[j].getModuleCode(), moduleCode);
 			}
 		}
 

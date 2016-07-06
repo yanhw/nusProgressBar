@@ -44,8 +44,12 @@ var AppBody = {
 					return;
 				console.log("search request recieved " + data);
 				ModuleInfo.display(data);
-				if (MyPlan.isInsidePlan(data))
+				if (MyPlan.isInsidePlan(data)) {
 					ModuleInfo.setButton("Remove");
+					var target = ModuleTable.getTileByCode(data);
+					var relatives = MyPlan.getRelatives(data);
+					ModuleTable.select(target, relatives);
+				}
 				else {
 					ModuleInfo.setButton("Add");
 					if (ModuleTable.hasSelected()) {
@@ -68,11 +72,11 @@ var AppBody = {
 						}
 						var isInsidePlan = MyPlan.isInsidePlan(data);
 						var notPrecluded = MyPlan.checkPreclusion(data);
-						if ((!isInsidePlan) && (notPrecluded)) {     		//isInsidePlan should always be false, to be removed in the future
+						if ((!isInsidePlan) && (notPrecluded === true)) {     		//isInsidePlan should always be false, to be removed in the future
 							ModuleTable.standby(data);
 						}
-						if (!notPrecluded) {
-							alert("You cannot add " + data + " because it is precluded!");
+						if (notPrecluded !== true) {
+							MessageArea.add(notPrecluded);
 						}
 					}	
 				}
