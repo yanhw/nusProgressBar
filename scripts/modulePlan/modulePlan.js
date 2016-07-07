@@ -86,7 +86,11 @@ var modulePlan = {
 	checkPrerequisiteStatus: function (moduleCode, semester) {
 		var requirement = getModuleByCode(moduleCode).parsedPrerequisite;
 		var moduleCodeList = getCodeArray(semester);
-		return CheckPrerequisite.check(requirement, moduleCodeList);
+		var result = CheckPrerequisite.check(requirement, moduleCodeList);
+		if (result === true)
+			return result;
+		else 
+			return new Message("error", "You have not fullfilled prerequisite of" + moduleCode);
 	},
 
 	//Check prerequisite status for all modules in the module table

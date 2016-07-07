@@ -17,7 +17,8 @@ public class Programme {
 	private LinkedList<ModuleList> lists;
 	
 	private LinkedList<String> specialisations;
-	private LinkedList<String> outputStrings;
+	private LinkedList<String> specialisationStrings;
+	private String mainOutput;
 	
 	public Programme(String filename, LinkedList<String> modules) {
 		this.modules = modules;
@@ -66,84 +67,110 @@ public class Programme {
 	        System.out.println("File read error for (" + filename + ")! ");
 	        e.printStackTrace();
 	    }
-		outputStrings = new LinkedList<String>();
+		specialisationStrings = new LinkedList<String>();
 	}
 	
 	public void edit() {
-		for (int i = 0; i < specialisations.size(); i++) {
-			String output = "{ \"specialisationName\" : \"" + specialisations.get(i) + "\",";
-			i++;
-			output += "\"lists\" : [";
-			String target = specialisations.get(i);
-			int count = 0;
-			LinkedList<String> visibletemp = new LinkedList<String>();
-			
-			for (ModuleList list: lists) {
-				LinkedList<String> types = list.getTypes();
-				boolean isVisible = false;
-				boolean isTargeted = false;
-				for (int j = 0; j < types.size(); j++) {
-					if (types.get(j).equals("visible"))
-						isVisible = true;
-					if (types.get(j).equals(target))
-						isTargeted = true;
-				}
-				if (isVisible && isTargeted) {
-					String listname = list.getName();
-					visibletemp.add(listname);
-					output += "{\"listName\":\"";
-					output += listname;
-					output += "\",";
-					output += "\"requirement\":" + list.getRequirement() + ",";
-					output += "\"list\":{";
-					output += "\"and\":[";
-					String listContent = createList(list, target);
-					output += listContent;
-					output +="]";
-					output += "},";
-					
-					String tempString = "\"nonRepeatList\":[";
-					LinkedList<String>tempList = new LinkedList<String>();
-					String[] moduleArray = listContent.split("\"");
-					for (int x = 0; x < moduleArray.length; x++)
-						if (isModule(moduleArray[x])) {
-							boolean isRepeated = false;
-							for (int k = 0; k < tempList.size(); k++)
-								if (moduleArray[x].equals(tempList.get(k)))
-									isRepeated = true;
-							if (!isRepeated)
-								tempList.add(moduleArray[x]);
-						}
-					for (int y = 0; y < tempList.size(); y++) {
-						tempString += "\"" + tempList.get(y) + "\"";
-						if (y < tempList.size()-1)
-							tempString += ",";
-					}
-					tempString += "]";
-					output += tempString;
-					
-					output += "}";
-					count++;
-					if (count < 4)
-						output += ",";
-				}
+		String output = "\"mainList\":[";
+		String target = "default";
+		int count = 0;
+		LinkedList<String> visibletemp = new LinkedList<String>();
+		
+		for (ModuleList list: lists) {
+			LinkedList<String> types = list.getTypes();
+			boolean isVisible = false;
+			boolean isTargeted = false;
+			for (int j = 0; j < types.size(); j++) {
+				if (types.get(j).equals("visible"))
+					isVisible = true;
+				if (types.get(j).equals(target))
+					isTargeted = true;
 			}
-			output += "],";
-			
-			output += "\"visibleLists\":[";
-			for (int z = 0; z < visibletemp.size(); z++) {
-				output += "\"" + visibletemp.get(z) + "\"";
-				if (z < visibletemp.size()-1)
+			if (isVisible && isTargeted) {
+				String listname = list.getName();
+				visibletemp.add(listname);
+				output += "{\"listName\":\"";
+				output += listname;
+				output += "\",";
+				output += "\"requirement\":" + list.getRequirement() + ",";
+				output += "\"list\":{";
+				output += "\"and\":[";
+				String listContent = createList(list, target);
+				output += listContent;
+				output +="]";
+				output += "},";
+				
+				String tempString = "\"nonRepeatList\":[";
+				LinkedList<String>tempList = new LinkedList<String>();
+				String[] moduleArray = listContent.split("\"");
+				for (int x = 0; x < moduleArray.length; x++)
+					if (isModule(moduleArray[x])) {
+						boolean isRepeated = false;
+						for (int k = 0; k < tempList.size(); k++)
+							if (moduleArray[x].equals(tempList.get(k)))
+								isRepeated = true;
+						if (!isRepeated)
+							tempList.add(moduleArray[x]);
+					}
+				for (int y = 0; y < tempList.size(); y++) {
+					tempString += "\"" + tempList.get(y) + "\"";
+					if (y < tempList.size()-1)
+						tempString += ",";
+				}
+				tempString += "]";
+				output += tempString;
+				
+				output += "}";
+				count++;
+				if (count < 4)
 					output += ",";
 			}
-			output += "]";
-			
-//			output += tempString;
-			output += "}";
-			outputStrings.add(output);
+		}
+		output += "],";
 		
+		output += "\"visibleLists\":[";
+		for (int z = 0; z < visibletemp.size(); z++) {
+			output += "\"" + visibletemp.get(z) + "\"";
+			if (z < visibletemp.size()-1)
+				output += ",";
+		}
+		output += "]";
 			
-//			nonRepeatModules.add(tempString);
+//			output += tempString		
+		mainOutput = output;
+		
+		for(int i = 0; i < specialisations.size(); i++) {
+			if (specialisations.get(i).equals("nil"))
+				i += 2;
+			if (i+1 >= specialisations.size())
+				break;
+			String targetName =  specialisations.get(i);
+			i++;
+			target = specialisations.get(i);
+			for (ModuleList list: lists) {
+				LinkedList<String> types = list.getTypes();
+				boolean isTargeted = false;
+				for (int j = 0; j < types.size(); j++) 
+					if (types.get(j).equals(target))
+						isTargeted = true;
+				if (isTargeted) {
+					String temp = "";
+//					String listname = list.getName();
+					temp += "{\"name\":\"";
+					temp += targetName;
+					temp += "\",";
+					temp += "\"requirement\":" + list.getRequirement() + ",";
+					temp += "\"list\":{";
+					temp += "\"and\":[";
+					String listContent = createList(list, "true");
+					temp += listContent;
+					temp +="]";
+					temp += "}}";
+					specialisationStrings.add(temp);
+				}
+			}
+					
+
 		}
 	}
 	
@@ -152,7 +179,7 @@ public class Programme {
 		LinkedList<String> listString = new LinkedList<String>();
 		for (int i = 0; i < list.getListSize(); i++) {
 			if ((list.getItem(i).getType() == 1) || (list.getItem(i).getType() == 2)) {
-				listString.add("\"" + list.getItem(i).getName() + "\"");
+				listString.add("{\"code\":\"" + list.getItem(i).getName() + "\",\"flag\":false}");
 			}
 			else if (list.getItem(i).getType() == 3) {
 				String value = createType3(list.getItem(i).getName(), target);
@@ -182,9 +209,10 @@ public class Programme {
 				target = list;
 		}
 		boolean isCorrect = false;
+		System.out.println(input);
 		LinkedList<String> listType = target.getTypes();
 		for (int i = 0; i < listType.size(); i++) {
-			if (listType.get(i).equals(specialisation))
+			if (listType.get(i).equals(specialisation) || specialisation.equals("true"))
 				isCorrect = true;
 		}
 		if (!isCorrect)
@@ -214,13 +242,6 @@ public class Programme {
 		return output;
 	}
 	
-	private boolean isModule(String input) {
-		for (int i = 0; i < input.length(); i++)
-			if (!(Character.isUpperCase(input.charAt(i))||Character.isDigit(input.charAt(i))))
-				return false;
-		return true;
-	}
-	
 	private String createType5(String input) {
 		String output = "";
 		String target = "";
@@ -243,8 +264,17 @@ public class Programme {
 		return output;
 	}
 	
+	private boolean isModule(String input) {
+		if (input.length() == 0)
+			return false;
+		for (int i = 0; i < input.length(); i++)
+			if (!(Character.isUpperCase(input.charAt(i))||Character.isDigit(input.charAt(i))))
+				return false;
+		return true;
+	}
+	
 	public void generateJSON() {
-		String filename = name + ".json";;
+		String filename = Integer.toString(AY) + name + ".json";;
 		PrintWriter writer;
 		try {
 			writer = new PrintWriter(filename, "UTF-8");
@@ -265,12 +295,15 @@ public class Programme {
 			//print link
 			writer.println("\"link\":\"" + link + "\",");
 			
+			//print mainoutput
+			writer.println(mainOutput + ",");
+			
 			//print specialisations
 			writer.println("\"specialisations\":");
 			writer.print("[");
-			for (int i = 0; i < outputStrings.size(); i++) {
-				writer.println(outputStrings.get(i));
-				if (i < outputStrings.size()-1)
+			for (int i = 0; i < specialisationStrings.size(); i++) {
+				writer.println(specialisationStrings.get(i));
+				if (i < specialisationStrings.size()-1)
 					writer.print(",");
 			}
 			writer.println("]");

@@ -8,13 +8,20 @@ var messageArea = {
 	},
 
 	add: function(message) {
+		removeOnceOff();
 		console.log("add message");
-		$("#message-area").html(message.getHTML());
+		$("#message-area").append(message.getHTML());
 	},
 
 	display: function(messages) {
 
 	}
 };
+
+function removeOnceOff () {
+	$(".once-off-message").each(function() {
+		$(this).remove();
+	});
+}
 
 module.exports = messageArea;
