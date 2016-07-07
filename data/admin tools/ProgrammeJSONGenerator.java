@@ -23,7 +23,7 @@ public class ProgrammeJSONGenerator {
 		Scanner sc = new Scanner(System.in);
 		System.out.println("Enter file name");
 		String filename = sc.nextLine();
-		Programme myProgramme = new Programme("Applied Math AY15-16.txt", modules);
+		Programme myProgramme = new Programme(filename, modules);
 		myProgramme.edit();
 		myProgramme.generateJSON();
 		sc.close();

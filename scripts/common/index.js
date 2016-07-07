@@ -119,8 +119,8 @@ var AppBody = {
 				ModuleTable.refresh();
 				ModuleInfo.setButton("Remove");
 				var fulfilledPrerequisite = MyPlan.checkPrerequisiteStatus(data, semester);
-				if (!fulfilledPrerequisite) {
-					alert("You have not fulfilled the prerequisite of " + data + "!");
+				if (fulfilledPrerequisite !== true) {
+					MessageArea.add(fulfilledPrerequisite);
 				}
 				break;
 
@@ -153,7 +153,7 @@ var AppBody = {
 				var semester = ModuleTable.getSemesterByTile(data);
 				MyPlan.changeSemester(moduleCode, semester);
 				var fulfilledPrerequisite = MyPlan.checkPrerequisiteStatus(moduleCode, semester);
-				if (!fulfilledPrerequisite) {
+				if (fulfilledPrerequisite !== true) {
 					alert("You have not fulfilled the prerequisite of " + moduleCode + "!");
 				}
 				break;
