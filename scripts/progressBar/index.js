@@ -33,7 +33,7 @@ var progressBar = {
 			var AppBody = require("../common/index.js");
 			AppBody.request("moduleSearchBox", "select", code);
 		});
-	}
+	},
 
 	update: function(moduleCode, listNumber) {
 		var targetList;
@@ -58,7 +58,6 @@ var progressBar = {
 		}
 
 		var found = false;
-		for ()
 	}
 };
 

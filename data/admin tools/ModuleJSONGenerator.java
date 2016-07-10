@@ -39,7 +39,8 @@ public class ModuleJSONGenerator {
 		try{
 			Scanner sc=new Scanner(new FileReader("modules.txt"));
 			while(sc.hasNextLine()){
-				String[] input=sc.nextLine().split("\"");
+				String temp = sc.nextLine();
+				String[] input=temp.split("\"");
 				if(input.length>1){
 					switch(input[1]){
 					case "ModuleCredit": {
@@ -55,6 +56,11 @@ public class ModuleJSONGenerator {
 						if(!modules.get(modules.size()-1).modmavenTree(sc))
 							modules.add(new Module());
 						modules.get(modules.size()-1).modmavenTree(sc);
+						break;}
+					case "ParsedPrerequisite": {
+						if(!modules.get(modules.size()-1).parsedPrerequisite(sc, input))
+							modules.add(new Module());
+						modules.get(modules.size()-1).parsedPrerequisite(sc, input);
 						break;}
 					case "ParsedPreclusion":{ 
 						if(!modules.get(modules.size()-1).parsedPreclusion(sc))
@@ -77,18 +83,25 @@ public class ModuleJSONGenerator {
 							modules.add(new Module());
 						modules.get(modules.size()-1).moduleDescription(sc,input);
 						break;}
-					case "LockedModules":{
-						if(!modules.get(modules.size()-1).lockedModules(sc))
+					case "Prerequisite": {
+						if(!modules.get(modules.size()-1).prerequisite(sc, input))
 							modules.add(new Module());
-						modules.get(modules.size()-1).lockedModules(sc);
+						modules.get(modules.size()-1).prerequisite(sc,input);
+						break;}
+					case "LockedModules":{
+						if(!modules.get(modules.size()-1).lockedModules(sc, input))
+							modules.add(new Module());
+						modules.get(modules.size()-1).lockedModules(sc, input);
 						break;
 					}
 					case "Preclusion":{
 						if(!modules.get(modules.size()-1).preclusion(sc,input))
 							modules.add(new Module());
 						modules.get(modules.size()-1).preclusion(sc, input);
+						break;}
+					case "CrossModule": 
+						modules.get(modules.size()-1).crossModule(temp);
 						break;
-					}
 					}
 					
 				}
@@ -110,7 +123,7 @@ public class ModuleJSONGenerator {
 				String input=sc.next();
 				switch(input){
 				case "Corequisite": map.get(code).corequisite(sc);break;
-				case "CrossModule": map.get(code).crossModule(sc);break;
+//				case "CrossModule": map.get(code).crossModule(input);break;
 				case "ModuleCode": {
 					//System.out.println(code);
 					sc.next();

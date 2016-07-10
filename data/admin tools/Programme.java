@@ -10,6 +10,7 @@ public class Programme {
 	private LinkedList<String> modules;
 	
 	private String name;
+	private String faculty;
 	private String type;
 	private String updatedDate;
 	private String link;
@@ -29,6 +30,10 @@ public class Programme {
 	        //Read name
 	        input = in.readLine();
 	        name = input.substring(7);
+	        
+	        //Read faculty
+	        input = in.readLine();
+	        faculty = input.substring(9).trim();
 	        
 	        //Read type
 	        input = in.readLine();
@@ -282,6 +287,9 @@ public class Programme {
 			
 			//print name
 			writer.println("\"name\":\"" + name + "\",");
+			
+			//print faculty
+			writer.println("\"faculty\":\"" + faculty + "\",");
 			
 			//print type
 			writer.println("\"type\":\"" + type + "\",");

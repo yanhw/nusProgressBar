@@ -34,7 +34,7 @@ var ChooseProgramme = {
 		});
 
 		//Choose your faculty
-		$("#")
+		
 		//Choose your programme
 		$("#save-programme").on("click", function(){
 			var AppBody = require("./index.js");
