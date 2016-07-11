@@ -100,9 +100,10 @@ public class Programme {
 				output += "\"requirement\":" + list.getRequirement() + ",";
 				output += "\"list\":{";
 				output += "\"and\":[";
-				String listContent = createList(list, target);
-				output += listContent;
+				String listContent = createList(list, target, 0);
+				output += listContent;			
 				output +="]";
+				output += ",\"fulfilled\":false";
 				output += "},";
 				
 				String tempString = "\"nonRepeatList\":[";
@@ -167,10 +168,10 @@ public class Programme {
 					temp += "\"requirement\":" + list.getRequirement() + ",";
 					temp += "\"list\":{";
 					temp += "\"and\":[";
-					String listContent = createList(list, "true");
+					String listContent = createList(list, "true", 0);
 					temp += listContent;
 					temp +="]";
-					temp += "}}";
+					temp += ",\"fulfilled\":false}}";
 					specialisationStrings.add(temp);
 				}
 			}
@@ -179,12 +180,14 @@ public class Programme {
 		}
 	}
 	
-	private String createList(ModuleList list, String target) {
+	private String createList(ModuleList list, String target, int rank) {
 		String output = "";
 		LinkedList<String> listString = new LinkedList<String>();
 		for (int i = 0; i < list.getListSize(); i++) {
 			if ((list.getItem(i).getType() == 1) || (list.getItem(i).getType() == 2)) {
-				listString.add("{\"code\":\"" + list.getItem(i).getName() + "\",\"flag\":false}");
+				if (rank < 3)
+					rank = list.getItem(i).getType();
+				listString.add("{\"code\":\"" + list.getItem(i).getName() + "\",\"rank\":" + rank + ",\"flag\":false}");
 			}
 			else if (list.getItem(i).getType() == 3) {
 				String value = createType3(list.getItem(i).getName(), target);
@@ -222,8 +225,10 @@ public class Programme {
 		}
 		if (!isCorrect)
 			return "NIL";
-		output += createList(target, specialisation);
-		output += "]}";
+		output += createList(target, specialisation, 3);		
+		output += "],";
+		output += "\"fulfilled\" :false";
+		output += "}";
 		return output;
 	}
 	
@@ -239,7 +244,7 @@ public class Programme {
 			if (modules.get(i).substring(0,target.length()).equals(target))
 				temp.add(modules.get(i));
 		for (int i = 0; i < temp.size(); i++) {
-			output += "\"" + temp.get(i) + "\"";
+			output += "{\"code\":\"" + temp.get(i) + "\",\"rank\":" + 4 + ",\"flag\":false}";
 			if (i < temp.size()-1)
 				output += ",";
 		}
@@ -261,7 +266,7 @@ public class Programme {
 			if ((modules.get(i).substring(0,sequence.length()).equals(sequence)) && ((Integer.parseInt(modules.get(i).substring(target.length()-1,target.length())) >= bond)))
 				temp.add(modules.get(i));
 		for (int i = 0; i < temp.size(); i++) {
-			output += "\"" + temp.get(i) + "\"";
+			output += "{\"code\":\"" + temp.get(i) + "\",\"rank\":" + 5 + ",\"flag\":false}";
 			if (i < temp.size()-1)
 				output += ",";
 		}

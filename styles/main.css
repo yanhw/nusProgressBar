@@ -105,6 +105,10 @@
 	text-orientation: center;
 }
 
+#message-area {
+    
+}
+
 .selected-module-tile {
 	background-color: red;
 }
