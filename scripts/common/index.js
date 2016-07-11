@@ -7,7 +7,7 @@ var ProgressBar = require("../progressBar/index.js");
 var MessageArea = require("../messageArea/index.js");
 var MyPlan = require("../modulePlan/modulePlan.js");
 
-var AppliedMath = require("../../data/Bachelor of Science (Applied Mathematics).json");
+var AppliedMath = require("../../data/2015Bachelor of Science (Applied Mathematics).json");
 
 var blocked = false;		//blocked is true when there is pop up windows in display
 
@@ -27,15 +27,15 @@ var AppBody = {
 
 			//type = null, data = programme name
 			case "saveProgramme" :
-				var programme;
+				var programme = AppliedMath;
 				for (var i = 0; i < 3; i++) {				
 				// for (var i = 0; i < AppliedMath.specialisations.size(); i++) {
 
-					if (AppliedMath.specialisations[i].specialisationName === data)
-						programme = AppliedMath.specialisations[i].lists;
+					// if (AppliedMath.specialisations[i].specialisationName === data)
+					// 	programme = AppliedMath.specialisations[i].lists;
 				}
-				ProgressBar.setup(programme);
-				MyPlan.saveProgramme(programme);
+				var editedProgramme = MyPlan.saveAndEditProgramme(programme);
+				// ProgressBar.setup(editedProgramme);
 				break;
 
 			//type = "select", data = moduleCode

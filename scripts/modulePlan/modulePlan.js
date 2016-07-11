@@ -6,6 +6,8 @@ var Relatives = require("./relative.js");
 var modules = require("../../data/modules.json");
 var moduleList = require("../../data/moduleList.json");
 var Message = require("../common/message.js");
+var EditProgramme = require("./editProgramme.js");
+var CheckProgress = require("./checkProgress.js");
 
 var myProgramme;
 var myModules = [];			//List of modules inside module table
@@ -45,6 +47,10 @@ var modulePlan = {
 			myModules.push(moduleToAdd);
 		numOfModules++;
 		console.log(numOfModules);
+
+		var moduleArray = getCodeArray(20);
+		var update = CheckProgress.check(moduleArray, myProgramme);
+
 		$("#the-progress-bar").val(numOfModules*100/40);
 		return "module-list-1";
 	},
@@ -109,8 +115,9 @@ var modulePlan = {
 	},
 
 	//Saves the programme
-	saveProgramme: function(programme) {
-		myProgramme = programme;
+	saveAndEditProgramme: function(programme) {
+		myProgramme = EditProgramme.edit(programme);
+		return myProgramme;
 	}
 };
 
