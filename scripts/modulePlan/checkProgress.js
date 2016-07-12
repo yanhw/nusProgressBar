@@ -52,10 +52,12 @@ var checkProgress = {
 			}
 		}
 
+		// console.log("flag for ma1100: " + programme.mainList[0].list.and[0].or[0].or[0].flag);
+
 		//Step 3
 		var status = []
 		for (var i = 0; i < programme.mainList.length; i++) {
-			status.push(traceTreeRecur(programme.mainList[i]));
+			status.push(traceTreeRecur(programme.mainList[i].list));
 		}
 		
 		//Step 4
@@ -89,6 +91,7 @@ function traceTreeRecur(list) {
 }
 
 function traceTreeAnd(list) {
+	console.log("and");
 	for (var i = 0; i < list.and.length; i++) {
 		if (!traceTreeRecur(list.and[i]))
 			return false;
