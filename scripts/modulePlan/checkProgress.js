@@ -7,13 +7,16 @@
 // Step 3: Trace the programme tree to mark fulfilled flag;
 // Step 4: Generate outputs such as non-repeat list
 
-var count;
+var count;		//Number of modules counted towards programme requirement
+var updatePackage;	//Update package for output
 
 var checkProgress = {
 	check: function (modules, programme) {
 		
-		var count = 0;
-		var moduleNodes = [];
+		count = 0;
+		updatePackage = {};
+
+		var moduleNodes = [];	//In step 1 it is 2D array to match tree nodes with modules, then it becomes 1D array as flag for modules
 		var length = modules.length;
 		for (var i = 0; i < length; i++) {
 			moduleNodes.push([]);
@@ -50,9 +53,15 @@ var checkProgress = {
 		}
 
 		//Step 3
-		traceTreeRecur(programme);
-
-		return true;
+		var status = []
+		for (var i = 0; i < programme.mainList.length; i++) {
+			status.push(traceTreeRecur(programme.mainList[i]));
+		}
+		
+		//Step 4
+		updatePackage.count = count;
+		updatePackage.status = status;
+		return updatePackage;
 	}
 };
 
@@ -64,13 +73,49 @@ function buildTreeRecur(programmeTreeNodes, list) {
 	for (var i = 0; i < array.length; i++) {
 		if ((array[i].hasOwnProperty("and")) || (array[i].hasOwnProperty("or")))
 			buildTreeRecur(programmeTreeNodes,array[i]);
-		else
+		else {
+			array[i].flag = false;
 			programmeTreeNodes.push(array[i]);
+		}
 	}
 }
 
 function traceTreeRecur(list) {
+	if (list.hasOwnProperty("and"))
+		return traceTreeAnd(list);
+	else if (list.hasOwnProperty("or"))
+		return traceTreeOr(list);
+	else return traceTreeModule(list);
+}
 
+function traceTreeAnd(list) {
+	for (var i = 0; i < list.and.length; i++) {
+		if (!traceTreeRecur(list.and[i]))
+			return false;
+	}
+	list.fulfilled = true;
+	return true;
+}
+
+function traceTreeOr(list) {
+	for (var i = 0; i < list.or.length; i++) {
+		if (traceTreeRecur(list.or[i])) {
+			console.log("fulfilled");
+			list.fulfilled = true;
+			return true;
+		}
+	}
+	return false;
+}
+
+function traceTreeModule(list) {
+	if (list.flag === true) {
+		console.log("found true flag");
+		count++;
+		return true;
+	}
+	else
+		return false;
 }
 
 module.exports = checkProgress;

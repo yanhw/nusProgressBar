@@ -51,7 +51,7 @@ var modulePlan = {
 		var moduleArray = getCodeArray(20);
 		var update = CheckProgress.check(moduleArray, myProgramme);
 
-		$("#the-progress-bar").val(numOfModules*100/40);
+		$("#the-progress-bar").val(update.count*100/40);
 		return "module-list-1";
 	},
 
