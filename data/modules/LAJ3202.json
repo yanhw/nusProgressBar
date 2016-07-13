@@ -1,0 +1,82 @@
+{
+"moduleCode": "LAJ3202",
+"moduleTitle": "Japanese 6",
+"moduleCredit": "4",
+"lockedModules":[
+            "JS4229"
+        ],
+"preclusion": "NIL",
+"prerequisite": "Passed LAJ3201, LAJ3203, or placement test.",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " and ": [
+                "LAJ3201", 
+                "LAJ3203"
+            ]
+},
+"prerequisiteList": ["LAJ3201","LAJ2203","LAJ2202","LAJ2201","LAJ1201","LAJ3203"],
+"completePrerequisite": {
+            "name": "LAJ3202", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "LAJ3201", 
+                            "children": [
+                                {
+                                    "name": "LAJ2203", 
+                                    "children": [
+                                        {
+                                            "name": "LAJ2202", 
+                                            "children": [
+                                                {
+                                                    "name": "LAJ2201", 
+                                                    "children": [
+                                                        {
+                                                            "name": "LAJ1201", 
+                                                            "children": []
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "LAJ3203", 
+                            "children": [
+                                {
+                                    "name": "LAJ2203", 
+                                    "children": [
+                                        {
+                                            "name": "LAJ2202", 
+                                            "children": [
+                                                {
+                                                    "name": "LAJ2201", 
+                                                    "children": [
+                                                        {
+                                                            "name": "LAJ1201", 
+                                                            "children": []
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module further enhances skills and strategies to discuss complex topics such as social, cultural, and historical issues based on authentic materials. Students will also learn how to summarize long and difficult texts, how to structure essays and skills to read newspapers. By the end of this module, students will attain good all-round proficiency in the four skills (listening, speaking, reading and writing) and will be able to handle more elaborate situations in communicating with native speakers.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "CENTRE FOR LANGUAGE STUDIES",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

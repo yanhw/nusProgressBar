@@ -1,0 +1,54 @@
+{
+"moduleCode": "ME3232",
+"moduleTitle": "Compressible Flow",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "ME3231",
+"prerequisite": "ME2135",
+"preclusionList": [
+            "ME3231"
+        ],
+"parsedPrerequisite": {
+" and ": ["ME2135"]
+},
+"prerequisiteList": ["ME2135","ME2134","PC1431","PC1431F","PC1431X"],
+"completePrerequisite": {
+            "name": "ME3232", 
+            "children": [
+                {
+                    "name": "ME2135", 
+                    "children": [
+                        {
+                            "name": "ME2134", 
+                            "children": [
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "PC1431", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "PC1431F", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "PC1431X", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "MECHANICAL ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

@@ -1,0 +1,23 @@
+{
+"moduleCode": "CP3200",
+"moduleTitle": "Internship",
+"moduleCredit": "6",
+"lockedModules":[
+            "CP3202"
+        ],
+"preclusion": "NIL",
+"prerequisite": "Students can only take this module after completing 70 MCs. Student Selection process will be enforced",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "CP3200", 
+            "children": []
+},
+"moduleDescription": "The IT industry and related businesses are developing rapidly for which students need to have an opportunity to expose themselves to the latest industry developments. This internship module requires students to work in a company for a period of three months. Their progress on projects will be monitored during attachment, and their performance will be graded as \u201cCompleted Satisfactory/Completed Unsatisfactory (CS/CU)\u201d at the end of the attachment, based on the final project report. During the attachment, students are not expected to take other modules offered by the university.",
+"crossModule": "-1",
+"corequisite": "Students can only take this module after completing 70",
+"faculty": "SCHOOL OF COMPUTING",
+"department": "DEAN'S OFFICE (SCHOOL OF COMPUTING)",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,3,4,]]
+}

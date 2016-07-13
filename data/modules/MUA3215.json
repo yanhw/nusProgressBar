@@ -1,0 +1,29 @@
+{
+"moduleCode": "MUA3215",
+"moduleTitle": "World Music for Creative Performance and Workshops",
+"moduleCredit": "3",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "MUA1163 or permission of the instructor",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["MUA1163"]
+},
+"prerequisiteList": ["MUA1163"],
+"completePrerequisite": {
+            "name": "MUA3215", 
+            "children": [
+                {
+                    "name": "MUA1163", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "This module will employ non-Western music as the source material for inspiring students to organize, create and perform their own compositions. Students will also learn methods in organizing and leading workshops using nonWestern musical inspiration. The primary musical areas to be explored include African, Indonesian, and Indian, with additional World Music traditions also considered during the semester.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "YONG SIEW TOH CONSERVATORY OF MUSIC",
+"department": "YONG SIEW TOH CONSERVATORY OF MUSIC",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

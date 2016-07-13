@@ -1,0 +1,35 @@
+{
+"moduleCode": "MUA2182",
+"moduleTitle": "Orchestral Repertoire for Percussion 2A",
+"moduleCredit": "2",
+"lockedModules":[
+            "MUA2183"
+        ],
+"preclusion": "NIL",
+"prerequisite": "MUA1150 Basic Mechanics of Percussion B",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["MUA1150"]
+},
+"prerequisiteList": ["MUA1150","MUA1180"],
+"completePrerequisite": {
+            "name": "MUA2182", 
+            "children": [
+                {
+                    "name": "MUA1150", 
+                    "children": [
+                        {
+                            "name": "MUA1180", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "Orchestral Repertoire for Percussion is an orchestral repertory class designed to give orchestral playing experience to the Percussion majors of YSTCM. In 13 sessions throughout the semester, the class will read and rehearse significant orchestral repertoire for percussion. Participating students will develop a high aptitude in orchestral section playing and understanding of orchestration techniques. Each work will be studied from both a practical and a historical perspective. This module also teaches them essential audition techniques and skills.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "YONG SIEW TOH CONSERVATORY OF MUSIC",
+"department": "YONG SIEW TOH CONSERVATORY OF MUSIC",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

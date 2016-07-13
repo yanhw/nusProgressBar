@@ -1,0 +1,22 @@
+{
+"moduleCode": "PR5250",
+"moduleTitle": "Elective Clerkship I",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "Acceptance in the Pharm.D. program or by permission",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "PR5250", 
+            "children": []
+},
+"moduleDescription": "This module consists of one 5-week, full-time clerkships, and is designed to further develop the students\u2019 knowledge and skills in a variety of practice settings. Students will be able to select from a variety of patient care and non-patient care clerkship sites.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "SCIENCE",
+"department": "PHARMACY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

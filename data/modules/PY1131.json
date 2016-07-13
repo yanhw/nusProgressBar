@@ -1,0 +1,30 @@
+{
+"moduleCode": "PY1131",
+"moduleTitle": "Human Anatomy & Physiology II",
+"moduleCredit": "4",
+"lockedModules":[
+            "PX2108"
+        ],
+"preclusion": "NIL",
+"prerequisite": "AY1130",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["AY1130"]
+},
+"prerequisiteList": ["AY1130"],
+"completePrerequisite": {
+            "name": "PY1131", 
+            "children": [
+                {
+                    "name": "AY1130", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "The module encompasses core material on aspects of human anantomy and physiology with reference to relevant clinical examples. Topics for the module include the following human systems: 1. gastrointestinal, 2. nervous, 3. renal and acid base 4. reproductive",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "YONG LOO LIN SCHOOL OF MEDICINE",
+"department": "PHYSIOLOGY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

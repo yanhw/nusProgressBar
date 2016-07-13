@@ -1,0 +1,88 @@
+{
+"moduleCode": "DSC3214",
+"moduleTitle": "Introduction To Optimisation",
+"moduleCredit": "4",
+"lockedModules":[
+            "DSC3224",
+            "DSC4213",
+            "MA4260"
+        ],
+"preclusion": "IE2110",
+"prerequisite": "DSC1007 or [(MA1101R or MA1311) and (MA1521 or MA1102R)]",
+"preclusionList": [
+            "IE2110"
+        ],
+"parsedPrerequisite": {
+            " or ": [
+                "DSC1007", 
+                {
+                    " and ": [
+                        {
+                            " or ": [
+                                "MA1101R", 
+                                "MA1311"
+                            ]
+                        }, 
+                        {
+                            " or ": [
+                                "MA1521", 
+                                "MA1102R"
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"prerequisiteList": ["DSC1007","MA1101R","MA1311","MA1521","MA1102R"],
+"completePrerequisite": {
+            "name": "DSC3214", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "DSC1007", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "and", 
+                            "children": [
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "MA1101R", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "MA1311", 
+                                            "children": []
+                                        }
+                                    ]
+                                }, 
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "MA1521", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "MA1102R", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module introduces students to the theory, algorithms, and applications of optimisation. Optimisation methodologies include linear programming, integer programming, network optimisation, dynamic programming, and nonlinear programming. Problem formulation and interpretation of solutions will be emphasized. Throughout the course, references will be made wherever appropriate, to business applications, such as portfolio selection, options pricing, and vehicle routing. Students who are interested in computer and quantitative approaches in business will learn many useful techniques in large business system management from this course.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF BUSINESS",
+"department": "DECISION SCIENCES",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

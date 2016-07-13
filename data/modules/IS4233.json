@@ -1,0 +1,57 @@
+{
+"moduleCode": "IS4233",
+"moduleTitle": "Legal Aspects of Information Technology",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "CS4259",
+"prerequisite": "Pass 80 MCs and [CS2250 or (IS1103 and IS1105)]",
+"preclusionList": [
+            "CS4259"
+        ],
+"parsedPrerequisite": {
+            " or ": [
+                "CS2250", 
+                {
+                    " and ": [
+                        "IS1103", 
+                        "IS1105"
+                    ]
+                }
+            ]
+},
+"prerequisiteList": ["CS2250","IS1103","IS1105"],
+"completePrerequisite": {
+            "name": "IS4233", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "CS2250", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "and", 
+                            "children": [
+                                {
+                                    "name": "IS1103", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "IS1105", 
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module is a study of major area of law that has an impact on the IT industry. Among the topics to be addressed are intellectual property of software, database, and multimedia entertainment contents, data privacy, information security, and electronic commerce law. The goal of the course is to provide basic background in these issues for non-lawyers. The course enables IT professionals to better handle their legal resources and better understand their commercial opportunities. Real-world examples from the text and current events will be used to demonstrate the applicability of the law in IT industries.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF COMPUTING",
+"department": "INFORMATION SYSTEMS",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

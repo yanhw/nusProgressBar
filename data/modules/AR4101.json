@@ -1,0 +1,22 @@
+{
+"moduleCode": "AR4101",
+"moduleTitle": "Design 7",
+"moduleCredit": "8",
+"lockedModules":[
+],
+"preclusion": "All non-architecture students",
+"prerequisite": "AR3101 Design 5 Grade 'C'; AR3102 Design 6 Grade 'C'",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "AR4101", 
+            "children": []
+},
+"moduleDescription": "This module will provide the opportunity for students to demonstrate their understanding and ability in integrating technology with architecture. Topics - The module will demand more comprehensive response in developing an appropriate technological response to the particular demands of architecture, climate and context. Students have to demonstrate ability in the design development process and a degree of innovation in integrating technological ideas and components into the architectural project.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF DESIGN AND ENVIRONMENT",
+"department": "ARCHITECTURE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

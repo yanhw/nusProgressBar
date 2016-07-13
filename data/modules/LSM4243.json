@@ -1,0 +1,47 @@
+{
+"moduleCode": "LSM4243",
+"moduleTitle": "Tumour Biology",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "LSM2103",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["LSM2103"]
+},
+"prerequisiteList": ["LSM2103","LSM1101","LSM1401","LSM1102"],
+"completePrerequisite": {
+            "name": "LSM4243", 
+            "children": [
+                {
+                    "name": "LSM2103", 
+                    "children": [
+                        {
+                            "name": "or", 
+                            "children": [
+                                {
+                                    "name": "LSM1101", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "LSM1401", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "LSM1102", 
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module deals with the understanding of processes that regulate cell growth and proliferation, and the intricate mechanism(s) that result in abnormal proliferation and oncogenesis. Molecular basis of immortalization and the acquisition of the neoplastic phenotype, namely oncogene activation, immune evasion, potential for local and distant spread, and resistance to cell death etc. will be discussed. Role of DNA damage/repair, telomere/telomerase in genome instability and tumourigenesis will be examined. A brief session on target therapies including gene therapy approaches will also be included. Tumour immunology role of inflammation in tumours will be discussed.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "YONG LOO LIN SCHOOL OF MEDICINE",
+"department": "PHYSIOLOGY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

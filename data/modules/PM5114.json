@@ -1,0 +1,23 @@
+{
+"moduleCode": "PM5114",
+"moduleTitle": "Managing Complex Projects",
+"moduleCredit": "4",
+"lockedModules":[
+            "PM5116"
+        ],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "PM5114", 
+            "children": []
+},
+"moduleDescription": "This module focuses on the management of complex projects. It covers the design and planning for beyond the project itself, the work package structure of such projects and issues related to the sourcing of suitably experienced contractors, consultants, and other personnel, the impact of variations and consequential claims, and matters concerning termination, completion and handing over.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF DESIGN AND ENVIRONMENT",
+"department": "BUILDING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

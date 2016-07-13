@@ -1,0 +1,83 @@
+{
+"moduleCode": "JS4229",
+"moduleTitle": "Japanese Translation - Theory & Practice",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "LAJ3202 or pass in JLPT level 1 or equivalent.",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["LAJ3202"]
+},
+"prerequisiteList": ["LAJ3202","LAJ3201","LAJ2203","LAJ2202","LAJ2201","LAJ1201","LAJ3203"],
+"completePrerequisite": {
+            "name": "JS4229", 
+            "children": [
+                {
+                    "name": "LAJ3202", 
+                    "children": [
+                        {
+                            "name": "and", 
+                            "children": [
+                                {
+                                    "name": "LAJ3201", 
+                                    "children": [
+                                        {
+                                            "name": "LAJ2203", 
+                                            "children": [
+                                                {
+                                                    "name": "LAJ2202", 
+                                                    "children": [
+                                                        {
+                                                            "name": "LAJ2201", 
+                                                            "children": [
+                                                                {
+                                                                    "name": "LAJ1201", 
+                                                                    "children": []
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }, 
+                                {
+                                    "name": "LAJ3203", 
+                                    "children": [
+                                        {
+                                            "name": "LAJ2203", 
+                                            "children": [
+                                                {
+                                                    "name": "LAJ2202", 
+                                                    "children": [
+                                                        {
+                                                            "name": "LAJ2201", 
+                                                            "children": [
+                                                                {
+                                                                    "name": "LAJ1201", 
+                                                                    "children": []
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module introduces students to basic translation theory while simultaneously engaging them in actual translation exercises. Various texts will be used in these exercises, including literary and academic texts, writings in businesses and popular culture, newspaper articles, etc. The objective of this course is twofold: to deepen students' understanding of cultural differences manifested in Japanese and English writings, and to train students' translation skills.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "JAPANESE STUDIES",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

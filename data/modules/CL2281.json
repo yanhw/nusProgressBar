@@ -1,0 +1,25 @@
+{
+"moduleCode": "CL2281",
+"moduleTitle": "Translation and Interpretation",
+"moduleCredit": "4",
+"lockedModules":[
+            "CL3281",
+            "CL3283",
+            "CL3284"
+        ],
+"preclusion": "NIL",
+"prerequisite": "1) Exempted from NUS Qualifying English Test, or passed NUS Qualifying English Test, or exempted from further CELC Remedial English modules; AND 2) Grade 'B4' and above in Higher Chinese (HCL) at GCE 'O' Level or Chinese (CL) at GCE 'AO' Level; OR Grade 'C' and above in Chinese Language (H1CL) at GCE 'A' Level.",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "CL2281", 
+            "children": []
+},
+"moduleDescription": "This class aims to continue to give students practice in translation and interpretation. The course will focus on two areas: linguistic issues (grammar, semantic meaning) which must be dealt with in both oral and written translation, and cultural issues where there is a need for creative approaches to various non-standard forms of language which are found in poetry, cartoons, advertisements, and certain types of interpretation scenarios.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "CHINESE STUDIES",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

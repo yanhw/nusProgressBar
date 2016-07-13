@@ -1,0 +1,22 @@
+{
+"moduleCode": "EG1603",
+"moduleTitle": "TIP - Product & Business Plan Competition",
+"moduleCredit": "2",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "EG1603", 
+            "children": []
+},
+"moduleDescription": "EG1603 is a hands-on, competitive, experiential learning module that is ideal for students to gain insight, confidence, and basic capabilities about the theoretical and practical aspects of technopreneurship. The course is setup as a competition to emulate the competitive nature of industry and intensify the learning. Student teams will participate in several boot camps at the start of the module and receive advice from mentors throughout. The intention is to develop a (technical) solution for a specified problem and a viable business model to be combined into a business plan that is presented to judges at the end of the module.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "DEAN'S OFFICE (ENGINEERING)",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,3,4,]]
+}

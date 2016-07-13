@@ -1,0 +1,22 @@
+{
+"moduleCode": "PF2108",
+"moduleTitle": "Project Cost Management",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "PF2108", 
+            "children": []
+},
+"moduleDescription": "This module covers the basic principles relating to estimating of items of the work to be undertaken on projects, and tendering. Major topics are quantitative techniques in cost analysis, cost planning, approximate estimating and tendering procedures. The principles governing the pricing of items and building up rates for items of work are also covered.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF DESIGN AND ENVIRONMENT",
+"department": "BUILDING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

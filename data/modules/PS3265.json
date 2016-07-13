@@ -1,0 +1,29 @@
+{
+"moduleCode": "PS3265",
+"moduleTitle": "Civil-Military Relations",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "Completed PS1101E",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["PS1101E"]
+},
+"prerequisiteList": ["PS1101E"],
+"completePrerequisite": {
+            "name": "PS3265", 
+            "children": [
+                {
+                    "name": "PS1101E", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "This module surveys major themes and debates in the study of civil-military relations. The study of civil military relations addresses a simple puzzle: can we have a military strong enough to protect civilians yet not so strong as to ignore or subvert civilian authority? A military strong enough to defend the state from external enemies is also strong enough to seize power. How can a state have a strong military capability without being dominated by it? How do political leaders and military organizations interact with each other and with the larger society, and how do their cultures overlap and diverge.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "POLITICAL SCIENCE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

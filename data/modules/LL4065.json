@@ -1,0 +1,29 @@
+{
+"moduleCode": "LL4065",
+"moduleTitle": "Comparative Corporate Governance",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "(a) NUS Compulsory Core Law Curriculum or equivalent. (b) Company Law (LLB2008) or its equivalent in a common law jurisdiction (may be taken concurrently).",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["LLB2008"]
+},
+"prerequisiteList": ["LLB2008"],
+"completePrerequisite": {
+            "name": "LL4065", 
+            "children": [
+                {
+                    "name": "LLB2008", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "This module will examine the control of directors in large companies, principally those listed on a stock exchange.The module will address the law and regulation of this area of business activity in Singapore and will also draw on comparative perspectives from Australia, the UK and the US. The module will examine the structure, function and responsibilities of management in large companies. It will focus particularly on topics of special practical and theoretical relevance, such as directors? pay and the representation of interest groups in the company. It will consider regulation of management by shareholders, voluntary codes, market regulators and state agencies.The course is aimed at practitioners who advise companies about issues of corporate governance.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "LAW",
+"department": "LAW",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

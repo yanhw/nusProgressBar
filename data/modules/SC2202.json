@@ -1,0 +1,22 @@
+{
+"moduleCode": "SC2202",
+"moduleTitle": "Sociology of Work",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "SC2202", 
+            "children": []
+},
+"moduleDescription": "This module aims to help students develop a framework with which to analyse and understand the following: (1) key political issues and underlying social mechanisms relating to the dynamics of industrial society and the organisation of work; (2) various aspects of social relations at the workplace; (3) how different categories of workers respond to the organisation of work; and (4) the interconnections between (1), (2), and (3). The module is open to all students throughout NUS with an interest in analyzing work situations sociologically.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "SOCIOLOGY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

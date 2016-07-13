@@ -1,0 +1,22 @@
+{
+"moduleCode": "LC2004",
+"moduleTitle": "Principles Of Property Law",
+"moduleCredit": "8",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "LC2004", 
+            "children": []
+},
+"moduleDescription": "This course will impart to students the basic principles of law and equity in the law of property,with particular reference to land. It will explore the meaning of ownership of land viz the doctrine of estates, past and present interests and co-ownership of land. The manner in which land can be dealt with both at law and in equity, eg., transfer, leases, mortgages, licences, easements and restrictive convenants will be considered. It will also examine issues with respect to registered titles to land as well as the system of caveats for the protection of unregistered interests in land.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "LAW",
+"department": "LAW",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

@@ -1,0 +1,24 @@
+{
+"moduleCode": "RE1103",
+"moduleTitle": "Property And Facilities Management",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "RE2480 Urban and Real Estate Management I",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "RE2480"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "RE1103", 
+            "children": []
+},
+"moduleDescription": "This module introduces the principles in property management including various aspects such as maintenance management, lease management, and investment management. It will also discuss the role and functions of facility management including design and space planning, building services management etc in relation to the business goals.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF DESIGN AND ENVIRONMENT",
+"department": "REAL ESTATE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

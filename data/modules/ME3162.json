@@ -1,0 +1,22 @@
+{
+"moduleCode": "ME3162",
+"moduleTitle": "Manufacturing Processes",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "ME3162", 
+            "children": []
+},
+"moduleDescription": "Manufacturing processes: cold and hot working, rolling, extrusion, forgoing, sheet and metal blanking and forming, cold forming, welding, brazing, soldering, casting, powder metallurgy, plastics technology. Machine tools: RP, 3-D printing, Lathes, Milling, Drill press, Grinding and laser machining, etc.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "MECHANICAL ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

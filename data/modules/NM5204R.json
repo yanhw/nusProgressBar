@@ -1,0 +1,24 @@
+{
+"moduleCode": "NM5204R",
+"moduleTitle": "Computer-Mediated Environments",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "IF5204",
+"prerequisite": "For CNM undergraduate major who has accumulated 120 MC, or for FASS and SoC graduate students.",
+"preclusionList": [
+            "IF5204"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "NM5204R", 
+            "children": []
+},
+
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "COMMUNICATIONS AND NEW MEDIA",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

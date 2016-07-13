@@ -1,0 +1,59 @@
+{
+"moduleCode": "EC3373",
+"moduleTitle": "Asean Economies",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "EC3375, EC3376, EU3214",
+"prerequisite": "EC2101",
+"preclusionList": [
+            "EU3214",
+            "EC3375",
+            "EC3376"
+        ],
+"parsedPrerequisite": {
+" and ": ["EC2101"]
+},
+"prerequisiteList": ["EC2101","EC1101E","EC1301","USE2301","BSP1005","BH1005"],
+"completePrerequisite": {
+            "name": "EC3373", 
+            "children": [
+                {
+                    "name": "EC2101", 
+                    "children": [
+                        {
+                            "name": "or", 
+                            "children": [
+                                {
+                                    "name": "EC1101E", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "EC1301", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "USE2301", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "BSP1005", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "BH1005", 
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module analyses the economic development experiences of the ASEAN economies in post-war years with emphasis on the role of ASEAN economic cooperation. Major topics covered include agricultural and rural development, industrialisation, international trade, resource transfers, development of local capital, ASEAN's international economic relations and future prospects for ASEAN growth and economic cooperation.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "ECONOMICS",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

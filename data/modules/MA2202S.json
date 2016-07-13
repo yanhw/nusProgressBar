@@ -1,0 +1,57 @@
+{
+"moduleCode": "MA2202S",
+"moduleTitle": "Algebra I (S)",
+"moduleCredit": "5",
+"lockedModules":[
+            "MA3265",
+            "MA3201"
+        ],
+"preclusion": "MA2202, MA3250, MQ3201, CVE students.",
+"prerequisite": "(MA1100 or MA1100S or CS1231 or CS1231S) and departmental approval",
+"preclusionList": [
+            "MA3250",
+            "MQ3201",
+            "MA2202"
+        ],
+"parsedPrerequisite": {
+            " or ": [
+                "MA1100", 
+                "MA1100S", 
+                "CS1231", 
+                "CS1231S"
+            ]
+},
+"prerequisiteList": ["MA1100","MA1100S","CS1231","CS1231S"],
+"completePrerequisite": {
+            "name": "MA2202S", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "MA1100", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "MA1100S", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "CS1231", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "CS1231S", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "The objective of this module is to develop the learning capabilities and hone the problem solving skills of talented students at a mathematically deeper and more rigorous level. The contents of this module will consist of those in the regular module (MA2202 Algebra I) and the following additional topics: Group action, group representations, profinite groups and classical groups.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCIENCE",
+"department": "MATHEMATICS",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

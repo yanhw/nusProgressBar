@@ -1,0 +1,26 @@
+{
+"moduleCode": "PS5111",
+"moduleTitle": "Research Design In Political Science",
+"moduleCredit": "4",
+"lockedModules":[
+            "PS6603"
+        ],
+"preclusion": "PS5101, PS6101",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "PS5101",
+            "PS6101"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "PS5111", 
+            "children": []
+},
+"moduleDescription": "This module is an introduction to some of the research methods used in the empirical study of politics and public policy. The objective is to familiarise students with (1) concepts in research design, and (2) practices in analytical methods. Topics covered include the logic of empirical research, sampling methods, descriptive statistics, probability distributions, statistical estimation and inference, and hypothesis testing in group comparisons and regression analysis. Besides regular homework assignments, there will also be a mid-term test, a project, and a final examination.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "POLITICAL SCIENCE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

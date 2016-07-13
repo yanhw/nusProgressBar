@@ -1,0 +1,29 @@
+{
+"moduleCode": "ESE5608",
+"moduleTitle": "Heavy Metals In The Environment",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "ESE5003 Environmental Chemical Principles",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["ESE5003"]
+},
+"prerequisiteList": ["ESE5003"],
+"completePrerequisite": {
+            "name": "ESE5608", 
+            "children": [
+                {
+                    "name": "ESE5003", 
+                    "children": []
+                }
+            ]
+},
+
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "CIVIL & ENVIRONMENTAL ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

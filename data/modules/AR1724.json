@@ -1,0 +1,22 @@
+{
+"moduleCode": "AR1724",
+"moduleTitle": "Introduction To Landscape Architecture",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "AR1724", 
+            "children": []
+},
+"moduleDescription": "This module introduces basic concepts in landscape design through a series of lectures and site visits. Urban landscape architecture and tropical climatic considerations are emphasised.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "SCHOOL OF DESIGN AND ENVIRONMENT",
+"department": "ARCHITECTURE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

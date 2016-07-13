@@ -1,0 +1,22 @@
+{
+"moduleCode": "RE5015",
+"moduleTitle": "Spatial Information Systems (SIS) for Urban Planning",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "RE5015", 
+            "children": []
+},
+"moduleDescription": "This module is an introduction to spatial information systems as applied to urban and regional planning. Its primary goal is to help students understand the basic principles of SIS, and to equip students with the state-of-the-practice computing technology in urban planning in a SIS environment.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF DESIGN AND ENVIRONMENT",
+"department": "REAL ESTATE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

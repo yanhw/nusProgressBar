@@ -1,0 +1,53 @@
+{
+"moduleCode": "EE4502",
+"moduleTitle": "Electric Drives & Control",
+"moduleCredit": "4",
+"lockedModules":[
+            "EE5703R"
+        ],
+"preclusion": "NIL",
+"prerequisite": "EE2025",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["EE2025"]
+},
+"prerequisiteList": ["EE2025","EE1002","EG1108","CG1108"],
+"completePrerequisite": {
+            "name": "EE4502", 
+            "children": [
+                {
+                    "name": "EE2025", 
+                    "children": [
+                        {
+                            "name": "and", 
+                            "children": [
+                                {
+                                    "name": "EE1002", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "EG1108", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "CG1108", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "Motion control in industrial, commercial and transportation systems is carried out using electric drives. This module provides students with the working knowledge of various components of an electrical drive system and their control for efficient energy conversion. Students would be taught the basic principle of operation of variable speed DC and AC Drive systems. After completion of this module, students are expected to select and size electrical drives for any given application and should be able to perform design of different drive components. The topics covered are: Characteristics and sizing of power semiconductor controlled electric drives; DC motor drives: speed and torque control; Induction motor drives: voltage control and variable frequency control; Drives application examples.",
+"crossModule": "-1",
+"corequisite": "EE3505C",
+"faculty": "ENGINEERING",
+"department": "ELECTRICAL & COMPUTER ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

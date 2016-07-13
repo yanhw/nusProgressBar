@@ -1,0 +1,34 @@
+{
+"moduleCode": "MUA2185",
+"moduleTitle": "Orchestral Repertoire for Woodwinds 2A",
+"moduleCredit": "2",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "MUA1156 First Year Woodwinds Class B",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["MUA1156"]
+},
+"prerequisiteList": ["MUA1156","MUA1180"],
+"completePrerequisite": {
+            "name": "MUA2185", 
+            "children": [
+                {
+                    "name": "MUA1156", 
+                    "children": [
+                        {
+                            "name": "MUA1180", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "Orchestral Repertoire for Woodwinds is an orchestral repertory class designed to give orchestral playing experience to the woodwinds majors of YSTCM. In 13 sessions throughout the semester, the class will read and rehearse significant orchestral repertoire for woodwinds. Woodwinds students are expected to emonstrate aptitude in large ensemble playing including: orchestral concepts in sound, intonation, and blend, as well as a professional attitude in working with conductors and colleagues. This module also teaches them essential audition techniques and skills.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "YONG SIEW TOH CONSERVATORY OF MUSIC",
+"department": "YONG SIEW TOH CONSERVATORY OF MUSIC",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

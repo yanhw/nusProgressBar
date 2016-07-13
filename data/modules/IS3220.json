@@ -1,0 +1,57 @@
+{
+"moduleCode": "IS3220",
+"moduleTitle": "Service Design and Innovation",
+"moduleCredit": "4",
+"lockedModules":[
+            "IS4227",
+            "IS4224"
+        ],
+"preclusion": "NIL",
+"prerequisite": "Pass 60 MCs and (IS1103 or IS1103FC) and IS1105",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " and ": [
+                {
+                    " or ": [
+                        "IS1103", 
+                        "IS1103F"
+                    ]
+                }, 
+                "IS1105"
+            ]
+},
+"prerequisiteList": ["IS1103","IS1103F","IS1105"],
+"completePrerequisite": {
+            "name": "IS3220", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "or", 
+                            "children": [
+                                {
+                                    "name": "IS1103", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "IS1103F", 
+                                    "children": []
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "IS1105", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module provides a foundation in how service delivery systems are conceptualized and designed \u2013 idea finding and evaluation, requirements analysis, service ecology, prototyping of service experiences, and measurement of services. The nature of service delivery has changed profoundly due to increasing functionality and reach of digital platforms. Modern businesses are critically dependent on digital platforms for service delivery. The module provides a foundation on how service delivery systems are engineered, i.e., conceptualized and designed. As service design is a multidisciplinary activity, it is vital for information architects to have basic familiarity with non-IT disciplines to guide the multidisciplinary group in service innovation.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF COMPUTING",
+"department": "INFORMATION SYSTEMS",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

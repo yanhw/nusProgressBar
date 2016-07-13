@@ -1,0 +1,48 @@
+{
+"moduleCode": "LAJ3203",
+"moduleTitle": "Business Japanese 1",
+"moduleCredit": "4",
+"lockedModules":[
+            "LAJ3202",
+            "LAJ3205"
+        ],
+"preclusion": "LAJ3202 & JLPT Level 1",
+"prerequisite": "Passed LAJ2203 or placement test.",
+"preclusionList": [
+            "LAJ3202"
+        ],
+"parsedPrerequisite": {
+" and ": ["LAJ2203"]
+},
+"prerequisiteList": ["LAJ2203","LAJ2202","LAJ2201","LAJ1201"],
+"completePrerequisite": {
+            "name": "LAJ3203", 
+            "children": [
+                {
+                    "name": "LAJ2203", 
+                    "children": [
+                        {
+                            "name": "LAJ2202", 
+                            "children": [
+                                {
+                                    "name": "LAJ2201", 
+                                    "children": [
+                                        {
+                                            "name": "LAJ1201", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "Students will be taught the specialised vocabulary and communication styles found in the Japanese business world, including both the written and the oral forms of communication. The ability to read, understand and write minutes will be emphasised. Students will also be introduced to the language-related work style found in the Japanese business environment.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "CENTRE FOR LANGUAGE STUDIES",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

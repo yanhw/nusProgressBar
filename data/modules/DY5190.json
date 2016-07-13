@@ -1,0 +1,22 @@
+{
+"moduleCode": "DY5190",
+"moduleTitle": "Graduate Seminar module",
+"moduleCredit": "0",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "DY5190", 
+            "children": []
+},
+"moduleDescription": "This module is designed to promote a strong research culture among the research students of the Faculty of Dentistry as well as improving their communication skills through presentations and conference attendance. It is spread over the candidature of the students and will be graded \"Satisfactory/Unsatisfactory\"on the basis of student presentation and participation.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "DENTISTRY",
+"department": "DENTISTRY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

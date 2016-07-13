@@ -1,0 +1,29 @@
+{
+"moduleCode": "NUR2113",
+"moduleTitle": "Mental Health Nursing",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "NUR1116 Psychology for Health Professionals",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["NUR1116"]
+},
+"prerequisiteList": ["NUR1116"],
+"completePrerequisite": {
+            "name": "NUR2113", 
+            "children": [
+                {
+                    "name": "NUR1116", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "This module focuses on developing students\u2019 knowledge and skills in the nursing care of patients with mental illnesses in institutional and community settings. The module emphasises assessment, early intervention, health promotion and prevention and the identification of at risk behaviours.",
+"crossModule": "-1",
+"corequisite": "Nil",
+"faculty": "YONG LOO LIN SCHOOL OF MEDICINE",
+"department": "NURSING/ALICE LEE CTR FOR NURSING STUD",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

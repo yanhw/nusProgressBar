@@ -1,0 +1,23 @@
+{
+"moduleCode": "YSS2214",
+"moduleTitle": "Intermediate Macroeconomics",
+"moduleCredit": "5",
+"lockedModules":[
+            "YSS3224"
+        ],
+"preclusion": "NIL",
+"prerequisite": "Any one of the following three options: (i) YSS1203 Principles of Economics; (ii) YSS2203 Intermediate Microeconomics; (iii) A-level Economics and Mathematics or equivalent economics and mathematics courses",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "YSS2214", 
+            "children": []
+},
+"moduleDescription": "Economics is concerned with the study of how individuals make decisions and how these decisions affect, and in turn are affected by, the distribution of limited resources in society. This course introduces students to the formal analysis of the economy as a whole. The goal is to understand how decisions by the firms, consumers and institutions affect the markets, and the welfare implications of such choices for society. Special attention is placed on the effect of government and monetary policies on the economy. Emphasis is placed upon the mathematical foundations of theoretical models.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "YALE-NUS COLLEGE",
+"department": "YALE-NUS COLLEGE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

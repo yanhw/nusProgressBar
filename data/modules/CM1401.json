@@ -1,0 +1,25 @@
+{
+"moduleCode": "CM1401",
+"moduleTitle": "Chemistry for Life Sciences",
+"moduleCredit": "4",
+"lockedModules":[
+            "CM2101",
+            "CM2142",
+            "CM4227"
+        ],
+"preclusion": "NIL",
+"prerequisite": "GCE 'A' level or H2 pass in Chemistry or equivalent or CM1417",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "CM1401", 
+            "children": []
+},
+"moduleDescription": "This is a Chemistry module catered for Life Sciences students and deals primarily with the basic principles to understand the structure and reactivity of organic molecules, basic thermodynamics and kinetics, and basic analytical techniques.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCIENCE",
+"department": "CHEMISTRY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

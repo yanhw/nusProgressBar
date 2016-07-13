@@ -1,0 +1,69 @@
+{
+"moduleCode": "CS4249",
+"moduleTitle": "Phenomena and Theories of Human-Computer Interaction",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "CS3240 or NM2213 or NM2216",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " or ": [
+                "CS3240", 
+                "NM2213", 
+                "NM2216"
+            ]
+},
+"prerequisiteList": ["CS3240","CS1020","CS1010","NM2217","NM3209","NM2213","NM2216"],
+"completePrerequisite": {
+            "name": "CS4249", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "CS3240", 
+                            "children": [
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "CS1020", 
+                                            "children": [
+                                                {
+                                                    "name": "CS1010", 
+                                                    "children": []
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "NM2217", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "NM3209", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "NM2213", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "NM2216", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module teaches the underlying science of Human-Computer Interaction (HCI) and its application to user interface design. It surveys a wide range of psychological theories beginning with organizational behaviour approaches, understanding of work and workflow within organizations, and moving on to understanding human psychological architecture and processing constraints. It demonstrates via a combination of scientific theory understanding and engineering modelling the solutions of design problems facing a user interface designer. It also covers new design methods and techniques available and the new conceptual mechanisms used in HCI such as the metaphors for describing user interaction.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "SCHOOL OF COMPUTING",
+"department": "COMPUTER SCIENCE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

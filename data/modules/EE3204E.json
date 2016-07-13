@@ -1,0 +1,33 @@
+{
+"moduleCode": "EE3204E",
+"moduleTitle": "Computer Communications Networks I",
+"moduleCredit": "4",
+"lockedModules":[
+            "EE4210E"
+        ],
+"preclusion": "CS2105 and CS3103",
+"prerequisite": "EE2009E",
+"preclusionList": [
+            "CS3103",
+            "CS2105"
+        ],
+"parsedPrerequisite": {
+" and ": ["EE2009E"]
+},
+"prerequisiteList": ["EE2009E"],
+"completePrerequisite": {
+            "name": "EE3204E", 
+            "children": [
+                {
+                    "name": "EE2009E", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "This module provides an in-depth treatment of fundamental topics of network design based on the Internet protocol stack model. It is aimed at making students understand how networks work through understanding of the underlying principles of sound network design. This course covers topics including network requirements, architecture, protocol stack models, Ethernet Token Ring, Wireless, and FDDI networks, bridges, switching and routing in IP and ATM networks, and internetworking. Apart from learning the concepts in networks, the students will gain expertise in analyzing and designing networking protocols through mini-projects.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "BACHELOR OF TECHNOLOGY PROGRAMME",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

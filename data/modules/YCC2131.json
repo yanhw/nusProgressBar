@@ -1,0 +1,24 @@
+{
+"moduleCode": "YCC2131",
+"moduleTitle": "Foundations of Science 1",
+"moduleCredit": "5",
+"lockedModules":[
+            "YSC3201",
+            "YCC2132"
+        ],
+"preclusion": "NIL",
+"prerequisite": "Successful completion of Year 1 Yale-NUS College Core Curriculum",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "YCC2131", 
+            "children": []
+},
+"moduleDescription": "Foundations of Science 1 aims to develop the skills, patterns of thought, and facility with science and technology that will enable the non-science major to lead a responsible life in this century. The rapid expansion of biotechnology and medicine, the explosion of computer technologies, datasets of all kinds, and the impacts of society on the environment all challenge our capacity not only to understand our civilization but to sustain it for future generations. Foundations of Science will provide our students the base understandings to contribute to the leadership needed to provide a sustainable planet for future generations.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "YALE-NUS COLLEGE",
+"department": "YALE-NUS COLLEGE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

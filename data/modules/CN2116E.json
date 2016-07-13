@@ -1,0 +1,45 @@
+{
+"moduleCode": "CN2116E",
+"moduleTitle": "Chemical Kinetics And Reactor Design",
+"moduleCredit": "4",
+"lockedModules":[
+            "CN4208E",
+            "CN4118E"
+        ],
+"preclusion": "TC2106",
+"prerequisite": "TC1101/ CN1111E",
+"preclusionList": [
+            "TC2106"
+        ],
+"parsedPrerequisite": {
+            " or ": [
+                "TC1101", 
+                "CN1111E"
+            ]
+},
+"prerequisiteList": ["TC1101","CN1111E"],
+"completePrerequisite": {
+            "name": "CN2116E", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "TC1101", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "CN1111E", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+
+"crossModule": "-1",
+"corequisite": "TC2115/ CN2125E",
+"faculty": "ENGINEERING",
+"department": "BACHELOR OF TECHNOLOGY PROGRAMME",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

@@ -1,0 +1,22 @@
+{
+"moduleCode": "FE5223",
+"moduleTitle": "Introduction to Electronic Financial Market",
+"moduleCredit": "2",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "FE5223", 
+            "children": []
+},
+"moduleDescription": "The fundamentals of financial market technologies and functionality in the Front-, Middle- and Back-offices, the interdependencies of their systems, typical user interfaces, through to typical system architecture will be taught. Principals of algorithmic trading will also be covered, and students will be challenged to design solutions for real-market trading strategies. This module will encompass the Learning Outcomes from the other modules in the MFE program, giving the student practical knowledge, skills and industry best practice in electronic markets. Lively learning activities and interactive discussions based on current market scenarios will bring students through a realistic and relevant learning journey.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SPECIALITY RESEARCH INSTITUTES/CENTRES",
+"department": "RISK MANAGEMENT INSTITUTE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

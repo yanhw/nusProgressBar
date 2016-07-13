@@ -1,0 +1,47 @@
+{
+"moduleCode": "EE4501",
+"moduleTitle": "Power System Management And Protection",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "EE3505C",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["EE3505C"]
+},
+"prerequisiteList": ["EE3505C","EE1002","EG1108","CG1108"],
+"completePrerequisite": {
+            "name": "EE4501", 
+            "children": [
+                {
+                    "name": "EE3505C", 
+                    "children": [
+                        {
+                            "name": "or", 
+                            "children": [
+                                {
+                                    "name": "EE1002", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "EG1108", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "CG1108", 
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "Modelling of power systes: bus admittance and bus impedance matrices, network building algorithms. Load flow studies: problem formulation, computer solution techniques; economic load dispatch. Energy market restructuring. Fault analysis: symmetrical components, sequence impedance networks, symmetrical and unsymmetrical faults. Protection: components, differential, and earth fault protection systems.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "ELECTRICAL & COMPUTER ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

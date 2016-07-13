@@ -1,0 +1,57 @@
+{
+"moduleCode": "EE4307",
+"moduleTitle": "Control Systems Design And Simulation",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "EE3331C",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["EE3331C"]
+},
+"prerequisiteList": ["EE3331C","EE2023","MA1506","MA1102R","MA1505","MA1521"],
+"completePrerequisite": {
+            "name": "EE4307", 
+            "children": [
+                {
+                    "name": "EE3331C", 
+                    "children": [
+                        {
+                            "name": "EE2023", 
+                            "children": [
+                                {
+                                    "name": "MA1506", 
+                                    "children": [
+                                        {
+                                            "name": "or", 
+                                            "children": [
+                                                {
+                                                    "name": "MA1102R", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MA1505", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MA1521", 
+                                                    "children": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This 100% CA module introduces students to the various stages in the design cycle of a closed-loop control system, namely modeling, identification, simulation, controller design and implementation. Students will appreciate the concepts of models and model structures, the ways to obtain them and their applications. Two modeling approaches will be covered; physical modeling which includes the principles and phases ofmodeling using basic physical relationships, and identification approaches covering both non-parametric and parametric identification. Practical issues in modeling, including instrument calibration, model structure selection, data collection configuration, selection of test signals and model validation will also be duly covered. Via project work, students will consolidate the topics covered in class with hands-on experience in modeling, simulating and controlling real systems. They will be equipped with useful practical skills at the end of this course.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "ELECTRICAL & COMPUTER ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

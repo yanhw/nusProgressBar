@@ -1,0 +1,22 @@
+{
+"moduleCode": "EG2311",
+"moduleTitle": "Introduction to Space Systems",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "H2 Physics",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "EG2311", 
+            "children": []
+},
+"moduleDescription": "This module aims to provide an overview and basic knowledge of space systems. The topics covered include satellite classification, space environment, various subsystems that are the fundamental building blocks of a space system. In addition, typical satellite mission payloads and general ground and launch segments will also be covered.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "ENGINEERING",
+"department": "DEAN'S OFFICE (ENGINEERING)",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

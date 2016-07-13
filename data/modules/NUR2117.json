@@ -1,0 +1,47 @@
+{
+"moduleCode": "NUR2117",
+"moduleTitle": "Pathophysiology and Pharmacology I",
+"moduleCredit": "4",
+"lockedModules":[
+            "NUR2118"
+        ],
+"preclusion": "NIL",
+"prerequisite": "NUR1117 Anatomy and Physiology I NUR1118 Anatomy and Physiology II or its equivalent",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " and ": [
+                "NUR1117", 
+                "NUR1118"
+            ]
+},
+"prerequisiteList": ["NUR1117","NUR1118"],
+"completePrerequisite": {
+            "name": "NUR2117", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "NUR1117", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "NUR1118", 
+                            "children": [
+                                {
+                                    "name": "NUR1117", 
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module will focus on developing knowledge in both pathophysiology and pharmacology relevant for nursing practice. Students will gain an understanding of the etiology, pathogenesis, clinical manifestations, diagnosis and management of some major disease states or disturbances in homeostasis. Students will gain a comprehensive understanding in the principles of drug action and the application of these principles to the different drugs discussed in disease management within this module.",
+"crossModule": "-1",
+"corequisite": "Nil",
+"faculty": "YONG LOO LIN SCHOOL OF MEDICINE",
+"department": "NURSING/ALICE LEE CTR FOR NURSING STUD",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

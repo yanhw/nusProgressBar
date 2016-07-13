@@ -1,0 +1,42 @@
+{
+"moduleCode": "MLE2107",
+"moduleTitle": "Ceramic Materials and Processing",
+"moduleCredit": "3",
+"lockedModules":[
+            "MLE4210"
+        ],
+"preclusion": "NIL",
+"prerequisite": "MLE1101 or MLE2101",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " or ": [
+                "MLE1101", 
+                "MLE2101"
+            ]
+},
+"prerequisiteList": ["MLE1101","MLE2101"],
+"completePrerequisite": {
+            "name": "MLE2107", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "MLE1101", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "MLE2101", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "Overview of ceramics and classification; Structure and stability of ceramics; Phase formation and development of microstructures; Basic synthesis, processing and characterisation methods; Processing of advanced ceramics and applications; General properties and applications of advanced ceramics: electronic; mechanical; optical.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "ENGINEERING",
+"department": "MATERIALS SCIENCE AND ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

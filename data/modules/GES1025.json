@@ -1,0 +1,25 @@
+{
+"moduleCode": "GES1025",
+"moduleTitle": "Singapore Literature in English: Selected Texts",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "SSA1207, SSA1207FC",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "SSA1207F",
+            "SSA1207"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "GES1025", 
+            "children": []
+},
+"moduleDescription": "This module will focus on Singapore literature in English. It will deal with selected texts in the three main genres: poetry, fiction and drama. There will also be opportunities to discuss the works with the writers. One of its main aims is to show how literature will help us gain a more comprehensive insight into our understanding of Singapore.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "ENGLISH LANGUAGE & LITERATURE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

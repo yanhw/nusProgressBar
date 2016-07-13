@@ -1,0 +1,31 @@
+{
+"moduleCode": "LSM2212",
+"moduleTitle": "Human Anatomy",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "LSM1202",
+"prerequisite": "LSM1102",
+"preclusionList": [
+            "LSM1202"
+        ],
+"parsedPrerequisite": {
+" and ": ["LSM1102"]
+},
+"prerequisiteList": ["LSM1102"],
+"completePrerequisite": {
+            "name": "LSM2212", 
+            "children": [
+                {
+                    "name": "LSM1102", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "This module provides a basic introduction to human structure and function, comprising gross anatomy integrated with microscopic anatomy. Histological organization of the primary tissues: epithelial, connective, muscular and nervous tissues will also be covered. Clinical relevance of the anatomical structures will be discussed.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "YONG LOO LIN SCHOOL OF MEDICINE",
+"department": "ANATOMY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

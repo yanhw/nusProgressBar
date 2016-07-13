@@ -1,0 +1,48 @@
+{
+"moduleCode": "EE4112E",
+"moduleTitle": "High Frequency (HF) Techniques",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "EE2011E",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["EE2011E"]
+},
+"prerequisiteList": ["EE2011E","TE2002","TE2102","TG1401"],
+"completePrerequisite": {
+            "name": "EE4112E", 
+            "children": [
+                {
+                    "name": "EE2011E", 
+                    "children": [
+                        {
+                            "name": "TE2002", 
+                            "children": [
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "TE2102", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "TG1401", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "Radio and microwave systems rely on efficient transmission and distribution of electromagnetic (EM) energy. Radio and microwave systems need to be immune from external EM interference and need to ensure that they do not cause interference of their own. To achieve these requirements, microwave and radio engineers need to be able to specify and design wave-guiding systems, shielding and antennas. Topics covered: Guided waves: guiding elements and cavities. Scattering parameters. Directional couplers and hybrids. Circulators and isolators. Antenna parameters. Wire antennas. Electromagnetic interference and shielding.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "ENGINEERING",
+"department": "BACHELOR OF TECHNOLOGY PROGRAMME",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

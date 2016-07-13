@@ -1,0 +1,33 @@
+{
+"moduleCode": "EG4301",
+"moduleTitle": "DCP B.Eng. Dissertation",
+"moduleCredit": "12",
+"lockedModules":[
+],
+"preclusion": "ESP4901: Research Project (12 MC) BN4101R: B.Eng. Dissertation (12 MC) CN4118R: B.Eng. Dissertation (10 MC) CG4001: B.Eng. Dissertation (12 MC) EE4001: B.Eng. Dissertation (12 MC) IE4100: B.Eng. Dissertation (12 MC) ME4101: B.Eng. Dissertation (12 MC) CE4104: B.Eng. Dissertation (8 MC) ESE4502: B.Eng. Dissertation (12 MC) MLE4101: B.Eng. Dissertation (12 MC)",
+"prerequisite": "Year 4",
+"preclusionList": [
+            "BN4101R",
+            "ESE4502",
+            "MLE4101",
+            "CE4104",
+            "CN4118R",
+            "IE4100",
+            "ME4101",
+            "EE4001",
+            "CG4001",
+            "ESP4901"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "EG4301", 
+            "children": []
+},
+"moduleDescription": "In this module, students will conduct and continue a multiyear project over 2 semesters to deliver an integrated engineering solution to self-defined challenging problems. Students will implement knowledge and skills that they have gained throughout their study in their earlier years.",
+"crossModule": "-1",
+"corequisite": "Nil",
+"faculty": "ENGINEERING",
+"department": "DEAN'S OFFICE (ENGINEERING)",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

@@ -1,0 +1,22 @@
+{
+"moduleCode": "CO5229",
+"moduleTitle": "Nutrition and Health",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "CO5229", 
+            "children": []
+},
+"moduleDescription": "Nutrition is linked to many health outcomes ranging from food intolerance to coronary heart disease. This module provides a basic knowledge of human nutrition, how it relates to health, and how it is affected by nutrition policies. This course will provide an overview of the three macronutrients (carbohydrates; lipids; proteins) and selected micronutrients and explain their digestion, function in the body, and examples of effects on health. Concepts of energy metabolism, energy balance and obesity will be presented. Consequences of nutrition policies related to dietary recommendations, dietary supplements, food fortification, and food labeling will also be discussed. As part of the course, students will assess and evaluate their energy and nutrient intakes.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SAW SWEE HOCK SCHOOL OF PUBLIC HEALTH",
+"department": "SAW SWEE HOCK SCHOOL OF PUBLIC HEALTH",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

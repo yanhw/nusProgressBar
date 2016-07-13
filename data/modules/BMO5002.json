@@ -1,0 +1,22 @@
+{
+"moduleCode": "BMO5002",
+"moduleTitle": "Business Project",
+"moduleCredit": "10",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "BMO5002", 
+            "children": []
+},
+"moduleDescription": "Business projects reinforce CEMS partnership with universities and companies in a unique way of concrete content oriented cooperation. While Academic Advisors and company representatives exchange ideas on the project topic, both sides benefit from the intellectual input - for their research or their business processes, respectively. Within the CEMS Curriculum, Business Projects are designed as real life learning experience for students. International student teams solve a company\u2019s real business problem in a consultancylike project, while training for process management, result orientation and team building.",
+"crossModule": "-1",
+"corequisite": "N.A.",
+"faculty": "SCHOOL OF BUSINESS",
+"department": "MANAGEMENT AND ORGANISATION",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

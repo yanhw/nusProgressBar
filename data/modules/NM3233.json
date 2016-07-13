@@ -1,0 +1,24 @@
+{
+"moduleCode": "NM3233",
+"moduleTitle": "Strategic Communication: Applications",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NM3220 Research for Communication Management",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "NM3220"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "NM3233", 
+            "children": []
+},
+"moduleDescription": "This module introduces students to the principles of strategic communication management with an emphasis on the application of social research to strategic decision making to meet organizational goals and objectives. Built on the theoretical foundation of strategic communications and applied social research, students will learn to evaluate, analyze and monitor research programs, and to design solutions in public, non-profit and for-profit organizations. Emphasis is placed on learning and conducting assessments of organizational need, performing situational analysis, analyzing message design, evaluating media choice, exploring traditional and emerging media tools, and planning effective communication strategies for the respective organizations.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "COMMUNICATIONS AND NEW MEDIA",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

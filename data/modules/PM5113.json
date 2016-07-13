@@ -1,0 +1,22 @@
+{
+"moduleCode": "PM5113",
+"moduleTitle": "Managing Projects using BIM",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "PM5113", 
+            "children": []
+},
+"moduleDescription": "This module is designed to provide project managers with an appreciation of the role of BIM as the project manager in projects. It covers the concept of BIM in design matters, contract and dispute management, and post contractual matters.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF DESIGN AND ENVIRONMENT",
+"department": "BUILDING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

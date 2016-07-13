@@ -1,0 +1,64 @@
+{
+"moduleCode": "CN4240R",
+"moduleTitle": "Unit Operations and Processes for Effluent Treatment",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "LSM1401, CN2116, CN3124",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " and ": [
+                "LSM1401", 
+                "CN2116", 
+                "CN3124"
+            ]
+},
+"prerequisiteList": ["LSM1401","CN2116","CN1111","CN1111F","CN1111X","CN3124"],
+"completePrerequisite": {
+            "name": "CN4240R", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "LSM1401", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "CN2116", 
+                            "children": [
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "CN1111", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "CN1111F", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "CN1111X", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "CN3124", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module provides students with a working knowledge of unit operations and processes for the control of industrial effluent from the chemical process industries. The module begins with an overview of the characteristics of effluent from the chemical plant operations, and its impact on the environment. Concepts on environmental sustainability and green processing particularly pertinent to the chemical industry will be covered, including techniques for waste minimisation and pollution prevention. Finally, applications of processes (physical, chemical and biological) for the treatment of effluent from plant facilities will be presented. Case studies from various industries will also be presented. This module is targeted at level 4 chemical engineering students.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "CHEMICAL & BIOMOLECULAR ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

@@ -1,0 +1,29 @@
+{
+"moduleCode": "GL4102",
+"moduleTitle": "Task Force",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "GL majors ONLY. Completed 80 MCs, including 28 MCs in GL/GL recognised non-language modules, with a minimum CAP of 3.20 or be on the Honours track, and GL4101 Readings in Global Issues.",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["GL4101"]
+},
+"prerequisiteList": ["GL4101"],
+"completePrerequisite": {
+            "name": "GL4102", 
+            "children": [
+                {
+                    "name": "GL4101", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "Task Force is an intensive capstone project required for Global Studies majors. The seminar simulates a government advisory committee. Each Task Force seminar deals with a given policy problem from the real world. Students research the problem, investigate and debate solutions, and work together to produce a report that recommends policy solutions. Seminar participants apply the training they have received from the GL curriculum to the project. At the end of the semester, students present their report for evaluation. Potential Task Force problems include energy security, terrorism, human trafficking, and an aging population.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "POLITICAL SCIENCE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

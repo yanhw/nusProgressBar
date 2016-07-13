@@ -1,0 +1,22 @@
+{
+"moduleCode": "EC4396",
+"moduleTitle": "Economic Analysis of Law II",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "Cohort 2011 and before: Completed 80 MCs, including 28 MCs in EC, with a minimum CAP of 3.50 or be on the Honours track. EC3101, EC3102, and EC3396. Cohort 2012 onwards: Completed 80 MCs, including 28 MCs in EC, with a minimum CAP of 3.20 or be on the Honours track. EC3101, EC3102, and EC3396.",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "EC4396", 
+            "children": []
+},
+"moduleDescription": "This is the second module in a sequence of two modules in the Economic Analysis of Law. In this module, the students are introduced to the efficiency issues in common law; the economics of public law, such as competition and regulatory policies; the economics of constitutional law and public choice, such as the theory of the state, democracy and social welfare, rent seeking and legislation, and cost-benefit analysis; and some other topics, such as family law, environmental law, and discrimination law.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "ECONOMICS",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

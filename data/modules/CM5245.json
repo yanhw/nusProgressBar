@@ -1,0 +1,22 @@
+{
+"moduleCode": "CM5245",
+"moduleTitle": "Bioanalyticalchemistry",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "CM5245", 
+            "children": []
+},
+"moduleDescription": "This is an elective analytical module which addresses the basics in the latest bioanalytical techniques and thise which are just emerging. It is aimed at students who are interested in the applications of modern analytical techniques for bioanalytical research and development. The module will acquaint students with background knowledge of advanced and specialized bioanalytical techniques, with elaboration on the materials aspects employed in these techniques. Coverage is aimed more at breadth rather than depth but without sacrificing the fundamental rigors.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCIENCE",
+"department": "CHEMISTRY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

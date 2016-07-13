@@ -1,0 +1,64 @@
+{
+"moduleCode": "PC3274",
+"moduleTitle": "Mathematical Methods in Physics II",
+"moduleCredit": "4",
+"lockedModules":[
+            "PC4274",
+            "PC5204B",
+            "PC4232",
+            "PC5210",
+            "PC4248"
+        ],
+"preclusion": "NIL",
+"prerequisite": "Students who have passed either MA1505 and MA1506 or equivalent",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " and ": [
+                "MA1505", 
+                "MA1506"
+            ]
+},
+"prerequisiteList": ["MA1505","MA1506","MA1102R","MA1521"],
+"completePrerequisite": {
+            "name": "PC3274", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "MA1505", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "MA1506", 
+                            "children": [
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "MA1102R", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "MA1505", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "MA1521", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module introduces important mathematical methods for the solution of a variety of mathematical problems in science. The material is also fundamental to many areas of applied mathematics and theoretical physics. The following topics are covered: complex analysis and contour integration, Fourier and Laplace transforms, Green\u2019s functions, distributions, curvilinear coordinates and elements of tensor analysis, elements of group theory, calculus of variations, and their applications in physics. This module is targeted at students who already have a basic knowledge of vector calculus and differential equations.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCIENCE",
+"department": "PHYSICS",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

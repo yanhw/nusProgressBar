@@ -1,0 +1,48 @@
+{
+"moduleCode": "CE5509",
+"moduleTitle": "Advanced Structural Steel Design",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "CE3166 or CE4 standing or higher",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["CE3166"]
+},
+"prerequisiteList": ["CE3166","CE2155","EG1109F","EG1109"],
+"completePrerequisite": {
+            "name": "CE5509", 
+            "children": [
+                {
+                    "name": "CE3166", 
+                    "children": [
+                        {
+                            "name": "CE2155", 
+                            "children": [
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "EG1109F", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "EG1109", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module provides students with advanced knowledge on the design methodology for steel and composite structures. It also provides a learning experience on the key concepts and engineering concerns of steel-concrete composite frames and tubular structures. The topics covered include steel frame structures, steel-concrete composite systems, tubular structures and joints and long-span structures. Students will learn innovative design by exploring various structural schemes, conducting value engineering study and safety assessment of steel structural systems and their joints. The students are expected to demonstrate their proficiency in structural steel design through term paper projects. The target students include both undergraduate and graduate students who are involved in research or engineering practices related to structural steel.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "CIVIL & ENVIRONMENTAL ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

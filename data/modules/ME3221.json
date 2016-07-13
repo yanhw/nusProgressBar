@@ -1,0 +1,48 @@
+{
+"moduleCode": "ME3221",
+"moduleTitle": "Sustainable EnergyConversion",
+"moduleCredit": "4",
+"lockedModules":[
+            "ESP4401"
+        ],
+"preclusion": "NIL",
+"prerequisite": "ME2121",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["ME2121"]
+},
+"prerequisiteList": ["ME2121","PC1431","PC1431F","PC1431X"],
+"completePrerequisite": {
+            "name": "ME3221", 
+            "children": [
+                {
+                    "name": "ME2121", 
+                    "children": [
+                        {
+                            "name": "or", 
+                            "children": [
+                                {
+                                    "name": "PC1431", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "PC1431F", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "PC1431X", 
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This elective module provides an introduction to advanced topics in engineering thermodynamics and their applications to engineering thermal processes. The following topics are covered: Efficiency improvement of steam power cycles through the use of regeneration and binary fluids processes; Real gases: equation of state, enthalpy and entropy; Available energy and available energy changes in thermal processes, Second Law efficiency; Combustion processes; Analysis of energy and work interactions of basic mechanical engineering thermal processes such those of reciprocating and centrifugal compressors and axial flow turbines. This module is for students who wish to extend their understanding of engineering thermodynamics beyond the first course, and understanding and appreciation of the operation, efficiency and energy conversion of mechanical engineering thermal processes.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "MECHANICAL ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

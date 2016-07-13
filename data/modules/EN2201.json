@@ -1,0 +1,41 @@
+{
+"moduleCode": "EN2201",
+"moduleTitle": "Backgrounds to Western Literature and Culture",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "EN1101E or GEK1000",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " or ": [
+                "EN1101E", 
+                "GEK1000"
+            ]
+},
+"prerequisiteList": ["EN1101E","GEK1000"],
+"completePrerequisite": {
+            "name": "EN2201", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "EN1101E", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "GEK1000", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "The Greek and Roman classics and the Bible are recognized as having exerted profound influence on the development of Western literature, art and culture. Familiarity with the classical and Judeo-Christian traditions helps tremendously in enabling appreciation of this literature, art and culture. This module introduces students to important works from these two traditions such as Homer\u2019s Odyssey, Plato\u2019s Republic, Aristotle\u2019s Poetics, Virgil\u2019s Aeneid and the Bible. Through close readings, students become acquainted with the worldview, ideas and key motifs in these works. Attention will also be on how these texts have influenced the development of the Western literary tradition.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "ENGLISH LANGUAGE & LITERATURE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

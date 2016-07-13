@@ -1,0 +1,25 @@
+{
+"moduleCode": "IE5105",
+"moduleTitle": "Modelling for Supply Chain Systems",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "IE5401 Industrial Logistics IE5405 Inventory Systems",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "IE5405",
+            "IE5401"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "IE5105", 
+            "children": []
+},
+"moduleDescription": "This module introduces the fundamentals of Supply Chain Systems. It covers topics related to the Modelling of Supply Chain Systems so as to provide the best flow of products through the Supply Chain Systems.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "INDUSTRIAL & SYSTEMS ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

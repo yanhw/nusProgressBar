@@ -1,0 +1,22 @@
+{
+"moduleCode": "IS5127",
+"moduleTitle": "Managing and Using New Media",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "General computing knowledge would be useful. Basic knowledge of digital media transport protocols would be helpful, but not essential.",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "IS5127", 
+            "children": []
+},
+"moduleDescription": "This module provides graduate students with a broad view of the extremely dynamic digital content industry, and the technology and business factors driving and shaping its directions. Some of these factors cause tectonic shifts which blindside technology and service incumbents that are either complacent or unable to react with sufficient speed. The coverage is wide. It includes digital A/V, news and social media, interactive games, content security, and digital convergence. Also covered will be the business of monetizing commercially valuable content.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF COMPUTING",
+"department": "INFORMATION SYSTEMS",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

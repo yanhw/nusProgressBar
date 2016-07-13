@@ -1,0 +1,22 @@
+{
+"moduleCode": "BMC5006B",
+"moduleTitle": "Contemporary Issues in Marketing",
+"moduleCredit": "3",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "BMC5006B", 
+            "children": []
+},
+"moduleDescription": "The module provides practical and relevant exposures to how the tools and frameworks covered in BMC5006a Marketing Management are operationalized in the real situations. The module focused on how behavioral changes induced by external and global conditions in economy, technology, culture and politics affect marketing.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF BUSINESS",
+"department": "DEAN'S OFFICE (BIZ)",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

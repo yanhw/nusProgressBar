@@ -1,0 +1,22 @@
+{
+"moduleCode": "TM4264",
+"moduleTitle": "Fundamentals of Automotive Engineering",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "TM4264", 
+            "children": []
+},
+"moduleDescription": "This module covers the basic principles in various areas of the automobile. These include various types of petrol engines, diesel engines, rotary engines, electric engines and hybrid engines, and their related issues, various types of transmission systems (manual and automatic), chassis design and their development, and vehicle dynamics (including suspension, steering, brakes), car body design and manufacture, and safety issues. Also covered are fuel, combustion, and emissions, plus examples from the automotive industry and current industrial practices.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "BACHELOR OF TECHNOLOGY PROGRAMME",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

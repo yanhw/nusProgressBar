@@ -1,0 +1,34 @@
+{
+"moduleCode": "JS2203",
+"moduleTitle": "Sound, Grammar and Meaning",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "LAJ2201 or pass in JLPT level 4 or placement test",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["LAJ2201"]
+},
+"prerequisiteList": ["LAJ2201","LAJ1201"],
+"completePrerequisite": {
+            "name": "JS2203", 
+            "children": [
+                {
+                    "name": "LAJ2201", 
+                    "children": [
+                        {
+                            "name": "LAJ1201", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This is an introductory Japanese linguistics module which teaches how the language is analysed in terms of its sound, grammar and meaning. In order to develop a deeper understanding of the language, students will be asked to do frequent exercises that will help develop analytical skills. Topics such as pronunciation, accent patterns, word-formation, sentence analysis, complex sentences, functions of language, comparison with other Asian languages, and literal and pragmatic meanings will also be taught.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "JAPANESE STUDIES",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

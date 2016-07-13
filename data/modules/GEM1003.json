@@ -1,0 +1,44 @@
+{
+"moduleCode": "GEM1003",
+"moduleTitle": "Introduction to Theatre and Performance",
+"moduleCredit": "4",
+"lockedModules":[
+            "TS2240",
+            "TS2880A",
+            "TS2217",
+            "EN2271",
+            "TS2234",
+            "TS2236",
+            "TS3237",
+            "TS2233",
+            "TS3234",
+            "TS3239",
+            "TS2237",
+            "TS3233",
+            "TS3232",
+            "TS3231",
+            "TS3240",
+            "TS3246",
+            "TS3247",
+            "TS3235",
+            "TS3243",
+            "TS3222"
+        ],
+"preclusion": "TS1101E",
+"prerequisite": "Exempted from NUS Qualifying English Test, or passed NUS Qualifying English Test, or exempted from further CELC Remedial English modules.",
+"preclusionList": [
+            "TS1101E"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "GEM1003", 
+            "children": []
+},
+"moduleDescription": "This module will provide students with foundational knowledge of the different aspects of, approaches and discursive contexts relating to the study and praxis of theatre and performance. The module will also introduce students to the various forms of classical and contemporary performance practices and their attendant modes of analyses: combining play analysis, theatre history & theory. Using complementary content-centred lectures and practice laboratory, the module creates an environment where students simultaneously engage with module content while investigating its relations to the creation of theatre and performance.",
+        "CrossModule": "TS1101E", 
+"corequisite": "NIL",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "ENGLISH LANGUAGE & LITERATURE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

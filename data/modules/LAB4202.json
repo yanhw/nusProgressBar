@@ -1,0 +1,49 @@
+{
+"moduleCode": "LAB4202",
+"moduleTitle": "Bahasa Indonesia 6",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "Passed LAB4201 or placement test.",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["LAB4201"]
+},
+"prerequisiteList": ["LAB4201","LAB3202","LAB3201","LAB2201","LAB1201"],
+"completePrerequisite": {
+            "name": "LAB4202", 
+            "children": [
+                {
+                    "name": "LAB4201", 
+                    "children": [
+                        {
+                            "name": "LAB3202", 
+                            "children": [
+                                {
+                                    "name": "LAB3201", 
+                                    "children": [
+                                        {
+                                            "name": "LAB2201", 
+                                            "children": [
+                                                {
+                                                    "name": "LAB1201", 
+                                                    "children": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module will build on the skills developed in Bahasa Indonesia 5. Students will progress from reading selections from passages to a more sustained and systematic encounter with the nature of the language used in novels, newspapers, Internet and other forms of popular publications, official public discourse, academic writings and business Indonesian. The most important objective is to improve students' language commands in employing discourse strategies. Learner's autonomy will be enhanced in the teaching-learning process. Students will take an active role in selecting materials, leading discussions, and developing projects.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "CENTRE FOR LANGUAGE STUDIES",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

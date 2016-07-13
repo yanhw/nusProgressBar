@@ -1,0 +1,29 @@
+{
+"moduleCode": "EE6136",
+"moduleTitle": "Advanced Optical Communications",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "EE5306 Random Signals Analysis OR EE5137R Stochastic Processes",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["EE5137R"]
+},
+"prerequisiteList": ["EE5137R"],
+"completePrerequisite": {
+            "name": "EE6136", 
+            "children": [
+                {
+                    "name": "EE5137R", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "This module aims to provide an in-depth understanding of modern optical communication systems. To this end, it covers major system impairments of optical communication systems and how optical communication systems have evolved to cope with them and increase the capacity in a cost-effective manner. This module includes state-of-the-art technologies such as optical modulation formats, fiber nonlinearities, and optical signal processing.",
+"crossModule": "-1",
+"corequisite": "Nil",
+"faculty": "ENGINEERING",
+"department": "ELECTRICAL & COMPUTER ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

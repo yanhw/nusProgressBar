@@ -1,0 +1,22 @@
+{
+"moduleCode": "BN6209",
+"moduleTitle": "Neurotechnology",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "Graduate student standing",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "BN6209", 
+            "children": []
+},
+"moduleDescription": "This module introduces advanced topics in neurotechnology ranging from introductory neuroscience, to advanced neuroengineering principles, and towards innovative solutions for related clinical problems. Major topics include frontiers in neurophysiology, neural recording, neural circuits, telemetry, neural stimulation, analysis of brain activities and neural signals, brain machine interfaces, and neurosurgical systems. These frontiers will enable to graduate students to look in depth at neurotechnology, learn through publications and research, and equip them with the knowledge for further creations.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "BIOMEDICAL ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

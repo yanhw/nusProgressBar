@@ -1,0 +1,41 @@
+{
+"moduleCode": "YSS2209",
+"moduleTitle": "The Anthropological Imagination",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "YCC2121 Modern Social Thought and YCC1121 Comparative Social Institutions",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " and ": [
+                "YCC2121", 
+                "YCC1121"
+            ]
+},
+"prerequisiteList": ["YCC2121","YCC1121"],
+"completePrerequisite": {
+            "name": "YSS2209", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "YCC2121", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "YCC1121", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "The Anthropological Imagination offers an introduction to the practice and creative power of anthropology. The first half of the course will focus on the concept of culture, structure, and the relationship between culture and nature in classic works of anthropology over the past century. The second half of the course is geared toward an exploration of more current anthropological writings on aesthetics, politics, gender and the rise of post-human anthropology in considering cyborgs, humananimal relationships, avatars in Massively Multiplayer On-Line Role Playing Games such as World of Warcraft and forms of life emerging within other modalities of human sociality.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "YALE-NUS COLLEGE",
+"department": "YALE-NUS COLLEGE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

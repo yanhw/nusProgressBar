@@ -1,0 +1,22 @@
+{
+"moduleCode": "SP3172",
+"moduleTitle": "Integrated Science Project",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "SP3172", 
+            "children": []
+},
+"moduleDescription": "This module serves to initiate students into the arena of scientific investigation and is taken concurrently with SP2171. Students get to design and to conduct laboratory experiments under the supervision of mentors. The focus of this module parallels closely to that of SP2171. Here, students are strongly encouraged to undertake projects that mirror their chosen topics in SP2171. With the inter-disciplinary flavour, this module provides an avenue for students from several disciplines to work together and it also lays the foundation for further work in experimental science.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCIENCE",
+"department": "DEAN'S OFFICE (SCIENCE)",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

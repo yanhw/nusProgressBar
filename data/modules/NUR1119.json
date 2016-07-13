@@ -1,0 +1,31 @@
+{
+"moduleCode": "NUR1119",
+"moduleTitle": "Medical-Surgical Nursing I",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NUR2114 Medical/Surgical Nursing is precluded.",
+"prerequisite": "NUR1114 Fundamentals of Nursing to replace existing pre-requisite of NUR1108.",
+"preclusionList": [
+            "NUR2114"
+        ],
+"parsedPrerequisite": {
+" and ": ["NUR1108"]
+},
+"prerequisiteList": ["NUR1108"],
+"completePrerequisite": {
+            "name": "NUR1119", 
+            "children": [
+                {
+                    "name": "NUR1108", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "This module focuses on the therapeutic management of patients with alterations in cardiovascular, respiratory, hematological, endocrine, visual and dermatological function. It equips students with knowledge and skills to provide safe care to meet the needs of patients in medical and surgical settings.",
+"crossModule": "-1",
+"corequisite": "NUR1120 Comprehensive Health Assessment to replace existing co-requisites of NUR2106 and NUR2117.",
+"faculty": "YONG LOO LIN SCHOOL OF MEDICINE",
+"department": "NURSING/ALICE LEE CTR FOR NURSING STUD",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

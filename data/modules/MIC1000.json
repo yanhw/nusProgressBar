@@ -1,0 +1,22 @@
+{
+"moduleCode": "MIC1000",
+"moduleTitle": "Infection and Immunity",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "MIC1000", 
+            "children": []
+},
+"moduleDescription": "This is module focuses on the microbes which cause infections in man and the defences deployed by the body against them. The module is presented as two distinct components with the relationship between the components established throughout the module.",
+"crossModule": "-1",
+"corequisite": "Nil",
+"faculty": "YONG LOO LIN SCHOOL OF MEDICINE",
+"department": "MICROBIOLOGY & IMMUNOLOGY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

@@ -1,0 +1,42 @@
+{
+"moduleCode": "KE5108",
+"moduleTitle": "Developing Intelligent Systems for Performing Business Analytics",
+"moduleCredit": "8",
+"lockedModules":[
+            "KE5109"
+        ],
+"preclusion": "NIL",
+"prerequisite": "KE4102 Intelligent Systems and Techniques for Business Analytics KE5107 Data Mining Methodology and Methods",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " and ": [
+                "KE4102", 
+                "KE5107"
+            ]
+},
+"prerequisiteList": ["KE4102","KE5107"],
+"completePrerequisite": {
+            "name": "KE5108", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "KE4102", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "KE5107", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "The aim of this fourth core course - unit 7 of the Master of Technology (MTech) in Knowledge Engineering (KE) - is to discuss the system engineering (ie: modelling and development) of intelligent systems for Business Analytics. The objectives of the course are to: (1) Present the major stages of development cycle, including problem understanding, problem modelling, system architecture and design, algorithm/technique selection and system development and fine-tuning. (2) Introduce some of the typical hybrid architectures of intelligent system for problem solving in the Business Analytics context. (3) Discuss some advanced techniques and algorithms and their role in Business Analytics.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "NON-FACULTY-BASED DEPARTMENTS",
+"department": "INSTITUTE OF SYSTEMS SCIENCE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

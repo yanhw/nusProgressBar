@@ -1,0 +1,48 @@
+{
+"moduleCode": "EE3104E",
+"moduleTitle": "Intro to RF and Microwave Sys & Circuits",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "EE2011E",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["EE2011E"]
+},
+"prerequisiteList": ["EE2011E","TE2002","TE2102","TG1401"],
+"completePrerequisite": {
+            "name": "EE3104E", 
+            "children": [
+                {
+                    "name": "EE2011E", 
+                    "children": [
+                        {
+                            "name": "TE2002", 
+                            "children": [
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "TE2102", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "TG1401", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "Wireless communication and sensing systems play an ever increasing role in society. This module introduces the RF and microwave hardware systems and circuits. The applications include: GSM/CDMA, RFID, UWB, WLAN, Bluetooth, Zigbee, Radar and remote sensing",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "BACHELOR OF TECHNOLOGY PROGRAMME",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

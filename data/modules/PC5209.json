@@ -1,0 +1,46 @@
+{
+"moduleCode": "PC5209",
+"moduleTitle": "Accelerator Based Materials Characterisation",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "Students who have passed either one of these modules. PC4244, PC4212, PC4261, or Departmental Approval",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " and ": [
+                "PC4244", 
+                "PC4212", 
+                "PC4261"
+            ]
+},
+"prerequisiteList": ["PC4244","PC4212","PC4261"],
+"completePrerequisite": {
+            "name": "PC5209", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "PC4244", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "PC4212", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "PC4261", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "The course gives an introduction to the physics of ion beam analysis. After a general introduction, inter-atomic potentials, cross sections and stopping powers are discussed, and the theory of the stopping process is developed based on the Thomas-Fermi statistical atom. Accelerators and other instrumentation are introduced, and a range of analytical techniques is discussed in detail: Rutherford Backscattering (RBS), Proton Induced X-ray Emission (PIXE), Elastic Recoil Detection Analysis (ERDA), Nuclear Reaction Analysis NRA, and Accelerator Mass Spectrometry (AMS). Finally, the more specialised fields of Nuclear Microscopy and Synchrotron radiation are discussed.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCIENCE",
+"department": "PHYSICS",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

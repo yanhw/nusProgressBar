@@ -1,0 +1,22 @@
+{
+"moduleCode": "ESE4403",
+"moduleTitle": "Membrane Tech In Env Applns",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "ESE4 standing or higher",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "ESE4403", 
+            "children": []
+},
+"moduleDescription": "The module is designed to provide senior undergraduate students with basic knowledge of membrane technology and its applications in environmental fields. This module introduces the basic concepts and knowledge of membrane processes. Students will learn membrane classification, module types, and process configuration, and separation mechanisms. Topics cover the applications membrane processes in the treatment of surface water, groundwater, seawater, and wastewater. The fundamental principles for design and operation of membrane processes will also be addressed.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "CIVIL & ENVIRONMENTAL ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

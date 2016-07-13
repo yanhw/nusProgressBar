@@ -1,0 +1,79 @@
+{
+"moduleCode": "CM4251",
+"moduleTitle": "Characterization Techniques in Materials Chemistry",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "CM3252 and CM3253",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " and ": [
+                "CM3252", 
+                "CM3253"
+            ]
+},
+"prerequisiteList": ["CM3252","CM1131","CM2121","CM1121","CM3253","CM2111","CM1111"],
+"completePrerequisite": {
+            "name": "CM4251", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "CM3252", 
+                            "children": [
+                                {
+                                    "name": "and", 
+                                    "children": [
+                                        {
+                                            "name": "CM1131", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "CM2121", 
+                                            "children": [
+                                                {
+                                                    "name": "CM1121", 
+                                                    "children": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "CM3253", 
+                            "children": [
+                                {
+                                    "name": "and", 
+                                    "children": [
+                                        {
+                                            "name": "CM1131", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "CM2111", 
+                                            "children": [
+                                                {
+                                                    "name": "CM1111", 
+                                                    "children": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "Preparation and characterization of materials form crucial and vital aspects of materials research. Highly developed instruments are now available to apply an interdisciplinary study to understand the structure-property relationship. This module provides undergraduates an introduction to modern materials characterization techniques which comprise surface analysis techniques, X-ray diffraction, microscopy, thermal analyses, mechanical tastings and spectroscopies.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCIENCE",
+"department": "CHEMISTRY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

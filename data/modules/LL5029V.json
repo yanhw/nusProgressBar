@@ -1,0 +1,24 @@
+{
+"moduleCode": "LL5029V",
+"moduleTitle": "International Commercial Arbitration",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "Students who are taking or have taken LL5029",
+"prerequisite": "NUS Compulsory Core Curriculum or its equivalent",
+"preclusionList": [
+            "LL5029"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "LL5029V", 
+            "children": []
+},
+"moduleDescription": "This course aims to equip students with the basic understanding of the law of arbitration to enable them to advise and represent parties in the arbitral process confidence. Legal concepts peculiar to arbitration viz. separability, arbitrability and kompetenze-kompetenze will considered together with the procedural laws on the conduct of the arbitral process, the making of and the enforcement of awards. Students will examine the UNCITRAL Model Law and the New York Convention, 1958. This course is most suited for students with some knowledge of the law of commercial transactions, shipping, banking, international sale of goods or construction.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "LAW",
+"department": "LAW",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

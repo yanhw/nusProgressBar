@@ -1,0 +1,337 @@
+{
+"moduleCode": "CN4118E",
+"moduleTitle": "B.Tech. Dissertation",
+"moduleCredit": "10",
+"lockedModules":[
+],
+"preclusion": "TC4118",
+"prerequisite": "TC1401 & TC1422 & CN1111E & TC1402/ TC2401 & TC2421 & CN2121E & CN2122E & CN2116E & CN2125E & CN3124E & CN3421E & CN3121E & CN3132E & CN4111E/CN3135E",
+"preclusionList": [
+            "TC4118"
+        ],
+"parsedPrerequisite": {
+            " and ": [
+                "TC1401", 
+                "TC1422", 
+                "CN1111E", 
+                {
+                    " or ": [
+                        "TC1402", 
+                        "TC2401"
+                    ]
+                }, 
+                "TC2421", 
+                "CN2121E", 
+                "CN2122E", 
+                "CN2116E", 
+                "CN2125E", 
+                "CN3124E", 
+                "CN3421E", 
+                "CN3121E", 
+                "CN3132E", 
+                {
+                    " or ": [
+                        "CN4111E", 
+                        "CN3135E"
+                    ]
+                }
+            ]
+},
+"prerequisiteList": ["TC1401","TC1422","CN1111E","TC1402","TC2401","TC2421","CN2121E","CN2122E","CN2116E","TC1101","CN2125E","TC2112","CN3124E","CN3421E","CN3121E","CN3132E","CN4111E","CN3135E"],
+"completePrerequisite": {
+            "name": "CN4118E", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "TC1401", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "TC1422", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "CN1111E", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "or", 
+                            "children": [
+                                {
+                                    "name": "TC1402", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "TC2401", 
+                                    "children": []
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "TC2421", 
+                            "children": [
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "TC1402", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "TC2401", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "CN2121E", 
+                            "children": [
+                                {
+                                    "name": "CN1111E", 
+                                    "children": []
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "CN2122E", 
+                            "children": [
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "TC1402", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "TC2401", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "CN2116E", 
+                            "children": [
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "TC1101", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "CN1111E", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "CN2125E", 
+                            "children": [
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "TC2112", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "CN2122E", 
+                                            "children": [
+                                                {
+                                                    "name": "or", 
+                                                    "children": [
+                                                        {
+                                                            "name": "TC1402", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "TC2401", 
+                                                            "children": []
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "CN3124E", 
+                            "children": [
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "TC2112", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "CN2122E", 
+                                            "children": [
+                                                {
+                                                    "name": "or", 
+                                                    "children": [
+                                                        {
+                                                            "name": "TC1402", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "TC2401", 
+                                                            "children": []
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "CN3421E", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "CN3121E", 
+                            "children": [
+                                {
+                                    "name": "TC2421", 
+                                    "children": [
+                                        {
+                                            "name": "or", 
+                                            "children": [
+                                                {
+                                                    "name": "TC1402", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "TC2401", 
+                                                    "children": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "CN3132E", 
+                            "children": [
+                                {
+                                    "name": "and", 
+                                    "children": [
+                                        {
+                                            "name": "CN1111E", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "CN2121E", 
+                                            "children": [
+                                                {
+                                                    "name": "CN1111E", 
+                                                    "children": []
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "CN2125E", 
+                                            "children": [
+                                                {
+                                                    "name": "or", 
+                                                    "children": [
+                                                        {
+                                                            "name": "TC2112", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "CN2122E", 
+                                                            "children": [
+                                                                {
+                                                                    "name": "or", 
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "TC1402", 
+                                                                            "children": []
+                                                                        }, 
+                                                                        {
+                                                                            "name": "TC2401", 
+                                                                            "children": []
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "or", 
+                            "children": [
+                                {
+                                    "name": "CN4111E", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "CN3135E", 
+                                    "children": [
+                                        {
+                                            "name": "and", 
+                                            "children": [
+                                                {
+                                                    "name": "CN2121E", 
+                                                    "children": [
+                                                        {
+                                                            "name": "CN1111E", 
+                                                            "children": []
+                                                        }
+                                                    ]
+                                                }, 
+                                                {
+                                                    "name": "CN2122E", 
+                                                    "children": [
+                                                        {
+                                                            "name": "or", 
+                                                            "children": [
+                                                                {
+                                                                    "name": "TC1402", 
+                                                                    "children": []
+                                                                }, 
+                                                                {
+                                                                    "name": "TC2401", 
+                                                                    "children": []
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "ENGINEERING",
+"department": "BACHELOR OF TECHNOLOGY PROGRAMME",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,3,0,]]
+}

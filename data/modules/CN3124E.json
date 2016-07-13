@@ -1,0 +1,59 @@
+{
+"moduleCode": "CN3124E",
+"moduleTitle": "Particle Technology",
+"moduleCredit": "4",
+"lockedModules":[
+            "CN4118E",
+            "CN4122E"
+        ],
+"preclusion": "TC3114",
+"prerequisite": "TC2112/ CN2122E",
+"preclusionList": [
+            "TC3114"
+        ],
+"parsedPrerequisite": {
+            " or ": [
+                "TC2112", 
+                "CN2122E"
+            ]
+},
+"prerequisiteList": ["TC2112","CN2122E","TC1402","TC2401"],
+"completePrerequisite": {
+            "name": "CN3124E", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "TC2112", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "CN2122E", 
+                            "children": [
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "TC1402", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "TC2401", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "ENGINEERING",
+"department": "BACHELOR OF TECHNOLOGY PROGRAMME",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

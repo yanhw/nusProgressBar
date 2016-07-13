@@ -1,0 +1,24 @@
+{
+"moduleCode": "EE4001",
+"moduleTitle": "B.Eng. Dissertation",
+"moduleCredit": "12",
+"lockedModules":[
+],
+"preclusion": "CG4001",
+"prerequisite": "Level 4 Standing",
+"preclusionList": [
+            "CG4001"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "EE4001", 
+            "children": []
+},
+"moduleDescription": "In this module, students will do a research project over two semesters on a topic of current interest in Electrical and Computer Engineering. Students learn how to apply skills acquired in the classroom and also think of innovative ways of solving problems. Apart from intrinsic rewards such as the pleasure of problem solving, students are able to acquire skills for independent and lifelong learning. The objective of this module is to teach skills, such as questioning, forming hypotheses and gathering evidence. Students learn to work in a research environment.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "ELECTRICAL & COMPUTER ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,3,4,]]
+}

@@ -1,0 +1,47 @@
+{
+"moduleCode": "EE2011E",
+"moduleTitle": "Engineering Electromagnetics",
+"moduleCredit": "4",
+"lockedModules":[
+            "EE4101E",
+            "EE3104E",
+            "EE2032E",
+            "EE4112E"
+        ],
+"preclusion": "NIL",
+"prerequisite": "TE2002",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["TE2002"]
+},
+"prerequisiteList": ["TE2002","TE2102","TG1401"],
+"completePrerequisite": {
+            "name": "EE2011E", 
+            "children": [
+                {
+                    "name": "TE2002", 
+                    "children": [
+                        {
+                            "name": "or", 
+                            "children": [
+                                {
+                                    "name": "TE2102", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "TG1401", 
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "Electromagnetic (EM) and transmission line theory is essential in all disciplines of electrical and computer engineering. EM theory is the fundamental basis for understanding transmission lines and electrical energy transmission. To understand and solve EM and transmission line problems encountered in electrical and computer engineering, rigorous analytical methods are required. At the end of this module, in addition to being able to solve EM and transmission line problems, the student will be able to design transmission line circuits, design electrical elements with lumped behaviour, and mitigate EM interference. To enhance understanding, case studies and computer visualisation tools will be used. Topics covered: Static electric and magnetic fields. Maxwell's equations. Electromagnetic waves: plane-wave propagation, behaviour at interface between media, shielding, electromagnetic compatability. Transmission lines. Impedance matching. Radiation. Case studies.",
+"crossModule": "-1",
+"corequisite": "TE2003",
+"faculty": "ENGINEERING",
+"department": "BACHELOR OF TECHNOLOGY PROGRAMME",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

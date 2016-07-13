@@ -1,0 +1,39 @@
+{
+"moduleCode": "CS4345",
+"moduleTitle": "General-Purpose Computation on GPU",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "CS3241",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["CS3241"]
+},
+"prerequisiteList": ["CS3241","CS1020","CS1010"],
+"completePrerequisite": {
+            "name": "CS4345", 
+            "children": [
+                {
+                    "name": "CS3241", 
+                    "children": [
+                        {
+                            "name": "CS1020", 
+                            "children": [
+                                {
+                                    "name": "CS1010", 
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "With the advancements in the technology of graphics processing units (GPUs), many computations can be performed faster on the GPUs than the CPUs. They are also programmable, making them useful for not just computer graphics processing but also general-purpose computations. Therefore, they are a natural choice as high-speed coprocessors to the CPUs in various applications. This module introduces the architecture of GPU, program writing on GPU using high-level language such as Cg, and the use of GPU in applications including computer graphics, games, scientific computation, and image processing.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF COMPUTING",
+"department": "COMPUTER SCIENCE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

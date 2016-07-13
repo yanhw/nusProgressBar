@@ -1,0 +1,22 @@
+{
+"moduleCode": "SA4101",
+"moduleTitle": "Object Oriented Analysis And Design",
+"moduleCredit": "6",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "SA4101", 
+            "children": []
+},
+"moduleDescription": "- Fundamentals of Programming using C# - Object Oriented Programming using C# - User Interface Development with Visual Studio Net and C# - SQL Programming &amp; DBMS - Enterprise System Development using .Net Framework",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "NON-FACULTY-BASED DEPARTMENTS",
+"department": "INSTITUTE OF SYSTEMS SCIENCE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

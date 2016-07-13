@@ -1,0 +1,29 @@
+{
+"moduleCode": "EE4511",
+"moduleTitle": "Sustainable Energy Systems",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "EE2022",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["EE2022"]
+},
+"prerequisiteList": ["EE2022"],
+"completePrerequisite": {
+            "name": "EE4511", 
+            "children": [
+                {
+                    "name": "EE2022", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "This module provides the students with a good overview of sustainable electric energy systems for promoting the advancement and use of economically and environmentally sustainable electrical energy systems. The module will cover distributed generation and sustainable energy sources, and strategies for supply and demand side management for efficient resource utilisation. Issues related to environmental impact of electrical energy generation will be discussed. Models of power distribution systems with embedded generation and microgrids will be introduced. The module will also cover system integration issues in both short-term and long-term operation, and economic issues of distributed resources.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "ELECTRICAL & COMPUTER ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

@@ -1,0 +1,38 @@
+{
+"moduleCode": "EL1101E",
+"moduleTitle": "The Nature of Language",
+"moduleCredit": "4",
+"lockedModules":[
+            "EL3254",
+            "EL3258",
+            "EN2271",
+            "EL3208",
+            "EL3209",
+            "EL3203",
+            "EL3206",
+            "EL2102",
+            "EL2101",
+            "EL3211",
+            "EL3212",
+            "EL2111",
+            "EL2151",
+            "EL3880F"
+        ],
+"preclusion": "GEK1011",
+"prerequisite": "Exempted from NUS Qualifying English Test, or passed NUS Qualifying English Test, or exempted from further CELC Remedial English modules.",
+"preclusionList": [
+            "GEK1011"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "EL1101E", 
+            "children": []
+},
+"moduleDescription": "This introductory overview of linguistics aims at equipping students with a solid foundation in the object, methods and goals of the science of spoken language, the prime tool of human communication. Through a principled analysis of patterns of sound, form and meaning at the levels of word, sentence and text, students will gain insight into what it means to say that language is a rule-governed system and an organic whole. The results of this exploration will be useful to those interested in the relationship between language and mind, society and culture.",
+        "CrossModule": "GEK1011", 
+"corequisite": "NIL",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "ENGLISH LANGUAGE & LITERATURE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

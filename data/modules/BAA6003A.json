@@ -1,0 +1,34 @@
+{
+"moduleCode": "BAA6003A",
+"moduleTitle": "Seminar on Empirical Capital Markets Research",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "BAA6001 (BAA6002 and BAA6003A could be taken in different order).",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["BAA6002"]
+},
+"prerequisiteList": ["BAA6002","BAA6001"],
+"completePrerequisite": {
+            "name": "BAA6003A", 
+            "children": [
+                {
+                    "name": "BAA6002", 
+                    "children": [
+                        {
+                            "name": "BAA6001", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module is designed to prepare doctoral students with the necessary knowledge and skills to complete their dissertations. Methodological and econometric issues surrounding topics such as earnings management and stock market anomalies would be covered.",
+"crossModule": "-1",
+"corequisite": "none",
+"faculty": "SCHOOL OF BUSINESS",
+"department": "ACCOUNTING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,3,0,]]
+}

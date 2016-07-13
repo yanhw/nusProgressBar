@@ -1,0 +1,83 @@
+{
+"moduleCode": "MA3233",
+"moduleTitle": "Combinatorics and Graphs II",
+"moduleCredit": "4",
+"lockedModules":[
+            "MA3259",
+            "MA4235"
+        ],
+"preclusion": "NIL",
+"prerequisite": "MA2214",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["MA2214"]
+},
+"prerequisiteList": ["MA2214","MA1100","MA1101R","MA1311","MA1506","MA1102R","MA1505","MA1521","MA1508","CS1231","CS1231S"],
+"completePrerequisite": {
+            "name": "MA3233", 
+            "children": [
+                {
+                    "name": "MA2214", 
+                    "children": [
+                        {
+                            "name": "or", 
+                            "children": [
+                                {
+                                    "name": "MA1100", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "MA1101R", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "MA1311", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "MA1506", 
+                                    "children": [
+                                        {
+                                            "name": "or", 
+                                            "children": [
+                                                {
+                                                    "name": "MA1102R", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MA1505", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MA1521", 
+                                                    "children": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }, 
+                                {
+                                    "name": "MA1508", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "CS1231", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "CS1231S", 
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This is a continuation of MA2214 Combinatorics and Graphs I. The objective is to introduce to students fundamental principles and techniques in Graph Theory. Major topics: Connectivity, Eulerian Multigraphs and Hamiltonian Graphs, Matching, Covering and Independence, Vertex Coloring (including basics of Planar Graphs), Digraphs, Basic Spectral Graph Theory (including Eigenvalues of Graphs and Graph Laplacians).",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCIENCE",
+"department": "MATHEMATICS",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

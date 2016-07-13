@@ -1,0 +1,30 @@
+{
+"moduleCode": "LAB2201",
+"moduleTitle": "Bahasa Indonesia 2",
+"moduleCredit": "4",
+"lockedModules":[
+            "LAB3201"
+        ],
+"preclusion": "NIL",
+"prerequisite": "Passed LAB1201 or placement test",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["LAB1201"]
+},
+"prerequisiteList": ["LAB1201"],
+"completePrerequisite": {
+            "name": "LAB2201", 
+            "children": [
+                {
+                    "name": "LAB1201", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "This module aims to further enhance students' proficiency in the four basic skills of speaking, listening, reading, and writing. Students will be exposed to more language functions and a wider range of topics. Through reading formulaic authentic texts, students will be introduced to the language in written form as it appears in daily communicative situations to achieve further understanding of the country, its culture and its people. At the end of this course, students will be equipped with a sound foundation of the language to maintain communication on topics relating to their personal and immediate environment.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "CENTRE FOR LANGUAGE STUDIES",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

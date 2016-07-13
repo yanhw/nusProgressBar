@@ -1,0 +1,45 @@
+{
+"moduleCode": "FST2107",
+"moduleTitle": "Food Analysis Lab",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "CM2192, CM2192A, FST2102A",
+"prerequisite": "FST1101 and CM1191",
+"preclusionList": [
+            "CM2192A",
+            "FST2102A",
+            "CM2192"
+        ],
+"parsedPrerequisite": {
+            " and ": [
+                "FST1101", 
+                "CM1191"
+            ]
+},
+"prerequisiteList": ["FST1101","CM1191"],
+"completePrerequisite": {
+            "name": "FST2107", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "FST1101", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "CM1191", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "The module emphasizes on educating hands-on experiences on the study of basic chemical principles, which influences the safety, nutritional value and functional property of foods. Students will learn food sample preparation techniques and apply high performance liquid chromatographic system, atom absorption spectrometer, and UV-VIS spectrophotometer to analyze food compositions and additives as well as enzymatic reaction kinetics related to food systems.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCIENCE",
+"department": "CHEMISTRY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

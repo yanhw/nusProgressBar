@@ -1,0 +1,50 @@
+{
+"moduleCode": "CM4258",
+"moduleTitle": "Advanced Polymer Science",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "CM4268",
+"prerequisite": "CM3252",
+"preclusionList": [
+            "CM4268"
+        ],
+"parsedPrerequisite": {
+" and ": ["CM3252"]
+},
+"prerequisiteList": ["CM3252","CM1131","CM2121","CM1121"],
+"completePrerequisite": {
+            "name": "CM4258", 
+            "children": [
+                {
+                    "name": "CM3252", 
+                    "children": [
+                        {
+                            "name": "and", 
+                            "children": [
+                                {
+                                    "name": "CM1131", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "CM2121", 
+                                    "children": [
+                                        {
+                                            "name": "CM1121", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module will be focused on some advanced topics which are not covered in basic polymer science. The topics include: (1) new polymerization methods (e.g. controlled radical polymerization, metallocene polymerization and olefin metathesis polymerization); (2) block copolymers and their applications; (3) dendritic macromolecules; (4) naturally occurring polymers and biopolymers; (5) inorganic and organometallic polymers; (6) supramolecular polymers and smart polymers; (7) conducting polymers and their applications",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCIENCE",
+"department": "CHEMISTRY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

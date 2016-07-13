@@ -1,0 +1,31 @@
+{
+"moduleCode": "RE4001",
+"moduleTitle": "Real Estate Case Study",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "RE4182 Real Estate Project/Case Study",
+"prerequisite": "RE4182 Real Estate Project/Case Study",
+"preclusionList": [
+            "RE4182"
+        ],
+"parsedPrerequisite": {
+" and ": ["RE4182"]
+},
+"prerequisiteList": ["RE4182"],
+"completePrerequisite": {
+            "name": "RE4001", 
+            "children": [
+                {
+                    "name": "RE4182", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "This module aims at developing students\u2019 capability in analysing and evaluating case studies. Students are expected to select a real estate development as a case study, examine the pertinent issues involved, collect relevant data relating to the case, analyse the case facts, and recommend appropriate solutions to problems.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF DESIGN AND ENVIRONMENT",
+"department": "REAL ESTATE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

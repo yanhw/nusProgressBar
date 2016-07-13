@@ -1,0 +1,22 @@
+{
+"moduleCode": "LAI1731",
+"moduleTitle": "Italian for Singers I",
+"moduleCredit": "3",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "LAI1731", 
+            "children": []
+},
+"moduleDescription": "This module serves as the first semester of Italian language studies for Voice Majors in the Yong Siew Toh Conservatory of Music. Basic grammar, morphology, syntax and conversation will be emphasized. Open to YSTCM students only.",
+"crossModule": "-1",
+"corequisite": "Nil",
+"faculty": "YONG SIEW TOH CONSERVATORY OF MUSIC",
+"department": "YONG SIEW TOH CONSERVATORY OF MUSIC",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

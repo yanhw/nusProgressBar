@@ -1,0 +1,79 @@
+{
+"moduleCode": "MA2108",
+"moduleTitle": "Mathematical Analysis I",
+"moduleCredit": "4",
+"lockedModules":[
+            "MA3264",
+            "MA3110S",
+            "MA3265",
+            "MA3291",
+            "MA3220",
+            "MA3110"
+        ],
+"preclusion": "MA2108S, MA2206, MA2208, MA2221, MA2311, MQ2202, MQ2102, MQ2203, CN2401, EE2401, ME2492.",
+"prerequisite": "MA1102 or MA1102R or MA1505 or MA1505C or MA1507 or MA1521",
+"preclusionList": [
+            "MA2206",
+            "MA2108S",
+            "EE2401",
+            "MA2208",
+            "MQ2102",
+            "CN2401",
+            "MA2311",
+            "MQ2202",
+            "MQ2203",
+            "MA2221",
+            "ME2492"
+        ],
+"parsedPrerequisite": {
+            " or ": [
+                "MA1102", 
+                "MA1102R", 
+                "MA1505", 
+                "MA1505C", 
+                "MA1507", 
+                "MA1521"
+            ]
+},
+"prerequisiteList": ["MA1102","MA1102R","MA1505","MA1505C","MA1507","MA1521"],
+"completePrerequisite": {
+            "name": "MA2108", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "MA1102", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "MA1102R", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "MA1505", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "MA1505C", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "MA1507", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "MA1521", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "The objective of this module is to introduce the student to the contents and methods of elementary mathematical analysis. The course develops rigorously the following concepts arising from calculus: the real number system, sequences and series of constant terms, limit and continuity of functions. The emphasis is on logical rigour. The student will be exposed to and be expected to acquire the skills to read and write mathematical proofs. Major topics: Basic properties of real numbers, supremum and infimum, completeness axiom. Sequences, limits, monotone convergence theorem, Bolzano-Weierstrass theorem, Cauchy's criterion for convergence. Infinite series, Cauchy's criteria, absolute and conditional convergence, tests for convergence. Limits of functions, fundamental limit theorems, one-sided limits, limits at infinity, monotone functions. Continuity of functions, intermediate-value theorem, extreme-value theorem, inverse functions.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCIENCE",
+"department": "MATHEMATICS",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

@@ -1,0 +1,24 @@
+{
+"moduleCode": "SSA2215",
+"moduleTitle": "The Biophysical Environment of Singapore",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "GES1004",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "GES1004"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "SSA2215", 
+            "children": []
+},
+"moduleDescription": "The module will focus on the functions of the biophysical environment of the city state of Singapore. The topics include geology, soils, river systems, water supply, natural reserves, green areas, land reclamation and coastal environments. The environmental problems that arise from the development of a large tropical city within a limited area, and the possible solutions for such problems will be examined. The module does not require an extensive science or mathematics background.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "GEOGRAPHY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

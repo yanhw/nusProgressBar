@@ -1,0 +1,50 @@
+{
+"moduleCode": "IT2001",
+"moduleTitle": "Network Technology and Applications",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "CS2105, EE3204/E, EE4210; SoC, EEE & CPE students are not allowed to take this module. Arts and social sciences students reading CNM as a subject/concentration are not allowed to read this module as CFM/URL-Breadth.",
+"prerequisite": "(CS1010 or its equivalent) or GEK1511 or IT1001",
+"preclusionList": [
+            "EE4210",
+            "CS2105",
+            "EE3204"
+        ],
+"parsedPrerequisite": {
+            " or ": [
+                "CS1010", 
+                "GEK1511", 
+                "IT1001"
+            ]
+},
+"prerequisiteList": ["CS1010","GEK1511","IT1001"],
+"completePrerequisite": {
+            "name": "IT2001", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "CS1010", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "GEK1511", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "IT1001", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "The objective of the module is to provide technological background in telecommunications, data communication and Internet technology to non-computer science students. It covers the basic concepts in communication and networking, and looks at Internet and telecommunication in detail. It also deals with some common applications in all these areas and looks at the possible convergence of various communication technologies. The impact on social and business areas as a result of the wide spread use of the fast changing communication technologies are also addressed.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF COMPUTING",
+"department": "COMPUTER SCIENCE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

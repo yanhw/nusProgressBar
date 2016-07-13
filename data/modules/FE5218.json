@@ -1,0 +1,29 @@
+{
+"moduleCode": "FE5218",
+"moduleTitle": "Credit Risk",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "FE5101: Derivatives and Fixed Income",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["FE5101"]
+},
+"prerequisiteList": ["FE5101"],
+"completePrerequisite": {
+            "name": "FE5218", 
+            "children": [
+                {
+                    "name": "FE5101", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "The course consists of two parts \u2013 (i) statistical credit rating models and (ii) credit derivatives. The first part would cover various statistical credit rating models including Altman\u2019s Z-score, logistic regression, artificial neural network and intensity models. The second part will cover various models used to price credit derivative as well as tools used to manage credit risk. The topics covered would include real and risk neutral probability of default, RiskMetricsTM, CreditRisk+, default correlation, Copula, Basket default swap, CDOs etc.",
+"crossModule": "-1",
+"corequisite": "FE 5102: Quantitative Methods and Programming",
+"faculty": "SPECIALITY RESEARCH INSTITUTES/CENTRES",
+"department": "RISK MANAGEMENT INSTITUTE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

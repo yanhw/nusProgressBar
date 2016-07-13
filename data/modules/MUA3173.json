@@ -1,0 +1,22 @@
+{
+"moduleCode": "MUA3173",
+"moduleTitle": "Electroacoustics",
+"moduleCredit": "3",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "Acoustics and Psychoacoustics",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "MUA3173", 
+            "children": []
+},
+"moduleDescription": "This course module covers electroacoustic transducers and systems. Transducers commonly used in audio recording and production include a variety of types of microphones and speakers including dynamic moving coil, condenser, ribbon, piezo, and electrostatic. Electroacoustic systems will be explored including the basics of analog and digital electronics for recording, amplification, signal processing, and reproduction.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "YONG SIEW TOH CONSERVATORY OF MUSIC",
+"department": "YONG SIEW TOH CONSERVATORY OF MUSIC",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

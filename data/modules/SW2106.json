@@ -1,0 +1,29 @@
+{
+"moduleCode": "SW2106",
+"moduleTitle": "Social Group Work Practice",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "Students from 2008 cohort onwards, who have completed SW1101E and who are majoring in Social Work.",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["SW1101E"]
+},
+"prerequisiteList": ["SW1101E"],
+"completePrerequisite": {
+            "name": "SW2106", 
+            "children": [
+                {
+                    "name": "SW1101E", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "The module will focus on the generalist and specialized methods of group intervention within the context of specific populations and settings. The phases of group work development, group processes, therapeutic factors and role of the leader in facilitating these will be critically examined. Contemporary group work approaches in organisational, residential and community settings are compared and contrasted. Assessment methods of social group work practice are included.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "SOCIAL WORK",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

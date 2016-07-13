@@ -1,0 +1,63 @@
+{
+"moduleCode": "BSP3516",
+"moduleTitle": "S'pore & ASEAN: Geoeconomics & Geopolitics of Business",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "BSP1005 Managerial Economics; and BSP2001 Macro and International Economics",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " and ": [
+                "BSP1005", 
+                "BSP2001"
+            ]
+},
+"prerequisiteList": ["BSP1005","BSP2001","BH1005","BZ1006","BK1008"],
+"completePrerequisite": {
+            "name": "BSP3516", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "BSP1005", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "BSP2001", 
+                            "children": [
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "BSP1005", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "BH1005", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "BZ1006", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "BK1008", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "The course is grounded on doing business in open economies with international trade and exchange. This model is applicable to small and open city-state Singapore and enables it to first tap the Association of Southeast Asian Nations (ASEAN) before wider outreaches to billion-plus populated China and India. An ASEAN that is tighter in economic integration is pivotal as China is more aggressively competitive since the 1970s with India awakening as well. This course will focus on ASEAN-plus business opportunities for Singapore-based companies to forge business alliances and ventures to tap natural resources in production and markets for sales and revenue.",
+"crossModule": "-1",
+"corequisite": "Nil",
+"faculty": "SCHOOL OF BUSINESS",
+"department": "STRATEGY AND POLICY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

@@ -1,0 +1,22 @@
+{
+"moduleCode": "PR5239",
+"moduleTitle": "Clinical Pharmacy Research Project",
+"moduleCredit": "12",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "Acceptance in the PharmD programme or by permission",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "PR5239", 
+            "children": []
+},
+"moduleDescription": "This module is designed to help students develop skills for clinical research. Areas covered include formulation of research ideas into protocols for clinical studies, gathering, analysis and presentation of clinical data.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCIENCE",
+"department": "PHARMACY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

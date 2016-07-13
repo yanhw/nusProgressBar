@@ -1,0 +1,22 @@
+{
+"moduleCode": "IE5002",
+"moduleTitle": "Applied Engineering Statistics",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "IE5002", 
+            "children": []
+},
+"moduleDescription": "Statistical analysis and experimentation techniques for engineers. Topics include analysis of variance, regression analysis, factorial and fractional factorial designs, response surface methodology and non-parametric methods. The module is application oriented and examples drawn from industrial applications rather than mathematical development will be used wherever possible to introduce a topic.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "INDUSTRIAL & SYSTEMS ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

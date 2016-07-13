@@ -1,0 +1,48 @@
+{
+"moduleCode": "YSC3217",
+"moduleTitle": "Programming Operating Systems, Interfaces & eXtras",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "YSC3207: Principles and Tools for Software Development",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["YSC3207"]
+},
+"prerequisiteList": ["YSC3207","YCC2133","YCC1132","YSC1202"],
+"completePrerequisite": {
+            "name": "YSC3217", 
+            "children": [
+                {
+                    "name": "YSC3207", 
+                    "children": [
+                        {
+                            "name": "or", 
+                            "children": [
+                                {
+                                    "name": "YCC2133", 
+                                    "children": [
+                                        {
+                                            "name": "YCC1132", 
+                                            "children": []
+                                        }
+                                    ]
+                                }, 
+                                {
+                                    "name": "YSC1202", 
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "While YSC3207 focused on programming in different languages and tools to help software development, students at this point do not really understand how an Operating System works. Operating Systems are also actually programs and as such, follow the same rules and logic on a lower level. Computer Scientists should have enough knowledge to understand these low level mechanisms in order to be able to develop on any given platform.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "YALE-NUS COLLEGE",
+"department": "YALE-NUS COLLEGE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

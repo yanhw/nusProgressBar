@@ -1,0 +1,22 @@
+{
+"moduleCode": "SW5111A",
+"moduleTitle": "Practicum",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "Students enrolled in MSW (course work) programme.",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "SW5111A", 
+            "children": []
+},
+"moduleDescription": "Practicum is a compulsory module for candidates who do not have a Bachelor\u2019s degree in social work or equivalent. This module is designed to ensure practice competence by providing 800 hour first hand, systematic and supervised practice experiences in the actual field together with seminars for integration of social work theories with practice. The stipulated hours should be completed prior to graduation.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "SOCIAL WORK",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

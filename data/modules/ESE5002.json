@@ -1,0 +1,22 @@
+{
+"moduleCode": "ESE5002",
+"moduleTitle": "Physical and Process Principles",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "Graduate students standing",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "ESE5002", 
+            "children": []
+},
+"moduleDescription": "This module introduces students to the fundamentals of unit operations and processes for domestic water supply and wastewater treatment. This module will enable students to understand the principles involved in the main treatment processes of water and wastewater treatment systems. Fundamental as well as practical aspects of water and wastewater treatment systems will be covered.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "CIVIL & ENVIRONMENTAL ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

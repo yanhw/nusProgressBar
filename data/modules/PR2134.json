@@ -1,0 +1,70 @@
+{
+"moduleCode": "PR2134",
+"moduleTitle": "Self Care I",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "PX2108, PA1113, PR1140",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " and ": [
+                "PX2108", 
+                "PA1113", 
+                "PR1140"
+            ]
+},
+"prerequisiteList": ["PX2108","AY1130","PY1131","PA1113","PR1140"],
+"completePrerequisite": {
+            "name": "PR2134", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "PX2108", 
+                            "children": [
+                                {
+                                    "name": "and", 
+                                    "children": [
+                                        {
+                                            "name": "AY1130", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "PY1131", 
+                                            "children": [
+                                                {
+                                                    "name": "AY1130", 
+                                                    "children": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "PA1113", 
+                            "children": [
+                                {
+                                    "name": "AY1130", 
+                                    "children": []
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "PR1140", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module aims to prepare pharmacy students in integrating and recommending appropriate nutrition, herbal therapies, non-medication therapies and over-the-counter remedies in collaboration with other health professionals.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCIENCE",
+"department": "PHARMACY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

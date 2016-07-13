@@ -1,0 +1,28 @@
+{
+"moduleCode": "BSP3001A",
+"moduleTitle": "Strategic Management",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "BSP3001 or BSP3001B or BSP3001C or BSP3001D or BSP3001E",
+"prerequisite": "All foundation modules",
+"preclusionList": [
+            "BSP3001E",
+            "BSP3001C",
+            "BSP3001B",
+            "BSP3001",
+            "BSP3001D"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "BSP3001A", 
+            "children": []
+},
+"moduleDescription": "This course is targeted for all final year business students. It is an integrative capstone course designed to give students an overview of different concepts on business policy and strategy. During the course, students will examine the dynamic nature of todays organizations and the rewards and challenges for individuals who are members of those organizations. The course has three specific objectives: (1) Understand strategy theories in practice (using the VRIO - Value-Rarity-Imitatibility-Organization framework), (2) Develop practical skills for the workplace, and (3) Immerse in team culture.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF BUSINESS",
+"department": "STRATEGY AND POLICY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

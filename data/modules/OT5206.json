@@ -1,0 +1,34 @@
+{
+"moduleCode": "OT5206",
+"moduleTitle": "Offshore Foundations",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "CE2112 Basic Undergraduate Soil Mechanics",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["CE2112"]
+},
+"prerequisiteList": ["CE2112","EG1109"],
+"completePrerequisite": {
+            "name": "OT5206", 
+            "children": [
+                {
+                    "name": "CE2112", 
+                    "children": [
+                        {
+                            "name": "EG1109", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module is concerned with the analysis and design of foundations for offshore structures. Students will learn the principles, concepts and design considerations that are peculiar to the offshore environment. The major topics covered include: offshore design considerations; foundations for jack-up rigs and offshore gravity platforms; offshore pile foundations installation, analysis and design.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "CIVIL & ENVIRONMENTAL ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

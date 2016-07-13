@@ -1,0 +1,42 @@
+{
+"moduleCode": "MLE3102",
+"moduleTitle": "Degradation and Failure of Materials",
+"moduleCredit": "4",
+"lockedModules":[
+            "MLE4102"
+        ],
+"preclusion": "NIL",
+"prerequisite": "MLE1101 or MLE2102",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " or ": [
+                "MLE1101", 
+                "MLE2102"
+            ]
+},
+"prerequisiteList": ["MLE1101","MLE2102"],
+"completePrerequisite": {
+            "name": "MLE3102", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "MLE1101", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "MLE2102", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "Corrosion of metals and alloys: Economics of corrosion, Thermodynamics and electrochemistry of corrosion, Types of corrosion, Environmental effects on corrosion, Corrosion of selected metals and alloys, Corrosion protection, Corrosion monitoring; Degradation of nonmetallic materials: Biological, chemical and photodegradation of polymers, Environmental degradation, Photocorrosion of semiconductors; Failure mechanisms of materials. Failure analysis and Non-destructive testing: techniques and methodology, case histories.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "ENGINEERING",
+"department": "MATERIALS SCIENCE AND ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

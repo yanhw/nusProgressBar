@@ -1,0 +1,23 @@
+{
+"moduleCode": "NM2216",
+"moduleTitle": "User Centred Design Methodologies",
+"moduleCredit": "4",
+"lockedModules":[
+            "CS4249"
+        ],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "NM2216", 
+            "children": []
+},
+"moduleDescription": "This module introduces students to interactive media design from the perspective of users as the purpose for the activity of designing. Topics covered include user centred design, approaches to understanding users, requirements gathering, visualizing and prototyping design ideas, followed by the evaluation and testing of these ideas. The module will also touch on more advanced issues such as representation and interactivity by exploring the ways in which various fields such as human-computer interaction, computer games, and interactive art and entertainment view users and interactive media design.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "COMMUNICATIONS AND NEW MEDIA",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

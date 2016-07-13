@@ -1,0 +1,24 @@
+{
+"moduleCode": "LL5104V",
+"moduleTitle": "Jurisprudence",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "Students who are taking or have taken LL5104.",
+"prerequisite": "NUS Compulsory Core Curriculum or its equivalent.",
+"preclusionList": [
+            "LL5104"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "LL5104V", 
+            "children": []
+},
+"moduleDescription": "This is an advanced-level course which provides an opportunity for rigorous study about the nature of law and broader issues in legal and political theory such as the nature of rights, the nature of justice, and questions about (fair) distribution. The course will examine a range of salient topics related to these issues and will be taught entirely through interactive, discussion-intensive seminars, that will rely heavily on active class participation.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "LAW",
+"department": "LAW",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

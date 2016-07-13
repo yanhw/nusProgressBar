@@ -1,0 +1,29 @@
+{
+"moduleCode": "CS5344",
+"moduleTitle": "Big-Data Analytics Technology",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "BT5110 (Data Management and Warehousing) or database related modules; programming experience (with data structures and algorithms) is required",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["BT5110"]
+},
+"prerequisiteList": ["BT5110"],
+"completePrerequisite": {
+            "name": "CS5344", 
+            "children": [
+                {
+                    "name": "BT5110", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "This module analysis of data which can not fit in main memory and application of such analysis to web applications. The topics covered include: map-reduce as a tool for creating parallel algorithms that operate on very large amount of data, similarity search, data-streaming processing, search engine techonology, clustering of very large, high-dimensional datasets.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "SCHOOL OF COMPUTING",
+"department": "COMPUTER SCIENCE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

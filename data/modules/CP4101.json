@@ -1,0 +1,24 @@
+{
+"moduleCode": "CP4101",
+"moduleTitle": "B.Comp. Dissertation",
+"moduleCredit": "12",
+"lockedModules":[
+],
+"preclusion": "CS4101",
+"prerequisite": "Attain at least 70% of the MC requirement for the respective degree",
+"preclusionList": [
+            "CS4101"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "CP4101", 
+            "children": []
+},
+
+"crossModule": "-1",
+"corequisite": "Nil",
+"faculty": "SCHOOL OF COMPUTING",
+"department": "DEAN'S OFFICE (SCHOOL OF COMPUTING)",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

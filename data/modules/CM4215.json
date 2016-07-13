@@ -1,0 +1,66 @@
+{
+"moduleCode": "CM4215",
+"moduleTitle": "Bioinorganic Chemistry",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "CM3211 or CM3212 or CM3268",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " or ": [
+                "CM3211", 
+                "CM3212", 
+                "CM3268"
+            ]
+},
+"prerequisiteList": ["CM3211","CM2111","CM1111","CM3212","CM3268"],
+"completePrerequisite": {
+            "name": "CM4215", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "CM3211", 
+                            "children": [
+                                {
+                                    "name": "CM2111", 
+                                    "children": [
+                                        {
+                                            "name": "CM1111", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "CM3212", 
+                            "children": [
+                                {
+                                    "name": "CM2111", 
+                                    "children": [
+                                        {
+                                            "name": "CM1111", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "CM3268", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "The students will learn the basic concepts of modern bioinorganic chemistry including the mechanisms of reactions catalyzed by metalloproteins, spectroscopic and electronic properties of metal sites, and kinetics of electron transfer in proteins. This module covers major areas in modern bioinorganic chemistry including synthetic model compounds for metal sites of metalloproteins, basic protein chemistry, biological electron transfer; hydrolytic enzymes, oxygen transporters; oxygen reacting proteins such as monooxygenase, peroxidase, catalase and superoxide dismutase; physical methods in bioinorganic chemistry. The module is directed towards students majoring in chemistry and related disciplines.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCIENCE",
+"department": "CHEMISTRY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

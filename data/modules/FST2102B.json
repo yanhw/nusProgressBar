@@ -1,0 +1,58 @@
+{
+"moduleCode": "FST2102B",
+"moduleTitle": "Chemistry of Food Components",
+"moduleCredit": "4",
+"lockedModules":[
+            "FST2108"
+        ],
+"preclusion": "FST2102A",
+"prerequisite": "FST1101 and CM1121 or CM1501",
+"preclusionList": [
+            "FST2102A"
+        ],
+"parsedPrerequisite": {
+            " and ": [
+                "FST1101", 
+                {
+                    " or ": [
+                        "CM1121", 
+                        "CM1501"
+                    ]
+                }
+            ]
+},
+"prerequisiteList": ["FST1101","CM1121","CM1501"],
+"completePrerequisite": {
+            "name": "FST2102B", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "FST1101", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "or", 
+                            "children": [
+                                {
+                                    "name": "CM1121", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "CM1501", 
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module will cover the chemistry of major food components such as water, lipid, carbohydrate, and protein including food enzymes.The basic functions of these components will also be introduced. Some chemical reactions involving these molecules with relation to food processing and storage are discussed. In addition, methods of chemical modification to change the chemical and physical properties of the food components are also presented.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCIENCE",
+"department": "CHEMISTRY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

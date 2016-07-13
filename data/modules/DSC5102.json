@@ -1,0 +1,22 @@
+{
+"moduleCode": "DSC5102",
+"moduleTitle": "Business Analytics Capstone Project",
+"moduleCredit": "12",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "DSC5102", 
+            "children": []
+},
+"moduleDescription": "This module provides an opportunity for teams of students to work with organizations throughout the world to identify important organizational issues, engage in data collection and analysis, and recommend insightful solutions. Through action-based learning that spans over one year, it aims to develop personal capabilities, professional competencies, and academic knowledge in a real business setting.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "SCHOOL OF BUSINESS",
+"department": "DECISION SCIENCES",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,3,4,]]
+}

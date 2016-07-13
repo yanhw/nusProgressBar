@@ -1,0 +1,42 @@
+{
+"moduleCode": "LAF3203",
+"moduleTitle": "French for Academic Purposes",
+"moduleCredit": "4",
+"lockedModules":[
+            "LAF4201"
+        ],
+"preclusion": "LAF3202",
+"prerequisite": "Passed LAF3201 or placement test.",
+"preclusionList": [
+            "LAF3202"
+        ],
+"parsedPrerequisite": {
+" and ": ["LAF3201"]
+},
+"prerequisiteList": ["LAF3201","LAF2201","LAF1201"],
+"completePrerequisite": {
+            "name": "LAF3203", 
+            "children": [
+                {
+                    "name": "LAF3201", 
+                    "children": [
+                        {
+                            "name": "LAF2201", 
+                            "children": [
+                                {
+                                    "name": "LAF1201", 
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "French for Academic Purposes is designed for Student Exchange Programme students who plan to study in France and already have an intermediate level in French. The aims of the module are to understand longer texts, to write structured essays, and to present ideas in a logical and confident way. The students also work on their listening and speaking skills. To be able to adapt well to the French environment, they study various aspects of French culture (the education system, family life, national identity). The assessment for this module is 100% Continuous Assessment.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "CENTRE FOR LANGUAGE STUDIES",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

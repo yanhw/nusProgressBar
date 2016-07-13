@@ -1,0 +1,35 @@
+{
+"moduleCode": "CL3550",
+"moduleTitle": "Chinese Language Internship",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "Any other XX3550 internship modules (Note: Students who change major may not do a second internship in their new major)",
+"prerequisite": "Major in CH/CL with 24 MCs of CH/CL modules.",
+"preclusionList": [
+            "MS3550",
+            "SE3550",
+            "IEU3550",
+            "JS3550",
+            "SW3550",
+            "GE3550B",
+            "GE3550A",
+            "PS3550",
+            "NM3550",
+            "EU3550",
+            "ISE3550",
+            "INM3550"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "CL3550", 
+            "children": []
+},
+"moduleDescription": "Internships vary in length but all take place within organisations or companies, which are vetted and approved by the Department of Chinese Studies, have relevance to the major, involve the application of subject knowledge and theory in reflection upon the work, and are assessed. Available credited internships will be advertised at the beginning of each semester. Internships proposed by students will require the approval of the Department.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "CHINESE STUDIES",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,0,0,4,]]
+}

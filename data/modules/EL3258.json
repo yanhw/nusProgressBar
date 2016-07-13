@@ -1,0 +1,83 @@
+{
+"moduleCode": "EL3258",
+"moduleTitle": "The Sociolinguistics of Humour: Jokes and Comedies",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "EL1101E or GEK1011, and EL2251 or EL2151",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " and ": [
+                {
+                    " or ": [
+                        "EL1101E", 
+                        "GEK1011"
+                    ]
+                }, 
+                {
+                    " or ": [
+                        "EL2251", 
+                        "EL2151"
+                    ]
+                }
+            ]
+},
+"prerequisiteList": ["EL1101E","GEK1011","EL2251","EL2151"],
+"completePrerequisite": {
+            "name": "EL3258", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "or", 
+                            "children": [
+                                {
+                                    "name": "EL1101E", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "GEK1011", 
+                                    "children": []
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "or", 
+                            "children": [
+                                {
+                                    "name": "EL2251", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "EL2151", 
+                                    "children": [
+                                        {
+                                            "name": "or", 
+                                            "children": [
+                                                {
+                                                    "name": "EL1101E", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "GEK1011", 
+                                                    "children": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This course is about understanding language through the vehicle of humour. It is often the case that people assume the meanings of jokes, cartoons, and comedies based on their knowledge. This course will introduce students to understanding the various types of humour through sociolinguistics and cognitive science approaches. By looking at different examples, this course highlights the fact that \u2018getting\u2019 humour actually takes quite sophisticated yet tacit linguistic knowledge in speakers\u2019 grammatical and communicative routines.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "ENGLISH LANGUAGE & LITERATURE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

@@ -1,0 +1,22 @@
+{
+"moduleCode": "BMS5403",
+"moduleTitle": "Global Management Practice",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "BMS5403", 
+            "children": []
+},
+"moduleDescription": "This course is designed to introduce students to human behavior in organizational contexts across the globe. The study of organizations involves examining processes at the individual, group and organizational levels. This course will focus on the individual and group level of analysis. As this is a class that focuses on Global Management, it will also emphasize cross-national and cultural differences when appropriate. Both theoretical and applied approaches will be developed. Theory development will be based on class lectures, discussion, and class activities and assigned readings. While the instructor will take a large share of the responsibility for theory development, extensive class participation for the applications part by the students is expected. Hence, the course will feature a substantial amount of class discussion and experiential exercises.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF BUSINESS",
+"department": "MANAGEMENT AND ORGANISATION",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

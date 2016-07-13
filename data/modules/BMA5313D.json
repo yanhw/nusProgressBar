@@ -1,0 +1,29 @@
+{
+"moduleCode": "BMA5313D",
+"moduleTitle": "Private Equity",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "BMA5008",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["BMA5008"]
+},
+"prerequisiteList": ["BMA5008"],
+"completePrerequisite": {
+            "name": "BMA5313D", 
+            "children": [
+                {
+                    "name": "BMA5008", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "This 4 MC, 3-week intensive course seeks to provide a basic framework of the Private Equity industry, expand on the principles of Private Equity, with a particular focus on leveraged buy outs, and bring to life these principles through a \u201cpractitioners guide\u201d to the subject by the illustration of several live case studies, guest CEO speakers, and panel discussions.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "SCHOOL OF BUSINESS",
+"department": "DEAN'S OFFICE (BIZ)",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

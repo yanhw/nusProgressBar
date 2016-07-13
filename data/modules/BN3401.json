@@ -1,0 +1,29 @@
+{
+"moduleCode": "BN3401",
+"moduleTitle": "Biomedical Electronics & Systems",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "Students from the Dept of Electrical and Computer Engineering",
+"prerequisite": "BN2402 Fundamentals of Bioinstrumentation",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["BN2402"]
+},
+"prerequisiteList": ["BN2402"],
+"completePrerequisite": {
+            "name": "BN3401", 
+            "children": [
+                {
+                    "name": "BN2402", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "The module emphasizes the importance of real-time signal processing in medical instrumentation. The main topics covered are: physical principles governing the design and operation of instrumentation systems used in medicine and physiological research, application of modern signal processing techniques in medicine to improve the accuracy and the validity of medical diagnosis, and theory and application of advanced non-invasive imaging techniques used in modern medical diagnostics.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "BIOMEDICAL ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

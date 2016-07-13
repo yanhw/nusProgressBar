@@ -1,0 +1,22 @@
+{
+"moduleCode": "EC4334",
+"moduleTitle": "Financial Market Microstructure",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "Cohort 2011 and before: Completed 80 MCs, including 28 MCs in EC, with a minimum CAP of 3.50 or be on the Honours track. EC3101, EC3304, and EC3333 Cohort 2012 onwards: Completed 80 MCs, including 28 MCs in EC, with a minimum CAP of 3.20 or be on the Honours track. EC3101, EC3304, and EC3333",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "EC4334", 
+            "children": []
+},
+"moduleDescription": "Market microstructure studies how trading takes place in financial markets. The module will cover theoretical models and the associated empirical analysis employing game theory and econometric theory. We first analyse the movement of security prices by time series models. Second, we investigate various trading strategies adopted by market participants. We then examine three main types of theoretical models of trading: inventory models, sequential trading models, and strategic trading models. Finally, we study how trading rules and institutional details may lead to different trading processes.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "ECONOMICS",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

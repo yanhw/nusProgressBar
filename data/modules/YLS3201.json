@@ -1,0 +1,60 @@
+{
+"moduleCode": "YLS3201",
+"moduleTitle": "Advanced Spanish 1",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "Successful completion of YLS2201 Intermediate Spanish 1 and YLS2202 Intermediate Spanish 2 or instructor\u2019s permission. A placement exam may be required.",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " and ": [
+                "YLS2201", 
+                "YLS2202"
+            ]
+},
+"prerequisiteList": ["YLS2201","YLS1201","YLS1202","YLS2202"],
+"completePrerequisite": {
+            "name": "YLS3201", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "YLS2201", 
+                            "children": [
+                                {
+                                    "name": "and", 
+                                    "children": [
+                                        {
+                                            "name": "YLS1201", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "YLS1202", 
+                                            "children": [
+                                                {
+                                                    "name": "YLS1201", 
+                                                    "children": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "YLS2202", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "Students taking this module will build upon the material and topics covered in the introductory and intermediate sequences to expand their command of written and spoken Spanish. Advanced Spanish I will focus on readings and discussions of Spanish and Spanish American culture to continue developing students\u2019 vocabulary while reinforcing complex grammar and syntax. This module will also focus on accurate written production with attention paid to stylistics, genre, and voice, while reviewing more advanced and nuanced grammatical points.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "YALE-NUS COLLEGE",
+"department": "YALE-NUS COLLEGE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

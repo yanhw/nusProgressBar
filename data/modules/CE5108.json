@@ -1,0 +1,35 @@
+{
+"moduleCode": "CE5108",
+"moduleTitle": "Earth Retaining Structures",
+"moduleCredit": "4",
+"lockedModules":[
+            "CE5112"
+        ],
+"preclusion": "NIL",
+"prerequisite": "CE2112 or CE4 standing or higher",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["CE2112"]
+},
+"prerequisiteList": ["CE2112","EG1109"],
+"completePrerequisite": {
+            "name": "CE5108", 
+            "children": [
+                {
+                    "name": "CE2112", 
+                    "children": [
+                        {
+                            "name": "EG1109", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This is an advanced module in earth-retaining structures and deep excavations. Topics include earth pressure theories, rigid retaining structures, flexible retaining structures, cellular cofferdams, retaining walls for deep excavations, support systems for deep excavations, and field monitoring. Students are taught to deal with design and construction issues pertaining to a spectrum of earth-retaining systems from low rigid retaining walls to flexible support systems for deep excavations. Students will also learn to apply the methods of limit state, such as BS8002 and Eurocode7, to the design of rigid and flexible retaining walls. Applications of commercial geotechnical FEM softwares are taught to aid in design of deep excavations to limit ground deformations and satisfy SLS requirements. At the end of the course, students are taught the application of advanced earth pressure theories, selection of appropriate retaining structures, and verification of capacity and movement requirements, using limit equilibrium and FEM analysis tools.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "CIVIL & ENVIRONMENTAL ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

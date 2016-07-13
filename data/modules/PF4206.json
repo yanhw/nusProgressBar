@@ -1,0 +1,22 @@
+{
+"moduleCode": "PF4206",
+"moduleTitle": "Building Information Modelling",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "PF4206", 
+            "children": []
+},
+"moduleDescription": "This module covers the nature and potential of BIM as a new format for exchanging digital and spatial information in project and facilities management. Topics include the principles of BIM, the supporting infrastructure, implementation, and the financial, legal, and other nontechnical aspects of BIM.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "SCHOOL OF DESIGN AND ENVIRONMENT",
+"department": "BUILDING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

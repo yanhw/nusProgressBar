@@ -1,0 +1,59 @@
+{
+"moduleCode": "ACC3603",
+"moduleTitle": "Assurance and Attestation",
+"moduleCredit": "4",
+"lockedModules":[
+            "ACC4613",
+            "ACC3613"
+        ],
+"preclusion": "Students who have passed FNA3121 are not allowed to take ACC3603.",
+"prerequisite": "FNA1002/ACC1002 and FNA2002 (Students who are not enrolled in the accounting or accounting-specialization program should seek Deans Office permission to read the module)",
+"preclusionList": [
+            "FNA3121"
+        ],
+"parsedPrerequisite": {
+            " and ": [
+                {
+                    " or ": [
+                        "FNA1002", 
+                        "ACC1002"
+                    ]
+                }, 
+                "FNA2002"
+            ]
+},
+"prerequisiteList": ["FNA1002","ACC1002","FNA2002"],
+"completePrerequisite": {
+            "name": "ACC3603", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "or", 
+                            "children": [
+                                {
+                                    "name": "FNA1002", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "ACC1002", 
+                                    "children": []
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "FNA2002", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module provides the knowledge and understanding of the audit process required by assurance and attestation engagements. It aims to ensure students acquire the necessary attitude, skills, and knowledge for a career in auditing, in the accounting profession or in business management.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF BUSINESS",
+"department": "ACCOUNTING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

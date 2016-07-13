@@ -1,0 +1,22 @@
+{
+"moduleCode": "SC2222",
+"moduleTitle": "Sociology of Sport and Leisure",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "SC2222", 
+            "children": []
+},
+"moduleDescription": "This module examines the role of sport and leisure activities in modern societies. The first half of the module focuses on sports. We will examine the evolution of modern sports, their global presence, the rates of participation and spectatorships. We will also address intersections between sports and the economy, politics, class, gender, and the media. In the second half of the module, we will look at the broader category of 'leisure' including topics such as entertainment, travel and tourism, games, hobbies, eating out and shopping, etc. We will explore the changing meaning of leisure in modern societies, and its relation to work and social identity.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "SOCIOLOGY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

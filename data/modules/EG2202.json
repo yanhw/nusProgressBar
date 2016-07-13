@@ -1,0 +1,34 @@
+{
+"moduleCode": "EG2202",
+"moduleTitle": "From Design Thinking to Engineering Design",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "EG2201B (Design Thinking in Grand Engineering Challenges \u2013 Part 2)",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["EG2201B"]
+},
+"prerequisiteList": ["EG2201B","EG2201A"],
+"completePrerequisite": {
+            "name": "EG2202", 
+            "children": [
+                {
+                    "name": "EG2201B", 
+                    "children": [
+                        {
+                            "name": "EG2201A", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module begins with an introduction to the engineering design process in the context of design thinking, followed by its application into the conceptual solutions that the students have formulated in the prerequisite module. It bridges the design thinking process taught in the prerequisite module into the engineering design process, equipping the students with understanding and knowledge of translating conceptual solutions from users\u2019 needs to realizable solutions through engineering design. Students will be taught in a studio and a workshop setting, and are expected to actively practice what they have learnt and to present their work professionally.",
+"crossModule": "-1",
+"corequisite": "Nil",
+"faculty": "ENGINEERING",
+"department": "DEAN'S OFFICE (ENGINEERING)",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

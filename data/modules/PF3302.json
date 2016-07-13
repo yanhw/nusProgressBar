@@ -1,0 +1,22 @@
+{
+"moduleCode": "PF3302",
+"moduleTitle": "Energy Management",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "PF2104 (existing code) / PF2503 (new code) M&E Engineering Systems; PF2503 M&E Engineering Systems (AY2014/15 intake and after)",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "PF3302", 
+            "children": []
+},
+"moduleDescription": "This module covers the essential principles of energy management in the operation of facilities with special emphasis on the operation of buildings. The major topics include: quantitative energy analysis, prediction, simulation and relevant codes of practice. Students are given experience in the real time application of computers in energy monitoring and auditing. Other topics are: energy benchmarking, energy market policy and procurement.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF DESIGN AND ENVIRONMENT",
+"department": "BUILDING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

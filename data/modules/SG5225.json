@@ -1,0 +1,22 @@
+{
+"moduleCode": "SG5225",
+"moduleTitle": "Architecting Software Solutions",
+"moduleCredit": "3",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "While there is no module pre-requisites, the student is expected to have knowledge in the following topics: - Java (preferred) or .NET Programming - Object Oriented Design",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "SG5225", 
+            "children": []
+},
+"moduleDescription": "This course aims to equip the participants with knowledge to build robust, scalable and maintainable software architectures. The participant will get to understand how the solution architecture fits into the broader context of software development and enterprise architectures of the organization. The syllabus focuses on the understanding of architectural concepts, software qualities such as availability, performance and security and reusing of architectural patterns. By combining lectures with scenario based workshops, the participant will apply the patterns and software qualities with respect to Web and middleware architectures.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "NON-FACULTY-BASED DEPARTMENTS",
+"department": "INSTITUTE OF SYSTEMS SCIENCE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

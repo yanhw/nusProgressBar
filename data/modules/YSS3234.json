@@ -1,0 +1,29 @@
+{
+"moduleCode": "YSS3234",
+"moduleTitle": "Politics of Identity in Developing Countries",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "YCC1121 Comparative Social Institutions or with the permission of course convenor.",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["YCC1121"]
+},
+"prerequisiteList": ["YCC1121"],
+"completePrerequisite": {
+            "name": "YSS3234", 
+            "children": [
+                {
+                    "name": "YCC1121", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "This course offers an introduction to the study of identity and politics in political science. Students will become familiar with the various theories and approaches to understanding the construction and mobilization of identities: ethnic, national, linguistic, religious, and sexual. Drawing on the empirical literature on the politics of identity in Southeast and South Asia, and Sub-Saharan Africa, students will learn to evaluate how identities are shaped, and how they in turn determine outcomes such as violence, voting behaviour, allocation of public services, inequality, and inter-group trust and cooperation.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "YALE-NUS COLLEGE",
+"department": "YALE-NUS COLLEGE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

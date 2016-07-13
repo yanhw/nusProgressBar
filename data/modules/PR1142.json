@@ -1,0 +1,22 @@
+{
+"moduleCode": "PR1142",
+"moduleTitle": "Pharmaceutical Statistics",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "PR1142", 
+            "children": []
+},
+"moduleDescription": "This module provides a comprehensive understanding on the basic principles and applications of statistics in the pharmaceutical setting. The major topics to be covered include: basic statistics; graphical methods; probability distributions; estimation and sample size determination; testing of means; Anova; categorical data analysis; correlation; regression; non-parametric tests. This module covers information and uses practical examples that are relevant to the various stages of drug development, ranging from pre-clinical and clinical development to post-market surveillance, consumer health, and health services research.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCIENCE",
+"department": "PHARMACY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

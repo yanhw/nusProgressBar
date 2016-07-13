@@ -1,0 +1,29 @@
+{
+"moduleCode": "CDM5102",
+"moduleTitle": "Translational Cancer Research",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "CDM5101 Fundamentals of Cancer Biology",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["CDM5101"]
+},
+"prerequisiteList": ["CDM5101"],
+"completePrerequisite": {
+            "name": "CDM5102", 
+            "children": [
+                {
+                    "name": "CDM5101", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "This module teaches translational aspects of human cancer research. It will demonstrate how knowledge of the molecular and cellular basis of cancer can be applied for the improved prevention, diagnosis and treatment of this disease. Topics that will be covered include cancer epidemiology (including genetic epidemiology), histopathology, familial cancers, biomarkers for early detection, prognostic biomarkers, predictive biomarkers, techniques in molecular pathology, drug discovery, targeted cancer treatments and pharmacogenetics. Throughout the module, particular emphasis will be placed on translating research in the field of tumor biology into improved outcomes for cancer patients. This will be illustrated using examples from clinical practice.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "YONG LOO LIN SCHOOL OF MEDICINE",
+"department": "DEAN'S OFFICE (MEDICINE)",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

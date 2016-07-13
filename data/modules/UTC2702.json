@@ -1,0 +1,22 @@
+{
+"moduleCode": "UTC2702",
+"moduleTitle": "Foundations in System Dynamics Thinking and Modelling",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "UTC2702", 
+            "children": []
+},
+"moduleDescription": "This course provides an opportunity to learn about system dynamics, consisting of systems thinking, modelling, and analysis. Since its inception in the 1960s, system dynamics has been used to analyse and solve problems in development (economic, political, social, sustainable, and urban), management (business, environmental, health care, and project), and public policy. The role of systems thinking and system dynamics modelling in shaping issues of sustainable development, local, national and global, has been transformative.",
+"crossModule": "-1",
+"corequisite": "Nil",
+"faculty": "NON-FACULTY-BASED DEPARTMENTS",
+"department": "RESIDENTIAL COLLEGE 4",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

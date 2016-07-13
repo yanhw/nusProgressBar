@@ -1,0 +1,29 @@
+{
+"moduleCode": "BZD6001",
+"moduleTitle": "Model Building Workshop I: Static Models",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "Applied Economics or ECA 5001 or BMA 5001 or EC6101",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["EC6101"]
+},
+"prerequisiteList": ["EC6101"],
+"completePrerequisite": {
+            "name": "BZD6001", 
+            "children": [
+                {
+                    "name": "EC6101", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "This course covers the development and use of models to study interactive decision-making by individuals and firms. The basic building blocks of model building, including backward induction, mixed and dominant strategies, and strategic equilibria are developed. The roles of asymmetric information, moral hazard, mechanism design, signaling and incentives are also introduced.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF BUSINESS",
+"department": "MARKETING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

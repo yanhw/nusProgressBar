@@ -1,0 +1,160 @@
+{
+"moduleCode": "EE5310",
+"moduleTitle": "Communication Networking Fundamentals",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "EE6310 Communication Networking Fundamentals (Advanced)",
+"prerequisite": "Basic probability at the level of EE2012 and basic networking concepts at the level of EE3204 and EE4210",
+"preclusionList": [
+            "EE6310"
+        ],
+"parsedPrerequisite": {
+            " and ": [
+                "EE2012", 
+                "EE3204", 
+                "EE4210"
+            ]
+},
+"prerequisiteList": ["EE2012","MA1505","MA1506","MA1102R","MA1521","EE3204","EE2023","EE4210","CS2105","CS1020","CS1010"],
+"completePrerequisite": {
+            "name": "EE5310", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "EE2012", 
+                            "children": [
+                                {
+                                    "name": "and", 
+                                    "children": [
+                                        {
+                                            "name": "MA1505", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "MA1506", 
+                                            "children": [
+                                                {
+                                                    "name": "or", 
+                                                    "children": [
+                                                        {
+                                                            "name": "MA1102R", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "MA1505", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "MA1521", 
+                                                            "children": []
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "EE3204", 
+                            "children": [
+                                {
+                                    "name": "EE2023", 
+                                    "children": [
+                                        {
+                                            "name": "MA1506", 
+                                            "children": [
+                                                {
+                                                    "name": "or", 
+                                                    "children": [
+                                                        {
+                                                            "name": "MA1102R", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "MA1505", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "MA1521", 
+                                                            "children": []
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "EE4210", 
+                            "children": [
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "EE3204", 
+                                            "children": [
+                                                {
+                                                    "name": "EE2023", 
+                                                    "children": [
+                                                        {
+                                                            "name": "MA1506", 
+                                                            "children": [
+                                                                {
+                                                                    "name": "or", 
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "MA1102R", 
+                                                                            "children": []
+                                                                        }, 
+                                                                        {
+                                                                            "name": "MA1505", 
+                                                                            "children": []
+                                                                        }, 
+                                                                        {
+                                                                            "name": "MA1521", 
+                                                                            "children": []
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "CS2105", 
+                                            "children": [
+                                                {
+                                                    "name": "CS1020", 
+                                                    "children": [
+                                                        {
+                                                            "name": "CS1010", 
+                                                            "children": []
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This course introduces students to the fundamental principles and concepts of computer communication networks. The course covers four main layers of the network protocol stack: link, network, transport and application. The fundamental design principles of each layer are presented. Issues related to the performance of each layer are explored in detail. The course uses case studies to expose students to real-world networking protocols and presents the design principles that motivated the development of these protocols. The course also includes an examination of the security aspects of each layer.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "ELECTRICAL & COMPUTER ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

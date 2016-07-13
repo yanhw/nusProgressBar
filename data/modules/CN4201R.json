@@ -1,0 +1,123 @@
+{
+"moduleCode": "CN4201R",
+"moduleTitle": "Petroleum Refining",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "CN2116 and CN3132",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " and ": [
+                "CN2116", 
+                "CN3132"
+            ]
+},
+"prerequisiteList": ["CN2116","CN1111","CN1111F","CN1111X","CN3132","CN2125","CN2122","MA1505","MA1506","MA1102R","MA1521"],
+"completePrerequisite": {
+            "name": "CN4201R", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "CN2116", 
+                            "children": [
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "CN1111", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "CN1111F", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "CN1111X", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "CN3132", 
+                            "children": [
+                                {
+                                    "name": "and", 
+                                    "children": [
+                                        {
+                                            "name": "or", 
+                                            "children": [
+                                                {
+                                                    "name": "CN1111F", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "CN1111", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "CN1111X", 
+                                                    "children": []
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "CN2125", 
+                                            "children": [
+                                                {
+                                                    "name": "CN2122", 
+                                                    "children": [
+                                                        {
+                                                            "name": "and", 
+                                                            "children": [
+                                                                {
+                                                                    "name": "MA1505", 
+                                                                    "children": []
+                                                                }, 
+                                                                {
+                                                                    "name": "MA1506", 
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "or", 
+                                                                            "children": [
+                                                                                {
+                                                                                    "name": "MA1102R", 
+                                                                                    "children": []
+                                                                                }, 
+                                                                                {
+                                                                                    "name": "MA1505", 
+                                                                                    "children": []
+                                                                                }, 
+                                                                                {
+                                                                                    "name": "MA1521", 
+                                                                                    "children": []
+                                                                                }
+                                                                            ]
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module provides students with a working knowledge of a refinery set-up, major processes and treatment units and off-site requirements. It starts with the origin and characterisation of crude oil and the quality of refinery products. The course then focuses on crude and vacuum distillation, catalytic reformer, visbreaker and hydrocracker. Other areas covered are product treatment, sour water treatment and sulphur recovery units. Off-site facilities including storage, utilities and energy requirements are discussed. Finally, the integration of various units and material balances, including product blending considerations are discussed. The course includes a refinery visit with a briefing on safety aspects and a tour of process units and control rooms. This module is targeted at senior chemical engineering students.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "CHEMICAL & BIOMOLECULAR ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

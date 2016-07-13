@@ -1,0 +1,25 @@
+{
+"moduleCode": "CM1191",
+"moduleTitle": "Experiments in Chemistry 1",
+"moduleCredit": "4",
+"lockedModules":[
+            "CM2192",
+            "CM2191",
+            "FST2107"
+        ],
+"preclusion": "NIL",
+"prerequisite": "H2/A-level Chemistry or its equivalent or by permission",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "CM1191", 
+            "children": []
+},
+"moduleDescription": "This is a module designed for chemistry majors and deals with laboratory experiments on selected topics of basic chemistry principles and theoretical contents primarily selected from the modules CM1111, CM1121 and CM1131.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "SCIENCE",
+"department": "CHEMISTRY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

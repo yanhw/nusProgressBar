@@ -1,0 +1,34 @@
+{
+"moduleCode": "PC1432",
+"moduleTitle": "Physics IIE",
+"moduleCredit": "4",
+"lockedModules":[
+            "PC2130B",
+            "PC2130",
+            "SP2251",
+            "BN4402",
+            "PC2193",
+            "BN3501",
+            "PC2267",
+            "PC3232B",
+            "PC2131"
+        ],
+"preclusion": "Students majoring in Physics or students who have passed in PC1143 or PC1144 are not allowed to take this module.",
+"prerequisite": "STUDENTS FROM FOE ( I.E. COMPUTER ENG, COMMON ENGINEERING, BIOENGINEERING, INDUSTRIAL & SYSTEMS ENG AND MATERIAL SCIENCE & ENG) WITH \u2018A\u2019 LEVEL OR H2 PASS IN PHYSICS; OR 'A' LEVEL OR H2 PASS IN PHYSICS; OR PC1221/PC1221FC/ PC1221X & PC1222",
+"preclusionList": [
+            "PC1143",
+            "PC1144"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "PC1432", 
+            "children": []
+},
+"moduleDescription": "This module introduces fundamental concepts of physics and is illustrated with many practical examples. Topics covered include a) Electricity and magnetism, where the basic concepts of electric and magnetic fields, forces on charged particles, electric potential, electromotive force, work and energy, are described. The properties of basic electrical circuits comprising resistors, inductors and capacitors are discussed, along with analysis of their transient and steady-state behaviour. Understanding the role of Maxwell's equations in electromagnetism is emphasized; b) Waves, introducing properties of waves, including geometric optics, propagation, interference and diffraction, and electromagnetic waves; and c) Quantum physics, where new physics concepts which led to the quantization of energy are introduced, leading to an explanation of atomic transitions, atomic spectra and the physical and the chemical properties of the atom. The uncertainty principle, wave-mechanics and wave particle duality concepts are covered, together with the use of wavefunctions in predicting the behaviour of trapped particles. The module is targeted essentially at Engineering students.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCIENCE",
+"department": "PHYSICS",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

@@ -1,0 +1,77 @@
+{
+"moduleCode": "ME4223",
+"moduleTitle": "Thermal Environmental Engineering",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "ME2121, ME3122",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " and ": [
+                "ME2121", 
+                "ME3122"
+            ]
+},
+"prerequisiteList": ["ME2121","PC1431","PC1431F","PC1431X","ME3122"],
+"completePrerequisite": {
+            "name": "ME4223", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "ME2121", 
+                            "children": [
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "PC1431", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "PC1431F", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "PC1431X", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "ME3122", 
+                            "children": [
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "PC1431F", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "PC1431", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "PC1431X", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module aims to integrate knowledge in thermodynamics, heat transfer and fluid mechanics to design and simulate air-conditioning systems, as well as to estimate and analyse the energy performance of buildings. Major topics include: Applications and basics; Psychrometrics; Comfort and health; Heat gains through building envelopes; Cooling load calculations; Air conditioning design calculations; Air conditioning systems; Air conditioning plants and equipment., Energy estimation and energy performance analysis. The module is designed for third and final-year students who are interested in the Cooling and Energy Efficiency of Buildings.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "MECHANICAL ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

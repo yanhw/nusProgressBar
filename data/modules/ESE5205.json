@@ -1,0 +1,22 @@
+{
+"moduleCode": "ESE5205",
+"moduleTitle": "Sludge And Solid Waste Management",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "ESE5205", 
+            "children": []
+},
+"moduleDescription": "This course introduces the advanced concept of sludge and solid waste management. It covers collection, quantification, characterisation, processing, treatment, disposal and resource recovery in relation to sludge and solid waste. It will equip students with in-depth knowledge on principles of various treatment and disposal facilities along with engineering, institutional, legal and financial infrastructures.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "CIVIL & ENVIRONMENTAL ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

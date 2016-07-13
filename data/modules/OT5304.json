@@ -1,0 +1,22 @@
+{
+"moduleCode": "OT5304",
+"moduleTitle": "Subsea Construction & Operational Support",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "OT5304", 
+            "children": []
+},
+"moduleDescription": "The design of subsea systems is significantly affected by operational considerations and can radically change a system configuration. Key considerations that must be taken into account in a subsea system design include vessel availability, design for weather window, reduction in number of operations, elimination of construction risk and ability to perform an early production start-up. This module considers key operational aspects that will be encountered in everyday offshore operations, and will look specifically at technologies that are used in subsea operations that are essential to understand their use and limitations.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "ENGINEERING",
+"department": "MECHANICAL ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

@@ -1,0 +1,29 @@
+{
+"moduleCode": "SH5205",
+"moduleTitle": "Incident Management",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "SH5203 \u2013 Emergency Planning",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["SH5203"]
+},
+"prerequisiteList": ["SH5203"],
+"completePrerequisite": {
+            "name": "SH5205", 
+            "children": [
+                {
+                    "name": "SH5203", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "This module provides the fundamentals of incident management, essential for effective industrial incident management covering: Incident Command System; Emergency Leadership, Emergency Risk Management; Mutual Aid & Joint Operations; Crisis Organization & Management; Response Functions & Priorities; Media Management; Scene Safety & Security; Damage Assessment; Salvage & Repair; Business Continuity; Employee Assistance; Incident Investigation; Cleanup & Restoration; and Incident Termination.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "ENGINEERING",
+"department": "CHEMICAL & BIOMOLECULAR ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

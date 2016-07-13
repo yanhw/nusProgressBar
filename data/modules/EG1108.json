@@ -1,0 +1,32 @@
+{
+"moduleCode": "EG1108",
+"moduleTitle": "Electrical Engineering",
+"moduleCredit": "3",
+"lockedModules":[
+            "EE3505C",
+            "EG1310",
+            "BN4402",
+            "ME2143",
+            "EE2025",
+            "EE2020",
+            "EE2021"
+        ],
+"preclusion": "CG1108/EE1002",
+"prerequisite": "H1 Physics or H2 Physics or A Level Physics or PC1222 Fundamentals of Physics II",
+"preclusionList": [
+            "EE1002",
+            "CG1108"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "EG1108", 
+            "children": []
+},
+"moduleDescription": "This module introduces basic concepts in electrical and computer engineering in an integrated manner. It motivates the understanding of basic concepts in the context of practical engineering applications. The main part of the course gives the students a very strong foundation in DC and AC circuit analysis. The rest of the course gives the students a good flavor of what electrical engineering is all about. This is done using simple application examples that demonstrate the importance of AC and DC analysis. The topics covered are: Kirchhoff's Current and Voltage Laws, Ohm's Law. Resistive networks. Ideal and real sources. AC Circuits: phasors, impedance, power, power factor, resonance. Energy storage elements: capacitors and inductors. Introduction to circuit concepts including diodes, operational amplifiers, transformers, DC machines and logic gates using applications.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "ELECTRICAL & COMPUTER ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

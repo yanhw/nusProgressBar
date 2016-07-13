@@ -1,0 +1,44 @@
+{
+"moduleCode": "MA1312",
+"moduleTitle": "Calculus with Applications",
+"moduleCredit": "4",
+"lockedModules":[
+            "MA2213",
+            "MA2216",
+            "EC3381",
+            "ST2131",
+            "MA2311",
+            "ST2334",
+            "EC3322",
+            "EC3333",
+            "EC3332",
+            "EC3304",
+            "EC3312",
+            "EC3371",
+            "EC3361",
+            "EC3353",
+            "EC3351",
+            "EC3102",
+            "EC3101"
+        ],
+"preclusion": "MA1102R, MA1505, MA1505C, MA1521, FoE students.",
+"prerequisite": "AO-LEVEL MATHEMATICS OR H1 MATHEMATICS OR MA1301 OR MA1301FC or MA1301X",
+"preclusionList": [
+            "MA1521",
+            "MA1102R",
+            "MA1505C",
+            "MA1505"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "MA1312", 
+            "children": []
+},
+"moduleDescription": "This module contains the main ideas of calculus that are often encountered in the formulation and solution of practical problems. The approach of this course is intuitive and heuristic. The objective is to develop a competent working knowledge of the main concepts and methods introduced. This module is also designed for students who intend to do a minor in mathematics or for those who are keen to pick up some mathematical skills that might be useful in their own areas of studies. Major topics: Real numbers and elementary analytic geometry. Functions, limits, continuity and derivative. Trigonometric functions. Trigonometric functions. Applications of the derivative. Optimization problems. Inverse functions. The indefinite integral. The definite integral. Applications of the definite integral: arc length, volume and surface area of solid of revolution. Logarithmic and exponential functions. Techniques of Integration. Taylor's Formula. Differential equations. Some applications in Business, Economics and Social Sciences.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCIENCE",
+"department": "MATHEMATICS",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

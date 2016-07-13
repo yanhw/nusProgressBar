@@ -1,0 +1,25 @@
+{
+"moduleCode": "ME2101E",
+"moduleTitle": "Fundamentals of Mechanical Design",
+"moduleCredit": "4",
+"lockedModules":[
+            "TM3101"
+        ],
+"preclusion": "TM2101",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "TM2101"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "ME2101E", 
+            "children": []
+},
+
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "ENGINEERING",
+"department": "BACHELOR OF TECHNOLOGY PROGRAMME",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

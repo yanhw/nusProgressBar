@@ -1,0 +1,22 @@
+{
+"moduleCode": "BPS5202",
+"moduleTitle": "Lighting and Acoustics Performance",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "BPS5202", 
+            "children": []
+},
+"moduleDescription": "The lighting performance deals with visual perception, color classifications, daylight modelling and lighting installation design with specific reference to integration and control of artificial and day lighting, choice of light sources and lighting systems. The acoustic performance deals with community noise rating systems and the propagation of sound in the urban environment. Environment noise monitoring and modelling using professional software such as the CADNA will be introduced. At the building level, the transmission of sound and the acoustical design of room will be discussed. Laboratory and field measurements using acoustical instruments will be used to strengthen students\u2019 understanding and analytical and presentation skills on the subject.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "SCHOOL OF DESIGN AND ENVIRONMENT",
+"department": "BUILDING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

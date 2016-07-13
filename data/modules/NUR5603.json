@@ -1,0 +1,42 @@
+{
+"moduleCode": "NUR5603",
+"moduleTitle": "Advanced Practice Nursing I (Paediatrics)",
+"moduleCredit": "6",
+"lockedModules":[
+            "NUR5611"
+        ],
+"preclusion": "NIL",
+"prerequisite": "NUR5601, NUR5602",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " and ": [
+                "NUR5601", 
+                "NUR5602"
+            ]
+},
+"prerequisiteList": ["NUR5601","NUR5602"],
+"completePrerequisite": {
+            "name": "NUR5603", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "NUR5601", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "NUR5602", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module aims to provide students with an in-depth study of the theoretical knowledge and evidence-based skills needed by the paediatric advanced practice nurse in diagnosing and managing physiology alterations involving the cardiovascular, respiratory, haematological and malignant conditions in the paediatric population. It focuses on pathologies that may involve these systems of the body. Through continuous didactic learning sessions reinforced by a \u2018Team-Lead approach\u2019, the students will share learned knowledge and debate viable therapeutic answers to apply principles into practice. This will enhance their competency in planning, implementing and evaluating care for complex paediatric conditions in appropriate settings.",
+"crossModule": "-1",
+"corequisite": "Nil",
+"faculty": "YONG LOO LIN SCHOOL OF MEDICINE",
+"department": "NURSING/ALICE LEE CTR FOR NURSING STUD",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

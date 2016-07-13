@@ -1,0 +1,22 @@
+{
+"moduleCode": "SPH2103",
+"moduleTitle": "Systems and Policies to improve Health",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "SPH2103", 
+            "children": []
+},
+"moduleDescription": "This module will introduce you to ways we can improve the health of a community through examining the role of the government, healthcare professionals, the health system and the individual. The module will explore common health problems such as obesity, diabetes, influenza and mental health and what we can do about these problems through enacting health policy and programs. We will discuss case studies from Singapore and the region.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "SAW SWEE HOCK SCHOOL OF PUBLIC HEALTH",
+"department": "SAW SWEE HOCK SCHOOL OF PUBLIC HEALTH",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

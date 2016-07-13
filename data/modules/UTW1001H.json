@@ -1,0 +1,26 @@
+{
+"moduleCode": "UTW1001H",
+"moduleTitle": "Eating Right(s): The Politics of Food",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "IEM1201%, UTW1001%, ES1501%",
+"prerequisite": "Students must have passed/been exempted from the NUS Qualifying English Test (QET) or have passed CELC English for Academic Purposes modules.",
+"preclusionList": [
+            "IEM1201",
+            "ES1501",
+            "UTW1001"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "UTW1001H", 
+            "children": []
+},
+"moduleDescription": "Do you know where your last meal came from? Have you ever wondered how your dietary choices affect communities, species and landscapes worldwide? This interdisciplinary writing course examines some human and ecological impacts of contemporary food-related practices and interactions. Readings from different perspectives focus critical attention on industrial agriculture, factory farming, packaging/distribution networks and international trade agreements in relation to issues of hunger, obesity, food security and environmental sustainability. In small collaborative classes, you will examine the strategies used by individual authors to construct persuasive arguments and learn to incorporate these rhetorical skills into your own writing about food.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "NON-FACULTY-BASED DEPARTMENTS",
+"department": "CTR FOR ENGLISH LANGUAGE COMMUNICATION",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

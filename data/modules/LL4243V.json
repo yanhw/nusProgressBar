@@ -1,0 +1,22 @@
+{
+"moduleCode": "LL4243V",
+"moduleTitle": "Law, Economics, Development, and Geography",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "NUS Compulsory Core Curriculum or its equivalent. Recommended prior coursework: a course in or related to law and economics (such as macro-economies, institutional economics, law and development, economic geography. For Non-Law students with at least 80MCs",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "LL4243V", 
+            "children": []
+},
+"moduleDescription": "Seminar explores how physical and human (economic, cultural) geography critically effects the way that law operates in a particular jurisdiction, with particular focus on East-Southeast Asia. This understanding is particularly useful for understanding the relationship between law and economics, law and development, and law and society. Is also relevant to public international law, transnational law, and human rights law.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "LAW",
+"department": "LAW",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

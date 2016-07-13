@@ -1,0 +1,34 @@
+{
+"moduleCode": "EM1201",
+"moduleTitle": "English for Academic Purposes (Music) 1",
+"moduleCredit": "0",
+"lockedModules":[
+],
+"preclusion": "AR1000, BE1000, ID1000, ET1000 / NK1001 / EA1101 / EG1471 / ES1301 /ES1101 / ES1102 and EM1101",
+"prerequisite": "Open only to students enrolled in the Bachelor of Music Programme from AY2009/10 onwards. Students who score Band C in the YSTCM English Placement Test or students who have passed Foundation English Course 2 are required to read this module.",
+"preclusionList": [
+            "AR1000",
+            "EA1101",
+            "ES1101",
+            "ES1102",
+            "NK1001",
+            "ID1000",
+            "EM1101",
+            "ET1000",
+            "EG1471",
+            "ES1301",
+            "BE1000"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "EM1201", 
+            "children": []
+},
+
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "NON-FACULTY-BASED DEPARTMENTS",
+"department": "CTR FOR ENGLISH LANGUAGE COMMUNICATION",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

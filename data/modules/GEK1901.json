@@ -1,0 +1,44 @@
+{
+"moduleCode": "GEK1901",
+"moduleTitle": "Critical Thinking in the Information Age",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "GEK1549, GET1006",
+"prerequisite": "Students who are required to take ES1000 Basic English and/or ES1102 English for Academic Purposes, must pass those modules before they are allowed to read this module.",
+"preclusionList": [
+            "GET1006",
+            "GEK1549"
+        ],
+"parsedPrerequisite": {
+            " or ": [
+                "ES1000", 
+                "ES1102"
+            ]
+},
+"prerequisiteList": ["ES1000","ES1102"],
+"completePrerequisite": {
+            "name": "GEK1901", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "ES1000", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "ES1102", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "How do we assess issues arising from the production and consumption of content and innovation in the Information Age? This module introduces students to principles and processes in analysing written and spoken arguments arising from various digital media channels such as the world-wide web, Internet, social and mobile media. Students learn how to question assumptions and assertions, identify bias and substantiate arguments on issues facing the Information Age. Ennis\u2019 (1986, 2001) taxonomy of critical thinking dispositions underpins these principles and processes of critical thinking with emphasis on developing habits of mind that will prime students to think and argue well.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "NON-FACULTY-BASED DEPARTMENTS",
+"department": "CTR FOR ENGLISH LANGUAGE COMMUNICATION",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

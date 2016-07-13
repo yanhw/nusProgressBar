@@ -1,0 +1,29 @@
+{
+"moduleCode": "MA2289",
+"moduleTitle": "Basic UROPS in Mathematics II",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "MA1101R and departmental approval",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["MA1101R"]
+},
+"prerequisiteList": ["MA1101R"],
+"completePrerequisite": {
+            "name": "MA2289", 
+            "children": [
+                {
+                    "name": "MA1101R", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "This provides a continuation of work done in MA2288 and the project should be of two semester's duration. Please see section 4.4.3.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCIENCE",
+"department": "MATHEMATICS",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,3,4,]]
+}

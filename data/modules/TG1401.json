@@ -1,0 +1,27 @@
+{
+"moduleCode": "TG1401",
+"moduleTitle": "Engineering Mathematics I",
+"moduleCredit": "4",
+"lockedModules":[
+            "TE2002",
+            "EE2023E"
+        ],
+"preclusion": "TE2102 or TM1401",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "TM1401",
+            "TE2102"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "TG1401", 
+            "children": []
+},
+
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "ENGINEERING",
+"department": "BACHELOR OF TECHNOLOGY PROGRAMME",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

@@ -1,0 +1,147 @@
+{
+"moduleCode": "LSM3242",
+"moduleTitle": "Translational Microbiology",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "LSM2102 and either LSM2101 or LSM3232",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " and ": [
+                "LSM2102", 
+                {
+                    " or ": [
+                        "LSM2101", 
+                        "LSM3232"
+                    ]
+                }
+            ]
+},
+"prerequisiteList": ["LSM2102","LSM1401","LSM1102","LSM2101","LSM1101","LSM3232","LSM2103"],
+"completePrerequisite": {
+            "name": "LSM3242", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "LSM2102", 
+                            "children": [
+                                {
+                                    "name": "and", 
+                                    "children": [
+                                        {
+                                            "name": "LSM1401", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "LSM1102", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "or", 
+                            "children": [
+                                {
+                                    "name": "LSM2101", 
+                                    "children": [
+                                        {
+                                            "name": "or", 
+                                            "children": [
+                                                {
+                                                    "name": "LSM1101", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "LSM1401", 
+                                                    "children": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }, 
+                                {
+                                    "name": "LSM3232", 
+                                    "children": [
+                                        {
+                                            "name": "or", 
+                                            "children": [
+                                                {
+                                                    "name": "LSM2101", 
+                                                    "children": [
+                                                        {
+                                                            "name": "or", 
+                                                            "children": [
+                                                                {
+                                                                    "name": "LSM1101", 
+                                                                    "children": []
+                                                                }, 
+                                                                {
+                                                                    "name": "LSM1401", 
+                                                                    "children": []
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }, 
+                                                {
+                                                    "name": "LSM2102", 
+                                                    "children": [
+                                                        {
+                                                            "name": "and", 
+                                                            "children": [
+                                                                {
+                                                                    "name": "LSM1401", 
+                                                                    "children": []
+                                                                }, 
+                                                                {
+                                                                    "name": "LSM1102", 
+                                                                    "children": []
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }, 
+                                                {
+                                                    "name": "LSM2103", 
+                                                    "children": [
+                                                        {
+                                                            "name": "or", 
+                                                            "children": [
+                                                                {
+                                                                    "name": "LSM1101", 
+                                                                    "children": []
+                                                                }, 
+                                                                {
+                                                                    "name": "LSM1401", 
+                                                                    "children": []
+                                                                }, 
+                                                                {
+                                                                    "name": "LSM1102", 
+                                                                    "children": []
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module covers the underlying principles and wide-ranging industrial, environmental, pharmaceutical, and biomedical applications of microbiology. The objectives are (a) to gain an understanding of the role of microorganisms for biotechnology applications in the fields of medicine, agriculture, organic chemistry, synthetic biology, public health, biomass conversion, and biomining; and (b) to review advances in genetics and molecular biology of industrial microorganisms, enzyme engineering, environmental microbiology, food microbiology, and molecular biotechnology. A particular focus will be on the meaning and impact of microbiology on human health and the development of new therapeutic approaches.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "YONG LOO LIN SCHOOL OF MEDICINE",
+"department": "MICROBIOLOGY & IMMUNOLOGY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

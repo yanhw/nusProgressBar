@@ -1,0 +1,39 @@
+{
+"moduleCode": "MUA6116",
+"moduleTitle": "Ensemble Study 6B",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "MUA6115 Ensemble Study 6A",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["MUA6115"]
+},
+"prerequisiteList": ["MUA6115","MUA5116","MUA5115"],
+"completePrerequisite": {
+            "name": "MUA6116", 
+            "children": [
+                {
+                    "name": "MUA6115", 
+                    "children": [
+                        {
+                            "name": "MUA5116", 
+                            "children": [
+                                {
+                                    "name": "MUA5115", 
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "The final graduate ensemble module brings to a summation a wide range of training and experience relevant to the professional instrumentalist\u2019s / composer\u2019s abilities and success within a professional music context in the realms of chamber music, orchestral music, and related ensemble combinations.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "YONG SIEW TOH CONSERVATORY OF MUSIC",
+"department": "YONG SIEW TOH CONSERVATORY OF MUSIC",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

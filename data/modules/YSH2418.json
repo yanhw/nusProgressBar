@@ -1,0 +1,22 @@
+{
+"moduleCode": "YSH2418",
+"moduleTitle": "Short Course: Introduction to Nanoscience",
+"moduleCredit": "1",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "YSH2418", 
+            "children": []
+},
+"moduleDescription": "An introduction to the emerging discipline of nanotechnology. Topics include the physical effects of nanoscale systems, the synthesis and fabrication of nanostructures, and their applications ranging from micromachines to electronics to biology. Societal and economic impacts, as well as ethical issues created by nanotechnologies, will be discussed.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "YALE-NUS COLLEGE",
+"department": "YALE-NUS COLLEGE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

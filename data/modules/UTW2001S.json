@@ -1,0 +1,32 @@
+{
+"moduleCode": "UTW2001S",
+"moduleTitle": "Masculinities on Film",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "IEM2201%, UTW2001%",
+"prerequisite": "IEM1201%, UTW1001%",
+"preclusionList": [
+            "IEM2201",
+            "UTW2001"
+        ],
+"parsedPrerequisite": {
+" and ": ["UTW1001"]
+},
+"prerequisiteList": ["UTW1001"],
+"completePrerequisite": {
+            "name": "UTW2001S", 
+            "children": [
+                {
+                    "name": "UTW1001", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "The traditional notion of masculinity as homogenous has given way in recent decades to a proliferation of multiple masculinities that questions the relationship between gender and power. This socio-cultural phenomenon is manifested on film. Masculinity can be seen as a contested space where different masculinities fight for dominance, and older forms of masculinity are displaced by new ones.This module invites you to consider social, cultural and historical influences on constructions of masculinity on film, as well as textual contexts such as genre, as you critically reflect on the diversity of masculinities that are represented.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "NON-FACULTY-BASED DEPARTMENTS",
+"department": "CTR FOR ENGLISH LANGUAGE COMMUNICATION",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

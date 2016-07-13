@@ -1,0 +1,30 @@
+{
+"moduleCode": "CM2191",
+"moduleTitle": "Experiments in Chemistry 2.",
+"moduleCredit": "4",
+"lockedModules":[
+            "CM3291"
+        ],
+"preclusion": "NIL",
+"prerequisite": "CM1191 or by department approval.",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["CM1191"]
+},
+"prerequisiteList": ["CM1191"],
+"completePrerequisite": {
+            "name": "CM2191", 
+            "children": [
+                {
+                    "name": "CM1191", 
+                    "children": []
+                }
+            ]
+},
+
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "SCIENCE",
+"department": "CHEMISTRY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

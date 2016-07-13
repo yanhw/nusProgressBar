@@ -1,0 +1,24 @@
+{
+"moduleCode": "RE2301",
+"moduleTitle": "GIS for Real Estate",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "RE3490 GIS for Real Estate",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "RE3490"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "RE2301", 
+            "children": []
+},
+"moduleDescription": "The module provides students with the basic concepts, skills, and applications of the Geographic Information System (GIS) to urban analysis. Students will be taught the principles of database structures behind a GIS, operational skills for data capturing and manipulations, and knowledge of GIS project design, implementation and administration. Students will have the opportunity to develop an application of GIS relevant to local area planning.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF DESIGN AND ENVIRONMENT",
+"department": "REAL ESTATE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

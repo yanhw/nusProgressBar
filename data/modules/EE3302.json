@@ -1,0 +1,57 @@
+{
+"moduleCode": "EE3302",
+"moduleTitle": "Industrial Control Systems",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "EE3331C",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["EE3331C"]
+},
+"prerequisiteList": ["EE3331C","EE2023","MA1506","MA1102R","MA1505","MA1521"],
+"completePrerequisite": {
+            "name": "EE3302", 
+            "children": [
+                {
+                    "name": "EE3331C", 
+                    "children": [
+                        {
+                            "name": "EE2023", 
+                            "children": [
+                                {
+                                    "name": "MA1506", 
+                                    "children": [
+                                        {
+                                            "name": "or", 
+                                            "children": [
+                                                {
+                                                    "name": "MA1102R", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MA1505", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MA1521", 
+                                                    "children": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module will cover sensors, instrumentation and control systems commonly used in the industry. The sensor and instrumentation part includes topics such as signal processing and conversion, transducers and actuators, instrumentation amplifiers, non-linear amplifiers, issues pertaining to grounds, shields and power supplies. The control portion covers the evolution and types of control systems, centralized control, direct digital control (DDC), distributed control systems (DCS), fieldbuses, PID control: tuning methods and refinements, auto-tuning principles and implementation, available industrial PID controllers and their operation. It will include other common control systems such as feed-forward, cascade, ratio, selective, split range, time-delay compensation, sequence control and PLC.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "ELECTRICAL & COMPUTER ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

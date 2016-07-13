@@ -1,0 +1,23 @@
+{
+"moduleCode": "TG2415",
+"moduleTitle": "Ethics In Engineering",
+"moduleCredit": "4",
+"lockedModules":[
+            "CN4123E"
+        ],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "TG2415", 
+            "children": []
+},
+"moduleDescription": "This module highlights to students the ethical issues they will face working as an engineering professional. The issues covered range from the rationale for an engineering code of practice, risk and safety issues, conflict of interest, ethical issues in research. This module will be offered to second or higher year engineering students as they need their engineering background to better understand the issues involved. Case studies will be presented to cover real life issues.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "ENGINEERING",
+"department": "BACHELOR OF TECHNOLOGY PROGRAMME",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,3,0,]]
+}

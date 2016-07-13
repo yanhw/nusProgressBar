@@ -1,0 +1,34 @@
+{
+"moduleCode": "BL5233",
+"moduleTitle": "Modeling in Environmental Biology with R",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "An undergraduate course in statistics for biologists covering statistical tests, correlation, ANOVA and regression. An undergraduate course in ecology. For students from NUS: ST1232 Statistics for Life Sciences LSM2251 Ecology and Environment",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["LSM2251"]
+},
+"prerequisiteList": ["LSM2251","LSM1103"],
+"completePrerequisite": {
+            "name": "BL5233", 
+            "children": [
+                {
+                    "name": "LSM2251", 
+                    "children": [
+                        {
+                            "name": "LSM1103", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "Analysis and modeling of environmental biology data are essential skills in environmental biology in general and ecological research in particular. The range of statistical and modeling techniques necessary to analyze real data and the complexities inherent to natural systems will be covered. The module will provide graduate students with the expertise to perform modeling and statistical inference on environmental biology datasets at a publishable standard. Topics covered include: generalized linear models, generalized additive models, generalized linear mixed-effects models, analysis of communities structure, time series and spatial statistics.",
+"crossModule": "-1",
+"corequisite": "Nil",
+"faculty": "SCIENCE",
+"department": "BIOLOGICAL SCIENCES",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

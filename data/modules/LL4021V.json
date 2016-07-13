@@ -1,0 +1,22 @@
+{
+"moduleCode": "LL4021V",
+"moduleTitle": "Environmental Law",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "NUS Compulsory Core Curriculum or its equivalent.",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "LL4021V", 
+            "children": []
+},
+"moduleDescription": "This course is aimed at giving students an overview of environmental law and its development, including the legal and administrative structures for their implementation, from the international, regional and national perspectives. It will focus on hard laws (legal instruments, statutory laws, international and regional conventions) and soft laws (Declarations, Charters etc.). In particular, it will examine the basic elements of pollution laws relating to air, water, waste, hazardous substances and noise; as well as nature conservation laws and laws governing environmental impact assessments. Singapore's laws and the laws of selected ASEAN countries will be examined.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "LAW",
+"department": "LAW",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

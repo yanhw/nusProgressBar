@@ -1,0 +1,34 @@
+{
+"moduleCode": "LSM3263",
+"moduleTitle": "Field Studies in Neotropical Ecosystems",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "LSM2251",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["LSM2251"]
+},
+"prerequisiteList": ["LSM2251","LSM1103"],
+"completePrerequisite": {
+            "name": "LSM3263", 
+            "children": [
+                {
+                    "name": "LSM2251", 
+                    "children": [
+                        {
+                            "name": "LSM1103", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "An intensive four-week summer program conducted with the University of Costa Rica. The first two weeks will be spent on campus in San Jose, with lectures and tutorials on comparative paleo-tropical (Singapore) and neo-tropical (Costa Rica) terrestrial and marine ecosystems; comparative urban ecology as well as comparative conservation issues and policies. Short trips to nearby field stations (mid to high elevation forest systems) will be carried out over the first two weekends to familiarize students to local climate and native ecosystems, flora and fauna. The latter two weeks will be spent at research stations at tropical Caribbean coastal forest and coastal Pacific ecosystems. Students will be exposed to different techniques in field biology and will be trained in forming ecological hypotheses while in the field. Lectures, student projects and student assessments will be carried out at each field site.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCIENCE",
+"department": "BIOLOGICAL SCIENCES",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,0,0,4,]]
+}

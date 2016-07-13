@@ -1,0 +1,29 @@
+{
+"moduleCode": "BMA5307",
+"moduleTitle": "Options And Futures",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "BMA5008",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["BMA5008"]
+},
+"prerequisiteList": ["BMA5008"],
+"completePrerequisite": {
+            "name": "BMA5307", 
+            "children": [
+                {
+                    "name": "BMA5008", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "This module is designed to help you to understand tha basic characteristics of options, futures and other derivative securities. The issues addressed in this module include the market structure, pricing and hedging using derivative securities. Througout the module, the emphasis is placed on the understanding of concepts rather than on the memorization of formulas. A working knowledge of spreadsheets and internet access, and a basic knowledge of statistics and finance are presumed.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF BUSINESS",
+"department": "DEAN'S OFFICE (BIZ)",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

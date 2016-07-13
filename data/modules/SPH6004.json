@@ -1,0 +1,22 @@
+{
+"moduleCode": "SPH6004",
+"moduleTitle": "Advanced Biostatistics",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "SPH6004", 
+            "children": []
+},
+"moduleDescription": "This module will introduce several advanced topics for analyzing large or complex datasets, with a particular emphasis on biomedical and epidemiological data. Classical strategies for statistical inference, variable selection and model assessment are less efficient when the dimension of the dataset is large. This module will introduce Bayesian techniques and multivariate data analysis in an applied framework that combines both computing and theory, and also overviews the problem of multiple testing correction common in, for example, genomics and proteomics studies.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SAW SWEE HOCK SCHOOL OF PUBLIC HEALTH",
+"department": "SAW SWEE HOCK SCHOOL OF PUBLIC HEALTH",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

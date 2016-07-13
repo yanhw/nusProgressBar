@@ -1,0 +1,51 @@
+{
+"moduleCode": "PR3289",
+"moduleTitle": "Advanced UROPS in Pharmacy II",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "By permission or PR2288 or PR2289",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " or ": [
+                "PR2288", 
+                "PR2289"
+            ]
+},
+"prerequisiteList": ["PR2288","PR1110","PR2289"],
+"completePrerequisite": {
+            "name": "PR3289", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "PR2288", 
+                            "children": [
+                                {
+                                    "name": "PR1110", 
+                                    "children": []
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "PR2289", 
+                            "children": [
+                                {
+                                    "name": "PR1110", 
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "Please see section 4.4.3. Target students: Pharmacy Year Three and Science",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCIENCE",
+"department": "PHARMACY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,3,4,]]
+}

@@ -1,0 +1,47 @@
+{
+"moduleCode": "EE4432",
+"moduleTitle": "Devices for Electric Energy Generation",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "EE2021 Devices and circuits",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["EE2021"]
+},
+"prerequisiteList": ["EE2021","EE1002","EG1108","CG1108"],
+"completePrerequisite": {
+            "name": "EE4432", 
+            "children": [
+                {
+                    "name": "EE2021", 
+                    "children": [
+                        {
+                            "name": "or", 
+                            "children": [
+                                {
+                                    "name": "EE1002", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "EG1108", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "CG1108", 
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module covers the theory, operating principles, and basic function of (i) photovoltaic, thermoelectric, and fuel cell-based electric energy generation devices and (ii) electric energy storage systems. Major topics covered are the photovoltaic (PV) effect, solar cells (silicon wafer cells, thin-film cells, organic cells), PV modules, the thermoelectric effect, thermoelectric devices, fuel cells (proton exchange membrane cells, high-temperature cells), pumped hydroelectric energy, compressed air energy, flywheels, rechargeable batteries (lead-acid, lithium ion, etc), electrolytic hydrogen, and supercapacitors.",
+"crossModule": "-1",
+"corequisite": "Nil",
+"faculty": "ENGINEERING",
+"department": "ELECTRICAL & COMPUTER ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

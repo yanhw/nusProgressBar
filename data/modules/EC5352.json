@@ -1,0 +1,27 @@
+{
+"moduleCode": "EC5352",
+"moduleTitle": "Public Economics",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "EC5267,EC5209/EC5351/ECA5351",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "EC5351",
+            "ECA5351",
+            "EC5209",
+            "EC5267"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "EC5352", 
+            "children": []
+},
+"moduleDescription": "This module applies economic principles to analyse budgetary policies and programmes of the public sectors. Topics covered include the following:the economic role of the state; the privatisation phenomenon; theory and practice of tax reform; effects of taxes and expenditure on work effort, saving, investment and risk taking; the role of fiscal incentives in economic management; financing of social security, health care and education and; international aspects of taxation.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "ECONOMICS",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

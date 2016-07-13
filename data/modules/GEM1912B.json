@@ -1,0 +1,24 @@
+{
+"moduleCode": "GEM1912B",
+"moduleTitle": "Jr Sem Special Topics: Quality Journalism and Critical Reading",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "UTC1112B GEM1912BX",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "UTC1112B"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "GEM1912B", 
+            "children": []
+},
+"moduleDescription": "News reports that purport to have marshalled facts and opinion on current issues are often taken at face value: they are consumed without question. How can we discern quality journalism from the less worthy instances of the craft? This seminar, led by an experienced journalist, is organised around the critical exploration of key aspects of journalistic writing: the questions behind the story, the use of numbers and the organisation of the message or argument. By dissecting media coverage of current issues, students will bolster their skills as critical readers and communicators.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "NON-FACULTY-BASED DEPARTMENTS",
+"department": "TEMBUSU COLLEGE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

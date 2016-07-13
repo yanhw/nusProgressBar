@@ -1,0 +1,120 @@
+{
+"moduleCode": "ZB4171",
+"moduleTitle": "Advanced Topics in Bioinformatics",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "LSM2104 or or LSM2241 and LSM3241 (Life Sciences Students) OR CS2220 (Computational Biology Students)",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " and ": [
+                "LSM3241", 
+                "CS2220"
+            ]
+},
+"prerequisiteList": ["LSM3241","LSM2102","LSM1401","LSM1102","LSM2104","LSM2241","LSM1101","CS2220","CS1020","CS1010"],
+"completePrerequisite": {
+            "name": "ZB4171", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "LSM3241", 
+                            "children": [
+                                {
+                                    "name": "and", 
+                                    "children": [
+                                        {
+                                            "name": "LSM2102", 
+                                            "children": [
+                                                {
+                                                    "name": "and", 
+                                                    "children": [
+                                                        {
+                                                            "name": "LSM1401", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "LSM1102", 
+                                                            "children": []
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "or", 
+                                            "children": [
+                                                {
+                                                    "name": "LSM2104", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "LSM2241", 
+                                                    "children": [
+                                                        {
+                                                            "name": "or", 
+                                                            "children": [
+                                                                {
+                                                                    "name": "LSM1101", 
+                                                                    "children": []
+                                                                }, 
+                                                                {
+                                                                    "name": "LSM1401", 
+                                                                    "children": []
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "CS2220", 
+                            "children": [
+                                {
+                                    "name": "and", 
+                                    "children": [
+                                        {
+                                            "name": "CS1020", 
+                                            "children": [
+                                                {
+                                                    "name": "CS1010", 
+                                                    "children": []
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "or", 
+                                            "children": [
+                                                {
+                                                    "name": "LSM1101", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "LSM1102", 
+                                                    "children": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "In this module, students are challenged with practical experience in advanced bioinformatics research topics spanning database curation, literature text mining, and compute-intensive sequence and 3D structure analysis. Groups will design and carry out a pan-genomic analysis with a high-performance integrated database system. Individual students will learn to use animation software and raw biomolecular structure information as a platform for simulation and hypothesis testing.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "SCIENCE",
+"department": "BIOLOGICAL SCIENCES",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

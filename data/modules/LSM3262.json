@@ -1,0 +1,41 @@
+{
+"moduleCode": "LSM3262",
+"moduleTitle": "Environmental Animal Physiology",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "LSM1104 or LSM1201",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " or ": [
+                "LSM1104", 
+                "LSM1201"
+            ]
+},
+"prerequisiteList": ["LSM1104","LSM1201"],
+"completePrerequisite": {
+            "name": "LSM3262", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "LSM1104", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "LSM1201", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module aims to examine the physiological and biochemical adaptations of animals which permit them to thrive in diverse environments. It focuses on how animals adapt to natural (e.g. oxygen availability, salinity changes, water availability) and anthropogenic (e.g. greenhouse effect, UV radiation and oxidative stresses, xenobiotics) environmental challenges. This module hopes to offer students clues to what are the fundamental ways in which basic biological structures and functions of living systems are actively modified to allow organisms to exploit the full range of natural environments and to maintain the radically different modes of life we see in nature. Efforts will be made to teach how environmental physiology can be applied to biomedicine, agriculture, ecology and environmental conservation in the last part of the module.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCIENCE",
+"department": "BIOLOGICAL SCIENCES",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

@@ -1,0 +1,22 @@
+{
+"moduleCode": "SC2209",
+"moduleTitle": "Money, Business and Social Networks",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "SC2209", 
+            "children": []
+},
+"moduleDescription": "This module focuses on the sociology of economic life. At the micro level, it examines the social relationships that are formed when economic transactions are performed. At the macro level, it analyses the role of social institutions in influencing economic behaviour. In the course of this module, students will be introduced to key concepts such as competition, entrepreneurship, business networks, trust, social capital and economic globalisation. It will also introduce students to social networks analysis. This module is mounted for students throughout NUS who are interested in understanding how societies are organised within their respective economic environments.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "SOCIOLOGY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

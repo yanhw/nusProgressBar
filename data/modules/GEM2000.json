@@ -1,0 +1,22 @@
+{
+"moduleCode": "GEM2000",
+"moduleTitle": "Foundations of Real Estate Appraisal",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "All School of Design and Environment students are not allowed to read it as a GEM.",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "GEM2000", 
+            "children": []
+},
+"moduleDescription": "The module is aimed at helping students to develop a wholesome questioning mind and attitude and a curiosity for the meaning, extent and purpose of knowledge so as to look at appraisal problems holistically, critically and creatively. Thus, the module is meant to be a review of the development of appraisal theory and the methods of investigating and analyzing an appraisal problem as well as interpretation of value determining factors and appraisal reports. Furthermore, the module explores the quantitative/qualitative, inductive and deductive modes of analysis underpinning real estate appraisal as well as the interpretative nature of real estate appraisal.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF DESIGN AND ENVIRONMENT",
+"department": "REAL ESTATE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

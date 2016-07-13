@@ -1,0 +1,22 @@
+{
+"moduleCode": "SE2211",
+"moduleTitle": "Southeast Asian Social History",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "SE2211", 
+            "children": []
+},
+"moduleDescription": "This module addresses the social and economic history of the Southeast Asian region. It introduces the study of social and economic change over 2,000 years, the academic perspectives useful in that study, and the value of that study in understanding modern Southeast Asia. It examines precolonial society and its relationship to art, political, and economic activity; Southeast Asians\u2019 responses to the challenges and opportunities of the region\u2019s exposure to external influences, including China, India, Islam and Europe; heritage preservation and rchaeological research; and current developments, particularly the growth of tourism as a major industry.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "SOUTHEAST ASIAN STUDIES",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,0,0,4,]]
+}

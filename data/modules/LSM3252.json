@@ -1,0 +1,29 @@
+{
+"moduleCode": "LSM3252",
+"moduleTitle": "Evolution and Comparative Genomics",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "LSM1103",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["LSM1103"]
+},
+"prerequisiteList": ["LSM1103"],
+"completePrerequisite": {
+            "name": "LSM3252", 
+            "children": [
+                {
+                    "name": "LSM1103", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "Presentation of the theory of Evolution as one of the unifying disciplines in biology. The module introduces the three main themes in modern Evolutionary Biology: (1) Tree-of-Life: including processes and mechanisms of speciation, (II) Natural selection: including sexual selection and kinship selection, (III) Neutral Evolution: including genetic drift. Comparative Genomics is incorporated in the module by discussing the origin of life, whole genome comparisons, gene duplication, and using molecular data for the reconstruction of the phylogenetic relationships between species. The module emphasizes the importance of evolutionary biology as a tool that can explain a wide variety of phenomena in biology.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCIENCE",
+"department": "BIOLOGICAL SCIENCES",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

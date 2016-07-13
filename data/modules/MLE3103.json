@@ -1,0 +1,68 @@
+{
+"moduleCode": "MLE3103",
+"moduleTitle": "Materials Design and Selection",
+"moduleCredit": "4",
+"lockedModules":[
+            "MLE4102"
+        ],
+"preclusion": "NIL",
+"prerequisite": "MLE1101 or MLE2104",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " or ": [
+                "MLE1101", 
+                "MLE2104"
+            ]
+},
+"prerequisiteList": ["MLE1101","MLE2104","EG1109F","EG1109","CE1109X","MLE2101"],
+"completePrerequisite": {
+            "name": "MLE3103", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "MLE1101", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "MLE2104", 
+                            "children": [
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "EG1109F", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "EG1109", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "CE1109X", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "MLE1101", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "MLE2101", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "Engineering aspects of materials design and selection; Basics and procedure for materials selection: selection strategy, screening and ranking, deriving property limits, materials processes; Various aspects and factors in materials selection and design: functions, objectives, constraints and limits, performance maximising criteria, environmental condition, economics and business issues; Case studies: metals, ceramics, semiconductors, polymers and biomaterials; Case study by industrial practitioners.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "ENGINEERING",
+"department": "MATERIALS SCIENCE AND ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

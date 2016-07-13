@@ -1,0 +1,29 @@
+{
+"moduleCode": "BMA5532A",
+"moduleTitle": "Topics in Big Picture Marketing",
+"moduleCredit": "2",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "BMA5009 Marketing Management",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["BMA5009"]
+},
+"prerequisiteList": ["BMA5009"],
+"completePrerequisite": {
+            "name": "BMA5532A", 
+            "children": [
+                {
+                    "name": "BMA5009", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "This objective of this module is to identify the needs of the consumer followed by the creation of products and services to satisfy the needs.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF BUSINESS",
+"department": "MARKETING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

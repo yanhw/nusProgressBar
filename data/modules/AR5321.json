@@ -1,0 +1,22 @@
+{
+"moduleCode": "AR5321",
+"moduleTitle": "Advanced Architectural Technology",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "AR5321", 
+            "children": []
+},
+"moduleDescription": "This module aims to introduce building technology in the context of design strategies and as the enabler of architectural design concepts and function. Lectures are organized sequentially to relate in one building. a. operator/user requirements to building requirements b. design strategies to meet building requirements c. the technical resolution of those design strategies Design strategies include: Site planning considerations for major provisions such as substation, basement car parks; Construction processes due to site constraints; Structural strategy and concept in relation to architectural form, space and layout considerations; Mechanical & electrical strategy and concept in relation to architecture and layout.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF DESIGN AND ENVIRONMENT",
+"department": "ARCHITECTURE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

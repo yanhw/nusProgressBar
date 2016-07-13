@@ -1,0 +1,42 @@
+{
+"moduleCode": "FST3103",
+"moduleTitle": "Advanced Food Engineering",
+"moduleCredit": "4",
+"lockedModules":[
+            "FST4102"
+        ],
+"preclusion": "NIL",
+"prerequisite": "FST1101 and CM2161",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " and ": [
+                "FST1101", 
+                "CM2161"
+            ]
+},
+"prerequisiteList": ["FST1101","CM2161"],
+"completePrerequisite": {
+            "name": "FST3103", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "FST1101", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "CM2161", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module covers a number of the most popular food processing operations, ranging from the conventional thermal processing to the modern membrane separation. Topics include thermal processing, microwave processing, evaporation, freezing, mixing, psychrometrics, mass transfer, membrane separation, and dehydration.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCIENCE",
+"department": "CHEMISTRY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

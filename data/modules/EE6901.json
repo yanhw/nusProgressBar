@@ -1,0 +1,64 @@
+{
+"moduleCode": "EE6901",
+"moduleTitle": "3d Vision",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "TD5130 3D Vision",
+"prerequisite": "EE5731R Visual Computing",
+"preclusionList": [
+            "TD5130"
+        ],
+"parsedPrerequisite": {
+" and ": ["EE5731R"]
+},
+"prerequisiteList": ["EE5731R","EE3206","EE2023","MA1506","MA1102R","MA1505","MA1521"],
+"completePrerequisite": {
+            "name": "EE6901", 
+            "children": [
+                {
+                    "name": "EE5731R", 
+                    "children": [
+                        {
+                            "name": "EE3206", 
+                            "children": [
+                                {
+                                    "name": "EE2023", 
+                                    "children": [
+                                        {
+                                            "name": "MA1506", 
+                                            "children": [
+                                                {
+                                                    "name": "or", 
+                                                    "children": [
+                                                        {
+                                                            "name": "MA1102R", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "MA1505", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "MA1521", 
+                                                            "children": []
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "The objective of this course is to understand three-dimensional shape/space processing in human or machines. The course will examine 3D vision from various perspectives, including its computational, perceptual, and physiological aspects. It will cover both theoretical analysis as well as practical implementation of solutions to problems encountered in shape recovery and navigation. Emphasis will be placed on fundamental mathematical issues in 3D vision, with the aim of training postgraduate research students for indepth vision research. Students should take up this module only if the course helps them in their R&D efforts.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "ELECTRICAL & COMPUTER ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

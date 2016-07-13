@@ -1,0 +1,22 @@
+{
+"moduleCode": "CO5201",
+"moduleTitle": "Control Of Communicable Diseases",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "CO5201", 
+            "children": []
+},
+"moduleDescription": "This module focuses on communicable diseases of public health concern in Singapore and internationally. This course will help students understand prevention, surveillance and control of communicable diseases in industrialised and developing countries. Vector-borne diseases (in particular dengue and malaria), food and water borne diseases, sexually transmitted diseases, airborne diseases and zoonosis will be covered. A special emphasis will be placed on the control of HIV/AIDS (and other STIs), Tuberculosis, dengue and malaria. Tropical diseases targeted for elimination, tropical diseases currently lacking adequate control measures and infectious diseases of poverty and poor hygiene will be discussed. Vector control will be illustrated, including a visit to the Environmental Health Institute. Vaccine preventable diseases both in routine programmes as well as in outbreak situations will be discussed. Outbreak investigations will be simulated and pandemic preparedness outlined. Students will read, critically appraise and discuss the application of current control strategies. They will identify a relevant infectious disease of public health concern and prepare a proposal for a public health intervention. This course will help students prepare for work in communicable diseases in local and international governmental and non-governmental organisations.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SAW SWEE HOCK SCHOOL OF PUBLIC HEALTH",
+"department": "SAW SWEE HOCK SCHOOL OF PUBLIC HEALTH",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

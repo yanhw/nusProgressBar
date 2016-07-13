@@ -1,0 +1,29 @@
+{
+"moduleCode": "MUA4176",
+"moduleTitle": "Audio System Design",
+"moduleCredit": "3",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "MUA1171 Basic Recording 2",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["MUA1171"]
+},
+"prerequisiteList": ["MUA1171"],
+"completePrerequisite": {
+            "name": "MUA4176", 
+            "children": [
+                {
+                    "name": "MUA1171", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "This module will mainly discuss Hi-Fi audio system design and setup. The topic includes power amplifier design, pre-amplifier design, hi-fi loudspeaker, and home theatre system design and setup.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "YONG SIEW TOH CONSERVATORY OF MUSIC",
+"department": "YONG SIEW TOH CONSERVATORY OF MUSIC",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

@@ -1,0 +1,42 @@
+{
+"moduleCode": "PC2193",
+"moduleTitle": "Experimental Physics I",
+"moduleCredit": "4",
+"lockedModules":[
+            "PC3193"
+        ],
+"preclusion": "NIL",
+"prerequisite": "STUDENTS WHO HAVE PASSED ONE OF THESE MODULES PC1141, PC1142, PC1143, PC1144, PC1431, PC1431FC, PC1431X, PC1432 OR PC1433",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " and ": [
+                "PC1432", 
+                "PC1433"
+            ]
+},
+"prerequisiteList": ["PC1432","PC1433"],
+"completePrerequisite": {
+            "name": "PC2193", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "PC1432", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "PC1433", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module provides a comprehensive training of both experimental and analytical skills in mechanics, thermal physics, electronics, magnetism, nuclear physics, semiconductors, optics and lasers. In particular, emphasis is placed on the measurement skill that will be required in the industries of semiconductors, optical communications and life sciences. While this module is mainly targeted at physics majors, it is also suitable for science and engineering students who are interested in a career in the above-mentioned industries.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCIENCE",
+"department": "PHYSICS",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

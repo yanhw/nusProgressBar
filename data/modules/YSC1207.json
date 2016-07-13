@@ -1,0 +1,29 @@
+{
+"moduleCode": "YSC1207",
+"moduleTitle": "Chemistry: Molecular Structure and Reactivity",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "YCC1131 Scientific Inquiry",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["YCC1131"]
+},
+"prerequisiteList": ["YCC1131"],
+"completePrerequisite": {
+            "name": "YSC1207", 
+            "children": [
+                {
+                    "name": "YCC1131", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "An introduction to chemistry emphasizing a microscopic, physical approach. A focus on atomic and molecular structure, chemical bonding and reactivity, and physical properties of molecules. Includes laboratory exercises. For students with an interest in the physical sciences, the life sciences, and environmental studies. The material is discussed at an introductory level, and is focused on developing understanding and ability to apply molecular concepts in further study of the sciences.",
+"crossModule": "-1",
+"corequisite": "YCC1122 Quantitative Reasoning",
+"faculty": "YALE-NUS COLLEGE",
+"department": "YALE-NUS COLLEGE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

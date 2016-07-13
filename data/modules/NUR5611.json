@@ -1,0 +1,60 @@
+{
+"moduleCode": "NUR5611",
+"moduleTitle": "Clinical Practicum I (Paediatrics) (8 weeks)",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "NUR5601, NUR5602, NUR5603",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " and ": [
+                "NUR5601", 
+                "NUR5602", 
+                "NUR5603"
+            ]
+},
+"prerequisiteList": ["NUR5601","NUR5602","NUR5603"],
+"completePrerequisite": {
+            "name": "NUR5611", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "NUR5601", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "NUR5602", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "NUR5603", 
+                            "children": [
+                                {
+                                    "name": "and", 
+                                    "children": [
+                                        {
+                                            "name": "NUR5601", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "NUR5602", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "The module aims for students to implement advanced practice skills in patient/family assessment, develop and implement a management plan and evaluate the plan\u2019s effectiveness. Care of paediatric patients with cardiovascular, respiratory, otolaryngological, haematological, renal systems and infectious and malignant conditions in the paediatric wards and ambulatory settings. Health promotion, health protection, and health restoration appropriate to these patients and families will be emphasised.",
+"crossModule": "-1",
+"corequisite": "Nil",
+"faculty": "YONG LOO LIN SCHOOL OF MEDICINE",
+"department": "NURSING/ALICE LEE CTR FOR NURSING STUD",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,4,]]
+}

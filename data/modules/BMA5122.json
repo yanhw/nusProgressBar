@@ -1,0 +1,29 @@
+{
+"moduleCode": "BMA5122",
+"moduleTitle": "Macroeconomics and Finance: Perspectives from Asia",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "BMA5011",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["BMA5011"]
+},
+"prerequisiteList": ["BMA5011"],
+"completePrerequisite": {
+            "name": "BMA5122", 
+            "children": [
+                {
+                    "name": "BMA5011", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "This module explores the link between economic growth, financial markets and policy in Asia, from a structural as well as cyclical perspective. The course draws on many analytical tools of macro and international economics covered in BMA5011, which is a pre-requisite. Major topics covered include: (1) The role of financial system and regulation in Asia\u2019s economic development; (2) Asian financial crisis and its legacies; (3) The evolution of Asian exchange rate regimes and real exchange rate adjustment; and (4) Opportunities and policy challenges posed by globalization, regional integration and cross-border transmission of shocks.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "SCHOOL OF BUSINESS",
+"department": "DEAN'S OFFICE (BIZ)",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

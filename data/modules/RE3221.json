@@ -1,0 +1,29 @@
+{
+"moduleCode": "RE3221",
+"moduleTitle": "Real Estate Development Law",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "RE2105 Land Law",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["RE2105"]
+},
+"prerequisiteList": ["RE2105"],
+"completePrerequisite": {
+            "name": "RE3221", 
+            "children": [
+                {
+                    "name": "RE2105", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "This module deals with the legal issues that affect real estate development. It examines the regulatory framework for real estate development and taxation. It also deals with the regulations pertaining to the acquisition of land for public and private developments. Topics to be covered include: land use planning and zoning, development and building controls, betterment value and development charge, property tax, stamp duty, income tax, and goods and services tax.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF DESIGN AND ENVIRONMENT",
+"department": "REAL ESTATE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

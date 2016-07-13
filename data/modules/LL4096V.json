@@ -1,0 +1,24 @@
+{
+"moduleCode": "LL4096V",
+"moduleTitle": "International Trademark Law and Policy",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "Students who are taking or have taken LL4096.",
+"prerequisite": "NUS Compulsory Core Curriculum or its equivalent.",
+"preclusionList": [
+            "LL4096"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "LL4096V", 
+            "children": []
+},
+"moduleDescription": "The emphasis will be on the international and comparative aspects of the subject, including the international treaties in this area (Paris Convention; TRIPS; Madrid etc) and regional developments (eg the Community trade mark system in Europe, the harmonization efforts in Asean); inter-relationship between trade mark law and the law of unfair competition in civil law jurisdictions; different treatment by countries of topics such as parallel importation; protection of personality interests; dilution; protection of \"trade dress\"or \"get up\".",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "LAW",
+"department": "LAW",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

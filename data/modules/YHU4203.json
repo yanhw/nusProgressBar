@@ -1,0 +1,56 @@
+{
+"moduleCode": "YHU4203",
+"moduleTitle": "Creative Music Composition 2",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "YHU2205 Integrative Music Theory 1 and YHU2210 Integrative Music Theory 2 and YHU2234 Creative Music Composition 1",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " and ": [
+                "YHU2205", 
+                "YHU2210", 
+                "YHU2234"
+            ]
+},
+"prerequisiteList": ["YHU2205","YHU2210","YHU2234"],
+"completePrerequisite": {
+            "name": "YHU4203", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "YHU2205", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "YHU2210", 
+                            "children": [
+                                {
+                                    "name": "YHU2205", 
+                                    "children": []
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "YHU2234", 
+                            "children": [
+                                {
+                                    "name": "YHU2205", 
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This course is designed to stimulate new lines of enquiry that will help students define and enrich their own compositional ideas. Students will be exposed to the discoveries of composers, scientists of sound and artists outside of music in order to build a vocabulary to articulate one\u2019s own ideas and listening experience. The goal of the course is to help students cultivate an independent voice as a creative artist and extend their musical imaginations.",
+"crossModule": "-1",
+"corequisite": "None",
+"faculty": "YALE-NUS COLLEGE",
+"department": "YALE-NUS COLLEGE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

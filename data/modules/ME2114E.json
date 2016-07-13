@@ -1,0 +1,49 @@
+{
+"moduleCode": "ME2114E",
+"moduleTitle": "Mechanics of Materials II",
+"moduleCredit": "3",
+"lockedModules":[
+],
+"preclusion": "TM1111",
+"prerequisite": "ME2113 or equivalent",
+"preclusionList": [
+            "TM1111"
+        ],
+"parsedPrerequisite": {
+" and ": ["ME2113"]
+},
+"prerequisiteList": ["ME2113","EG1109F","EG1109","CE1109X"],
+"completePrerequisite": {
+            "name": "ME2114E", 
+            "children": [
+                {
+                    "name": "ME2113", 
+                    "children": [
+                        {
+                            "name": "or", 
+                            "children": [
+                                {
+                                    "name": "EG1109F", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "EG1109", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "CE1109X", 
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "ENGINEERING",
+"department": "BACHELOR OF TECHNOLOGY PROGRAMME",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

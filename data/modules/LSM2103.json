@@ -1,0 +1,66 @@
+{
+"moduleCode": "LSM2103",
+"moduleTitle": "Cell Biology",
+"moduleCredit": "4",
+"lockedModules":[
+            "LSM3233",
+            "LSM3232",
+            "LSM4234",
+            "LSM4231",
+            "LSM3215",
+            "LSM3224",
+            "LSM3225",
+            "LSM3223",
+            "LSM4210",
+            "LSM3246",
+            "LSM4227",
+            "FST3102",
+            "LSM4244",
+            "LSM4243",
+            "BN4403",
+            "LSM3217",
+            "LSM3216",
+            "FST2108",
+            "LSM4232",
+            "LSM3211"
+        ],
+"preclusion": "NIL",
+"prerequisite": "LSM1101 or LSM1401 or LSM1102",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " or ": [
+                "LSM1101", 
+                "LSM1401", 
+                "LSM1102"
+            ]
+},
+"prerequisiteList": ["LSM1101","LSM1401","LSM1102"],
+"completePrerequisite": {
+            "name": "LSM2103", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "LSM1101", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "LSM1401", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "LSM1102", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module provides a comprehensive understanding of sub-cellular structures, functions and interactions in unicellular and multi-cellular systems. Emphasis is on cellular functions. Topics include structures and functions of organelles, organelle biogenesis (including organelle inheritance and import of proteins into organelles), intracellular protein trafficking, the cytoskeleton, and cell movements. In addition, students will be introduced to the current concepts of intercellular and intracellular signalling, molecular basis of cell proliferation and apoptosis.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "YONG LOO LIN SCHOOL OF MEDICINE",
+"department": "BIOCHEMISTRY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

@@ -1,0 +1,105 @@
+{
+"moduleCode": "FIN4112L",
+"moduleTitle": "SIF: Corporate Governance and Financial Policy",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "FIN3101 Corporate Finance",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["FIN3101"]
+},
+"prerequisiteList": ["FIN3101","FNA2004","FIN2004","BK1003","BZ1002","BH1002","FNA1002","ACC1002","FNA1002X","ACC1002X","FNA1002E","BH1002E","EC3212","EG1422","BH2004","BZ2004","BK2004"],
+"completePrerequisite": {
+            "name": "FIN4112L", 
+            "children": [
+                {
+                    "name": "FIN3101", 
+                    "children": [
+                        {
+                            "name": "or", 
+                            "children": [
+                                {
+                                    "name": "FNA2004", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "FIN2004", 
+                                    "children": [
+                                        {
+                                            "name": "or", 
+                                            "children": [
+                                                {
+                                                    "name": "BK1003", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "BZ1002", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "BH1002", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "FNA1002", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "ACC1002", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "FNA1002X", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "ACC1002X", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "FNA1002E", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "BH1002E", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "EC3212", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "EG1422", 
+                                                    "children": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }, 
+                                {
+                                    "name": "BH2004", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "BZ2004", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "BK2004", 
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "The purpose of this course is to provide students the opportunity to develop deep skills and understanding of the theory and practice that underlie corporate governance (CG) systems and its interaction with corporate financial decisions. This course will focus on various issues in CG with specific reference to the Asian context such as CG structures in Asia and around the world, the effects of CG on various corporate financial policies, and CG mechanisms to solve agency conflicts. This knowledge is particularly essential for doing business intelligently not only in Asia and other emerging economies but also developed countries.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF BUSINESS",
+"department": "FINANCE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

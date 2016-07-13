@@ -1,0 +1,47 @@
+{
+"moduleCode": "ME4264",
+"moduleTitle": "Automobile Design & Engineering",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "ME 2113 \u2013 Mechanics of Materials",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["ME2113"]
+},
+"prerequisiteList": ["ME2113","EG1109F","EG1109","CE1109X"],
+"completePrerequisite": {
+            "name": "ME4264", 
+            "children": [
+                {
+                    "name": "ME2113", 
+                    "children": [
+                        {
+                            "name": "or", 
+                            "children": [
+                                {
+                                    "name": "EG1109F", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "EG1109", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "CE1109X", 
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module will help students learn to make engineering decisions regarding power-train, braking, suspension, steering and body systems in order to meet acceleration, braking, ride & handling, safety, durability and NVH performance specifications.",
+"crossModule": "-1",
+"corequisite": "Nil",
+"faculty": "ENGINEERING",
+"department": "MECHANICAL ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

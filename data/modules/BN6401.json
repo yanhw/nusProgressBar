@@ -1,0 +1,22 @@
+{
+"moduleCode": "BN6401",
+"moduleTitle": "Advanced Quantitative Fluorescence Microscopy",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "Graduate student standing",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "BN6401", 
+            "children": []
+},
+"moduleDescription": "This module focuses on advanced techniques in fluorescence microscopy for quantitative measurements within cells, tissues, or molecular systems. Topics covered include: single molecule fluorescence, superresolution microscopy, resonance energy transfer-based biosensors, cellular traction force measurements, optical and instrumentation issues in advanced fluorescence microscopy, and recent applications of these techniques. The module is designed to emphasize the analytical, physical, and quantitative aspects of fluorescence-based bioimaging and is aimed for graduate students with prior familiarity with microscopy",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "BIOMEDICAL ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

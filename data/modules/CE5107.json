@@ -1,0 +1,56 @@
+{
+"moduleCode": "CE5107",
+"moduleTitle": "Pile Foundations",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "Undergraduate: CE2112 &amp; CE3116 Graduate students: Background in Soil Mechanics and Foundation Engineering",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " and ": [
+                "CE2112", 
+                "CE3116"
+            ]
+},
+"prerequisiteList": ["CE2112","EG1109","CE3116"],
+"completePrerequisite": {
+            "name": "CE5107", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "CE2112", 
+                            "children": [
+                                {
+                                    "name": "EG1109", 
+                                    "children": []
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "CE3116", 
+                            "children": [
+                                {
+                                    "name": "CE2112", 
+                                    "children": [
+                                        {
+                                            "name": "EG1109", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This is an advanced module in deep foundation engineering. Topics covered include bearing capacity and settlement, laterally loaded piles, piles subject to ground movement, piles in difficult ground, foundations for marine structures, construction related problems, pile driving analysis and dynamic testing, and static pile tests. Students will learn how to deal with design and construction issues pertaining to deep foundations under more general and realistic practical situations. Specific learning objectives include performing design calculations for piles and pile groups under more complex loading modes and ground conditions and pile installation and testing.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "CIVIL & ENVIRONMENTAL ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

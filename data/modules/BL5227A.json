@@ -1,0 +1,22 @@
+{
+"moduleCode": "BL5227A",
+"moduleTitle": "Advances in Environmental Biology",
+"moduleCredit": "2",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "Students should have attended advanced undergraduate courses in biology.",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "BL5227A", 
+            "children": []
+},
+"moduleDescription": "The module is directed towards graduates who have acquired broad background knowledge of biology and are interested in new developments in the field of Environmental Biology. The module will focus on a single important topic, which will be covered in depth. The topic will be chosen each year by the module coordinator, depending on new developments in the field and the availability of guest lecturers, who may include visiting professors and other experts from outside NUS. The major objective is to expose students to some of the latest ideas and techniques, and through this to develop their ability to innovate in their own research areas.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "SCIENCE",
+"department": "BIOLOGICAL SCIENCES",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

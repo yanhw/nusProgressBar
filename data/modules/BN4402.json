@@ -1,0 +1,41 @@
+{
+"moduleCode": "BN4402",
+"moduleTitle": "Electrophysiology",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "EG1108 or PC1432",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " or ": [
+                "EG1108", 
+                "PC1432"
+            ]
+},
+"prerequisiteList": ["EG1108","PC1432"],
+"completePrerequisite": {
+            "name": "BN4402", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "EG1108", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "PC1432", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module aims to provide a basic foundation into the electrical biophysics of nerve and muscle; electrical conduction in excitable tissue, with an emphasis on neuroscience; quantitative models for nerve and muscle including the Hodgkin Huxley equations; biopotential mapping, cardiac electrophysiology, and functional electrical stimulation.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "BIOMEDICAL ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

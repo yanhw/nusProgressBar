@@ -1,0 +1,22 @@
+{
+"moduleCode": "PR5133",
+"moduleTitle": "Advanced Pharmacotherapy in Special Populations",
+"moduleCredit": "2",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "Acceptance in the PharmD programme or by permission",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "PR5133", 
+            "children": []
+},
+"moduleDescription": "This module is aimed at having students gain a fundamental understanding of the diagnosis and therapeutic management of disease states and/or conditions unique to paediatric and geriatric population groups.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCIENCE",
+"department": "PHARMACY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

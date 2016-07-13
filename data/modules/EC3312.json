@@ -1,0 +1,57 @@
+{
+"moduleCode": "EC3312",
+"moduleTitle": "Game Theory & Applications to Economics",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "MA4264",
+"prerequisite": "EC2101, EC3101, (EC2303, MA2216, ANY SA MODULE, ANY ST MODULE, OR THEIR EQUIVALENT), AND (EC2104 OR ANY MA MODULE THAT IS NOT MA1301/MA1301FC/MA1301X OR MA1311 OR MA1312 OR MA1421)",
+"preclusionList": [
+            "MA4264"
+        ],
+"parsedPrerequisite": {
+            " and ": [
+                "MA1311", 
+                {
+                    " or ": [
+                        "MA1312", 
+                        "MA1421"
+                    ]
+                }
+            ]
+},
+"prerequisiteList": ["MA1311","MA1312","MA1421"],
+"completePrerequisite": {
+            "name": "EC3312", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "MA1311", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "or", 
+                            "children": [
+                                {
+                                    "name": "MA1312", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "MA1421", 
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module introduces students in economics and other social sciences to game theory, a theory of interactive decision making. This module provides students with the basic solution concepts for different types of non-cooperative games, including static and dynamic games under complete and incomplete information. The basic solution concepts that this module covers are Nash equilibrium, subgame perfect equilibrium, Bayesian equilibrium, and perfect Bayesian equilibrium. This module emphasizes the applications of game theory to economics, such as duopolies, auctions, and bargaining.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "ECONOMICS",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

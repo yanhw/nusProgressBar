@@ -1,0 +1,105 @@
+{
+"moduleCode": "FIN4112K",
+"moduleTitle": "SIF: Applied Portfolio Management Techniques",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "FIN3102 Investment Analysis and Portfolio Management",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["FIN3102"]
+},
+"prerequisiteList": ["FIN3102","FNA2004","FIN2004","BK1003","BZ1002","BH1002","FNA1002","ACC1002","FNA1002X","ACC1002X","FNA1002E","BH1002E","EC3212","EG1422","BH2004","BZ2004","BK2004"],
+"completePrerequisite": {
+            "name": "FIN4112K", 
+            "children": [
+                {
+                    "name": "FIN3102", 
+                    "children": [
+                        {
+                            "name": "or", 
+                            "children": [
+                                {
+                                    "name": "FNA2004", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "FIN2004", 
+                                    "children": [
+                                        {
+                                            "name": "or", 
+                                            "children": [
+                                                {
+                                                    "name": "BK1003", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "BZ1002", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "BH1002", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "FNA1002", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "ACC1002", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "FNA1002X", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "ACC1002X", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "FNA1002E", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "BH1002E", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "EC3212", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "EG1422", 
+                                                    "children": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }, 
+                                {
+                                    "name": "BH2004", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "BZ2004", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "BK2004", 
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This advanced Seminar in Finance module will serve as a comprehensive real world examination of the quantitative techniques available and how these might be applied to portfolio management in the investment management industry. Major topics covered include exploring various quantitative tools and models for Estimating Expected Returns, Modelling Risks, Style Analysis & Bench-marking, and Strategic & Tactical Asset Allocation. Lectures will involve frequent interaction with practitioners from the industry hands-on lab projects and real-life examples. Suitable for students interested in a career as an investment analyst or as a portfolio manager in the financial services sector.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "SCHOOL OF BUSINESS",
+"department": "FINANCE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

@@ -1,0 +1,22 @@
+{
+"moduleCode": "GEK2013",
+"moduleTitle": "Real Estate Finance",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "Not for Real Estate students",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "GEK2013", 
+            "children": []
+},
+"moduleDescription": "The main aim of this module is to equip course participants with the basic principles for real estate financial analysis. A secondary objective is to provide course participants with an appreciation of the linkages between real estate, credit and capital markets. Students will specifically learn the financial tools necessary for evaluating lending and borrowing decisions and apply them to real estate investments. They will also be exposed to the institutional framework in Singapore such as the prevailing mortgage market conditions and CPF rules. In addition, students will study the more recent innovation in the field of real estate finance and investment.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF DESIGN AND ENVIRONMENT",
+"department": "REAL ESTATE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

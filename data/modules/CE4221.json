@@ -1,0 +1,57 @@
+{
+"moduleCode": "CE4221",
+"moduleTitle": "Design of Land Transport Infrastructures",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "CE3121 Transportation Engineering",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["CE3121"]
+},
+"prerequisiteList": ["CE3121","CE2407","MA1506","MA1102R","MA1505","MA1521"],
+"completePrerequisite": {
+            "name": "CE4221", 
+            "children": [
+                {
+                    "name": "CE3121", 
+                    "children": [
+                        {
+                            "name": "CE2407", 
+                            "children": [
+                                {
+                                    "name": "MA1506", 
+                                    "children": [
+                                        {
+                                            "name": "or", 
+                                            "children": [
+                                                {
+                                                    "name": "MA1102R", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MA1505", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MA1521", 
+                                                    "children": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module equips students with the knowledge in the design of land transport infrastructures in the context of the multimodal nature of modern transportation systems. With a focus on the movement of people and vehicles, the planning and management of land transport infrastructural capacities and operations as well as the design of terminal and link facilities shall be examined. Topics covered include: design of highway infrastructures, bus transit and urban street infrastructural design; design of rail transit infrastructures; and stops, stations and terminal design.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "CIVIL & ENVIRONMENTAL ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

@@ -1,0 +1,52 @@
+{
+"moduleCode": "LSM2101",
+"moduleTitle": "Metabolism and Regulation",
+"moduleCredit": "4",
+"lockedModules":[
+            "LSM3232",
+            "LSM3224",
+            "LSM3225",
+            "LSM3214",
+            "FST4202",
+            "LSM4210",
+            "LSM3242",
+            "LSM3246",
+            "LSM3231",
+            "LSM3212",
+            "LSM3211"
+        ],
+"preclusion": "NIL",
+"prerequisite": "LSM1101 or LSM1401",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " or ": [
+                "LSM1101", 
+                "LSM1401"
+            ]
+},
+"prerequisiteList": ["LSM1101","LSM1401"],
+"completePrerequisite": {
+            "name": "LSM2101", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "LSM1101", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "LSM1401", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "Overview of the biosynthesis and catabolism of carbohydrates, proteins, lipids and nucleic acids in the context of human health and disease. Emphasis on the integration and regulation of metabolic pathways in different tissues and organs. Principles of bioenergetics and mitochondrial energy metabolism, free radicals, enzyme deficiencies in metabolic disorders will also be covered.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "YONG LOO LIN SCHOOL OF MEDICINE",
+"department": "BIOCHEMISTRY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

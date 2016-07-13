@@ -1,0 +1,22 @@
+{
+"moduleCode": "IS6003",
+"moduleTitle": "Contemporary Theories for IS Research",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "IS6003", 
+            "children": []
+},
+"moduleDescription": "This course aims to provide students with in-depth treatment of theoretical pursuits pertaining to several streams of IS research. These may include media richness theory, group support systems, adoption/diffusion of technology, decision support systems, Internet commerce, IT and education. It will lay the foundation and visit important concepts relating to theoretical models, examine the roles of theoretical models and frameworks in guiding empirical studies, review empirical studies in light of the construction, improvement, and adaptation of theoretical models and frameworks, and discuss links between theories and research methods.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF COMPUTING",
+"department": "INFORMATION SYSTEMS",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

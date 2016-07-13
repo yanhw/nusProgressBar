@@ -1,0 +1,22 @@
+{
+"moduleCode": "ID1321",
+"moduleTitle": "Materials For Industrial Design",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "ID1321", 
+            "children": []
+},
+"moduleDescription": "The objective of this module is to introduce students to the materials that are commonly used in the manufacture and fabrication of products. It will enable students to acquire basic knowledge on the properties and performance of materials and enable them to select materials for specific design applications. Major topics will include materials for products such as tableware, furniture, household appliances, light fittings, computer equipment, motor vehicles etc. It will briefly cover the manufacturing and fabrication processes associated with the materials and application.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF DESIGN AND ENVIRONMENT",
+"department": "DIVISION OF INDUSTRIAL DESIGN",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

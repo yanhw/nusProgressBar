@@ -1,0 +1,45 @@
+{
+"moduleCode": "LAV4201",
+"moduleTitle": "Vietnamese 5",
+"moduleCredit": "5",
+"lockedModules":[
+            "LAV4202"
+        ],
+"preclusion": "NIL",
+"prerequisite": "Passed LAV3202 or placement test",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["LAV3202"]
+},
+"prerequisiteList": ["LAV3202","LAV3201","LAV2201","LAV1201"],
+"completePrerequisite": {
+            "name": "LAV4201", 
+            "children": [
+                {
+                    "name": "LAV3202", 
+                    "children": [
+                        {
+                            "name": "LAV3201", 
+                            "children": [
+                                {
+                                    "name": "LAV2201", 
+                                    "children": [
+                                        {
+                                            "name": "LAV1201", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module will build on the skills developed in Vietnamese 4. Students will progress from reading selections from passages to a more sustained and systematic encounter with the nature of the language used in novels, newspapers, Internet and other forms of popular publications, official public discourse, academic writings and business Vietnamese. Students will progressively comprehend texts, not only from background and subject matter knowledge, but also from increasing control of language. They will also learn to handle conversation involving complication, in the form of connected discourse, and to make choices of diction, as well as manipulate grammatical features reflecting formal and informal registers.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "CENTRE FOR LANGUAGE STUDIES",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

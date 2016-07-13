@@ -1,0 +1,24 @@
+{
+"moduleCode": "NUR1121",
+"moduleTitle": "Pathophysiology and Pharmacology for Nurses I",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NUR2117 Pathophysiology and Pharmacology I is precluded.",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "NUR2117"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "NUR1121", 
+            "children": []
+},
+"moduleDescription": "This module will focus on developing knowledge in both pathophysiology and pharmacology relevant for nursing practice. Students will gain an understanding of the etiology, pathogenesis, clinical manifestations, diagnosis and management of some major disease states or disturbances in homeostasis. Students will gain a comprehensive understanding in the principles of drug action and the application of these principles to the different drugs discussed in disease management within this module.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "YONG LOO LIN SCHOOL OF MEDICINE",
+"department": "NURSING/ALICE LEE CTR FOR NURSING STUD",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

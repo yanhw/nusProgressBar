@@ -1,0 +1,22 @@
+{
+"moduleCode": "LL6245V",
+"moduleTitle": "Theoretical Foundations of Public Law",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "NUS Compulsory Core Curriculum or its equivalent. A foundational course on constitutional and administrative law (from either a common law or some other jurisdiction). For non law students from FASS (Political Science -with at least 80 MCs)",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "LL6245V", 
+            "children": []
+},
+"moduleDescription": "Course explore the structures, histories, purposes and justifications for public law (i.e., constitutional and administrative law) from the perpective of Anglo-American, continental European, and selected Asia legal traditions.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "LAW",
+"department": "LAW",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

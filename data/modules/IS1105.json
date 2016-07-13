@@ -1,0 +1,41 @@
+{
+"moduleCode": "IS1105",
+"moduleTitle": "Strategic IT Applications",
+"moduleCredit": "4",
+"lockedModules":[
+            "IS4100",
+            "IS4250",
+            "IS3150",
+            "IS3222",
+            "IS4226",
+            "IS5113",
+            "IS4225",
+            "IS4233",
+            "IS3223",
+            "IS3221",
+            "IS3220",
+            "IS3101",
+            "IS4260",
+            "IS3243",
+            "IS3242",
+            "IS4240",
+            "IS4243"
+        ],
+"preclusion": "CS2250",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "CS2250"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "IS1105", 
+            "children": []
+},
+"moduleDescription": "This foundation course develops an understanding of the role of IT in the value chain and the ever-changing competitive arena of information age. The focus is on the following topics: the nature and characteristics of information technology (IT), the strategic roles of IT for organizational improvements in operations, planning and decision making. The course is directed toward future IT specialists, consultants, and managers who must have a basic understanding of information technologies; including identifying strategic opportunities for Information Systems (IS) deployment, managing IT resources, and evaluating IT investments.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF COMPUTING",
+"department": "INFORMATION SYSTEMS",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

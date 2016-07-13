@@ -1,0 +1,45 @@
+{
+"moduleCode": "CS2105",
+"moduleTitle": "Introduction to Computer Networks",
+"moduleCredit": "4",
+"lockedModules":[
+            "CP3106",
+            "EE4210",
+            "CS4226",
+            "CS4222",
+            "CS3103",
+            "EE4210E",
+            "CS3235"
+        ],
+"preclusion": "IT2001, EE3204/E, EE4210. CEG, CPE and EEE students are not allowed to take this module.",
+"prerequisite": "CS1020 or equivalent",
+"preclusionList": [
+            "EE4210",
+            "IT2001",
+            "EE3204"
+        ],
+"parsedPrerequisite": {
+" and ": ["CS1020"]
+},
+"prerequisiteList": ["CS1020","CS1010"],
+"completePrerequisite": {
+            "name": "CS2105", 
+            "children": [
+                {
+                    "name": "CS1020", 
+                    "children": [
+                        {
+                            "name": "CS1010", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module aims to provide a broad introduction to computer networks and network application programming. It covers the main concepts, the fundamental principles, and the high-level workings of important protocols in each of the Internet protocol layer. Topics include the Web and Web applications, DNS services, socket programming, reliable protocols, transport and network layer protocols, secure communication, LAN, and data communication. Practical assignments and handson exercises expose students to network application programming and various networking tools and utilities.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF COMPUTING",
+"department": "COMPUTER SCIENCE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

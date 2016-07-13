@@ -1,0 +1,29 @@
+{
+"moduleCode": "DSC3226",
+"moduleTitle": "Sustainable Operations Management",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "DSC2006 Operations Management",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["DSC2006"]
+},
+"prerequisiteList": ["DSC2006"],
+"completePrerequisite": {
+            "name": "DSC3226", 
+            "children": [
+                {
+                    "name": "DSC2006", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "The objective of this course is to study how a company can use its operations to improve environmental performance and contribute to business success at the same time.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF BUSINESS",
+"department": "DECISION SCIENCES",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

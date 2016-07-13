@@ -1,0 +1,24 @@
+{
+"moduleCode": "HY2245",
+"moduleTitle": "Empires, Colonies and Imperialism",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "EU2221",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "EU2221"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "HY2245", 
+            "children": []
+},
+"moduleDescription": "Students will gain a basic understanding of empires in history. Individual empires will be studied to demonstrate patterns regarding the origins, development and collapse of empires. Topics will include the expansion of empires, colonization, military conquest, administration, and ideologies of empire. The humane side of imperialism will also be explored: the module will get students to try to understand the experience of subject peoples while also regarding empires as sites of cultural interaction. Finally, students will be introduced to some of the interpretative paradigms which have shaped the scholarly exploration of empires.",
+        "CrossModule": "EU2221", 
+"corequisite": "NIL",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "HISTORY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

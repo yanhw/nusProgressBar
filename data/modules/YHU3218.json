@@ -1,0 +1,46 @@
+{
+"moduleCode": "YHU3218",
+"moduleTitle": "Dance and Modernism",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "YCC1111 Literature and Humanities 1 and YCC1112 Literature and Humanities 2",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " and ": [
+                "YCC1111", 
+                "YCC1112"
+            ]
+},
+"prerequisiteList": ["YCC1111","YCC1112"],
+"completePrerequisite": {
+            "name": "YHU3218", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "YCC1111", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "YCC1112", 
+                            "children": [
+                                {
+                                    "name": "YCC1111", 
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "Ballet, modern dance, popular dance: how can we understand dance as an art form with its own theories and history, like visual art? This course surveys the history and central concerns of twentieth-century dance in the West. We will consider dance\u2019s important connections to visual art; dance as an expression of national identity and the human condition; Concepts such as \u2018natural\u2019 bodily movement and Darwin\u2019s theory of evolution; the \u2018primitive\u2019 in modernist visual art and in dance; gender and the feminist critique of ballet and modern dance; and dance\u2019s theorising of bodily presence. Assessments include critical and analytical essays, presentations.",
+"crossModule": "-1",
+"corequisite": "None.",
+"faculty": "YALE-NUS COLLEGE",
+"department": "YALE-NUS COLLEGE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

@@ -1,0 +1,25 @@
+{
+"moduleCode": "ME3112E",
+"moduleTitle": "Mechanics of Machines",
+"moduleCredit": "4",
+"lockedModules":[
+            "ME4213E"
+        ],
+"preclusion": "TM2112",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "TM2112"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "ME3112E", 
+            "children": []
+},
+"moduleDescription": "This course covers the fundamental engineering principles on kinematics and kinetics. The topics of rigid body dynamics and vibration will be covered, including the theoretical development and practical application to mechanisms and machinery. The salient features of dynamics to be applied for each instance will be clearly explained and the interpretation of the results obtained will be highlighted.",
+"crossModule": "-1",
+"corequisite": "Nil",
+"faculty": "ENGINEERING",
+"department": "BACHELOR OF TECHNOLOGY PROGRAMME",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

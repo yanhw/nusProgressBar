@@ -1,0 +1,22 @@
+{
+"moduleCode": "VM5103",
+"moduleTitle": "Symptom Management in Palliative Care II",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "VM5103", 
+            "children": []
+},
+"moduleDescription": "This module covers management of common emergencies in palliative medicine. These include metabolic (eg: hypercalcaemia), neurological (e.g.: cord compression, delirium and brain metastasis) and other conditions like bleeding and fractures. Management of common infections and nursing issues (wound and tubes management) will also be included in this module.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "YONG LOO LIN SCHOOL OF MEDICINE",
+"department": "DIVISION OF GRADUATE MEDICAL STUDIES",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

@@ -1,0 +1,61 @@
+{
+"moduleCode": "EC6103",
+"moduleTitle": "Econometric Modelling And Applications Ii",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "EC6154",
+"prerequisite": "EC5154/EC5103",
+"preclusionList": [
+            "EC6154"
+        ],
+"parsedPrerequisite": {
+            " or ": [
+                "EC5154", 
+                "EC5103"
+            ]
+},
+"prerequisiteList": ["EC5154","EC5103","EC5253","EC5304","ECA5103"],
+"completePrerequisite": {
+            "name": "EC6103", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "EC5154", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "EC5103", 
+                            "children": [
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "EC5253", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "EC5304", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "ECA5103", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This is a core module for PhD students. It is aimed at providing a good training in econometric theory and applications. It covers some topics already covered in EC5103 but at a more theoretical level. Asymptotic theory, ML and GMM estimation, extremum estimators, non-linear models, simultaneous equations models are among the topics covered under this module.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "ECONOMICS",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

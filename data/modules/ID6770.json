@@ -1,0 +1,22 @@
+{
+"moduleCode": "ID6770",
+"moduleTitle": "Doctoral Seminar Module in Industrial Design",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "ID6770", 
+            "children": []
+},
+"moduleDescription": "This Doctoral Seminar Module in Industrial Design aims to provide PhD student a forum to sustain and amplify an active research culture among the faculty and research scholars of the Division of Industrial Design (DID). It aims to explore research methodology for design, share research findings, and exchange ideas with invited academics of distinction across the world. The themes of seminar presentations will reflect the latest research conducted in the core areas of the DID, such as: design education, design management, design innovation, ecodesign and sustainability, etc.",
+"crossModule": "-1",
+"corequisite": "NA",
+"faculty": "SCHOOL OF DESIGN AND ENVIRONMENT",
+"department": "DIVISION OF INDUSTRIAL DESIGN",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

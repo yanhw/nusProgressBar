@@ -1,0 +1,24 @@
+{
+"moduleCode": "PL5304R",
+"moduleTitle": "Advanced Developmental Psychology",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "PL6205",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "PL6205"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "PL5304R", 
+            "children": []
+},
+"moduleDescription": "The module explores current research in developmental psychology and is relevant to graduate students with research interests in this area. The module aims to give students the opportunity to gain an understanding of core theories and methodology used in developmental psychology. Topics discussed will cover current research in selected topics from areas of infant, child, and adolescent psychology. Prior exposure to developmental psychology at the undergraduate level is required.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "PSYCHOLOGY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

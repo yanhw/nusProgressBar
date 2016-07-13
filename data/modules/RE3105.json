@@ -1,0 +1,40 @@
+{
+"moduleCode": "RE3105",
+"moduleTitle": "Regional Real Estate Development",
+"moduleCredit": "4",
+"lockedModules":[
+            "RE4203"
+        ],
+"preclusion": "NIL",
+"prerequisite": "RE3103 Real Estate Development",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["RE3103"]
+},
+"prerequisiteList": ["RE3103","RE2102","EC1301"],
+"completePrerequisite": {
+            "name": "RE3105", 
+            "children": [
+                {
+                    "name": "RE3103", 
+                    "children": [
+                        {
+                            "name": "RE2102", 
+                            "children": [
+                                {
+                                    "name": "EC1301", 
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module intends to cover more advance issues in real estate development, strategies formulation and decision making processes. Entrepreneurial of real estate developers in converting raw lands into the highest and best uses will be discussed. Topics include real estate development ideas, strategies, and creative designs; maximizing land use values; international/regional real estate and township development projects; integrated resorts and theme parks developments; project financing and management; land bidding and banking strategies; and success stories real estate developers. The module will be structured as case-based and problem-based learning with real life cases. Students are expected to conduct an integrated project as part of the requirement of this module.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF DESIGN AND ENVIRONMENT",
+"department": "REAL ESTATE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

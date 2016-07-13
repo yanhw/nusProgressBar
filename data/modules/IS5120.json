@@ -1,0 +1,55 @@
+{
+"moduleCode": "IS5120",
+"moduleTitle": "Information Technology Policies",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "CS3251 or IS3243",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " or ": [
+                "CS3251", 
+                "IS3243"
+            ]
+},
+"prerequisiteList": ["CS3251","IS3243","CS2250","IS1105"],
+"completePrerequisite": {
+            "name": "IS5120", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "CS3251", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "IS3243", 
+                            "children": [
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "CS2250", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "IS1105", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This course covers policy making and evaluation for information technology. Students will learn about policy making in organisations as well as at the national level. Topics range from the policy control of information technology within organisations in various industries, the policies peculiar to the IT industry, and the social, educational and economic uses of IT, such as the Internet and E-commerce. Students will learn how policies are made and implemented. They will also learn how to evaluate the long-term impact of these policies.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF COMPUTING",
+"department": "INFORMATION SYSTEMS",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

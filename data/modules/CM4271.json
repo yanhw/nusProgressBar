@@ -1,0 +1,56 @@
+{
+"moduleCode": "CM4271",
+"moduleTitle": "Medicinal Chemistry",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "CM2121 and CM3225",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " and ": [
+                "CM2121", 
+                "CM3225"
+            ]
+},
+"prerequisiteList": ["CM2121","CM1121","CM3225"],
+"completePrerequisite": {
+            "name": "CM4271", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "CM2121", 
+                            "children": [
+                                {
+                                    "name": "CM1121", 
+                                    "children": []
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "CM3225", 
+                            "children": [
+                                {
+                                    "name": "CM2121", 
+                                    "children": [
+                                        {
+                                            "name": "CM1121", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module builds on the module Biomolecules (CM3225) as well as Organic Chemistry (CM 2121). A major focus will be directed towards the identification and chemical optimization of drug molecules. It will be accompanied by presentations and case studies delivered by selected researchers from Pharmaceutical Industry. The following aspects will be covered: 1) The role of the chemist in the drug discovery process 2) Target Selection 3) Selection of chemical starting points via virtual screening techniques 4) Design of compound libraries 5) Translation of ADME-Tox data into new chemical entities 6) Intellectual property for medicinal chemists The module is suited for advanced students majoring in chemistry or applied chemistry.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCIENCE",
+"department": "CHEMISTRY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

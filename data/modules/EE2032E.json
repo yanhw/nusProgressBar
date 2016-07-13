@@ -1,0 +1,65 @@
+{
+"moduleCode": "EE2032E",
+"moduleTitle": "Signals & Communications Design Lab",
+"moduleCredit": "3",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "EE2011E and EE2023E",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " and ": [
+                "EE2011E", 
+                "EE2023E"
+            ]
+},
+"prerequisiteList": ["EE2011E","TE2002","TE2102","TG1401","EE2023E"],
+"completePrerequisite": {
+            "name": "EE2032E", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "EE2011E", 
+                            "children": [
+                                {
+                                    "name": "TE2002", 
+                                    "children": [
+                                        {
+                                            "name": "or", 
+                                            "children": [
+                                                {
+                                                    "name": "TE2102", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "TG1401", 
+                                                    "children": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "EE2023E", 
+                            "children": [
+                                {
+                                    "name": "TG1401", 
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This lab module introduces students to the practical aspects of designing a communication system. This module builds on the concepts learnt in EE2011E Engineering Electromagnetics and EE2023E Signals and Systems. Students will start the experiments with the Frequency Modulation (FM) technique in conjunction with a voltage controlled oscillator (VCO). This is followed by experiments with FM demodulation techniques, simplex communication and duplex communication. Then students will learn about the reflection coefficient and plot it in the Smith Chart. Subsequently an antenna is designed and the building blocks of the communication system are characterized. Finally the complete communication system is assembled and measured.",
+"crossModule": "-1",
+"corequisite": "Nil",
+"faculty": "ENGINEERING",
+"department": "BACHELOR OF TECHNOLOGY PROGRAMME",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

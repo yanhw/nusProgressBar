@@ -1,0 +1,29 @@
+{
+"moduleCode": "ESE5407",
+"moduleTitle": "Membrane Technology for Water Management",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "ESE4403 Membrane Technology in Environmental Application Or ESE5406 Membrane Treatment Processes and Modeling Or Level 5 standing",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["ESE5406"]
+},
+"prerequisiteList": ["ESE5406"],
+"completePrerequisite": {
+            "name": "ESE5407", 
+            "children": [
+                {
+                    "name": "ESE5406", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "Membrane technology has been widely adopted for water reclamation and seawater desalination. It shall continue to be a key technology for resolving the problem of water scarcity in the near future. This module shall focus on the design and operational consideration of membrane processes for water reclamation and seawater desalination, Topics covered in this module include water quality standards relevant to reclaimed and desalinated water, filtrate quality consideration, membrane filtration system, design and operation of MF/UF filtration system, membrane bioreactor, nanofiltration and reverse osmosis system, examples of commercial plants and economics of membrane system.",
+"crossModule": "-1",
+"corequisite": "Nil",
+"faculty": "ENGINEERING",
+"department": "CIVIL & ENVIRONMENTAL ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

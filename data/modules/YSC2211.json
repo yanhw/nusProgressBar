@@ -1,0 +1,22 @@
+{
+"moduleCode": "YSC2211",
+"moduleTitle": "Neurobiology and Behavior",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "None. For first year students, it is recommended that they have taken Biology AP, IB or A-level. Recommended but not mandatory.",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "YSC2211", 
+            "children": []
+},
+"moduleDescription": "This course provides a broad introduction to neurobiology & behaviour, and equips students with the background necessary to understand key concepts and fundamental questions in studies of the nervous system, cognition, behavioural ecology, and sociobiology. Students will learn about cellular and molecular neurobiology, neurophysiology, ethology, and behaviour in an evolutionary context and at multiple levels of analysis. This course should be of interest to students contemplating further studies in neuroscience, psychology, neuropharmacology, and behavioural ecology, or students considering careers in medical, veterinary, and behavioural sciences.",
+"crossModule": "-1",
+"corequisite": "None.",
+"faculty": "YALE-NUS COLLEGE",
+"department": "YALE-NUS COLLEGE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

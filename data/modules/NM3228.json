@@ -1,0 +1,22 @@
+{
+"moduleCode": "NM3228",
+"moduleTitle": "Interactive Sequential Art",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "NM3228", 
+            "children": []
+},
+"moduleDescription": "Interactive sequential art aims to expand the notion of sequential art, such as comics, friezes, sequential sculptures and tapestries, and explore the unique aesthetics and opportunities for creative expression which arise when telling stories through interactive sequences of images and/or text. The module discusses the concepts of visual storytelling, spatial and temporal relationships, gestalt principles and the issues that arise when dealing with various forms of interactive sequential art. Students will gain hands-on experience in conceptualizing, drafting, prototyping and analyzing digital and interactive sequential art pieces.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "COMMUNICATIONS AND NEW MEDIA",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

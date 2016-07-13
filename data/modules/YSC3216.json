@@ -1,0 +1,29 @@
+{
+"moduleCode": "YSC3216",
+"moduleTitle": "Stochastic Processes and Models",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "YCC1122 Quantitative Reasoning *and* familiarity with single-variable calculus (e.g. YSC1206 Conceptual Calculus).",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["YSC1206"]
+},
+"prerequisiteList": ["YSC1206"],
+"completePrerequisite": {
+            "name": "YSC3216", 
+            "children": [
+                {
+                    "name": "YSC1206", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "This course covers some traditional material from classes on stochastic processes (discrete and continuous time models, discrete and continuous state-space models) but from the perspective of understanding the models and being able to apply them to real problems rather than focusing on proofs. Students will learn how to simulate stochastic models, how to undertake inference (using data augmentation and Markov chain Monte Carlo, approximate Bayesian computation, and/or importance sampling) and developing suitable models for real problems, such as emerging infectious diseases. Classes will take the form of lectures plus computer labs.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "YALE-NUS COLLEGE",
+"department": "YALE-NUS COLLEGE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

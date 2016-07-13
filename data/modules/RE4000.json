@@ -1,0 +1,24 @@
+{
+"moduleCode": "RE4000",
+"moduleTitle": "Dissertation",
+"moduleCredit": "8",
+"lockedModules":[
+],
+"preclusion": "RE4181 Dissertation",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "RE4181"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "RE4000", 
+            "children": []
+},
+"moduleDescription": "This module aims at developing students\u2019 capability in conducting research. Students are expected to formulate a research problem, and to demonstrate the ability to pursue unaided investigations relevant to their research problem, in data collection, analysis, and interpretation of the results.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF DESIGN AND ENVIRONMENT",
+"department": "REAL ESTATE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

@@ -1,0 +1,43 @@
+{
+"moduleCode": "EL2111",
+"moduleTitle": "Historical Variation in English",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "EL2211",
+"prerequisite": "EL1101E or GEK1011",
+"preclusionList": [
+            "EL2211"
+        ],
+"parsedPrerequisite": {
+            " or ": [
+                "EL1101E", 
+                "GEK1011"
+            ]
+},
+"prerequisiteList": ["EL1101E","GEK1011"],
+"completePrerequisite": {
+            "name": "EL2111", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "EL1101E", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "GEK1011", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "The module aims to introduce how language change can take place orthographically, phonologically, grammatically and lexically. These changes do not take place at random but can be usefully accounted for by considering the socio-cultural contexts of use. The major topics covered include the history of English in Britain, English in North America and the New Englishes including Singaporean English. This module is suitable for students intending to read English Language as a major, as well as other interested students.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "ENGLISH LANGUAGE & LITERATURE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

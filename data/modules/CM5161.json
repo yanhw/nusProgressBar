@@ -1,0 +1,22 @@
+{
+"moduleCode": "CM5161",
+"moduleTitle": "Advanced Chemical Laboratory Safety",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "CM5161", 
+            "children": []
+},
+"moduleDescription": "This multidisciplinary module provides a broad coverage on safety-related issues in our laboratories. The main objective of this module is to introduce potential hazards and various safety measures which can be adopted to prevent accidents or personal injuries. Topics such as personal protection, safe handling and disposal of various chemicals, standard operating procedures, risk assessment, emergency measures and first aid practices will be introduced. Legislation and laws pertaining to workplace safety will also be discussed.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCIENCE",
+"department": "CHEMISTRY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

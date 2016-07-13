@@ -1,0 +1,29 @@
+{
+"moduleCode": "MLE4207",
+"moduleTitle": "Growth Aspects Of Semiconductors",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "MLE2101",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["MLE2101"]
+},
+"prerequisiteList": ["MLE2101"],
+"completePrerequisite": {
+            "name": "MLE4207", 
+            "children": [
+                {
+                    "name": "MLE2101", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "Semiconductor surfaces and structures; Aspects of epitaxy in the growth of low dimensional III-V and Si based semiconductor materials; In-situ characterisation techniques and monitoring epitaxial growth by molecular beam epitaxy; Structural, kinematic theory of LEED and application of RHEED; Surface topography, composition and growth modes probed by STM, XPS and Auger spectroscopy; Layer by layer, layer-island and island growth; Problems of sensitivity and selectivity in the study of surfaces and interfaces.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "MATERIALS SCIENCE AND ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

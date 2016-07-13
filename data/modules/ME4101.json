@@ -1,0 +1,22 @@
+{
+"moduleCode": "ME4101",
+"moduleTitle": "Bachelor Of Engineering Dissertation",
+"moduleCredit": "12",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "Stage 4 standing",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "ME4101", 
+            "children": []
+},
+"moduleDescription": "This module consists mainly of an industrial or research-based project carried out under the supervision of one or more faculty members. It introduces students to the basic methodology of research in the context of a problem of current research interest. The module is normally taken over two consecutive semesters, and is a core requirement of the B.Eng. (Mech) program.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "MECHANICAL ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,3,4,]]
+}

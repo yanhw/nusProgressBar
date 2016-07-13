@@ -1,0 +1,41 @@
+{
+"moduleCode": "CM2288",
+"moduleTitle": "Basic UROPS in Chemistry I",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "CM1111 or CM1121or CM1131; AND Departmental Approval",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " or ": [
+                "CM1121", 
+                "CM1131"
+            ]
+},
+"prerequisiteList": ["CM1121","CM1131"],
+"completePrerequisite": {
+            "name": "CM2288", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "CM1121", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "CM1131", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCIENCE",
+"department": "CHEMISTRY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,3,4,]]
+}

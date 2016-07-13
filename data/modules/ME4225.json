@@ -1,0 +1,48 @@
+{
+"moduleCode": "ME4225",
+"moduleTitle": "Applied Heat Transfer",
+"moduleCredit": "4",
+"lockedModules":[
+            "ESP4401"
+        ],
+"preclusion": "NIL",
+"prerequisite": "ME3122",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["ME3122"]
+},
+"prerequisiteList": ["ME3122","PC1431F","PC1431","PC1431X"],
+"completePrerequisite": {
+            "name": "ME4225", 
+            "children": [
+                {
+                    "name": "ME3122", 
+                    "children": [
+                        {
+                            "name": "or", 
+                            "children": [
+                                {
+                                    "name": "PC1431F", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "PC1431", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "PC1431X", 
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "The main topics include: 2D steady state heat conduction; transient heat conduction; turbulent heat transfer, boiling; condensation; heat exchangers with phase change; mass transfer",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "MECHANICAL ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

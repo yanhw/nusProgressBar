@@ -1,0 +1,22 @@
+{
+"moduleCode": "MDG5204",
+"moduleTitle": "Advanced Topics in Pharmacology",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "MDG5204", 
+            "children": []
+},
+"moduleDescription": "The module aims to help students gain an in-depth understanding of advanced topics in (1) General pharmacology, (2) Neuropharmacology and (3) Cancer pharmacology using lectures and journal clubs given by clinical and basic science experts.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "YONG LOO LIN SCHOOL OF MEDICINE",
+"department": "DEAN'S OFFICE (MEDICINE)",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

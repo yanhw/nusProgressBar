@@ -1,0 +1,123 @@
+{
+"moduleCode": "EE5104",
+"moduleTitle": "Adaptive Control Systems",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "EE6104 Adaptive Control Systems (Advanced)",
+"prerequisite": "EE5101 / EE5101R / ME5401 Linear Systems",
+"preclusionList": [
+            "EE6104"
+        ],
+"parsedPrerequisite": {
+            " or ": [
+                "EE5101", 
+                "EE5101R", 
+                "ME5401"
+            ]
+},
+"prerequisiteList": ["EE5101","EE5101R","ME5401","EE4302","EE3331C","EE2023","MA1506","MA1102R","MA1505","MA1521","ME4246","ME2142"],
+"completePrerequisite": {
+            "name": "EE5104", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "EE5101", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "EE5101R", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "ME5401", 
+                            "children": [
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "EE4302", 
+                                            "children": [
+                                                {
+                                                    "name": "EE3331C", 
+                                                    "children": [
+                                                        {
+                                                            "name": "EE2023", 
+                                                            "children": [
+                                                                {
+                                                                    "name": "MA1506", 
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "or", 
+                                                                            "children": [
+                                                                                {
+                                                                                    "name": "MA1102R", 
+                                                                                    "children": []
+                                                                                }, 
+                                                                                {
+                                                                                    "name": "MA1505", 
+                                                                                    "children": []
+                                                                                }, 
+                                                                                {
+                                                                                    "name": "MA1521", 
+                                                                                    "children": []
+                                                                                }
+                                                                            ]
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "ME4246", 
+                                            "children": [
+                                                {
+                                                    "name": "ME2142", 
+                                                    "children": [
+                                                        {
+                                                            "name": "MA1506", 
+                                                            "children": [
+                                                                {
+                                                                    "name": "or", 
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "MA1102R", 
+                                                                            "children": []
+                                                                        }, 
+                                                                        {
+                                                                            "name": "MA1505", 
+                                                                            "children": []
+                                                                        }, 
+                                                                        {
+                                                                            "name": "MA1521", 
+                                                                            "children": []
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "The course aims to introduce the basic concepts and design methods of adaptive control. The concepts underlying adaptive control schemes, such as Lyapunov-based direct adaptive control scheme, self-tuning regulator and model reference adaptive control, will be studied in detail. Least squares estimate and the issues related to parameter adaptation will also be introduced. To provide an understanding of an alternative to \"adaptation\", the concept and basic design of variable structure control will be discussed. Case studies of various engineering control problems will be used throughout the course to provide insights and useful design guideline.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "ELECTRICAL & COMPUTER ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

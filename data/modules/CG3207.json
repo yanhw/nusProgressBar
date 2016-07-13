@@ -1,0 +1,76 @@
+{
+"moduleCode": "CG3207",
+"moduleTitle": "Computer Architecture",
+"moduleCredit": "4",
+"lockedModules":[
+            "CS4223"
+        ],
+"preclusion": "EE3207",
+"prerequisite": "CG2007/ EE2024",
+"preclusionList": [
+            "EE3207"
+        ],
+"parsedPrerequisite": {
+            " or ": [
+                "CG2007", 
+                "EE2024"
+            ]
+},
+"prerequisiteList": ["CG2007","EE2024","EE2020","EE1002","CG1108","EG1108","CS1010E"],
+"completePrerequisite": {
+            "name": "CG3207", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "CG2007", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "EE2024", 
+                            "children": [
+                                {
+                                    "name": "and", 
+                                    "children": [
+                                        {
+                                            "name": "EE2020", 
+                                            "children": [
+                                                {
+                                                    "name": "or", 
+                                                    "children": [
+                                                        {
+                                                            "name": "EE1002", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "CG1108", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "EG1108", 
+                                                            "children": []
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "CS1010E", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This course teaches students the basics in the design of the various classes of microprocessors. Contents include design of simple micro-controllers, high performance CPU design using parallel techniques, memory organization and parallel processing systems. Topics also include the development of support tools to enable efficient usage of the developed microprocessor. The course emphasizes practical design and includes a group project for students to design and implement a microprocessor with verification on a FPGA.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "JOINT MULTI-DISCIPLINARY PROGRAMMES",
+"department": "COMPUTING & ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

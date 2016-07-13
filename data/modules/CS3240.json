@@ -1,0 +1,54 @@
+{
+"moduleCode": "CS3240",
+"moduleTitle": "Interaction Design",
+"moduleCredit": "4",
+"lockedModules":[
+            "CS3283",
+            "IS4102",
+            "CS4249"
+        ],
+"preclusion": "NIL",
+"prerequisite": "SOC students: CS1020 or its equivalent; Other students:NM2217 or NM3209 or the prerequisites for SoC students",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " or ": [
+                "CS1020", 
+                "NM2217", 
+                "NM3209"
+            ]
+},
+"prerequisiteList": ["CS1020","CS1010","NM2217","NM3209"],
+"completePrerequisite": {
+            "name": "CS3240", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "CS1020", 
+                            "children": [
+                                {
+                                    "name": "CS1010", 
+                                    "children": []
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "NM2217", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "NM3209", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This course is intended for students in computing and related disciplines whose work focuses on human-computer interaction issues in the design of computer systems. The course stresses the importance of user-centred design and usability in the development of computer applications and systems. Students will be taken through the analysis, design, development, and evaluation of human-computer interaction methods for computer systems. They will acquire hands-on design skills through laboratory exercises and assignments. The course also covers HCI design principles and emphasizes the importance of contextual, organisational, and social factors in system design.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "SCHOOL OF COMPUTING",
+"department": "COMPUTER SCIENCE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

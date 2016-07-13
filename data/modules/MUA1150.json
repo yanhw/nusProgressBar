@@ -1,0 +1,30 @@
+{
+"moduleCode": "MUA1150",
+"moduleTitle": "Basic Mechanics of Percussion B",
+"moduleCredit": "2",
+"lockedModules":[
+            "MUA2182"
+        ],
+"preclusion": "NIL",
+"prerequisite": "MUA1180 Basic Mechanics of Percussion A (BMPC-A)",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["MUA1180"]
+},
+"prerequisiteList": ["MUA1180"],
+"completePrerequisite": {
+            "name": "MUA1150", 
+            "children": [
+                {
+                    "name": "MUA1180", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "This class is a continuation of MUA1180 Basic Mechanics of Percussion A (BMPC-A) Basic Mechanics of Percussion Class B (BMPC-B) is a class designed to implement the skills acquired in the previous semester directly into reallife settings of individual and ensemble literature.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "YONG SIEW TOH CONSERVATORY OF MUSIC",
+"department": "YONG SIEW TOH CONSERVATORY OF MUSIC",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

@@ -1,0 +1,26 @@
+{
+"moduleCode": "UTW1001U",
+"moduleTitle": "The Detective",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "IEM1201%, UTW1001%, ES1501%",
+"prerequisite": "Students must have passed/been exempted from the NUS Qualifying English Test (QET) or have passed CELC English for Academic Purposes modules.",
+"preclusionList": [
+            "IEM1201",
+            "ES1501",
+            "UTW1001"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "UTW1001U", 
+            "children": []
+},
+"moduleDescription": "The detective genre is well positioned to foreground the rhetorical situation in its concern with the generation of meaning. In this module students are invited to identify with the detective who offers a metaphor for the process of reading carefully for information, distinguishing between valid and inadequate evidence, and constructing a credible argument built on knowledge gleaned from careful observations. Students will engage in debates around what constitutes \u201cknowledge\u201d, how (and whether) \u201ctruth\u201d can be arrived at, and how the detective genre can illustrate these debates through an understanding of epistemology, i.e. the theory of knowledge.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "NON-FACULTY-BASED DEPARTMENTS",
+"department": "CTR FOR ENGLISH LANGUAGE COMMUNICATION",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

@@ -1,0 +1,22 @@
+{
+"moduleCode": "ST5201",
+"moduleTitle": "Basic Statistical Theory",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "Departmental approval",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "ST5201", 
+            "children": []
+},
+"moduleDescription": "Basic concepts in probability, limit theorems, families of distributions, estimation, method of moments, maximum likelihood method, bootstrap method, classical confidence intervals, bootstrap confidence intervals, hypothesis testing, likelihood ratio tests. This module is targeted at students who are interested in Statistics and are able to meet the pre-requisites.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCIENCE",
+"department": "STATISTICS & APPLIED PROBABILITY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

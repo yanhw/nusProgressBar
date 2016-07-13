@@ -1,0 +1,59 @@
+{
+"moduleCode": "EE5703R",
+"moduleTitle": "Industrial Drives",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "EE5703",
+"prerequisite": "Undergraduate knowledge in Electric Drives, e.g. EE4502",
+"preclusionList": [
+            "EE5703"
+        ],
+"parsedPrerequisite": {
+" and ": ["EE4502"]
+},
+"prerequisiteList": ["EE4502","EE2025","EE1002","EG1108","CG1108"],
+"completePrerequisite": {
+            "name": "EE5703R", 
+            "children": [
+                {
+                    "name": "EE4502", 
+                    "children": [
+                        {
+                            "name": "EE2025", 
+                            "children": [
+                                {
+                                    "name": "and", 
+                                    "children": [
+                                        {
+                                            "name": "EE1002", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "or", 
+                                            "children": [
+                                                {
+                                                    "name": "EG1108", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "CG1108", 
+                                                    "children": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module forms one of the foundation modules for all students who want to specialise in Electric Energy System Engineering. The aim of the module is to introduce the various components of Electric Drives. The role of electric drives in modern industrial automation will be emphasised. The importance of using Adjustable Speed Drives for energy conservation would also be highlighted. Various types of electric drives such as AC, DC, SRM and special drives such as PMSM drives will be introduced and their steady-state as well as transient performances will be discussed. This module has direct industrial relevance and would be useful not only to electrical but also to mechanical engineering students working in the areas of automation and mechatronics.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "ELECTRICAL & COMPUTER ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

@@ -1,0 +1,22 @@
+{
+"moduleCode": "SW5218",
+"moduleTitle": "Practice with Persons with Addiction",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "SW5218", 
+            "children": []
+},
+"moduleDescription": "This module aims to equip students with recent theories on addiction leading to an in-depth understanding of addictive behaviours, and the application for social work practice. Topics include models of addiction, etiology and recovery, assessment and treatment modalities, crisis intervention and relapse prevention. This module also focuses on alcoholism and problem gambling, as there is a wide scope for social work intervention in these problem areas. Social drinking and recreational gambling are prevalent in our society. When alcohol and gambling issues become problematic, individuals and families can experience several psychosocial problems, such as family violence, financial hardship, strained relationships, family displacement, and legal and criminal infraction.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "SOCIAL WORK",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

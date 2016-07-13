@@ -1,0 +1,35 @@
+{
+"moduleCode": "SP3175",
+"moduleTitle": "The Earth",
+"moduleCredit": "4",
+"lockedModules":[
+            "SP3176"
+        ],
+"preclusion": "NIL",
+"prerequisite": "SP2174 The Cell",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["SP2174"]
+},
+"prerequisiteList": ["SP2174","SP2173"],
+"completePrerequisite": {
+            "name": "SP3175", 
+            "children": [
+                {
+                    "name": "SP2174", 
+                    "children": [
+                        {
+                            "name": "SP2173", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This is the third module in a series of four covering scales from \u2018Atoms to Molecules\u2019, through \u2018The Cell\u2019 and \u2018The Earth\u2019 to \u2018The Universe\u2019. This module focuses on the physical, chemical and biological processes that have shaped the development of the Earth. The module takes a systems approach in order to understand the interconnectivity between the various components of the Earth system, i.e. the atmosphere, biosphere, hydrosphere and lithosphere. Using this approach, students will study the impact that anthropogenic activities, such as burning fossil fuels, has had on the Earth system.",
+"crossModule": "-1",
+"corequisite": "Nil",
+"faculty": "SCIENCE",
+"department": "DEAN'S OFFICE (SCIENCE)",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

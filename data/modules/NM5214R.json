@@ -1,0 +1,22 @@
+{
+"moduleCode": "NM5214R",
+"moduleTitle": "Design for Public Engagement",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "NM5214R", 
+            "children": []
+},
+"moduleDescription": "The module aims to connect philosophy and design, STS (Science Technology Society studies) and HCI (Human Computer Interaction). STS can improve our design practices vis-\u00e0-vis ecological, economic and political crises by bringing a different understanding of the stakeholders\u2019 perspectives and provide a more informed discussion about the possibilities and the limits we face in our complex society. Design practices, on the other hand, provide a much needed experimental method and framework for humanities and social sciences to understand the conceptual conundrum of actor-networks, various ideas of flows, spheres, agency and materiality.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "-1",
+"department": "-1",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,]]
+}

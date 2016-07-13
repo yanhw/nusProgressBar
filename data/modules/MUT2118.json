@@ -1,0 +1,44 @@
+{
+"moduleCode": "MUT2118",
+"moduleTitle": "Musical Concepts and Materials IV",
+"moduleCredit": "4",
+"lockedModules":[
+            "MUT3202",
+            "MUA3194",
+            "MUT3211",
+            "MUT3201",
+            "MUA3205"
+        ],
+"preclusion": "NIL",
+"prerequisite": "Students would need to fully acquire the concepts in MUT2117 and pass the module before they go on to take MUT2118.",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["MUT2117"]
+},
+"prerequisiteList": ["MUT2117","MUT1122","MUT1121"],
+"completePrerequisite": {
+            "name": "MUT2118", 
+            "children": [
+                {
+                    "name": "MUT2117", 
+                    "children": [
+                        {
+                            "name": "MUT1122", 
+                            "children": [
+                                {
+                                    "name": "MUT1121", 
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "Studies in the Classical style, as exemplified by the works of Haydn, Mozart, Beethoven and Schubert. Forms studied will include larger rounded binary and ternary structures, sonata-allegro, sonata-rondo, rondo and variation.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "YONG SIEW TOH CONSERVATORY OF MUSIC",
+"department": "YONG SIEW TOH CONSERVATORY OF MUSIC",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

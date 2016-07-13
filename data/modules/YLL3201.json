@@ -1,0 +1,29 @@
+{
+"moduleCode": "YLL3201",
+"moduleTitle": "Advanced Latin",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "YLL1202 Intermediate Latin (formerly titled as \u201cIntroduction to Latin 2\u201d) or with permission of the instructor.",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["YLL1202"]
+},
+"prerequisiteList": ["YLL1202"],
+"completePrerequisite": {
+            "name": "YLL3201", 
+            "children": [
+                {
+                    "name": "YLL1202", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "This course is designed to give students a familiarity with a fuller range of the more complex grammatical constructions in Latin, and to give them an opportunity to read in a more focused manner specific examples of unadapted ancient Latin texts in the original. The focus of study will be key texts from the late Republican era (c. 70-30 BC). As well as gaining a deeper understanding of the syntax and grammar of Latin \u2013 and a greater awareness that language is resistant to static \u2018rules\u2019 \u2013 students will develop an increased cultural knowledge in Roman late Republican society and literary production.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "YALE-NUS COLLEGE",
+"department": "YALE-NUS COLLEGE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

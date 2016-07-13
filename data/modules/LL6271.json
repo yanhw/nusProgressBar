@@ -1,0 +1,22 @@
+{
+"moduleCode": "LL6271",
+"moduleTitle": "Law and Policy",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "NUS Compulsory Core Curriculum or its equivalent",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "LL6271", 
+            "children": []
+},
+"moduleDescription": "This course explores and contrasts the different methodologies inherent in the disciplinary approaches of legal and policy analysis. What are the biases and assumptions in each method of analysis? How does each method view the other? How is each approach relevant to the other in different practical situations, e.g. in legal advice, court arguments and judgments and in government policy formulation.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "LAW",
+"department": "LAW",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

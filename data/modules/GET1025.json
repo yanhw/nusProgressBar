@@ -1,0 +1,24 @@
+{
+"moduleCode": "GET1025",
+"moduleTitle": "Science Fiction and Philosophy",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "GEK2041",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "GEK2041"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "GET1025", 
+            "children": []
+},
+"moduleDescription": "This module considers science fiction as a mode of philosophical inquiry. Science fiction stories are used to examine fundamental questions of metaphysics, epistemology and ethics. Topics include the nature of time, space, religion, nature, mind, and the future. Specific topics may include such issues as genetic enhancement, environmental ethics, and implications of encounters with non-human life forms.",
+"crossModule": "-1",
+"corequisite": "Nil",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "PHILOSOPHY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

@@ -1,0 +1,71 @@
+{
+"moduleCode": "RE4220",
+"moduleTitle": "Urban Planning Seminar",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "RE4221 ADVANCED URBAN PLANNING THEORIES, RE4222 PUBLIC POLICY AND REAL ESTATE MARKETS.",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " and ": [
+                "RE4221", 
+                "RE4222"
+            ]
+},
+"prerequisiteList": ["RE4221","RE3102","RE2103","RE1102","RE4222","RE3104","RE2104","RE1101"],
+"completePrerequisite": {
+            "name": "RE4220", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "RE4221", 
+                            "children": [
+                                {
+                                    "name": "RE3102", 
+                                    "children": [
+                                        {
+                                            "name": "RE2103", 
+                                            "children": [
+                                                {
+                                                    "name": "RE1102", 
+                                                    "children": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "RE4222", 
+                            "children": [
+                                {
+                                    "name": "RE3104", 
+                                    "children": [
+                                        {
+                                            "name": "RE2104", 
+                                            "children": [
+                                                {
+                                                    "name": "RE1101", 
+                                                    "children": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This course aims to expose students to a range of urban planning issues and concepts, with a focus on policy, implementation and relationship to the real estate environment. The course is practice-oriented, and the professional aspects of the discipline are emphasized. Topics chosen for discussion in class are those directly relevant to the Singapore context, but global issues, such as planning and climate change and eco-cities would also be explored. While the course is not studio-based, it will include an appreciation of the plan-making processes, using case studies for evaluative study.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF DESIGN AND ENVIRONMENT",
+"department": "REAL ESTATE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

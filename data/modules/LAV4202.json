@@ -1,0 +1,49 @@
+{
+"moduleCode": "LAV4202",
+"moduleTitle": "Vietnamese 6",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "LAV4201 or placement test",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["LAV4201"]
+},
+"prerequisiteList": ["LAV4201","LAV3202","LAV3201","LAV2201","LAV1201"],
+"completePrerequisite": {
+            "name": "LAV4202", 
+            "children": [
+                {
+                    "name": "LAV4201", 
+                    "children": [
+                        {
+                            "name": "LAV3202", 
+                            "children": [
+                                {
+                                    "name": "LAV3201", 
+                                    "children": [
+                                        {
+                                            "name": "LAV2201", 
+                                            "children": [
+                                                {
+                                                    "name": "LAV1201", 
+                                                    "children": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "CENTRE FOR LANGUAGE STUDIES",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

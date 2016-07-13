@@ -1,0 +1,29 @@
+{
+"moduleCode": "CM3301",
+"moduleTitle": "Advanced Forensic Science",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "GEK1542",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["GEK1542"]
+},
+"prerequisiteList": ["GEK1542"],
+"completePrerequisite": {
+            "name": "CM3301", 
+            "children": [
+                {
+                    "name": "GEK1542", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "This module covers forensic identification, criminalistics, DNA profiling, narcotics and toxicology. Topics on forensic identification and criminalistics includes crime scene investigation, nature of physical evidence, characteristics of evidence, an in-depth study of glass and fibre as sources of evidence in criminalistics investigations. For DNA profiling, this module would focus on screening methods for biological materials, the various instrumentation platforms and the application of forensic DNA in Singapore crime cases. In narcotics, the topics covered include forensic drug analysis and legislation, clandestine drug manufacturing, drug metabolism and analysis of urine for drug abuse. For toxicology, an in-depth study of toxicological analysis will be covered.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCIENCE",
+"department": "CHEMISTRY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

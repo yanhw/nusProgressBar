@@ -1,0 +1,54 @@
+{
+"moduleCode": "CS3247",
+"moduleTitle": "Game Development",
+"moduleCredit": "4",
+"lockedModules":[
+            "CS3283"
+        ],
+"preclusion": "CS4213",
+"prerequisite": "CS3241 and PC1221",
+"preclusionList": [
+            "CS4213"
+        ],
+"parsedPrerequisite": {
+            " and ": [
+                "CS3241", 
+                "PC1221"
+            ]
+},
+"prerequisiteList": ["CS3241","CS1020","CS1010","PC1221"],
+"completePrerequisite": {
+            "name": "CS3247", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "CS3241", 
+                            "children": [
+                                {
+                                    "name": "CS1020", 
+                                    "children": [
+                                        {
+                                            "name": "CS1010", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "PC1221", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "The objective of this module is to introduce techniques for electronic game design and programming. This module covers a range of important topics including 3D maths, game physics, game AI, sound, as well as user interface for computer games. Furthermore, it will give an overview of computer game design to the students. Through laboratory programming exercises, the students will have hands-on programming experience with popular game engines and will develop basic games using those engines.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF COMPUTING",
+"department": "COMPUTER SCIENCE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

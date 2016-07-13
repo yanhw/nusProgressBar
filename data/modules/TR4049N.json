@@ -1,0 +1,22 @@
+{
+"moduleCode": "TR4049N",
+"moduleTitle": "SR in Entrepreneurship (SIE)",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "Depends on the topics offered, there can be prerequisite(s) on existing modules offering similar topics for example new venture creation or new product development.",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "TR4049N", 
+            "children": []
+},
+"moduleDescription": "This module provides students with an opportunity to gain knowledge in the broader range of topics of entrepreneurship. Topics covered will vary from semester to semester and may include innovation, negotiation, social entrepreneurship, law, operations, leadership, strategy, technology.",
+"crossModule": "-1",
+"corequisite": "Depends on the topics offered, there can be preclusion(s) on existing modules offering similar topics for example new venture creation or new product development.",
+"faculty": "SCHOOL OF BUSINESS",
+"department": "STRATEGY AND POLICY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

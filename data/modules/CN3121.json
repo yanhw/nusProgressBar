@@ -1,0 +1,62 @@
+{
+"moduleCode": "CN3121",
+"moduleTitle": "Process Dynamics & Control",
+"moduleCredit": "4",
+"lockedModules":[
+            "CN4227R",
+            "CN3109",
+            "CN4118R"
+        ],
+"preclusion": "NIL",
+"prerequisite": "MA1505, MA1506",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " and ": [
+                "MA1505", 
+                "MA1506"
+            ]
+},
+"prerequisiteList": ["MA1505","MA1506","MA1102R","MA1521"],
+"completePrerequisite": {
+            "name": "CN3121", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "MA1505", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "MA1506", 
+                            "children": [
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "MA1102R", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "MA1505", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "MA1521", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module presents the full complement of fundamental principles with clear application to heat exchangers, reactors, separation processes and storage systems. It incorporates introductory concepts, dynamic modeling, feedback control concepts and design methods, control hardware, and advanced control strategies including feed-forward, cascade and model-based control. SIMULINK will be introduced and used to simulate and examine the effectiveness of various control strategies. The module also incorporates case studies that prepare the students to design control systems for a realistic sized plant. This module is targeted at chemical engineering students who already have a basic knowledge of chemical engineering processes.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "CHEMICAL & BIOMOLECULAR ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

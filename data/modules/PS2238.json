@@ -1,0 +1,24 @@
+{
+"moduleCode": "PS2238",
+"moduleTitle": "International Politics of Northeast Asia",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "PS2208B",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "PS2208B"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "PS2238", 
+            "children": []
+},
+"moduleDescription": "The aim of this module is to understand the international relations of Northeast Asia. The first part of the module provides a historical and theoretical overview of the subject. The second part assesses competing explanations for the international behaviour and interactions of the region\u2019s major powers. The final part examines selected ultilateral/transnational issues as sources of potential conflict and cooperation.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "POLITICAL SCIENCE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

@@ -1,0 +1,41 @@
+{
+"moduleCode": "EL3254",
+"moduleTitle": "Media, Discourse and Society",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "EL1101E or GEK1011",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " or ": [
+                "EL1101E", 
+                "GEK1011"
+            ]
+},
+"prerequisiteList": ["EL1101E","GEK1011"],
+"completePrerequisite": {
+            "name": "EL3254", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "EL1101E", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "GEK1011", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "The module aims to encourage a critical understanding of the significant role the media play in shaping our beliefs, values, and identities in contemporary social life. Topics covered: key social, cultural and political issues pertaining to texts and practices of specific types of media. These issues will be approached from an interdisciplinary perspective that brings together media, cultural, and discourse studies. Target students: those with a keen interest in the media, and who are open to interdisciplinary study.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "ENGLISH LANGUAGE & LITERATURE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

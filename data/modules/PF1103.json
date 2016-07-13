@@ -1,0 +1,22 @@
+{
+"moduleCode": "PF1103",
+"moduleTitle": "IT and BIM for Projects",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "PF1103", 
+            "children": []
+},
+"moduleDescription": "This module is designed to provide an overview of the evolving theoretical concepts of information and communication technologies, building information modelling, and their applications in projects. The major topics covered are: the role of IT and BIM in the built environment, computer-integration of IT and BIM, process re-engineering by IT and BIM, IT and BIM systems, security and trust, information standardisation, and virtual reality and artificial intelligence.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF DESIGN AND ENVIRONMENT",
+"department": "BUILDING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

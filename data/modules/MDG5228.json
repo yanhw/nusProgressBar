@@ -1,0 +1,22 @@
+{
+"moduleCode": "MDG5228",
+"moduleTitle": "Hybrid Imaging: An Advanced Imaging Concept and Modality",
+"moduleCredit": "2",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "\u201cA\u201d level understanding on physics, chemistry and biology",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "MDG5228", 
+            "children": []
+},
+"moduleDescription": "Biomedical imaging becomes indispensable tool for the biomedical research and modern day clinical management. Many imaging modalities are available such as nuclear medicine techniques (single photon emission tomography - SPECT, positron emission tomography - PET), magnetic resonance imaging (MRI), magnetic resonance spectroscopy (MRS), ultrasonography and optical imaging. Some imaging modalities are utilised to obtain structural, morphological or anatomic information. Others are for obtaining functional, metabolic or molecular information. Every technique has its unique advantages and some draw backs. Combining two or more imaging modalities resulted not only in cancellation of drawbacks and providing complimentary information but also in better interpretation of the fused images.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "YONG LOO LIN SCHOOL OF MEDICINE",
+"department": "DEAN'S OFFICE (MEDICINE)",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

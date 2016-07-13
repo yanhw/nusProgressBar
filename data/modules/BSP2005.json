@@ -1,0 +1,54 @@
+{
+"moduleCode": "BSP2005",
+"moduleTitle": "Asian Business Environments",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "BH2005 or BZ2005",
+"prerequisite": "BSP2001",
+"preclusionList": [
+            "BZ2005",
+            "BH2005"
+        ],
+"parsedPrerequisite": {
+" and ": ["BSP2001"]
+},
+"prerequisiteList": ["BSP2001","BSP1005","BH1005","BZ1006","BK1008"],
+"completePrerequisite": {
+            "name": "BSP2005", 
+            "children": [
+                {
+                    "name": "BSP2001", 
+                    "children": [
+                        {
+                            "name": "or", 
+                            "children": [
+                                {
+                                    "name": "BSP1005", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "BH1005", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "BZ1006", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "BK1008", 
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module builds an understanding of business environments in Asia. The first part of the course focuses on macroeconomic fundamentals, politics, culture, and institutions in Asian countries and regions. The second part of the course explores relationships between national and regional characteristics and business operations. The aspects of business covered in this segment vary from year to year, but typically include business groups, innovation, trade, and foreign direct investment. Topics: PART I Macroeconomic Fundamentals, Institutions, Politics, Corruption, Culture PART II Business Groups, Innovation, Trade, Foreign Direct Investment, Lecturer Discretion",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF BUSINESS",
+"department": "STRATEGY AND POLICY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

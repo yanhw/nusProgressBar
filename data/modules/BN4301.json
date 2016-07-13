@@ -1,0 +1,69 @@
+{
+"moduleCode": "BN4301",
+"moduleTitle": "Principles Of Tissue Engineering",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "BN3301",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["BN3301"]
+},
+"prerequisiteList": ["BN3301","LSM1101","LSM1401","MLE1101","MLE3104","CM1121","CM1501"],
+"completePrerequisite": {
+            "name": "BN4301", 
+            "children": [
+                {
+                    "name": "BN3301", 
+                    "children": [
+                        {
+                            "name": "or", 
+                            "children": [
+                                {
+                                    "name": "LSM1101", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "LSM1401", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "MLE1101", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "MLE3104", 
+                                    "children": [
+                                        {
+                                            "name": "or", 
+                                            "children": [
+                                                {
+                                                    "name": "MLE1101", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "CM1121", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "CM1501", 
+                                                    "children": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "The module aims to provide the students with the background to understand and assess the currently applied basic principles of tissue engineering. Student would learn to (1) nurture an appreciation of how tissue engineering will influence health care in the next century, (2) acquire a basic understanding of the central principles of tissue engineering, (3) derive a working knowledge of how engineers can participate in tissue engineering research and commercial applications.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "BIOMEDICAL ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

@@ -1,0 +1,22 @@
+{
+"moduleCode": "AR4002",
+"moduleTitle": "Advanced Architectural Study 2",
+"moduleCredit": "8",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "AR4002", 
+            "children": []
+},
+"moduleDescription": "The course is intended to evaluate the students\u2019 ability to carry out independent research under the supervision of a faculty member. Students will identify subject in the area of Architecture Theory/History, Architecture & Urban Heritage, Urban Studies and Design Computing.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "SCHOOL OF DESIGN AND ENVIRONMENT",
+"department": "ARCHITECTURE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

@@ -1,0 +1,41 @@
+{
+"moduleCode": "MKT3422A",
+"moduleTitle": "TIM: Wealth Management Marketing",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "MKT1003/MKT1003X Marketing",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " or ": [
+                "MKT1003", 
+                "MKT1003X"
+            ]
+},
+"prerequisiteList": ["MKT1003","MKT1003X"],
+"completePrerequisite": {
+            "name": "MKT3422A", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "MKT1003", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "MKT1003X", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This course is designed to introduce students to the world of wealth management marketing, and to give them an indepth understanding of the challenges and complexities of marketing in a highly regulated and rapidly evolving industry. Students will get practical insights into the use of marketing applications in product, segment and service marketing in the retail, affluent and private banking sectors. It aims to hone their skills to improve the effectiveness of the marketing strategies, techniques and programs to meet the demanding priorities of the client, the business and the regulators in this fast-changing and regulated landscape.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF BUSINESS",
+"department": "MARKETING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

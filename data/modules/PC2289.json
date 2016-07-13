@@ -1,0 +1,41 @@
+{
+"moduleCode": "PC2289",
+"moduleTitle": "Basic UROPS in Physics II",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "PC1141 or PC1142; and Departmental Approval",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " or ": [
+                "PC1141", 
+                "PC1142"
+            ]
+},
+"prerequisiteList": ["PC1141","PC1142"],
+"completePrerequisite": {
+            "name": "PC2289", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "PC1141", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "PC1142", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "Please note that only 4MCs can be accredited towards major requirements in case that a student undertakes 8MCs for both PC2288 and PC2289.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCIENCE",
+"department": "PHYSICS",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,3,4,]]
+}

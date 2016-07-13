@@ -1,0 +1,22 @@
+{
+"moduleCode": "MLE6103",
+"moduleTitle": "Structures Of Materials",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "MLE6103", 
+            "children": []
+},
+"moduleDescription": "Periodic trends in atomic properties, bonding generalization based on periodic trends, generalization about crystal structures based on periodicity. Structural concepts: crystal lattice, reciprocal lattice, diffraction, crystal structures, lattice dynamics, and energy band structure. Examples of effects of structure on physical and chemical properties are discussed.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "MATERIALS SCIENCE AND ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

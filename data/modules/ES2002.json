@@ -1,0 +1,38 @@
+{
+"moduleCode": "ES2002",
+"moduleTitle": "Business Communication",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "CS2301 or IS2101, ES2007D, ES2007S, CG1413, CS2101, UWC2101, ES1601.",
+"prerequisite": "Students who are required to read ES1000 must pass it before taking ES2002.",
+"preclusionList": [
+            "IS2101",
+            "ES1601",
+            "CS2101",
+            "ES2007S",
+            "CG1413",
+            "CS2301",
+            "ES2007D",
+            "UWC2101"
+        ],
+"parsedPrerequisite": {
+" and ": ["ES1000"]
+},
+"prerequisiteList": ["ES1000"],
+"completePrerequisite": {
+            "name": "ES2002", 
+            "children": [
+                {
+                    "name": "ES1000", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "At the end of the course, students should be able to understand the fundamental principles of effective business communication; apply the critical and creative thinking abilities necessary for effective communication in today's world; produce persuasive written and spoken messages suitably tailored for the topic, objective, audience, communication medium and context; and demonstrate clarity, precision, conciseness and coherence in their use of language. The course is conducted through tutorials, structured to actively engage the students in the learning process to ensure the internalization of the principles and strategies introduced as well as to encourage independent learning. The tutorial sessions will include group discussions, presentations, simulations, role plays, case studies, self and peer reviews and group conferencing.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "NON-FACULTY-BASED DEPARTMENTS",
+"department": "CTR FOR ENGLISH LANGUAGE COMMUNICATION",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

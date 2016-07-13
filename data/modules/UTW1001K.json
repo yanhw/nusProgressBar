@@ -1,0 +1,26 @@
+{
+"moduleCode": "UTW1001K",
+"moduleTitle": "Photography and Society",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "IEM1201%, UTW1001%, ES1501%",
+"prerequisite": "Students must have passed/been exempted from the NUS Qualifying English Test (QET) or have passed CELC English for Academic Purposes modules.",
+"preclusionList": [
+            "IEM1201",
+            "ES1501",
+            "UTW1001"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "UTW1001K", 
+            "children": []
+},
+"moduleDescription": "Photography is a powerful force in contemporary society. Photographs can be found in advertisements, newspapers, photo albums, museums, archives, websites, and more. In this course, you will learn to think and write critically about such photographs. Are they objective copies or artistic transformations of the world? Is photography a democratic art, accessible to all, or is it an instrument of surveillance and social control? What other social purposes does photography serve? We will address these questions and more by discussing the work of photography critics and by examining documentary, advertising, fashion, art, archival, and amateur photography.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "NON-FACULTY-BASED DEPARTMENTS",
+"department": "CTR FOR ENGLISH LANGUAGE COMMUNICATION",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

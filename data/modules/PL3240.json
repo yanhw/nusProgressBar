@@ -1,0 +1,46 @@
+{
+"moduleCode": "PL3240",
+"moduleTitle": "Group Dynamics",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "PL1101E and PL3235",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " and ": [
+                "PL1101E", 
+                "PL3235"
+            ]
+},
+"prerequisiteList": ["PL1101E","PL3235"],
+"completePrerequisite": {
+            "name": "PL3240", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "PL1101E", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "PL3235", 
+                            "children": [
+                                {
+                                    "name": "PL1101E", 
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module is built around applications of theoretical and experimental psychology to group processes. The psychological processes underlying human interactions in groups are the principal foci. Topics included are group formation, development of group structure, formulation of group goals, team building, leadership and power within groups, conflicts, group decision-making, and group changes. Psychological tools and skills relevant for research in field settings are also examined.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "PSYCHOLOGY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

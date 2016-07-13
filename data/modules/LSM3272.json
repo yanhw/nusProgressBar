@@ -1,0 +1,31 @@
+{
+"moduleCode": "LSM3272",
+"moduleTitle": "Global Change Biology",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "ENV2101 Global Environmental Change",
+"prerequisite": "LSM1103",
+"preclusionList": [
+            "ENV2101"
+        ],
+"parsedPrerequisite": {
+" and ": ["LSM1103"]
+},
+"prerequisiteList": ["LSM1103"],
+"completePrerequisite": {
+            "name": "LSM3272", 
+            "children": [
+                {
+                    "name": "LSM1103", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "The objective of this module is to promote an understanding of Global Change Biology from a multidisciplinary approach. Students will discuss and explore selected themes of prevailing environmental, biological, socio-economical and technological issues and solutions through lectures based on literature reviews and documentaries of relevant themes, field trips and group projects.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCIENCE",
+"department": "BIOLOGICAL SCIENCES",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

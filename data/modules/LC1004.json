@@ -1,0 +1,22 @@
+{
+"moduleCode": "LC1004",
+"moduleTitle": "Law Of Torts",
+"moduleCredit": "8",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "LC1004", 
+            "children": []
+},
+"moduleDescription": "This is a foundation course introducing basic concepts in the law of torts, which deals with the rights and obligations of private parties arising out of civil wrongs. The course will include an in-depth study of the modern tort of negligence, as well as considering the related tort of nuisance. It will also cover the intentional torts and the tort of breach of statutory duty, and will conclude with a brief examination of remedies and vicarious liability.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "LAW",
+"department": "LAW",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

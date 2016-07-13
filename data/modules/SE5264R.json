@@ -1,0 +1,22 @@
+{
+"moduleCode": "SE5264R",
+"moduleTitle": "Archaeology And Art Of Ancient Southeast Asia",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "SE5264R", 
+            "children": []
+},
+"moduleDescription": "New techniques of research and analysis regularly yield important new insights on the forebears of modern Southeast Asia. Research projects currently in progress focus on such topics as prehistoric human demography, relationships between humans and the environment, early urbanization, the development of monumental architecture, and maritime trade with neighbouring regions. This module surveys the most important recent discoveries of sites and artifacts, and the new perspectives on Southeast Asian cultures and societies which these finds have already revealed or are likely to open up in the near future.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "SOUTHEAST ASIAN STUDIES",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

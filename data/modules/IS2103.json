@@ -1,0 +1,62 @@
+{
+"moduleCode": "IS2103",
+"moduleTitle": "Enterprise Systems Development Concepts",
+"moduleCredit": "4",
+"lockedModules":[
+            "IS4100",
+            "IS4010",
+            "CP3880",
+            "IS3102"
+        ],
+"preclusion": "CS2261",
+"prerequisite": "CS1020 or CS1102 or CS1102C or CS1102S",
+"preclusionList": [
+            "CS2261"
+        ],
+"parsedPrerequisite": {
+            " or ": [
+                "CS1020", 
+                "CS1102", 
+                "CS1102C", 
+                "CS1102S"
+            ]
+},
+"prerequisiteList": ["CS1020","CS1010","CS1102","CS1102C","CS1102S"],
+"completePrerequisite": {
+            "name": "IS2103", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "CS1020", 
+                            "children": [
+                                {
+                                    "name": "CS1010", 
+                                    "children": []
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "CS1102", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "CS1102C", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "CS1102S", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "The focus of this module is to train students to be conversant in the technologies and approaches to developing software systems at the enterprise level. Technologies covered include J2EE (Java 2 Enterprise Edition) and .NET (from Microsoft). Emphasis will be placed on teaching students J2EE standard specification. Major topics covered include Business Information Systems; Enterprise Platforms; Distributed Computing Concepts; JavaBeans; Servlets and Java Server Pages; Model, View, Controller model; Enterprise JavaBeans; XML, Web Services, Deployment; Persistence Management and Security.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF COMPUTING",
+"department": "INFORMATION SYSTEMS",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

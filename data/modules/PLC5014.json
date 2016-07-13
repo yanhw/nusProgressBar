@@ -1,0 +1,44 @@
+{
+"moduleCode": "PLC5014",
+"moduleTitle": "Clinical Placement 4",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "PLC5013 (Clinical Placement 3)",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["PLC5013"]
+},
+"prerequisiteList": ["PLC5013","PLC5012","PLC5005","PLC5002"],
+"completePrerequisite": {
+            "name": "PLC5014", 
+            "children": [
+                {
+                    "name": "PLC5013", 
+                    "children": [
+                        {
+                            "name": "PLC5012", 
+                            "children": [
+                                {
+                                    "name": "PLC5005", 
+                                    "children": [
+                                        {
+                                            "name": "PLC5002", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module provides professional practice experience related to the theoretical foundations of assessment, intervention and management covered in previous modules. Students undertake an intensive block (40 days) of direct clinical experience in the hospital or community clinic, under the supervision of an experienced clinical psychologist. The focus of this final placement is on the continued development of clinical skills in planning and carrying out intervention with adult or child psychiatric patients with minimal guidance. Students should progress to independent management of one patient by end of placement.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "PSYCHOLOGY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

@@ -1,0 +1,44 @@
+{
+"moduleCode": "CM3232",
+"moduleTitle": "Phy Chem of the Solid State & Interfaces",
+"moduleCredit": "4",
+"lockedModules":[
+            "CM4254"
+        ],
+"preclusion": "NIL",
+"prerequisite": "CM2101",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["CM2101"]
+},
+"prerequisiteList": ["CM2101","CM1131","CM1401"],
+"completePrerequisite": {
+            "name": "CM3232", 
+            "children": [
+                {
+                    "name": "CM2101", 
+                    "children": [
+                        {
+                            "name": "or", 
+                            "children": [
+                                {
+                                    "name": "CM1131", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "CM1401", 
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "Solid state chemistry-crystal structures, defects. Elements of interface chemistry;interfaces of liquid-gas, liquid-liquid, solid-gas, and solid-liquid.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCIENCE",
+"department": "CHEMISTRY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

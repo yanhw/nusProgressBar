@@ -1,0 +1,26 @@
+{
+"moduleCode": "PR1110",
+"moduleTitle": "Foundations for Medicinal Chemistry",
+"moduleCredit": "4",
+"lockedModules":[
+            "PR2289",
+            "PR2288",
+            "PR2143",
+            "PR2115"
+        ],
+"preclusion": "NIL",
+"prerequisite": "H2 Chemistry or equivalent",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "PR1110", 
+            "children": []
+},
+"moduleDescription": "This module studies the fundamental physical & chemical principles that are important to the design and development of drugs. The major topics to be covered include: molecular properties, intermolecular forces, acidity & basicity, stereochemistry, tautomerism, mechanisms of action, biotransformation and some basics on UV-vis and IR.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCIENCE",
+"department": "PHARMACY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

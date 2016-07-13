@@ -1,0 +1,22 @@
+{
+"moduleCode": "OT5203",
+"moduleTitle": "Design of Floating Structures",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "OT5201 Marine Statics and Dynamics (as of AY2011/12 onwards) or an equivalent, or CE5887 Topics in Offshore Engineering: Marine Statics & Dynamics (in AY2010/2011)",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "OT5203", 
+            "children": []
+},
+"moduleDescription": "This module is concerned with the design of floating offshore structures and elements. Floating structures dealt with in this module include semi-submersibles, FPSOs, spar platforms, floating jack-up structures and elements such as reinforced (hull) plating and mooring turntables. The important design parameters for floating structures will be highlighted. Also covered are the methods of analysis and criteria in design such as wave loading and motion in waves, floating stability, (dynamic) positioning, structural strength and fatigue. Safety assessment and codes in relation to design will also be treated.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "CIVIL & ENVIRONMENTAL ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

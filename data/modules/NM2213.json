@@ -1,0 +1,23 @@
+{
+"moduleCode": "NM2213",
+"moduleTitle": "Introduction to Human-Computer Interaction Design",
+"moduleCredit": "4",
+"lockedModules":[
+            "CS4249"
+        ],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "NM2213", 
+            "children": []
+},
+"moduleDescription": "This is an introductory module to the field of human computer interaction (HCI) design which involves the study, planning, and design of the interaction between people (users) and computers. This module will cover the basics of relevant issues, theories, and insights about the human side, the technical side, and the interaction (interface) between the two.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "COMMUNICATIONS AND NEW MEDIA",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

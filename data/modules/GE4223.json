@@ -1,0 +1,24 @@
+{
+"moduleCode": "GE4223",
+"moduleTitle": "Development of Geographic Thought",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "GE4101A",
+"prerequisite": "Cohort 2011 and before: Completed at least 80MCs, including 28MCs in GE, with a minimum CAP of 3.5 or be on the Honours track. Cohort 2012 onwards: Completed at least 80MCs, including 28MCs in GE, with a minimum CAP of 3.20 or be on the Honours track. Cohort 2012 onwards: (BES students from both specialisations). Completed 80 MCs of NUS modules before they can read any level-4000 GE modules. Do not need to complete 28 MCs of GE modules before they can read any level-4000 GE modules. Do not need a minimum CAP of 3.20 before they can read any level-4000 GE modules.",
+"preclusionList": [
+            "GE4101A"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "GE4223", 
+            "children": []
+},
+"moduleDescription": "Aimed at developing a critical perspective on the nature and practice of modern geography, the module situates the development of geography within the wider context of philosophical and social change. It examines the basic nature of the discipline by considering some of the ways in which the relationship between the society and space has been theorised within geography. There are two parts to the module, each to be conducted over one semester. One component traced the history of the discipline and evaluates the different paradigms, approaches and methodological considerations which have influenced human geography including the impact of positivism, humanism, Marxism, feminism, realism and postmodernism. The second component explores the development of environmental scientific thought and practice and related philosophical issues, before examining the unity diversity of physical and human geographies through key concepts such as space, place, environment and landscape.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "GEOGRAPHY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

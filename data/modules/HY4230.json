@@ -1,0 +1,24 @@
+{
+"moduleCode": "HY4230",
+"moduleTitle": "Historiography and Historical Method",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "HY4101",
+"prerequisite": "Cohort 2011 and before: Completed 80MCs, including 28MCs in HY or 28MCs in EU/LA (French/ German)/recognised modules or 28MCs in MS or 28MCs in SN, with a minimum CAP of 3.50 or be on the Honours track. Cohort 2012 onwards: Completed 80MCs, including 28MCs in HY or 28MCs in EU/LA (French/ German)/recognised modules or 28MCs in MS or 28MCs in SN, with a minimum CAP of 3.20 or be on the Honours track.",
+"preclusionList": [
+            "HY4101"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "HY4230", 
+            "children": []
+},
+"moduleDescription": "The objective of this module is to introduce Honours students to the emergence of the discipline of history. The history of history will also be used to convey some of the key historiographic and theoretical issues which shape contemporary historical writing. Major topics will include: philosophies of history, professionalization, traditional history, metahistory and postmodernism. Finally, Honours students will explore different methodologies.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "HISTORY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

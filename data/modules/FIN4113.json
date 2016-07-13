@@ -1,0 +1,119 @@
+{
+"moduleCode": "FIN4113",
+"moduleTitle": "Personal Finance and Wealth Management",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "FNA4112E",
+"prerequisite": "FIN3101% and ST1131A",
+"preclusionList": [
+            "FNA4112E"
+        ],
+"parsedPrerequisite": {
+            " and ": [
+                "FIN3101", 
+                "ST1131A"
+            ]
+},
+"prerequisiteList": ["FIN3101","FNA2004","FIN2004","BK1003","BZ1002","BH1002","FNA1002","ACC1002","FNA1002X","ACC1002X","FNA1002E","BH1002E","EC3212","EG1422","BH2004","BZ2004","BK2004","ST1131A"],
+"completePrerequisite": {
+            "name": "FIN4113", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "FIN3101", 
+                            "children": [
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "FNA2004", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "FIN2004", 
+                                            "children": [
+                                                {
+                                                    "name": "or", 
+                                                    "children": [
+                                                        {
+                                                            "name": "BK1003", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "BZ1002", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "BH1002", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "FNA1002", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "ACC1002", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "FNA1002X", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "ACC1002X", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "FNA1002E", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "BH1002E", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "EC3212", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "EG1422", 
+                                                            "children": []
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "BH2004", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "BZ2004", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "BK2004", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "ST1131A", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This course aims to impart skills to help individuals manage their personal finances, and private wealth. The course has two parts. Part I covers basic aspects of financial planning: understanding key steps in financial planning, financial statements and ratios, time value of money, short and long term financial planning, liquidity management, credit management. The second part of the course focuses on private wealth management. Topics include: fixed income investment strategies, equity investment strategies, mutual funds, structured products, hedge funds and other alternative investments, investing in real estate taxation, estate planning and wealth protection. The course is primarily intended for individuals who wish to improve their money management skills. However, it is also suitable for those who aspire to be independent financial advisors or a career in private wealth management.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF BUSINESS",
+"department": "FINANCE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

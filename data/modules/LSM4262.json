@@ -1,0 +1,36 @@
+{
+"moduleCode": "LSM4262",
+"moduleTitle": "Tropical Conservation Biology",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "ULS2204",
+"prerequisite": "LSM3272 OR ENV2101",
+"preclusionList": [
+            "ULS2204"
+        ],
+"parsedPrerequisite": {
+" and ": ["ENV2101"]
+},
+"prerequisiteList": ["ENV2101","ENV1101"],
+"completePrerequisite": {
+            "name": "LSM4262", 
+            "children": [
+                {
+                    "name": "ENV2101", 
+                    "children": [
+                        {
+                            "name": "ENV1101", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "Conservation and the loss of biodiversity and natural ecosystems are currently regarded as one of the most pressing problems facing mankind. The course will highlight the impact of habitat loss on biodiversity and the basis for formulation of effective conservation management strategies. The course will also introduce students to the theory of current conservation biology as illustrated by applications in tropical areas, species conservation issues, ecological challenges, role of zoological gardens, legal challenges etc. Conservation of tropical biota, management of local and regional environmental problems, appreciation and consideration of the socio-economic issues will also be treated. Conservation priorities and developmental needs at the national level will also be discussed, with emphasis on Singapore and SE Asia. The course will have guest lecturers from overseas as well as managers and conservation-players from the local environment. It will also involve a special round-table discussion on specific conservation issues.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "SCIENCE",
+"department": "BIOLOGICAL SCIENCES",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

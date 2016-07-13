@@ -1,0 +1,24 @@
+{
+"moduleCode": "MS3209",
+"moduleTitle": "The Malays of Singapore",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "SSA3203",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "SSA3203"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "MS3209", 
+            "children": []
+},
+"moduleDescription": "Who are the Malays of Singapore? How are they perceived and how do they perceive themselves? These and other related questions will be raised in this module. To answer these questions we will discuss the Malays in the socio-economic and political context they live in. The module is divided into five topics: Topic 1 looks at the socio-history of the Malays. Topic 2 introduces approaches in studying Malays of Singapore. Topics 3, 4 and 5 look at different dimensions of their life in Singapore i.e. as Singapore citizens, as part of the Malay &quot;community&quot; and as members of &quot;Malay families&quot;.",
+        "CrossModule": "SSA3203", 
+"corequisite": "NIL",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "MALAY STUDIES",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

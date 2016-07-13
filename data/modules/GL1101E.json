@@ -1,0 +1,27 @@
+{
+"moduleCode": "GL1101E",
+"moduleTitle": "Global Issues",
+"moduleCredit": "4",
+"lockedModules":[
+            "IGL3550",
+            "GL2103",
+            "GL3550",
+            "GL2101",
+            "GL2102"
+        ],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "GL1101E", 
+            "children": []
+},
+"moduleDescription": "This module introduces the emerging field of global studies. Building on ideas about the modern state and international order, it examines how these ideas are being challenged from the perspective of transnational trends and institutions. Among these are the emergence of a global economy, inequalities within and between states, transnational labor and migration, global environmental issues, poverty and development, global consumerism, human rights and global responsibilities, transnational social and political movements, and new patterns of global governance. The module adopts a multidisciplinary approach to reveal different aspects of these issues.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "POLITICAL SCIENCE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

@@ -1,0 +1,24 @@
+{
+"moduleCode": "SC4223",
+"moduleTitle": "Health and Social Behaviour",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "SC4214A Health and Social Behaviour",
+"prerequisite": "Cohort 2011 and before: Completed 80 MCs, including 28 MCs in SC with a minimum CAP of 3.50 or be on the Honours track. Cohort 2012 onwards: Completed 80 MCs, including 28 MCs in SC or 28MCs in GL/GL recognised non-language modules with a minimum CAP of 3.20 or be on the Honours track.",
+"preclusionList": [
+            "SC4214A"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "SC4223", 
+            "children": []
+},
+"moduleDescription": "The module explores interactions between a variety of social forces and the phenomenon of health/illness. First, an important goal of the module is to clarify the extent to which mental and physical health/illness have been socially constructed and unevenly distributed in society. The module further identifies the effects of such social conditions as socioeconomic status, education, gender, and social networks on patterns of health inequality. Finally, it delves into specific issues like social epidemiology, stress process, and health care where possible causal relationships between a variety of social forces and health/illness are explored.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "SOCIOLOGY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

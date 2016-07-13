@@ -1,0 +1,30 @@
+{
+"moduleCode": "YID2201",
+"moduleTitle": "Theory and Practice of Environmental Policymaking",
+"moduleCredit": "5",
+"lockedModules":[
+            "YID4201"
+        ],
+"preclusion": "NIL",
+"prerequisite": "YID1201 (Introduction to Environmental Studies), or permission of instructor",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["YID1201"]
+},
+"prerequisiteList": ["YID1201"],
+"completePrerequisite": {
+            "name": "YID2201", 
+            "children": [
+                {
+                    "name": "YID1201", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "An introduction to the tools, methods, and theory of effective environmental policymaking at the local, national, regional, and global level, with primary focus on governmental policies. Students will explore the interplay of politics and policy to develop an understanding of the drivers of successful environmental policymaking from a comparative perspective. This course is a prerequisite for subsequent environmental-studies policy and policymaking courses.",
+"crossModule": "-1",
+"corequisite": "YID1201 (Introduction to Environmental Studies), or permission of instructor",
+"faculty": "YALE-NUS COLLEGE",
+"department": "YALE-NUS COLLEGE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

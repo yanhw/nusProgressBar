@@ -1,0 +1,75 @@
+{
+"moduleCode": "LSM4221",
+"moduleTitle": "Drug Discovery and Clinical Trials",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "LSM3211",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["LSM3211"]
+},
+"prerequisiteList": ["LSM3211","LSM2101","LSM1101","LSM1401","LSM2103","LSM1102"],
+"completePrerequisite": {
+            "name": "LSM4221", 
+            "children": [
+                {
+                    "name": "LSM3211", 
+                    "children": [
+                        {
+                            "name": "or", 
+                            "children": [
+                                {
+                                    "name": "LSM2101", 
+                                    "children": [
+                                        {
+                                            "name": "or", 
+                                            "children": [
+                                                {
+                                                    "name": "LSM1101", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "LSM1401", 
+                                                    "children": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }, 
+                                {
+                                    "name": "LSM2103", 
+                                    "children": [
+                                        {
+                                            "name": "or", 
+                                            "children": [
+                                                {
+                                                    "name": "LSM1101", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "LSM1401", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "LSM1102", 
+                                                    "children": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module will cover the stages that a drug that is developed for clinical use goes through before it is marketed: discovery/synthesis, preclinical studies, clinical drug trials, registration and post-market surveillance. The different phases of clinical drug trials and the guidelines for ethics and good clinical practice will be discussed. Students are also divided into groups to design clinical trials. At the end of the course the students will have an overview of the processes involved in bringing a drug from the laboratory to the market.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "YONG LOO LIN SCHOOL OF MEDICINE",
+"department": "PHARMACOLOGY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

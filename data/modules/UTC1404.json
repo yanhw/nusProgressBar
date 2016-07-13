@@ -1,0 +1,24 @@
+{
+"moduleCode": "UTC1404",
+"moduleTitle": "Jr Sem: Power and Ideas",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "GEM1905",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "GEM1905"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "UTC1404", 
+            "children": []
+},
+"moduleDescription": "According to cultural theorists like Stuart Hall, Michel Foucault and Antonio Gramsci, the structures that support dominant ideas in society could be political, economic, religious or cultural, among others. This module examines the power structures behind the dominant ideas of our time, asking why these structures have an interest in promoting or discrediting ideas about what is \u2018good\u2019 for our community and mankind. These ideas include human rights, citizenship, democracy, meritocracy, the \u2018Washington Consensus,\u2019 development, age of majority, and political correctness.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "NON-FACULTY-BASED DEPARTMENTS",
+"department": "COLLEGE OF ALICE & PETER TAN",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

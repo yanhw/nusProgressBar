@@ -1,0 +1,22 @@
+{
+"moduleCode": "SC2212",
+"moduleTitle": "Sociology of Deviance",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "SC2212", 
+            "children": []
+},
+"moduleDescription": "This course introduces students to the sociological study of deviance and social control, distinguishing it as a field of research from biological and psychological explanations of deviance. It will trace the historical development of sociological theories on deviance and introduce students to contemporary approaches to deviance and crime. These perspectives will be utilized and illustrated through a study of the changing patterns of defining and controlling deviance in modern societies with reference to selected substantive issues. Students who have a keen interest in issues of social order, social control and conformity will find this course attractive.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "SOCIOLOGY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,4,]]
+}

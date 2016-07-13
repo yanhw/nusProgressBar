@@ -1,0 +1,26 @@
+{
+"moduleCode": "CH2121",
+"moduleTitle": "History of Chinese Literature",
+"moduleCredit": "4",
+"lockedModules":[
+            "CH2162",
+            "CH2161"
+        ],
+"preclusion": "CL2121",
+"prerequisite": "Must obtain: (i) At least a B4 for (a) Higher Chinese at GCE 'O' Level, or (b) Chinese Language at GCE 'AO' Level (at GCE 'A' Level examination); OR (ii) At least a pass for (a) Chinese at GCE 'A' Level, or (b) Higher Chinese at GCE 'A' Level; OR (iii) At least C grade for Chinese Language (H1CL) at GCE 'A' Level; OR (iv) At least a pass for (a) Chinese Language and Literature (H2CLL) at GCE 'A' Level, or (b) Chinese Language and Literature (H3CLL) at GCE 'A' Level. (v) Equivalent qualifications may be accepted.",
+"preclusionList": [
+            "CL2121"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "CH2121", 
+            "children": []
+},
+"moduleDescription": "An essential module for students majoring in Chinese Studies/Chinese Language, this course is a general survey of the development of Chinese literature from ancient times to the Qing Dynasty. It is designed to introduce students to the main features of various literary trends, genres and styles, as well as to major writers of various periods and their representative works. The course also caters to students across the University with an interest in classical Chinese literature.",
+        "CrossModule": "CL2121", 
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "CHINESE STUDIES",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

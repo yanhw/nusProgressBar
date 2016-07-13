@@ -1,0 +1,24 @@
+{
+"moduleCode": "RE1301",
+"moduleTitle": "Real Estate Business",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "RE1181 Real Estate Finance",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "RE1181"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "RE1301", 
+            "children": []
+},
+"moduleDescription": "This module describes the nature and scope of real estate business which includes the legal framework, types of legal entities, development activities and professional practices e.g. valuation, property and facility management, agency and marketing, and property consultancy. Various aspects of business will be discussed. They include the real estate business environment, management and human resource management, marketing management, financial management, information technology, and entrepreneurship and globalisation.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF DESIGN AND ENVIRONMENT",
+"department": "REAL ESTATE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

@@ -1,0 +1,37 @@
+{
+"moduleCode": "LSM3267",
+"moduleTitle": "Behavioural Biology",
+"moduleCredit": "4",
+"lockedModules":[
+            "LSM4267"
+        ],
+"preclusion": "LSM4253",
+"prerequisite": "LSM2251 Ecology and Environment",
+"preclusionList": [
+            "LSM4253"
+        ],
+"parsedPrerequisite": {
+" and ": ["LSM2251"]
+},
+"prerequisiteList": ["LSM2251","LSM1103"],
+"completePrerequisite": {
+            "name": "LSM3267", 
+            "children": [
+                {
+                    "name": "LSM2251", 
+                    "children": [
+                        {
+                            "name": "LSM1103", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module provides an in-depth coverage of the relationships that organisms have with each other and with the environment. Key concepts in organismal interactions, illustrated with examples from general diverse animals and ecological systems, to ultimate and proximate explanations of animal interactions and other life history characteristics, will be covered. Students will be given the opportunity to assimilate and critically evaluate contemporary literature on relevant current issues. Experimental studies will be designed, proposed and carried out by students to improve the understanding of animal behaviour and to appreciate the significance of behaviour in ecology as well as other related disciplines.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "SCIENCE",
+"department": "BIOLOGICAL SCIENCES",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

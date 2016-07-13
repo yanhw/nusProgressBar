@@ -1,0 +1,43 @@
+{
+"moduleCode": "TE2002",
+"moduleTitle": "Engineering Mathematics II",
+"moduleCredit": "4",
+"lockedModules":[
+            "TE2003",
+            "EE2011E"
+        ],
+"preclusion": "NIL",
+"prerequisite": "TE2102 or TG1401",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " or ": [
+                "TE2102", 
+                "TG1401"
+            ]
+},
+"prerequisiteList": ["TE2102","TG1401"],
+"completePrerequisite": {
+            "name": "TE2002", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "TE2102", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "TG1401", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This is a follow up module for TE2102. The topics include the following: Vector algebra. Vector function. Directional derivatives. Divergence and curl of vector fields. Line, surface and volume integrals. Jacobian. Gauss' and Stokes' Theorem. Cartesian, cylindrical and spherical coordinates. Partial Differentiation. Partial differential equations. Curve Fitting.",
+"crossModule": "-1",
+"corequisite": "Nil",
+"faculty": "ENGINEERING",
+"department": "BACHELOR OF TECHNOLOGY PROGRAMME",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

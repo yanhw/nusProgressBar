@@ -1,0 +1,24 @@
+{
+"moduleCode": "LL4071V",
+"moduleTitle": "Global Exploitation Of IP",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "Students who are taking or have taken LL4071.",
+"prerequisite": "NUS Compulsory Core Curriculum or its equivalent",
+"preclusionList": [
+            "LL4071"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "LL4071V", 
+            "children": []
+},
+"moduleDescription": "The advent of new technologies in this scientific and technological age has led to a dramatic shift in business strategies and global economic development. IP rights form an \"inexhaustible resource\"from which the fruits of research and innovation can be valued and commercially dealt with. This course will analyse the existing global regime for technology transfer and the strategy for an effective global exploitation and management of IP rights. It will also explore difficult issues including competition laws, conflict of laws, remedies and enforcement of IP rights faced by global corporations",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "LAW",
+"department": "LAW",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

@@ -1,0 +1,22 @@
+{
+"moduleCode": "ME5106",
+"moduleTitle": "Engineering Acoustics",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "ME5106", 
+            "children": []
+},
+"moduleDescription": "Noise is recognised as a source of annoyance since antiquity. However, its economic impact due to work lost caused by noise-induced health hazard was not realised until recently. Common remedy of using barriers is frequently not the most cost-effective way of combatingthis and an understanding of the noise-producing mechanism and changing it to a quieter process is always preferred if applicable. This course will lead the students from the basic fundamentals of acoustics through various noise-producing mechanismsand finally control measures that can be applied to different circumstances. The empahsis will be on the physical picture rather mathematical.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "MECHANICAL ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

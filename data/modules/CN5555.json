@@ -1,0 +1,22 @@
+{
+"moduleCode": "CN5555",
+"moduleTitle": "Chemical Engineering Project",
+"moduleCredit": "8",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "CN5555", 
+            "children": []
+},
+"moduleDescription": "This module involves supervised project over two semesters, on a topic approved by the Department. The project work should relate to one of the sub-areas of chemical engineering: chemical engineering sciences, chemical and biological systems engineering, environmentally benign processing and sustainability, biomolecular and biomedical sciences, and nanostructured and functionalized materials/devices.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "ENGINEERING",
+"department": "CHEMICAL & BIOMOLECULAR ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

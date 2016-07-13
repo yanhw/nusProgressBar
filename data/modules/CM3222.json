@@ -1,0 +1,35 @@
+{
+"moduleCode": "CM3222",
+"moduleTitle": "Organic Reaction Mechanisms",
+"moduleCredit": "4",
+"lockedModules":[
+            "CM4273"
+        ],
+"preclusion": "NIL",
+"prerequisite": "CM2121",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["CM2121"]
+},
+"prerequisiteList": ["CM2121","CM1121"],
+"completePrerequisite": {
+            "name": "CM3222", 
+            "children": [
+                {
+                    "name": "CM2121", 
+                    "children": [
+                        {
+                            "name": "CM1121", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module covers the study of a selected series of organic reactions involving reactive intermediates and/or molecular rearrangements. Emphasis is placed on an understanding of their reaction mechanisms. These will include rearrangement reactions involving carbocations and carbenes as intermediates. Stereoelectronic properties leading to fragmentation reactions will be introduced. Reactions initiated by radicals will be covered. Comprehensive discussions on rules and stereochemical consequences in pericyclic reactions will be given. The synthetic applications of all the above reactions will be illustrated.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCIENCE",
+"department": "CHEMISTRY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

@@ -1,0 +1,45 @@
+{
+"moduleCode": "MUA3194",
+"moduleTitle": "Voice Literature 1",
+"moduleCredit": "2",
+"lockedModules":[
+            "MUA3195"
+        ],
+"preclusion": "NIL",
+"prerequisite": "MUT 2118 or Permission of Instructor",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["MUT2118"]
+},
+"prerequisiteList": ["MUT2118","MUT2117","MUT1122","MUT1121"],
+"completePrerequisite": {
+            "name": "MUA3194", 
+            "children": [
+                {
+                    "name": "MUT2118", 
+                    "children": [
+                        {
+                            "name": "MUT2117", 
+                            "children": [
+                                {
+                                    "name": "MUT1122", 
+                                    "children": [
+                                        {
+                                            "name": "MUT1121", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module will cover literature composed for the voice from the medieval period through approximately 1800. Repertoire covered will include music for solo voice as well as vocal chamber music and oratorio of various languages and styles. In-class performances and other class presentations will be required. There will be a final exam.",
+"crossModule": "-1",
+"corequisite": "Nil",
+"faculty": "YONG SIEW TOH CONSERVATORY OF MUSIC",
+"department": "YONG SIEW TOH CONSERVATORY OF MUSIC",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

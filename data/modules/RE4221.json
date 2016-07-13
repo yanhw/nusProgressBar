@@ -1,0 +1,40 @@
+{
+"moduleCode": "RE4221",
+"moduleTitle": "Advanced Urban Planning Theories",
+"moduleCredit": "4",
+"lockedModules":[
+            "RE4220"
+        ],
+"preclusion": "NIL",
+"prerequisite": "RE3102 ADVANCED TOPICS IN URBAN PLANNING",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["RE3102"]
+},
+"prerequisiteList": ["RE3102","RE2103","RE1102"],
+"completePrerequisite": {
+            "name": "RE4221", 
+            "children": [
+                {
+                    "name": "RE3102", 
+                    "children": [
+                        {
+                            "name": "RE2103", 
+                            "children": [
+                                {
+                                    "name": "RE1102", 
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "The module commences with a critical overview of the meaning and purpose of planning, followed by a focused study of the various theories of planning. The course will provide a critique of the traditional rational comprehensive model, and the applicability of alternative theories such as advocacy models and radical models, particularly in the context of the changing urban environment. The module will cover forecasting techniques for population, housing and retail location. Students will also encounter the recent thinking on the post modern turn in planning and the communicative model of planning rationality. The module will include a discussion of the role and place of sustainability in contemporary planning.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF DESIGN AND ENVIRONMENT",
+"department": "REAL ESTATE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

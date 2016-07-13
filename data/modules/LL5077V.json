@@ -1,0 +1,27 @@
+{
+"moduleCode": "LL5077V",
+"moduleTitle": "IT Law II",
+"moduleCredit": "5",
+"lockedModules":[
+            "LL6283V",
+            "LL4283V",
+            "LL5283V"
+        ],
+"preclusion": "Students who are taking or have taken LL5077.",
+"prerequisite": "NUS Compulsory Core Curriculum or its equivalent..",
+"preclusionList": [
+            "LL5077"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "LL5077V", 
+            "children": []
+},
+"moduleDescription": "This course will examine the legal and policy issues relating to information technology and the use of the Internet. The focus of this course will be on the intellectual property issues such as copyright in software and electronic materials, software patents, electronic databases, trade marks, domain names and rights management information. Students who are interested in the interface between law, technology, policy and economic rights will learn to examine the sociological, political, commercial and technical background behind these rules, evaluate the legal rules and policy ramifications of these rules, and formulate new rules and policies to address these problems.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "LAW",
+"department": "LAW",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

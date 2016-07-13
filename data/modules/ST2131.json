@@ -1,0 +1,102 @@
+{
+"moduleCode": "ST2131",
+"moduleTitle": "Probability",
+"moduleCredit": "4",
+"lockedModules":[
+            "CS5233",
+            "IE3101",
+            "MA5259",
+            "MA3269",
+            "CS5228",
+            "ST3243",
+            "DSC3215",
+            "DSC3216",
+            "MA3259",
+            "CS5240",
+            "IE2100",
+            "ST5215",
+            "CS4226",
+            "CS4222",
+            "ST5214",
+            "ST2132",
+            "ST3239",
+            "FIN4111",
+            "ST2137",
+            "MA4260",
+            "MA4264",
+            "CS5340",
+            "ST5225",
+            "MA3238",
+            "ST3131",
+            "CS3244",
+            "ST3236",
+            "MA3227",
+            "CS4246",
+            "CS4243",
+            "CS4248",
+            "ST3247"
+        ],
+"preclusion": "MA2216, ST2334, CE2407",
+"prerequisite": "MA1102 or MA1102R or MA1312 or MA1507 or MA1505 or MA1505C or MA1521",
+"preclusionList": [
+            "CE2407",
+            "MA2216",
+            "ST2334"
+        ],
+"parsedPrerequisite": {
+            " or ": [
+                "MA1102", 
+                "MA1102R", 
+                "MA1312", 
+                "MA1507", 
+                "MA1505", 
+                "MA1505C", 
+                "MA1521"
+            ]
+},
+"prerequisiteList": ["MA1102","MA1102R","MA1312","MA1507","MA1505","MA1505C","MA1521"],
+"completePrerequisite": {
+            "name": "ST2131", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "MA1102", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "MA1102R", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "MA1312", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "MA1507", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "MA1505", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "MA1505C", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "MA1521", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "The objective of this module is to give an elementary introduction to probability theory for science (including computing science, social sciences and management sciences) and engineering students with knowledge of elementary calculus. It will cover not only the mathematics of probability theory but will work through many diversified examples to illustrate the wide scope of applicability of probability. Topics covered are: counting methods, sample space and events, axioms of probability, conditional probability, independence, random variables, discrete and continuous distributions, joint and marginal distributions, conditional distribution, independence of random variables, expectation, conditional expectation, moment generating function, central limit theorem, the weak law of large numbers. This module is targeted at students who are interested in Statistics and are able to meet the prerequisite. It is an essential module for Industrial and Systems Engineering students.",
+        "CrossModule": "MA2216", 
+"corequisite": "NIL",
+"faculty": "SCIENCE",
+"department": "STATISTICS & APPLIED PROBABILITY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

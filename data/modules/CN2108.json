@@ -1,0 +1,108 @@
+{
+"moduleCode": "CN2108",
+"moduleTitle": "Chemical Engineering Process Laboratory I",
+"moduleCredit": "2",
+"lockedModules":[
+            "CN3108",
+            "CN4233R",
+            "CN4249"
+        ],
+"preclusion": "NIL",
+"prerequisite": "CN2121, CN2122, LSM1401",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " and ": [
+                "CN2121", 
+                "CN2122", 
+                "LSM1401"
+            ]
+},
+"prerequisiteList": ["CN2121","CN1111F","CN1111","CN1111X","CM1502","CN2122","MA1505","MA1506","MA1102R","MA1521","LSM1401"],
+"completePrerequisite": {
+            "name": "CN2108", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "CN2121", 
+                            "children": [
+                                {
+                                    "name": "and", 
+                                    "children": [
+                                        {
+                                            "name": "or", 
+                                            "children": [
+                                                {
+                                                    "name": "CN1111F", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "CN1111", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "CN1111X", 
+                                                    "children": []
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "CM1502", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "CN2122", 
+                            "children": [
+                                {
+                                    "name": "and", 
+                                    "children": [
+                                        {
+                                            "name": "MA1505", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "MA1506", 
+                                            "children": [
+                                                {
+                                                    "name": "or", 
+                                                    "children": [
+                                                        {
+                                                            "name": "MA1102R", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "MA1505", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "MA1521", 
+                                                            "children": []
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "LSM1401", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "Students learn practical experience with laboratory-scale experiments as well as team work and technical communication through report writing and oral examination. The experiments are related to chemical engineering thermodynamics, fluid mechanics, heat &amp; mass transfer, particle technology and bioanalytics. Also, students learn the use of safety equipment, safe procedures for handling biological and hazardous waste, assembly and disassembly of equipment, fault diagnosis, understanding and operation of thermocouples and flow meters, instrumental analysis, data logging and processing, operation of process plant items, error analysis and data validation. This module is targeted at level 2 chemical engineering students, who will do experiments in six sessions of five hours each, during the semester.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "CHEMICAL & BIOMOLECULAR ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

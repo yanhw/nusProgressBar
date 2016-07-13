@@ -1,0 +1,48 @@
+{
+"moduleCode": "PL3252",
+"moduleTitle": "Social-Cognitive Perspectives on Emotion",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "PL3880B",
+"prerequisite": "PL1101E and PL3235",
+"preclusionList": [
+            "PL3880B"
+        ],
+"parsedPrerequisite": {
+            " and ": [
+                "PL1101E", 
+                "PL3235"
+            ]
+},
+"prerequisiteList": ["PL1101E","PL3235"],
+"completePrerequisite": {
+            "name": "PL3252", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "PL1101E", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "PL3235", 
+                            "children": [
+                                {
+                                    "name": "PL1101E", 
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module offers an exploration of current socialcognitive research on emotions. Emotions are complex, multiply-determined states that influence our experiences, biochemistry, thinking, actions, relationships, motivations, and behaviours, as well as our health. Topics to be covered in this module include 'what is the nature of emotion?', 'what functions, if any, do specific emotions serve?', 'what are their antecedents and their consequences?', among others. The discussion of emotion will stretch across various sub-disciplines in psychology, such as developmental psychology, biological psychology, social and personality psychology, cognitive neuroscience, social-cognition, cross-cultural psychology and evolutionary psychology.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "PSYCHOLOGY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

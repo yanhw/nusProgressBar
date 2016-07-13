@@ -1,0 +1,57 @@
+{
+"moduleCode": "IS3222",
+"moduleTitle": "IT and Customer Relationship Management",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "CS4266",
+"prerequisite": "Pass 60 MCs and [CS2250 or (IS1103 and IS1105)]",
+"preclusionList": [
+            "CS4266"
+        ],
+"parsedPrerequisite": {
+            " or ": [
+                "CS2250", 
+                {
+                    " and ": [
+                        "IS1103", 
+                        "IS1105"
+                    ]
+                }
+            ]
+},
+"prerequisiteList": ["CS2250","IS1103","IS1105"],
+"completePrerequisite": {
+            "name": "IS3222", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "CS2250", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "and", 
+                            "children": [
+                                {
+                                    "name": "IS1103", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "IS1105", 
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "CRM (Customer Relationship Management) systems are the cornerstone of enterprise systems to manage customer relationships and equity in business organizations. This module aims to introduce concepts in CRM and in the application, implementation and management of CRM technologies. Topics covered include CRM strategy in B2C and B2B contexts, integrating IS/IT strategy with CRM objectives, economic returns from CRM, information privacy in CRM, CRM data warehouse and information structure, data mining techniques for CRM, CRM systems and technologies, CRM system implementation in B2C/B2B contexts, CRM system vendor selection and evaluation. Instructional methods will include lectures, tutorials, case studies, and/or project-based learning.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF COMPUTING",
+"department": "INFORMATION SYSTEMS",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

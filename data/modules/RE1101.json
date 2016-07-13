@@ -1,0 +1,25 @@
+{
+"moduleCode": "RE1101",
+"moduleTitle": "Fundamentals of Real Estate Finance",
+"moduleCredit": "4",
+"lockedModules":[
+            "RE2104"
+        ],
+"preclusion": "RE1181 Real Estate Finance; Year 1-3 and Honours students from Business School.",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "RE1181"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "RE1101", 
+            "children": []
+},
+"moduleDescription": "This module equips students with the basic financial skills and knowledge necessary for further studies in real estate finance and investment. The topics include money and interest rates; financial markets and financial institutions; risks and returns; capital budgeting; basic accounting statement and financial indicators; financial securities; shareholder and capital structures.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF DESIGN AND ENVIRONMENT",
+"department": "REAL ESTATE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

@@ -1,0 +1,22 @@
+{
+"moduleCode": "MS4101",
+"moduleTitle": "Theory and Practice in Malay Studies",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "Cohort 2011 and before: Completed 80MCs, including 28MCs in MS, with a minimum CAP of 3.50 or be on the Honours track. Cohort 2012 onwards: Completed 80MCs, including 28MCs in MS, with a minimum CAP of 3.20 or be on the Honours track.",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "MS4101", 
+            "children": []
+},
+"moduleDescription": "The theoretical underpinnings of each phase of the development of Malay studies would be examined based on representative works. The contribution and pitfalls of each phase of its development would be critically appraised. A general and critical evaluation of the present state of Malay Studies as an area study would be undertaken. The significance and relevance of Malay studies in relation to the social sciences and the other humanities would be discussed.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "MALAY STUDIES",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

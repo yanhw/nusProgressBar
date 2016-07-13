@@ -1,0 +1,51 @@
+{
+"moduleCode": "NUR3105",
+"moduleTitle": "Clinical Practicum 3.1",
+"moduleCredit": "3",
+"lockedModules":[
+            "NUR3115",
+            "NUR3116"
+        ],
+"preclusion": "NIL",
+"prerequisite": "NUR2107 Clinical Practicum 2.2",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["NUR2107"]
+},
+"prerequisiteList": ["NUR2107","NUR2116","NUR2106","NUR2114","NUR1108"],
+"completePrerequisite": {
+            "name": "NUR3105", 
+            "children": [
+                {
+                    "name": "NUR2107", 
+                    "children": [
+                        {
+                            "name": "NUR2116", 
+                            "children": [
+                                {
+                                    "name": "NUR2106", 
+                                    "children": [
+                                        {
+                                            "name": "NUR2114", 
+                                            "children": [
+                                                {
+                                                    "name": "NUR1108", 
+                                                    "children": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+
+"crossModule": "-1",
+"corequisite": "NUR3113 Medical/Surgical Nursing III",
+"faculty": "YONG LOO LIN SCHOOL OF MEDICINE",
+"department": "NURSING/ALICE LEE CTR FOR NURSING STUD",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

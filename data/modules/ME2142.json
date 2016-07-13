@@ -1,0 +1,49 @@
+{
+"moduleCode": "ME2142",
+"moduleTitle": "Feedback Control Systems",
+"moduleCredit": "4",
+"lockedModules":[
+            "ME4245",
+            "ME4246"
+        ],
+"preclusion": "NIL",
+"prerequisite": "MA1506",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["MA1506"]
+},
+"prerequisiteList": ["MA1506","MA1102R","MA1505","MA1521"],
+"completePrerequisite": {
+            "name": "ME2142", 
+            "children": [
+                {
+                    "name": "MA1506", 
+                    "children": [
+                        {
+                            "name": "or", 
+                            "children": [
+                                {
+                                    "name": "MA1102R", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "MA1505", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "MA1521", 
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This is a compulsory module and it introduces students to various fundamental concepts in control system analysis and design. Topics include mathematical modeling of dynamical systems, time responses of first and second-order systems, steady-state error analysis, frequency response analysis of systems and design methodologies based on both time and frequency domains. This module also introduces computer simulation as a means of system evaluation.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "MECHANICAL ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

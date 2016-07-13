@@ -1,0 +1,73 @@
+{
+"moduleCode": "LAF4202",
+"moduleTitle": "French 6",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "Passed LAF4201 or placement test.",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["LAF4201"]
+},
+"prerequisiteList": ["LAF4201","LAF3202","LAF3201","LAF2201","LAF1201","LAF3203"],
+"completePrerequisite": {
+            "name": "LAF4202", 
+            "children": [
+                {
+                    "name": "LAF4201", 
+                    "children": [
+                        {
+                            "name": "or", 
+                            "children": [
+                                {
+                                    "name": "LAF3202", 
+                                    "children": [
+                                        {
+                                            "name": "LAF3201", 
+                                            "children": [
+                                                {
+                                                    "name": "LAF2201", 
+                                                    "children": [
+                                                        {
+                                                            "name": "LAF1201", 
+                                                            "children": []
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }, 
+                                {
+                                    "name": "LAF3203", 
+                                    "children": [
+                                        {
+                                            "name": "LAF3201", 
+                                            "children": [
+                                                {
+                                                    "name": "LAF2201", 
+                                                    "children": [
+                                                        {
+                                                            "name": "LAF1201", 
+                                                            "children": []
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "Building on the foundations of French 5, this module helps the students to develop and put in practical use the knowledge acquired in various specific fields, such as commercial French, contemporary culture, advanced conversation and writing skills.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "CENTRE FOR LANGUAGE STUDIES",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

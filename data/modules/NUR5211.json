@@ -1,0 +1,22 @@
+{
+"moduleCode": "NUR5211",
+"moduleTitle": "Consolidated Clinical Practicum",
+"moduleCredit": "2",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "NUR5211", 
+            "children": []
+},
+"moduleDescription": "This module aims to give students the opportunities to consolidate their practice in their area of Specialties under the guidance of a clinical preceptor. Students are given the option to be attached to the unit/ward where they will be serving their internship upon completion of the MN programme or another practised area offering similar learning experiences.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "YONG LOO LIN SCHOOL OF MEDICINE",
+"department": "NURSING/ALICE LEE CTR FOR NURSING STUD",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

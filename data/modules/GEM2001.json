@@ -1,0 +1,24 @@
+{
+"moduleCode": "GEM2001",
+"moduleTitle": "Introduction to Asian Theatre",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "TS2232",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "TS2232"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "GEM2001", 
+            "children": []
+},
+"moduleDescription": "This module focuses on the classical theatre forms of India, China, and Japan. Each tradition is examined within its socio-cultural context. Textual analysis of classical scripts from Sanskrit drama, Chinese opera, and Japanese theatre will also be conducted. Students' learning experience is often constructed in stimulated theatre settings to promote their creativity and to provide them with a working knowledge of performing arts. Students interested in theatre studies, South Asian studies, Chinese studies, and Japanese studies may particularly benefit from this module.",
+        "CrossModule": "TS2232", 
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "ENGLISH LANGUAGE & LITERATURE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

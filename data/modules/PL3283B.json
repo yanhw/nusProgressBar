@@ -1,0 +1,70 @@
+{
+"moduleCode": "PL3283B",
+"moduleTitle": "Lab in Development of Communication",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "PL1101E, PL2131, PL2132 and PL3234",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " and ": [
+                "PL1101E", 
+                "PL2131", 
+                "PL2132", 
+                "PL3234"
+            ]
+},
+"prerequisiteList": ["PL1101E","PL2131","PL2132","PL3234"],
+"completePrerequisite": {
+            "name": "PL3283B", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "PL1101E", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "PL2131", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "PL2132", 
+                            "children": [
+                                {
+                                    "name": "and", 
+                                    "children": [
+                                        {
+                                            "name": "PL1101E", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "PL2131", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "PL3234", 
+                            "children": [
+                                {
+                                    "name": "PL1101E", 
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This lab module will introduce to students linguistic and non-linguistic ways of human communication from psycholinguistic perspectives. It addresses the following issues: 1) How do speakers communicate? 2) How do they modify the ways of communication to accommodate different circumstances? 3) When and how do children develop different ways of communication? 4) Are there cross-linguistic differences in ways of communication? 5) How do communication-impaired adults and children incorporate other modalities to communicate? Theoretical and empirical issues will be discussed. Students will also conduct scientific studies to examine the latest issues of human communication.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "PSYCHOLOGY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

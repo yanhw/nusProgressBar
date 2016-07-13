@@ -1,0 +1,22 @@
+{
+"moduleCode": "NM3204",
+"moduleTitle": "E-Learning",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "NM3204", 
+            "children": []
+},
+"moduleDescription": "This module is designed to help students understand and appreciate the importance of new Information and Communication Technologies (ICTs), and how they can be effectively integrated into educational and organisational settings. It introduces students to practical aspects such as planning, designing, implementation and management of new ICTs in both educational and organisational contexts. The course is mounted for students throughout NUS with interest in the uses and effects of new ICTs.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "COMMUNICATIONS AND NEW MEDIA",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

@@ -1,0 +1,24 @@
+{
+"moduleCode": "GEM1046",
+"moduleTitle": "Home",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "GET1003",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "GET1003"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "GEM1046", 
+            "children": []
+},
+"moduleDescription": "Few words in the English language (or any language) are as evocative and emotionally-charged as \u201chome.\u201d But how do we determine what we call home, and why should we take \u201chome\u201d seriously? This module explores the political, social, economic, and cultural aspects of the complex idea of home. Major topics include: sense of place, home technologies and design, gender and housework, home and travel, globalisation, nationalism, homelessness, exile, and representations of home. Students will complete the module with a new appreciation for the complexity of the places \u2013 house, neighborhood, nation, planet \u2013 they call home.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "JAPANESE STUDIES",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

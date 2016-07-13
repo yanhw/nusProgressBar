@@ -1,0 +1,57 @@
+{
+"moduleCode": "IS4226",
+"moduleTitle": "IT Outsourcing and Offshoring Management",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "CS4255",
+"prerequisite": "Pass 80 MCs and [CS2250 or (IS1103 and IS1105)]",
+"preclusionList": [
+            "CS4255"
+        ],
+"parsedPrerequisite": {
+            " or ": [
+                "CS2250", 
+                {
+                    " and ": [
+                        "IS1103", 
+                        "IS1105"
+                    ]
+                }
+            ]
+},
+"prerequisiteList": ["CS2250","IS1103","IS1105"],
+"completePrerequisite": {
+            "name": "IS4226", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "CS2250", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "and", 
+                            "children": [
+                                {
+                                    "name": "IS1103", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "IS1105", 
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "The module focuses on issues faced when IT organizations engage in outsourcing, offshoring and internationalization. It also provides students with the theoretical framework and tools to identify core IT capabilities and analyze relevant activities for outsourcing and offshoring. Besides equipping students with the fundamentals and theoretical perspectives of these phenomena, the course will also expose them to practical issues ranging from managerial to economical, from cultural to political, from methodological to regulatory. Students will graduate with a better appreciation of the IT industry in both developing and developed countries.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF COMPUTING",
+"department": "INFORMATION SYSTEMS",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

@@ -1,0 +1,61 @@
+{
+"moduleCode": "EE5139R",
+"moduleTitle": "Information Theory for Communication Systems",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "knowledge of probability and statistics at the level of the undergraduate module EE2012 Analytical Methods in Electrical & Computer Engineering",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["EE2012"]
+},
+"prerequisiteList": ["EE2012","MA1505","MA1506","MA1102R","MA1521"],
+"completePrerequisite": {
+            "name": "EE5139R", 
+            "children": [
+                {
+                    "name": "EE2012", 
+                    "children": [
+                        {
+                            "name": "and", 
+                            "children": [
+                                {
+                                    "name": "MA1505", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "MA1506", 
+                                    "children": [
+                                        {
+                                            "name": "or", 
+                                            "children": [
+                                                {
+                                                    "name": "MA1102R", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MA1505", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MA1521", 
+                                                    "children": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "The aim of this module is to provide an appreciation of the important contributions made by Claude Shannon to communications, including the fundamental limits of data compression, channel capacity, and the source-channel separation principle. Students will obtain an understanding of the concept of \u201ca bit of information\u201d in Shannon\u2019s sense. Coding, modulation and demodulation will be briefly covered, but all at the most basic level of trying to transfer a bit of information reliably from sender to receiver. Topics are as follows: introduction to communications, including standardized interfaces and layering, communication system blocks, source-channel separation principle; coding for discrete sources; channels, modulation and demodulation of binary signals; coding and Shannon capacity; Gaussian channels.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "ELECTRICAL & COMPUTER ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

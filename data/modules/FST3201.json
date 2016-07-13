@@ -1,0 +1,22 @@
+{
+"moduleCode": "FST3201",
+"moduleTitle": "Independent Study (Food Science & Tech)",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "Food Science & Technology Major",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "FST3201", 
+            "children": []
+},
+"moduleDescription": "This module allows the student to undertake an in-depth study of a food related topic agreed between the student and the supervisor. The work is carried out under the terms of a learning contract. Normally, a written and oral report on the work is required but other modes of assessment may be agreed and defined in the learning contract.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCIENCE",
+"department": "CHEMISTRY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

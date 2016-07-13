@@ -1,0 +1,22 @@
+{
+"moduleCode": "IE5307",
+"moduleTitle": "Topics in Human Factors Engineering",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "IE5307", 
+            "children": []
+},
+"moduleDescription": "Scientific literature in selected human factors engineering applications will be reviewed. Topics include but are not limited to: human-computer interface design, auditory systems design, cognitive workload, training systems design and human factors aspects of simulation.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "INDUSTRIAL & SYSTEMS ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

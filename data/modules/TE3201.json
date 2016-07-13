@@ -1,0 +1,29 @@
+{
+"moduleCode": "TE3201",
+"moduleTitle": "Software Engineering",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "TE2101",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["TE2101"]
+},
+"prerequisiteList": ["TE2101"],
+"completePrerequisite": {
+            "name": "TE3201", 
+            "children": [
+                {
+                    "name": "TE2101", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "Software project planning, requirements analysis, data flow methods. Software development, object-oriented design, portability and re-use. Software quality assurance, testing strategies and techniques. Case studies.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "BACHELOR OF TECHNOLOGY PROGRAMME",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

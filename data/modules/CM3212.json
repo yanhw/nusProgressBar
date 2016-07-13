@@ -1,0 +1,36 @@
+{
+"moduleCode": "CM3212",
+"moduleTitle": "Transition Metal Chemistry",
+"moduleCredit": "4",
+"lockedModules":[
+            "CM4215",
+            "CM4214"
+        ],
+"preclusion": "NIL",
+"prerequisite": "CM2111",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["CM2111"]
+},
+"prerequisiteList": ["CM2111","CM1111"],
+"completePrerequisite": {
+            "name": "CM3212", 
+            "children": [
+                {
+                    "name": "CM2111", 
+                    "children": [
+                        {
+                            "name": "CM1111", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module covers the chemistry of d-block and f-block metals. An introduction to observed trend in physical and chemical properties of d-block transition metal complexes will be given. A comprehensive discussion on their electronic structures and spectra follows. Magnetic property, ligand substitution and redox reaction of these metal complexes will be illustrated. The f-block metals will be introduced leading to a discussion of the optical spectra of their complexes. Introduction to inorganic supramolecular chemistry, crystal engineering and solid state chemistry will be covered.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCIENCE",
+"department": "CHEMISTRY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

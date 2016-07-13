@@ -1,0 +1,47 @@
+{
+"moduleCode": "LSM3217",
+"moduleTitle": "Human Ageing",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "LSM2103",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["LSM2103"]
+},
+"prerequisiteList": ["LSM2103","LSM1101","LSM1401","LSM1102"],
+"completePrerequisite": {
+            "name": "LSM3217", 
+            "children": [
+                {
+                    "name": "LSM2103", 
+                    "children": [
+                        {
+                            "name": "or", 
+                            "children": [
+                                {
+                                    "name": "LSM1101", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "LSM1401", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "LSM1102", 
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module introduces human ageing theories, molecular basis of ageing, system level effects of ageing, ageing related diseases, and interventions that increase longevity. Major topics to be covered in the first half include biology of ageing theories (Oxidative stress, Genetic, Autoimmune and Neuroendocrine), with an emphasis on molecular pathways such as telomere shortening, mitochondrial and ER stress, sirtuins and mTOR and autophagy. The second half of lectures include ageing brain, heart and related diseases, health implications for the individual and interventions that increases longevity such as hormesis, dietary restriction, resveratrol, rapamycin and growth hormones.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "YONG LOO LIN SCHOOL OF MEDICINE",
+"department": "PHYSIOLOGY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

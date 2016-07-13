@@ -1,0 +1,63 @@
+{
+"moduleCode": "CM5212",
+"moduleTitle": "Crystal Engineering",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "CM4214 or by permission",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["CM4214"]
+},
+"prerequisiteList": ["CM4214","CM3211","CM2111","CM1111","CM3212"],
+"completePrerequisite": {
+            "name": "CM5212", 
+            "children": [
+                {
+                    "name": "CM4214", 
+                    "children": [
+                        {
+                            "name": "or", 
+                            "children": [
+                                {
+                                    "name": "CM3211", 
+                                    "children": [
+                                        {
+                                            "name": "CM2111", 
+                                            "children": [
+                                                {
+                                                    "name": "CM1111", 
+                                                    "children": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }, 
+                                {
+                                    "name": "CM3212", 
+                                    "children": [
+                                        {
+                                            "name": "CM2111", 
+                                            "children": [
+                                                {
+                                                    "name": "CM1111", 
+                                                    "children": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module provides the basic understanding of intermolecular interactions in the context of crystal packing and how to utilize these weak supramolecular interations in the design of new solids with desired physical and chemical properties. Hence this is an interdisciplinary subject which encompasses physics, chemistry, materials and pharmaceuticals.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCIENCE",
+"department": "CHEMISTRY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

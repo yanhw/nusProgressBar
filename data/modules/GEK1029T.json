@@ -1,0 +1,24 @@
+{
+"moduleCode": "GEK1029T",
+"moduleTitle": "Managing Change: Power & Paradox",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "MNO3313A",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "MNO3313A"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "GEK1029T", 
+            "children": []
+},
+
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "ENGINEERING",
+"department": "BACHELOR OF TECHNOLOGY PROGRAMME",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

@@ -1,0 +1,22 @@
+{
+"moduleCode": "MKT4417",
+"moduleTitle": "Consumer Decision Making",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "MKT4417", 
+            "children": []
+},
+"moduleDescription": "Multitudes of research, spanning economics, psychology, sociology among the various behavioral and decision sciences, have been done to understand why we shop the way we shop, why we choose the way we choose, and why we buy the way we buy. Beginning with the foundation of a rational consumer, we systematically examine the choice, purchase and shopping behaviors which deviate from standard rational predictions, the circumstances/contexts of such deviations, and understand their causes and consequences. Key elements underlying choice, purchase and shopping are examined under a generic context before moving to specific contexts such as personal finance, health and consumption.",
+"crossModule": "-1",
+"corequisite": "Nil",
+"faculty": "SCHOOL OF BUSINESS",
+"department": "MARKETING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

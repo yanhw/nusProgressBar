@@ -1,0 +1,22 @@
+{
+"moduleCode": "ME4261",
+"moduleTitle": "Tool Engineering",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "ME4261", 
+            "children": []
+},
+"moduleDescription": "All mechanical engineering students need the basic knowledge of metal machining and tool design for mass production and the design of cutting tools. This module provides the fundamental understanding of metal machining and tool design.",
+"crossModule": "-1",
+"corequisite": "ME3162",
+"faculty": "ENGINEERING",
+"department": "MECHANICAL ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

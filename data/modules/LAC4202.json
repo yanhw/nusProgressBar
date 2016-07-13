@@ -1,0 +1,58 @@
+{
+"moduleCode": "LAC4202",
+"moduleTitle": "Chinese 6",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "Passed LAC4201 or placement test",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["LAC4201"]
+},
+"prerequisiteList": ["LAC4201","LAC3202","LAC3201","LAC2201","LAC1201","LAC2202"],
+"completePrerequisite": {
+            "name": "LAC4202", 
+            "children": [
+                {
+                    "name": "LAC4201", 
+                    "children": [
+                        {
+                            "name": "LAC3202", 
+                            "children": [
+                                {
+                                    "name": "LAC3201", 
+                                    "children": [
+                                        {
+                                            "name": "or", 
+                                            "children": [
+                                                {
+                                                    "name": "LAC2201", 
+                                                    "children": [
+                                                        {
+                                                            "name": "LAC1201", 
+                                                            "children": []
+                                                        }
+                                                    ]
+                                                }, 
+                                                {
+                                                    "name": "LAC2202", 
+                                                    "children": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module is a continuation of Chinese 5. It will emphasize the communicative function and the training of the four language skills (speaking, listening, reading & writing). A systematic way of introducing drills and exercises will allow students to master the necessary grammatical knowledge and rules for word and sentence formation. The students will also be involved in doing projects related to Chinese culture and history. Essay writing skills will be strengthened in this module.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "CENTRE FOR LANGUAGE STUDIES",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

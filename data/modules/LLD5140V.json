@@ -1,0 +1,24 @@
+{
+"moduleCode": "LLD5140V",
+"moduleTitle": "Ocean Law & Policy in Asia",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "Students who are taking or have taken LLD5140",
+"prerequisite": "NUS Compulsory Core Curriculum or its equivalent",
+"preclusionList": [
+            "LLD5140"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "LLD5140V", 
+            "children": []
+},
+"moduleDescription": "Ocean Law & Policy issues are of crucial importance to Singapore and Asia. This course will examine the evolving global legal regime governing the oceans by examining current issues in Asia. It replaces the course on Ocean Law & Policy, which does not have a specific regional focus. This course is also on the list of modules available in the specialized LLM in Asian Law.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "LAW",
+"department": "LAW",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

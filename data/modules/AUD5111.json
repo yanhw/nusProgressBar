@@ -1,0 +1,46 @@
+{
+"moduleCode": "AUD5111",
+"moduleTitle": "Hearing Devices & Rehabilitation A - Part 2",
+"moduleCredit": "3",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "AUD5101: Acoustic AUD5104: Perception of Sound and Speech AUD5105: Hearing Devices & Rehabilitation A - Part 1",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " and ": [
+                "AUD5104", 
+                "AUD5105"
+            ]
+},
+"prerequisiteList": ["AUD5104","AUD5105"],
+"completePrerequisite": {
+            "name": "AUD5111", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "AUD5104", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "AUD5105", 
+                            "children": [
+                                {
+                                    "name": "AUD5104", 
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This course introduces students to the design principles of various types of implantable devices (e.g. cochlear implant, middle-ear implant). All aspects of the clinical application of these implantable devices including audiological evaluation, medical issues, counselling, programming of devices and outcome measures are covered.",
+"crossModule": "-1",
+"corequisite": "AUD5112 Clinical Audiology A - Part 2",
+"faculty": "YONG LOO LIN SCHOOL OF MEDICINE",
+"department": "DIVISION OF GRADUATE MEDICAL STUDIES",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

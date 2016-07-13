@@ -1,0 +1,23 @@
+{
+"moduleCode": "SPH2101",
+"moduleTitle": "Public Health and Epidemiology",
+"moduleCredit": "4",
+"lockedModules":[
+            "SPH3104"
+        ],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "SPH2101", 
+            "children": []
+},
+"moduleDescription": "Epidemiology is the study of the patterns, causes, and effects of health and disease conditions in defined human populations. It is the cornerstone of public health, with potential impact on both personal decisions about our lives, and also public policy decisions. Epidemiology is relevant for the prevention of human diseases to modern systems science with inputs from many disciplines, like biology, physiology, computer science, engineering and social science. This module uses a lecture plus case-study based approach to introduce fundamental concepts of epidemiology, such as disease frequency, association, causation, confounding, bias, screening and surveillance.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "SAW SWEE HOCK SCHOOL OF PUBLIC HEALTH",
+"department": "SAW SWEE HOCK SCHOOL OF PUBLIC HEALTH",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

@@ -1,0 +1,38 @@
+{
+"moduleCode": "LSM1101",
+"moduleTitle": "Biochemistry of Biomolecules",
+"moduleCredit": "4",
+"lockedModules":[
+            "LSM2103",
+            "FST2201",
+            "LSM3243",
+            "LSM2289",
+            "LSM2101",
+            "LSM3264",
+            "CM4227",
+            "BN3402",
+            "BN3301",
+            "FST2106",
+            "LSM2288",
+            "LSM2291",
+            "LSM2241",
+            "CS2220"
+        ],
+"preclusion": "LSM1401",
+"prerequisite": "GCE \u2018A\u2019 Level or H2 Biology or equivalent, or LSM1301 or LSM1301FC or LSM1301X",
+"preclusionList": [
+            "LSM1401"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "LSM1101", 
+            "children": []
+},
+"moduleDescription": "This module provides an overview of pH and buffers, and the physical-chemical basis of biological molecules: nucleic acids, proteins, carbohydrates and lipids; their structure-function relationships. Enzymes, enzyme kinetics and applications of enzymes, heme biosynthesis and metabolism will also be covered.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "YONG LOO LIN SCHOOL OF MEDICINE",
+"department": "BIOCHEMISTRY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

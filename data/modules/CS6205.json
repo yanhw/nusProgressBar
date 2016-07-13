@@ -1,0 +1,41 @@
+{
+"moduleCode": "CS6205",
+"moduleTitle": "Advanced Modelling & Simulation",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "CS3232 or CS4237",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " or ": [
+                "CS3232", 
+                "CS4237"
+            ]
+},
+"prerequisiteList": ["CS3232","CS4237"],
+"completePrerequisite": {
+            "name": "CS6205", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "CS3232", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "CS4237", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "The aim of this course is to provide students with the ability to model, simulate and analyse complex systems in a reasonable time. This course is divided into three parts and covers advanced techniques in simulation model design, model execution, and model analysis. A selection of model design techniques such as conceptual models, declarative models, functional models, constraint models, and multi-models will be discussed. Model execution techniques include discussion of serial and parallel discrete-event simulation algorithms. For model analysis, topics include input-output analysis, variance reduction techniques and experimental design.",
+"crossModule": "-1",
+"corequisite": "Nil",
+"faculty": "SCHOOL OF COMPUTING",
+"department": "COMPUTER SCIENCE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

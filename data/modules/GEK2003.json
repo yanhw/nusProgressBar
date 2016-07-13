@@ -1,0 +1,30 @@
+{
+"moduleCode": "GEK2003",
+"moduleTitle": "Government and Politics of Singapore",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "PS1102, GEM2003K, SS2209PS, PS2101B, SSA2209, PS2101, PS2249. Not for students majoring in PS.",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "PS1102",
+            "PS2101B",
+            "PS2101",
+            "PS2249",
+            "SSA2209",
+            "SS2209P",
+            "GEM2003K"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "GEK2003", 
+            "children": []
+},
+"moduleDescription": "This course examines a number of areas in Singapore's domestic politics with the following objectives: identify the key determinants of Singapore's politics; understand the key structural-functional aspects of Singapore's domestic politics; examine the extent to which nation building has taken place in Singapore; and analyse the key challenges facing Singapore and its future as far as domestic politics is concerned. The course examines both the structural-functional aspects of domestic politics as well as issues related to nation building, state-society relations and the likely nature of future developments and challenges.",
+        "CrossModule": "PS2249", 
+"corequisite": "NIL",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "POLITICAL SCIENCE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

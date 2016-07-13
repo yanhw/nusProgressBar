@@ -1,0 +1,24 @@
+{
+"moduleCode": "EC5332R",
+"moduleTitle": "Money & Banking",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "EC5208",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "EC5208"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "EC5332R", 
+            "children": []
+},
+"moduleDescription": "Money & Banking",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "ECONOMICS",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

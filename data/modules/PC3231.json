@@ -1,0 +1,101 @@
+{
+"moduleCode": "PC3231",
+"moduleTitle": "Electricity & Magnetism II",
+"moduleCredit": "4",
+"lockedModules":[
+            "PC4242",
+            "PC4262"
+        ],
+"preclusion": "Students who have passed ESP2104 are not allowed to take PC3231.",
+"prerequisite": "PC2131",
+"preclusionList": [
+            "ESP2104"
+        ],
+"parsedPrerequisite": {
+" and ": ["PC2131"]
+},
+"prerequisiteList": ["PC2131","PC1143","PC1432","MA1505","MA1506","MA1102R","MA1521","MA1101R"],
+"completePrerequisite": {
+            "name": "PC3231", 
+            "children": [
+                {
+                    "name": "PC2131", 
+                    "children": [
+                        {
+                            "name": "and", 
+                            "children": [
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "PC1143", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "PC1432", 
+                                            "children": []
+                                        }
+                                    ]
+                                }, 
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "and", 
+                                            "children": [
+                                                {
+                                                    "name": "MA1505", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MA1506", 
+                                                    "children": [
+                                                        {
+                                                            "name": "or", 
+                                                            "children": [
+                                                                {
+                                                                    "name": "MA1102R", 
+                                                                    "children": []
+                                                                }, 
+                                                                {
+                                                                    "name": "MA1505", 
+                                                                    "children": []
+                                                                }, 
+                                                                {
+                                                                    "name": "MA1521", 
+                                                                    "children": []
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "and", 
+                                            "children": [
+                                                {
+                                                    "name": "MA1101R", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MA1102R", 
+                                                    "children": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This is the sequel to PC2131 Electricity and Magnetism 1, leading to the objective of understanding classical electrodynamics. Most of the examples presented require a certain degree of mathematical manipulation, as compared to a first course in electricity and magnetism. The introduction consists of a revision of the laws of electric and magnetic fields in vacuo and multipole expansion. The properties of fields in dielectric and magnetic materials are discussed in some detail. Following a review of magnetic induction, the formulation of Maxwell's equations is presented. Some important implications are discussed, together with applications of Maxwell's equations to boundary value problems and waveguides. Electromagnetic waves and retarded potentials are introduced, and illustrated with dipolar radiating systems. The course stops short of the relativistic treatment of electrodynamics.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "SCIENCE",
+"department": "PHYSICS",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

@@ -1,0 +1,29 @@
+{
+"moduleCode": "EE5508",
+"moduleTitle": "Semiconductor Fundamentals",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "(Undergraduate physics and mathematics AND Electronics materials courses) OR EE2004: Semiconductor Devices OR EE3406: Microelectronic Materials OR EE3431C: Microelectronics Materials & Devices",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["EE3431C"]
+},
+"prerequisiteList": ["EE3431C"],
+"completePrerequisite": {
+            "name": "EE5508", 
+            "children": [
+                {
+                    "name": "EE3431C", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "This module provides background knowledge of physics of electrical and optical properties of bulk and low dimensional semiconductor materials. The topics covered are as follows: Quantum mechanics: Schrodinger equation, particle in a box, tunneling effect, harmonic oscillator, time- independent perturbation theory. Solid state physics: crystal lattices, band theory, lattice vibration, the Fermi-Dirac distribution function and Fermi level, donor and acceptor states and carrier concentrations. Electrical properties of semiconductors, drift, diffusion, generation, recombination, trapping and tunneling. Optical properties of semiconductors, optical constants, optical absorption, radiative transition and luminescence, exciton effect, etc. Ternary and quaternary compound semiconductors, heterostructures, quantum wells and superlattices, quantum effect devices.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "ELECTRICAL & COMPUTER ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

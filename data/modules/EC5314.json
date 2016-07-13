@@ -1,0 +1,61 @@
+{
+"moduleCode": "EC5314",
+"moduleTitle": "Time Series Analysis",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "EC5214",
+"prerequisite": "EC5154/EC5103",
+"preclusionList": [
+            "EC5214"
+        ],
+"parsedPrerequisite": {
+            " or ": [
+                "EC5154", 
+                "EC5103"
+            ]
+},
+"prerequisiteList": ["EC5154","EC5103","EC5253","EC5304","ECA5103"],
+"completePrerequisite": {
+            "name": "EC5314", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "EC5154", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "EC5103", 
+                            "children": [
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "EC5253", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "EC5304", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "ECA5103", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "The main objective of this course is to provide a rigorous training in univariate and multivariate time series analysis. Univariate techniques are mainly used for forecasting and multivariate techniques are used for both forecasting and policy analyses. Starting with simple ARMA and GARCH models the course moves on to more advanced topics involving non-stationary multivariate processes. Students will learn to use Monte Carlo techniques as well as a lot of practical applications.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "ECONOMICS",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

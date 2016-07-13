@@ -1,0 +1,25 @@
+{
+"moduleCode": "SE5233",
+"moduleTitle": "Economies of Southeast Asia",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "IZ5103, SE6233",
+"prerequisite": "For SE Honours students with a minimum CAP of 3.20",
+"preclusionList": [
+            "SE6233",
+            "IZ5103"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "SE5233", 
+            "children": []
+},
+"moduleDescription": "This module reviews the economic development experiences of Southeast Asian economies in the post-second World War years in order to provide a broad picture of the transformation that have characterised these economies from low-income to medium- and high-income levels, and from agricultural, agrarian-based societies to manufacturing- and/or services-oriented economies. This module focuses on three aspects; namely, (a) the growth and development of Southeast Asian economies including their determinants, (b) an analysis of the different models of development including their relevance to Southeast Asian economies, with special attention paid to the importance of policy reforms, and (c) the various economic crises that have affected the Southeast Asian economies including their causes, consequences, policy responses and implications.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "SOUTHEAST ASIAN STUDIES",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

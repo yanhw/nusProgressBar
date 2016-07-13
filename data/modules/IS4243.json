@@ -1,0 +1,57 @@
+{
+"moduleCode": "IS4243",
+"moduleTitle": "Information Systems Consulting",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "CS4253",
+"prerequisite": "Pass 80 MCs and [CS2250 or (IS1103 and IS1105)]",
+"preclusionList": [
+            "CS4253"
+        ],
+"parsedPrerequisite": {
+            " or ": [
+                "CS2250", 
+                {
+                    " and ": [
+                        "IS1103", 
+                        "IS1105"
+                    ]
+                }
+            ]
+},
+"prerequisiteList": ["CS2250","IS1103","IS1105"],
+"completePrerequisite": {
+            "name": "IS4243", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "CS2250", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "and", 
+                            "children": [
+                                {
+                                    "name": "IS1103", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "IS1105", 
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "The aims and objectives are: (1) to provide an overview of Information Systems (IS) consulting and to develop a more specific understanding of the practice; (2) to provide students with the knowledge of management and IS consulting practices; and (3) to give students the opportunity to be involved in a field consulting project.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF COMPUTING",
+"department": "INFORMATION SYSTEMS",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

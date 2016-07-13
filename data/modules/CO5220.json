@@ -1,0 +1,29 @@
+{
+"moduleCode": "CO5220",
+"moduleTitle": "Design, Conduct And Analysis Of Clinical Trials",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "CO5102 Principles of Epidemiology CO5103 Quantitative Epidemiologic Methods",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["CO5103"]
+},
+"prerequisiteList": ["CO5103"],
+"completePrerequisite": {
+            "name": "CO5220", 
+            "children": [
+                {
+                    "name": "CO5103", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "In this module, issues in clinical trials, including blinding randomisation, sample size, power, ethical, regulatory, and quality-of-life issues will be addressed. Interim and sequential analyses, analysis of multiple treatments and endpoints, stratification and subgroup analyses, as well as meta-analysis of randomized controlled trials will also be discussed. Although particular emphasis is given to the evaluation of treatment in Phase III clinical trials, early phase trials studies will also be covered.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "SAW SWEE HOCK SCHOOL OF PUBLIC HEALTH",
+"department": "SAW SWEE HOCK SCHOOL OF PUBLIC HEALTH",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

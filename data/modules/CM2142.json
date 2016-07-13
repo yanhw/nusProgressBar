@@ -1,0 +1,50 @@
+{
+"moduleCode": "CM2142",
+"moduleTitle": "Analytical Chemistry 1",
+"moduleCredit": "4",
+"lockedModules":[
+            "CM3242",
+            "CM3261",
+            "CM3292",
+            "CM3295"
+        ],
+"preclusion": "NIL",
+"prerequisite": "CM1131 or FST1101 or CM1401 by department approval",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " or ": [
+                "CM1131", 
+                "FST1101", 
+                "CM1401"
+            ]
+},
+"prerequisiteList": ["CM1131","FST1101","CM1401"],
+"completePrerequisite": {
+            "name": "CM2142", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "CM1131", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "FST1101", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "CM1401", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "Introduction to data treatment and analysis; discussion on sample treatment and extraction, and sample preparation techniques, separation science, electrochemistry. Topics covered will be selected from: liquid extraction and solid phase extraction, some novel extraction technologies; comparison of traditional and modern extraction procedures; introduction to chromatography, with special emphasis on planar chromatography; introduction to electroanalytical methods.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "SCIENCE",
+"department": "CHEMISTRY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

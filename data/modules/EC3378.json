@@ -1,0 +1,55 @@
+{
+"moduleCode": "EC3378",
+"moduleTitle": "Emerging India in Asia's Economic Integration",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "EC2102",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["EC2102"]
+},
+"prerequisiteList": ["EC2102","EC1101E","EC1301","USE2301","BSP1005","BH2001"],
+"completePrerequisite": {
+            "name": "EC3378", 
+            "children": [
+                {
+                    "name": "EC2102", 
+                    "children": [
+                        {
+                            "name": "or", 
+                            "children": [
+                                {
+                                    "name": "EC1101E", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "EC1301", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "USE2301", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "BSP1005", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "BH2001", 
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "India is one of Asia\u2019s most important economies and amongst the largest in the world. However, India\u2019s, and South Asia\u2019s trade/investment integration with the rest of Asia remains limited. With business-friendly government firmly in power in India, the module will focus on applied aspects of the macroeconomic fundamentals, and growth strategies in India and South Asian economies, and their cross-border thematic issues with policy relevance (e.g. demographic dividend, overcoming poverty, income inequality, knowledge economy, R&D/innovation, environmental challenges, governance issues, etc). The module will also deal with the ongoing and planned intra-regional, and interregional cooperation measures (eg. SAARC, SAFTA, SASEC, ASEAN, RCEP, GMS, BRICS\u2019 NDB, etc).",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "ECONOMICS",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

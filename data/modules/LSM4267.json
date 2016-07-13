@@ -1,0 +1,39 @@
+{
+"moduleCode": "LSM4267",
+"moduleTitle": "Animal Communications & Sensory Ecology",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "LSM3267 Behavioural Biology",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["LSM3267"]
+},
+"prerequisiteList": ["LSM3267","LSM2251","LSM1103"],
+"completePrerequisite": {
+            "name": "LSM4267", 
+            "children": [
+                {
+                    "name": "LSM3267", 
+                    "children": [
+                        {
+                            "name": "LSM2251", 
+                            "children": [
+                                {
+                                    "name": "LSM1103", 
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "Animals rely on various sensory systems to detect environmental information (i.e. light, sound, odours, and heat). Although organisms rely on stimulus modalities for communication, we often fail to detect and understand their biological functions due to our limited sensitivity range (e.g. ultraviolet, ultra-infrasound) and the lack of specialized receptors (e.g. electro- and magnetoreception). This module will introduce: (i) the array of signals and (ii) the relevant technologies/methodologies involved in accurate detection, quantification/characterisation of animal/plant signals, (iii) formulating of hypotheses in animal-animal and animal-plant communications from interdisciplinary sciences (e.g. behaviour, conservation, optics), and (iv) relevant industrial applications (e.g. agriculture, disease vectors, pest management).",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCIENCE",
+"department": "BIOLOGICAL SCIENCES",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

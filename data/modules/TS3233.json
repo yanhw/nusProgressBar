@@ -1,0 +1,41 @@
+{
+"moduleCode": "TS3233",
+"moduleTitle": "Southeast Asian Performance",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "TS1101E or GEM1003",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " or ": [
+                "TS1101E", 
+                "GEM1003"
+            ]
+},
+"prerequisiteList": ["TS1101E","GEM1003"],
+"completePrerequisite": {
+            "name": "TS3233", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "TS1101E", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "GEM1003", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module explores the rich sources of ritual theatre, dance drama, script plays, and puppetry of Southeast Asia. Some of them as living theatre are only available in the region. The performative heritage of shamanism and exorcism will be examined against the phenomena of trance and human sacrifice. The impact of the Southeast Asia performance on the Western avant-garde theatre will be studied. Key subsidiary issues such as authenticity, cultural appropriation will be considered as well. Independent study of primary material is required. Students of theatre studies, sociology, and history may find this module useful.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "ENGLISH LANGUAGE & LITERATURE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

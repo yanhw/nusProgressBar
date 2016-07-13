@@ -1,0 +1,22 @@
+{
+"moduleCode": "PC5214",
+"moduleTitle": "Principles Of Experimental Physics",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "A basic background in optics is recommended",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "PC5214", 
+            "children": []
+},
+"moduleDescription": "This module provides experimental knowledge on techniques used in modern optical and atomic physics. The focus is on practical implementation of optical measurement methods, and the corresponding technology. Areas covered are practical photodetection, lock-in signal recovery, simple feedback systems, FPI cavities, optical thin films, basic vacuum systems, manipulation of cold atoms, and aspects of working at low temperatures (below 77K). The module will have a strong focus in practical techniques, targeting students who intend to work in the area of atomic, molecular, ion and optical or cryogenic physics.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "-1",
+"department": "-1",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,]]
+}

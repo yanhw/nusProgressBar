@@ -1,0 +1,25 @@
+{
+"moduleCode": "YCC1113",
+"moduleTitle": "Philosophy and Political Thought 1",
+"moduleCredit": "5",
+"lockedModules":[
+            "YSS2208",
+            "YHU3224",
+            "YCC1114"
+        ],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "YCC1113", 
+            "children": []
+},
+"moduleDescription": "This is the first module of a two semester sequence exploring philosophy and political thought. Texts and ideas from many times and many cultures around the world will be explored. Special attention is given to developing skills of oral and written expression.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "YALE-NUS COLLEGE",
+"department": "YALE-NUS COLLEGE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

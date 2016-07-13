@@ -1,0 +1,43 @@
+{
+"moduleCode": "EE4431",
+"moduleTitle": "Nano-Device Engineering",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "EE4413 Low Dimensional Electronic Devices",
+"prerequisite": "Either EE3431C Microelectronics Materials & Devices or EE3406 Microelectronics Materials",
+"preclusionList": [
+            "EE4413"
+        ],
+"parsedPrerequisite": {
+            " or ": [
+                "EE3431C", 
+                "EE3406"
+            ]
+},
+"prerequisiteList": ["EE3431C","EE3406"],
+"completePrerequisite": {
+            "name": "EE4431", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "EE3431C", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "EE3406", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "As devices scale down, quantum effects become important when their size reaches the nanometer regime (typically 100 nanometers or less). Devices with nanometer features, i.e., nano-devices, exhibit properties different from conventional bulk devices. The making of nanodevices, e.g., single electron transistor, carbon nanotube/ graphene transistor, spintronic devices, quantum well/dot laser, has been made possible by the emergence of the nano-processing and characterization tools. This module aims to provide an introductory coverage on the concepts and principles that form the basis for understanding an interdisciplinary field with an emphasis on electrical engineering. Topics covered include nano-lithography, nano-layering, nano-characterization, and nano-devices.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "ELECTRICAL & COMPUTER ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

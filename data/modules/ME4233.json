@@ -1,0 +1,52 @@
+{
+"moduleCode": "ME4233",
+"moduleTitle": "Computational Methods In Fluid Mechanics",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "ME2135",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["ME2135"]
+},
+"prerequisiteList": ["ME2135","ME2134","PC1431","PC1431F","PC1431X"],
+"completePrerequisite": {
+            "name": "ME4233", 
+            "children": [
+                {
+                    "name": "ME2135", 
+                    "children": [
+                        {
+                            "name": "ME2134", 
+                            "children": [
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "PC1431", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "PC1431F", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "PC1431X", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module introduces students to the application of numerical methods for solving incompressible fluid flow and convective heat transfer problems. Students will acquire an understanding of the basic principles of fluid flow simulation, a working knowledge of numerical implementation and an appreciation of the power of computational methods. Major topics covered are: Basic theory of numerical discretisation; Classification of equations; Solution methods for parabolic and elliptic equations in Streamfunction and Vorticity and Primitive Variable formulations of Navier-Stokes and Energy equations, Conservation form; Finite-volume discretisation and SIMPLE/R procedures; Marker & Cell procedures. This module is designed for students who have an interest in the use of computer-based methods for solving engineering problem in general and in particular fluid flow problems. The module is highly recommended for students whose final-year project involves computing fluid flow or convective heat transfer, or who intend to do graduate research in computation.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "MECHANICAL ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

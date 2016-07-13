@@ -1,0 +1,71 @@
+{
+"moduleCode": "CM4227",
+"moduleTitle": "Chemical Biology",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "LSM4233",
+"prerequisite": "CM1121 or CM1401 and LSM1101 or LSM1401",
+"preclusionList": [
+            "LSM4233"
+        ],
+"parsedPrerequisite": {
+            " and ": [
+                {
+                    " or ": [
+                        "CM1121", 
+                        "CM1401"
+                    ]
+                }, 
+                {
+                    " or ": [
+                        "LSM1101", 
+                        "LSM1401"
+                    ]
+                }
+            ]
+},
+"prerequisiteList": ["CM1121","CM1401","LSM1101","LSM1401"],
+"completePrerequisite": {
+            "name": "CM4227", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "or", 
+                            "children": [
+                                {
+                                    "name": "CM1121", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "CM1401", 
+                                    "children": []
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "or", 
+                            "children": [
+                                {
+                                    "name": "LSM1101", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "LSM1401", 
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module provides an overall view on an emerging new discipline that blends chemistry with many fields of biology to unravel the complexities of life at the interface of chemistry and biology. This course illustrates how biological processes are explained in chemical terms. The key objective is to highlight the basic principles of chemical biology to show its important linkages to life sciences.",
+"crossModule": "-1",
+"corequisite": "Nil",
+"faculty": "SCIENCE",
+"department": "CHEMISTRY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

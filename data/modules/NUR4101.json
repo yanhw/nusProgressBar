@@ -1,0 +1,29 @@
+{
+"moduleCode": "NUR4101",
+"moduleTitle": "Evidence-based Health Care Practice",
+"moduleCredit": "8",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "NUR3109",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["NUR3109"]
+},
+"prerequisiteList": ["NUR3109"],
+"completePrerequisite": {
+            "name": "NUR4101", 
+            "children": [
+                {
+                    "name": "NUR3109", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "This module provides students with the knowledge and skills on how to change their practice based on up-to-date evidence-based practice. It will also challenge students to critically appraise the literature to provide the information needed to answer specific clinical questions. Major topics covered include qualitative and quantitative systematic review processes, models of evidence-based implementation, barriers to implementation and strategies to overcome these barriers.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "YONG LOO LIN SCHOOL OF MEDICINE",
+"department": "NURSING/ALICE LEE CTR FOR NURSING STUD",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

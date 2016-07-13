@@ -1,0 +1,22 @@
+{
+"moduleCode": "LL6044V",
+"moduleTitle": "Mediation",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "Not open to students who have successfully completed Mediation.",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "LL6044V", 
+            "children": []
+},
+"moduleDescription": "This course is a skills-based workshop and is designed to assist participants in learning about and attaining a basic level of competency as a mediator and mediation advocate. Topics covered include: Interest-based mediation vs Positions-based mediation; The Mediation Process; Opening Statements; Co-Mediation; Preparing a client for mediation; and Mediation advocacy. This workshop is targeted at self-motivated Year 3 & 4 students interested in learning and developing interpersonal and conflict resolution skills.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "LAW",
+"department": "LAW",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

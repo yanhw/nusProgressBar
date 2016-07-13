@@ -1,0 +1,121 @@
+{
+"moduleCode": "CN4122E",
+"moduleTitle": "Process Synthesis and Simulation",
+"moduleCredit": "3",
+"lockedModules":[
+            "CN4123E"
+        ],
+"preclusion": "NIL",
+"prerequisite": "CN2116E Chemical Kinetics and Reactor Design CN2121E Chemical Engineering Thermodynamics CN3124E Particle Technology CN3132E Separation Processes",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " and ": [
+                "CN3124E", 
+                "CN3132E"
+            ]
+},
+"prerequisiteList": ["CN3124E","TC2112","CN2122E","TC1402","TC2401","CN3132E","CN1111E","CN2121E","CN2125E"],
+"completePrerequisite": {
+            "name": "CN4122E", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "CN3124E", 
+                            "children": [
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "TC2112", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "CN2122E", 
+                                            "children": [
+                                                {
+                                                    "name": "or", 
+                                                    "children": [
+                                                        {
+                                                            "name": "TC1402", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "TC2401", 
+                                                            "children": []
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "CN3132E", 
+                            "children": [
+                                {
+                                    "name": "and", 
+                                    "children": [
+                                        {
+                                            "name": "CN1111E", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "CN2121E", 
+                                            "children": [
+                                                {
+                                                    "name": "CN1111E", 
+                                                    "children": []
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "CN2125E", 
+                                            "children": [
+                                                {
+                                                    "name": "or", 
+                                                    "children": [
+                                                        {
+                                                            "name": "TC2112", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "CN2122E", 
+                                                            "children": [
+                                                                {
+                                                                    "name": "or", 
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "TC1402", 
+                                                                            "children": []
+                                                                        }, 
+                                                                        {
+                                                                            "name": "TC2401", 
+                                                                            "children": []
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module aims to provide fundamentals and methods of of process synthesis and simulation, which are required for design of chemical processes/plants. Students learn a heuristic method for process development, simulation strategies, main steps in process design and rigorous process simulation using a commercial simulator through both lectures and many hands-on exercises. They will also learn detailed mechanical design of process equipment, cost estimation and profitability analysis of chemical processes.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "BACHELOR OF TECHNOLOGY PROGRAMME",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

@@ -1,0 +1,58 @@
+{
+"moduleCode": "EE4302",
+"moduleTitle": "Advanced Control Systems",
+"moduleCredit": "4",
+"lockedModules":[
+            "ME5401"
+        ],
+"preclusion": "NIL",
+"prerequisite": "EE3331C",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["EE3331C"]
+},
+"prerequisiteList": ["EE3331C","EE2023","MA1506","MA1102R","MA1505","MA1521"],
+"completePrerequisite": {
+            "name": "EE4302", 
+            "children": [
+                {
+                    "name": "EE3331C", 
+                    "children": [
+                        {
+                            "name": "EE2023", 
+                            "children": [
+                                {
+                                    "name": "MA1506", 
+                                    "children": [
+                                        {
+                                            "name": "or", 
+                                            "children": [
+                                                {
+                                                    "name": "MA1102R", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MA1505", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MA1521", 
+                                                    "children": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module provides the foundation for a more advanced level control systems course. Topics include system description, controllability, observability, selection of pole locations for good design, observer design, full-order and reduced-order observers, combined control law and observer. It is also a first course in nonlinear systems and control. Topics include non-linearities in control systems, use of root-locus in analysis of non-linear systems, describing function and its use in analysis and design of control systems, non-linear ordinary differential equations, singular points, and phase-plane analysis.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "ELECTRICAL & COMPUTER ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,3,0,]]
+}

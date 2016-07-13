@@ -1,0 +1,24 @@
+{
+"moduleCode": "AUD5107",
+"moduleTitle": "Paediatric Audiology A - Part 1",
+"moduleCredit": "3",
+"lockedModules":[
+            "AUD5113",
+            "AUD5114"
+        ],
+"preclusion": "NIL",
+"prerequisite": "Pre-requisites: NIL Module 1: Acoustics Module 2: Anatomy and Physiology Module 3: Pathologies of the Auditory System Module 4: Perception of Sound and Speech",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "AUD5107", 
+            "children": []
+},
+"moduleDescription": "This module provides an introduction to the normal auditory, speech and language, social and physical development of infants and young children. This module also describes the risk factors for hearing loss in children including neonatology, genetics and illnesses, as well as methods of assessing young children\u2019s hearing. This module is delivered through lecture and clinical observation in a real clinical environment (NUH). Students will have guided and structured observation of experienced Audiologists conducting behavioural hearing assessment in young children.",
+"crossModule": "-1",
+"corequisite": "Module 5: Clinical Audiology A (Part 1)",
+"faculty": "YONG LOO LIN SCHOOL OF MEDICINE",
+"department": "DIVISION OF GRADUATE MEDICAL STUDIES",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

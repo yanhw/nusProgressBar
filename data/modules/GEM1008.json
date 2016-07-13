@@ -1,0 +1,24 @@
+{
+"moduleCode": "GEM1008",
+"moduleTitle": "Evaluating Academic Arguments",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "GET1005",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "GET1005"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "GEM1008", 
+            "children": []
+},
+"moduleDescription": "This module introduces students to some basic concepts in informal logic to help them apply these arguments in academic writing so that they will be better able to evaluate as well as write critical and logical responses to materials read in various disciplines ranging from the social sciences to engineering and the sciences.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "NON-FACULTY-BASED DEPARTMENTS",
+"department": "CTR FOR ENGLISH LANGUAGE COMMUNICATION",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,0,3,0,]]
+}

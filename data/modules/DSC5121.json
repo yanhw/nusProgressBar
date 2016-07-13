@@ -1,0 +1,22 @@
+{
+"moduleCode": "DSC5121",
+"moduleTitle": "Hands-on with Business Analytics (Supply Chain & Finance)",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "DSC5121", 
+            "children": []
+},
+"moduleDescription": "This course bridges the divide between technical skills and business know-how. Students will engage in a series of business case study discussions, guided group projects, and a final semester project. Applications will cover areas such as real time analytics in supply chain, cross dock selection, inventory flow design, credit scoring, portfolio selection, risk management, asset pricing and implementation of banking regulation. Students practice using real-world tools.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "SCHOOL OF BUSINESS",
+"department": "DECISION SCIENCES",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

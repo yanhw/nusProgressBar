@@ -1,0 +1,42 @@
+{
+"moduleCode": "LAG3203",
+"moduleTitle": "German for Academic Purposes",
+"moduleCredit": "4",
+"lockedModules":[
+            "LAG4201"
+        ],
+"preclusion": "LAG3202 German 4",
+"prerequisite": "Passed LAG3201 or placement test",
+"preclusionList": [
+            "LAG3202"
+        ],
+"parsedPrerequisite": {
+" and ": ["LAG3201"]
+},
+"prerequisiteList": ["LAG3201","LAG2201","LAG1201"],
+"completePrerequisite": {
+            "name": "LAG3203", 
+            "children": [
+                {
+                    "name": "LAG3201", 
+                    "children": [
+                        {
+                            "name": "LAG2201", 
+                            "children": [
+                                {
+                                    "name": "LAG1201", 
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module is specially aimed at teaching students who are interested in studying in a German-speaking country. They will be taught to comprehend longer listening and reading texts on more complex topics of academic interest as well as on aspects of German culture, society and life.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "CENTRE FOR LANGUAGE STUDIES",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

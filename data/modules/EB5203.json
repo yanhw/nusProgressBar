@@ -1,0 +1,29 @@
+{
+"moduleCode": "EB5203",
+"moduleTitle": "Customer Relationship Management",
+"moduleCredit": "3",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "EB5001 Foundations of Business Analytics",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["EB5001"]
+},
+"prerequisiteList": ["EB5001"],
+"completePrerequisite": {
+            "name": "EB5203", 
+            "children": [
+                {
+                    "name": "EB5001", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "Customer Relationship Management (CRM) is a business strategy to reduce cost and increase profitability through a better understanding of customers gained from insights into customer data. This course introduces Online Analytical Processing (OLAP) and data mining techniques to derive insights into the behaviour and value of your customers. Participants will learn how to make quicker and better business decisions using customer profiling and targeting, profitability analysis, customer-personalization, event-monitoring, what-if scenarios, and predictive modelling. This course will incorporate industry best practices and latest trends and feature workshops using CRM software to enhance learning and practice.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "NON-FACULTY-BASED DEPARTMENTS",
+"department": "INSTITUTE OF SYSTEMS SCIENCE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

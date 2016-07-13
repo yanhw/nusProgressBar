@@ -1,0 +1,25 @@
+{
+"moduleCode": "GE2228",
+"moduleTitle": "Weather and Climate",
+"moduleCredit": "4",
+"lockedModules":[
+            "GE3227"
+        ],
+"preclusion": "GE2219",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "GE2219"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "GE2228", 
+            "children": []
+},
+"moduleDescription": "Weather has an immediate effect on all of us and climate is important in human affairs on a global level. This module provides an introduction to the processes underlying the atmospheric environment from local to global scales. It commences with a discussion of atmospheric concepts in a visual and practical manner. Understanding and application of meteorological principles will help to explain environmental phenomena such as clouds and rainfall, tropical storms or global climate change. Given its introductory and nonmathematical nature, this course is appropriate for students from all faculties.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "GEOGRAPHY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

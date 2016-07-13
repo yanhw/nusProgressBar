@@ -1,0 +1,24 @@
+{
+"moduleCode": "ID1106",
+"moduleTitle": "Design Fundamentals 2",
+"moduleCredit": "8",
+"lockedModules":[
+            "ID2105",
+            "ID2106"
+        ],
+"preclusion": "Module not offered to none industrial design students",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "ID1106", 
+            "children": []
+},
+"moduleDescription": "Design Fundamentals 2 reinforce semester 1 through exercises of higher complexity. The students have to deal with more elaborate parameters such as ergonomic factors of one hand-held product. They are also confronted for the first time structural issues and communication procedures. In continuity from fundamental 1 they pursue and refine their analytical approaches of existing products. Students learn the design methods of emotional addressing for products and set fundamentals of the design process which will be further developed during the course.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "SCHOOL OF DESIGN AND ENVIRONMENT",
+"department": "DIVISION OF INDUSTRIAL DESIGN",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

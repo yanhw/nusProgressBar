@@ -1,0 +1,25 @@
+{
+"moduleCode": "MT5900",
+"moduleTitle": "Mot Research Project",
+"moduleCredit": "8",
+"lockedModules":[
+],
+"preclusion": "MT5910 LaunchPad: Experiential Entrepreneurship & SDM5990 SDM Research Project",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "SDM5990",
+            "MT5910"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "MT5900", 
+            "children": []
+},
+"moduleDescription": "This module involves independent research work by students on a relevant topic in MOT. The aim is to promote self-study, critical thinking, independent research and initiative on the student. The student will learn how to plan and implement a research project.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "DIVISION OF ENGINEERING AND TECH MGT",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

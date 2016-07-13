@@ -1,0 +1,108 @@
+{
+"moduleCode": "ME5401",
+"moduleTitle": "Linear Systems",
+"moduleCredit": "4",
+"lockedModules":[
+            "EE5107",
+            "EE5104",
+            "EE5102",
+            "EE6104",
+            "EE6102",
+            "EE5201"
+        ],
+"preclusion": "NIL",
+"prerequisite": "EE4302 or ME4246",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " or ": [
+                "EE4302", 
+                "ME4246"
+            ]
+},
+"prerequisiteList": ["EE4302","EE3331C","EE2023","MA1506","MA1102R","MA1505","MA1521","ME4246","ME2142"],
+"completePrerequisite": {
+            "name": "ME5401", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "EE4302", 
+                            "children": [
+                                {
+                                    "name": "EE3331C", 
+                                    "children": [
+                                        {
+                                            "name": "EE2023", 
+                                            "children": [
+                                                {
+                                                    "name": "MA1506", 
+                                                    "children": [
+                                                        {
+                                                            "name": "or", 
+                                                            "children": [
+                                                                {
+                                                                    "name": "MA1102R", 
+                                                                    "children": []
+                                                                }, 
+                                                                {
+                                                                    "name": "MA1505", 
+                                                                    "children": []
+                                                                }, 
+                                                                {
+                                                                    "name": "MA1521", 
+                                                                    "children": []
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "ME4246", 
+                            "children": [
+                                {
+                                    "name": "ME2142", 
+                                    "children": [
+                                        {
+                                            "name": "MA1506", 
+                                            "children": [
+                                                {
+                                                    "name": "or", 
+                                                    "children": [
+                                                        {
+                                                            "name": "MA1102R", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "MA1505", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "MA1521", 
+                                                            "children": []
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "linear system theory is the core of modern control appropaches, such as optimal, robust, adaptive and multi-variable control. This module develops a solid understanding of the fundamentals of linear systems analysis and design using the state space approach. Topics covered include state space representation of systems; solution of state equations; stability analysis using Lyapunov methods; controllability and observability; linear state feedback design; asymptotic observer and compensator design, decoupling and servo control. This module is a must for higher degree students in control engineering, robotics or servo engineering. It is also very useful for those who are interested in signal processing and computer engineering.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "ELECTRICAL & COMPUTER ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

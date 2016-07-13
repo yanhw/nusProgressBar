@@ -1,0 +1,39 @@
+{
+"moduleCode": "YSC3224",
+"moduleTitle": "Statistical Thermodynamics",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "YSC2205 Mathematical Methods for Physical Scientist",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["YSC2205"]
+},
+"prerequisiteList": ["YSC2205","YCC2133","YCC1132"],
+"completePrerequisite": {
+            "name": "YSC3224", 
+            "children": [
+                {
+                    "name": "YSC2205", 
+                    "children": [
+                        {
+                            "name": "YCC2133", 
+                            "children": [
+                                {
+                                    "name": "YCC1132", 
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This is a first course in equilibrium statistical thermodynamics. It begins with examining the concepts of probability, microstates and macrostates in understanding thermal phenomena, linking these to entropy, the Boltzmann factor, ensembles, and the partition function. We apply these concepts to elementary physical and chemical models such as classical and quantum gases, solids, phase transitions, chemical reactions, solute-solvent interactions, polymer structure. Within the Physical Sciences major, it will count toward pathways in biophysics, chemistry, chemical physics, materials science, nanoscience, physics, or related fields.",
+"crossModule": "-1",
+"corequisite": "None",
+"faculty": "YALE-NUS COLLEGE",
+"department": "YALE-NUS COLLEGE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

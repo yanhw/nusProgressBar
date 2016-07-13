@@ -1,0 +1,29 @@
+{
+"moduleCode": "EE5517",
+"moduleTitle": "Optical Engineering",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "EE3431C or equivalent",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["EE3431C"]
+},
+"prerequisiteList": ["EE3431C"],
+"completePrerequisite": {
+            "name": "EE5517", 
+            "children": [
+                {
+                    "name": "EE3431C", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "At the end of this module, the students will gain knowledge of optics and laser basics, and the technologies based on optical and laser engineering. Topics will cover optics and laser basics, semiconductor laser technology, optical system layout and design, optical diagnostics, optical precision engineering, and optical nanofabrication technology.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "ELECTRICAL & COMPUTER ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

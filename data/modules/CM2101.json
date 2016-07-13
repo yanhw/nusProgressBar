@@ -1,0 +1,48 @@
+{
+"moduleCode": "CM2101",
+"moduleTitle": "Physical Chemistry 2",
+"moduleCredit": "4",
+"lockedModules":[
+            "CM4269",
+            "CM3201",
+            "CM3231",
+            "CM3232",
+            "CM4238",
+            "CM3292",
+            "CM3296"
+        ],
+"preclusion": "NIL",
+"prerequisite": "CM1131 or CM1401 or by department approval.",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " or ": [
+                "CM1131", 
+                "CM1401"
+            ]
+},
+"prerequisiteList": ["CM1131","CM1401"],
+"completePrerequisite": {
+            "name": "CM2101", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "CM1131", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "CM1401", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "In this course, the basic ideas and applications of various types of spectroscopy will be taught in a concerted manner, with discussions on some basic applications of these techniques. Topics discussed include microwave spectroscopy, infrared spectroscopy, Raman spectroscopy, electronic spectroscopy, electron and nuclear spin resonance spectroscopy. The fundamental principles such as energy quantization, rigid rotors and harmonic oscillators are discussed, the techniques and instrumentation are studied, and the practical applications are emphasized.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCIENCE",
+"department": "CHEMISTRY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

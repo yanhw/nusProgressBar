@@ -1,0 +1,44 @@
+{
+"moduleCode": "ES2331",
+"moduleTitle": "Communicating Engineering",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "ES1501%, UTown students should not be allowed to bid for the module, ES1601.",
+"prerequisite": "If students are required to take ES1000 (Basic English) and/or ES1102 (English for Academic Purposes), they must complete and pass these modules before taking ES2331.",
+"preclusionList": [
+            "ES1501",
+            "ES1601"
+        ],
+"parsedPrerequisite": {
+            " or ": [
+                "ES1000", 
+                "ES1102"
+            ]
+},
+"prerequisiteList": ["ES1000","ES1102"],
+"completePrerequisite": {
+            "name": "ES2331", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "ES1000", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "ES1102", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This course aims to help students communicate competently and ethically in various communication situations. This will be done through rigorous and critical analyses of communicative texts and events, as well as applications of the principles of effective communication. In the process, the course also helps develop students\u2019 understanding of how their identities and values are shaped in (and are shaping) engineering practice.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "NON-FACULTY-BASED DEPARTMENTS",
+"department": "CTR FOR ENGLISH LANGUAGE COMMUNICATION",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

@@ -1,0 +1,28 @@
+{
+"moduleCode": "PS2204",
+"moduleTitle": "Modern Western Political Thought",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "PS2231, EU2218, PS2201B, PS2218, EU2204",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "PS2231",
+            "PS2201B",
+            "EU2204",
+            "PS2218",
+            "EU2218"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "PS2204", 
+            "children": []
+},
+"moduleDescription": "This module explores major political ideas and concepts from the modern Western tradition. Key political constructs such as power, authority, justice, liberty and democracy are examined in intellectual and historical context. Reading Thomas Hobbes\u2019s Leviathan and John Locke\u2019s Second Treatise on Government, among other influential writings, students will be exposed to the broader themes and ideas that have shaped political life in the West since 1600.",
+        "CrossModule": "EU2204", 
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "POLITICAL SCIENCE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

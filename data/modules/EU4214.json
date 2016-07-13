@@ -1,0 +1,24 @@
+{
+"moduleCode": "EU4214",
+"moduleTitle": "Special Paper in Modern European History",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "HY4212",
+"prerequisite": "Cohort 2011 and before: Completed 80MCs, including 28 MCs in EU/ LA [French/German]/recognised modules, with a minimum CAP of 3.50 or be on the Honours track. Cohort 2012 onwards: Completed 80MCs, including 28 MCs in EU/ LA [French/German]/recognised modules, with a minimum CAP of 3.20 or be on the Honours track.",
+"preclusionList": [
+            "HY4212"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "EU4214", 
+            "children": []
+},
+"moduleDescription": "This module will explore and introduce different themes in Modern European History such as political changes, political leadership, diplomacy and interstate relations.",
+        "CrossModule": "HY4212", 
+"corequisite": "NIL",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "HISTORY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

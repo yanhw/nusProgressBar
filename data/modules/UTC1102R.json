@@ -1,0 +1,24 @@
+{
+"moduleCode": "UTC1102R",
+"moduleTitle": "Junior Seminar: Green Capitalism: A Critical Engagement",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "GEM1902R%",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "GEM1902R"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "UTC1102R", 
+            "children": []
+},
+"moduleDescription": "How do we know how green companies are? How do managers know? This module is about information and knowledge as social phenomena. Nature does not tell us how green companies are; the information that shows us \u2018green capitalism\u2019 as a solution and a reality is constructed by humans. This module is about how environmental managers know and do 'greening', and about the problems of such knowing and doing. The focus is not on engaging in green capitalism, but on engaging with it, critically. More broadly, you will pick up skills for dealing with uncertainty, uncommon ground and contradictions.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "NON-FACULTY-BASED DEPARTMENTS",
+"department": "TEMBUSU COLLEGE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

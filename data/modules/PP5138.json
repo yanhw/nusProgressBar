@@ -1,0 +1,22 @@
+{
+"moduleCode": "PP5138",
+"moduleTitle": "Econometrics for Public Policy Analysis",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "PP5138", 
+            "children": []
+},
+"moduleDescription": "The purpose of this course is to prepare students for becoming both critical consumers and competent producers of quantitative evidence used in the public policy arena. This course provides students with a solid grounding on economic theory and statistical techniques used to analyze public policy. At the end of the course, students will be able to use advanced econometric tools on real world policy problems and draw policy implications. The major topics covered include: inference and hypothesis testing, simple regression analysis, multiple regression analysis, non-linear regression models, binary dependent variable models, program evaluation, panel data analysis, and time series analysis and forecasting.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "LEE KUAN YEW SCHOOL OF PUBLIC POLICY",
+"department": "LEE KUAN YEW SCHOOL OF PUBLIC POLICY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

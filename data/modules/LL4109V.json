@@ -1,0 +1,24 @@
+{
+"moduleCode": "LL4109V",
+"moduleTitle": "International Law & Asia",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "Students who are taking or have taken LL4109.",
+"prerequisite": "NUS Compulsory Core Curriculum or its equivalent.",
+"preclusionList": [
+            "LL4109"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "LL4109V", 
+            "children": []
+},
+"moduleDescription": "How does Asia relate to the international community and international law? The region's rich diversity of states and socieities challenges assumptions of universality and also affects cooperation between states on issues such as human rights violations, environmental harm and the facilitation of freer trade. Yet a sense of reguinalism within East Asia is growing, with new institutions and mechanisms to deal with these and other contemporary challenges in East Asia. The seminar will discuss key issues of law and legal approaches in Asia, such as sovereignty, as well as provide for presentations bt students on research subjects.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "LAW",
+"department": "LAW",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

@@ -1,0 +1,24 @@
+{
+"moduleCode": "XFS4199M",
+"moduleTitle": "Integrated Honours Project",
+"moduleCredit": "15",
+"lockedModules":[
+],
+"preclusion": "MA4199",
+"prerequisite": "Students must be in a double degree programme and must be reading the Bachelor of Science degree as the primary degree. Students must have met the Honours eligibility requirements for specific majors from both Faculties. Students must seek approval from both Faculties to take up this module with an agreement of a common scheme of assessment.",
+"preclusionList": [
+            "MA4199"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "XFS4199M", 
+            "children": []
+},
+"moduleDescription": "This module is created for Bachelor of Science (Honours) students in the student-designed double degree programme who wish to do an integrated honours project between his/her major and a non-science discipline, where the non-Science discipline offers an Honours project of 15MCs, which is of higher MCs than that offered by his/her major.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCIENCE",
+"department": "MATHEMATICS",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

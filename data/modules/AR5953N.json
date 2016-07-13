@@ -1,0 +1,22 @@
+{
+"moduleCode": "AR5953N",
+"moduleTitle": "Topics In Design Technology - Rapid Prototyping",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "AR5953N", 
+            "children": []
+},
+"moduleDescription": "Rapid Prototyping is commonly used as part of design process to allow architects and engineers the ability to explore design alternatives, test theories, and confirm performance prior to starting construction of a new building. The module provides an opportunity to understand tools and techniques of Rapid Prototyping process in architectural designs with Digital Fabrication technologies. It commences with case studies of how prototypes can advance aesthetical, structural and environmental aspects of architectural design, which are followed by workshop based hands-on exercises on actual prototype making at the Design Fabrication Workshop.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF DESIGN AND ENVIRONMENT",
+"department": "ARCHITECTURE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

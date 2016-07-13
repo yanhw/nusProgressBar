@@ -1,0 +1,22 @@
+{
+"moduleCode": "BMS5404",
+"moduleTitle": "Becoming Future Prepared Global Leaders",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "BMS5404", 
+            "children": []
+},
+"moduleDescription": "We explore some of the latest discoveries in behavioural science that are applicable to leading ourselves and organizations across the globe. Participants apply the research findings to design new ways of leading organizations that will create a sustainable competitive advantage for the business, as well as well-being for its members. Part of the discovery will be about how our own leadership behaviours might shape members of our team. Thus, the key to changing behaviours, norms, and organizational culture is to change our own behaviours so that others can react to them in desired ways.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "SCHOOL OF BUSINESS",
+"department": "DEAN'S OFFICE (BIZ)",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

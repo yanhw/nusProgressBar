@@ -1,0 +1,56 @@
+{
+"moduleCode": "PL3249",
+"moduleTitle": "Memory",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "PL1101E, PL3232 and PL3233",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " and ": [
+                "PL1101E", 
+                "PL3232", 
+                "PL3233"
+            ]
+},
+"prerequisiteList": ["PL1101E","PL3232","PL3233"],
+"completePrerequisite": {
+            "name": "PL3249", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "PL1101E", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "PL3232", 
+                            "children": [
+                                {
+                                    "name": "PL1101E", 
+                                    "children": []
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "PL3233", 
+                            "children": [
+                                {
+                                    "name": "PL1101E", 
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "The course will examine contemporary theories of human memory. Topics range from sensory memory all the way to long-term memory. Evidence for different types of memory systems such as episodic, generic, implicit, and procedural will be discussed. Biological and developmental bases for human memory will also be covered. The course will use these topics to explore the link between research, theory, and data on human memory.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "PSYCHOLOGY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

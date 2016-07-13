@@ -1,0 +1,22 @@
+{
+"moduleCode": "LL4278V",
+"moduleTitle": "Law and Regional Integration",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "NUS Compulsory Core Curriculum or its equivalent",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "LL4278V", 
+            "children": []
+},
+"moduleDescription": "This module has four elements. The first compares the institutional architecture of four regional organisations - ASEAN, the European Union, Mercosur and NAFTA. This will look at their norm setting processes, parliamentary involvement, systems of dispute settlement and arrangement of executive power. The second looks at their legal authority and their relationship with national courts. The third considers how they mediate processes of internal and external processes of trade liberalisation and tensions between these and collective goods. Finally, this module compares their visions of political community through their mediation of questions of democracy, human rights, migration and security.",
+"crossModule": "-1",
+"corequisite": "Public International Law: LL4050; LL5050; LL6050; LC5050 / LL4050V; LL5050V; LL6050V; LC5050V",
+"faculty": "LAW",
+"department": "LAW",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

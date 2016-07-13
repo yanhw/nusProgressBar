@@ -1,0 +1,85 @@
+{
+"moduleCode": "PL5222",
+"moduleTitle": "Multivariate Statistics in Psychology",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "PL4204",
+"prerequisite": "PL2101Y/PL2131 and PL2102Y/PL2132 or consent of Instructor",
+"preclusionList": [
+            "PL4204"
+        ],
+"parsedPrerequisite": {
+            " and ": [
+                {
+                    " or ": [
+                        "PL2101Y", 
+                        "PL2131"
+                    ]
+                }, 
+                {
+                    " or ": [
+                        "PL2102Y", 
+                        "PL2132"
+                    ]
+                }
+            ]
+},
+"prerequisiteList": ["PL2101Y","PL2131","PL2102Y","PL2132","PL1101E"],
+"completePrerequisite": {
+            "name": "PL5222", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "or", 
+                            "children": [
+                                {
+                                    "name": "PL2101Y", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "PL2131", 
+                                    "children": []
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "or", 
+                            "children": [
+                                {
+                                    "name": "PL2102Y", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "PL2132", 
+                                    "children": [
+                                        {
+                                            "name": "and", 
+                                            "children": [
+                                                {
+                                                    "name": "PL1101E", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "PL2131", 
+                                                    "children": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module introduces students to the use of multivariate methods for the analysis of psychological data. Included among the methods to be covered may be canonical correlation, discriminant function analysis, multivariate analysis of variance, exploratory and confirmatory factor analysis, and structural equation modeling. Emphasis will be placed on the development of skills for multivariate data analysis through hands-on analysis and interpretation of datasets.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "PSYCHOLOGY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

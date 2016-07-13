@@ -1,0 +1,34 @@
+{
+"moduleCode": "YHU3214",
+"moduleTitle": "Indian Buddhist Philosophy",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "YCC1114 Philosophy and Political Thought 2 Ability to analyse a section of philosophical text; ability to articulate and evaluate an argument; ability to write a short, clear essay adducing reasons and arguments explaining and defending a philosophical thesis.",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["YCC1114"]
+},
+"prerequisiteList": ["YCC1114","YCC1113"],
+"completePrerequisite": {
+            "name": "YHU3214", 
+            "children": [
+                {
+                    "name": "YCC1114", 
+                    "children": [
+                        {
+                            "name": "YCC1113", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This course investigates central debates in ethics, epistemology and metaphysics within Indian Buddhist thought. It seeks to familiarize students in detail with a single, sophisticated body of thought as that developed over 1,000 years, including debates arising both among Buddhists and between Buddhists and their non-Buddhist critics; to give students conceptual tools and vocabulary for participating in the classical Indian philosophical project; to give students the ability to move between the main areas within philosophy systematically and recognizing the connections between them.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "YALE-NUS COLLEGE",
+"department": "YALE-NUS COLLEGE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

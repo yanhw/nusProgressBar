@@ -1,0 +1,44 @@
+{
+"moduleCode": "CS3282",
+"moduleTitle": "Thematic Systems Project II",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "CS3281 and have passed at least two primary modules in a CS focus area. Student selection process will be enforced.",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["CS3281"]
+},
+"prerequisiteList": ["CS3281","CS2103","CS1020","CS1010"],
+"completePrerequisite": {
+            "name": "CS3282", 
+            "children": [
+                {
+                    "name": "CS3281", 
+                    "children": [
+                        {
+                            "name": "CS2103", 
+                            "children": [
+                                {
+                                    "name": "CS1020", 
+                                    "children": [
+                                        {
+                                            "name": "CS1010", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module is the second part of a two-part series on the development of large-scaled computer systems to solve real-world problems under specific themes such as healthcare, security and surveillance, tourism, etc. Students with complementary technical expertise will form project teams to work on real-world projects under the supervision of CS professors and industrial partners. This second part focuses on the development of algorithms required for the systems, implementation and testing of the algorithms and the systems, and evaluation of the systems according to the users\u2019 requirements.",
+"crossModule": "-1",
+"corequisite": "Nil",
+"faculty": "SCHOOL OF COMPUTING",
+"department": "COMPUTER SCIENCE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

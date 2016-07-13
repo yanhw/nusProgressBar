@@ -1,0 +1,22 @@
+{
+"moduleCode": "YSC1208",
+"moduleTitle": "Dogs as Model Organisms",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "YSC1208", 
+            "children": []
+},
+"moduleDescription": "For more than a century, scientists have used model organisms to address questions in biology. An explosion of recent research has given us the tools to use dogs and other canids as model organisms. In this course we study the genetics and genomics, evolution, ecology, and behaviour of dogs, and use dogs as a \u201cstepping-off\u201d point to examine other topics in the life sciences. As a class we will formulate and address hypotheses using a variety of laboratory and field techniques.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "YALE-NUS COLLEGE",
+"department": "YALE-NUS COLLEGE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

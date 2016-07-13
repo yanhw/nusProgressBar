@@ -1,0 +1,29 @@
+{
+"moduleCode": "LAL2201",
+"moduleTitle": "Tamil 2",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "Passed LAL1201 or placement test",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["LAL1201"]
+},
+"prerequisiteList": ["LAL1201"],
+"completePrerequisite": {
+            "name": "LAL2201", 
+            "children": [
+                {
+                    "name": "LAL1201", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "This module is a follow up to and continuation of the module Tamil 1. By the end of the module, students are expected to have a good grammatical understanding of the Tamil language and to have a vocabulary which makes it possible for them to handle all four aspects in Tamil language learning (speaking, listening, reading and writing) with ease and effectiveness. There will be an introduction to features of idiomatic Tamil and to everyday usages. Students will be able to write short compositions and letters and to read newspaper articles, stories and short poems.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "CENTRE FOR LANGUAGE STUDIES",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

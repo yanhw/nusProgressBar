@@ -1,0 +1,29 @@
+{
+"moduleCode": "YSC2210",
+"moduleTitle": "Statistical Programming",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "YCC1122 Quantitative Reasoning",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["YCC1122"]
+},
+"prerequisiteList": ["YCC1122"],
+"completePrerequisite": {
+            "name": "YSC2210", 
+            "children": [
+                {
+                    "name": "YCC1122", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "This course teaches the statistical programming language R. Students will learn to write their own computer code to solve problems in data analysis, probability and statistics. First we cover the fundamentals of R (data types, functions, flow control, data input/output and management). In the second part, we use R's built-in functions to generate probability distributions, perform descriptive statistics and graphics, and make statistical inferences. The final part of the course will teach how we can write our own programs that simulate random processes in physics, biology and the social sciences with Monte Carlo methods.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "YALE-NUS COLLEGE",
+"department": "YALE-NUS COLLEGE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

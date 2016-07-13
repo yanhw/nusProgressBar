@@ -1,0 +1,23 @@
+{
+"moduleCode": "FST3288",
+"moduleTitle": "Advanced UROPS in Food Science & Technology I",
+"moduleCredit": "4",
+"lockedModules":[
+            "FST3289"
+        ],
+"preclusion": "NIL",
+"prerequisite": "By permission.",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "FST3288", 
+            "children": []
+},
+"moduleDescription": "This module allows students to develop their research skills by working on a supervised project which will be laboratory based. It is a similar module to FST2288 but the topic will require a deeper understanding of food sciences. Students will work independently under close supervision of the supervisor.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCIENCE",
+"department": "CHEMISTRY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,3,4,]]
+}

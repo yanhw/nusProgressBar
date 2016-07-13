@@ -1,0 +1,23 @@
+{
+"moduleCode": "NUR3109",
+"moduleTitle": "Introduction to Research and Evidence-Based Practice",
+"moduleCredit": "4",
+"lockedModules":[
+            "NUR4101"
+        ],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "NUR3109", 
+            "children": []
+},
+"moduleDescription": "The module introduces students to the phases of the research process with a particular emphasis on the critique of published research and the utilisation of research findings in clinical practice.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "YONG LOO LIN SCHOOL OF MEDICINE",
+"department": "NURSING/ALICE LEE CTR FOR NURSING STUD",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

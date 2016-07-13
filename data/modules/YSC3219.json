@@ -1,0 +1,29 @@
+{
+"moduleCode": "YSC3219",
+"moduleTitle": "Theory of Computation",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "YSC1202 Introduction to Computational Thinking and Programming for All (ICTPA), IS CS Module, or an equivalent course.",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["YSC1202"]
+},
+"prerequisiteList": ["YSC1202"],
+"completePrerequisite": {
+            "name": "YSC3219", 
+            "children": [
+                {
+                    "name": "YSC1202", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "Is there an algorithm for telling whether your iTunes update freezes or that it will finish if we wait long enough? Is there an algorithm for telling whether the Android app that we are about to download is a malware? Can we be sure that, if intercepted, our emails cannot be read by unintended recipients? We will follow the path taken by Alan Turing, which will lead to some of the most surprising discoveries in computer science. The course will cover various models of computation (finite automata, grammars, Turing machines) and classic topics in computability/complexity theory (eg, undecidability, NP-completeness).",
+"crossModule": "-1",
+"corequisite": "If you haven’t taken math courses in which you have to do proofs, then YSC2209 Proof is strongly recommended.",
+"faculty": "YALE-NUS COLLEGE",
+"department": "YALE-NUS COLLEGE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

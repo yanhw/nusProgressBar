@@ -1,0 +1,28 @@
+{
+"moduleCode": "PC1143",
+"moduleTitle": "Introduction to Electricity & Magnetism",
+"moduleCredit": "4",
+"lockedModules":[
+            "PC2267",
+            "PC2134",
+            "PC2131"
+        ],
+"preclusion": "Students who have passed PC1432/PC1432X are not allowed to take this module.",
+"prerequisite": "\u2018A' level or H2 pass in Physics or PC1221/PC1221FC/PC1221X & PC1222/PC1222X",
+"preclusionList": [
+            "PC1432",
+            "PC1432X"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "PC1143", 
+            "children": []
+},
+"moduleDescription": "This module covers the fundamentals of electricity and magnetism: electric fields, electric flux and Gauss's law, electric potential; capacitance, dielectrics, current and resistance; DC circuits; magnetic fields, magnetic effect of currents, Ampere's law, electromagnetic induction; AC circuits; magnetism in matter; electromagnetic waves. The module also has a practical component consisting of five experiments designed to enhance students' understanding of some of the concepts discussed in lectures. This module is targeted at science students who wish to acquire a working knowledge in electricity and magnetism, and is an essential for physics majors.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCIENCE",
+"department": "PHYSICS",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

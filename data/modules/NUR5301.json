@@ -1,0 +1,23 @@
+{
+"moduleCode": "NUR5301",
+"moduleTitle": "Advanced Practice Nursing I (Adult Health)",
+"moduleCredit": "6",
+"lockedModules":[
+            "NUR5303"
+        ],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "NUR5301", 
+            "children": []
+},
+"moduleDescription": "This module emphasises on clinical management of patients with altered health status in relation to the cardiovascular, respiratory, and gastroenterology systems. Students will utilise knowledge and skills of pathophysiology, advanced health assessment and pharmacotherapeutics in the clinical management of such patients.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "YONG LOO LIN SCHOOL OF MEDICINE",
+"department": "NURSING/ALICE LEE CTR FOR NURSING STUD",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

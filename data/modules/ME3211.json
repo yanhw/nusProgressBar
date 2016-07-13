@@ -1,0 +1,52 @@
+{
+"moduleCode": "ME3211",
+"moduleTitle": "Mechanics Of Solids",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "ME2114",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["ME2114"]
+},
+"prerequisiteList": ["ME2114","ME2113","EG1109F","EG1109","CE1109X"],
+"completePrerequisite": {
+            "name": "ME3211", 
+            "children": [
+                {
+                    "name": "ME2114", 
+                    "children": [
+                        {
+                            "name": "ME2113", 
+                            "children": [
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "EG1109F", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "EG1109", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "CE1109X", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "The module covers topics on: Linear elasticity in which the general equations of equilibrium and compatibility are derived and its applications are illustrated for complex problems; Unsymmetrical bending of beams; Stresses in pressurized thick-walled cylinders in elastic and elasto-plastic regions; Stresses in rotating members; Introduction to mechanics of composite materials; and Experimental stress analysis with particular emphasis on optical methods. This is an elective module and is intended for students in Stage 3 and 4 who have an interest in the stress analysis of isotropic and composite materials. The materials in this module are applicable to chemical, civil, mechanical and aeronautical engineering.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "MECHANICAL ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

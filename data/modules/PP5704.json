@@ -1,0 +1,22 @@
+{
+"moduleCode": "PP5704",
+"moduleTitle": "Policy Analysis and Programme Evaluation",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "PP5704", 
+            "children": []
+},
+"moduleDescription": "Government officials are frequently confronted with decisions about whether or not to initiate, continue, modify, or terminate policies or programmes, and the skills in policy analysis and programme evaluation are essential for them to make intelligent choices. This module introduces the key concepts and tools in the professional practices of policy analysis and programme evaluation in the public sector. Main topics covered in the module are process of policy analysis, market failures, government failures, information structuring, data collection methods, decision matrices, cost-benefit analysis, and programme evaluation.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "LEE KUAN YEW SCHOOL OF PUBLIC POLICY",
+"department": "LEE KUAN YEW SCHOOL OF PUBLIC POLICY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

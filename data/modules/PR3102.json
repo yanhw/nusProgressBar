@@ -1,0 +1,48 @@
+{
+"moduleCode": "PR3102",
+"moduleTitle": "Dosage Form Design II",
+"moduleCredit": "4",
+"lockedModules":[
+            "PR4206",
+            "PR5217",
+            "PR5219",
+            "PR5218",
+            "PR5301",
+            "PR5302",
+            "PR5303"
+        ],
+"preclusion": "NIL",
+"prerequisite": "PR1102 and PR2105",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " and ": [
+                "PR1102", 
+                "PR2105"
+            ]
+},
+"prerequisiteList": ["PR1102","PR2105"],
+"completePrerequisite": {
+            "name": "PR3102", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "PR1102", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "PR2105", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "Learning Objectives: To understand the various sterilization techniques and their application in the preparation of sterile pharmaceutical products and medical devices. To understand the basic principles of aseptic manufacture of products that cannot be subjected to terminal sterilization. To gain knowledge in the formulation, manufacture and quality control of injections and ophthalmic products. Major topics: Range of materials, products, and objects that are required to be sterile Microbial resistance/sensitivity to sterilization. Sterilization methods: Instrumentation, operation, process controls, advantages, disadvantages and applications. Aseptic manufacture: contamination prevention and controls, facility design, validation and control of aseptic manufacture. Sterility and sterility assurance. Principles of parenteral therapy. Formulation, manufacture, standardisation and presentation of injections and ophthalmic products. Biopharmaceutics of injection products. Target students: Pharmacy Year Three",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCIENCE",
+"department": "PHARMACY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

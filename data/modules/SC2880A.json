@@ -1,0 +1,22 @@
+{
+"moduleCode": "SC2880A",
+"moduleTitle": "Singapore: The Social Experiment",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "SC2880A", 
+            "children": []
+},
+"moduleDescription": "This module serves as a primer on Singapore society, covering its recent history and current issues. Students will get a good sense of what went into the construction of modern Singapore as a nation, an economy, and a home, as well as various policies and processes dealing with \u201cdeficits\u201d, such as low fertility rates, afflicting Singapore. Whenever possible, students will have the opportunity to go on field-trips where they can get an immediate and better feel of the social changes taking place, through meeting the people \u2014 front-line, back office or board room \u2014 who routinely work in keeping Singapore going.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "SOCIOLOGY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,0,0,4,]]
+}

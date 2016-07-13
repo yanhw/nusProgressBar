@@ -1,0 +1,35 @@
+{
+"moduleCode": "EE2023E",
+"moduleTitle": "Signals and Systems",
+"moduleCredit": "4",
+"lockedModules":[
+            "EE3131E",
+            "EE2032E",
+            "EE3331E"
+        ],
+"preclusion": "EE2009E and EE2010E",
+"prerequisite": "TG1401",
+"preclusionList": [
+            "EE2009E",
+            "EE2010E"
+        ],
+"parsedPrerequisite": {
+" and ": ["TG1401"]
+},
+"prerequisiteList": ["TG1401"],
+"completePrerequisite": {
+            "name": "EE2023E", 
+            "children": [
+                {
+                    "name": "TG1401", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "This is a fundamental course in signals and systems. Signals in electrical engineering play an important role in carrying information. Signals going through a system is an inevitable process. It allows engineers to understand the system. Thus in this course the relationship between signals and systems will be taught. The concepts which are important include time and frequency domain representations, Fourier and Laplace transforms, spectrum of a signal, frequency response of systems (Bode diagrams), sampling theorem, linear time invariant systems, convolution, transfer functions, stability of feedback systems, modulation and filters.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "ENGINEERING",
+"department": "BACHELOR OF TECHNOLOGY PROGRAMME",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

@@ -1,0 +1,30 @@
+{
+"moduleCode": "EG2201B",
+"moduleTitle": "Design Thinking in Grand Engineering Challenges - Part 2",
+"moduleCredit": "4",
+"lockedModules":[
+            "EG2202"
+        ],
+"preclusion": "NIL",
+"prerequisite": "EG2201A (Design Thinking in Grand Engineering Challenges \u2013 Part 1)",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["EG2201A"]
+},
+"prerequisiteList": ["EG2201A"],
+"completePrerequisite": {
+            "name": "EG2201B", 
+            "children": [
+                {
+                    "name": "EG2201A", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "The module develops upon students\u2019 previous exposure to the design thinking methodology and continues to foster the fundamentals of design thinking. The desired skills from design thinking, i.e. abilities to observe and listen, think and question, and collaborate, are further enforced through prototyping and testing. Students will be taught in studio and workshop setting and will be expected to spend much time practicing and applying what is learnt.",
+"crossModule": "-1",
+"corequisite": "Nil",
+"faculty": "ENGINEERING",
+"department": "DEAN'S OFFICE (ENGINEERING)",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

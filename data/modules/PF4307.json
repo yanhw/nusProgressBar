@@ -1,0 +1,22 @@
+{
+"moduleCode": "PF4307",
+"moduleTitle": "Event Management",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "PF4307", 
+            "children": []
+},
+"moduleDescription": "This module applies the principles of project and facilities management to the management of events. Topics include the nature and types of events, the event management cycle (inception, event planning, mobilization, execution, and post-event evaluation), and case studies on the management of different types of events.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "SCHOOL OF DESIGN AND ENVIRONMENT",
+"department": "BUILDING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

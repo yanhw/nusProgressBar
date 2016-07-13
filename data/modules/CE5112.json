@@ -1,0 +1,39 @@
+{
+"moduleCode": "CE5112",
+"moduleTitle": "Structural Support Systems for Excavation",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "CE5108 Earth-Retaining Structures, with 1st priority to MSc (Geotechnical) and 2nd priority to MSc (CE) specializing in Geotechnical",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["CE5108"]
+},
+"prerequisiteList": ["CE5108","CE2112","EG1109"],
+"completePrerequisite": {
+            "name": "CE5112", 
+            "children": [
+                {
+                    "name": "CE5108", 
+                    "children": [
+                        {
+                            "name": "CE2112", 
+                            "children": [
+                                {
+                                    "name": "EG1109", 
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "Students will learn the various methods of excavation construction and apply the fundamental knowledge of structural mechanics to design a wide range of earth retaining walls and their support systems. The key focus is to develop the capability to design various types of retaining walls, ground anchorage, walers, struts, kingposts, bracing and connection details. It will also cover the design of working platforms which are often required in deep excavations, as well as methods of jointing and splicing to allow incorporation of instrumentation. The course will cover both steel and reinforced concrete retaining walls, such as sheetpile, soldier piles, timber lagging, contiguous bored piles, diaphragm walls and etc. The course enables students to acquire further knowledge on soil-structure interaction and gain practical skills through the lectures, case studies and design projects.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "CIVIL & ENVIRONMENTAL ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

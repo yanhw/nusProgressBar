@@ -1,0 +1,37 @@
+{
+"moduleCode": "CS1231",
+"moduleTitle": "Discrete Structures",
+"moduleCredit": "4",
+"lockedModules":[
+            "CS2309",
+            "CS5232",
+            "MA2214",
+            "MA2219",
+            "MA2202S",
+            "CS4232",
+            "MA2202",
+            "CS2102R",
+            "CS2102",
+            "CS3243",
+            "CS3230",
+            "CS3234",
+            "MA3205"
+        ],
+"preclusion": "MA1100",
+"prerequisite": "A-level Mathematics or H2 Mathematics or MA1301 or MA1301FC or MA1301X",
+"preclusionList": [
+            "MA1100"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "CS1231", 
+            "children": []
+},
+"moduleDescription": "This module introduces mathematical tools required in the study of computer science. Topics include: (1) Logic and proof techniques: propositions, conditionals, quantifications. (2) Relations and Functions: Equivalence relations and partitions. Partially ordered sets. Well-Ordering Principle. Function equality. Boolean/identity/inverse functions. Bijection. (3) Mathematical formulation of data models (linear model, trees, graphs). (4) Counting and Combinatoric: Pigeonhole Principle. Inclusion-Exclusion Principle. Number of relations on a set, number of injections from one finite set to another, Diagonalisation proof: An infinite countable set has an uncountable power set; Algorithmic proof: An infinite set has a countably infinite subset. Subsets of countable sets are countable.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF COMPUTING",
+"department": "COMPUTER SCIENCE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

@@ -1,0 +1,50 @@
+{
+"moduleCode": "CM4254",
+"moduleTitle": "Chemistry of Semiconductors",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "CM3263",
+"prerequisite": "CM3232",
+"preclusionList": [
+            "CM3263"
+        ],
+"parsedPrerequisite": {
+" and ": ["CM3232"]
+},
+"prerequisiteList": ["CM3232","CM2101","CM1131","CM1401"],
+"completePrerequisite": {
+            "name": "CM4254", 
+            "children": [
+                {
+                    "name": "CM3232", 
+                    "children": [
+                        {
+                            "name": "CM2101", 
+                            "children": [
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "CM1131", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "CM1401", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "An understanding of dimensional dependence of energy levels, Fermi energy, and band gap in crystals form the basis for learning newly developed devices and applications in transistors, solar cells, etc. The principles of device operation and fabrication will be introduced in relation to electrical and structural properties of Silicon, GaAs and the operation of p-n junctions and transistors. Chemistry in the fabrication of integrated circuits from growth of single crystals, photolithography, etching, dielectric deposition to packaging of circuit, and electrochemistry of semiconductors, charge transfer across electrolyte-semiconductor interface, band bending and Mott Schottky analysis will be covered.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCIENCE",
+"department": "CHEMISTRY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

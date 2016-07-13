@@ -1,0 +1,41 @@
+{
+"moduleCode": "TS3234",
+"moduleTitle": "Performance and Popular Culture",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "TS1101E or GEM1003",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " or ": [
+                "TS1101E", 
+                "GEM1003"
+            ]
+},
+"prerequisiteList": ["TS1101E","GEM1003"],
+"completePrerequisite": {
+            "name": "TS3234", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "TS1101E", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "GEM1003", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module provides an introduction to the basic tenets of performance studies (i.e. performance and performativity) and applies them to a study of popular culture in a global arena. Through a variety of texts including plays, television programmes and films, the module teaches how the production and circulation of popular forms can be read as performance: how they are produced or packaged for consumption, how the consumer relates to them and how their success or failure is measured. It will show the pervasiveness and relevance of performativity in everyday societal interactions and the hybirdization of Asian and Euro-American cultures.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "ENGLISH LANGUAGE & LITERATURE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

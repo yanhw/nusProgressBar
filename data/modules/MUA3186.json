@@ -1,0 +1,40 @@
+{
+"moduleCode": "MUA3186",
+"moduleTitle": "Orchestral Repertoire for Harp 3A",
+"moduleCredit": "2",
+"lockedModules":[
+            "MUA3187"
+        ],
+"preclusion": "NIL",
+"prerequisite": "MUA2187 Orchestral Repertoire for Harp 2B",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["MUA2187"]
+},
+"prerequisiteList": ["MUA2187","MUA2186","MUA1107"],
+"completePrerequisite": {
+            "name": "MUA3186", 
+            "children": [
+                {
+                    "name": "MUA2187", 
+                    "children": [
+                        {
+                            "name": "MUA2186", 
+                            "children": [
+                                {
+                                    "name": "MUA1107", 
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "Orchestral Repertoire for Harp is an orchestral repertory class designed to give orchestral playing experience to the Harp majors of YSTCM. In 13 sessions throughout the semester, the class will read and rehearse significant orchestral repertoire for Harp. Repertoire selected in this module will build on and complement repertoire studied in MUA2187. Harp students consolidate and further develop technical, musical, and stylistic skills and knowledge essential to this repertoire\u2019s effective execution. This module focuses more than previous modules on equipping students with professional audition performance techniques and skills.",
+"crossModule": "-1",
+"corequisite": "N/A",
+"faculty": "YONG SIEW TOH CONSERVATORY OF MUSIC",
+"department": "YONG SIEW TOH CONSERVATORY OF MUSIC",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

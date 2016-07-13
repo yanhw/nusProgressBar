@@ -1,0 +1,24 @@
+{
+"moduleCode": "YSS2202",
+"moduleTitle": "Introduction to International Relations",
+"moduleCredit": "5",
+"lockedModules":[
+            "YSS3227",
+            "YSS3225"
+        ],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "YSS2202", 
+            "children": []
+},
+"moduleDescription": "This course introduces students to concepts, theories, and cases associated with the study of international politics. We will study contemporary scholarly texts and examine empirical evidence relating to key historical experiences such as the Cold War, which inform contemporary international relations theories.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "YALE-NUS COLLEGE",
+"department": "YALE-NUS COLLEGE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

@@ -1,0 +1,22 @@
+{
+"moduleCode": "MUA3174",
+"moduleTitle": "Audio Mastering",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "Audio Mixing",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "MUA3174", 
+            "children": []
+},
+"moduleDescription": "Audio mastering is the final creative step in producing recordings for distribution. This module will introduce the aesthetic and technical concepts, issues, and strategies employed in final mastering for pop, rock, jazz, and classical genres. Topics will include frequency balance, stereo and multi-channel imaging, dynamics and overall program level control, signal path for analog and digital mastering, file formats and storage for distribution and replication.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "YONG SIEW TOH CONSERVATORY OF MUSIC",
+"department": "YONG SIEW TOH CONSERVATORY OF MUSIC",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

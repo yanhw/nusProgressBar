@@ -1,0 +1,24 @@
+{
+"moduleCode": "GE5217",
+"moduleTitle": "Research Methods In Environmental Sciences",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "GE6215",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "GE6215"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "GE5217", 
+            "children": []
+},
+"moduleDescription": "This course is intended to provide an introduction to integrative aspects of earth environmental sciences, varying from climatology, geomorphology, hydrology to ecology, at the research level. Environmental systems are studied at several scales and research design is examined within the context of experimental methods in physical geography. The course includes lectures, reading assignments and seminars. Students are expected to participate actively throughout. This course is for all graduate students during the first semester in which they are registered in the department of geography. A formal research proposal for beginning graduate students (MA and PhD level) is expected at the end.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "GEOGRAPHY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

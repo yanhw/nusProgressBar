@@ -1,0 +1,108 @@
+{
+"moduleCode": "CS5218",
+"moduleTitle": "Principles of Program Analysis",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "CS4212 Compiler Design or CS4215 Programming Language Implementation",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " or ": [
+                "CS4212", 
+                "CS4215"
+            ]
+},
+"prerequisiteList": ["CS4212","CS2104","CS1020","CS1010","CS4215","CS2010","CS1020E","CS1010E","CG1103"],
+"completePrerequisite": {
+            "name": "CS5218", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "CS4212", 
+                            "children": [
+                                {
+                                    "name": "CS2104", 
+                                    "children": [
+                                        {
+                                            "name": "CS1020", 
+                                            "children": [
+                                                {
+                                                    "name": "CS1010", 
+                                                    "children": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "CS4215", 
+                            "children": [
+                                {
+                                    "name": "and", 
+                                    "children": [
+                                        {
+                                            "name": "CS2010", 
+                                            "children": [
+                                                {
+                                                    "name": "or", 
+                                                    "children": [
+                                                        {
+                                                            "name": "CS1020", 
+                                                            "children": [
+                                                                {
+                                                                    "name": "CS1010", 
+                                                                    "children": []
+                                                                }
+                                                            ]
+                                                        }, 
+                                                        {
+                                                            "name": "CS1020E", 
+                                                            "children": [
+                                                                {
+                                                                    "name": "CS1010E", 
+                                                                    "children": []
+                                                                }
+                                                            ]
+                                                        }, 
+                                                        {
+                                                            "name": "CG1103", 
+                                                            "children": []
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "CS2104", 
+                                            "children": [
+                                                {
+                                                    "name": "CS1020", 
+                                                    "children": [
+                                                        {
+                                                            "name": "CS1010", 
+                                                            "children": []
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "Program analysis are static (compile-time) techniques for computing approximate and yet reliable information about the dynamic behaviour of programs. This module lays the foundation for study of program analysis. It covers the essential mathematics upon which program analyses are built, and provides an overview of different approaches to program analysis. Topics include: Partially ordered sets, induction and co-induction, data flow analysis, constraint based analysis, abstract interpretation, and type and effect systems. Students with interest in programming-language design and compiler design will find this module beneficial.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF COMPUTING",
+"department": "COMPUTER SCIENCE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

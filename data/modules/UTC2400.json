@@ -1,0 +1,24 @@
+{
+"moduleCode": "UTC2400",
+"moduleTitle": "Community Leadership",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "GEM2903%",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "GEM2903"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "UTC2400", 
+            "children": []
+},
+"moduleDescription": "This interdisciplinary module introduces and examines the idea of \u2018community leadership\u2019. It focuses on how ordinary individuals identify social needs in the local community and endeavour to improve the lives of vulnerable groups by organising grassroots solutions. These individuals include Nobel Laureates such as Mother Teresa or Muhammad Yunus but also ordinary unsung heroes closer to Singapore. Students are required to investigate the emergence of pioneering community leaders combining the socio-historical contexts, personal psychology, networking and socialisation processes and social entrepreneurship. The teaching methodology incorporates lectures, seminar discussion, experiential exercises and field study to interview real-life community leaders.",
+"crossModule": "-1",
+"corequisite": "N/A",
+"faculty": "NON-FACULTY-BASED DEPARTMENTS",
+"department": "COLLEGE OF ALICE & PETER TAN",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

@@ -1,0 +1,24 @@
+{
+"moduleCode": "LL6019V",
+"moduleTitle": "Credit & Security",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "Students who are taking or have taken LL6019",
+"prerequisite": "NUS Compulsory Core Curriculum or its equivalent",
+"preclusionList": [
+            "LL6019"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "LL6019V", 
+            "children": []
+},
+"moduleDescription": "This course examines the granting of credit and the taking of security by bank as well as aspects of bank supervision. The course starts with the Part on Bank Supervision and then turns to the discussion of unsecured lending and the Moneylenders' Act. It then focuses on secured credit. The discussion of the general regulation of the giving of security is followed by an examination of specific security devices, such as pledges, trust receipts, Romalpa clauses, factoring, stocks and shares as security, and guarantees and indemnities. The emphasis throughout is on the commercial effectiveness of the system.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "LAW",
+"department": "LAW",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

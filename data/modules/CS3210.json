@@ -1,0 +1,85 @@
+{
+"moduleCode": "CS3210",
+"moduleTitle": "Parallel Computing",
+"moduleCredit": "4",
+"lockedModules":[
+            "CS4223",
+            "CS4231"
+        ],
+"preclusion": "NIL",
+"prerequisite": "CS2100 Computer Organisation or CG2007 Microprocessor Systems or EE2024 Programming for Computer Interfaces",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " or ": [
+                "CS2100", 
+                "CG2007", 
+                "EE2024"
+            ]
+},
+"prerequisiteList": ["CS2100","CS1010","CG2007","EE2024","EE2020","EE1002","CG1108","EG1108","CS1010E"],
+"completePrerequisite": {
+            "name": "CS3210", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "CS2100", 
+                            "children": [
+                                {
+                                    "name": "CS1010", 
+                                    "children": []
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "CG2007", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "EE2024", 
+                            "children": [
+                                {
+                                    "name": "and", 
+                                    "children": [
+                                        {
+                                            "name": "EE2020", 
+                                            "children": [
+                                                {
+                                                    "name": "or", 
+                                                    "children": [
+                                                        {
+                                                            "name": "EE1002", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "CG1108", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "EG1108", 
+                                                            "children": []
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "CS1010E", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "The aim of this module is to provide an introduction to the field of parallel computing with hands-on parallel programming experience on real parallel machines. The module is divided into four parts: parallel computation models and parallelism, parallel architectures, parallel algorithm design and programming, and new parallel computing models. Topics includes: theory of parallelism and models; shared-memory architectures; distributed-memory architectures; data parallel architectures; interconnection networks, topologies and basic of communication operations; principles of parallel algorithm design; performance and scalability of parallel programs, overview of new parallel computing models such as grid, cloud, GPGPU.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "SCHOOL OF COMPUTING",
+"department": "COMPUTER SCIENCE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

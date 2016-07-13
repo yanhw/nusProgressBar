@@ -1,0 +1,24 @@
+{
+"moduleCode": "LL6057V",
+"moduleTitle": "Theoretical Foundations Of Criminal Law",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "Students who are taking or have taken LL6057.",
+"prerequisite": "NUS Compulsory Core Law Curriculum or equivalent. Module is also open to non-law students from FASS Philosophy or Political Science dept with at least 80 MCs.",
+"preclusionList": [
+            "LL6057"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "LL6057V", 
+            "children": []
+},
+"moduleDescription": "The aim of this course is to examine and critique the philosophical assumptions that underlie the substantive criminal law. We begin with a survey of the various philosophical theories that purport to explain and justify the imposition of criminal liability. Once familiar with the fundamental concepts and issues, we then consider the relationship between moral responsibility and criminal liability by analyzing the theoretical assumptions behind the substantive principles and doctrine of criminal law. This is a seminar-style course aimed at students who already have grounding in criminal law, philosophy of law, or moral theory. Extensive class participation is expected.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "LAW",
+"department": "LAW",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

@@ -1,0 +1,29 @@
+{
+"moduleCode": "YID3203",
+"moduleTitle": "Another World is Possible: SciFi and the Environment",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "YID1201 (Introduction to Environmental Studies) recommended but not required.",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["YID1201"]
+},
+"prerequisiteList": ["YID1201"],
+"completePrerequisite": {
+            "name": "YID3203", 
+            "children": [
+                {
+                    "name": "YID1201", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "In an era of climate change, our relationship to the environment is an increasing subject of concern. Many scholars now agree that we must to consider alternatives to current ways of organizing society. This course explores visions that might guide our imaginations and actions by examining the ways that recent speculative literature and film has depicted alternative \u2018green\u2019 (or not so \u2018green\u2019) worlds, thereby expressing and challenging dominant ideas about nature, culture, society, politics and the future. We pair literature and film with scholarship from environmental studies, history, anthropology, literary criticism and film studies. Ideal for second and third year students.",
+"crossModule": "-1",
+"corequisite": "YID1201 (Introduction to Environmental Studies) recommended but not required.",
+"faculty": "YALE-NUS COLLEGE",
+"department": "YALE-NUS COLLEGE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

@@ -1,0 +1,29 @@
+{
+"moduleCode": "PR5221",
+"moduleTitle": "Molecular Targets in Drug Discovery",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "PR3104 Pharmaceutical Biotechnology or by special permission",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["PR3104"]
+},
+"prerequisiteList": ["PR3104"],
+"completePrerequisite": {
+            "name": "PR5221", 
+            "children": [
+                {
+                    "name": "PR3104", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "The aim of this module is to equip students with a better understanding of the molecular basis of modern drug discovery, with a special focus on drug target selection and validation. In this module, we will discuss intracellular signaling cascades, cell to cell signaling and pharmacological intervention in these processes. The use of animal models to select and validate molecular targets will also be covered. Students will gain an enhanced understanding of the drug discovery process which will complement their technical expertise in the field.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCIENCE",
+"department": "PHARMACY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

@@ -1,0 +1,22 @@
+{
+"moduleCode": "AR4104",
+"moduleTitle": "Architectural & Technology Design 2",
+"moduleCredit": "8",
+"lockedModules":[
+],
+"preclusion": "All non architecture students",
+"prerequisite": "AR3101 Design 5 Grade 'C'; AR3102 Design 6 Grade 'C'",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "AR4104", 
+            "children": []
+},
+"moduleDescription": "This module allows the students to employ digital design processes eg. Revit, CFD to simulate building performance impact on building form and configuration as an interactive design process in the development and study of optimal solutions.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF DESIGN AND ENVIRONMENT",
+"department": "ARCHITECTURE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

@@ -1,0 +1,59 @@
+{
+"moduleCode": "MUA4162",
+"moduleTitle": "Major Study 4B",
+"moduleCredit": "12",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "MUA4161",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["MUA4161"]
+},
+"prerequisiteList": ["MUA4161","MUA3162","MUA3161","MUA2162","MUA2161","MUA1162","MUA1161"],
+"completePrerequisite": {
+            "name": "MUA4162", 
+            "children": [
+                {
+                    "name": "MUA4161", 
+                    "children": [
+                        {
+                            "name": "MUA3162", 
+                            "children": [
+                                {
+                                    "name": "MUA3161", 
+                                    "children": [
+                                        {
+                                            "name": "MUA2162", 
+                                            "children": [
+                                                {
+                                                    "name": "MUA2161", 
+                                                    "children": [
+                                                        {
+                                                            "name": "MUA1162", 
+                                                            "children": [
+                                                                {
+                                                                    "name": "MUA1161", 
+                                                                    "children": []
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "YONG SIEW TOH CONSERVATORY OF MUSIC",
+"department": "YONG SIEW TOH CONSERVATORY OF MUSIC",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

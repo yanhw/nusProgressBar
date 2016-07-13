@@ -1,0 +1,24 @@
+{
+"moduleCode": "CN4210E",
+"moduleTitle": "Membrane Science And Engineering",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "TC4210",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "TC4210"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "CN4210E", 
+            "children": []
+},
+
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "BACHELOR OF TECHNOLOGY PROGRAMME",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

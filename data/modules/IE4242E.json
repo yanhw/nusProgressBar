@@ -1,0 +1,29 @@
+{
+"moduleCode": "IE4242E",
+"moduleTitle": "Cost Analysis And Management",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "IE2140E",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["IE2140E"]
+},
+"prerequisiteList": ["IE2140E"],
+"completePrerequisite": {
+            "name": "IE4242E", 
+            "children": [
+                {
+                    "name": "IE2140E", 
+                    "children": []
+                }
+            ]
+},
+
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "BACHELOR OF TECHNOLOGY PROGRAMME",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

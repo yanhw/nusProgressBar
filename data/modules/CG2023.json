@@ -1,0 +1,51 @@
+{
+"moduleCode": "CG2023",
+"moduleTitle": "Signals and Systems",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "EE2009 Signals, EE2010 Systems and Control and EE2023 Signals and Systems",
+"prerequisite": "MA1506 Mathematics II",
+"preclusionList": [
+            "EE2010",
+            "EE2009",
+            "EE2023"
+        ],
+"parsedPrerequisite": {
+" and ": ["MA1506"]
+},
+"prerequisiteList": ["MA1506","MA1102R","MA1505","MA1521"],
+"completePrerequisite": {
+            "name": "CG2023", 
+            "children": [
+                {
+                    "name": "MA1506", 
+                    "children": [
+                        {
+                            "name": "or", 
+                            "children": [
+                                {
+                                    "name": "MA1102R", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "MA1505", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "MA1521", 
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This is a fundamental course in signals and systems, specially developed for computer engineering students. Signals play an important role in carrying information. In particular the idea of frequency domain analysis of signals and systems are important concepts for all computer engineers. The concepts which will be covered include time and frequency domain representations, Fourier transform, spectrum and bandwidth of a signal, frequency response of systems (Bode diagrams), sampling theorem, aliasing, signal reconstruction, and filtering.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "JOINT MULTI-DISCIPLINARY PROGRAMMES",
+"department": "COMPUTING & ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

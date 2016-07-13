@@ -1,0 +1,22 @@
+{
+"moduleCode": "FSP4003",
+"moduleTitle": "Field Service Project",
+"moduleCredit": "8",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "FSP4003", 
+            "children": []
+},
+"moduleDescription": "Students will be given opportunities to work with real companies. The scope of the Field Service Project is part of the initial negotiations between the students and the company. It is an interactive process as the students have to make a preliminary survey of the company before finalising the job scope. The project is divided into stages\u2013 planning, research and assessment, and recommendations.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF BUSINESS",
+"department": "DEAN'S OFFICE (BIZ)",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

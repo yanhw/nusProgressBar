@@ -1,0 +1,30 @@
+{
+"moduleCode": "GEM1918",
+"moduleTitle": "Thinking in Systems: Ecosystems and Natural Resources",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "GEM-coded GEM1914 GEM1915% GEM1919 GE Reform GET1011 UTC-coded UTC1411 UTC1701 UTC1700",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "GEM1915",
+            "GEM1914",
+            "UTC1701",
+            "UTC1700",
+            "GEM1919",
+            "UTC1411",
+            "GET1011"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "GEM1918", 
+            "children": []
+},
+"moduleDescription": "This module will serve to prepare systems citizens with thinking and quantitative skills that thought leaders across the world consider critical for functioning in the 21st century. Comprising qualitative and quantitative elements, this module will hone students\u2019 ability to engage in Systems Thinking: understanding parts of a system, seeing interconnections, asking \u2018what-if\u2019 questions, quantifying the effects of specific interventions and using such understanding to propose operational/structural policies courageously and creatively. Interactive discussions and hands-on computer modelling using examples from several ecological and natural resource systems will serve as the primary learning mechanisms.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "NON-FACULTY-BASED DEPARTMENTS",
+"department": "RESIDENTIAL COLLEGE 4",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

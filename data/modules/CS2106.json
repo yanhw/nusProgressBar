@@ -1,0 +1,90 @@
+{
+"moduleCode": "CS2106",
+"moduleTitle": "Introduction to Operating Systems",
+"moduleCredit": "4",
+"lockedModules":[
+            "CS3211",
+            "CS5248",
+            "CS4223",
+            "CS3235"
+        ],
+"preclusion": "CG2271 or EE4214. CEG students are not allowed to take this module.",
+"prerequisite": "CS2100 or EE2007 or EE2024",
+"preclusionList": [
+            "CG2271",
+            "EE4214"
+        ],
+"parsedPrerequisite": {
+            " or ": [
+                "CS2100", 
+                "EE2007", 
+                "EE2024"
+            ]
+},
+"prerequisiteList": ["CS2100","CS1010","EE2007","EE2024","EE2020","EE1002","CG1108","EG1108","CS1010E"],
+"completePrerequisite": {
+            "name": "CS2106", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "CS2100", 
+                            "children": [
+                                {
+                                    "name": "CS1010", 
+                                    "children": []
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "EE2007", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "EE2024", 
+                            "children": [
+                                {
+                                    "name": "and", 
+                                    "children": [
+                                        {
+                                            "name": "EE2020", 
+                                            "children": [
+                                                {
+                                                    "name": "or", 
+                                                    "children": [
+                                                        {
+                                                            "name": "EE1002", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "CG1108", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "EG1108", 
+                                                            "children": []
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "CS1010E", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module introduces the basic concepts in operating systems and links it with contemporary operating systems (eg. Unix/Linux and Windows). It focuses on OS structuring and architecture, processes, memory management, concurrency and file systems. Topics include kernel architecture, system calls, interrupts, models of processes, process abstraction and services, scheduling, review of physical memory and memory management hardware, kernel memory management, virtual memory and paging, caches, working set, deadlock, mutual exclusion, synchronisation mechanisms, data and metadata in file systems, directories and structure, file system abstraction and operations, OS protection mechanisms, and user authentication.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF COMPUTING",
+"department": "COMPUTER SCIENCE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

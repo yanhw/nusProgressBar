@@ -1,0 +1,41 @@
+{
+"moduleCode": "NUR4104",
+"moduleTitle": "Honours Project in Nursing",
+"moduleCredit": "16",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "Module codes of Consolidated Clinical Practicum and Applied Research Methods will be updated to NUR4102A and NUR4103A respectively.",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " and ": [
+                "NUR4102A", 
+                "NUR4103A"
+            ]
+},
+"prerequisiteList": ["NUR4102A","NUR4103A"],
+"completePrerequisite": {
+            "name": "NUR4104", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "NUR4102A", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "NUR4103A", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "In this module, the student draws together the clinical experiences, theoretical knowledge and research skills gained through the programme to conduct a supervised research project. The student will design a research project (protocol), apply for ethical approval, and undertake a clinically focused research project under the supervision of an academic staff member and a clinical advisor. The student will undertake a clinically focussed, six month research project under the supervision of an academic staff member and clinical advisor.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "YONG LOO LIN SCHOOL OF MEDICINE",
+"department": "NURSING/ALICE LEE CTR FOR NURSING STUD",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

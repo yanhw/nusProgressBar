@@ -1,0 +1,97 @@
+{
+"moduleCode": "EE6438",
+"moduleTitle": "Magnetic materials and devices",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "EE5431R and EE5433R",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " and ": [
+                "EE5431R", 
+                "EE5433R"
+            ]
+},
+"prerequisiteList": ["EE5431R","PC2232","EE2011","MA1505","MA1506","MA1102R","MA1521","EE3431C","EE5433R"],
+"completePrerequisite": {
+            "name": "EE6438", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "EE5431R", 
+                            "children": [
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "PC2232", 
+                                            "children": [
+                                                {
+                                                    "name": "EE2011", 
+                                                    "children": [
+                                                        {
+                                                            "name": "and", 
+                                                            "children": [
+                                                                {
+                                                                    "name": "MA1505", 
+                                                                    "children": []
+                                                                }, 
+                                                                {
+                                                                    "name": "MA1506", 
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "or", 
+                                                                            "children": [
+                                                                                {
+                                                                                    "name": "MA1102R", 
+                                                                                    "children": []
+                                                                                }, 
+                                                                                {
+                                                                                    "name": "MA1505", 
+                                                                                    "children": []
+                                                                                }, 
+                                                                                {
+                                                                                    "name": "MA1521", 
+                                                                                    "children": []
+                                                                                }
+                                                                            ]
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "EE3431C", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "EE5433R", 
+                            "children": [
+                                {
+                                    "name": "EE3431C", 
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "The main objective of this course is to introduce students to the basic concepts of magnetism, magnetic materials and devices and related applications in data storage from the electrical engineering perspective. As this module is intended to help students who are doing research in relevant areas to master both theoretical knowledge and practical techniques in areas of magnetism and magnetic materials, a significant portion of this module will be devoted to the coverage of various types of characterization techniques of magnetic materials. Apart from attending lectures, students will also have to do a presentation on selected topics relevant to contents covered in this module.",
+"crossModule": "-1",
+"corequisite": "Nil",
+"faculty": "ENGINEERING",
+"department": "ELECTRICAL & COMPUTER ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

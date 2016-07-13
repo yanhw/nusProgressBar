@@ -1,0 +1,24 @@
+{
+"moduleCode": "BMA5003",
+"moduleTitle": "Financial Accounting",
+"moduleCredit": "4",
+"lockedModules":[
+            "BMA5013",
+            "BMA5005"
+        ],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "BMA5003", 
+            "children": []
+},
+"moduleDescription": "The objective of the course is to introduce the basic concepts and principles of both financial and managerial accounting, without being excessively technical and procedural in emphasis. The coverage of topics aims to equip non-accounting managers with a basic understanding of accounting concepts and systems, the limitations of accounting data and financial statements, and the uses of accounting information for decision-making and performance evaluation.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF BUSINESS",
+"department": "DEAN'S OFFICE (BIZ)",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

@@ -1,0 +1,37 @@
+{
+"moduleCode": "CM3221",
+"moduleTitle": "Organic Synthesis and Spectroscopy",
+"moduleCredit": "4",
+"lockedModules":[
+            "CM4274",
+            "CM5268",
+            "CM4273"
+        ],
+"preclusion": "NIL",
+"prerequisite": "CM2121",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["CM2121"]
+},
+"prerequisiteList": ["CM2121","CM1121"],
+"completePrerequisite": {
+            "name": "CM3221", 
+            "children": [
+                {
+                    "name": "CM2121", 
+                    "children": [
+                        {
+                            "name": "CM1121", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "Strategies in organic synthesis; methods of structural determination in organic chemistry (MS, 13C and advanced 1H NMR spectroscopy).",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCIENCE",
+"department": "CHEMISTRY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

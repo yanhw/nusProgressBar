@@ -1,0 +1,24 @@
+{
+"moduleCode": "CP3109",
+"moduleTitle": "Overseas Exploratory Project",
+"moduleCredit": "2",
+"lockedModules":[
+],
+"preclusion": "CS3109",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "CS3109"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "CP3109", 
+            "children": []
+},
+
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF COMPUTING",
+"department": "DEAN'S OFFICE (SCHOOL OF COMPUTING)",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

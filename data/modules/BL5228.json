@@ -1,0 +1,22 @@
+{
+"moduleCode": "BL5228",
+"moduleTitle": "Advances in Cell and Molecular Biology",
+"moduleCredit": "2",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "Students should have attended advanced undergraduate courses in cell and molecular biology.",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "BL5228", 
+            "children": []
+},
+"moduleDescription": "The module is directed towards graduates who have acquired background knowledge of cell and molecular biology and are interested in new developments in the field. The module will introduce the unique aspects of different cells and model organisms at molecular levels and approaches to understand their features. The module aims to equip the students with the latest knowledge on characterizing and understanding the functions of cells and molecules in the broadest possible sense. Upon completion of the module, the students will be able to appreciate the critical point of scientific progress in one particular area of cell and molecular biology. They will also be able to appreciate the strengths and weaknesses in applying modern life science techniques in their own research.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCIENCE",
+"department": "BIOLOGICAL SCIENCES",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

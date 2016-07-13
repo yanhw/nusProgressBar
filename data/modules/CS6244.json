@@ -1,0 +1,78 @@
+{
+"moduleCode": "CS6244",
+"moduleTitle": "Robot Motion Planning & Control",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "(CS1020 or its equivalent) and (MA1101R or MA1506)",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " and ": [
+                "CS1020", 
+                {
+                    " or ": [
+                        "MA1101R", 
+                        "MA1506"
+                    ]
+                }
+            ]
+},
+"prerequisiteList": ["CS1020","CS1010","MA1101R","MA1506","MA1102R","MA1505","MA1521"],
+"completePrerequisite": {
+            "name": "CS6244", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "CS1020", 
+                            "children": [
+                                {
+                                    "name": "CS1010", 
+                                    "children": []
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "or", 
+                            "children": [
+                                {
+                                    "name": "MA1101R", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "MA1506", 
+                                    "children": [
+                                        {
+                                            "name": "or", 
+                                            "children": [
+                                                {
+                                                    "name": "MA1102R", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MA1505", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MA1521", 
+                                                    "children": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "An array of new robots with amazing capabilities appeared in the last decade, e.g., self-driving cars, humanoids, and robot vacuum cleaners. They will gradually, but surely, transform our ways of life in the near future. This course presents the key algorithmic ideas and implementation techniques that enable autonomous robot planning and control. It covers the geometric, probabilistic, and dynamic models and the associated methods commonly used in robotics. Application to related fields, such as computer animation and computation biology, will also be discussed.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF COMPUTING",
+"department": "COMPUTER SCIENCE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

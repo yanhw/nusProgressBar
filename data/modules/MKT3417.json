@@ -1,0 +1,31 @@
+{
+"moduleCode": "MKT3417",
+"moduleTitle": "Customer Asset Management",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "CS4266",
+"prerequisite": "MKT1003",
+"preclusionList": [
+            "CS4266"
+        ],
+"parsedPrerequisite": {
+" and ": ["MKT1003"]
+},
+"prerequisiteList": ["MKT1003"],
+"completePrerequisite": {
+            "name": "MKT3417", 
+            "children": [
+                {
+                    "name": "MKT1003", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "Customer Asset Management focuses on acquiring, retaining, and winning back customers. It highlights the need to move from merely satisfying customers to building strong bonds with them. Apart from the theoretical perspectives, this course also utilises software to analyse customer purchase data so as to differentiate customers and develop different relationship strategies for different customer groups.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF BUSINESS",
+"department": "MARKETING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

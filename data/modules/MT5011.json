@@ -1,0 +1,25 @@
+{
+"moduleCode": "MT5011",
+"moduleTitle": "Finance For Engineering & Technology Management",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "CE5603 & IE5003",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "CE5603",
+            "IE5003"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "MT5011", 
+            "children": []
+},
+"moduleDescription": "The objective of this subject is to train technical professionals to grasp the \u201cbig picture\u201d of finance and understand important financial concepts. Students will be able to understand how business decisions and market events affects cash flow, profits and financial position, use numbers for effective management decisions, analyze the real performance of a business unit, improve business planning, evaluate forecasts of sales, spending, profits, and the viability of business opportunities. At the end of the course, students will learn why managers need to be proficient with numbers and be equipped with finance knowledge to better manage a business division or company.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "DIVISION OF ENGINEERING AND TECH MGT",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

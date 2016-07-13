@@ -1,0 +1,41 @@
+{
+"moduleCode": "ES1102",
+"moduleTitle": "English for Academic Purposes",
+"moduleCredit": "0",
+"lockedModules":[
+            "ES2007D",
+            "ES1601",
+            "GEK1901",
+            "IS2101",
+            "CS2101",
+            "ES2331",
+            "GET1006",
+            "ENV1202"
+        ],
+"preclusion": "AR1000, BE1000, ID1000, ET1000/NK1001/EA1101/EG1471/ES1301/ES1101, EM1101.",
+"prerequisite": "Placement through the Qualifying English Test or a pass in ES1000.",
+"preclusionList": [
+            "AR1000",
+            "EA1101",
+            "ES1101",
+            "NK1001",
+            "ID1000",
+            "EM1101",
+            "ET1000",
+            "EG1471",
+            "ES1301",
+            "BE1000"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "ES1102", 
+            "children": []
+},
+"moduleDescription": "ES1102 is an English for Academic Purposes module aimed at addressing the English language needs of students in their academic courses. These language needs include comprehension of academic texts, synthesis and integration of information into student texts, use of organizational patterns in expository writing, documentation of sources, writing a range of academic genres, monitoring one\u2019s own progress, understanding why and how to practise academic integrity; accurate use of grammar in context, and devising a plan to improve one\u2019s writing. This module adopts a reading-into-writing approach using themed readings as springboard texts for student writing and provides students opportunities for analysing and internalizing patterns of text organization. ES1102 is taught over 12 weeks or 48 contact hours, with each group meeting twice a week for two-hour tutorials.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "NON-FACULTY-BASED DEPARTMENTS",
+"department": "CTR FOR ENGLISH LANGUAGE COMMUNICATION",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

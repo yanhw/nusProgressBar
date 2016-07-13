@@ -1,0 +1,24 @@
+{
+"moduleCode": "CH4401",
+"moduleTitle": "Honours Thesis",
+"moduleCredit": "15",
+"lockedModules":[
+],
+"preclusion": "CH4660",
+"prerequisite": "Completed 110 MCs including 60 MCs of CH/CL major requirements with a minimum CAP of 3.50.",
+"preclusionList": [
+            "CH4660"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "CH4401", 
+            "children": []
+},
+"moduleDescription": "This is an optional module designed for students of the Department. It presents the methodology of writing an academic thesis of a stipulated length. Students are expected to work independently and meet their supervisors on an agreed schedule, during the semester, to discuss their progress. Upon completion of the thesis, it is submitted for evaluation by the Department.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "CHINESE STUDIES",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

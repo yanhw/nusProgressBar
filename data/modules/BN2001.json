@@ -1,0 +1,22 @@
+{
+"moduleCode": "BN2001",
+"moduleTitle": "Independent Study",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "BN2001", 
+            "children": []
+},
+"moduleDescription": "This module encourages students to become independent and self-motivated learners, and promote students interest in research-based work. It consists of a series of laboratory-based projects or other academic prescriptions for the students independent study. The academic scope is worked out between the student and the supervising faculty members.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "BIOMEDICAL ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

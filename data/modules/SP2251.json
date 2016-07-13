@@ -1,0 +1,69 @@
+{
+"moduleCode": "SP2251",
+"moduleTitle": "Science at the Nanoscale",
+"moduleCredit": "4",
+"lockedModules":[
+            "CM3251",
+            "PC3251",
+            "SP3277"
+        ],
+"preclusion": "NIL",
+"prerequisite": "PC1144 or PC1432/PC1432X or CM1101 or CM1131 or PC1321/GEK1509",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " or ": [
+                "PC1144", 
+                "PC1432", 
+                "PC1432X", 
+                "CM1101", 
+                "CM1131", 
+                "PC1321", 
+                "GEK1509"
+            ]
+},
+"prerequisiteList": ["PC1144","PC1432","PC1432X","CM1101","CM1131","PC1321","GEK1509"],
+"completePrerequisite": {
+            "name": "SP2251", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "PC1144", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "PC1432", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "PC1432X", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "CM1101", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "CM1131", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "PC1321", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "GEK1509", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "Many topics debated in nanoscience are frontier and futuristic, although some have immediate technological applications. The fundamental scientific principles of all nanotechnology applications, however, are grounded in basic physics and chemistry. This module thus aims to illustrate and discuss the physics and chemistry that are operative at the nanoscale. Students will be introduced to some fundamental principles of physics and chemistry important to the nanoscale and learn to appreciate what the world is like when things are shrunk to this scale. They will also learn about some basic physical tools that can be used to explore structures at this length scale. On completion of this module, students will learn to appreciate the linkages between the fundamental sciences and practical applications in nanotechnology.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCIENCE",
+"department": "CHEMISTRY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

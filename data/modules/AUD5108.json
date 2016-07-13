@@ -1,0 +1,42 @@
+{
+"moduleCode": "AUD5108",
+"moduleTitle": "Electrophysiological Assessment A",
+"moduleCredit": "2",
+"lockedModules":[
+            "AUD5114"
+        ],
+"preclusion": "NIL",
+"prerequisite": "AUD5102: Anatomy and Physiology AUD5103: Pathologies of the Auditory System",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " and ": [
+                "AUD5102", 
+                "AUD5103"
+            ]
+},
+"prerequisiteList": ["AUD5102","AUD5103"],
+"completePrerequisite": {
+            "name": "AUD5108", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "AUD5102", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "AUD5103", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module provides an understanding of different type of electrophysiological assessment techniques (e.g. auditory brainstem response, middle and late latency response, P300, mismatch negativity) that can be applied on patients of different ages. Students will also learn about the conduct and pitfalls of these electrophysiological assessment techniques through clinical practicum.",
+"crossModule": "-1",
+"corequisite": "AUD5106: Clinical Audiology A â€? Part 1; AUD5107: Paediatric Audiology A â€? Part 1",
+"faculty": "YONG LOO LIN SCHOOL OF MEDICINE",
+"department": "DIVISION OF GRADUATE MEDICAL STUDIES",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

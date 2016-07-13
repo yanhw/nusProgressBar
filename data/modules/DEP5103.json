@@ -1,0 +1,30 @@
+{
+"moduleCode": "DEP5103",
+"moduleTitle": "Urban Planning Studio",
+"moduleCredit": "4",
+"lockedModules":[
+            "DEP5103A"
+        ],
+"preclusion": "NIL",
+"prerequisite": "UP5101 Urban Analysis Workshop OR UD5622 Methods of Urban Design & Urban Analysis",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["UD5622"]
+},
+"prerequisiteList": ["UD5622"],
+"completePrerequisite": {
+            "name": "DEP5103", 
+            "children": [
+                {
+                    "name": "UD5622", 
+                    "children": []
+                }
+            ]
+},
+
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF DESIGN AND ENVIRONMENT",
+"department": "DEAN'S OFFICE (SCHOOL OF DESIGN & ENV)",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

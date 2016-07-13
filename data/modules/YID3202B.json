@@ -1,0 +1,22 @@
+{
+"moduleCode": "YID3202B",
+"moduleTitle": "Special Topics in Environmental Studies",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "YID3202B", 
+            "children": []
+},
+"moduleDescription": "An exploration of an environmental topic or theme of relevance to upperlevel students in environmental studies. The topics covered within the course will be detailed in the syllabus given to a student in advance of the course. The faculty teaching the course will change and as such topics will change according to their specialisms and interests.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "YALE-NUS COLLEGE",
+"department": "YALE-NUS COLLEGE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

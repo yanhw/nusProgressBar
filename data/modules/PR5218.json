@@ -1,0 +1,84 @@
+{
+"moduleCode": "PR5218",
+"moduleTitle": "Practical In Product Development (Lab Rotations)",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "(PR2101, PR3102 and PR4106) or PR3301",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " or ": [
+                {
+                    " and ": [
+                        "PR2101", 
+                        "PR3102", 
+                        "PR4106"
+                    ]
+                }, 
+                "PR3301"
+            ]
+},
+"prerequisiteList": ["PR2101","PR1102","PR3102","PR2105","PR4106","PR3301"],
+"completePrerequisite": {
+            "name": "PR5218", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "and", 
+                            "children": [
+                                {
+                                    "name": "PR2101", 
+                                    "children": [
+                                        {
+                                            "name": "PR1102", 
+                                            "children": []
+                                        }
+                                    ]
+                                }, 
+                                {
+                                    "name": "PR3102", 
+                                    "children": [
+                                        {
+                                            "name": "and", 
+                                            "children": [
+                                                {
+                                                    "name": "PR1102", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "PR2105", 
+                                                    "children": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }, 
+                                {
+                                    "name": "PR4106", 
+                                    "children": [
+                                        {
+                                            "name": "PR1102", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "PR3301", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This is a practical module where students will spend time in the laboratory to acquire skills in a) Drug synthesis and purification, b) Crystallisation, c) Optimisation of a formulation, d) Product quality assurance evaluation. Target students: Enrolment in M.Sc. (Pharmaceutical Sciences & Technology) programme.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCIENCE",
+"department": "PHARMACY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

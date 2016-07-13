@@ -1,0 +1,22 @@
+{
+"moduleCode": "PLC5012B",
+"moduleTitle": "Clinical Placement 2",
+"moduleCredit": "6",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "PLC5012B", 
+            "children": []
+},
+"moduleDescription": "This module provides professional practice experience related to the theoretical foundations on clinical psychopathology covered in coursework modules. Students will undertake direct clinical experience either in a hospital or a community setting, under the close supervision of an experienced clinical psychologist. The focus of this second placement is on the gradual development of the clinical skills required for assessing, describing, diagnosing and treating adult and/or paediatric psychological disorder.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "PSYCHOLOGY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

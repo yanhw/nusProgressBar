@@ -1,0 +1,22 @@
+{
+"moduleCode": "BPS5204",
+"moduleTitle": "Energy Efficiency and Renewable Energy in Buildings",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "BPS5204", 
+            "children": []
+},
+"moduleDescription": "This module deals with Energy Efficient (EE) Technologies and Renewable Energy (RE) Systems for Green Buildings. The focus is on HVAC design optimization and the EE domain includes cogeneration and tri-generation systems, district cooling/heating systems, cleaning technologies and ventilation systems. The RE domain includes photovoltaics, solar-thermal, geothermal, wind and fuel cells.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "SCHOOL OF DESIGN AND ENVIRONMENT",
+"department": "BUILDING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

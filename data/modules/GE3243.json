@@ -1,0 +1,41 @@
+{
+"moduleCode": "GE3243",
+"moduleTitle": "Applied Petroleum Exploration",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "GE3880A Topics in Petroleum Geoscience or GE3244 Fundamentals in Petroleum Geoscience (This is the proposed regularised module code of the existing GE3880A Topics in Petroleum Geoscience)",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " or ": [
+                "GE3244", 
+                "GE3880A"
+            ]
+},
+"prerequisiteList": ["GE3244","GE3880A"],
+"completePrerequisite": {
+            "name": "GE3243", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "GE3244", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "GE3880A", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "Students will learn how to apply the theory of petroleum exploration to real data sets provided by Industry and the literature. Data sets to be studied include bathymetric, gravity and magnetic surveys, 2D and 3D seismic surveys, drilling and well log records. Students will make visits to exploration, service and petroleum engineering companies in Singapore and will be encouraged to apply for internships.",
+"crossModule": "-1",
+"corequisite": "Nil",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "GEOGRAPHY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

@@ -1,0 +1,22 @@
+{
+"moduleCode": "AR2521",
+"moduleTitle": "Digital Modelling and Simulation",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "AR2521", 
+            "children": []
+},
+"moduleDescription": "In architectural practice, digital design has grown in importance and is fundamentally changing the nature of the design process itself. This module will focus on the theoretical foundations of digital modelling and performance simulation. It will enable students to develop a critical understanding of relevant digital tools and techniques, and the role that they can play in the design process. The theoretical understanding will be enhanced by hands-on experimentation with a subset of tools and techniques.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "SCHOOL OF DESIGN AND ENVIRONMENT",
+"department": "ARCHITECTURE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

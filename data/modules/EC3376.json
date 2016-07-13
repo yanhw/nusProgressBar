@@ -1,0 +1,97 @@
+{
+"moduleCode": "EC3376",
+"moduleTitle": "Economics Of European Integration",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "EC3373, EC3375, EU3214",
+"prerequisite": "EC2101 and EC2102",
+"preclusionList": [
+            "EU3214",
+            "EC3373",
+            "EC3375"
+        ],
+"parsedPrerequisite": {
+            " and ": [
+                "EC2101", 
+                "EC2102"
+            ]
+},
+"prerequisiteList": ["EC2101","EC1101E","EC1301","USE2301","BSP1005","BH1005","EC2102","BH2001"],
+"completePrerequisite": {
+            "name": "EC3376", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "EC2101", 
+                            "children": [
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "EC1101E", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "EC1301", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "USE2301", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "BSP1005", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "BH1005", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "EC2102", 
+                            "children": [
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "EC1101E", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "EC1301", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "USE2301", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "BSP1005", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "BH2001", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "\u201cEuropean Economic Integration\u201d covers the historical origins, contemporary developments, institutions and the major economic and other policy areas of the European Union: The Single Market, Monetary Union, customs union, sectoral policies (competition, regional development, agriculture, environment, research, social policy, transportation, energy, industry, trade etc), her future enlargement and cooperation in internal security/immigration and external security and foreign policy. The tutorials focus on individual economic and political country profiles of the EU\u2019s current and future member states. The objective is to give students a sound background to evaluate the EU\u2019s and her member states current and future economic and political situation and to study the evolution and the problems of regional integration in using the world\u2019s most advanced model case. As the course is interdisciplinary in nature (covering economics, politics, contemporary history and law), interested students from other faculties are encouraged to attend. Basic economic literacy and some knowledge of European history and politics are a definite plus.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "ECONOMICS",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

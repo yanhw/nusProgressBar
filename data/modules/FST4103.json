@@ -1,0 +1,57 @@
+{
+"moduleCode": "FST4103",
+"moduleTitle": "Food Colloids and Components Science",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "FST3104",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["FST3104"]
+},
+"prerequisiteList": ["FST3104","FST2102A","FST2106","FST1101","LSM1101"],
+"completePrerequisite": {
+            "name": "FST4103", 
+            "children": [
+                {
+                    "name": "FST3104", 
+                    "children": [
+                        {
+                            "name": "and", 
+                            "children": [
+                                {
+                                    "name": "FST2102A", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "FST2106", 
+                                    "children": [
+                                        {
+                                            "name": "and", 
+                                            "children": [
+                                                {
+                                                    "name": "FST1101", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "LSM1101", 
+                                                    "children": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "The module covers various functions of micro- and macromolecules found or added into foods, which affects the quality of the food. Whenever relevant, the structure-function relationship of these components will be discussed. The effect of processing and storage on the food components will also be discussed.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCIENCE",
+"department": "CHEMISTRY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

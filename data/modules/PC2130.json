@@ -1,0 +1,122 @@
+{
+"moduleCode": "PC2130",
+"moduleTitle": "Quantum Mechanics I",
+"moduleCredit": "4",
+"lockedModules":[
+            "PC3232",
+            "PC3235",
+            "PC3130",
+            "PC3246",
+            "PC3233"
+        ],
+"preclusion": "Students who have passed PC2130B are not allowed to take this module.",
+"prerequisite": "Students who have either passed (PC1144 or PC1432) and either (MA1505 and MA1506) or (MA1101R and MA1102R) or equivalent.",
+"preclusionList": [
+            "PC2130B"
+        ],
+"parsedPrerequisite": {
+            " and ": [
+                {
+                    " or ": [
+                        "PC1144", 
+                        "PC1432"
+                    ]
+                }, 
+                {
+                    " or ": [
+                        {
+                            " and ": [
+                                "MA1505", 
+                                "MA1506"
+                            ]
+                        }, 
+                        {
+                            " and ": [
+                                "MA1101R", 
+                                "MA1102R"
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"prerequisiteList": ["PC1144","PC1432","MA1505","MA1506","MA1102R","MA1521","MA1101R"],
+"completePrerequisite": {
+            "name": "PC2130", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "or", 
+                            "children": [
+                                {
+                                    "name": "PC1144", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "PC1432", 
+                                    "children": []
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "or", 
+                            "children": [
+                                {
+                                    "name": "and", 
+                                    "children": [
+                                        {
+                                            "name": "MA1505", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "MA1506", 
+                                            "children": [
+                                                {
+                                                    "name": "or", 
+                                                    "children": [
+                                                        {
+                                                            "name": "MA1102R", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "MA1505", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "MA1521", 
+                                                            "children": []
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }, 
+                                {
+                                    "name": "and", 
+                                    "children": [
+                                        {
+                                            "name": "MA1101R", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "MA1102R", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module provides a rigorous introduction to quantum mechanics. It covers the following list of topics: Description of quantum systems: Hilbert space; observables, eigenfunctions, the statistical interpretation, the uncertainty relations; pure and mixed states using \u201cdensity matrices\u201d and the Dirac notation. Two-level systems are discussed as an example, considering Stern-Gerlach interferometer. Then the Schr\u00f6dinger equation and stationary states are discussed, using the free particle, the square well, barriers and the harmonic oscillator as examples. Furthermore, problems in three dimensions are discussed: spin and orbital angular momentum; the Schr\u00f6dinger equation in spherical coordinates; the hydrogen atom and the addition of angular momenta",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCIENCE",
+"department": "PHYSICS",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

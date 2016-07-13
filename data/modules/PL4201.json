@@ -1,0 +1,24 @@
+{
+"moduleCode": "PL4201",
+"moduleTitle": "Psychometrics and Psychological Testing",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "PL5223",
+"prerequisite": "Cohort 2011 and before: Completed 80 MCs of which student must have passed PL1101E, PL2131, PL2132 and 4 out of the 5 core modules (PL3232 - PL3236), with a minimum CAP of 3.50 or be on the Honours track. Cohort 2012 onwards: Completed 80 MCs of which student must have passed PL1101E, PL2131, PL2132 and 4 out of the 5 core modules (PL3232 - PL3236), with a minimum CAP of 3.20 or be on the Honours track.",
+"preclusionList": [
+            "PL5223"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "PL4201", 
+            "children": []
+},
+"moduleDescription": "The course is designed for students to acquire important scientific knowledge and practical professional skills in the areas of psychometrics and psychological testing. Topics covered include paradigms in psychological testing and research, conceptual bases of test construction, principles of reliability, validation strategies, factor analyses, and test fairness analyses.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "PSYCHOLOGY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

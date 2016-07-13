@@ -1,0 +1,22 @@
+{
+"moduleCode": "CO5232",
+"moduleTitle": "Collection, Management & Analysis of Quantitative Data",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "CO5232", 
+            "children": []
+},
+"moduleDescription": "This module is an introduction to management and data analysis of quantitative surveys in public health research, with strong emphasis on acquiring hands-on experience for handling public health data with the STATA software. It will cover essential concepts such as sampling and design of questionnaires as well as practical components such as data storage, management, and basic statistical analysis of the questionnaire data.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SAW SWEE HOCK SCHOOL OF PUBLIC HEALTH",
+"department": "SAW SWEE HOCK SCHOOL OF PUBLIC HEALTH",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

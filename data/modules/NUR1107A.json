@@ -1,0 +1,24 @@
+{
+"moduleCode": "NUR1107A",
+"moduleTitle": "Nursing Practice Experience 1.1",
+"moduleCredit": "2",
+"lockedModules":[
+],
+"preclusion": "NUR1107 Clinical Practicum 1.1",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "NUR1107"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "NUR1107A", 
+            "children": []
+},
+"moduleDescription": "This module enables students to integrate theory and clinical knowledge in caring for patients with alterations in cardiovascular and respiratory functions.",
+"crossModule": "-1",
+"corequisite": "NUR1114 Fundamentals of Nursing",
+"faculty": "YONG LOO LIN SCHOOL OF MEDICINE",
+"department": "NURSING/ALICE LEE CTR FOR NURSING STUD",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

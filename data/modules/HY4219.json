@@ -1,0 +1,24 @@
+{
+"moduleCode": "HY4219",
+"moduleTitle": "American Intellectual History",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "AS4219",
+"prerequisite": "Cohort 2011 and before: Completed 80MCs, including 28MCs in HY, with a minimum CAP of 3.50 or be on the Honours track. Cohort 2012 onwards: Completed 80MCs, including 28MCs in HY, with a minimum CAP of 3.20 or be on the Honours track.",
+"preclusionList": [
+            "AS4219"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "HY4219", 
+            "children": []
+},
+"moduleDescription": "The module is an advanced overview of major approaches and themes in American intellectual history. Students will explore the diversity of American thinkers. The module will focus on the twentieth century and analyses American thinkers in their social contexts. This course provides a diverse and multifarious look at American intellectual history through a study of specific intellectual figures. Students will develop their understanding of the complexity of American intellectual traditions. For students majoring in history and those with an interest in the USA.",
+        "CrossModule": "AS4219", 
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "HISTORY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

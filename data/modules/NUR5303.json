@@ -1,0 +1,29 @@
+{
+"moduleCode": "NUR5303",
+"moduleTitle": "Advanced Practice Nursing III (Adult Health)",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "NUR5301 Advanced Practice Nursing I (Adult Health)",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["NUR5301"]
+},
+"prerequisiteList": ["NUR5301"],
+"completePrerequisite": {
+            "name": "NUR5303", 
+            "children": [
+                {
+                    "name": "NUR5301", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "This module aims to emphasis on clinical management of patients with altered health status in relation to orthopaedic, haematology, oncology, and common clinical conditions. Students will utilise knowledge and skills of pathophysiology, advanced health assessment and pharmacological therapeutics in the clinical management of such patients.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "YONG LOO LIN SCHOOL OF MEDICINE",
+"department": "NURSING/ALICE LEE CTR FOR NURSING STUD",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

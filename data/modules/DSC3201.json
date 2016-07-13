@@ -1,0 +1,57 @@
+{
+"moduleCode": "DSC3201",
+"moduleTitle": "Supply Chain Management",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "BH3201 or BZ3402 or BK3505 or IE4220 or CS5262. All Industrial &amp; Systems Engineering (ISE) students",
+"prerequisite": "DSC2006 or BH2006 or BZ2003 or BK2006",
+"preclusionList": [
+            "IE4220",
+            "CS5262",
+            "BK3505",
+            "BZ3402",
+            "BH3201"
+        ],
+"parsedPrerequisite": {
+            " or ": [
+                "DSC2006", 
+                "BH2006", 
+                "BZ2003", 
+                "BK2006"
+            ]
+},
+"prerequisiteList": ["DSC2006","BH2006","BZ2003","BK2006"],
+"completePrerequisite": {
+            "name": "DSC3201", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "DSC2006", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "BH2006", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "BZ2003", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "BK2006", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This course considers the operation of a supply chain from a managerial perspective, serving two main objectives: to provide tools for design, analysis, management and performance improvement of supply chains, and to introduce and discuss recent influential innovations in supply chain management such as B2B portals. Students will be taught to appreciate the need to balance between responsiveness and efficiency in the four major components of the chain: Inventory, Transportation, Facilities, and Information. These four components will be introduced to the students through suitable mathematical and behavioural models. It is recommended that students have some understanding of the Internet and e-business.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF BUSINESS",
+"department": "DECISION SCIENCES",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

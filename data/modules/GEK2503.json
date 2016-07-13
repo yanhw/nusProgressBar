@@ -1,0 +1,22 @@
+{
+"moduleCode": "GEK2503",
+"moduleTitle": "Remote Sensing for Earth Observation",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "GEK2503", 
+            "children": []
+},
+"moduleDescription": "Images of the earth are not only beautiful to look at but also useful for learning about the earth and its state of health. In this module, students will be exposed to different types of images of the earth and their applications, especially in Southeast Asia.Major topics to be covered include types of remote sensing systems, image processing and information extraction, and applications such as global monitoring, biophysical observations, environmental management and natural hazard monitoring. This module is for students who enjoy viewing images of the earth and want to understand such images and their uses in earth science and environmental applications",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCIENCE",
+"department": "PHYSICS",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

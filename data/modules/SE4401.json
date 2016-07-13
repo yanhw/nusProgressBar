@@ -1,0 +1,24 @@
+{
+"moduleCode": "SE4401",
+"moduleTitle": "Honours Thesis",
+"moduleCredit": "15",
+"lockedModules":[
+],
+"preclusion": "SE4660",
+"prerequisite": "Completed 110 MCs including 60 MCs of SE major requirements with a minimum CAP of 3.50.",
+"preclusionList": [
+            "SE4660"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "SE4401", 
+            "children": []
+},
+"moduleDescription": "Students are required to conduct research on a Southeast Asian topic under the supervision of a member of staff. Topics will be chosen by students in consultation with staff. The length of the honours thesis should not exceed 12,000 words. The honours thesis is equivalent to three modules.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "SOUTHEAST ASIAN STUDIES",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

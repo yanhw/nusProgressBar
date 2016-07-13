@@ -1,0 +1,31 @@
+{
+"moduleCode": "AUD5105",
+"moduleTitle": "Hearing Devices and Rehabilitation A - Part 1",
+"moduleCredit": "3",
+"lockedModules":[
+            "AUD5111",
+            "AUD5112"
+        ],
+"preclusion": "NIL",
+"prerequisite": "AUD5101: Acoustics AUD5104: Perception of Sound and Speech",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["AUD5104"]
+},
+"prerequisiteList": ["AUD5104"],
+"completePrerequisite": {
+            "name": "AUD5105", 
+            "children": [
+                {
+                    "name": "AUD5104", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "This module provides the basic understanding of how hearing aid operates and describes the different style of ear moulds and hearing aids (custom aid, behind-the-ear), as well as the electroacoustic features of hearing aids (such as gain, maximum power output). This module also describes the various outcome measures used for verifying amplification and identify potential sources of error in amplification. Student will have hands-on sessions to practice hearing aids programming, fitting, and verification following the lectures.",
+"crossModule": "-1",
+"corequisite": "AUD5106: Clinical Audiology",
+"faculty": "YONG LOO LIN SCHOOL OF MEDICINE",
+"department": "DIVISION OF GRADUATE MEDICAL STUDIES",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

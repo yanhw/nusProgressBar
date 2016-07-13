@@ -1,0 +1,38 @@
+{
+"moduleCode": "CS2108",
+"moduleTitle": "Introduction to Media Computing",
+"moduleCredit": "4",
+"lockedModules":[
+            "CS3218",
+            "CS4242"
+        ],
+"preclusion": "CS3246",
+"prerequisite": "CS1020 or its equivalents.",
+"preclusionList": [
+            "CS3246"
+        ],
+"parsedPrerequisite": {
+" and ": ["CS1020"]
+},
+"prerequisiteList": ["CS1020","CS1010"],
+"completePrerequisite": {
+            "name": "CS2108", 
+            "children": [
+                {
+                    "name": "CS1020", 
+                    "children": [
+                        {
+                            "name": "CS1010", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module introduces students to (i) the fundamental principles, theory, algorithms, and data structures behind digital representation, compression, synchronization, and processing of image, audio, and video data types, and (ii) challenges and issues in developing media-rich applications, such as media streaming and media retrieval. Students will be exposed to the workings of common media file format and common manipulation techniques on media data. After taking the module, students should be confident enough in developing media applications and make appropriate trade-off and design decisions when dealing in media data in their software.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF COMPUTING",
+"department": "COMPUTER SCIENCE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

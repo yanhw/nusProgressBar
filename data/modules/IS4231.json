@@ -1,0 +1,49 @@
+{
+"moduleCode": "IS4231",
+"moduleTitle": "Information Security Management",
+"moduleCredit": "4",
+"lockedModules":[
+            "IS4234"
+        ],
+"preclusion": "CS3254",
+"prerequisite": "Pass 80 MCs and (CS2107 Introduction to Information Security or IS3230 Principles of Information Security)",
+"preclusionList": [
+            "CS3254"
+        ],
+"parsedPrerequisite": {
+            " or ": [
+                "CS2107", 
+                "IS3230"
+            ]
+},
+"prerequisiteList": ["CS2107","CS1010","IS3230"],
+"completePrerequisite": {
+            "name": "IS4231", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "CS2107", 
+                            "children": [
+                                {
+                                    "name": "CS1010", 
+                                    "children": []
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "IS3230", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "The main focus of this module is on the managerial aspects of information security. This module prepares the students for their future roles as IS managers or IS security professionals. Through this module, students will appreciate the challenges of managing information security in the modern business organization. Topics include risk management, security policies and programmes, managing the security function, and planning for continuity.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "SCHOOL OF COMPUTING",
+"department": "INFORMATION SYSTEMS",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

@@ -1,0 +1,29 @@
+{
+"moduleCode": "BMA5313",
+"moduleTitle": "Private Equity",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "BMA5008",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["BMA5008"]
+},
+"prerequisiteList": ["BMA5008"],
+"completePrerequisite": {
+            "name": "BMA5313", 
+            "children": [
+                {
+                    "name": "BMA5008", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "Come 2007, banks in many countries will have to start embracing a new approach to risk management. Commonly termed Basel II, it requires banks to move away from unvalidated human judgements to testable and verifiable empirical methods in assessing risk, especially credit risk. Countries that cannot meet with the deadline may have a few years of grace period but would eventually have to adopt this new approach. Basel II prescibes specific definitions and parameters that banks have to use for risk measurement. The module will cover these plus the immense challenges that they pose to banks",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF BUSINESS",
+"department": "DEAN'S OFFICE (BIZ)",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

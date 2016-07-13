@@ -1,0 +1,32 @@
+{
+"moduleCode": "LAC2201",
+"moduleTitle": "Chinese 2",
+"moduleCredit": "4",
+"lockedModules":[
+            "LAC3201"
+        ],
+"preclusion": "LAC2202",
+"prerequisite": "Passed LAC1201 or placement test.",
+"preclusionList": [
+            "LAC2202"
+        ],
+"parsedPrerequisite": {
+" and ": ["LAC1201"]
+},
+"prerequisiteList": ["LAC1201"],
+"completePrerequisite": {
+            "name": "LAC2201", 
+            "children": [
+                {
+                    "name": "LAC1201", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "This module is a continuation of Chinese 1. It consists of three main components, conversation, grammar and Chinese characters learning. Another 200 Chinese characters and 500 phrases will be introduced. Emphasis is placed on listening, speaking, reading and the writing of Chinese characters. Students are required to give short speeches and to conduct projects in tutorials.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "CENTRE FOR LANGUAGE STUDIES",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

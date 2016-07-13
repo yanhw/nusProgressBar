@@ -1,0 +1,22 @@
+{
+"moduleCode": "PS5603R",
+"moduleTitle": "Introduction to Qualitative Methods",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "PS5603R", 
+            "children": []
+},
+"moduleDescription": "This module investigates the logic and the practice of qualitative research. It covers qualitative research designs such as case studies, comparative historical analysis, problems of interpretation, process tracing and systematic process analysis, analytic narratives, and \u201cfuzzy set\u201d analysis based on Boolean algebra. The module also covers practical techniques that researchers frequently employ to collect data in the field such as interviews, participant observation and ethnography, textual analysis, focus groups, and archival research.",
+"crossModule": "-1",
+"corequisite": "Nil",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "POLITICAL SCIENCE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

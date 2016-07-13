@@ -1,0 +1,31 @@
+{
+"moduleCode": "YLL2202",
+"moduleTitle": "Intermediate Latin",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "Students who have successfully completed YLL1202 Introduction to Latin 2 are not eligible for this course",
+"prerequisite": "YLL1201 Beginning Latin or equivalent",
+"preclusionList": [
+            "YLL1202"
+        ],
+"parsedPrerequisite": {
+" and ": ["YLL1201"]
+},
+"prerequisiteList": ["YLL1201"],
+"completePrerequisite": {
+            "name": "YLL2202", 
+            "children": [
+                {
+                    "name": "YLL1201", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "This intensive course offers four days a week of language instruction and follows on from Introduction to Latin 1. Students will continue developing linguistic and cultural knowledge in ancient Mediterranean antiquity, and achieve a relatively strong reading level by the end of the semester.",
+"crossModule": "-1",
+"corequisite": "Nil",
+"faculty": "YALE-NUS COLLEGE",
+"department": "YALE-NUS COLLEGE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

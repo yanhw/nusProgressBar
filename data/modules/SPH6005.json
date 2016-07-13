@@ -1,0 +1,41 @@
+{
+"moduleCode": "SPH6005",
+"moduleTitle": "Applied Health Economics",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "CO5204 Health Economics and Financing or equivalent & CO5103 Quantitative Epidemiologic Methods or equivalent",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " and ": [
+                "CO5204", 
+                "CO5103"
+            ]
+},
+"prerequisiteList": ["CO5204","CO5103"],
+"completePrerequisite": {
+            "name": "SPH6005", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "CO5204", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "CO5103", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module will focus on the understanding, familiarization and development of skills related to the use of common software (STATA and TreeAge) and data used in the international health microeconomics literature. Students are required to work on household survey data and decision modelling projects. Student participation will emphasize both research findings as well as ongoing reflections on experiences and lessons for future research practice.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SAW SWEE HOCK SCHOOL OF PUBLIC HEALTH",
+"department": "SAW SWEE HOCK SCHOOL OF PUBLIC HEALTH",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

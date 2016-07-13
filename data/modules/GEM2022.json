@@ -1,0 +1,25 @@
+{
+"moduleCode": "GEM2022",
+"moduleTitle": "The Art of Rituals and Recreation",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "MUL3203, GEH1039",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "GEH1039",
+            "MUL3203"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "GEM2022", 
+            "children": []
+},
+"moduleDescription": "An interdisciplinary examination of the arts in western recreational practices and religious, political, and social rituals. Areas of study such as storytelling, theatre, reading, festivals, weddings, concerts, coronations, dancing, hymn singing, and so forth will comprise the course. Critical comparison of past and present cultures is integral to the course. Common homework assignments - including readings and audio and video files - form the basis of class discussion and written exercises; this is not a lecture-based course.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "YONG SIEW TOH CONSERVATORY OF MUSIC",
+"department": "YONG SIEW TOH CONSERVATORY OF MUSIC",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

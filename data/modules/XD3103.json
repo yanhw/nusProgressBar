@@ -1,0 +1,22 @@
+{
+"moduleCode": "XD3103",
+"moduleTitle": "Planet Earth",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "XD3103", 
+            "children": []
+},
+"moduleDescription": "The module provides an overview of geology \u2013 the science of the earth. An understanding of geology is important to many disciplines, providing information about the physical and chemical processes that determine the distribution of resources, location of hazards, operation of surface processes and the interaction between engineering structures and earth surface materials. The four components of the module begin with consideration of the earth\u2019s structure and the role of plate tectonics, before considering the nature of earth surface materials and the functioning of earth surface systems.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "GEOGRAPHY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

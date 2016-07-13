@@ -1,0 +1,61 @@
+{
+"moduleCode": "CM4241",
+"moduleTitle": "Trace Analysis",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "CM3242 or by permission",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["CM3242"]
+},
+"prerequisiteList": ["CM3242","CM2142","CM1131","FST1101","CM1401","CM2166"],
+"completePrerequisite": {
+            "name": "CM4241", 
+            "children": [
+                {
+                    "name": "CM3242", 
+                    "children": [
+                        {
+                            "name": "or", 
+                            "children": [
+                                {
+                                    "name": "CM2142", 
+                                    "children": [
+                                        {
+                                            "name": "or", 
+                                            "children": [
+                                                {
+                                                    "name": "CM1131", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "FST1101", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "CM1401", 
+                                                    "children": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }, 
+                                {
+                                    "name": "CM2166", 
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "At the end of this module, you should be able to identify the major sources of errors in trace analysis, understand the advantages and limitations of sample preparation and detection techniques, and be able to design a suitable method for the analysis of a given sample by taking into account the sample matrix, properties and concentration. Topics discussed include analysis at trace levels: general considerations and principles, sampling, sample preparation and sample pretreatment; selected advanced techniques of extraction and detection, applications in environmental, biomedical, etc. analyses; chemosensors and biosensors. The module is directed towards students majoring in chemistry and related disciplines.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCIENCE",
+"department": "CHEMISTRY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

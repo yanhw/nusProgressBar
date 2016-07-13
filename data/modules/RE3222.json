@@ -1,0 +1,39 @@
+{
+"moduleCode": "RE3222",
+"moduleTitle": "Urban Design And Conservation",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "RE3102 ADVANCED TOPICS IN URBAN PLANNING",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["RE3102"]
+},
+"prerequisiteList": ["RE3102","RE2103","RE1102"],
+"completePrerequisite": {
+            "name": "RE3222", 
+            "children": [
+                {
+                    "name": "RE3102", 
+                    "children": [
+                        {
+                            "name": "RE2103", 
+                            "children": [
+                                {
+                                    "name": "RE1102", 
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module focuses on the principles and concepts of urban design and urban conservation. The module introduces students to the essential concepts of urban form, urban imaging, massing and how basic elements of urban design enhance urban functions and aesthetics. As an appreciation module, it will not be studio- or designbased, but students would undertake a project that requires critical understanding of how the concepts are applied in a given urban context. Urban Conservation would be introduced, with an emphasis on its role and implementation in the planning process, as well as an understanding of basic architectural / historical / design and typological references.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "SCHOOL OF DESIGN AND ENVIRONMENT",
+"department": "REAL ESTATE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

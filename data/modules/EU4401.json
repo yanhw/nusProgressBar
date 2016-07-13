@@ -1,0 +1,24 @@
+{
+"moduleCode": "EU4401",
+"moduleTitle": "Honours Thesis",
+"moduleCredit": "15",
+"lockedModules":[
+],
+"preclusion": "EU4660",
+"prerequisite": "Completed 110 MCs including 60 MCs of EU major requirements with a minimum CAP of 3.50.",
+"preclusionList": [
+            "EU4660"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "EU4401", 
+            "children": []
+},
+"moduleDescription": "Students enrolled in the module can select an EU-based topic and the supervisor based in any discipline across FASS. Regardless of the department of the supervisor, the HT will follow the requirements, format, limits and deadlines set by the History Department. The Honours Thesis is a research and writing exercise usually done in the final semester of a student pursuing an Honours degree.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "HISTORY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

@@ -1,0 +1,22 @@
+{
+"moduleCode": "BMM5003",
+"moduleTitle": "Business Finance & Growth Economics for Policy Makers",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "BMM5003", 
+            "children": []
+},
+"moduleDescription": "This module focuses on business finance and economic performance. It first examines the characteristics and determinants of cyclical macroeconomic behaviour and its relationship with fiscal and monetary policies. It then examines the determinants of long term economic growth, including the determinants for capital accumulation and productivity growth. Next, it will focus on corporate strategic financing and capital markets development in China and other economies. The course explores interplay between business finance, public olices and sustainable long term economic performance.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "SCHOOL OF BUSINESS",
+"department": "DEAN'S OFFICE (BIZ)",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

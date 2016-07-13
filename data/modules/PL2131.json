@@ -1,0 +1,47 @@
+{
+"moduleCode": "PL2131",
+"moduleTitle": "Research and Statistical Methods I",
+"moduleCredit": "4",
+"lockedModules":[
+            "PL3287",
+            "PL3286",
+            "PL3258",
+            "PL3259",
+            "PL5221",
+            "PL3241",
+            "PL3253",
+            "PL5225",
+            "PL5222",
+            "PL3261",
+            "PL3282C",
+            "PL2132",
+            "PL3238",
+            "PL3239",
+            "PL3283B",
+            "PL3281",
+            "PL3282",
+            "PL3281A",
+            "PL3248",
+            "PL5222R",
+            "PL5225R",
+            "PL5221R",
+            "PL3282A"
+        ],
+"preclusion": "UQF2101B",
+"prerequisite": "Obtained a minimum grade of C6 in G.C.E. 'O' level Mathematics or equivalent.",
+"preclusionList": [
+            "UQF2101B"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "PL2131", 
+            "children": []
+},
+"moduleDescription": "This module is aimed at equipping students with the critical thinking and analytical skills necessary as a foundation for evaluating or carrying out empirical research in psychology. It is an essential module for psychology major students. It consists of two sections: the first deals with the design of psychological research; the second covers basic descriptive and inferential statistical techniques. Students will be taught how to design their own empirical study, to carry out appropriate statistical analyses on the data collected so as to draw valid conclusions, and how to write up their findings. Ethical aspects of psychological research are covered.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "PSYCHOLOGY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

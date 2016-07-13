@@ -1,0 +1,22 @@
+{
+"moduleCode": "PP5310",
+"moduleTitle": "Public Management Seminars",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "PP5310", 
+            "children": []
+},
+"moduleDescription": "The module provides a comprehensive coverage of the dominant challenges that contemporary societies face and the policies that governments respond with. Such challenges include: Multi-ethnic/religious societies and social harmony; Health Pandemics; Unemployment and Social Unrest; Geopolitics and International Relations; Refugees and Asylum Seekers; Corruption Prevention and Good Governance; Heritage Conservation and Media and Communication. The module will also devote a special section to the Singapore Experience where illustrations will be made with reference to how the Singapore government has dealt with many of these challenges.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "LEE KUAN YEW SCHOOL OF PUBLIC POLICY",
+"department": "LEE KUAN YEW SCHOOL OF PUBLIC POLICY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,0,3,4,]]
+}

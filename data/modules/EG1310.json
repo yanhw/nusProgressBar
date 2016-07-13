@@ -1,0 +1,41 @@
+{
+"moduleCode": "EG1310",
+"moduleTitle": "Exploratory Satellite Design",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "EG1108 Electrical Engineering or EE1002 Introduction to Circuits and Systems",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " or ": [
+                "EG1108", 
+                "EE1002"
+            ]
+},
+"prerequisiteList": ["EG1108","EE1002"],
+"completePrerequisite": {
+            "name": "EG1310", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "EG1108", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "EE1002", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This design module introduces students to the complexities involved in engineering a system with flight control, power management, signal processing and communications capabilities. It gives students the first exposure on the issues that are typically faced by engineers when they design and build a system which can be deployed into space. Issues such as flight dynamics, environmental disturbances, command and control will be explored.",
+"crossModule": "-1",
+"corequisite": "nil",
+"faculty": "ENGINEERING",
+"department": "DEAN'S OFFICE (ENGINEERING)",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

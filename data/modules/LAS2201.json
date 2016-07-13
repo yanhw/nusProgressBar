@@ -1,0 +1,43 @@
+{
+"moduleCode": "LAS2201",
+"moduleTitle": "Spanish 2",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "YLS1202 Introductory Spanish",
+"prerequisite": "LAS1201 Spanish 1 or YLS1201 Introductory Spanish I, or placement test",
+"preclusionList": [
+            "YLS1202"
+        ],
+"parsedPrerequisite": {
+            " or ": [
+                "LAS1201", 
+                "YLS1201"
+            ]
+},
+"prerequisiteList": ["LAS1201","YLS1201"],
+"completePrerequisite": {
+            "name": "LAS2201", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "LAS1201", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "YLS1201", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module is a continuation of Spanish 1. Spanish 2 pays close attention to aural/oral practice while strengthening basic grammar skills, writing, and reading comprehension. Students will continue to learn about the Hispanic world via readings and a variety of audiovisual materials. The module covers the second half of the textbook used in Spanish 1.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "CENTRE FOR LANGUAGE STUDIES",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

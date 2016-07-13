@@ -1,0 +1,116 @@
+{
+"moduleCode": "EL3212",
+"moduleTitle": "Field Methods in Linguistics",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "(i) EL1101E/GEK1011, (ii) EL2201 or EL2101, and (iii) EL2202 or EL2102",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " and ": [
+                {
+                    " or ": [
+                        "EL1101E", 
+                        "GEK1011"
+                    ]
+                }, 
+                {
+                    " or ": [
+                        "EL2201", 
+                        "EL2101"
+                    ]
+                }, 
+                {
+                    " or ": [
+                        "EL2202", 
+                        "EL2102"
+                    ]
+                }
+            ]
+},
+"prerequisiteList": ["EL1101E","GEK1011","EL2201","EL2101","EL2202","EL2102"],
+"completePrerequisite": {
+            "name": "EL3212", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "or", 
+                            "children": [
+                                {
+                                    "name": "EL1101E", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "GEK1011", 
+                                    "children": []
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "or", 
+                            "children": [
+                                {
+                                    "name": "EL2201", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "EL2101", 
+                                    "children": [
+                                        {
+                                            "name": "or", 
+                                            "children": [
+                                                {
+                                                    "name": "EL1101E", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "GEK1011", 
+                                                    "children": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "or", 
+                            "children": [
+                                {
+                                    "name": "EL2202", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "EL2102", 
+                                    "children": [
+                                        {
+                                            "name": "or", 
+                                            "children": [
+                                                {
+                                                    "name": "EL1101E", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "GEK1011", 
+                                                    "children": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module develops practical skills in linguistic fieldwork. The centrepiece of the module is the investigation of an unfamiliar language through structured interviews with native speakers. Students will elicit, record, transcribe, and organize linguistic data. Together we will gain a basic understanding of aspects of the grammar of the language. Students will also develop original hypotheses regarding the language\u2019s structure, test these hypotheses, and share their findings through written reports. Ethical issues that arise in conducting linguistic fieldwork will also be discussed.",
+"crossModule": "-1",
+"corequisite": "Nil",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "ENGLISH LANGUAGE & LITERATURE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

@@ -1,0 +1,22 @@
+{
+"moduleCode": "LAI1732",
+"moduleTitle": "Italian for Singers II",
+"moduleCredit": "3",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "LAI 1731",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "LAI1732", 
+            "children": []
+},
+"moduleDescription": "This module serves as the second semester of Italian language studies for Voice Majors in the Yong Siew Toh Conservatory of Music. Basic grammar, morphology, syntax and conversation will be emphasized. Open to YSTCM students only.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "CENTRE FOR LANGUAGE STUDIES",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

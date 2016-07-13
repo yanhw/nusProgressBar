@@ -1,0 +1,72 @@
+{
+"moduleCode": "PL5221R",
+"moduleTitle": "Analysis of Psychological Data using GLM",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "PL5102/PL6102",
+"prerequisite": "PL2101Y/PL2131 and PL2132 or consent of instructor",
+"preclusionList": [
+            "PL6102",
+            "PL5102"
+        ],
+"parsedPrerequisite": {
+            " and ": [
+                {
+                    " or ": [
+                        "PL2101Y", 
+                        "PL2131"
+                    ]
+                }, 
+                "PL2132"
+            ]
+},
+"prerequisiteList": ["PL2101Y","PL2131","PL2132","PL1101E"],
+"completePrerequisite": {
+            "name": "PL5221R", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "or", 
+                            "children": [
+                                {
+                                    "name": "PL2101Y", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "PL2131", 
+                                    "children": []
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "PL2132", 
+                            "children": [
+                                {
+                                    "name": "and", 
+                                    "children": [
+                                        {
+                                            "name": "PL1101E", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "PL2131", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "PSYCHOLOGY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

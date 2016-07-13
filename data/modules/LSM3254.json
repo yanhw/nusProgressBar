@@ -1,0 +1,36 @@
+{
+"moduleCode": "LSM3254",
+"moduleTitle": "Ecology of Aquatic Environments",
+"moduleCredit": "4",
+"lockedModules":[
+            "LSM4261",
+            "LSM4264"
+        ],
+"preclusion": "NIL",
+"prerequisite": "LSM2251",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["LSM2251"]
+},
+"prerequisiteList": ["LSM2251","LSM1103"],
+"completePrerequisite": {
+            "name": "LSM3254", 
+            "children": [
+                {
+                    "name": "LSM2251", 
+                    "children": [
+                        {
+                            "name": "LSM1103", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "Aquatic environments make up >70% of the Earth\u2019s surface. They host a huge diversity of life and ecosystems, many of which are vital to man. Topics covered in this module include diversity and ecology of freshwater and marine habitats and organisms, the impacts of humans on these environments, and the conservation and management of these critical resources. Overall learning outcomes include an appreciation and understanding of aquatic habitats, their physical and biological properties and their associated ecosystems. The importance of both marine and freshwater environments to Singapore will be highlighted.",
+"crossModule": "-1",
+"corequisite": "Nil",
+"faculty": "SCIENCE",
+"department": "BIOLOGICAL SCIENCES",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

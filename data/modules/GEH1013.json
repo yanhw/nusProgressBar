@@ -1,0 +1,24 @@
+{
+"moduleCode": "GEH1013",
+"moduleTitle": "Pirates, Oceans and the Maritime World",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "GEK2049",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "GEK2049"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "GEH1013", 
+            "children": []
+},
+"moduleDescription": "Piracy, understood broadly as violence or crime at sea, is a present day phenomenon and yet one which has a history spanning centuries and across all the oceans of the world. From pirates to privateers, corsairs to raiders, maritime predators take various names and forms. This module explores the history of pirates and piracy. By examining case studies from the 1400s onwards and by placing pirates into the context of oceanic history and maritime studies, students will be able to demystify the popular images often associated with pirates.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "HISTORY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

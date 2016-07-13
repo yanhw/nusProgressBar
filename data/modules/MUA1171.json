@@ -1,0 +1,23 @@
+{
+"moduleCode": "MUA1171",
+"moduleTitle": "Basic Recording 2",
+"moduleCredit": "4",
+"lockedModules":[
+            "MUA4176"
+        ],
+"preclusion": "NIL",
+"prerequisite": "Prerequisite: Basic Recording 1",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "MUA1171", 
+            "children": []
+},
+"moduleDescription": "Continuing from Basic Recording 1 this course will introduce students to the basics of loudspeaker design and the principles and operation of outboard signal processing equipment. The development of surround sound recording and reproduction technology and related microphone techniques will be also be introduced. Students will participate in recording all YSTCM events and studio sessions.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "YONG SIEW TOH CONSERVATORY OF MUSIC",
+"department": "YONG SIEW TOH CONSERVATORY OF MUSIC",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

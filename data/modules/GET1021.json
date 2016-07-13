@@ -1,0 +1,30 @@
+{
+"moduleCode": "GET1021",
+"moduleTitle": "Critical Thinking And Writing",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "EG1413, Students who have already read WP2201%, IEM1201% or UTW1001% module, GEK1901, U-town students cannot bid for GET1021. GEK1549 and ES1531.",
+"prerequisite": "- Students who are required to read ES1000 and/or EAP modules ES1102 must pass it/them before taking GET1021. -Only students matriculated in AY2015/2016, are allowed to take GET1021.",
+"preclusionList": [
+            "ES1531",
+            "EG1413",
+            "GEK1901",
+            "UTW1001",
+            "IEM1201",
+            "WP2201",
+            "GEK1549"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "GET1021", 
+            "children": []
+},
+"moduleDescription": "This course aims to help students think critically through analysing arguments and presenting their arguments effectively. Relevance to engineering practice will be emphasized with reference to Goldberg\u2019s seven missing basics in engineering education. Ideas/claims/assertions/inferences are value driven and their successful communication is structured on sound reasoning and convincing expression. In the course, students will learn critical thinking skills through interaction with and rigorous analysis of various written texts. They will assess the arguments of others and develop their own, support them convincingly and convey them effectively in a critical evaluation and problem-solution research paper.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "NON-FACULTY-BASED DEPARTMENTS",
+"department": "CTR FOR ENGLISH LANGUAGE COMMUNICATION",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

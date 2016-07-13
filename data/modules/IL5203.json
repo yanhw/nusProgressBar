@@ -1,0 +1,22 @@
+{
+"moduleCode": "IL5203",
+"moduleTitle": "IT Organisation Development and Talent Management",
+"moduleCredit": "3",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "IL5203", 
+            "children": []
+},
+"moduleDescription": "IT leaders must possess the ability to build a high performing IT organization. They must be able to identify the skills needed by the IT workforce to meet the changing business and technology landscape. However, they have found it extremely challenging to recruit, staff, skill and re-skill, develop, motivate and retain professionals in a highly competitive business environment and where good IT talent is in high demand. This course will help students to create an organization which is responsive to changes in the environment and whose culture and structure is aligned to its strategy and drives cross-boundary teamwork and collaboration.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "NON-FACULTY-BASED DEPARTMENTS",
+"department": "INSTITUTE OF SYSTEMS SCIENCE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

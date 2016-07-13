@@ -1,0 +1,26 @@
+{
+"moduleCode": "DTS5726",
+"moduleTitle": "Fundamentals of Systems Engineering and Architecting",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "IE5402 Systems Engineering and Architecture SyE5001 Systems Engineering and Architecture SDM5001 Systems architecture SDM 5002 Systems Engineering DTS5716 Systems Approach to Engineering Management",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "DTS5716",
+            "IE5402",
+            "SDM5001"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "DTS5726", 
+            "children": []
+},
+"moduleDescription": "This module is an introductory module providing an overview of the topic and a flavour of the details which should be more fully explored in depth through other modules. It explains systems architecting, engineering, lifecycles, associated activities, products, applications, processes, models, methods and strategies. The module is intensive and challenges the students to think creatively.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "NON-FACULTY-BASED DEPARTMENTS",
+"department": "TEMASEK DEFENCE SYSTEMS INSTITUTE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

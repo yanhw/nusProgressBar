@@ -1,0 +1,39 @@
+{
+"moduleCode": "YSC3203",
+"moduleTitle": "Advanced Algorithms and Data Structures",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "YSC2204 Fundamentals of Programming or Permission of instructor (Familiarity with basic algorithms and data structures including their rigorous analysis.)",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["YSC2204"]
+},
+"prerequisiteList": ["YSC2204","YCC2133","YCC1132"],
+"completePrerequisite": {
+            "name": "YSC3203", 
+            "children": [
+                {
+                    "name": "YSC2204", 
+                    "children": [
+                        {
+                            "name": "YCC2133", 
+                            "children": [
+                                {
+                                    "name": "YCC1132", 
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "We study the design and rigorous analysis of algorithms and data structures. Topics may include dynamic programming, Fibonacci heaps, graph algorithms, string algorithms, parallel algorithms, and concurrent data structures.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "YALE-NUS COLLEGE",
+"department": "YALE-NUS COLLEGE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

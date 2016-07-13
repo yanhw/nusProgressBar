@@ -1,0 +1,49 @@
+{
+"moduleCode": "MLE3104",
+"moduleTitle": "Polymeric and Composite Materials",
+"moduleCredit": "3",
+"lockedModules":[
+            "MLE4203",
+            "MLE4202",
+            "BN3301"
+        ],
+"preclusion": "NIL",
+"prerequisite": "MLE1101 or CM1121 or CM1501",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " or ": [
+                "MLE1101", 
+                "CM1121", 
+                "CM1501"
+            ]
+},
+"prerequisiteList": ["MLE1101","CM1121","CM1501"],
+"completePrerequisite": {
+            "name": "MLE3104", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "MLE1101", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "CM1121", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "CM1501", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "Classification of polymers, polymer structure, molecular weight distribution; Basic synthetic and characterisation methods; Amorphous state and glass transition, crystalline state; General properties of polymers: physical, chemical, mechanical and electrical; Engineering and specialty polymers: processing and applications; Polymer-based composite materials: fabrication, structure and properties.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "ENGINEERING",
+"department": "MATERIALS SCIENCE AND ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

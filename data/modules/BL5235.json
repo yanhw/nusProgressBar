@@ -1,0 +1,29 @@
+{
+"moduleCode": "BL5235",
+"moduleTitle": "Advanced Optics for Microscopy",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "BL5232 Introduction to Bioimaging",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["BL5232"]
+},
+"prerequisiteList": ["BL5232"],
+"completePrerequisite": {
+            "name": "BL5235", 
+            "children": [
+                {
+                    "name": "BL5232", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "The aim of the course is to describe the physical principles at stake in a microscope. The principles of light emission, the notion of coherence, of diffraction, of adsorption, of interferences and of spatial filtering will be presented in the context of imaging of biological samples. The course aims at providing a deeper understanding and physical grounds to the various practical approaches implemented in a microscope. The idea is to follow the imaging path of a light microscope and to introduce physical principles and mathematical simplest formalism to understand the underlying mechanism in the acquisition of biological relevant images.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCIENCE",
+"department": "BIOLOGICAL SCIENCES",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

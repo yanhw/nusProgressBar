@@ -1,0 +1,33 @@
+{
+"moduleCode": "MKT2412",
+"moduleTitle": "Global Marketing",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "BH2412 or BZ3604 or BK3208",
+"prerequisite": "MKT1003",
+"preclusionList": [
+            "BK3208",
+            "BZ3604",
+            "BH2412"
+        ],
+"parsedPrerequisite": {
+" and ": ["MKT1003"]
+},
+"prerequisiteList": ["MKT1003"],
+"completePrerequisite": {
+            "name": "MKT2412", 
+            "children": [
+                {
+                    "name": "MKT1003", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "This course aims to provide students with an understanding of the complex issues generally encountered when marketing goods and services internationally. Topics to be covered include: the culture, economic, political and legal environments within which global marketing take place; processes involved in assessing globe market opportunities; developing global marketing strategies: product policy, promotion, channel management and logistics; implementing global marketing strategies. Students will be required to conduct a real-life project on the marketing of a specific good or service to another country from Singapore. In this project, they will be asked to asses the marketing environment, identify the marketing opportunities, select the target market segment and advise a marketing plan. In this project, students will also learn how to use the internet to search for country information.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF BUSINESS",
+"department": "MARKETING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

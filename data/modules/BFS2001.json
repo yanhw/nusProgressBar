@@ -1,0 +1,22 @@
+{
+"moduleCode": "BFS2001",
+"moduleTitle": "Personal Development and Career Management II",
+"moduleCredit": "0",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "BFS2001", 
+            "children": []
+},
+"moduleDescription": "BFS2001 is the advanced version of the basic career skills module \u201cBFS1001 Personal Development and Career Management\u201d. This module aims to provide more practical career skills and knowledge to prepare second year students in making a successful transition from the university to the workplace. These sessions will involve more interactions with industry practitioners, practical relevance to market needs, real-life examples and interactive elements (for example, role-plays and group discussions).",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF BUSINESS",
+"department": "DEAN'S OFFICE (BIZ)",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

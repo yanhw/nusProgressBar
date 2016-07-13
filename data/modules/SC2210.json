@@ -1,0 +1,22 @@
+{
+"moduleCode": "SC2210",
+"moduleTitle": "Sociology of Popular Culture",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "SC2210", 
+            "children": []
+},
+"moduleDescription": "This module examines the spread of consumption and its link to popular culture in the context of global capitalism. Emphasis will be given on the relationship between mass production and mass consumption, and the role of mass media in creating and widening the sphere of popular culture. Relationship between class and popular culture will be explored in this module. Issues such as changing leisure patterns, fashions, consumerism, role of advertisements and symbolic protests will also be examined in this module. The course is mounted for students throughout NUS with interest in the study of popular culture.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "SOCIOLOGY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

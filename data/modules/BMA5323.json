@@ -1,0 +1,29 @@
+{
+"moduleCode": "BMA5323",
+"moduleTitle": "Applied Portfolio Management",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "BMA5008",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["BMA5008"]
+},
+"prerequisiteList": ["BMA5008"],
+"completePrerequisite": {
+            "name": "BMA5323", 
+            "children": [
+                {
+                    "name": "BMA5008", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "This advanced Seminar in Finance module will serve as a comprehensive real world examination of the quantitative fundamental behavioural and model-based approaches utilised for performing security valuation in the financial industry. Major topics covered include Discounted Cash Flow Valuation, Relative Valuation, Valuing Private Firms, Acquisitions and Value Enhancement Strategies. Lectures will involve frequent interaction with practitioners from the industry hands-on lab projects and real-life examples. Suitable for students interested in a career as a financial analyst (both on the buy-side and sell-side), or as a portfolio manager.",
+"crossModule": "-1",
+"corequisite": "Nil",
+"faculty": "SCHOOL OF BUSINESS",
+"department": "DEAN'S OFFICE (BIZ)",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

@@ -1,0 +1,24 @@
+{
+"moduleCode": "ME4262E",
+"moduleTitle": "Automation in Manufacturing",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "TM4262",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "TM4262"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "ME4262E", 
+            "children": []
+},
+"moduleDescription": "This module provides a comprehensive introduction to automation technologies applied in discrete part manufacturing. It also introduces essential principles and provides analytical tools for manufacturing control. Major topics covered include: Economic justification of automated systems; Fixed and transfer automation; Automated material handling and automated storage/retrieval systems, Flexible manufacturing systems, Internet-enabled manufacturing, Group technology, Process planning, Automated assembly and automated operation planning for layered manufacturing processes.",
+"crossModule": "-1",
+"corequisite": "ME3162E",
+"faculty": "ENGINEERING",
+"department": "BACHELOR OF TECHNOLOGY PROGRAMME",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

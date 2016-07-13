@@ -1,0 +1,22 @@
+{
+"moduleCode": "SC3214",
+"moduleTitle": "Sociology of Life Course and Ageing",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "SC3214", 
+            "children": []
+},
+"moduleDescription": "This module examines life course transitions and experience of aging. The first half of the module provides students with an understanding of the life course perspective and its use in sociological analyses. Topics covered include (1) changes in family dynamics over the life course, (2) changes in work patterns over the life course, and (3) gender differences in life course experience. Comparisons between Singapore society and other societies will be addressed. This module is mounted for students throughout NUS with interest in life course transitions.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "SOCIOLOGY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

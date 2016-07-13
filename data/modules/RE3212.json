@@ -1,0 +1,39 @@
+{
+"moduleCode": "RE3212",
+"moduleTitle": "Corporate Investment In Real Estate",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "RE3104 REAL ESTATE INVESTMENT ANALYSIS",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["RE3104"]
+},
+"prerequisiteList": ["RE3104","RE2104","RE1101"],
+"completePrerequisite": {
+            "name": "RE3212", 
+            "children": [
+                {
+                    "name": "RE3104", 
+                    "children": [
+                        {
+                            "name": "RE2104", 
+                            "children": [
+                                {
+                                    "name": "RE1101", 
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module examines strategic dimensions of real estate in property companies and business firms. Topics include the business, financial and stock market perspectives of real estate as well as case studies. Students will learn basic theories, techniques and practices of corporate finance and asset management applicable to property companies and business portfolios.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "SCHOOL OF DESIGN AND ENVIRONMENT",
+"department": "REAL ESTATE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

@@ -1,0 +1,55 @@
+{
+"moduleCode": "DSC3203",
+"moduleTitle": "Service Operations Management",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "BH3203 or BZ3404 or BK3501",
+"prerequisite": "DSC2006 or BH2006 or BZ2003 or BK2006",
+"preclusionList": [
+            "BZ3404",
+            "BH3203",
+            "BK3501"
+        ],
+"parsedPrerequisite": {
+            " or ": [
+                "DSC2006", 
+                "BH2006", 
+                "BZ2003", 
+                "BK2006"
+            ]
+},
+"prerequisiteList": ["DSC2006","BH2006","BZ2003","BK2006"],
+"completePrerequisite": {
+            "name": "DSC3203", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "DSC2006", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "BH2006", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "BZ2003", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "BK2006", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "The objective of this course is to provide a comprehensive and systematic coverage of managing operations in service or service-oriented organisations such as banks, hospitals, airlines, retail outlets, restaurants and consultant agencies. Specifically, students will focus on the problems and analysis relating to the design, planning, control and improvements of service operations. Topics covered include service strategy, system design, location and layout of service systems, resource allocation, workshift scheduling, vehicular scheduling and routing, and service quality. This course is essential for students wishing to work in service or service-oriented environments.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF BUSINESS",
+"department": "DECISION SCIENCES",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

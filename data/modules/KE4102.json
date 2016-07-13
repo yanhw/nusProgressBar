@@ -1,0 +1,23 @@
+{
+"moduleCode": "KE4102",
+"moduleTitle": "Intelligent Systems and Techniques for Business Analytics",
+"moduleCredit": "8",
+"lockedModules":[
+            "KE5108"
+        ],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "KE4102", 
+            "children": []
+},
+"moduleDescription": "The aim of this first core course - unit 1 of the Master of Technology (MTech) in Knowledge Engineering (KE) - is to provide a foundation for the KE degree. The focus of the degree is on educating the developers of intelligent systems to be used for Business Analytics. So the objectives of this foundation course are to: (1) Introduce the basic concepts and major techniques of Business Analytics. (2) Provide an overview of knowledge-based systems and an introduction to statistical and machine learning, with Business Analytics as the target application area.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "NON-FACULTY-BASED DEPARTMENTS",
+"department": "INSTITUTE OF SYSTEMS SCIENCE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

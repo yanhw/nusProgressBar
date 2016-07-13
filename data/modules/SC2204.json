@@ -1,0 +1,22 @@
+{
+"moduleCode": "SC2204",
+"moduleTitle": "Social Inequalities : Who Gets Ahead?",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "SC2204", 
+            "children": []
+},
+"moduleDescription": "This module addresses a seemingly simple question: who gets ahead? It introduces students to some of the key theoretical approaches and methodological tools for finding answers to this question. More specifically, it aims at helping students acquire a good understanding of relevant theories, measurement issues, and class maps, structures, societies, and dynamics. The module is accessible to all students who want to understand the impact of class and stratification on contemporary societies.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "SOCIOLOGY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

@@ -1,0 +1,22 @@
+{
+"moduleCode": "NM3210",
+"moduleTitle": "Cybercrime and Society",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "NM3210", 
+            "children": []
+},
+"moduleDescription": "This third year module discusses the growing problem of the use of ICTs for illegal activities. Students will learn about threats to information resources - such as hacking, illegal surveillance, identity theft, online fraud, destruction and modification of data, distortion and fabrication of information. They will also learn about countermeasures used by governments and organisations - such as authentication, encryption, auditing, monitoring, intrusion detection, firewalls, and law enforcement surveillance - as well as what are the limitations of those countermeasures. The module will also examine the problem of online obscenity and child pornography. For CNM, FASS and SoC students",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "COMMUNICATIONS AND NEW MEDIA",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

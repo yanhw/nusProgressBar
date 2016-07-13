@@ -1,0 +1,67 @@
+{
+"moduleCode": "EE6439",
+"moduleTitle": "Micro/Nano Electromechanical Systems (Advanced)",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "EE5439 Micro/Nano Electromechanical Systems (M/NEMS) EE5520 Micro/Nanoelectromechanical Systems (M/NEMS)",
+"prerequisite": "EE4411 Silicon Processing Technology or CN4217 Processing of Microelectronic Materials or equivalent.",
+"preclusionList": [
+            "EE5439",
+            "EE5520"
+        ],
+"parsedPrerequisite": {
+            " or ": [
+                "EE4411", 
+                "CN4217"
+            ]
+},
+"prerequisiteList": ["EE4411","EE2021","EE1002","EG1108","CG1108","CN4217"],
+"completePrerequisite": {
+            "name": "EE6439", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "EE4411", 
+                            "children": [
+                                {
+                                    "name": "EE2021", 
+                                    "children": [
+                                        {
+                                            "name": "or", 
+                                            "children": [
+                                                {
+                                                    "name": "EE1002", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "EG1108", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "CG1108", 
+                                                    "children": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "CN4217", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This course presents the fundamentals of Microelectromechanical Systems (MEMS) Nanoelectromechanical Systems (NEMS), culminating in advanced concepts and applications. Major topics covered include electrostatic actuation and capacitive sensing, piezoelectric actuation and sensing, thermal actuation and sensing, optical MEMS devices and nanophotonics, CMOS MEMS devices, inertial sensors, RF MEMS devices, resonators and clocking, NEMS sensors, energy harvesters, and packaging technology. Intended for research students, the module includes a project involving the design of MEMS/NEMS devices through detailed modelling and simulation.",
+"crossModule": "-1",
+"corequisite": "Nil",
+"faculty": "ENGINEERING",
+"department": "ELECTRICAL & COMPUTER ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

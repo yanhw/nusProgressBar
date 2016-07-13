@@ -1,0 +1,56 @@
+{
+"moduleCode": "CE3121",
+"moduleTitle": "Transportation Engineering",
+"moduleCredit": "4",
+"lockedModules":[
+            "CE5207",
+            "CE5205",
+            "CE5203",
+            "CE4221"
+        ],
+"preclusion": "NIL",
+"prerequisite": "CE2407 Engineering & Uncertainty Analyses or equivalent",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["CE2407"]
+},
+"prerequisiteList": ["CE2407","MA1506","MA1102R","MA1505","MA1521"],
+"completePrerequisite": {
+            "name": "CE3121", 
+            "children": [
+                {
+                    "name": "CE2407", 
+                    "children": [
+                        {
+                            "name": "MA1506", 
+                            "children": [
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "MA1102R", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "MA1505", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "MA1521", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module introduces basic principles and tools to design, plan, evaluate, analyze, manage and control transportation systems. The aim is to enable students to identify, formulate, examine, and solve transportation engineering problems. The major topics include transportation system, planning and management, geometric design of roads and intersections, structural design of pavement, pavement materials, traffic flow and analysis, and traffic management and control.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "ENGINEERING",
+"department": "CIVIL & ENVIRONMENTAL ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

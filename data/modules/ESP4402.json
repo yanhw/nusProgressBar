@@ -1,0 +1,22 @@
+{
+"moduleCode": "ESP4402",
+"moduleTitle": "Transport Phenomena in Energy Systems",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "ESP4402", 
+            "children": []
+},
+"moduleDescription": "This module aims to provide the fundamental theory of transport phenomena and train the student in mathematical between 75 modelling. The former comprises the derivation and understanding of the macroscopic and microscopic conservation laws for mass, momentum, and energy, together with the relevant constitutive relations and boundary conditions. These concepts are then applied to a wide array of simplified as well industrially relevant problems, where mathematical models are constructed and solved numerically or analytically, where possible. In addition, chemical reactions and kinetics will be coupled with the transport. Non-dimensionalisation and scaling analysis complement and aid in interpretation of the results.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "ENGINEERING SCIENCE PROGRAMME",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

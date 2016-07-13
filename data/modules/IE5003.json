@@ -1,0 +1,22 @@
+{
+"moduleCode": "IE5003",
+"moduleTitle": "Cost Analysis And Engineering Economy",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "IE5003", 
+            "children": []
+},
+"moduleDescription": "Cost and engineering economic analysis with special emphasis on a unified approach based upon cost accounting, operations research, economics and other quantitative methods. Topics include cost accounting and cost analysis, cost estimation, methods of engineering economic analysis, analyses for government projects and public utilities, effects of income taxes in economy studies, depreciation methods, risk and uncertainty in engineering economy studies, replacement studies and models, capital budgeting and computer applications.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "INDUSTRIAL & SYSTEMS ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

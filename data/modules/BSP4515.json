@@ -1,0 +1,29 @@
+{
+"moduleCode": "BSP4515",
+"moduleTitle": "Managing Social Networks in Markets and Organizations",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "MNO1001 Management and Organization",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["MNO1001"]
+},
+"prerequisiteList": ["MNO1001"],
+"completePrerequisite": {
+            "name": "BSP4515", 
+            "children": [
+                {
+                    "name": "MNO1001", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "Social networks are an essential part of organizations and markets. The module is designed to help students understand social networks and employ network concepts in their works. The course will cover topics about how social networks function and affect organizational effectiveness and market processes. Managers can thus better comprehend their organizations and the environment in which these organizations operate, so that they can make appropriate and timely decisions. The module also covers networks at the individual level. The module will offer scientific-based tools that help students understand the strengths and weaknesses of their personal networks, and how to improve their network building.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF BUSINESS",
+"department": "STRATEGY AND POLICY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

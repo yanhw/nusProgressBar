@@ -1,0 +1,92 @@
+{
+"moduleCode": "LSM3246",
+"moduleTitle": "Synthetic Biology",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "LSM2101 or LSM2102 or LSM2103",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " or ": [
+                "LSM2101", 
+                "LSM2102", 
+                "LSM2103"
+            ]
+},
+"prerequisiteList": ["LSM2101","LSM1101","LSM1401","LSM2102","LSM1102","LSM2103"],
+"completePrerequisite": {
+            "name": "LSM3246", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "LSM2101", 
+                            "children": [
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "LSM1101", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "LSM1401", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "LSM2102", 
+                            "children": [
+                                {
+                                    "name": "and", 
+                                    "children": [
+                                        {
+                                            "name": "LSM1401", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "LSM1102", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "LSM2103", 
+                            "children": [
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "LSM1101", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "LSM1401", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "LSM1102", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "The ability to rationally engineer living cells has been a long anticipated goal dating back for more than half a century. With the advent of DNA synthesis and genome engineering tools, biological systems can now be systematically designed for a myriad of industrial applications including disease prevention, biochemicals production and drug development. This module aims to provide basic principles to the engineering of biology with emphasis on the design and construction of synthetic gene circuits in living cells. The module also discusses current and emerging applications driven by synthetic biology, and the socio-ethical responsibilities that are required of synthetic biologists.",
+"crossModule": "-1",
+"corequisite": "Nil",
+"faculty": "YONG LOO LIN SCHOOL OF MEDICINE",
+"department": "BIOCHEMISTRY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

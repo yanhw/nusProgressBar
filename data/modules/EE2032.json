@@ -1,0 +1,96 @@
+{
+"moduleCode": "EE2032",
+"moduleTitle": "Signals & Communications Design Lab",
+"moduleCredit": "3",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "EE2011 Engineering Electromagnetism and EE2023 Signals and Systems.",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " and ": [
+                "EE2011", 
+                "EE2023"
+            ]
+},
+"prerequisiteList": ["EE2011","MA1505","MA1506","MA1102R","MA1521","EE2023"],
+"completePrerequisite": {
+            "name": "EE2032", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "EE2011", 
+                            "children": [
+                                {
+                                    "name": "and", 
+                                    "children": [
+                                        {
+                                            "name": "MA1505", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "MA1506", 
+                                            "children": [
+                                                {
+                                                    "name": "or", 
+                                                    "children": [
+                                                        {
+                                                            "name": "MA1102R", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "MA1505", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "MA1521", 
+                                                            "children": []
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "EE2023", 
+                            "children": [
+                                {
+                                    "name": "MA1506", 
+                                    "children": [
+                                        {
+                                            "name": "or", 
+                                            "children": [
+                                                {
+                                                    "name": "MA1102R", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MA1505", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MA1521", 
+                                                    "children": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This lab module introduces students to the practical aspects of designing a communication system. This module builds on the concepts learnt in EE2011 Engineering Electromagnetism and EE2023 Signals and Systems. Students will start the experiments with the Frequency Modulation (FM) technique in conjunction with a voltage controlled oscillator (VCO). This is followed by experiments with FM demodulation techniques, simplex communication and duplex communication. Then students will learn about the reflection coefficient and plot it in the Smith Chart. Subsequently an antenna is designed and the building blocks of the communication system are characterized. Finally the complete communication system is assembled and measured.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "ELECTRICAL & COMPUTER ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

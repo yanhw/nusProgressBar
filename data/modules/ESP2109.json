@@ -1,0 +1,41 @@
+{
+"moduleCode": "ESP2109",
+"moduleTitle": "Design Project 1",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "ESP1104 & ESP1107",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " and ": [
+                "ESP1104", 
+                "ESP1107"
+            ]
+},
+"prerequisiteList": ["ESP1104","ESP1107"],
+"completePrerequisite": {
+            "name": "ESP2109", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "ESP1104", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "ESP1107", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "The first part of this module will focus on determining the mechanical properties of materials. Students have to design various experiments to determine for example the Youngs modulus of metallic and non-metallic beams/rods and to estimate the errors of the material properties. The second part of this module will focus on a reaction, mass transfer and/or heat transfer problem and involve designing either transient or steady-state experiments/prototypes. The objectives range from for example determining the reaction order, rate constants, and mass/heat transfer coefficients to designing large-scale industrial equipment, where the latter is related to the small-scale prototypes/experiments. In both projects, students will be involved in making measurements, setting up model equations (differential equations), solving them analytically or numerically, and optimising the model fit to the experimental data.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "ENGINEERING SCIENCE PROGRAMME",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

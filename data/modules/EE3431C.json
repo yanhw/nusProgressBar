@@ -1,0 +1,37 @@
+{
+"moduleCode": "EE3431C",
+"moduleTitle": "Microelectronics Materials and Devices",
+"moduleCredit": "4",
+"lockedModules":[
+            "EE5431R",
+            "EE5433R",
+            "EE4431",
+            "EE4433",
+            "EE4401",
+            "EE5434",
+            "ESP3401",
+            "PC4259",
+            "EE5508",
+            "CN4223R",
+            "EE5517"
+        ],
+"preclusion": "EE3406, EE2004, PC3235",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "EE3406",
+            "PC3235",
+            "EE2004"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "EE3431C", 
+            "children": []
+},
+"moduleDescription": "Electronic devices are the building blocks of electronic systems, and an understanding of device technology is essential for the electrical engineer. This module discusses the physical foundations with emphasis on topics that are necessary for the understanding of the operation of electronic devices. Device concepts are then introduced, and the operational principles of key semiconductor devices are explained, showing how their terminal characteristics are obtained. Additional issues such as dielectric materials used in isolation for devices as well as contacts between metal and semiconductor regions are also included. Topics covered include: structure of solids; dielectric materials; physics of semiconductors; metalsemiconductors contacts; PN junction, bipolar transistors, and field-effect transistors.",
+"crossModule": "-1",
+"corequisite": "PC2232 and EE2021",
+"faculty": "ENGINEERING",
+"department": "ELECTRICAL & COMPUTER ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

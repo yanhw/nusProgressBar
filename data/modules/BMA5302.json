@@ -1,0 +1,29 @@
+{
+"moduleCode": "BMA5302",
+"moduleTitle": "Investment Analysis And Management",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "BMA5008",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["BMA5008"]
+},
+"prerequisiteList": ["BMA5008"],
+"completePrerequisite": {
+            "name": "BMA5302", 
+            "children": [
+                {
+                    "name": "BMA5008", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "The course is an introduction to portfolio management theory and practice covering aspects of investments and analysis relevant to asset management companies. Most of the core areas covered are in line with the CFA core body of knowledge for investment analysts and portfolio managers. We will focus on the main asset classes ? stocks and bonds and will also be covering derivatives and swaps. Starting from security analysis, sector and market strategies, the course will extend into portfolio management. Though valuation techniques and theories are foundations to any investment analysis, the over-riding factor hinges on market knowledge and experience and the process of translating this knowledge into investment strategies. This course will not only introduce the basic concepts and the nuts and bolts of investments but will also focus on real-time market analysis. Besides covering investment theory, the class will be required to apply the methodology into real life applications and translate these applications into actual portfolio strategies. These assignments will subsequently be channeled into an investment portfolio that the candidate will manage in a team environment. Participants will have to enroll into a stock market stimulation game with emphasis on the implementation of course study materials into market actions.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF BUSINESS",
+"department": "DEAN'S OFFICE (BIZ)",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,3,0,]]
+}

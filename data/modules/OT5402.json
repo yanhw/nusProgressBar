@@ -1,0 +1,22 @@
+{
+"moduleCode": "OT5402",
+"moduleTitle": "Seismic Acquisition and Processing",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "OT5402", 
+            "children": []
+},
+"moduleDescription": "This module introduces the basics of seismic surveys for petroleum reservoirs, from the physics to the acquisition and processing of seismic data. Both land and marine acquisition will be covered. Traditional and modern methods of seismic imaging will be covered.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "CIVIL & ENVIRONMENTAL ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

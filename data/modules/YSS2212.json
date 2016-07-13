@@ -1,0 +1,29 @@
+{
+"moduleCode": "YSS2212",
+"moduleTitle": "Firms' Strategies and Market Competition",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "YSS2203 Intermediate Microeconomics",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["YSS2203"]
+},
+"prerequisiteList": ["YSS2203"],
+"completePrerequisite": {
+            "name": "YSS2212", 
+            "children": [
+                {
+                    "name": "YSS2203", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "In this course, we will study various strategies that firms deploy when facing market competition and the impact of such strategic behaviour on market outcomes like prices, efficiency, market structure, innovation etc. Examples of firms\u2019 strategies include price discrimination, product differentiation, advertising, collusion, mergers and entry deterrence. We will analyse theoretical models of imperfectly competitive markets to gain insights into firms\u2019 behaviour and functioning of real-world markets.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "YALE-NUS COLLEGE",
+"department": "YALE-NUS COLLEGE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

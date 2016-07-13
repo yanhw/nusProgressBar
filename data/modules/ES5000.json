@@ -1,0 +1,22 @@
+{
+"moduleCode": "ES5000",
+"moduleTitle": "Graduate English Course (Basic Level)",
+"moduleCredit": "0",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "ES5000", 
+            "children": []
+},
+"moduleDescription": "This course aims to help international graduates from non-English speaking countries improve their basic academic English writing skills. This module provides training to enable students to use effective writing strategies to construct well-organized short academic essays with clear essay outlines. In order to facilitate independent learning and critical thinking, this module gives students opportunities to critique and edit their own essays as well as their peers' essays.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "NON-FACULTY-BASED DEPARTMENTS",
+"department": "CTR FOR ENGLISH LANGUAGE COMMUNICATION",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

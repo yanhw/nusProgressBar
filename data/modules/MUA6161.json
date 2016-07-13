@@ -1,0 +1,30 @@
+{
+"moduleCode": "MUA6161",
+"moduleTitle": "Major Study 6A",
+"moduleCredit": "10",
+"lockedModules":[
+            "MUA6162"
+        ],
+"preclusion": "NIL",
+"prerequisite": "MUA5162 Major Study 5B",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["MUA5162"]
+},
+"prerequisiteList": ["MUA5162"],
+"completePrerequisite": {
+            "name": "MUA6161", 
+            "children": [
+                {
+                    "name": "MUA5162", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "This module revolves around individual instrumental / composition lessons specially designed for performance / composition majors. It continues to consolidate and hone technical and musical skills appropriate to a varied range of musical styles and professional performance contexts. It develops confidence, independence, self-reliance and selfreflection in preparation for advanced study and a life of changing professional expectations and demands.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "YONG SIEW TOH CONSERVATORY OF MUSIC",
+"department": "YONG SIEW TOH CONSERVATORY OF MUSIC",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

@@ -1,0 +1,23 @@
+{
+"moduleCode": "PM5105",
+"moduleTitle": "Development Finance",
+"moduleCredit": "4",
+"lockedModules":[
+            "PM5116"
+        ],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "PM5105", 
+            "children": []
+},
+"moduleDescription": "Objective - This module introduces capital budgeting, project finance, and risk analysis. It covers the capital allocation framework, project cash flows, investment criteria, cost of capital, financial risk analysis, and how various types of projects are financed.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF DESIGN AND ENVIRONMENT",
+"department": "BUILDING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

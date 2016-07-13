@@ -1,0 +1,105 @@
+{
+"moduleCode": "FIN3120B",
+"moduleTitle": "TIF: Transaction Banking",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "FIN3101 Corporate Finance",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["FIN3101"]
+},
+"prerequisiteList": ["FIN3101","FNA2004","FIN2004","BK1003","BZ1002","BH1002","FNA1002","ACC1002","FNA1002X","ACC1002X","FNA1002E","BH1002E","EC3212","EG1422","BH2004","BZ2004","BK2004"],
+"completePrerequisite": {
+            "name": "FIN3120B", 
+            "children": [
+                {
+                    "name": "FIN3101", 
+                    "children": [
+                        {
+                            "name": "or", 
+                            "children": [
+                                {
+                                    "name": "FNA2004", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "FIN2004", 
+                                    "children": [
+                                        {
+                                            "name": "or", 
+                                            "children": [
+                                                {
+                                                    "name": "BK1003", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "BZ1002", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "BH1002", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "FNA1002", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "ACC1002", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "FNA1002X", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "ACC1002X", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "FNA1002E", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "BH1002E", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "EC3212", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "EG1422", 
+                                                    "children": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }, 
+                                {
+                                    "name": "BH2004", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "BZ2004", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "BK2004", 
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "Transaction banking is about moving money between entities and the four main areas of this business are cash management, trade finance, securities services and capital markets. This course will allow you to put yourself in the shoes of both transaction bankers and the corporate treasurers (and CFOs) to better understand the concepts and products of transaction banking. This course will provide you with an opportunity to apply the knowledge you have gained in the first half of the course to \u201cinnovatively\u201d solve real life transaction banking issues/cases.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF BUSINESS",
+"department": "FINANCE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

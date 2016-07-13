@@ -1,0 +1,61 @@
+{
+"moduleCode": "CM3291",
+"moduleTitle": "Advanced Experiments In Organic & Inorganic Chemistry",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "CM2111, CM2121 and CM2191",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " and ": [
+                "CM2111", 
+                "CM2121", 
+                "CM2191"
+            ]
+},
+"prerequisiteList": ["CM2111","CM1111","CM2121","CM1121","CM2191","CM1191"],
+"completePrerequisite": {
+            "name": "CM3291", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "CM2111", 
+                            "children": [
+                                {
+                                    "name": "CM1111", 
+                                    "children": []
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "CM2121", 
+                            "children": [
+                                {
+                                    "name": "CM1121", 
+                                    "children": []
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "CM2191", 
+                            "children": [
+                                {
+                                    "name": "CM1191", 
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "Laboratory work in Inorganic and Organic chemistry. This module is a major requirement for Chemistry students.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCIENCE",
+"department": "CHEMISTRY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

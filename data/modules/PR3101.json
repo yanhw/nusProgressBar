@@ -1,0 +1,31 @@
+{
+"moduleCode": "PR3101",
+"moduleTitle": "Principles Of Medicinal Chemistry",
+"moduleCredit": "4",
+"lockedModules":[
+            "PR4205",
+            "PR5212"
+        ],
+"preclusion": "NIL",
+"prerequisite": "PR1101",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["PR1101"]
+},
+"prerequisiteList": ["PR1101"],
+"completePrerequisite": {
+            "name": "PR3101", 
+            "children": [
+                {
+                    "name": "PR1101", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "Learning objectives: To impart an understanding of drugs as chemical entities whose biological activities are dependent on chemical structure and physicochemical properties. To have an understanding of the following properties/characteristics of a drug molecule and how they may influence activity: solubility, ionisation characteristics, lipophilicity, stereochemistry, metabolism. To be able to analyse data to provide a preliminary analysis of structure activity relationship. Major topics: Basic principles of drug design. Medicinal chemistry of selected groups of compounds will be discussed to emphasize relationships between structure, physicochemical properties and the molecular basis of drug action, where appropriate.Target students: Pharmacy Year Three and Applied Chemistry (Drug Option)",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCIENCE",
+"department": "PHARMACY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

@@ -1,0 +1,46 @@
+{
+"moduleCode": "YHU2233",
+"moduleTitle": "World Literature and its Discontents",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "YCC1111 Literature and Humanities 1 and YCC1112 Literature and Humanities 2",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " and ": [
+                "YCC1111", 
+                "YCC1112"
+            ]
+},
+"prerequisiteList": ["YCC1111","YCC1112"],
+"completePrerequisite": {
+            "name": "YHU2233", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "YCC1111", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "YCC1112", 
+                            "children": [
+                                {
+                                    "name": "YCC1111", 
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "Responding to the growing international circulation of literature in the early decades of the nineteenth century, Goethe declared, \u201cThe epoch of world literature is at hand, and everyone must strive to hasten its approach.\u201d The term \u201cworld literature,\u201d however, remains elusive and critics continue to grapple with David Damrosch\u2019s question of, \u201cwhich literature, whose world?\u201d This course will address the Arabic/Islamic tradition and some of the difficult questions it poses to global literary studies, challenges that are both unique in their particularities and exemplary of the tensions characteristic of incorporating \u2018minor literatures\u2019 into broader comparative paradigms of inquiry.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "YALE-NUS COLLEGE",
+"department": "YALE-NUS COLLEGE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

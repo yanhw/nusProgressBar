@@ -1,0 +1,33 @@
+{
+"moduleCode": "CE1109X",
+"moduleTitle": "Statics and Mechanics of Materials",
+"moduleCredit": "4",
+"lockedModules":[
+            "BN3201",
+            "CE2134",
+            "CE3155",
+            "MLE2104",
+            "ME2113"
+        ],
+"preclusion": "EG1109, EG1109FC, EG1109M, CE1109, CE1109FC",
+"prerequisite": "A Level Math / H2 Math or equivalent",
+"preclusionList": [
+            "EG1109F",
+            "CE1109",
+            "EG1109M",
+            "CE1109F",
+            "EG1109"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "CE1109X", 
+            "children": []
+},
+"moduleDescription": "This module introduces students to the fundamental concepts of statics and mechanics of materials and their applications to engineering problems. At the end of this course, students are expected to be able to draw a free body diagram and identify the unknown reaction forces/moments; solve statically determinate problems involving rigid bodies, pin-jointed frames and cables; solve statically indeterminate axial force member problems using stress-strain law and compatibility equations; determine the shear stress and angle of twist of torsional members; draw the bending moment and shear force diagrams for a loaded beam; and determine the stresses and deflections in beams.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "CIVIL & ENVIRONMENTAL ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,3,0,]]
+}

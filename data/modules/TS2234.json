@@ -1,0 +1,41 @@
+{
+"moduleCode": "TS2234",
+"moduleTitle": "Cultural Policy, the Arts and Society",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "TS1101E or GEM1003",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " or ": [
+                "TS1101E", 
+                "GEM1003"
+            ]
+},
+"prerequisiteList": ["TS1101E","GEM1003"],
+"completePrerequisite": {
+            "name": "TS2234", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "TS1101E", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "GEM1003", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module will explore the aesthetic or instrumentalist role of the arts in society and assess its implications on cultural policy, before evaluating different models of state subvention in the arts, from the arm's length approach to the interventionist, incentive and laissez-faire models. In the process, key contemporary policy issues, relating to the civilizing mission of the arts, the notion of identity in a postmodern intercultural situation, the twin demands of nationalism and internationalism, and the questions of corporate sponsorship versus the welfare state will be addressed, with particular emphasis on the Singaporean context.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "ENGLISH LANGUAGE & LITERATURE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

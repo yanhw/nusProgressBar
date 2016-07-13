@@ -1,0 +1,56 @@
+{
+"moduleCode": "AUD5112",
+"moduleTitle": "Clinical Audiology A - Part 2",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "AUD5101: Acoustic AUD5102: Anatomy & Physiology AUD5103: Pathologies of the Auditory System AUD5104: Perception of Sound and Speech AUD5105: Hearing Devices & Rehabilitation A (Part 1)",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " and ": [
+                "AUD5103", 
+                "AUD5104", 
+                "AUD5105", 
+                "AUD5102"
+            ]
+},
+"prerequisiteList": ["AUD5103","AUD5104","AUD5105","AUD5102"],
+"completePrerequisite": {
+            "name": "AUD5112", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "AUD5103", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "AUD5104", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "AUD5105", 
+                            "children": [
+                                {
+                                    "name": "AUD5104", 
+                                    "children": []
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "AUD5102", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This compulsory module is an extension of AUD5106 that introduces students to advance methods of diagnostic audiological assessment (objective and subjective tests) and management of adult patients. This module involves lecture in the morning and clinical practicum in the afternoon, whereby students will need to prepare and discuss session plans for cases to be observed on the day with clinical supervisor.",
+"crossModule": "-1",
+"corequisite": "AUD5108: Electrophysiology Assessment A; AUD5111: Hearing Devices & Rehabilitation A (Part 2)",
+"faculty": "YONG LOO LIN SCHOOL OF MEDICINE",
+"department": "DIVISION OF GRADUATE MEDICAL STUDIES",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

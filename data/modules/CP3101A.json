@@ -1,0 +1,39 @@
+{
+"moduleCode": "CP3101A",
+"moduleTitle": "Global Open Source Project",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "CS2103 or its equivalent",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["CS2103"]
+},
+"prerequisiteList": ["CS2103","CS1020","CS1010"],
+"completePrerequisite": {
+            "name": "CP3101A", 
+            "children": [
+                {
+                    "name": "CS2103", 
+                    "children": [
+                        {
+                            "name": "CS1020", 
+                            "children": [
+                                {
+                                    "name": "CS1010", 
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module is a part of an experimental global software engineering education initiative spearheaded by Stanford/Facebook. It is offered as part of the CP3101 Topics in Computing series. Student teams will be associated with a select group of open source software projects. These projects are characterized by being active in both development and utilization as well as being open to new and relatively inexperienced committers. They are also projects that are deemed to be relevant in today's software ecosystem. We also believe there is value in seeding awareness of how to contribute to open source projects like these among future technology leaders. Ideally there will also be some value from the development work student teams contribute back to the project as well.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF COMPUTING",
+"department": "DEAN'S OFFICE (SCHOOL OF COMPUTING)",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

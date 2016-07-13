@@ -1,0 +1,22 @@
+{
+"moduleCode": "ME5001",
+"moduleTitle": "Mechanical Engineering Project",
+"moduleCredit": "8",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "ME5001", 
+            "children": []
+},
+"moduleDescription": "This module involves supervised project over two semesters, on a topic approved by the Programme Manager of Department. The project work should relate to one of the areas of Mechanical Engineering: Applied Mechanics, Control & Mechatronics, Energy and Bio-Thermal Systems, Fluid Mechanics, Manufacturing and Materials.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "ENGINEERING",
+"department": "MECHANICAL ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

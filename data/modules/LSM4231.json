@@ -1,0 +1,47 @@
+{
+"moduleCode": "LSM4231",
+"moduleTitle": "Structural Biology",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "LSM2103",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["LSM2103"]
+},
+"prerequisiteList": ["LSM2103","LSM1101","LSM1401","LSM1102"],
+"completePrerequisite": {
+            "name": "LSM4231", 
+            "children": [
+                {
+                    "name": "LSM2103", 
+                    "children": [
+                        {
+                            "name": "or", 
+                            "children": [
+                                {
+                                    "name": "LSM1101", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "LSM1401", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "LSM1102", 
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module provides an overall view on the structure determination of protein molecules, protein complexes, protein ? DNA complexes and viral assemblies. Topics will include the theory and practice of the three major methods ? electron microscopy (EM), nuclear magnetic resonance (NMR) and X-ray crystallography.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCIENCE",
+"department": "BIOLOGICAL SCIENCES",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

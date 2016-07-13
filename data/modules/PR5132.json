@@ -1,0 +1,22 @@
+{
+"moduleCode": "PR5132",
+"moduleTitle": "Advanced Pharmacotherapy Iii",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "Acceptance in the PharmD programme or by permission",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "PR5132", 
+            "children": []
+},
+"moduleDescription": "This module is aimed at having students gain a fundamental understanding of the diagnosis and therapeutic management of haematologic, oncologic and immunologic disorders.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCIENCE",
+"department": "PHARMACY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

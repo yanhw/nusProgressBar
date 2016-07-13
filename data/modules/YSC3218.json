@@ -1,0 +1,34 @@
+{
+"moduleCode": "YSC3218",
+"moduleTitle": "Advanced Calculus",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "YSC2209 Proof (or permission of instructor) YSC3205 Linear Algebra (acceptable as a co-requisite too.)",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["YSC3205"]
+},
+"prerequisiteList": ["YSC3205","YSC2209"],
+"completePrerequisite": {
+            "name": "YSC3218", 
+            "children": [
+                {
+                    "name": "YSC3205", 
+                    "children": [
+                        {
+                            "name": "YSC2209", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This course focuses on the extension of calculus to smooth functions of many variables. A geometric approach leads to a treatment of regions in n-dimensional space, smooth functions and their derivatives, differential forms, cycles, and integration. This course may be suitable for students seeking advanced study in mathematics for physics or economics.",
+"crossModule": "-1",
+"corequisite": "YSC3205 Linear Algebra",
+"faculty": "YALE-NUS COLLEGE",
+"department": "YALE-NUS COLLEGE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

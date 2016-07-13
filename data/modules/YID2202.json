@@ -1,0 +1,29 @@
+{
+"moduleCode": "YID2202",
+"moduleTitle": "Energy Humanities: Culture, Energy, and the Environment",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "YID1201 Introduction to Environmental Studies",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["YID1201"]
+},
+"prerequisiteList": ["YID1201"],
+"completePrerequisite": {
+            "name": "YID2202", 
+            "children": [
+                {
+                    "name": "YID1201", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "This course draws upon new research across the arts, humanities and social sciences to help students better understand the cultural and social dimensions of our currents patterns of energy use, their environmental impacts, and the possibility of new energy futures. More generally, the course introduces students to the field of environmental humanities, and models the contributions of the humanities to a deeper understanding of environmental issues.",
+"crossModule": "-1",
+"corequisite": "YID1201 Introduction to Environmental Studies",
+"faculty": "YALE-NUS COLLEGE",
+"department": "YALE-NUS COLLEGE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

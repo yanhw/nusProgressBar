@@ -1,0 +1,24 @@
+{
+"moduleCode": "LL6003V",
+"moduleTitle": "China, India and International Law",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "Students who are taking or have taken LL6003.",
+"prerequisite": "NUS Compulsory Core Curriculum or its equivalent",
+"preclusionList": [
+            "LL6003"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "LL6003V", 
+            "children": []
+},
+"moduleDescription": "This course will examine the rise of China and India and it\u2019s impact on the international legal order. In particular, students will be led to discuss issues concerning (1) the origin and history of the relationship between developing countries and international law; (2) the rise of China and India and its challenge to the existing international legal order and legal norms; (3) China, India, and the multilateral trading system; (4) China, India and international investment; (5) the international law aspects of domestic policies in China and India; and (6) the international law aspects of competition and disputes between China and India. The course will also concentrate on demonstrating the interaction between international relations and international law.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "LAW",
+"department": "LAW",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

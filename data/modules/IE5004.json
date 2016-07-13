@@ -1,0 +1,22 @@
+{
+"moduleCode": "IE5004",
+"moduleTitle": "Engineering Probability And Simulation",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "IE5004", 
+            "children": []
+},
+"moduleDescription": "This module aims to provide engineers with a practical treatment of probability. Apart from the fundamental framework, examples showing how various concepts and techniques can be adapted to solve practical problems will be discussed. An introduction to simulation techniques such as the Monte Carlo method together with stochastic modeling are also included.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "INDUSTRIAL & SYSTEMS ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

@@ -1,0 +1,22 @@
+{
+"moduleCode": "BMU5008",
+"moduleTitle": "Corporate Governance, Business Law & Ethics",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "BMU5008", 
+            "children": []
+},
+"moduleDescription": "Corporate Governance gives an overview of the importance of corporate governance and the mechanisms that help control managerial behavior. Different models and systems of corporate governance internationally are compared and contrasted, and policy responses of different countries to corporate governance concerns are examined. The course will then examine specific corporate governance mechanisms and issues. The Ethics sub-module will enable students to think critically about contemporary ethical issues and dilemmas faced by businesses and their stakeholders.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF BUSINESS",
+"department": "DEAN'S OFFICE (BIZ)",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

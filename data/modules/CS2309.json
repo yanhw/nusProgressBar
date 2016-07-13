@@ -1,0 +1,86 @@
+{
+"moduleCode": "CS2309",
+"moduleTitle": "CS Research Methodology",
+"moduleCredit": "4",
+"lockedModules":[
+            "CP3209"
+        ],
+"preclusion": "CS2305S",
+"prerequisite": "(CS2010 or its equivalent) and (CS1231 or MA1100)",
+"preclusionList": [
+            "CS2305S"
+        ],
+"parsedPrerequisite": {
+            " and ": [
+                "CS2010", 
+                {
+                    " or ": [
+                        "CS1231", 
+                        "MA1100"
+                    ]
+                }
+            ]
+},
+"prerequisiteList": ["CS2010","CS1020","CS1010","CS1020E","CS1010E","CG1103","CS1231","MA1100"],
+"completePrerequisite": {
+            "name": "CS2309", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "CS2010", 
+                            "children": [
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "CS1020", 
+                                            "children": [
+                                                {
+                                                    "name": "CS1010", 
+                                                    "children": []
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "CS1020E", 
+                                            "children": [
+                                                {
+                                                    "name": "CS1010E", 
+                                                    "children": []
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "CG1103", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "or", 
+                            "children": [
+                                {
+                                    "name": "CS1231", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "MA1100", 
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF COMPUTING",
+"department": "COMPUTER SCIENCE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

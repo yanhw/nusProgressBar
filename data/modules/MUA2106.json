@@ -1,0 +1,34 @@
+{
+"moduleCode": "MUA2106",
+"moduleTitle": "Introduction To Computer Music 2",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "MUA2105",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["MUA2105"]
+},
+"prerequisiteList": ["MUA2105","MUA1114"],
+"completePrerequisite": {
+            "name": "MUA2106", 
+            "children": [
+                {
+                    "name": "MUA2105", 
+                    "children": [
+                        {
+                            "name": "MUA1114", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "Explores the techniques, repertoire and aesthetics of computer music. Composition and research projects are completed using the resources of the Computer Music Studios. Participation in at least one public performance programme is required.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "YONG SIEW TOH CONSERVATORY OF MUSIC",
+"department": "YONG SIEW TOH CONSERVATORY OF MUSIC",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

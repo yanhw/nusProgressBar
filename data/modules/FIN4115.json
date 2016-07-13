@@ -1,0 +1,105 @@
+{
+"moduleCode": "FIN4115",
+"moduleTitle": "Advanced Portfolio Mgt: Security Analysis & Valuation",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "- ACC1002 Financial Accounting - FIN3101 Corporate Finance - FIN3102 Investment Analysis and Portfolio Management",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["FIN3102"]
+},
+"prerequisiteList": ["FIN3102","FNA2004","FIN2004","BK1003","BZ1002","BH1002","FNA1002","ACC1002","FNA1002X","ACC1002X","FNA1002E","BH1002E","EC3212","EG1422","BH2004","BZ2004","BK2004"],
+"completePrerequisite": {
+            "name": "FIN4115", 
+            "children": [
+                {
+                    "name": "FIN3102", 
+                    "children": [
+                        {
+                            "name": "or", 
+                            "children": [
+                                {
+                                    "name": "FNA2004", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "FIN2004", 
+                                    "children": [
+                                        {
+                                            "name": "or", 
+                                            "children": [
+                                                {
+                                                    "name": "BK1003", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "BZ1002", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "BH1002", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "FNA1002", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "ACC1002", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "FNA1002X", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "ACC1002X", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "FNA1002E", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "BH1002E", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "EC3212", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "EG1422", 
+                                                    "children": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }, 
+                                {
+                                    "name": "BH2004", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "BZ2004", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "BK2004", 
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This advanced Seminar in Finance module will serve as a comprehensive real world examination of the quantitative, fundamental, behavioral, and model-based approaches utilized for performing security valuation in the financial industry. Major topics covered include Discounted Cash Flow Valuation, Relative Valuation, Multifactor Models, Liquidity, and Value Enhancement Strategies. Lectures will involve frequent interaction with practitioners from the industry, hands-on lab projects, and real-life examples. Students are also expected to research, write, and publish equity investment reports (preferably on companies with limited research analyst coverage) and/or portfolio investment strategies. These individual equity reports and a presentation in the form of a team-based stock pitch will subsequently be presented by the students to a panel of senior members from the Singapore investment management industry so as to showcase & ascertain students\u2019 equity research and stock-picking skills. There may also be an opportunity to put our skills to the test and manage real money (i.e., a live student-managed fund) during the course of the semester. This course is suitable for students interested in a career as a financial analyst (both on the buy-side and sell-side), or as a portfolio manager.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF BUSINESS",
+"department": "FINANCE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

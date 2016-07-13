@@ -1,0 +1,22 @@
+{
+"moduleCode": "ST5222",
+"moduleTitle": "Advanced Topics in Applied Statistics",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "Departmental approval",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "ST5222", 
+            "children": []
+},
+"moduleDescription": "Topics requiring a high level of statistical computing and some optimization can be covered here, for example, discriminant analysis, machine learning, highdimensionality and false discovery rates, stochastic search, MCMC, Monte Carlo integration, kernel smoothing and EM optimization methods.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCIENCE",
+"department": "STATISTICS & APPLIED PROBABILITY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

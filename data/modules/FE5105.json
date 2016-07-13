@@ -1,0 +1,22 @@
+{
+"moduleCode": "FE5105",
+"moduleTitle": "Corporate Financing And Risk",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "FE5105", 
+            "children": []
+},
+"moduleDescription": "This module is a core module for students of MSc in Financial Engineering. The topics include: Financial Markets and Instruments. Management of foreign exchange, money market, and derivatives desks. Asset-Liability management. Regulatory issues. Corporate Valuation, restructuring, leveraged buyouts, mergers and acquisitions. Issues of deal structures and management of cashflow.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SPECIALITY RESEARCH INSTITUTES/CENTRES",
+"department": "RISK MANAGEMENT INSTITUTE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,0,0,4,]]
+}

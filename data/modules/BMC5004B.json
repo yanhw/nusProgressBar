@@ -1,0 +1,22 @@
+{
+"moduleCode": "BMC5004B",
+"moduleTitle": "Asian Markets and Industries",
+"moduleCredit": "3",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "BMC5004B", 
+            "children": []
+},
+"moduleDescription": "The objective of this module is to provide a foundation for the understanding of the political environment of business. It presents an overview of the international political system, emphasizing international economic relations as they concern business executives rather than politicians and diplomats. Concepts covered include: the balance of power, national interest, sovereignty, international law, and diplomacy; prospects for world-order transformation; regional cooperation; North-South relations; technology transfer in the world economy; and the globalization of financial markets.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF BUSINESS",
+"department": "DEAN'S OFFICE (BIZ)",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

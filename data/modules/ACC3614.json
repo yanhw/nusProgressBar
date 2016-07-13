@@ -1,0 +1,93 @@
+{
+"moduleCode": "ACC3614",
+"moduleTitle": "Valuation",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "Students who have passed FNA3126 are not allowed to take ACC3614.",
+"prerequisite": "FNA2004 or FIN2004",
+"preclusionList": [
+            "FNA3126"
+        ],
+"parsedPrerequisite": {
+            " or ": [
+                "FNA2004", 
+                "FIN2004"
+            ]
+},
+"prerequisiteList": ["FNA2004","FIN2004","BK1003","BZ1002","BH1002","FNA1002","ACC1002","FNA1002X","ACC1002X","FNA1002E","BH1002E","EC3212","EG1422"],
+"completePrerequisite": {
+            "name": "ACC3614", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "FNA2004", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "FIN2004", 
+                            "children": [
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "BK1003", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "BZ1002", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "BH1002", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "FNA1002", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "ACC1002", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "FNA1002X", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "ACC1002X", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "FNA1002E", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "BH1002E", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "EC3212", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "EG1422", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module equips students with an understanding of the various valuation issues and methodologies available to accountants and managers. It specifically discusses valuation issues pertaining to the enterprise, assets for use, and liabilities. After taking this course, the students should be able to value certain classes of assets and liabilities which are of significant interest and importance to the modern business. Coverage includes fair value and value-in-use concepts, earnings multiple analysis, discounted cash flow analysis and real option analysis.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF BUSINESS",
+"department": "ACCOUNTING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

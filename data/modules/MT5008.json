@@ -1,0 +1,22 @@
+{
+"moduleCode": "MT5008",
+"moduleTitle": "Corporate Entrepreneurship",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "MT5008", 
+            "children": []
+},
+"moduleDescription": "Entrepreneurship is to the company what speed is to the athlete. In the quest for sustainable competitive advantage, companies are finding that lower costs, higher quality and better customer service are not enough - they must be faster, more flexible, more aggressive and more innovative. Most managers acknowledge this, but few seem to understand how to make it happen. Thus, the focus of this course will be on creating work environments where entrepreneurship is not the controversy, and students will be challenged to develop and defend their opinions regarding these matters. Students will take their ideas, concepts, tools and frameworks to which they are exposed and apply them both in a series of real world cases to perform an entrepreneurial audit of the company they are working for, and also come up with proposals of how their company could become more entrepreneurial.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "DIVISION OF ENGINEERING AND TECH MGT",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

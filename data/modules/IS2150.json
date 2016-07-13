@@ -1,0 +1,69 @@
+{
+"moduleCode": "IS2150",
+"moduleTitle": "E-Business Design and Implementation",
+"moduleCredit": "4",
+"lockedModules":[
+            "IS4010",
+            "CP3880",
+            "IS4150",
+            "IS4102"
+        ],
+"preclusion": "NIL",
+"prerequisite": "(CS1020 or CS1102 or CS1102S) and IS1112",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " and ": [
+                {
+                    " or ": [
+                        "CS1020", 
+                        "CS1102", 
+                        "CS1102S"
+                    ]
+                }, 
+                "IS1112"
+            ]
+},
+"prerequisiteList": ["CS1020","CS1010","CS1102","CS1102S","IS1112"],
+"completePrerequisite": {
+            "name": "IS2150", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "or", 
+                            "children": [
+                                {
+                                    "name": "CS1020", 
+                                    "children": [
+                                        {
+                                            "name": "CS1010", 
+                                            "children": []
+                                        }
+                                    ]
+                                }, 
+                                {
+                                    "name": "CS1102", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "CS1102S", 
+                                    "children": []
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "IS1112", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module aims to train students to be conversant in the technologies, approaches, principles and issues in designing effective e-commerce and e-business systems. Major topics include: J2EE and .NET for e-commerce, scripting languages (Javascript/JSP/ASP/PHP/Perl), development frameworks (Flex, AJAX, servlets), database design and management for the internet, tracking and analysis of customers, payment services/verification, implementing security, XML, inventory/order/shipping management services and systems, planning, designing and deploying web services, and operational considerations and technical tradeoffs.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "SCHOOL OF COMPUTING",
+"department": "INFORMATION SYSTEMS",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

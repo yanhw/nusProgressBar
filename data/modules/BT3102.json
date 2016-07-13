@@ -1,0 +1,60 @@
+{
+"moduleCode": "BT3102",
+"moduleTitle": "Computational Methods for Business Analytics",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "Completed 64 MCs and CS1020 and (MA1521 or MA1102R)",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " and ": [
+                "CS1020", 
+                {
+                    " or ": [
+                        "MA1521", 
+                        "MA1102R"
+                    ]
+                }
+            ]
+},
+"prerequisiteList": ["CS1020","CS1010","MA1521","MA1102R"],
+"completePrerequisite": {
+            "name": "BT3102", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "CS1020", 
+                            "children": [
+                                {
+                                    "name": "CS1010", 
+                                    "children": []
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "or", 
+                            "children": [
+                                {
+                                    "name": "MA1521", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "MA1102R", 
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "Computers are becoming readily accessible, and its use in business analytics is growing more prevalent. This module will introduce students to computational methods, algorithms and techniques used in business fields such as finance, marketing and economics to address complex analytics problems. The course will cover topics and algorithms in areas such as optimization methods, numerical analysis, simulations, monte-carlo methods, graph and flow methods, and computational complexity issues to address business analytics related problems. Students will get the opportunity to learn about these computational methods and issues through hands-on practice assignments, case analysis discussions, and course projects.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "SCHOOL OF COMPUTING",
+"department": "INFORMATION SYSTEMS",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

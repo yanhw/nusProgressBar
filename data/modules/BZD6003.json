@@ -1,0 +1,23 @@
+{
+"moduleCode": "BZD6003",
+"moduleTitle": "Applied Econometrics I",
+"moduleCredit": "4",
+"lockedModules":[
+            "BZD6004"
+        ],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "BZD6003", 
+            "children": []
+},
+"moduleDescription": "This course covers the theoretical and practical concerns in testing real world business data. The basic building blocks of empirical research design and identification are covered. This introductory course centers on how to use observational data to test for causal relationships.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF BUSINESS",
+"department": "STRATEGY AND POLICY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

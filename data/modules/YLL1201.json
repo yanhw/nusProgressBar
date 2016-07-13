@@ -1,0 +1,23 @@
+{
+"moduleCode": "YLL1201",
+"moduleTitle": "Beginning Latin",
+"moduleCredit": "5",
+"lockedModules":[
+            "YLL2202"
+        ],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "YLL1201", 
+            "children": []
+},
+"moduleDescription": "This intensive course offers four days a week of language instruction in Attic Latin for beginners. Instruction will cover the writing systems, vocabulary, and syntax of ancient Roman texts. Students will develop linguistic and cultural knowledge in ancient Mediterranean antiquity, and achieve a basic reading level by the end of the semester.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "YALE-NUS COLLEGE",
+"department": "YALE-NUS COLLEGE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

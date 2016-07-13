@@ -1,0 +1,24 @@
+{
+"moduleCode": "UTC1408",
+"moduleTitle": "Jr Sem: Technology and Human Progress",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "GEM1909",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "GEM1909"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "UTC1408", 
+            "children": []
+},
+"moduleDescription": "Technology is the creation and use of tools, techniques and processes to solve a problem or perform a specific function. In this junior seminar, students will explore and understand emergent technologies (informational, biomedical, assistive, instructional etc) and will seek to understand technologies from multidisciplinary perspectives. Students will pursue a specific area of interest (eg a specific new technology, and related ethical or legal issues) in-depth, and consider the potential implications of the widespread use of these technologies, both in advancing human progress; and the social, ethical and legal dilemmas they may pose to society.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "NON-FACULTY-BASED DEPARTMENTS",
+"department": "COLLEGE OF ALICE & PETER TAN",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

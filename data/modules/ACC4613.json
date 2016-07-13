@@ -1,0 +1,52 @@
+{
+"moduleCode": "ACC4613",
+"moduleTitle": "Forensic Accounting",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "ACC3603 Assurance and Attestation",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["ACC3603"]
+},
+"prerequisiteList": ["ACC3603","FNA1002","ACC1002","FNA2002"],
+"completePrerequisite": {
+            "name": "ACC4613", 
+            "children": [
+                {
+                    "name": "ACC3603", 
+                    "children": [
+                        {
+                            "name": "and", 
+                            "children": [
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "FNA1002", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "ACC1002", 
+                                            "children": []
+                                        }
+                                    ]
+                                }, 
+                                {
+                                    "name": "FNA2002", 
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "It is designed to broaden the career prospects of the accounting graduates in the realm of forensic accounting. This case-based syllabus includes the investigation and detection of financial crime, fraud, insurance claim, legal dispute, Insolvency, money laundering, serious tax crime, terror financing, corruption, identity theft, market manipulation, hidden assets, etc. Knowledge and skills to be taught in the module include data analytics, common modus operandi of financial crime, loss recovery, admissibility of evidence, interviewing suspects and witnesses, presentation in the court of law, and career opportunities as a forensic accountant.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF BUSINESS",
+"department": "ACCOUNTING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

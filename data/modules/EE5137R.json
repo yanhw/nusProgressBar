@@ -1,0 +1,26 @@
+{
+"moduleCode": "EE5137R",
+"moduleTitle": "Stochastic Processes",
+"moduleCredit": "4",
+"lockedModules":[
+            "EE6136",
+            "EE5133"
+        ],
+"preclusion": "EE5306 Random Signals Analysis",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "EE5306"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "EE5137R", 
+            "children": []
+},
+"moduleDescription": "This module is designed to serve as an advanced course in stochastic processes for research students specializing in communications and networks as well as other research areas that deal intensively with stochastic signal analysis and processing. Topics include: concepts and classification of stochastic processes; special processes (binary transmission, telegraph, random walk, Wiener-Levy, Poisson); transmission of stochastic processes through systems; stochastic integrals and ergodicity; bandlimited processes; Gaussian processes; Markov processes; Markov chains; counting processes. These topics will be treated with sufficient mathematical rigour so that students will learn various statistical concepts and their inter-relationships in the way of a connected theory.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "ELECTRICAL & COMPUTER ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

@@ -1,0 +1,22 @@
+{
+"moduleCode": "PP5178",
+"moduleTitle": "Leadership and Decision-making Skills",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "PP5178", 
+            "children": []
+},
+"moduleDescription": "This module is intended to examine the leadership and decision-making skills relevant to public policy formulation and implementation. It will be structured into 3 segments, namely: (a) the role and nature of leadership to public policy success; (b) the range of decision-making tools used in environmental analysis and the identification of the strategic objectives and policies, and (c) the role of behavioural economic insights and cognitive biases that public sector managers have to take into account in the choice and implementation of public policies. The approach will be multi-disciplinary, and Singapore\u2019s experience will be used to illustrate the application of general analytical tools and approaches to public policy.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "LEE KUAN YEW SCHOOL OF PUBLIC POLICY",
+"department": "LEE KUAN YEW SCHOOL OF PUBLIC POLICY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,0,3,4,]]
+}

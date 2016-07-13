@@ -1,0 +1,22 @@
+{
+"moduleCode": "CG1001",
+"moduleTitle": "Introduction to Computer Engineering",
+"moduleCredit": "2",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "CG1001", 
+            "children": []
+},
+"moduleDescription": "This module aims to provide an overview of Computer Engineering to the freshmen students. The module introduces the sub-areas, the issues, the impacts, and the challenges of Computer Engineering in transforming the world. The module demonstrates Computer Engineering as a multi-disciplinary field that transcends the traditional boundary of Computer Science and Electrical Engineering. It also gives the students an idea of the possible areas of specializations in their senior years of study.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "JOINT MULTI-DISCIPLINARY PROGRAMMES",
+"department": "COMPUTING & ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

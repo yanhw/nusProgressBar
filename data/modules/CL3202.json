@@ -1,0 +1,22 @@
+{
+"moduleCode": "CL3202",
+"moduleTitle": "Chinese Lexicology",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "Must obtain: 1) At least a B4 for (a) Higher Chinese at GCE 'O' Level, or (b) Chinese Language at GCE 'AO' Level (at GCE 'A' Level examination); OR 2) At least a pass for (a) Chinese at GCE 'A' Level, or (b) Higher Chinese at GCE 'A' Level; OR 3) At least C grade for Chinese Language (H1CL) at GCE 'A' Level; OR 4) At least a pass for (a) Chinese Language and Literature (H2CLL) at GCE 'A' Level, or (b) Chinese Language and Literature (H3CLL) at GCE 'A' Level. 5) Equivalent qualifications may be accepted.",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "CL3202", 
+            "children": []
+},
+"moduleDescription": "This module analyses the formation, meaning and historical development of Chinese words and idioms. Major topics to be covered include the nature of Chinese wordhood, the differences between Chinese words and Chinese phrases, the nature and characteristics of Chinese idioms, the historical origin of idiomatic expressions and other lexical categories, new words and their standardization, and various semantic relationship among words in Chinese. Preference will be given to students who have already taken CL1101E Introduction to Chinese Language.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "CHINESE STUDIES",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

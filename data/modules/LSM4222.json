@@ -1,0 +1,52 @@
+{
+"moduleCode": "LSM4222",
+"moduleTitle": "Advanced Immunology",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "LSM3223",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["LSM3223"]
+},
+"prerequisiteList": ["LSM3223","LSM2103","LSM1101","LSM1401","LSM1102"],
+"completePrerequisite": {
+            "name": "LSM4222", 
+            "children": [
+                {
+                    "name": "LSM3223", 
+                    "children": [
+                        {
+                            "name": "LSM2103", 
+                            "children": [
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "LSM1101", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "LSM1401", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "LSM1102", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This objective of this course is to provide students with a current and up to date view of immunology. Breakthrough areas will certainly vary from year to year, but the broad subject matter will remain. Among the highly competitive areas of immunology research focuses on innate immunity, dendritic cell biology, antigen processing and presentation, lymphocyte development and differentiation, induction of tolerance, mechanism of autoimmunity and allergy, and vaccine development.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "YONG LOO LIN SCHOOL OF MEDICINE",
+"department": "MICROBIOLOGY & IMMUNOLOGY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

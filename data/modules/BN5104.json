@@ -1,0 +1,22 @@
+{
+"moduleCode": "BN5104",
+"moduleTitle": "Quantitative Physiology Principles In Bioengineering",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "BN5104", 
+            "children": []
+},
+"moduleDescription": "This course will focus on three major systems (cardiovascular, endocrine and nervous system) and quantitatively described from both the cellular (membrane dynamics, ion transport, muscle and nerve, electric conduction and equilibria, wave propagation and intercellular communications, sensory receptors and others) and system physiology perspectives (regulation and control, homeostasis, specific functions of major organs). Problem-based approaches will be adopted for the students to integrate the life sciences and engineering principles to solve bioengineering problems relevant to human physiology.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "BIOMEDICAL ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

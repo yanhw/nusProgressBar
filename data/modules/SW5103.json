@@ -1,0 +1,24 @@
+{
+"moduleCode": "SW5103",
+"moduleTitle": "Family Systems Theory and Intervention",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "SW5243 Family in the Local Context",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "SW5243"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "SW5103", 
+            "children": []
+},
+"moduleDescription": "This module focuses on the ecological systems approach to family therapy. An in-depth understanding of the rationale for family therapy, theory, family assessment, intervention, and research in family therapy will be discussed. Theory and practice will be critically reviewed from an international perspective taking into consideration differences in the socio-political and cultural contexts in which family therapy is practiced. Skills and techniques for work with families will be emphasised. Supervised projects, case studies, role play, videos, coaching and live supervision may be used along with lectures in the seminar styled sessions. Integration of family therapy with other therapeutic interventions and in various social work settings such as schools, hospitals and community agencies will be discussed.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "SOCIAL WORK",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

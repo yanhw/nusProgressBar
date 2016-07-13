@@ -1,0 +1,24 @@
+{
+"moduleCode": "GEH1056",
+"moduleTitle": "Understanding Contemporary Cultures",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "GEK1005",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "GEK1005"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "GEH1056", 
+            "children": []
+},
+"moduleDescription": "This module is an introduction to the anthropological perspective within the social sciences. It covers a variety of topics including globalization, inequality, forms of exchange, consumption, the politics of gender, ethnicity and self-identity. These themes will be examined using a comparative and historical perspective to help students better understand the connections and processes that shape social life in Singapore and elsewhere in the world at different levels.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "SOCIOLOGY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

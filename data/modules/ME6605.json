@@ -1,0 +1,22 @@
+{
+"moduleCode": "ME6605",
+"moduleTitle": "Additive and Non-Conventional Manufacturing Processes",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "ME6605", 
+            "children": []
+},
+"moduleDescription": "This module focuses on principles, techniques and applications of abrasive and non conventional maching process and latest techniques on material additive in addition to material removal. Topics include grinding, ultrasonic maching, electrical discharge maching, laser beam maching, layered manufacturing, et cetera. Students are expected to carry out an independent study by project or term paper on the related topics.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "MECHANICAL ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

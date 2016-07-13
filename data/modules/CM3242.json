@@ -1,0 +1,61 @@
+{
+"moduleCode": "CM3242",
+"moduleTitle": "Instrumental Analysis II",
+"moduleCredit": "4",
+"lockedModules":[
+            "CM4241",
+            "CM4242"
+        ],
+"preclusion": "NIL",
+"prerequisite": "CM2142 or CM2166",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " or ": [
+                "CM2142", 
+                "CM2166"
+            ]
+},
+"prerequisiteList": ["CM2142","CM1131","FST1101","CM1401","CM2166"],
+"completePrerequisite": {
+            "name": "CM3242", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "CM2142", 
+                            "children": [
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "CM1131", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "FST1101", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "CM1401", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "CM2166", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "Advanced electrochemical methods; gas chromatography and liquid chromatography; other contemporary analytical procedures selected from: use of microwaves, sub- and supercritical fluids in extractions, micro-scale extraction, high-pressure solvent extraction, etc.; thermometric methods; automation of analytical procedures.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCIENCE",
+"department": "CHEMISTRY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

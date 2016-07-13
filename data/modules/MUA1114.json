@@ -1,0 +1,23 @@
+{
+"moduleCode": "MUA1114",
+"moduleTitle": "Introduction to Electronic Music",
+"moduleCredit": "2",
+"lockedModules":[
+            "MUA2105"
+        ],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "MUA1114", 
+            "children": []
+},
+"moduleDescription": "In this project-based class, students will learn the history, principles and practice of electronic music while composing works using original timbres created with software synthesizers, sampling devices and effects processors.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "YONG SIEW TOH CONSERVATORY OF MUSIC",
+"department": "YONG SIEW TOH CONSERVATORY OF MUSIC",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

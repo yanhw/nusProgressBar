@@ -1,0 +1,47 @@
+{
+"moduleCode": "CM3295",
+"moduleTitle": "Selected Experiments in Analytical Chem.",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "CM2142",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["CM2142"]
+},
+"prerequisiteList": ["CM2142","CM1131","FST1101","CM1401"],
+"completePrerequisite": {
+            "name": "CM3295", 
+            "children": [
+                {
+                    "name": "CM2142", 
+                    "children": [
+                        {
+                            "name": "or", 
+                            "children": [
+                                {
+                                    "name": "CM1131", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "FST1101", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "CM1401", 
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "Laboratory work in Analytical Restriction: This module is offered only to students taking Minor in Analytical Chemistry.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCIENCE",
+"department": "CHEMISTRY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

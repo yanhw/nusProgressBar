@@ -1,0 +1,41 @@
+{
+"moduleCode": "EE3501E",
+"moduleTitle": "Power Electronics",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "EE2005E or EE2021E",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " or ": [
+                "EE2005E", 
+                "EE2021E"
+            ]
+},
+"prerequisiteList": ["EE2005E","EE2021E"],
+"completePrerequisite": {
+            "name": "EE3501E", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "EE2005E", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "EE2021E", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "Power electronics forms an integral part of all electronics equipment from household appliances through information technology to transportation systems. This module develops the working knowledge, the foundation theory for generic power electronic circuits and the principles of their design. At the end of this module the student should be able to analyze and evaluate and carry out basic design of power electronics system for a large spectrum of applications. The topics covered are: Power semiconductor switches and characteristics. AC-to-DC converters and their performance. DC-to-DC converters: analysis and performance. DC-to-AC converters; analysis and performance. Switching circuits design and protection.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "ENGINEERING",
+"department": "BACHELOR OF TECHNOLOGY PROGRAMME",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

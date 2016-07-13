@@ -1,0 +1,22 @@
+{
+"moduleCode": "IS3251",
+"moduleTitle": "Principles of Technology Entrepreneurship",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "Pass 40 MCs",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "IS3251", 
+            "children": []
+},
+"moduleDescription": "The module introduces students to the concepts and principles of technology entrepreneurship. Students will learn about the current developments in entrepreneurship, worldwide and in Singapore and be taught to use a variety of tools, techniques and frameworks for the development and analysis of entrepreneurial businesses. Students taking the module should have an interest in entrepreneurship and a desire to be an entrepreneur at some stage in their lives.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF COMPUTING",
+"department": "INFORMATION SYSTEMS",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

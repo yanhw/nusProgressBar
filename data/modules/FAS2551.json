@@ -1,0 +1,41 @@
+{
+"moduleCode": "FAS2551",
+"moduleTitle": "FASS Internship",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "Modules may not be taken in the honours year, or used to delay honours. (The rationale is that students should concentrate on their (major) studies in the honours year, especially given the academically more challenging nature of the honours year modules.)",
+"prerequisite": "Student must have completed at least 60MC before they can enrol in the module. (This ensures that students have already experienced some part of the FASS curriculum. Generally, this requirement entails that most students will be able to access the modules only after three semesters of study.) Student must complete CFG1001 HeadStart or CFG1000 StepUp prior to start of internship.",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " or ": [
+                "CFG1001", 
+                "CFG1000"
+            ]
+},
+"prerequisiteList": ["CFG1001","CFG1000"],
+"completePrerequisite": {
+            "name": "FAS2551", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "CFG1001", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "CFG1000", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module gives FASS students the opportunity to pursue an internship as part of their undergraduate study. Interested students will need to secure a position and perform an internship in a company or organization, either for 8-12 weeks full time in special term, or 12-16 weeks part time in a regular semester. They will submit journal entries and other written reports, and meet with an Academic Advisor and Workplace Supervisor. Through the process, students will be exposed to corporate culture, sharpen soft skills, practice what they have learned in the classroom, and gain useful work experience.",
+"crossModule": "-1",
+"corequisite": "NA",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "DEAN'S OFFICE (ARTS & SOCIAL SC.)",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,0,0,4,]]
+}

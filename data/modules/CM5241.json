@@ -1,0 +1,66 @@
+{
+"moduleCode": "CM5241",
+"moduleTitle": "Modern Analytical Techniques",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "CM4242 or by permission",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["CM4242"]
+},
+"prerequisiteList": ["CM4242","CM3242","CM2142","CM1131","FST1101","CM1401","CM2166"],
+"completePrerequisite": {
+            "name": "CM5241", 
+            "children": [
+                {
+                    "name": "CM4242", 
+                    "children": [
+                        {
+                            "name": "CM3242", 
+                            "children": [
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "CM2142", 
+                                            "children": [
+                                                {
+                                                    "name": "or", 
+                                                    "children": [
+                                                        {
+                                                            "name": "CM1131", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "FST1101", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "CM1401", 
+                                                            "children": []
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "CM2166", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "Sample preparation, including miniaturised procedures of extraction; advanced coupled chromatography/mass spectrometry; advanced mass spectrometric techniques. Capillary electrophoresis: different modes of capillary electrophoresis, injection techniques, detection techniques and column technology. Scanning probe microscopy: scanning tunneling microscopy, atomic force microscopy, scanning electrochemical microscopy and scanning near-field optical microscopy. Determination of crystal and molecular structures by single crystal x-ray diffraction techniques.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCIENCE",
+"department": "CHEMISTRY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

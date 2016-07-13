@@ -1,0 +1,113 @@
+{
+"moduleCode": "IS4100",
+"moduleTitle": "IT Project Management",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "IS5110 and CS5212(old code for IS5110)",
+"prerequisite": "Pass 80 MCs and [CS2250 or (IS1103 and IS1105)] and (CS2261 or IS2103)",
+"preclusionList": [
+            "CS5212",
+            "IS5110"
+        ],
+"parsedPrerequisite": {
+            " and ": [
+                {
+                    " or ": [
+                        "CS2250", 
+                        {
+                            " and ": [
+                                "IS1103", 
+                                "IS1105"
+                            ]
+                        }
+                    ]
+                }, 
+                {
+                    " or ": [
+                        "CS2261", 
+                        "IS2103"
+                    ]
+                }
+            ]
+},
+"prerequisiteList": ["CS2250","IS1103","IS1105","CS2261","IS2103","CS1020","CS1010","CS1102","CS1102C","CS1102S"],
+"completePrerequisite": {
+            "name": "IS4100", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "or", 
+                            "children": [
+                                {
+                                    "name": "CS2250", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "and", 
+                                    "children": [
+                                        {
+                                            "name": "IS1103", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "IS1105", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "or", 
+                            "children": [
+                                {
+                                    "name": "CS2261", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "IS2103", 
+                                    "children": [
+                                        {
+                                            "name": "or", 
+                                            "children": [
+                                                {
+                                                    "name": "CS1020", 
+                                                    "children": [
+                                                        {
+                                                            "name": "CS1010", 
+                                                            "children": []
+                                                        }
+                                                    ]
+                                                }, 
+                                                {
+                                                    "name": "CS1102", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "CS1102C", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "CS1102S", 
+                                                    "children": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module focuses on the management of IS projects. Various managerial issues pertaining to the evaluation and selection of information systems projects, choice of project organization, planning, scheduling and budgeting of project activities and basic principles in control and project auditing will be covered. The students will also learn how to use practical techniques and tools, such as network models (PERT/CPM), simulation, and state-of-the-art project management software, in scheduling project activities. This module serves as a good introduction to information systems project management for students who may participate in coordinating and managing large-scale information systems projects.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF COMPUTING",
+"department": "INFORMATION SYSTEMS",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

@@ -1,0 +1,24 @@
+{
+"moduleCode": "PH4311",
+"moduleTitle": "Classical Chinese Through Philosophical Texts",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "CL3204. This is taught in Mandarin, those who could do this module should not be taking the proposed module. Reverse preclusion is not needed, as someone who passed the proposed module, if their Mandarin improved sufficiently, could still benefit from CL3204 and will not find that too easy.",
+"prerequisite": "Cohort 2011 and before: Completed 80MC, including 28 MCs in PH, with a minimum CAP of 3.5 or be on the Honours track. PH2301 or PH2302. Cohort 2012 onwards: Completed 80MC, including 28 MCs in PH, with a minimum CAP of 3.20 or be on the Honours track. PH2301 or PH2302.",
+"preclusionList": [
+            "CL3204"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "PH4311", 
+            "children": []
+},
+"moduleDescription": "This module introduces students to Classical Chinese through close reading and practice at translation of selected passages from philosophical texts, including a philosophically oriented grammatical introduction in English to the Classical Chinese language. It is intended for students who have little or only average second language reading ability in Mandarin. Topics include the fundamentals of Classical Chinese grammar and readings from philosophical texts written in Classical Chinese from different periods. This module will provide the language foundation required for students intending to do graduate work in Chinese Philosophy, and enable them to work with primary materials.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "PHILOSOPHY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

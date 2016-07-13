@@ -1,0 +1,76 @@
+{
+"moduleCode": "MNO3303",
+"moduleTitle": "Organisational Effectiveness",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "BH3303 or BZ3502 or BK4309D or BK3309N",
+"prerequisite": "MNO1001 or BH1001 or BZ1001 or BK2002 or HR2001 or HR2101 or HR3111 or HR3308",
+"preclusionList": [
+            "BK4309D",
+            "BK3309N",
+            "BZ3502",
+            "BH3303"
+        ],
+"parsedPrerequisite": {
+            " or ": [
+                "MNO1001", 
+                "BH1001", 
+                "BZ1001", 
+                "BK2002", 
+                "HR2001", 
+                "HR2101", 
+                "HR3111", 
+                "HR3308"
+            ]
+},
+"prerequisiteList": ["MNO1001","BH1001","BZ1001","BK2002","HR2001","HR2101","HR3111","HR3308"],
+"completePrerequisite": {
+            "name": "MNO3303", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "MNO1001", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "BH1001", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "BZ1001", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "BK2002", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "HR2001", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "HR2101", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "HR3111", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "HR3308", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This course aims to introduce students to the field of organisational theory - which applies concepts from various disciplines such as management studies, sociology, psychology, political sciences and economics to study organisations. The course is designed to encourage students to actively and critically use these concepts to make sense, diagnose, manage and respond to the emerging organisational needs and problems. The course covers topics such as organisational goals, strategy and effectiveness; dimensions of organisational structure; organisational design and environments; technology and organisational change; and organisational decision-making. The emphasis of this course is on the practical value of organisation theory for students as future members and managers of organisations. Developing an understanding of how organisations (should) operate is effectively critical so that students will able to fulfill their roles as future managers.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF BUSINESS",
+"department": "MANAGEMENT AND ORGANISATION",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

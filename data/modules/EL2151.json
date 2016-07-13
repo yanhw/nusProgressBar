@@ -1,0 +1,44 @@
+{
+"moduleCode": "EL2151",
+"moduleTitle": "Social Variation in English",
+"moduleCredit": "4",
+"lockedModules":[
+            "EL3258"
+        ],
+"preclusion": "EL2251",
+"prerequisite": "EL1101E or GEK1011",
+"preclusionList": [
+            "EL2251"
+        ],
+"parsedPrerequisite": {
+            " or ": [
+                "EL1101E", 
+                "GEK1011"
+            ]
+},
+"prerequisiteList": ["EL1101E","GEK1011"],
+"completePrerequisite": {
+            "name": "EL2151", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "EL1101E", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "GEK1011", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module considers how variation in language use relates to broader variation in the daily experiences of individuals and groups. Students examine how language constructs cultural abstractions such as social class, gender, and power relations and how these abstractions play out in language varieties and shape their defining characteristics. The module should appeal to students who wish to explore the interaction of language and society by drawing on linguistics, sociology, anthropology, and psychology, and to understand the practical implications of language variation for language policy and language education in multilingual societies such as Singapore.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "ENGLISH LANGUAGE & LITERATURE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

@@ -1,0 +1,43 @@
+{
+"moduleCode": "OT5202",
+"moduleTitle": "Analysis & Design of Offshore Structures",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "CE2155 or CE4 standing or higher",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["CE2155"]
+},
+"prerequisiteList": ["CE2155","EG1109F","EG1109"],
+"completePrerequisite": {
+            "name": "OT5202", 
+            "children": [
+                {
+                    "name": "CE2155", 
+                    "children": [
+                        {
+                            "name": "or", 
+                            "children": [
+                                {
+                                    "name": "EG1109F", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "EG1109", 
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module provides students with design knowledge on steel offshore structures. The major topics covered include planning considerations; design criteria and procedures; methods for determining loads; structural analysis methods; member and joint designs; material selection and welding requirements; and design for fabrication, transportation and installation phases. The module will be valuable to students interested in offshore engineering.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "CIVIL & ENVIRONMENTAL ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

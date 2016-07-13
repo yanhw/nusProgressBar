@@ -1,0 +1,25 @@
+{
+"moduleCode": "GEM1915",
+"moduleTitle": "Towards an Understanding of the Complex World",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "GEM1912 Jnr Sem: Systems Systems Everywhere (offered at CAPT, UTown) Despite the minimal overlap, the preclusion may be needed to ensure that students who have completed GEM1912 do not have an unfair starting advantage over others who take this module. GET1011",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "GET1011",
+            "GEM1912"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "GEM1915", 
+            "children": []
+},
+"moduleDescription": "What do natural resources utilization, spread of diseases and urbanization have in common? Why do economic, social and health systems behave the way they do? Students will explore these questions through the systems and critical thinking paradigm. Through collaborative work and classroom debates, students will expand and consolidate knowledge fragments into structured representations for larger, complex systems. By deciphering common motifs, and understanding the effect of interdependencies between the different parts of the system, students will develop critical stances about real-world phenomena. They will express their understanding of the structure and behavior of systems through multimedia reports and oral presentations.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "CHEMICAL & BIOMOLECULAR ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

@@ -1,0 +1,34 @@
+{
+"moduleCode": "BSP1005",
+"moduleTitle": "Managerial Economics",
+"moduleCredit": "4",
+"lockedModules":[
+            "BSP4513",
+            "EC2101",
+            "EC2102",
+            "EC3303",
+            "EC2374",
+            "BSP2001",
+            "IS3240",
+            "BSP3516"
+        ],
+"preclusion": "BH1005 or BZ1006 or BK1008 or All Econs major students.",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "BH1005",
+            "BK1008",
+            "BZ1006"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "BSP1005", 
+            "children": []
+},
+"moduleDescription": "This course aims to equip students with the basic working knowledge of contemporary economic thinking, and thus lays the foundation to many areas of their business studies in coming years. We adhere closely to mainstream economics thinking, but pay particular attention to business applications. We take our students through market equilibrium, competition, monopoly, price and non-price business strategies. Our teaching methodology takes a fundamentally problem-solving approach. Models and analytical skills are introduced in order to solve business problems systematically.Information technology and the Internet have made many changes in the way businesses are run, and Managerial Economics has changed significantly with it. We now devote a new portion of this course to discussing how network effects propel the information age, resulting in significant monopoly powers such as Microsoft. Related anti-trust and other cases are also discussed and analysed.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF BUSINESS",
+"department": "STRATEGY AND POLICY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

@@ -1,0 +1,52 @@
+{
+"moduleCode": "LSM4252",
+"moduleTitle": "Animal Reproduction",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "LSM3233",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["LSM3233"]
+},
+"prerequisiteList": ["LSM3233","LSM2103","LSM1101","LSM1401","LSM1102"],
+"completePrerequisite": {
+            "name": "LSM4252", 
+            "children": [
+                {
+                    "name": "LSM3233", 
+                    "children": [
+                        {
+                            "name": "LSM2103", 
+                            "children": [
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "LSM1101", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "LSM1401", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "LSM1102", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module covers the events and mechanisms leading to the development and differentiation of gonads and sexes in vertebrates, and eventually to the reproduction and propagation of a new generation. It also describes the use of animal models and discusses selected topics to highlight the current trends in animal reproduction.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCIENCE",
+"department": "BIOLOGICAL SCIENCES",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

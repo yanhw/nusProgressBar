@@ -1,0 +1,22 @@
+{
+"moduleCode": "EC4363",
+"moduleTitle": "Applied Population Economics",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "Cohort 2011 and before: Completed 80 MCs, including 28 MCs in EC, with a minimum CAP of 3.50 or be on the Honours track. EC3101, EC3102, EC3303, and EC3361 Cohort 2012 onwards: Completed 80 MCs, including 28 MCs in EC, with a minimum CAP of 3.20 or be on the Honours track. EC3101, EC3102, EC3303, and EC3361",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "EC4363", 
+            "children": []
+},
+"moduleDescription": "This course will provide a foundation in applied population economics in both developed and developing countries, with a focus on macro-demographic patterns and transitions, marriage and fertility, and household formation and bargaining. In addition to learning underlying models of economic decision-making, students will use Stata to conduct economic analysis of demographic trends, and they will write an original research paper that applies some of the principles covered to a topic of their choosing.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "ECONOMICS",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

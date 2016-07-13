@@ -1,0 +1,95 @@
+{
+"moduleCode": "EE4433",
+"moduleTitle": "Nanometer Scale Information Storage",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "EE5202, EE4414",
+"prerequisite": "PC2232 and EE3431C/EE3406",
+"preclusionList": [
+            "EE4414",
+            "EE5202"
+        ],
+"parsedPrerequisite": {
+            " and ": [
+                "PC2232", 
+                {
+                    " or ": [
+                        "EE3431C", 
+                        "EE3406"
+                    ]
+                }
+            ]
+},
+"prerequisiteList": ["PC2232","EE2011","MA1505","MA1506","MA1102R","MA1521","EE3431C","EE3406"],
+"completePrerequisite": {
+            "name": "EE4433", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "PC2232", 
+                            "children": [
+                                {
+                                    "name": "EE2011", 
+                                    "children": [
+                                        {
+                                            "name": "and", 
+                                            "children": [
+                                                {
+                                                    "name": "MA1505", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MA1506", 
+                                                    "children": [
+                                                        {
+                                                            "name": "or", 
+                                                            "children": [
+                                                                {
+                                                                    "name": "MA1102R", 
+                                                                    "children": []
+                                                                }, 
+                                                                {
+                                                                    "name": "MA1505", 
+                                                                    "children": []
+                                                                }, 
+                                                                {
+                                                                    "name": "MA1521", 
+                                                                    "children": []
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "or", 
+                            "children": [
+                                {
+                                    "name": "EE3431C", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "EE3406", 
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "Information storage is indispensable for every computerized system. Currently there are three major types of information storage technologies, i.e., magnetic data storage, optical disks, and solid-state memories. Although the operation principles are different, the common driving force for all these surface-based information storage technologies in the last few decades was the reduction of bit size so as to make it possible to store more data on a specific surface area. As a result, all these data storage devices are now operating in the nanometer regime. This module adopts a model-based approach to introduce information storage through focusing on the basic principles of various types of data storage systems and the associated roles of nanotechnology in each field. Emphasis will be on materials, devices and technologies that have made it possible to maintain a remarkable growth rate in storage density in the last decades and emerging technologies for tackling challenges ahead. Topics covered include solid state memory, optical disks, magnetic recording, and emerging technologies.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "ELECTRICAL & COMPUTER ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

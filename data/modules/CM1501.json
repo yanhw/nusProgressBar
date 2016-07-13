@@ -1,0 +1,28 @@
+{
+"moduleCode": "CM1501",
+"moduleTitle": "Organic Chemistry for Engineers",
+"moduleCredit": "4",
+"lockedModules":[
+            "MLE3104",
+            "FST2102B",
+            "BN3402"
+        ],
+"preclusion": "CM1121, CM1503",
+"prerequisite": "'A' level or H2 pass in Chemistry, or equivalent or CM1417",
+"preclusionList": [
+            "CM1503",
+            "CM1121"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "CM1501", 
+            "children": []
+},
+"moduleDescription": "Aliphatic hydrocarbons. Stereochemistry. Alkyl halides. Alcohols. Ethers and epoxides. Aldehydes and ketones. Carboxylic acids and derivatives. Aromatic hydrocarbons. Polycyclic aromatic hydrocarbons. Amines and diazonium compounds. Macromolecules. Principles of spectroscopy.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCIENCE",
+"department": "CHEMISTRY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

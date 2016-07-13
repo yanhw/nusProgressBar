@@ -1,0 +1,24 @@
+{
+"moduleCode": "SSY2223",
+"moduleTitle": "Western Music within a Singaporean Context",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "GES1020",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "GES1020"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "SSY2223", 
+            "children": []
+},
+"moduleDescription": "This module will look at the place of the Western Classical music tradition within the cultural life of Singapore. It will assess the impact of majority cultures (particularly from the Chinese, Malay and Indian communities) on the general reception of Western music, as well as on music written by Singapore-based composers. Students will be introduced to the principal figures in Singapore\u2019s musical development. The module will also chart the growth of music education in Singapore, both in the national schooling system as well as in private institutions and tertiary academies. A prior knowledge of music is helpful but not required.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "YONG SIEW TOH CONSERVATORY OF MUSIC",
+"department": "YONG SIEW TOH CONSERVATORY OF MUSIC",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

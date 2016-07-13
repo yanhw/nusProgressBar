@@ -1,0 +1,22 @@
+{
+"moduleCode": "EG5911",
+"moduleTitle": "Research Methodology & Ethics",
+"moduleCredit": "2",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "EG5911", 
+            "children": []
+},
+"moduleDescription": "This module provides engineering research students with the background knowledge on how to conduct research, based on best practices. Issues on good international ethical practices, technical writing skills and skills in scientific presentations will also be taught to the students. The mode of teaching will be based on integrated classroom lectures combined with interactive small group tutorials. Guest speakers will be invited to share their experiences so as to motivate the students. Students will be assessed though group assignment involving technical writing and oral presentation, in addition to taking an online quiz.",
+"crossModule": "-1",
+"corequisite": "Nil",
+"faculty": "ENGINEERING",
+"department": "DEAN'S OFFICE (ENGINEERING)",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

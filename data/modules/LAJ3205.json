@@ -1,0 +1,49 @@
+{
+"moduleCode": "LAJ3205",
+"moduleTitle": "Media Japanese",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "LAJ3201 Japanese 5, LAJ3203 Business Japanese 1 or placement test",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["LAJ3203"]
+},
+"prerequisiteList": ["LAJ3203","LAJ2203","LAJ2202","LAJ2201","LAJ1201"],
+"completePrerequisite": {
+            "name": "LAJ3205", 
+            "children": [
+                {
+                    "name": "LAJ3203", 
+                    "children": [
+                        {
+                            "name": "LAJ2203", 
+                            "children": [
+                                {
+                                    "name": "LAJ2202", 
+                                    "children": [
+                                        {
+                                            "name": "LAJ2201", 
+                                            "children": [
+                                                {
+                                                    "name": "LAJ1201", 
+                                                    "children": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module aims to provide students with further training in language skills and communication strategies to engage in authentic discourse involving various genres and media materials such as newspapers, films, TV programs and the Internet. Students will be taught to comprehend media texts such as newspaper articles, blog entries, and drama, etc. They will also engage in project work. Topics cover a wide variety of social and cultural issues in Japan, including popular culture and current affairs.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "CENTRE FOR LANGUAGE STUDIES",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

@@ -1,0 +1,40 @@
+{
+"moduleCode": "CS4247",
+"moduleTitle": "Graphics Rendering Techniques",
+"moduleCredit": "4",
+"lockedModules":[
+            "CS4340"
+        ],
+"preclusion": "NIL",
+"prerequisite": "CS3241",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["CS3241"]
+},
+"prerequisiteList": ["CS3241","CS1020","CS1010"],
+"completePrerequisite": {
+            "name": "CS4247", 
+            "children": [
+                {
+                    "name": "CS3241", 
+                    "children": [
+                        {
+                            "name": "CS1020", 
+                            "children": [
+                                {
+                                    "name": "CS1010", 
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module provides a general treatment of real-time and offline rendering techniques in 3D computer graphics. Specific topics include the raster graphics pipeline, viewing and transformation, real-time mapping techniques, real-time shadow algorithms, local reflection models, global illumination, distributed ray tracing, photon mapping, radiosity, volume rendering, image-based rendering and modelling, and strategies for anti-aliasing and photo-realism.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF COMPUTING",
+"department": "COMPUTER SCIENCE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

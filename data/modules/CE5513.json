@@ -1,0 +1,45 @@
+{
+"moduleCode": "CE5513",
+"moduleTitle": "Plastic Analysis Of Structures",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "CE5885A Topics in Structural Engineering: Advanced Analysis",
+"prerequisite": "CE2155 or CE4 standing or higher",
+"preclusionList": [
+            "CE5885A"
+        ],
+"parsedPrerequisite": {
+" and ": ["CE2155"]
+},
+"prerequisiteList": ["CE2155","EG1109F","EG1109"],
+"completePrerequisite": {
+            "name": "CE5513", 
+            "children": [
+                {
+                    "name": "CE2155", 
+                    "children": [
+                        {
+                            "name": "or", 
+                            "children": [
+                                {
+                                    "name": "EG1109F", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "EG1109", 
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module provides students with basic knowledge on the theory of plasticity and their application for analysis and design of civil engineering structures. The topics covered include basic concepts of plasticity; the plastic hinge; tools used in plastic analysis and design; plastic design of beams, portal frames and multi-storey buildings, and computer methods for analysing large scale framework. Students are taught to deal with general inelastic problems of frames including computer applications and numerical formulation. The module of specialized context targets at undergraduate and graduate students in research or engineering practices relating to structural analysis and design.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "CIVIL & ENVIRONMENTAL ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

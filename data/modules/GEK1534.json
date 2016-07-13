@@ -1,0 +1,24 @@
+{
+"moduleCode": "GEK1534",
+"moduleTitle": "Microbes which Changed Human History",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "GEH1043",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "GEH1043"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "GEK1534", 
+            "children": []
+},
+"moduleDescription": "The primary aim of the module is to introduce students to the nature of infectious diseases and their impact on human activities. At the end of the module, students will be able to understand the interactions between microorganisms and human, and the position and role of human in the living world.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "YONG LOO LIN SCHOOL OF MEDICINE",
+"department": "MICROBIOLOGY & IMMUNOLOGY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

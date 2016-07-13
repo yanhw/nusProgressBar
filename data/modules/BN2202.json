@@ -1,0 +1,61 @@
+{
+"moduleCode": "BN2202",
+"moduleTitle": "Introduction to Biotransport",
+"moduleCredit": "4",
+"lockedModules":[
+            "BN3501",
+            "BN4202"
+        ],
+"preclusion": "NIL",
+"prerequisite": "MA1505 Mathematics I and MA1506 Mathematics II",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " and ": [
+                "MA1505", 
+                "MA1506"
+            ]
+},
+"prerequisiteList": ["MA1505","MA1506","MA1102R","MA1521"],
+"completePrerequisite": {
+            "name": "BN2202", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "MA1505", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "MA1506", 
+                            "children": [
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "MA1102R", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "MA1505", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "MA1521", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module will present fundamental transport solutions which model the major features of biological flow. The conservation of mass, momentum, and energy in a system will be studied and applied to blood flows in the cardiovascular system. Basic knowledge of non-Newtonian fluid mechanics will also be covered. Bifurcation flow and Hemorheology in macrocirculation and microcirculation will be discussed. Mass transfer will be introduced to the students for applications in drug delivery, dialysis devices and bioreactors.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "BIOMEDICAL ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

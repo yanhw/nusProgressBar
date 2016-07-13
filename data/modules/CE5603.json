@@ -1,0 +1,22 @@
+{
+"moduleCode": "CE5603",
+"moduleTitle": "Engineering Economics & Project Evaluation",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "CE5603", 
+            "children": []
+},
+"moduleDescription": "This module equips students with the analytical methods and techniques to evaluate projects from an economic perspective. The purpose of the evaluation is to enable rational project selection and capital allocation taking into consideration factors like risk, uncertainty, inflation, and foreign exchange.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "CIVIL & ENVIRONMENTAL ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

@@ -1,0 +1,48 @@
+{
+"moduleCode": "PC2133",
+"moduleTitle": "Applied Solid State Physics",
+"moduleCredit": "4",
+"lockedModules":[
+            "ESP3102",
+            "PC3242",
+            "PC3241",
+            "PC3243",
+            "ESP3401"
+        ],
+"preclusion": "Students who have passed PC3235 are not allowed to take PC2133",
+"prerequisite": "Students who have passed either PC1144 or PC1433.",
+"preclusionList": [
+            "PC3235"
+        ],
+"parsedPrerequisite": {
+            " or ": [
+                "PC1144", 
+                "PC1433"
+            ]
+},
+"prerequisiteList": ["PC1144","PC1433"],
+"completePrerequisite": {
+            "name": "PC2133", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "PC1144", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "PC1433", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "Structure of solids, practical determination of structure, elasticity, phonons and latticevibration; thermal propertire of insulators, free electron gas; semiconductor crystals. Transport properties.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCIENCE",
+"department": "PHYSICS",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

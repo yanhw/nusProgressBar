@@ -1,0 +1,64 @@
+{
+"moduleCode": "CG3002",
+"moduleTitle": "Embedded Systems Design Project",
+"moduleCredit": "6",
+"lockedModules":[
+],
+"preclusion": "EE3032 Innovation & Enterprise II EE3208 Embedded Computer Systems Design",
+"prerequisite": "EE2024 Programming for Computer Interfaces, CG2271 Real Time Operating Systems and CS2103 Software Engineering",
+"preclusionList": [
+            "EE3208",
+            "EE3032"
+        ],
+"parsedPrerequisite": {
+            " and ": [
+                "CG2271", 
+                "CS2103"
+            ]
+},
+"prerequisiteList": ["CG2271","CS1020","CS1010","CS2103"],
+"completePrerequisite": {
+            "name": "CG3002", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "CG2271", 
+                            "children": [
+                                {
+                                    "name": "CS1020", 
+                                    "children": [
+                                        {
+                                            "name": "CS1010", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "CS2103", 
+                            "children": [
+                                {
+                                    "name": "CS1020", 
+                                    "children": [
+                                        {
+                                            "name": "CS1010", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module introduces students to the development of a large system from conceptualisation to its final implementation. It is structured to contain substantial design and development of hardware and software components. This module is the culminating point of a series of modules integrating the theories which students have already learnt in CG1101, CG1102/CG1103, CG2007, CG2271 and CS2103. With this capstone project, students would be able to better appreciate the relevance of the various components in the Computer Engineering curriculum to large scale computer engineering projects.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "JOINT MULTI-DISCIPLINARY PROGRAMMES",
+"department": "COMPUTING & ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

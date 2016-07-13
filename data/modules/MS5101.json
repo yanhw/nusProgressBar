@@ -1,0 +1,22 @@
+{
+"moduleCode": "MS5101",
+"moduleTitle": "Social Science And Malay Studies",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "MS5101", 
+            "children": []
+},
+"moduleDescription": "This module explores the relevance and applicability of selected major theories in the social sciences for Malay Studies. As far as possible the module aims at combining theoretical reflection with research materials on major aspects of Malay society and culture. The module encourages the exploration of creative methodology and theorising in Malay Studies research beyond mere exposition of social scientific theories. The module is highly relevant for students interested in understanding the promises as well as the pitfalls of the social sciences in Southeast Asian research.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "MALAY STUDIES",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

@@ -1,0 +1,56 @@
+{
+"moduleCode": "MLE3105",
+"moduleTitle": "Dielectric and Magnetic Materials",
+"moduleCredit": "3",
+"lockedModules":[
+            "MLE4209"
+        ],
+"preclusion": "NIL",
+"prerequisite": "MLE1101 or MLE2105",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " or ": [
+                "MLE1101", 
+                "MLE2105"
+            ]
+},
+"prerequisiteList": ["MLE1101","MLE2105","MLE2101"],
+"completePrerequisite": {
+            "name": "MLE3105", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "MLE1101", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "MLE2105", 
+                            "children": [
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "MLE1101", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "MLE2101", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "Polarisation mechanisms; ferroelectricity and piezoelectricity; domain structure and hystereisis; permittivity and dielectric loss; optical properties of dielectric materials; fundamental of magnetism: magnetic moment, magnetic coupling and magnetic anisotropy; technical magnetisation: domain structure, magnetic hysteresis; introduction to magnetic materials.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "ENGINEERING",
+"department": "MATERIALS SCIENCE AND ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

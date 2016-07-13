@@ -1,0 +1,79 @@
+{
+"moduleCode": "IGL3550",
+"moduleTitle": "Extended Global Studies Internship",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "Any other XX3550 internship modules (Note: Students who change major may not do a second internship in their new major)",
+"prerequisite": "Students should have completed a minimum of 24 MC in Global Studies including GL1101E and one of the following Core Modules GL2101, GL2102, GL2103; and have declared Global Studies as their Major.",
+"preclusionList": [
+            "MS3550",
+            "SE3550",
+            "IEU3550",
+            "JS3550",
+            "SW3550",
+            "GE3550B",
+            "GE3550A",
+            "PS3550",
+            "NM3550",
+            "EU3550",
+            "ISE3550",
+            "INM3550"
+        ],
+"parsedPrerequisite": {
+            " and ": [
+                "GL1101E", 
+                "GL2101", 
+                "GL2102", 
+                "GL2103"
+            ]
+},
+"prerequisiteList": ["GL1101E","GL2101","GL2102","GL2103"],
+"completePrerequisite": {
+            "name": "IGL3550", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "GL1101E", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "GL2101", 
+                            "children": [
+                                {
+                                    "name": "GL1101E", 
+                                    "children": []
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "GL2102", 
+                            "children": [
+                                {
+                                    "name": "GL1101E", 
+                                    "children": []
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "GL2103", 
+                            "children": [
+                                {
+                                    "name": "GL1101E", 
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "Internships vary in length but all take place within organisations or companies, are vetted and approved by the Convenor of the Global Studies Programme, have relevance to the major in Global Studies, involve the application of subject knowledge and theory in reflection upon the work, and are assessed. Available credited internships will be advertised at the beginning of each semester. In exceptional cases, internships proposed by students may be approved by the department.",
+"crossModule": "-1",
+"corequisite": "Nil",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "POLITICAL SCIENCE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,0,0,4,]]
+}

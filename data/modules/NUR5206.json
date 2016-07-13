@@ -1,0 +1,22 @@
+{
+"moduleCode": "NUR5206",
+"moduleTitle": "Health Care Policy and Quality Management",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "NUR5206", 
+            "children": []
+},
+"moduleDescription": "This module aims to provide students with an understanding of the fundamentals principles of health ecomomics and ecomomic reasoning as applied in health care policy adn quality management of health care services.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "YONG LOO LIN SCHOOL OF MEDICINE",
+"department": "NURSING/ALICE LEE CTR FOR NURSING STUD",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

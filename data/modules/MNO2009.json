@@ -1,0 +1,29 @@
+{
+"moduleCode": "MNO2009",
+"moduleTitle": "Entrepreneurship",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "MNO1001 Management and Organisation",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["MNO1001"]
+},
+"prerequisiteList": ["MNO1001"],
+"completePrerequisite": {
+            "name": "MNO2009", 
+            "children": [
+                {
+                    "name": "MNO1001", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "This course aims to provide an introduction to the venture creation process. The course provides an overview of the major elements of entrepreneurial activity including evaluating and planning a new business, financing, team building, related marketing and management issues and exit strategies. The course utilises class discussions, in-class exercises and participation in a competitive simulation project to achieve the course objectives.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF BUSINESS",
+"department": "MANAGEMENT AND ORGANISATION",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

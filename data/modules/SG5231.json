@@ -1,0 +1,22 @@
+{
+"moduleCode": "SG5231",
+"moduleTitle": "Agile Software Project Management",
+"moduleCredit": "3",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "SG5231", 
+            "children": []
+},
+"moduleDescription": "This course aims to provide an in-depth understanding of the practice of Agile software project management. The course is very relevant today as leading organizations are adopting Agile. Hence, it is imperative that aspiring and practicing project managers are taught Agile techniques so that they are able to effectively manage such projects in industry. While existing frameworks like SCRUM and DSDM cover certain aspects related to developing a product solution, they do not define an end to end approach for managing Agile projects. This course addresses this short coming by providing a holistic understanding of Agile project management.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "NON-FACULTY-BASED DEPARTMENTS",
+"department": "INSTITUTE OF SYSTEMS SCIENCE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

@@ -1,0 +1,41 @@
+{
+"moduleCode": "PL3241",
+"moduleTitle": "Personality & Individual Differences",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "PL1101E and PL2131",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " and ": [
+                "PL1101E", 
+                "PL2131"
+            ]
+},
+"prerequisiteList": ["PL1101E","PL2131"],
+"completePrerequisite": {
+            "name": "PL3241", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "PL1101E", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "PL2131", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module introduces students to research on personality and individual differences. The main theories and measurement of related constructs will be discussed with an emphasis on normal, rather than abnormal, populations. Topics covered may include personality traits, motivational constructs, cognitive ability constructs and cognitive styles. Reference will also be made to some current applications such as personnel selection.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "PSYCHOLOGY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

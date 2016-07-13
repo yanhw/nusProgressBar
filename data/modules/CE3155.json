@@ -1,0 +1,48 @@
+{
+"moduleCode": "CE3155",
+"moduleTitle": "Structural Analysis",
+"moduleCredit": "4",
+"lockedModules":[
+            "CE4258",
+            "CE4257"
+        ],
+"preclusion": "NIL",
+"prerequisite": "EG1109FC/EG1109/CE1109X",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " or ": [
+                "EG1109F", 
+                "EG1109", 
+                "CE1109X"
+            ]
+},
+"prerequisiteList": ["EG1109F","EG1109","CE1109X"],
+"completePrerequisite": {
+            "name": "CE3155", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "EG1109F", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "EG1109", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "CE1109X", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module covers the fundamentals of structural analysis. Students will learn idealization of structural components, materials, loads and supports, concepts of statical redundancy, determinacy and stability, energy theorems, analysis of trusses, beams and frames. The second part of the module will teach students the methods and principles of advanced structural analysis, with emphasis on matrix methods of linear structural analysis, influence line analysis and approximate lateral load analysis. Students will also familiarize themselves with software for stress and deformation analysis of typical civil engineering structures. The module is compulsory for civil engineering undergraduate students without which he will not be qualified to perform his task as respectable civil engineer.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "CIVIL & ENVIRONMENTAL ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

@@ -1,0 +1,72 @@
+{
+"moduleCode": "LAG4201",
+"moduleTitle": "German 5",
+"moduleCredit": "5",
+"lockedModules":[
+            "LAG4202"
+        ],
+"preclusion": "NIL",
+"prerequisite": "Passed LAG3202, LAG3203 or placement test",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " and ": [
+                "LAG3202", 
+                "LAG3203"
+            ]
+},
+"prerequisiteList": ["LAG3202","LAG3201","LAG2201","LAG1201","LAG3203"],
+"completePrerequisite": {
+            "name": "LAG4201", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "LAG3202", 
+                            "children": [
+                                {
+                                    "name": "LAG3201", 
+                                    "children": [
+                                        {
+                                            "name": "LAG2201", 
+                                            "children": [
+                                                {
+                                                    "name": "LAG1201", 
+                                                    "children": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "LAG3203", 
+                            "children": [
+                                {
+                                    "name": "LAG3201", 
+                                    "children": [
+                                        {
+                                            "name": "LAG2201", 
+                                            "children": [
+                                                {
+                                                    "name": "LAG1201", 
+                                                    "children": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module aims to equip students with adequate skills and strategies to engage in serious discourse with native or other foreign speakers or write argumentative pieces on complex social, political, cultural and environmental topics. Such skills will encompass learning how to summarise long and difficult texts, structuring essays, collating linguistic means of expressions for language production and improving text cohesion.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "CENTRE FOR LANGUAGE STUDIES",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

@@ -1,0 +1,28 @@
+{
+"moduleCode": "PR2103",
+"moduleTitle": "Pharmacostatistics",
+"moduleCredit": "4",
+"lockedModules":[
+            "PR4103"
+        ],
+"preclusion": "ST1131 or ST1131A or ST1232 or ST2334",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "ST1131",
+            "ST1131A",
+            "ST1232",
+            "ST2334"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "PR2103", 
+            "children": []
+},
+"moduleDescription": "Learning objectives: To understand some basic concepts in statistics and their applications in pharmacy. To use statistical computer package to perform data management and analysis. To be able to interpret the statistical portions of most articles in pharmaceutical and clinical journals. Major Topics: Descriptive statistics and graphical methods. Basic concepts of probability. Statistical estimation. Hypothesis testing. Comparison of two means. Linear regression. Correlation. Target students: Pharmacy Year Two",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCIENCE",
+"department": "PHARMACY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}
