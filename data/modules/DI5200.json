@@ -1,0 +1,22 @@
+{
+"moduleCode": "DI5200",
+"moduleTitle": "Advanced General Dentistry",
+"moduleCredit": "0",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "DI5200", 
+            "children": []
+},
+"moduleDescription": "The Gradute Diploma in Advanced General Dentistry is a two-year part-time programme. The programme will be conducted through lectures, seminars, literature reviews, pre-clinical and clinical skills training. Candidates will attend some didactic sessions of the existing specialty programmes. Students will be expected to carry out their clinical requirements in NUS under supervision. All clinical work will be tracked through clinical log book.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "DENTISTRY",
+"department": "DENTISTRY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

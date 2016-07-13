@@ -1,0 +1,34 @@
+{
+"moduleCode": "PLC5007",
+"moduleTitle": "Advanced Psychological Practice",
+"moduleCredit": "2",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "PLC5011 (Clinical Placement 1)",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["PLC5011"]
+},
+"prerequisiteList": ["PLC5011","PLC5001"],
+"completePrerequisite": {
+            "name": "PLC5007", 
+            "children": [
+                {
+                    "name": "PLC5011", 
+                    "children": [
+                        {
+                            "name": "PLC5001", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module provides training in empirically supported psychological therapies for various psychiatric and personality disorders. It builds on the training in therapeutic skills and techniques provided in module PLC5004 Psychological Intervention and Therapy and prepares students further for clinical practice.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "PSYCHOLOGY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

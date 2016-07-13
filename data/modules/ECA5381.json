@@ -1,0 +1,22 @@
+{
+"moduleCode": "ECA5381",
+"moduleTitle": "Urban Economics",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "ECA5381", 
+            "children": []
+},
+"moduleDescription": "The module provides an overview of key urban economic theories, including increasing return and spatial equilibrium, urban transportation and urban forms, housing choices and residential externalities, and urban growth and public finance. These theories are then applied to the analysis of urban challenges, such as urbanization, land-use efficiency, housing affordability, and sustainable urban development.",
+"crossModule": "-1",
+"corequisite": "Nil",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "ECONOMICS",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

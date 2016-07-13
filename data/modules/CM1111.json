@@ -1,0 +1,25 @@
+{
+"moduleCode": "CM1111",
+"moduleTitle": "Inorganic Chemistry 1",
+"moduleCredit": "4",
+"lockedModules":[
+            "CM2111",
+            "CM2289",
+            "CM4282"
+        ],
+"preclusion": "NIL",
+"prerequisite": "'A' level or H2 pass in Chemistry or equivalent",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "CM1111", 
+            "children": []
+},
+"moduleDescription": "Basic concepts of acids and bases, and periodicity and chemistry of most main group elements are covered in this module. Topics include Bronsted and Lewis acids and bases, hard and soft acid- base concept, and group trends and general properties of metals and non-metals.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCIENCE",
+"department": "CHEMISTRY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

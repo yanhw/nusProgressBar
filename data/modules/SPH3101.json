@@ -1,0 +1,79 @@
+{
+"moduleCode": "SPH3101",
+"moduleTitle": "Biostatistics for Public Health",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "Any of the following modules or their equivalent, subject to approval by module coordinator: BN2012 Bioengineering Data Analysis DSC2008 Business Analytics \u2013 Data and Decisions EC2303 Foundations for Econometrics PR2103 Pharmacostatistics SC3209 Data Analysis in Social Research ST1131 Introduction to Statistics ST1232 Statistics for Life Sciences ST2334 Probability and Statistics",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " and ": [
+                "ST1232", 
+                "ST2334"
+            ]
+},
+"prerequisiteList": ["ST1232","ST2334","MA1306","MA1102","MA1102R","MA1505","MA1505C","MA1521","MA1312","MA1507"],
+"completePrerequisite": {
+            "name": "SPH3101", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "ST1232", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "ST2334", 
+                            "children": [
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "MA1306", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "MA1102", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "MA1102R", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "MA1505", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "MA1505C", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "MA1521", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "MA1312", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "MA1507", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module will introduce the entire biostatistical data analysis workflow in public health, from data management to data analysis and the interpretation of results, translating data into reliable and consumable information for knowledge discovery in public health. Particular emphasis on the application of regression models in public health without the mathematical details and the proficiency in using statistical software (SPSS) to perform data analysis, integrating biostatistics, computer applications and public health for improving the health of mankind.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "SAW SWEE HOCK SCHOOL OF PUBLIC HEALTH",
+"department": "SAW SWEE HOCK SCHOOL OF PUBLIC HEALTH",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

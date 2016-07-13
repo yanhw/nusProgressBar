@@ -1,0 +1,46 @@
+{
+"moduleCode": "PL3243",
+"moduleTitle": "Sensation and Perception",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "PL1101E and PL3233",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " and ": [
+                "PL1101E", 
+                "PL3233"
+            ]
+},
+"prerequisiteList": ["PL1101E","PL3233"],
+"completePrerequisite": {
+            "name": "PL3243", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "PL1101E", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "PL3233", 
+                            "children": [
+                                {
+                                    "name": "PL1101E", 
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "The aim of the module is to introduce students to the basic methods of vision science, and to fundamental aspects of, and current research in, sensation and perception. The methods part of the course introduces the student to both classical and modern psychophysical methods, as well as the basic concepts of fourier analysis. The content part examines aspects of sensory psychology, with emphases on vision and audition. We will trace an arc that starts from a consideration of neural processing, and ends with the representation of the perceptual world in the brain.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "PSYCHOLOGY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

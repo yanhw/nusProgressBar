@@ -1,0 +1,47 @@
+{
+"moduleCode": "PC2267",
+"moduleTitle": "Biophysics I",
+"moduleCredit": "4",
+"lockedModules":[
+            "PC3267"
+        ],
+"preclusion": "NIL",
+"prerequisite": "PC1143 or PC1432 or PC1421 or departmental approval",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " or ": [
+                "PC1143", 
+                "PC1432", 
+                "PC1421"
+            ]
+},
+"prerequisiteList": ["PC1143","PC1432","PC1421"],
+"completePrerequisite": {
+            "name": "PC2267", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "PC1143", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "PC1432", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "PC1421", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module introduces the underlying principles and mechanisms of physics behind life sciences. It incorporates introductory concepts of physics into the phenomena associated with biological functions. The topics to be covered include: biological structures and the relation to biophysics; principles and methods of physics applied to biology; physical aspects of structure and functionalities of biomolecules, physical principles of bioenergy conversion and membrane-bound energy transduction; physical processes of bio-transport, nerves and bioelectricity. The module includes some basic biophysics experiments. It is targeted at both physics and non-physics students who already have basic knowledge in physics.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCIENCE",
+"department": "PHYSICS",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

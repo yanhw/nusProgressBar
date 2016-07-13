@@ -1,0 +1,22 @@
+{
+"moduleCode": "CS5224",
+"moduleTitle": "Cloud Computing",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "CS5224", 
+            "children": []
+},
+"moduleDescription": "This module aims to provide an overview of the design, management and application of cloud computing. The topics include managing virtualization, cloud computing environments, cloud design patterns and use cases, data centre architectures and technologies, cloud services fulfillment and assurance, orchestration and automation of cloud resources, cloud capacity management, cloud economics, case studies.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "SCHOOL OF COMPUTING",
+"department": "COMPUTER SCIENCE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

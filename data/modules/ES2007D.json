@@ -1,0 +1,49 @@
+{
+"moduleCode": "ES2007D",
+"moduleTitle": "Professional Communication",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "CS2301, ES2002, ES2007S, IS2101, CS2101, CG1413, ES1601.",
+"prerequisite": "Students required to take ES1000 and ES1102 must clear those courses first before taking ES2007D.",
+"preclusionList": [
+            "IS2101",
+            "ES1601",
+            "CS2101",
+            "ES2007S",
+            "CG1413",
+            "ES2002",
+            "CS2301"
+        ],
+"parsedPrerequisite": {
+            " and ": [
+                "ES1000", 
+                "ES1102"
+            ]
+},
+"prerequisiteList": ["ES1000","ES1102"],
+"completePrerequisite": {
+            "name": "ES2007D", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "ES1000", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "ES1102", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This course teaches receptive and productive communication techniques needed in increasingly global and competitive environments. Students learn to generate and organize ideas for clear, convincing and effective oral and written messages; present these ideas with linguistic and graphic competence, and deliver messages appropriate to their audience, context and purpose. The topics covered are: the fundamentals of communication, and the language, format, content, organization and focus of different types of oral and written communication. Evaluation comprises continual assessment (60%) and a final examination (40%).",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "NON-FACULTY-BASED DEPARTMENTS",
+"department": "CTR FOR ENGLISH LANGUAGE COMMUNICATION",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

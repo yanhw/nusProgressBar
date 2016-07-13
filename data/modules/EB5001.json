@@ -1,0 +1,31 @@
+{
+"moduleCode": "EB5001",
+"moduleTitle": "Big Data Engineering for Analytics",
+"moduleCredit": "4",
+"lockedModules":[
+            "EB5202",
+            "EB5203",
+            "EB5201",
+            "EB5206",
+            "EB5207",
+            "EB5204",
+            "EB5205",
+            "EB5102",
+            "EB5104"
+        ],
+"preclusion": "NIL",
+"prerequisite": "There are no hard prerequisites in terms of existing courses, but it would be desirable for students to have some of familiarity with distributed computing, business intelligence and business analytics.",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "EB5001", 
+            "children": []
+},
+"moduleDescription": "This course equips students with the in-depth data engineering and data analytics skills that are required to engineer big data solutions to solve real world business problems. The first half of the course delivers in-depth knowledge of the engineering aspects involved in the storage, processing and visualization of big data sets. It examines state-of-the-art distributed architectures and platforms (both cloud hosted and traditional) and their programming frameworks and libraries. The second half of the course focuses on the data analytics techniques, technologies and tools that combine with these architectures and frameworks to solve real world big data problems.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "NON-FACULTY-BASED DEPARTMENTS",
+"department": "INSTITUTE OF SYSTEMS SCIENCE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

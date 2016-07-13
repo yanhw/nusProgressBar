@@ -1,0 +1,22 @@
+{
+"moduleCode": "OT5205",
+"moduleTitle": "Offshore Pipelines",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "CE4 standing",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "OT5205", 
+            "children": []
+},
+"moduleDescription": "The module is concerned with the design, fabrication, installation and operations of offshore pipelines. Students will be learn advanced concepts on various aspects of offshore pipelines, 16 including material selection; loads; hydrodynamic and on-bottom stability; collapse & buckling; pipeline design & evaluation; fabrication; installation methods and controls; pipeline operations; risk and safety",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "CIVIL & ENVIRONMENTAL ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

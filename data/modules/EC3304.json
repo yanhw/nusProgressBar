@@ -1,0 +1,41 @@
+{
+"moduleCode": "EC3304",
+"moduleTitle": "Econometrics II",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "(EC3303 OR ST3131) AND (EC2104 OR ANY MA MODULE THAT IS NOT MA1301/MA1301FC/MA1301X OR MA1311 OR MA1312 OR MA1421)",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " or ": [
+                "MA1312", 
+                "MA1421"
+            ]
+},
+"prerequisiteList": ["MA1312","MA1421"],
+"completePrerequisite": {
+            "name": "EC3304", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "MA1312", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "MA1421", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module builds upon the background provided in EC3303 Econometrics I and provides an application oriented coverage to a number of topics. The module begin with a review of the multiple regression model and moves on to topics such as autoregressive distributed lag models, micro-econometrics, panel regressions, and limited dependent variable regressions.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "ECONOMICS",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

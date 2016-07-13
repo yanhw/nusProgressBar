@@ -1,0 +1,22 @@
+{
+"moduleCode": "GEH1057",
+"moduleTitle": "Materials: The Enabling Substance of Civilization",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "GEH1057", 
+            "children": []
+},
+"moduleDescription": "The module addresses the key roles of enabling materials in driving the sweeping changes of human history and the rapid development of civilization, technology and society. This module will examine, from the Stone Age to the 21st century, how the different types of enabling materials were discovered, became available to the general people, completely transformed their lives, and consequently shaped the entire course of our civilization. This module will also highlight the latest advances in materials, their uses in our daily lives and future sustainable development, such as IT, iPhones, Boeing 787, Airbus A380, energy-saving buildings and smart transport.",
+"crossModule": "-1",
+"corequisite": "Nil",
+"faculty": "ENGINEERING",
+"department": "MATERIALS SCIENCE AND ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

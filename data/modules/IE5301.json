@@ -1,0 +1,22 @@
+{
+"moduleCode": "IE5301",
+"moduleTitle": "Human Factors In Engineering And Design",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "IE5301", 
+            "children": []
+},
+"moduleDescription": "This module will focus on the interaction dynamics between the human operator and the machine/system in a human-machine system. We shall begin by defining the areas of concern in human factors engineering (e.g. the human-machine interface, the displays to be perceived, and the controls to be actuated). We shall discuss also the tools and methodologies used by a human factors engineer. The latter portion of the subject will discuss issues of capabilities and limitations of the human operator.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "INDUSTRIAL & SYSTEMS ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

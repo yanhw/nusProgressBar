@@ -1,0 +1,22 @@
+{
+"moduleCode": "EL5101R",
+"moduleTitle": "Grammatical Analysis",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "Must be registered as a Graduate Student in the university or with the approval of the Department.",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "EL5101R", 
+            "children": []
+},
+"moduleDescription": "This module aims to ground graduate students in a solid conceptual, analytical, and empirical foundation for doing research in syntax and semantics. It examines a range of core empirical phenomena that have been important in the development of modern linguistic theory and that remain central to current linguistic frameworks (e.g. passive, infinitival constructions, relative clauses, wh-constructions, binding, etc.). Core theoretical notions to be covered include: phrase structure, grammatical relations, subcategorization, and lexical entries.",
+"crossModule": "-1",
+"corequisite": "Nil",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "ENGLISH LANGUAGE & LITERATURE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

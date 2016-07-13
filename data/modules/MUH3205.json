@@ -1,0 +1,34 @@
+{
+"moduleCode": "MUH3205",
+"moduleTitle": "Chamber Music Since 1700",
+"moduleCredit": "3",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "MUH2116",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["MUH2116"]
+},
+"prerequisiteList": ["MUH2116","MUH2115"],
+"completePrerequisite": {
+            "name": "MUH3205", 
+            "children": [
+                {
+                    "name": "MUH2116", 
+                    "children": [
+                        {
+                            "name": "MUH2115", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This subject explores significant figures, genres, styles, and representative chamber works composed between 1700 and the present. Also considered are: relationships between chamber music and its socio-political and cultural contexts; the changing social function of chamber music and musicians; various performance contexts; trends in musical aesthetics; and the evolution of chamber music\u2019s languages and styles. Students undertake a significant research project into a chamber work for their instrument, and lead discussions and perform in research seminars on that work. Students acquire the skills, knowledge, and confidence necessary to the critical appraisal of, and independent research into the repertoire they play.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "YONG SIEW TOH CONSERVATORY OF MUSIC",
+"department": "YONG SIEW TOH CONSERVATORY OF MUSIC",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

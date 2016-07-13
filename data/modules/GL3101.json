@@ -1,0 +1,51 @@
+{
+"moduleCode": "GL3101",
+"moduleTitle": "Inquiry and Method",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "ARS3 and above GL major students only. GL1101E and one of the following Core Modules: GL2101 Origins of the Modern World, GL2102 Global Political Economy, GL2103 Global Governance.",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " and ": [
+                "GL2102", 
+                "GL2103"
+            ]
+},
+"prerequisiteList": ["GL2102","GL1101E","GL2103"],
+"completePrerequisite": {
+            "name": "GL3101", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "GL2102", 
+                            "children": [
+                                {
+                                    "name": "GL1101E", 
+                                    "children": []
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "GL2103", 
+                            "children": [
+                                {
+                                    "name": "GL1101E", 
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module examines the theories of knowledge and methods of inquiry that are used across disciplines to study globalisation and its effects. It introduces students to the means, materials, techniques, and ethical issues entailed by different methods of inquiry. Four themes recur throughout the module: how questions are formulated and investigations conducted; how language influences inquiry; how context influences inquiry; and how different means, materials, and methods of inquiry can (or cannot) be brought together to provide a more holistic analysis.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "POLITICAL SCIENCE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

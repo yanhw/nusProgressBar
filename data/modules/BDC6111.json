@@ -1,0 +1,22 @@
+{
+"moduleCode": "BDC6111",
+"moduleTitle": "Foundations of Optimization",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "A basic knowledge of linear algebra",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "BDC6111", 
+            "children": []
+},
+"moduleDescription": "This course will cover important topics in optimization theory including linear, network, discrete, convex, conic, stochastic and robust. It will focus on methodology, modeling techniques and mathematical insights. This is a core module for PhD students in the Decision Science department.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "SCHOOL OF BUSINESS",
+"department": "DECISION SCIENCES",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

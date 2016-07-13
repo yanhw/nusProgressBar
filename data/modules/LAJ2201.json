@@ -1,0 +1,31 @@
+{
+"moduleCode": "LAJ2201",
+"moduleTitle": "Japanese 2",
+"moduleCredit": "4",
+"lockedModules":[
+            "LAJ2202",
+            "JS2203"
+        ],
+"preclusion": "NIL",
+"prerequisite": "Passed LAJ1201 or placement test.",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["LAJ1201"]
+},
+"prerequisiteList": ["LAJ1201"],
+"completePrerequisite": {
+            "name": "LAJ2201", 
+            "children": [
+                {
+                    "name": "LAJ1201", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "This module builds upon the basis of Japanese 1 and aims to develop basic linguistic and socio-cultural skills to expand the repertoire of the daily topics and situations with simple structures. Approximately 110 kanji and 180 kanji-words will be introduced. While more emphasis is placed on the development of oral communication skills, students will also learn how to read and write simple and short compositions.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "CENTRE FOR LANGUAGE STUDIES",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

@@ -1,0 +1,37 @@
+{
+"moduleCode": "EG3301",
+"moduleTitle": "DCC Project",
+"moduleCredit": "10",
+"lockedModules":[
+],
+"preclusion": "ESP3902: Major Design Project 1 (4 MC) ESP3903: Major Design Project 2 (4 MC) BN2203: Introduction to Bioengineering Design (4 MC) BN3101: Biomedical Engineering Design (6 MC) CG3002: Embedded Systems Design Project (6 MC) EE3001: Project (4 MC) EE3031: Innovation & Enterprise I (4 MC) EE3032: Innovation & Enterprise II (6 MC) IE3100R: Systems Design Project (8 MC) ME3101: Mechanical Systems Design I (4 MC) ME3102: Mechanical Systems Design II (4 MC) ESE4501: Design Project (4 MC) MLE3103: Materials Design and Selection (4 MC) MLE4102: Design Project (4 MC)",
+"prerequisite": "Year 3",
+"preclusionList": [
+            "ESP3903",
+            "ESP3902",
+            "MLE4102",
+            "ESE4501",
+            "EE3001",
+            "BN2203",
+            "CG3002",
+            "MLE3103",
+            "EE3031",
+            "EE3032",
+            "BN3101",
+            "ME3101",
+            "ME3102",
+            "IE3100R"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "EG3301", 
+            "children": []
+},
+"moduleDescription": "This module focuses on the implementation and realization of an engineering design concept. It provides an avenue for students to experience an integrated design process where technology plays a central role. Students will go through thorough design steps from reviewing the conceptual system design, breaking down the system design into component design, prototyping at various stages of design, fabrication, and validating the design intents.",
+"crossModule": "-1",
+"corequisite": "Nil",
+"faculty": "ENGINEERING",
+"department": "DEAN'S OFFICE (ENGINEERING)",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

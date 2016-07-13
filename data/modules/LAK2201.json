@@ -1,0 +1,30 @@
+{
+"moduleCode": "LAK2201",
+"moduleTitle": "Korean 2",
+"moduleCredit": "4",
+"lockedModules":[
+            "LAK3201"
+        ],
+"preclusion": "NIL",
+"prerequisite": "For students who passed LAK1201 (Korean 1) or placement test.",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["LAK1201"]
+},
+"prerequisiteList": ["LAK1201"],
+"completePrerequisite": {
+            "name": "LAK2201", 
+            "children": [
+                {
+                    "name": "LAK1201", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "Korean 2 is the continuation of Korean 1. This is also an integrated course which will help students gain higher basic proficiency in the four skills (listening, speaking, reading and writing), grammar and vocabulary (including Hanguel, the Korean alphabet) for personal interaction and communication in authentic situations.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "CENTRE FOR LANGUAGE STUDIES",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

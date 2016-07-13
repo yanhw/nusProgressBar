@@ -1,0 +1,22 @@
+{
+"moduleCode": "CN5010",
+"moduleTitle": "Mathematical Methods In Chemical & Environmental Engineering",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "CN5010", 
+            "children": []
+},
+"moduleDescription": "This module is targeted at postgraduate students, who are interested in process modeling and simulation for various chemical and environmental engineering processes. The course covers both analytical and numerical techniques in solving the associated algebraic as well as differential equations. Analytical methods such as eigenvalue-eigenvector and Green's function method, and numerical methods such as finite difference, collocation and finite element methods are discussed. All fundamental concepts are introduced with applications related to chemical and environmental engineering using modern software tools. Some background knowledge in analytical methods and numerical analysis from undergraduate modules will be beneficial.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "CHEMICAL & BIOMOLECULAR ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

@@ -1,0 +1,32 @@
+{
+"moduleCode": "GL2103",
+"moduleTitle": "Global Governance",
+"moduleCredit": "4",
+"lockedModules":[
+            "IGL3550",
+            "GL3101",
+            "GL3550"
+        ],
+"preclusion": "NIL",
+"prerequisite": "GL1101E",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["GL1101E"]
+},
+"prerequisiteList": ["GL1101E"],
+"completePrerequisite": {
+            "name": "GL2103", 
+            "children": [
+                {
+                    "name": "GL1101E", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "This module examines the changing nature of political authority in contemporary world politics. Drawing on what social scientists have to say about international institutions and global governance, it asks critical questions with implications for global order, peace, and justice. To what extent has globalization undermined state sovereignty? Who manages global problems in a post-sovereign world, and by what authority? Through what kinds of institutions and practices are global actors governed? Who and what escapes global governance? How should global problems be managed?",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "POLITICAL SCIENCE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

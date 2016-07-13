@@ -1,0 +1,23 @@
+{
+"moduleCode": "YCC1131",
+"moduleTitle": "Scientific Inquiry",
+"moduleCredit": "5",
+"lockedModules":[
+            "YSC1207"
+        ],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "YCC1131", 
+            "children": []
+},
+"moduleDescription": "Scientific Inquiry exposes students to a series of topics across the sciences designed to develop understanding of the process of science. The module is designed for students of all backgrounds, and addresses questions of what is and is not science, and how scientific theories are created and developed.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "YALE-NUS COLLEGE",
+"department": "YALE-NUS COLLEGE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

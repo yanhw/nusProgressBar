@@ -1,0 +1,41 @@
+{
+"moduleCode": "CO5214",
+"moduleTitle": "Introduction To Health Services Research",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "CO5102 Principles of Epidemiology and CO5103 Quantitative Epidemiologic Methods",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " and ": [
+                "CO5102", 
+                "CO5103"
+            ]
+},
+"prerequisiteList": ["CO5102","CO5103"],
+"completePrerequisite": {
+            "name": "CO5214", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "CO5102", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "CO5103", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module will enable public health and clinical researchers to critically evaluate the health outcomes and cost-effectiveness of interventions and healthcare programmes. It will provide a foundation for collecting, analyzing and interpreting data that influences decision-making and resource allocation at both institutional and national level. The course will integrate elements of epidemiology, statistics, health economics, and incorporate a diverse range of important subjects including survey methods, decision analysis, and cost effectiveness analysis. Students will also be taught to design their own studies in health services research.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "SAW SWEE HOCK SCHOOL OF PUBLIC HEALTH",
+"department": "SAW SWEE HOCK SCHOOL OF PUBLIC HEALTH",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

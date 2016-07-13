@@ -1,0 +1,34 @@
+{
+"moduleCode": "MUA4174",
+"moduleTitle": "Audio for Media 2",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "MUA4173 Audio for Media 1",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["MUA4173"]
+},
+"prerequisiteList": ["MUA4173","MUA2171"],
+"completePrerequisite": {
+            "name": "MUA4174", 
+            "children": [
+                {
+                    "name": "MUA4173", 
+                    "children": [
+                        {
+                            "name": "MUA2171", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "Continuing with the skills and knowledge attained in MUA4173 Audio for Media 1, MUA4174 Audio for Media 2 provides students more hands on experience of audio recording and editing techniques for the video programs. Students will be requested to finish at least 2 projects of audio production for video programs within the semester.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "YONG SIEW TOH CONSERVATORY OF MUSIC",
+"department": "YONG SIEW TOH CONSERVATORY OF MUSIC",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

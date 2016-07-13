@@ -1,0 +1,24 @@
+{
+"moduleCode": "CP3108A",
+"moduleTitle": "Independent Work",
+"moduleCredit": "2",
+"lockedModules":[
+],
+"preclusion": "CS3108A",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "CS3108A"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "CP3108A", 
+            "children": []
+},
+
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF COMPUTING",
+"department": "DEAN'S OFFICE (SCHOOL OF COMPUTING)",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

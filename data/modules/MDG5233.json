@@ -1,0 +1,22 @@
+{
+"moduleCode": "MDG5233",
+"moduleTitle": "Current Topics in Drug Design and Development",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "MDG5233", 
+            "children": []
+},
+"moduleDescription": "Introduction to a range of existing and emerging therapy modalities including drug mechanism of action, drug delivery and drug metabolism specific to each class of drug. Additionally, an emphasis on advanced techniques for drug design and development specific to each class of drug will also be given.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "YONG LOO LIN SCHOOL OF MEDICINE",
+"department": "DEAN'S OFFICE (MEDICINE)",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

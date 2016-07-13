@@ -1,0 +1,22 @@
+{
+"moduleCode": "EC4324",
+"moduleTitle": "Economics of Competition Policy",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "Cohort 2011 and before: Completed 80 MCs, including 28 MCs in EC, with a minimum CAP of 3.50 or be on the Honours track. EC3101, EC3102, and (EC3312 or EC3322). Cohort 2012 onwards: Completed 80 MCs, including 28 MCs in EC, with a minimum CAP of 3.20 or be on the Honours track. EC3101, EC3102, and (EC3312 or EC3322).",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "EC4324", 
+            "children": []
+},
+"moduleDescription": "This module studies antitrust and competition policy: the economic analysis of firms acting \"anticompetitively\"and how competition authorities might respond to their actions. It draws on the study of industrial organization.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "ECONOMICS",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

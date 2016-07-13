@@ -1,0 +1,37 @@
+{
+"moduleCode": "IS1103",
+"moduleTitle": "Computing and Society",
+"moduleCredit": "4",
+"lockedModules":[
+            "IS4100",
+            "IS3222",
+            "IS4226",
+            "IS5113",
+            "IS4225",
+            "IS4233",
+            "IS3223",
+            "IS3221",
+            "IS3220",
+            "IS3101",
+            "IS4260",
+            "IS4240",
+            "IS4243"
+        ],
+"preclusion": "CS1105/A",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "CS1105"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "IS1103", 
+            "children": []
+},
+"moduleDescription": "Students will explore the interactions and impacts of computing & information technologies on social systems. They will examine how technological paradigms transform industries, organizations and individuals, and vice versa; how policies and social norms are developed as they relate to technology use; and investigate the emerging controversies surrounding the regulation of technology in society. Emphasis is placed on establishing an in-depth understanding of the professional and ethical responsibilities of computing professionals, and developing an ability to analyze the impact of computing technologies on a local and global scale. Historical and contemporary studies, cases and examples will be used extensively.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "SCHOOL OF COMPUTING",
+"department": "INFORMATION SYSTEMS",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

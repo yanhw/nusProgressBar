@@ -1,0 +1,22 @@
+{
+"moduleCode": "PS2258",
+"moduleTitle": "Introduction to Political Theory",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "PS2258", 
+            "children": []
+},
+"moduleDescription": "Political theorizing considers basic questions about government, citizenship, equality, justice, rights, and the use of force. This module investigates these and related questions by reading and discussing classic and contemporary sources of different kinds, from letters, stories, and manifestos to systematic works of philosophy. By engaging with some of the most readable and interesting of these writings, one can learn how such questions have been answered in different times and places, as well as one\u2019s own.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "POLITICAL SCIENCE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

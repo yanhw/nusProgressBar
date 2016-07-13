@@ -1,0 +1,25 @@
+{
+"moduleCode": "YHU2205",
+"moduleTitle": "Integrative Music Theory 1",
+"moduleCredit": "5",
+"lockedModules":[
+            "YHU2234",
+            "YHU2210",
+            "YHU4203"
+        ],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "YHU2205", 
+            "children": []
+},
+"moduleDescription": "Integrative Music Theory I is a comprehensive introduction to musicianship and musical understanding. Students in the course will develop their abilities to play, read, understand, and write music. Work includes exercises in music fundamentals, model composition, performance, analysis, improvisation, and ear training, all of which are intended to complement students\u2019 everyday activities as musicians and listeners. The course will be divided into seminars focused on notation, theory, and analysis, and \u201clabs\u201d focused on application, aural development, and musical experimentation.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "YALE-NUS COLLEGE",
+"department": "YALE-NUS COLLEGE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

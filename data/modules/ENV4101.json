@@ -1,0 +1,66 @@
+{
+"moduleCode": "ENV4101",
+"moduleTitle": "Environmental Management in Singapore",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "ENV3101 and ENV3102",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " and ": [
+                "ENV3101", 
+                "ENV3102"
+            ]
+},
+"prerequisiteList": ["ENV3101","ENV2101","ENV1101","ENV3102"],
+"completePrerequisite": {
+            "name": "ENV4101", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "ENV3101", 
+                            "children": [
+                                {
+                                    "name": "ENV2101", 
+                                    "children": [
+                                        {
+                                            "name": "ENV1101", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "ENV3102", 
+                            "children": [
+                                {
+                                    "name": "ENV3101", 
+                                    "children": [
+                                        {
+                                            "name": "ENV2101", 
+                                            "children": [
+                                                {
+                                                    "name": "ENV1101", 
+                                                    "children": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module, the final in a series of integrated modules for this degree, will focus on Singapore and evaluate how the city-state has managed its environmental challenges and human-nature relationships intra-nationally and extra-nationally (regionally and internationally). The module is a final summation, overview and synthesis of what was discussed in the earlier four modules and where appropriate will evaluate environmental ideas, concepts, policies and case studies in terms of its applications to the Singapore situation. To facilitate this, the module is predicated on a platform of seminars and/or round-table discussions with pertinent senior corporate chieftains, government officials, and non-government organization (NGO) leaders.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "SCIENCE",
+"department": "DEAN'S OFFICE (SCIENCE)",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

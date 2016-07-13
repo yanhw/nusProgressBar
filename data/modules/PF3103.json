@@ -1,0 +1,29 @@
+{
+"moduleCode": "PF3103",
+"moduleTitle": "Project Management Law",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "PF2101 Project Management Law I",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["PF2101"]
+},
+"prerequisiteList": ["PF2101"],
+"completePrerequisite": {
+            "name": "PF3103", 
+            "children": [
+                {
+                    "name": "PF2101", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "This module covers the fundamental principles relating to the various legal relationships in a project; laws relevant to procurement, contract administration, termination and insolvency; and professional negligence and concurrent liability. Students are recommended to take PF2101 Project and Facilities Management Law before taking this module.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF DESIGN AND ENVIRONMENT",
+"department": "BUILDING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

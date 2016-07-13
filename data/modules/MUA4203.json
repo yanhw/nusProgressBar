@@ -1,0 +1,30 @@
+{
+"moduleCode": "MUA4203",
+"moduleTitle": "Advanced Conducting I",
+"moduleCredit": "2",
+"lockedModules":[
+            "MUA4205"
+        ],
+"preclusion": "NIL",
+"prerequisite": "MUA4105",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["MUA4105"]
+},
+"prerequisiteList": ["MUA4105"],
+"completePrerequisite": {
+            "name": "MUA4203", 
+            "children": [
+                {
+                    "name": "MUA4105", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "Designed for the student who desires more intensive study in conducting. Literature will be sequenced with the more difficult works in the Advanced Conducting course.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "YONG SIEW TOH CONSERVATORY OF MUSIC",
+"department": "YONG SIEW TOH CONSERVATORY OF MUSIC",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

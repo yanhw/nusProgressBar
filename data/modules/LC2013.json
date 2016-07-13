@@ -1,0 +1,26 @@
+{
+"moduleCode": "LC2013",
+"moduleTitle": "Corporate Deals",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "LC2002 Introduction to Trial Advocacy LC2012 Trial Advocacy LC2003 Legal Case Studies",
+"prerequisite": "Nil.",
+"preclusionList": [
+            "LC2003",
+            "LC2002",
+            "LC2012"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "LC2013", 
+            "children": []
+},
+"moduleDescription": "This problem-oriented course provides an introduction to corporate transactions. The course will centre on a complex commercial transaction covering different areas of law. Working in teams, students will take instructions, render advice on structuring and other legal issues, and then draft, review and negotiate the documentation for the transaction. Targeted at students who have completed the first year of the compulsory modules at NUS Law, this course aims to further hone the skills covered in the first year. Substantial and active student participation is mandatory. Tutorials in small groups are conducted primarily by corporate and in-house lawyers.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "LAW",
+"department": "LAW",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

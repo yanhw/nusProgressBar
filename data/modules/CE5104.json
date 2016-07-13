@@ -1,0 +1,34 @@
+{
+"moduleCode": "CE5104",
+"moduleTitle": "Underground Space",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "CE2112, or CE4 standing or higher",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["CE2112"]
+},
+"prerequisiteList": ["CE2112","EG1109"],
+"completePrerequisite": {
+            "name": "CE5104", 
+            "children": [
+                {
+                    "name": "CE2112", 
+                    "children": [
+                        {
+                            "name": "EG1109", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This is an advanced module on analysis and design of underground structures such as tunnels and caverns. The topics covered include cut and cover construction, bored tunneling methods, construction of caverns, New Austrian Tunneling Method, jack tunneling, stability of underground openings, ground movement prediction due to tunnels and caverns, effects of ground movements on buildings and structures, instrumentation and monitoring, stresses on lining, and finite element modeling of underground construction. The creation of underground structures to form subways, underpasses, metro stations and other uses is an increasing requirement in major urban areas world-wide. Students are taught the various methods of construction for creating underground space, and will be able to assess the effect of underground structure on surface structures. Students will appreciate the usefulness and difficulties of finite element method for analysis of underground structures.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "CIVIL & ENVIRONMENTAL ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

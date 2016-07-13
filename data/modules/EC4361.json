@@ -1,0 +1,22 @@
+{
+"moduleCode": "EC4361",
+"moduleTitle": "Labour Economics II",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "Cohort 2011 and before: Completed 80 MCs, including 28 MCs in EC, with a minimum CAP of 3.50 or be on the Honours track. EC3101, EC3102, EC3303, and EC3361. Cohort 2012 onwards: Completed 80 MCs, including 28 MCs in EC, with a minimum CAP of 3.20 or be on the Honours track. EC3101, EC3102, EC3303, and EC3361.",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "EC4361", 
+            "children": []
+},
+"moduleDescription": "This module provides advanced analyses of labour economics and industrial relations topics. Labour economics topics include the study of orthodox and contemporary wage theories, theories of discrimination, economics of migration, manpower policy, and recent developments in labour market theories such as job search theory, implicit contracts, efficiency wage and insider-outside models. On industrial relations, the role of various labour market institutions, important labour laws and current labour and industrial relations issues will be discussed.",
+"crossModule": "-1",
+"corequisite": "Nil",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "ECONOMICS",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

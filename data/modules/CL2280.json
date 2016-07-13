@@ -1,0 +1,25 @@
+{
+"moduleCode": "CL2280",
+"moduleTitle": "Basic Translation",
+"moduleCredit": "4",
+"lockedModules":[
+            "CL3281",
+            "CL3283",
+            "CL3284"
+        ],
+"preclusion": "NIL",
+"prerequisite": "1) Exempted from NUS Qualifying English Test, or passed NUS Qualifying English Test, or exempted from further CELC Remedial English modules; AND 2) Grade 'B4' and above in Higher Chinese (HCL) at GCE 'O' Level or Chinese (CL) at GCE 'AO' Level; OR Grade 'C' and above in Chinese Language (H1CL) at GCE 'A' Level.",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "CL2280", 
+            "children": []
+},
+"moduleDescription": "This module introduces students to basics issues in the practice of translation and interpretation (both Chinese-English and English-Chinese). Students are exposed to different forms of writing and are trained to do written translation and consecutive interpretation. The course is conducted in an interactive manner and students are expected to actively participate in class discussion, language games and translation exercises during both lecture and tutorial. The course is practice-oriented and is intended for students who are bilingual (Chinese and English) and have an interest in the practice of translation and interpretation.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "CHINESE STUDIES",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

@@ -1,0 +1,29 @@
+{
+"moduleCode": "SPH6001",
+"moduleTitle": "Advanced Epidemiology II",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "CO5102 Principles of Epidemiology CO5103 Quantitative Epidemiologic Methods",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["CO5103"]
+},
+"prerequisiteList": ["CO5103"],
+"completePrerequisite": {
+            "name": "SPH6001", 
+            "children": [
+                {
+                    "name": "CO5103", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "This module covers advanced methods for the design, conduct, analysis and interpretation of epidemiologic studies. Students will apply these methods to the interpretation of published research and the design of a new research project. The main focus is on analytical studies that aim to identify risk factors for diseases particularly case-control and cohort studies. Topics include causal inference, study design, methods of handling confounding and identifying effect modification, measurement error and information bias, selection bias, lifestyle and molecular epidemiology, and meta-analysis. Students will be expected to critique research articles and participate in facilitated group discussions.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "SAW SWEE HOCK SCHOOL OF PUBLIC HEALTH",
+"department": "SAW SWEE HOCK SCHOOL OF PUBLIC HEALTH",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

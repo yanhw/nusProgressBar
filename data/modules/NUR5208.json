@@ -1,0 +1,22 @@
+{
+"moduleCode": "NUR5208",
+"moduleTitle": "Advanced Pharmacology",
+"moduleCredit": "6",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "NUR5208", 
+            "children": []
+},
+"moduleDescription": "This module aims to provide in-depth knowledge on system drugs, roles and responsibilities of APN on the safe administration, legal and ethical issues as well as clinical management of patients in relation to medication.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "YONG LOO LIN SCHOOL OF MEDICINE",
+"department": "NURSING/ALICE LEE CTR FOR NURSING STUD",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

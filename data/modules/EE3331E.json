@@ -1,0 +1,38 @@
+{
+"moduleCode": "EE3331E",
+"moduleTitle": "Feedback Control Systems",
+"moduleCredit": "4",
+"lockedModules":[
+            "EE3302E",
+            "ME4245E"
+        ],
+"preclusion": "EE2010E",
+"prerequisite": "EE2023E",
+"preclusionList": [
+            "EE2010E"
+        ],
+"parsedPrerequisite": {
+" and ": ["EE2023E"]
+},
+"prerequisiteList": ["EE2023E","TG1401"],
+"completePrerequisite": {
+            "name": "EE3331E", 
+            "children": [
+                {
+                    "name": "EE2023E", 
+                    "children": [
+                        {
+                            "name": "TG1401", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "Feedback systems are ubiquitous in both the natural and engineered world. They are essential for maintaining our environment, enabling our transportation and communications systems; and are critical elements in our aerospace and industrial systems. For the most part, feedback control systems function accurately and reliably in the background. This course aims at introducing the magic of feedback, and tools for analysing and designing control systems. The fundamental knowledge of feedback and the related area of control systems are useful to students with diverse interests. Topics covered include feedback principles, time and frequency analysis of control systems, and simple controller design.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "BACHELOR OF TECHNOLOGY PROGRAMME",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

@@ -1,0 +1,49 @@
+{
+"moduleCode": "CE5307",
+"moduleTitle": "Wave Hydrodynamics",
+"moduleCredit": "4",
+"lockedModules":[
+            "OT5204",
+            "CE5308"
+        ],
+"preclusion": "NIL",
+"prerequisite": "CE2134 or CE4 standing or higher",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["CE2134"]
+},
+"prerequisiteList": ["CE2134","EG1109F","EG1109","CE1109X"],
+"completePrerequisite": {
+            "name": "CE5307", 
+            "children": [
+                {
+                    "name": "CE2134", 
+                    "children": [
+                        {
+                            "name": "or", 
+                            "children": [
+                                {
+                                    "name": "EG1109F", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "EG1109", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "CE1109X", 
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module is aimed at introducing the student to wave hydrodynamics. It covers the basic concepts of the conservation of mass and momentum to the solution of the small amplitude waves together with its engineering properties such as particle kinematics, pressure fields, energy propagation, shoaling, refraction and diffraction. Some non-linear properties derivable from the linear theory such as mass transport, momentum flux and the radiation stress concept, will also be covered along with an introduction into non-linear waves. The module also introduces the superposition principle and the concept of the wave spectrum. Generation of wind waves in deep water and their statistical properties using crossing and spectral analyses for short term and long term statistics, which will be useful in design wave selection, will be introduced. There will also be an introduction to the theory of long waves, which provides the theoriotical background for tidal waves, tsunamis, and other waves with extremely long periods and wave lengths that are important to the engineer in the design of harbors and in studying estuaries and lagoons. Some special topics will also be covered if possible, such as wave-current interaction, wave generation in wave tank and wave over porus seabed.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "CIVIL & ENVIRONMENTAL ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

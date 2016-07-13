@@ -1,0 +1,25 @@
+{
+"moduleCode": "NM5201R",
+"moduleTitle": "State and Civil Society in the Information Age",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "IF4880A, IF5201",
+"prerequisite": "(a) For CNM major who has accumulated 120 MCs (b) For CNM, FASS, and SoC graduate students.",
+"preclusionList": [
+            "IF5201",
+            "IF4880A"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "NM5201R", 
+            "children": []
+},
+"moduleDescription": "State and Civil Society in the Information Age",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "COMMUNICATIONS AND NEW MEDIA",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

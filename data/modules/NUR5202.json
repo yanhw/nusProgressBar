@@ -1,0 +1,22 @@
+{
+"moduleCode": "NUR5202",
+"moduleTitle": "Advanced Research Methods",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "NUR5202", 
+            "children": []
+},
+"moduleDescription": "This module builds on knowledge taught in the undergraduate research programme. Common research designs used in nursing will be examined with a focus on methodology and methods. Students will acquire knowledge and skills in writing a research question, developing aims, and describing the process of constructing a systematic search strategy and an integrative review of the literature. The process of ethical research will be discussed and avenues for the dissemination of results will be explored.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "YONG LOO LIN SCHOOL OF MEDICINE",
+"department": "NURSING/ALICE LEE CTR FOR NURSING STUD",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

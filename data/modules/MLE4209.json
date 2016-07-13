@@ -1,0 +1,57 @@
+{
+"moduleCode": "MLE4209",
+"moduleTitle": "Magnetism and Magnetic Materials",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "MLE3105 or other equivalent modules",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["MLE3105"]
+},
+"prerequisiteList": ["MLE3105","MLE1101","MLE2105","MLE2101"],
+"completePrerequisite": {
+            "name": "MLE4209", 
+            "children": [
+                {
+                    "name": "MLE3105", 
+                    "children": [
+                        {
+                            "name": "or", 
+                            "children": [
+                                {
+                                    "name": "MLE1101", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "MLE2105", 
+                                    "children": [
+                                        {
+                                            "name": "or", 
+                                            "children": [
+                                                {
+                                                    "name": "MLE1101", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MLE2101", 
+                                                    "children": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module focuses on a deeper understanding of the fundamentals of magnetism and magnetic materials, and integrating the physics and engineering applications. It is intended for advanced MSE undergraduates and also for MSE postgraduates who do not have previous training in this area. Topics covered in this module are agnetostatics, magnetism of electrons, magnetism of localized electrons on the atom, ferromagnetism and exchange, antiferromagnetism, micromagnetism, domains and hysteresis, nanoscale magnetism, selected topics of current advanced magnetic materials.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "ENGINEERING",
+"department": "MATERIALS SCIENCE AND ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

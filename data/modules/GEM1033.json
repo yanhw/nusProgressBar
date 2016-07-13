@@ -1,0 +1,24 @@
+{
+"moduleCode": "GEM1033",
+"moduleTitle": "Religion and Film",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "GEH1055",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "GEH1055"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "GEM1033", 
+            "children": []
+},
+"moduleDescription": "Cinematic and literary expression centred on religious topics can be studied to see how the vitality of cultural expression and power of the religious imagination interrelate. No prior training in artistic interpretation or religious history is required, though the module presumes a curiosity about religion and culture. It trains students to think about why people sometimes enjoy seeing films about painful topics. It clarifies the difference between \u201cstudying\u201d and \u201cpractising\u201d religion, and it teaches students to discuss controversial topics with tact.",
+"crossModule": "-1",
+"corequisite": "Nil",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "ENGLISH LANGUAGE & LITERATURE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

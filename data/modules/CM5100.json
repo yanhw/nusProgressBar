@@ -1,0 +1,22 @@
+{
+"moduleCode": "CM5100",
+"moduleTitle": "M.sc. Project (For M.sc. Coursework Students Only)",
+"moduleCredit": "8",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "For M.Sc. Coursework students only",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "CM5100", 
+            "children": []
+},
+"moduleDescription": "Students will have a chance to work with the department staff on a project proposed by the staff on a particular area. Part-time student will be allowed more time to complete the project.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCIENCE",
+"department": "CHEMISTRY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

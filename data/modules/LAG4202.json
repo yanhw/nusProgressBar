@@ -1,0 +1,73 @@
+{
+"moduleCode": "LAG4202",
+"moduleTitle": "German 6",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "Passed LAG4201or placement test",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["LAG4201"]
+},
+"prerequisiteList": ["LAG4201","LAG3202","LAG3201","LAG2201","LAG1201","LAG3203"],
+"completePrerequisite": {
+            "name": "LAG4202", 
+            "children": [
+                {
+                    "name": "LAG4201", 
+                    "children": [
+                        {
+                            "name": "and", 
+                            "children": [
+                                {
+                                    "name": "LAG3202", 
+                                    "children": [
+                                        {
+                                            "name": "LAG3201", 
+                                            "children": [
+                                                {
+                                                    "name": "LAG2201", 
+                                                    "children": [
+                                                        {
+                                                            "name": "LAG1201", 
+                                                            "children": []
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }, 
+                                {
+                                    "name": "LAG3203", 
+                                    "children": [
+                                        {
+                                            "name": "LAG3201", 
+                                            "children": [
+                                                {
+                                                    "name": "LAG2201", 
+                                                    "children": [
+                                                        {
+                                                            "name": "LAG1201", 
+                                                            "children": []
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module aims to provide students with further training in skills and strategies to engage in authentic discourse and more complex argumentative writing. Topics of social, historical and cultural interest will be introduced through authentic materials such as selected works of literature, texts from newspapers and magazines, and audio or video recordings.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "CENTRE FOR LANGUAGE STUDIES",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

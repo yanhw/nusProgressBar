@@ -1,0 +1,39 @@
+{
+"moduleCode": "LSM4261",
+"moduleTitle": "Marine Biology",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "LSM3254",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["LSM3254"]
+},
+"prerequisiteList": ["LSM3254","LSM2251","LSM1103"],
+"completePrerequisite": {
+            "name": "LSM4261", 
+            "children": [
+                {
+                    "name": "LSM3254", 
+                    "children": [
+                        {
+                            "name": "LSM2251", 
+                            "children": [
+                                {
+                                    "name": "LSM1103", 
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "Main focus on the understanding and appreciation of marine environment, the diversity of marine life, and the constant interaction between man and the sea. Marine biology as the scientific study of marine animals and the marine environment. Fundamentals of oceanography. The range of marine environments and variety of organisms inhabiting them. Benefits of the marine environment and its resources to humans. The impact of exploitation and human activities on the oceans.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "SCIENCE",
+"department": "BIOLOGICAL SCIENCES",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

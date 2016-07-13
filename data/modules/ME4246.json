@@ -1,0 +1,53 @@
+{
+"moduleCode": "ME4246",
+"moduleTitle": "Modern Control System",
+"moduleCredit": "4",
+"lockedModules":[
+            "ME5401"
+        ],
+"preclusion": "NIL",
+"prerequisite": "ME2142",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["ME2142"]
+},
+"prerequisiteList": ["ME2142","MA1506","MA1102R","MA1505","MA1521"],
+"completePrerequisite": {
+            "name": "ME4246", 
+            "children": [
+                {
+                    "name": "ME2142", 
+                    "children": [
+                        {
+                            "name": "MA1506", 
+                            "children": [
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "MA1102R", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "MA1505", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "MA1521", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This is a second module on control of linear dynamical systems. It focuses on analysis and synthesis of controllers in the time domain. The module introduces students to the techniques and analysis of dynamical systems using state-space models. The major topics covered are: Introduction to State-Space Model; Solution of State-Space Model; Canonical Forms of State-Space Model; Controllability and Observability; State Feedback and State Estimation; Linear Quadratic Optimal Control, Stability; Discrete Time Systems; Controller Design of Discrete-Time Systems. Students are required to have knowledge of basic classical control theory and linear algebra.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "MECHANICAL ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

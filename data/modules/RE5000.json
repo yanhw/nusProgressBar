@@ -1,0 +1,22 @@
+{
+"moduleCode": "RE5000",
+"moduleTitle": "Dissertation",
+"moduleCredit": "8",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "RE5000", 
+            "children": []
+},
+"moduleDescription": "The dissertation offers the opportunity for candidates to individually conduct independent research work on a topic of interest and relevance to the program. The dissertation will be graded.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF DESIGN AND ENVIRONMENT",
+"department": "REAL ESTATE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

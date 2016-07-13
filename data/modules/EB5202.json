@@ -1,0 +1,29 @@
+{
+"moduleCode": "EB5202",
+"moduleTitle": "Web Analytics",
+"moduleCredit": "3",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "EB5001 Foundations of Business Analytics",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["EB5001"]
+},
+"prerequisiteList": ["EB5001"],
+"completePrerequisite": {
+            "name": "EB5202", 
+            "children": [
+                {
+                    "name": "EB5001", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "This course introduces Web analytics techniques that are suitable for developing Web-based intelligent systems, optimizing website design and improving customer experience. In this course, participants will be exposed to the key concepts, techniques and practices of Web analytics. It provides an overview of three major types of Web analytics/mining tasks, i.e., usage mining, content mining and structure mining. It also illustrates various ecommerce and business intelligence applications using techniques such as user preference tracking, user profiling and personalization.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "NON-FACULTY-BASED DEPARTMENTS",
+"department": "INSTITUTE OF SYSTEMS SCIENCE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

@@ -1,0 +1,98 @@
+{
+"moduleCode": "FST2108",
+"moduleTitle": "Food Safety Assurance",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "FST3102",
+"prerequisite": "(FST2102B) or (LSM1103 and LSM2103)",
+"preclusionList": [
+            "FST3102"
+        ],
+"parsedPrerequisite": {
+            " or ": [
+                "FST2102B", 
+                {
+                    " and ": [
+                        "LSM1103", 
+                        "LSM2103"
+                    ]
+                }
+            ]
+},
+"prerequisiteList": ["FST2102B","FST1101","CM1121","CM1501","LSM1103","LSM2103","LSM1101","LSM1401","LSM1102"],
+"completePrerequisite": {
+            "name": "FST2108", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "FST2102B", 
+                            "children": [
+                                {
+                                    "name": "and", 
+                                    "children": [
+                                        {
+                                            "name": "FST1101", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "or", 
+                                            "children": [
+                                                {
+                                                    "name": "CM1121", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "CM1501", 
+                                                    "children": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "and", 
+                            "children": [
+                                {
+                                    "name": "LSM1103", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "LSM2103", 
+                                    "children": [
+                                        {
+                                            "name": "or", 
+                                            "children": [
+                                                {
+                                                    "name": "LSM1101", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "LSM1401", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "LSM1102", 
+                                                    "children": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module examines the major sources of food contaminants, the ways of preventing contamination and the likely consequences as regards health of consumers if contaminated food is consumed. Emphasis is placed on both biological and chemical contaminants and how these affect the consumer. An introduction to epidemiology is included and some methods of determining the levels of contamination are discussed and utilised. The main aim of the module is to explain the importance of safe and quality food and how this may be achieved.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCIENCE",
+"department": "CHEMISTRY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

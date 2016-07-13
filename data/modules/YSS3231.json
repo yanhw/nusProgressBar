@@ -1,0 +1,29 @@
+{
+"moduleCode": "YSS3231",
+"moduleTitle": "Methods in the Social Sciences",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "YCC1121 Comparative Social Institutions, YCC1122 Quantitative Reasoning, AND YCC2121 Modern Social Thought OR with the permission of the instructor.",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["YCC2121"]
+},
+"prerequisiteList": ["YCC2121"],
+"completePrerequisite": {
+            "name": "YSS3231", 
+            "children": [
+                {
+                    "name": "YCC2121", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "An introduction to various research methods in the social sciences, including survey methodology, quantitative data analysis, participant observation, and in-depth interviewing. This course can count as a course in the major for students in Urban Studies, Global Affairs, PPE, and Anthropology. It may fulfil the course requirements for students in Environmental Studies as well on a case-by-case basis after consultation with the Head of Studies of that major. The course also fulfils the methods requirement in Urban Studies and Global Affairs. Students in all of these majors should ideally take this course before they commence their capstone project.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "YALE-NUS COLLEGE",
+"department": "YALE-NUS COLLEGE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

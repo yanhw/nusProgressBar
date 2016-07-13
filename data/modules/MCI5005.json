@@ -1,0 +1,22 @@
+{
+"moduleCode": "MCI5005",
+"moduleTitle": "Ethics And Regulation Of Clinical Research",
+"moduleCredit": "2",
+"lockedModules":[
+],
+"preclusion": "Only students enrolled in the Master of Clinical Investigation (MCI) programme can apply. All other students will be considered on a case-by-case basis, and approval has to be sought from both the module coordinator and the MCI programme director",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "MCI5005", 
+            "children": []
+},
+
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "YONG LOO LIN SCHOOL OF MEDICINE",
+"department": "DEAN'S OFFICE (MEDICINE)",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

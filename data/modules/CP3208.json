@@ -1,0 +1,24 @@
+{
+"moduleCode": "CP3208",
+"moduleTitle": "Undergraduate Research in Computing I",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "CS3208",
+"prerequisite": "SoC students who have passed at least 60 MCs and with approval from respective department.",
+"preclusionList": [
+            "CS3208"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "CP3208", 
+            "children": []
+},
+"moduleDescription": "The module (together with CP3209) is part of the UROP (Computing) project. The objective of this module and the UROP (Computing) project in general, is to provide an opportunity for talented students to undertake a substantial research project under the supervision of faculty members of the School of Computing. Through this research collaboration, the student will get to experience at first hand the challenges and exhilaration of research, discovery and invention. This module should be followed by CS3209 to complete the UROP (Computing) project.",
+"crossModule": "-1",
+"corequisite": "Nil",
+"faculty": "SCHOOL OF COMPUTING",
+"department": "DEAN'S OFFICE (SCHOOL OF COMPUTING)",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

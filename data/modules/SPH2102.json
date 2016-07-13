@@ -1,0 +1,22 @@
+{
+"moduleCode": "SPH2102",
+"moduleTitle": "Lifestyle, Behaviour and Public Health",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "SPH2102", 
+            "children": []
+},
+"moduleDescription": "This module will provide an overview of important behavioural lifestyle factors (Smoking, Diet, Physical Activity, Alcohol, and Sexual Behaviour) and their impact on individual and population health. It introduces principles of behavioural change and health promotion and how they apply to behavioural lifestyle factors and disease prevention. Students participating in this module will develop a theoretical understanding of health behaviour and its application to behaviour change approaches. They will also learn to consider effectiveness and ethics of health promotion strategies in the context of discussed lifestyle factors.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "SAW SWEE HOCK SCHOOL OF PUBLIC HEALTH",
+"department": "SAW SWEE HOCK SCHOOL OF PUBLIC HEALTH",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

@@ -1,0 +1,30 @@
+{
+"moduleCode": "YSC3204",
+"moduleTitle": "Group Theory",
+"moduleCredit": "5",
+"lockedModules":[
+            "YSC3220"
+        ],
+"preclusion": "NIL",
+"prerequisite": "YSC2209 Proof or Permission of Instructor (Experience with mathematical proof-writing and set theory, equivalent to that of the pre-requisite Proof course)",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["YSC2209"]
+},
+"prerequisiteList": ["YSC2209"],
+"completePrerequisite": {
+            "name": "YSC3204", 
+            "children": [
+                {
+                    "name": "YSC2209", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "Groups are fundamental objects of abstract algebra, and they arise in a variety of contexts. This course introduces group theory through a deep study of permutation groups, symmetry groups, and matrix groups. Examples of group actions play a central role. The course includes a study of subgroups, quotients, and homomorphisms, direct and semidirect products, and other methods of constructing and classifying groups.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "YALE-NUS COLLEGE",
+"department": "YALE-NUS COLLEGE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

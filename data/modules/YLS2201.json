@@ -1,0 +1,47 @@
+{
+"moduleCode": "YLS2201",
+"moduleTitle": "Intermediate Spanish 1",
+"moduleCredit": "5",
+"lockedModules":[
+            "YLS3201"
+        ],
+"preclusion": "NIL",
+"prerequisite": "YLS1201 Beginning Spanish 1 and YLS1202 Beginning Spanish 2 or permission from instructor. A placement exam may be required.",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " and ": [
+                "YLS1201", 
+                "YLS1202"
+            ]
+},
+"prerequisiteList": ["YLS1201","YLS1202"],
+"completePrerequisite": {
+            "name": "YLS2201", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "YLS1201", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "YLS1202", 
+                            "children": [
+                                {
+                                    "name": "YLS1201", 
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module targets students who have completed the introductory Spanish sequence or have had significant experience with the language (e.g., Study Abroad during their first summer at Yale-NUS). It offers a combination of listening and speaking practice with a review of key concepts of Spanish grammar. This module continues to incorporate Hispanic cultural elements and representative texts from the Spanish-speaking world.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "YALE-NUS COLLEGE",
+"department": "YALE-NUS COLLEGE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

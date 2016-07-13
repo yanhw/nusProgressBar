@@ -1,0 +1,36 @@
+{
+"moduleCode": "PL3235",
+"moduleTitle": "Social Psychology",
+"moduleCredit": "4",
+"lockedModules":[
+            "PL3252",
+            "PL3259",
+            "PL3240",
+            "PL3282C",
+            "PL3238",
+            "PL3282",
+            "PL3282A"
+        ],
+"preclusion": "NIL",
+"prerequisite": "PL1101E",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["PL1101E"]
+},
+"prerequisiteList": ["PL1101E"],
+"completePrerequisite": {
+            "name": "PL3235", 
+            "children": [
+                {
+                    "name": "PL1101E", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "This course provides a broad foundation for the study of human social behaviour. Topics such as attitudes, social cognition, interpersonal relations and group processes are discussed. One aim of this course is to introduce students to the theories and research of social psychology. A second aim is to help students appreciate how the findings of social psychologists are relevant and applicable to the day-to-day situations in our lives.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "PSYCHOLOGY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

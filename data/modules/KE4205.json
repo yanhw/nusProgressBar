@@ -1,0 +1,22 @@
+{
+"moduleCode": "KE4205",
+"moduleTitle": "Introduction to Knowledge Management",
+"moduleCredit": "3",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "KE4205", 
+            "children": []
+},
+"moduleDescription": "The objective of this module is to provide an introduction to knowledge management for software/knowledge engineers. It will cover the essential principles and best practices of knowledge management (KM) as they are applied within the software development industry. (refer to syllabus below for topics covered) There is an assignment in which students design and possibly implement a KM system in their workplace. This course is appropriate for software engineers who wish to gain an appreciation of KM and how it can be applied to Software Engineering projects,",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "NON-FACULTY-BASED DEPARTMENTS",
+"department": "INSTITUTE OF SYSTEMS SCIENCE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

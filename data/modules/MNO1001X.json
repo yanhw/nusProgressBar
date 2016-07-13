@@ -1,0 +1,34 @@
+{
+"moduleCode": "MNO1001X",
+"moduleTitle": "Management And Organisation",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "Students who have taken BE2106, EG1423, CS1303, BK2002 or BZ1001 or BH1001 are not allowed to take MNO1001. Students who took or are taking HR2001, HR2101, HR3111 or HR3308 cannot take MNO1001",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "BE2106",
+            "BK2002",
+            "EG1423",
+            "MNO1001",
+            "BH1001",
+            "BZ1001",
+            "HR2001",
+            "HR3111",
+            "HR2101",
+            "CS1303",
+            "HR3308"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "MNO1001X", 
+            "children": []
+},
+"moduleDescription": "This module addresses the essence of what managers do. To understand this, we begin by focusing on the two basic building blocks in organisations; the individual and the group. The broader environment in which managers and organisations will also be addressed. Lectures, case studies and experiential learning are used as tools for learning when appropriate.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF BUSINESS",
+"department": "MANAGEMENT AND ORGANISATION",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

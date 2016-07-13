@@ -1,0 +1,45 @@
+{
+"moduleCode": "CE5514",
+"moduleTitle": "Plate & Shell Structures",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "ME5103",
+"prerequisite": "CE2155 or CE4 standing or higher",
+"preclusionList": [
+            "ME5103"
+        ],
+"parsedPrerequisite": {
+" and ": ["CE2155"]
+},
+"prerequisiteList": ["CE2155","EG1109F","EG1109"],
+"completePrerequisite": {
+            "name": "CE5514", 
+            "children": [
+                {
+                    "name": "CE2155", 
+                    "children": [
+                        {
+                            "name": "or", 
+                            "children": [
+                                {
+                                    "name": "EG1109F", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "EG1109", 
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "In this specialized module, students are taught fundamentals in plate bending and shell membrane theories including axisymmetric bending of shells of revolution. Topics covered include a brief introduction to the theory of elasticity; fundamentals of plate structures, plate bending theories and plate equations, energy principles, analytical and numerical analyses of plates, axisymmetric plates, orthotropic and laminated plates, vibration of plates, membrane theory for shells of revolution, membrane theory for shells of translations, energy method, axisymmetric bending of shells of revolution and design of reinforced concrete plate and shell structures. The module is intended for undergraduate and graduate students who wish to enhance their understanding in terms of analysis and design of plates and shells used in civil and infrastructure works.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "CIVIL & ENVIRONMENTAL ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

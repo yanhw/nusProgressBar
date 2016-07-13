@@ -1,0 +1,35 @@
+{
+"moduleCode": "MUA2161",
+"moduleTitle": "Major Study 2A",
+"moduleCredit": "5",
+"lockedModules":[
+            "MUA2162"
+        ],
+"preclusion": "NIL",
+"prerequisite": "MUA1162",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["MUA1162"]
+},
+"prerequisiteList": ["MUA1162","MUA1161"],
+"completePrerequisite": {
+            "name": "MUA2161", 
+            "children": [
+                {
+                    "name": "MUA1162", 
+                    "children": [
+                        {
+                            "name": "MUA1161", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "YONG SIEW TOH CONSERVATORY OF MUSIC",
+"department": "YONG SIEW TOH CONSERVATORY OF MUSIC",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

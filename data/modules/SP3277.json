@@ -1,0 +1,89 @@
+{
+"moduleCode": "SP3277",
+"moduleTitle": "Nano: from Research Bench to Industrial Applications",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "SP2171 (Discovering Science) and SP2173 (Atoms to Molecules), or SP2251 (Science at the Nanoscale)",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " and ": [
+                "SP2171", 
+                {
+                    " or ": [
+                        "SP2173", 
+                        "SP2251"
+                    ]
+                }
+            ]
+},
+"prerequisiteList": ["SP2171","SP2173","SP2251","PC1144","PC1432","PC1432X","CM1101","CM1131","PC1321","GEK1509"],
+"completePrerequisite": {
+            "name": "SP3277", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "SP2171", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "or", 
+                            "children": [
+                                {
+                                    "name": "SP2173", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "SP2251", 
+                                    "children": [
+                                        {
+                                            "name": "or", 
+                                            "children": [
+                                                {
+                                                    "name": "PC1144", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "PC1432", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "PC1432X", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "CM1101", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "CM1131", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "PC1321", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "GEK1509", 
+                                                    "children": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module exposes senior students to nanoscience research and nanotechnology-based industry. This is done through a series of weekly seminars by principal investigators and industrial experts in the field, laboratory and industrial visits, and by completion of nanosynthesis/nanocharacterization-related mini projects. The course culminates in an intensive one-week study tour to Japan, organised in collaboration with La Trobe University and Tokyo University",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCIENCE",
+"department": "DEAN'S OFFICE (SCIENCE)",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

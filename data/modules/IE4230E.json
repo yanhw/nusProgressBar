@@ -1,0 +1,22 @@
+{
+"moduleCode": "IE4230E",
+"moduleTitle": "Quality Engineering II",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "IE4230E", 
+            "children": []
+},
+"moduleDescription": "Design-in quality versus process control. Quality function deployment. Failure mode and effects analysis. Fractional factorial designs. Confounding. Robust design. Reliability analysis and testing.",
+"crossModule": "-1",
+"corequisite": "IE2130E & IE3101E",
+"faculty": "ENGINEERING",
+"department": "BACHELOR OF TECHNOLOGY PROGRAMME",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

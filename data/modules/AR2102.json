@@ -1,0 +1,22 @@
+{
+"moduleCode": "AR2102",
+"moduleTitle": "Design 4",
+"moduleCredit": "8",
+"lockedModules":[
+],
+"preclusion": "All non-architecture students",
+"prerequisite": "AR1101 Design 1 Grade 'C' or Grade \u201cS\u201d; AR1102 Design 2 Grade 'C' or Grade \u201cS\u201d",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "AR2102", 
+            "children": []
+},
+"moduleDescription": "This module will emphasize the integrative nature of architectural design. Students are to focus on the integration of architectural design with materials, structure and construction. Topics ? The module will deal with appropriate materials, structure and construction for the architectural design intent through the design of a small-scale building. Responses to program, climate and site context of urban fringe sites are also to be considered in the design.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF DESIGN AND ENVIRONMENT",
+"department": "ARCHITECTURE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

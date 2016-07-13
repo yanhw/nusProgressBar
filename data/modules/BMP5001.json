@@ -1,0 +1,22 @@
+{
+"moduleCode": "BMP5001",
+"moduleTitle": "Venture Capital",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "BMP5001", 
+            "children": []
+},
+"moduleDescription": "The focus of this module is on the principles and practice of managing a venture capital (VC) firm. This module seeks to help students develop a deep understanding of venture capitalism. It will help students understand how venture capital funds are raised and structured. It will also help students understand the interactions between venture capital firms and the entrepreneurs they finance. Lastly, students will also learn about managing the venture capital firm.",
+"crossModule": "-1",
+"corequisite": "Nil",
+"faculty": "SCHOOL OF BUSINESS",
+"department": "DEAN'S OFFICE (BIZ)",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

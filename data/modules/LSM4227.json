@@ -1,0 +1,73 @@
+{
+"moduleCode": "LSM4227",
+"moduleTitle": "Stem Cell Biology",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "LSM2102 and LSM2103",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " and ": [
+                "LSM2102", 
+                "LSM2103"
+            ]
+},
+"prerequisiteList": ["LSM2102","LSM1401","LSM1102","LSM2103","LSM1101"],
+"completePrerequisite": {
+            "name": "LSM4227", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "LSM2102", 
+                            "children": [
+                                {
+                                    "name": "and", 
+                                    "children": [
+                                        {
+                                            "name": "LSM1401", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "LSM1102", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "LSM2103", 
+                            "children": [
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "LSM1101", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "LSM1401", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "LSM1102", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module will provide a detailed and critical introduction in the biology of stem cells and regenerative medicine. Students will investigate the origin of embryonic and adult stem cells and learn biological concepts relating to pluripotency, self-renewal, transdifferentiation, reprogramming and regeneration. The cell-fate determination and differentiation of selected types of cells, with a focus on their potential biological and medical applications, will be presented. Specialized topics on cancer stem cells, wound healing and tissue regeneration will provide a glimpse of how mankind's future could be further shaped.",
+"crossModule": "-1",
+"corequisite": "Nil",
+"faculty": "SCIENCE",
+"department": "BIOLOGICAL SCIENCES",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

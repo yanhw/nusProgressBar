@@ -1,0 +1,59 @@
+{
+"moduleCode": "PC2130B",
+"moduleTitle": "Applied Quantum Physics",
+"moduleCredit": "4",
+"lockedModules":[
+            "PC3232",
+            "ESP3102",
+            "PC3235",
+            "PC3130",
+            "PC3232B",
+            "PC3233"
+        ],
+"preclusion": "Students who passed PC2130 cannot take this module.",
+"prerequisite": "Students who passed one of the following modules. PC1144 or PC1432/PC1432X or PC1433",
+"preclusionList": [
+            "PC2130"
+        ],
+"parsedPrerequisite": {
+            " or ": [
+                "PC1144", 
+                "PC1432", 
+                "PC1432X", 
+                "PC1433"
+            ]
+},
+"prerequisiteList": ["PC1144","PC1432","PC1432X","PC1433"],
+"completePrerequisite": {
+            "name": "PC2130B", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "PC1144", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "PC1432", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "PC1432X", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "PC1433", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "Introductory aspects of quantum physics. Two state quantum systems. The wave function and Schrodinger equation. Quantum harmonic oscillator; hydrogen atom; spherical harmonics. Atomic spectra. Scattering theory. Applications such as semiconductors, lasers, quantum dots and wires.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCIENCE",
+"department": "PHYSICS",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

@@ -1,0 +1,22 @@
+{
+"moduleCode": "IS5128",
+"moduleTitle": "Organizing for IT Innovation",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "Basic knowledge of organizations and business functions will be helpful, but not required.",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "IS5128", 
+            "children": []
+},
+"moduleDescription": "Successful development and adoption of technological innovation relies not only on the technology itself but also on a shrewd business model and the surrounding ecosystem where a host of partners\u2019 co-innovation plays a key role. This module provides graduate students with the knowledge and tools for managing technological innovations, especially in the dynamic and growing IT sector. Topics covered include the innovation process, the organizational and environmental context of innovation, the innovator\u2019s dilemma, product vs. service innovation, open vs. closed innovation, innovation platforms, and management of intellectual property.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF COMPUTING",
+"department": "INFORMATION SYSTEMS",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

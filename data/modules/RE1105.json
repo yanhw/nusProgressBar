@@ -1,0 +1,22 @@
+{
+"moduleCode": "RE1105",
+"moduleTitle": "Understanding Design and Construction",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "RE1105", 
+            "children": []
+},
+"moduleDescription": "This module covers the fundamental principles and practice of design and construction for real estate developments by examining the key building elements and technologies. It places emphasis on how design and construction affect property value, maintainability, function and use of the building. Students will acquire skills in the interpretation of building drawings and appreciation of construction methods and materials.",
+"crossModule": "-1",
+"corequisite": "N.A.",
+"faculty": "SCHOOL OF DESIGN AND ENVIRONMENT",
+"department": "REAL ESTATE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

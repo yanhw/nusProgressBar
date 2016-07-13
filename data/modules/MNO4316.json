@@ -1,0 +1,29 @@
+{
+"moduleCode": "MNO4316",
+"moduleTitle": "Experiencing Work: Effects on Behavior and Well-Being",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "MNO1001 Management and Organizational Behaviour",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["MNO1001"]
+},
+"prerequisiteList": ["MNO1001"],
+"completePrerequisite": {
+            "name": "MNO4316", 
+            "children": [
+                {
+                    "name": "MNO1001", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "This module gives an overview of the ways in which work demands and experiences influence employee behaviour and well-being, and also explores the mechanisms that organizations and employees can use to minimize the negative effects of work demands on well-being as well as maximize the positive effects of certain work experiences on well-being.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF BUSINESS",
+"department": "MANAGEMENT AND ORGANISATION",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

@@ -1,0 +1,217 @@
+{
+"moduleCode": "CS5228",
+"moduleTitle": "Knowledge Discovery and Data Mining",
+"moduleCredit": "4",
+"lockedModules":[
+            "CS6220"
+        ],
+"preclusion": "NIL",
+"prerequisite": "CS2102 Database Systems and (ST1232 Statistics for Life Sciences or ST2131 Probability or ST2334 Probability and Statistics) and CS3243 Introduction to Artificial Intelligence",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " and ": [
+                "CS2102", 
+                {
+                    " or ": [
+                        "ST1232", 
+                        "ST2131", 
+                        "ST2334"
+                    ]
+                }, 
+                "CS3243"
+            ]
+},
+"prerequisiteList": ["CS2102","CS1020","CS1010","CS1231","MA1100","ST1232","ST2131","MA1102","MA1102R","MA1312","MA1507","MA1505","MA1505C","MA1521","ST2334","MA1306","CS3243","CS2010","CS1020E","CS1010E","CG1103"],
+"completePrerequisite": {
+            "name": "CS5228", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "CS2102", 
+                            "children": [
+                                {
+                                    "name": "and", 
+                                    "children": [
+                                        {
+                                            "name": "CS1020", 
+                                            "children": [
+                                                {
+                                                    "name": "CS1010", 
+                                                    "children": []
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "or", 
+                                            "children": [
+                                                {
+                                                    "name": "CS1231", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MA1100", 
+                                                    "children": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "or", 
+                            "children": [
+                                {
+                                    "name": "ST1232", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "ST2131", 
+                                    "children": [
+                                        {
+                                            "name": "or", 
+                                            "children": [
+                                                {
+                                                    "name": "MA1102", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MA1102R", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MA1312", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MA1507", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MA1505", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MA1505C", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MA1521", 
+                                                    "children": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }, 
+                                {
+                                    "name": "ST2334", 
+                                    "children": [
+                                        {
+                                            "name": "or", 
+                                            "children": [
+                                                {
+                                                    "name": "MA1306", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MA1102", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MA1102R", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MA1505", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MA1505C", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MA1521", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MA1312", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MA1507", 
+                                                    "children": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "CS3243", 
+                            "children": [
+                                {
+                                    "name": "and", 
+                                    "children": [
+                                        {
+                                            "name": "CS2010", 
+                                            "children": [
+                                                {
+                                                    "name": "or", 
+                                                    "children": [
+                                                        {
+                                                            "name": "CS1020", 
+                                                            "children": [
+                                                                {
+                                                                    "name": "CS1010", 
+                                                                    "children": []
+                                                                }
+                                                            ]
+                                                        }, 
+                                                        {
+                                                            "name": "CS1020E", 
+                                                            "children": [
+                                                                {
+                                                                    "name": "CS1010E", 
+                                                                    "children": []
+                                                                }
+                                                            ]
+                                                        }, 
+                                                        {
+                                                            "name": "CG1103", 
+                                                            "children": []
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "or", 
+                                            "children": [
+                                                {
+                                                    "name": "CS1231", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MA1100", 
+                                                    "children": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This course introduces fundamental principles behind data mining and efficient techniques for mining large databases. It provides an overview of the algorithmic aspect of data mining: its efficiency (high-dimensional database indexing, OLAP, data reduction, compression techniques) and effectiveness (machine learning involving greedy search, branch and bound, stochastic search, parameter optimisation). Efficient techniques covered include association rules mining (Apriori algorithm, correlation search, constrained association rule discovery), classifier induction (decision trees, RainForest, SLIQ; Support vector machine; Naive Bayesian; classification based on association / visualisation), cluster analysis (k-means, k-mediods, DBSCAN, OPTICS, DENCLUE, STING, CLUSEQ, ROCK etc), and outliers/deviants detection (LOF, Distance-based outlier etc).",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF COMPUTING",
+"department": "COMPUTER SCIENCE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

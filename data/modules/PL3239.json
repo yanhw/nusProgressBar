@@ -1,0 +1,60 @@
+{
+"moduleCode": "PL3239",
+"moduleTitle": "Industrial and Organisational Psychology",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "PL1101E, PL2131 and PL2132",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " and ": [
+                "PL1101E", 
+                "PL2131", 
+                "PL2132"
+            ]
+},
+"prerequisiteList": ["PL1101E","PL2131","PL2132"],
+"completePrerequisite": {
+            "name": "PL3239", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "PL1101E", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "PL2131", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "PL2132", 
+                            "children": [
+                                {
+                                    "name": "and", 
+                                    "children": [
+                                        {
+                                            "name": "PL1101E", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "PL2131", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module is intended to expose students to applications of the facts and principles of scientific psychology to industrial and organisational settings. Topics include the structure and function of organisations; selection and training; management of efficiency (motivation, working conditions, and coping attitudes); and group processes in organisations. Lectures build the knowledge base of the students; case discussions encourage applications of their knowledge.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "PSYCHOLOGY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

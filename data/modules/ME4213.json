@@ -1,0 +1,22 @@
+{
+"moduleCode": "ME4213",
+"moduleTitle": "Vibration Theory And Applications",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "ME4213", 
+            "children": []
+},
+"moduleDescription": "This module develops students' understanding of various methods used to determine the shock and vibration characteristics of mechanical systems and instills an appreciation of the importance of these characteristics in the design of systems and their applications in vibration isolation, transmission, and absorption problems; Natural frequencies and normal modes; Dynamic response and stability. Single and multiple-degree-of-freedom systems will be treated using continuous and discrete system concepts, including Lagrange's equations. Approximation methods for solution as well as instrumentation for vibration measurement will be discussed. Examples will be drawn mainly from mechanical disciplines.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "MECHANICAL ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

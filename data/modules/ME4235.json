@@ -1,0 +1,52 @@
+{
+"moduleCode": "ME4235",
+"moduleTitle": "Introduction to Aeroelasticity",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "ME2134 Fluid Mechanics I ME2114 Mechanics of Materials II",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["ME2114"]
+},
+"prerequisiteList": ["ME2114","ME2113","EG1109F","EG1109","CE1109X"],
+"completePrerequisite": {
+            "name": "ME4235", 
+            "children": [
+                {
+                    "name": "ME2114", 
+                    "children": [
+                        {
+                            "name": "ME2113", 
+                            "children": [
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "EG1109F", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "EG1109", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "CE1109X", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This is an introductory course on aeroelasticity as applied to aerospace specialization. Aeroelasticity is defined as the interactions of the deformable elastic structures in free airstream and the resulting aerodynamic force, which broadly falls under fluid-structure interaction. After introducing the basic terminology and a classification, the basics of statics and dynamics of fluid-structure interaction will be given. Topics covered include static aeroelasticity (divergence, control surface reversal), dynamic aeroelasticity (flutter, buffeting, and gust response), aeroservoelasticity (fluid-structure-control interaction), unsteady aerodynamics over lifting surfaces, and experimental methods for flutter prediction.",
+"crossModule": "-1",
+"corequisite": "Nil",
+"faculty": "ENGINEERING",
+"department": "MECHANICAL ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

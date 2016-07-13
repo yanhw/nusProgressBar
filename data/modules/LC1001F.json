@@ -1,0 +1,22 @@
+{
+"moduleCode": "LC1001F",
+"moduleTitle": "Criminal Law (F)",
+"moduleCredit": "8",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "LC1001F", 
+            "children": []
+},
+"moduleDescription": "This course is meant to introduce students to the basic principles of criminal liability, mainly through the use of the homicide offences found in the Penal Code. The general defences found in the Penal Code as well as inchoate and joint liability of offenders will be covered in detail. During the course, reference may be made to offences found in other statutes and the law reform proposals from other jurisdictions. Students will also be encouraged to consider why certain forms of conduct are subject to criminal penalties and to critically assess these objectives",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "LAW",
+"department": "LAW",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

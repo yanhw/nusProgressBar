@@ -1,0 +1,26 @@
+{
+"moduleCode": "MUT1121",
+"moduleTitle": "Musical Concepts and Materials I",
+"moduleCredit": "6",
+"lockedModules":[
+            "MUT3202",
+            "MUT3205",
+            "MUT1122",
+            "MUT3211"
+        ],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "MUT1121", 
+            "children": []
+},
+"moduleDescription": "Study of melody, counterpoint, figured bass, consonance and dissonance, diatonic and chromatic harmony and analysis and composition of short homophonic and polyphonic pieces.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "YONG SIEW TOH CONSERVATORY OF MUSIC",
+"department": "YONG SIEW TOH CONSERVATORY OF MUSIC",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

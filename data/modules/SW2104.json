@@ -1,0 +1,23 @@
+{
+"moduleCode": "SW2104",
+"moduleTitle": "Human Development over the Lifespan",
+"moduleCredit": "4",
+"lockedModules":[
+            "SW3103A"
+        ],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "SW2104", 
+            "children": []
+},
+"moduleDescription": "This module provides an introduction to human development from a lifespan perspective. Major developmental theories and contributions to the field from cross-disciplinary perspectives will be discussed. More specifically, students will look at physical, cognitive, social, psycho-emotional and moral development and gain some understanding of how each developmental domain may be shaped by the forces of nature or nurture. Tutorial assignments provide students with the opportunity to integrate classroom learning with practical concerns.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "SOCIAL WORK",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

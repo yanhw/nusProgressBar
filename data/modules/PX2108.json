@@ -1,0 +1,48 @@
+{
+"moduleCode": "PX2108",
+"moduleTitle": "Basic Human Pathology",
+"moduleCredit": "4",
+"lockedModules":[
+            "PR2134",
+            "PR2135"
+        ],
+"preclusion": "NIL",
+"prerequisite": "AY1130, PY1131",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " and ": [
+                "AY1130", 
+                "PY1131"
+            ]
+},
+"prerequisiteList": ["AY1130","PY1131"],
+"completePrerequisite": {
+            "name": "PX2108", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "AY1130", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "PY1131", 
+                            "children": [
+                                {
+                                    "name": "AY1130", 
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "Pathology involves both basic science and clinical medicine and is devoted to the study of structural and functional changes in cells, tissues and organs that underlie diseases. It attempts to explain the \"whys\"of the signs and symptoms manifested by patients while providing a sound foundation for rational clinical care and therapy. The module includes some aspects of General Pathology, Haematology and Chemical Pathology. General Pathology is concerned with the basic reactions of cells and tissues to abnormal stimuli that cause disease. Haematology deals with diseases of the blood while Chemical Pathology deals with biochemical processes in disease states.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "YONG LOO LIN SCHOOL OF MEDICINE",
+"department": "PATHOLOGY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

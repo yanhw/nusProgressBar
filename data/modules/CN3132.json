@@ -1,0 +1,105 @@
+{
+"moduleCode": "CN3132",
+"moduleTitle": "Separation Processes",
+"moduleCredit": "4",
+"lockedModules":[
+            "CN4122",
+            "CN3109",
+            "CN4250",
+            "CN4248",
+            "CN5173",
+            "CN4118R",
+            "CN4215R",
+            "CN4201R"
+        ],
+"preclusion": "NIL",
+"prerequisite": "CN1111FC/CN1111/CN1111X, CN2125",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " and ": [
+                {
+                    " or ": [
+                        "CN1111F", 
+                        "CN1111", 
+                        "CN1111X"
+                    ]
+                }, 
+                "CN2125"
+            ]
+},
+"prerequisiteList": ["CN1111F","CN1111","CN1111X","CN2125","CN2122","MA1505","MA1506","MA1102R","MA1521"],
+"completePrerequisite": {
+            "name": "CN3132", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "or", 
+                            "children": [
+                                {
+                                    "name": "CN1111F", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "CN1111", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "CN1111X", 
+                                    "children": []
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "CN2125", 
+                            "children": [
+                                {
+                                    "name": "CN2122", 
+                                    "children": [
+                                        {
+                                            "name": "and", 
+                                            "children": [
+                                                {
+                                                    "name": "MA1505", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MA1506", 
+                                                    "children": [
+                                                        {
+                                                            "name": "or", 
+                                                            "children": [
+                                                                {
+                                                                    "name": "MA1102R", 
+                                                                    "children": []
+                                                                }, 
+                                                                {
+                                                                    "name": "MA1505", 
+                                                                    "children": []
+                                                                }, 
+                                                                {
+                                                                    "name": "MA1521", 
+                                                                    "children": []
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "In this module, equilibrium stage and rate-based design concepts in separation processes are introduced. Starting from simple single stage, binary separation, the theoretical treatment is extended to multi-component, multi-stage processes. After brief introduction to inter-phase mass transfer, basic concepts in rate-based design for the more important separation processes such as absorption and distillation are illustrated. The rate-based design concept is then extended to operations involving simultaneous heat and mass transfer such as in cooling tower and dryer. The process design principles are illustrated with distillation, absorption, extraction, adsorption, cooling tower and drying processes.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "CHEMICAL & BIOMOLECULAR ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

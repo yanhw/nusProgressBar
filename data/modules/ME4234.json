@@ -1,0 +1,52 @@
+{
+"moduleCode": "ME4234",
+"moduleTitle": "Experimental Methods In Fluid Mechanics",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "ME2135 Fluid Mechanics II",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["ME2135"]
+},
+"prerequisiteList": ["ME2135","ME2134","PC1431","PC1431F","PC1431X"],
+"completePrerequisite": {
+            "name": "ME4234", 
+            "children": [
+                {
+                    "name": "ME2135", 
+                    "children": [
+                        {
+                            "name": "ME2134", 
+                            "children": [
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "PC1431", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "PC1431F", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "PC1431X", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module teaches students various techniques and skills in carrying out fluid mechanics experiment. Major topics are: Similitudes and modeling; Wind tunnel design; Mean and fluctuating velocity measurement; Mean and fluctuating pressure measurement; Shear stress measurements; Wind tunnel blockage correction; End plate configurations; Flow visualisation; Signal analysis: data acquisition, probability theory, correlation studies, spectral analysis. This module is targeted at students who are working on a final year project which involves conducting fluid mechanics experiments and those who have interest in experimental fluid mechanics.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "MECHANICAL ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

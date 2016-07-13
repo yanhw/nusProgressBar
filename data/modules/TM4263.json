@@ -1,0 +1,29 @@
+{
+"moduleCode": "TM4263",
+"moduleTitle": "Manufact'G Simulat'N & Data Communicat'N",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "TM2162",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["TM2162"]
+},
+"prerequisiteList": ["TM2162"],
+"completePrerequisite": {
+            "name": "TM4263", 
+            "children": [
+                {
+                    "name": "TM2162", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "This module provides the fundamental concepts related to the simulation of manufacturing systems. How the data between the manufacturing systems are transferred, their standard protocols are also covered. In addition the following topics are covered: Concepts of discrete-event modelling and simulation, definitions, types, essential elements in modelling, design and implementation of manufacturing simulation models, petri-nets, model verification and validation, input information collection and analysis, interpretation of outputs, use of random inputs and variance reduction techniques, protocol standards, communication topology, MAP/TOP.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "BACHELOR OF TECHNOLOGY PROGRAMME",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,0,3,0,]]
+}

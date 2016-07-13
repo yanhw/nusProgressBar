@@ -1,0 +1,34 @@
+{
+"moduleCode": "EC1301",
+"moduleTitle": "Principles of Economics",
+"moduleCredit": "4",
+"lockedModules":[
+            "ENV3103",
+            "EC2101",
+            "EC2102",
+            "EC3303",
+            "EC2374",
+            "IS3240",
+            "RE2102"
+        ],
+"preclusion": "EC1101E, BH1005/BSP1005, USE2301. All BBA, BAC, BBA(Hons) and BAC(Hons) students are not allowed to take EC1301.",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "BH1005",
+            "USE2301",
+            "BSP1005",
+            "EC1101E"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "EC1301", 
+            "children": []
+},
+"moduleDescription": "This course is designed to teach the basic principles of economics to undergraduates from non-economic majors. It introduces students to elementary microeconomic and macroeconomic concepts and provides them with an economic framework to understand the workings of individual markets, the aggregate economy, as well as international trade and finance.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "ECONOMICS",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

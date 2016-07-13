@@ -1,0 +1,22 @@
+{
+"moduleCode": "ESE5601",
+"moduleTitle": "Environmental Risk Assessment",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "ESE4 standing or higher",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "ESE5601", 
+            "children": []
+},
+"moduleDescription": "The objective of this module is to examine the fundamental principles governing toxic contaminant exposure and risk to humans and ecosystems. The course will cover necessary aspects of probability and statistics, physical and chemical behaviour of key priority pollutants, mass transfer and exposure pathways of the contaminants, human and environmental toxicology, and methodologies for risk assessment. The course will also involve several case studies of remediation technology applications with a focus on understanding how human and environmental risk is managed in a real life situation.",
+"crossModule": "-1",
+"corequisite": "Nil",
+"faculty": "ENGINEERING",
+"department": "CIVIL & ENVIRONMENTAL ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

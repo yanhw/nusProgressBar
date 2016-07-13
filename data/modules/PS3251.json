@@ -1,0 +1,44 @@
+{
+"moduleCode": "PS3251",
+"moduleTitle": "International and Regional Organisations",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "PS3254, EU3228",
+"prerequisite": "PS1101E, PS2237",
+"preclusionList": [
+            "PS3254",
+            "EU3228"
+        ],
+"parsedPrerequisite": {
+            " and ": [
+                "PS1101E", 
+                "PS2237"
+            ]
+},
+"prerequisiteList": ["PS1101E","PS2237"],
+"completePrerequisite": {
+            "name": "PS3251", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "PS1101E", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "PS2237", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "The main aim of this module is to provide a theoretical and empirical understanding of the role of international organisations in contemporary international politics. Scholarly and policy making communities constantly refer to international organisations but there is very little comprehension of how these institutions emerge, evolve and endure. This module will explain concepts such as functionalism, neo-functionalism, integration, regimes and international cooperation. The second part will focus on universal organisations (UN, WTO) and regional entities like the European Union, Mercosur, OAS, GCC etc.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "POLITICAL SCIENCE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

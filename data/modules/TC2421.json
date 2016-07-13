@@ -1,0 +1,45 @@
+{
+"moduleCode": "TC2421",
+"moduleTitle": "Mathematics For Chemical Engineers",
+"moduleCredit": "4",
+"lockedModules":[
+            "CN4118E",
+            "CN3121E"
+        ],
+"preclusion": "TC2411",
+"prerequisite": "TC1402/TC2401",
+"preclusionList": [
+            "TC2411"
+        ],
+"parsedPrerequisite": {
+            " or ": [
+                "TC1402", 
+                "TC2401"
+            ]
+},
+"prerequisiteList": ["TC1402","TC2401"],
+"completePrerequisite": {
+            "name": "TC2421", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "TC1402", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "TC2401", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "BACHELOR OF TECHNOLOGY PROGRAMME",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

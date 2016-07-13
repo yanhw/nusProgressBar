@@ -1,0 +1,29 @@
+{
+"moduleCode": "DSC4211G",
+"moduleTitle": "SIOSCM: Service Design",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "DSC2006 Operations Management",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["DSC2006"]
+},
+"prerequisiteList": ["DSC2006"],
+"completePrerequisite": {
+            "name": "DSC4211G", 
+            "children": [
+                {
+                    "name": "DSC2006", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "Service design is a process that seeks to understand ways to develop the environments and programs that lead to a high level of service quality. Often times, the success of a business is dependent on the quality of service that is provided to its customers. This is most evident in businesses where there is a blurry line between product and service. When the ultimate product is service, the quality of this service is the main element that can predict the success and profitability of the company.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF BUSINESS",
+"department": "DECISION SCIENCES",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

@@ -1,0 +1,47 @@
+{
+"moduleCode": "LAC3201",
+"moduleTitle": "Chinese 3",
+"moduleCredit": "4",
+"lockedModules":[
+            "LAC3202"
+        ],
+"preclusion": "NIL",
+"prerequisite": "Passed LAC2201/LAC2202 or placement test.",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " or ": [
+                "LAC2201", 
+                "LAC2202"
+            ]
+},
+"prerequisiteList": ["LAC2201","LAC1201","LAC2202"],
+"completePrerequisite": {
+            "name": "LAC3201", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "LAC2201", 
+                            "children": [
+                                {
+                                    "name": "LAC1201", 
+                                    "children": []
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "LAC2202", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This is an intermediate Chinese module which is a continuation of Chinese 2. It consists of three main components: conversation, grammar and Chinese character learning. Another 160 Chinese characters and 260 phrases will be introduced. Students are also required to give short speeches and project presentations in the tutorials. Students' language skills in listening, speaking, reading and writing are further strengthened.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "CENTRE FOR LANGUAGE STUDIES",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

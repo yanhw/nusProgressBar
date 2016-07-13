@@ -1,0 +1,24 @@
+{
+"moduleCode": "ID1105",
+"moduleTitle": "Design Fundamentals 1",
+"moduleCredit": "8",
+"lockedModules":[
+            "ID2105",
+            "ID2106"
+        ],
+"preclusion": "Module not offered to none industrial design students",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "ID1105", 
+            "children": []
+},
+"moduleDescription": "Awakening and first contact with the design tools related to industrial design. Discovery of the elements of design such as: visual communication, creative making and thinking, discovery of basic shapes and forms, rational analysis of existing products. This module is also the opportunity for the students to start to plan and manage various parameters such as design variables and constrains, economy of means and time.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "SCHOOL OF DESIGN AND ENVIRONMENT",
+"department": "DIVISION OF INDUSTRIAL DESIGN",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

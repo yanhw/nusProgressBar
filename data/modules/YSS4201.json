@@ -1,0 +1,46 @@
+{
+"moduleCode": "YSS4201",
+"moduleTitle": "Social Psychology Lab",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "YSS2201 Understanding Behavior and Cognition and YSS2216 Statistics and Research Methods for Psychology",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " and ": [
+                "YSS2201", 
+                "YSS2216"
+            ]
+},
+"prerequisiteList": ["YSS2201","YSS2216","YCC1122"],
+"completePrerequisite": {
+            "name": "YSS4201", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "YSS2201", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "YSS2216", 
+                            "children": [
+                                {
+                                    "name": "YCC1122", 
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This is a skills-based module concerned with research methods in social psychology, a core area of psychology that investigates situational forces affecting human thoughts, feelings, and actions. As such, we will be discussing different types of research done in social psychology and students will be doing projects using those methods. The module will culminate in students doing research projects and writing up these projects as if for publication. The first portion of the module will be concerned with methods and study proposals, whereas the second portion will be devoted to data collection, analysis, and writing up results.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "YALE-NUS COLLEGE",
+"department": "YALE-NUS COLLEGE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

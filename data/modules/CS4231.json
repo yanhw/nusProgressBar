@@ -1,0 +1,149 @@
+{
+"moduleCode": "CS4231",
+"moduleTitle": "Parallel and Distributed Algorithms",
+"moduleCredit": "4",
+"lockedModules":[
+            "CS5233",
+            "CS6213"
+        ],
+"preclusion": "NIL",
+"prerequisite": "CS3230 Design and Analysis of Algorithms or CS3210 Parallel Computing",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " or ": [
+                "CS3230", 
+                "CS3210"
+            ]
+},
+"prerequisiteList": ["CS3230","CS2010","CS1020","CS1010","CS1020E","CS1010E","CG1103","CS1231","MA1100","CS3210","CS2100","CG2007","EE2024","EE2020","EE1002","CG1108","EG1108"],
+"completePrerequisite": {
+            "name": "CS4231", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "CS3230", 
+                            "children": [
+                                {
+                                    "name": "and", 
+                                    "children": [
+                                        {
+                                            "name": "CS2010", 
+                                            "children": [
+                                                {
+                                                    "name": "or", 
+                                                    "children": [
+                                                        {
+                                                            "name": "CS1020", 
+                                                            "children": [
+                                                                {
+                                                                    "name": "CS1010", 
+                                                                    "children": []
+                                                                }
+                                                            ]
+                                                        }, 
+                                                        {
+                                                            "name": "CS1020E", 
+                                                            "children": [
+                                                                {
+                                                                    "name": "CS1010E", 
+                                                                    "children": []
+                                                                }
+                                                            ]
+                                                        }, 
+                                                        {
+                                                            "name": "CG1103", 
+                                                            "children": []
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "or", 
+                                            "children": [
+                                                {
+                                                    "name": "CS1231", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MA1100", 
+                                                    "children": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "CS3210", 
+                            "children": [
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "CS2100", 
+                                            "children": [
+                                                {
+                                                    "name": "CS1010", 
+                                                    "children": []
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "CG2007", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "EE2024", 
+                                            "children": [
+                                                {
+                                                    "name": "and", 
+                                                    "children": [
+                                                        {
+                                                            "name": "EE2020", 
+                                                            "children": [
+                                                                {
+                                                                    "name": "or", 
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "EE1002", 
+                                                                            "children": []
+                                                                        }, 
+                                                                        {
+                                                                            "name": "CG1108", 
+                                                                            "children": []
+                                                                        }, 
+                                                                        {
+                                                                            "name": "EG1108", 
+                                                                            "children": []
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }, 
+                                                        {
+                                                            "name": "CS1010E", 
+                                                            "children": []
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This course will examine some fundamental issues in parallel programming and distributed computing, and the relationships between the two. Parallel programming: mutual exclusion, semaphores, consistency, wait-free synchronization. Distributed computing: time, global state, snapshots, message ordering. Relationships: consensus, fault-tolerance, transactions, self-stabilization.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF COMPUTING",
+"department": "COMPUTER SCIENCE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

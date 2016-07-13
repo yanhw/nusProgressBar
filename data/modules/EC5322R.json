@@ -1,0 +1,25 @@
+{
+"moduleCode": "EC5322R",
+"moduleTitle": "Industrial Organisation",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "EC5215, EC5268",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "EC5268",
+            "EC5215"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "EC5322R", 
+            "children": []
+},
+"moduleDescription": "Industrial Organisation",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "ECONOMICS",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

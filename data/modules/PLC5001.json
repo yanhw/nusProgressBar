@@ -1,0 +1,24 @@
+{
+"moduleCode": "PLC5001",
+"moduleTitle": "Psychological Assessment",
+"moduleCredit": "4",
+"lockedModules":[
+            "PLC5011A",
+            "PLC5011"
+        ],
+"preclusion": "NIL",
+"prerequisite": "Admission to Clinical Psychology training programme",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "PLC5001", 
+            "children": []
+},
+"moduleDescription": "This module provides students with essential background in psychological and neuropsychological assessment. Students will be exposed to a variety of assessment techniques used for the collection of data in order to evaluate psychological functioning of an individual. They will learn about the application of these techniques to a wide range of clinical psychological problems. Students will become familiar with widely used clinical and neuropsychological tests, methods for evaluation of these tests and issues surrounding psychological assessment in professional settings. These include diagnostic decision making, test administration and interpretation, and the integration of material derived from patient history with the mental state examination and other sources.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "PSYCHOLOGY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

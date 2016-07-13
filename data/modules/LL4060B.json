@@ -1,0 +1,25 @@
+{
+"moduleCode": "LL4060B",
+"moduleTitle": "World Trade Law",
+"moduleCredit": "8",
+"lockedModules":[
+],
+"preclusion": "LL4199A/LL4199B",
+"prerequisite": "NUS Compulsory Core Curriculum or equivalent",
+"preclusionList": [
+            "LL4199B",
+            "LL4199A"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "LL4060B", 
+            "children": []
+},
+
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "LAW",
+"department": "LAW",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

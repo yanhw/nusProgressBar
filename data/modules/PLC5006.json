@@ -1,0 +1,34 @@
+{
+"moduleCode": "PLC5006",
+"moduleTitle": "Ethics and Professional Issues",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "PLC5011 (Clinical Placement 1)",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["PLC5011"]
+},
+"prerequisiteList": ["PLC5011","PLC5001"],
+"completePrerequisite": {
+            "name": "PLC5006", 
+            "children": [
+                {
+                    "name": "PLC5011", 
+                    "children": [
+                        {
+                            "name": "PLC5001", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "Through this module, students will develop an understanding and appreciation of ethical principles in clinical psychology practice. The module aims for students to (i) be familiar with international ethical standards and their application in Singapore, (ii) demonstrate awareness of potential ethical dilemmas across different contexts and approach these using appropriate decision-making strategies, (iii) understand the importance of developing and maintaining professional skills and competencies, (iv) demonstrate good insight into ethical obligations as professional clinical psychologists, (v) appreciate the importance of practising with cultural sensitivity, and (vi) understand the Ministry of Health\u2019s code of conduct for public healthcare staff.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "PSYCHOLOGY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

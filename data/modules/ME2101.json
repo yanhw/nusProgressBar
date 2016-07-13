@@ -1,0 +1,23 @@
+{
+"moduleCode": "ME2101",
+"moduleTitle": "Fundamentals Of Mechanical Design",
+"moduleCredit": "4",
+"lockedModules":[
+            "ME3101"
+        ],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "ME2101", 
+            "children": []
+},
+"moduleDescription": "This module provides the student with the fundamental knowledge to do calculations on design components like bolts, fasteners, joints, welds, springs, gears, brakes, cluthes. Other areas covered will include material selection, fatigue, bearings, shafts, as well as design mechanisms like linkages and cams. This is a compulsory module with no final exam. Assessment will be based purely on continuous assessment.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "MECHANICAL ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

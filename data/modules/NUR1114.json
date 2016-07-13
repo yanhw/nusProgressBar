@@ -1,0 +1,22 @@
+{
+"moduleCode": "NUR1114",
+"moduleTitle": "Fundamentals of Nursing",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "NUR1114", 
+            "children": []
+},
+"moduleDescription": "This module focuses on the development of foundation knowledge and skills for provision of nursing care to patients in a variety of health care settings. The focus will be on the role of the nurse, requirements for creating a safe patient-care environment, skills of clinical decision making, nursing health assessment, and nursing care practices to meet the activities of daily living for patients.",
+"crossModule": "-1",
+"corequisite": "NUR1110 Effective Communication for Health Professionals, NUR1113 Health and Well-being for Older Adults, NUR1107A Nursing Practice Experience 1.1",
+"faculty": "YONG LOO LIN SCHOOL OF MEDICINE",
+"department": "NURSING/ALICE LEE CTR FOR NURSING STUD",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

@@ -1,0 +1,46 @@
+{
+"moduleCode": "PL3257",
+"moduleTitle": "Introduction to Clinical Psychology",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "PL1101E and PL3236",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " and ": [
+                "PL1101E", 
+                "PL3236"
+            ]
+},
+"prerequisiteList": ["PL1101E","PL3236"],
+"completePrerequisite": {
+            "name": "PL3257", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "PL1101E", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "PL3236", 
+                            "children": [
+                                {
+                                    "name": "PL1101E", 
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module will introduce students to the history, evolution, and contemporary practices of clinical psychology. Students will use the scientist practitioner model to study underlying theoretical frameworks and the skills and practices of clinical psychologists. Ethical and professional issues covered include classification and diagnosis, clinical research, assessment, case formulation and treatment planning, interventions, and prevention. The materials will be discussed in the context of typical work settings of clinical psychologists (e.g. mental health, forensic or neuropsychological) and across varied client populations (e.g. children, adults, couples).",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "PSYCHOLOGY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

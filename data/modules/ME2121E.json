@@ -1,0 +1,47 @@
+{
+"moduleCode": "ME2121E",
+"moduleTitle": "Engineering Thermodynamics",
+"moduleCredit": "4",
+"lockedModules":[
+            "ME4223E"
+        ],
+"preclusion": "NIL",
+"prerequisite": "PC1431 or PC1431FC or PC1431X or equivalent",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " or ": [
+                "PC1431", 
+                "PC1431F", 
+                "PC1431X"
+            ]
+},
+"prerequisiteList": ["PC1431","PC1431F","PC1431X"],
+"completePrerequisite": {
+            "name": "ME2121E", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "PC1431", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "PC1431F", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "PC1431X", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "BACHELOR OF TECHNOLOGY PROGRAMME",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

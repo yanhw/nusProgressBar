@@ -1,0 +1,22 @@
+{
+"moduleCode": "SG4210",
+"moduleTitle": "Enterprise .NET I",
+"moduleCredit": "3",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "While there is no module pre-requisites, the student is expected to have knowledge in the following topics: - Basic Software Engineering - Object Oriented Analysis and Design - Working knowledge of .NET and C# language",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "SG4210", 
+            "children": []
+},
+"moduleDescription": "The module aims to equip students with the knowledge and skills to design and develop Enterprise Applications using state-of-the-art computing principles and practices. The module teaches important software engineering patterns with an emphasis on the critical analysis of their applicability to large enterprise systems under specific platforms. By exploring the various challenges in real-life enterprise situations, the module would prepare students to devise novel approaches of problem solving for implementing reusable software components. The module would use a sequence of practical business cases to train students in implementing a wellengineered web-based, component-oriented application on the .NET platform.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "NON-FACULTY-BASED DEPARTMENTS",
+"department": "INSTITUTE OF SYSTEMS SCIENCE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

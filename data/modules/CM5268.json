@@ -1,0 +1,51 @@
+{
+"moduleCode": "CM5268",
+"moduleTitle": "Advanced Organic Materials",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "For Applied Chemistry Students: Polymer Chemistry II (CM3221), Advanced Polymer Science (CM4268). For Chemistry students: Organic Reaction Mechanisms (CM3221).",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " and ": [
+                "CM4268", 
+                "CM3221"
+            ]
+},
+"prerequisiteList": ["CM4268","CM3221","CM2121","CM1121"],
+"completePrerequisite": {
+            "name": "CM5268", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "CM4268", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "CM3221", 
+                            "children": [
+                                {
+                                    "name": "CM2121", 
+                                    "children": [
+                                        {
+                                            "name": "CM1121", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module builds on the module Advanced Polymer Science (CM 4268). A major focus will be directed towards the preparation and application of advanced polymers and biopolymers. It will be accompanied by presentations and case studies delivered by selected Industry researchers. The following aspects will be covered: (i) Liquid Crystals; (ii) Photovoltaics Materials; (iii) Organic Electronics & Devices; (iv) Nanostructured Surfaces; (v) Sensors; (vi) Nanoparticles and Quantum Dots; (vii) Biomimetic and Intelligent Materials; (viii) Tissue Engineering. The module is suited for final year students majoring in chemistry, applied chemistry and related disciplines.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCIENCE",
+"department": "CHEMISTRY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

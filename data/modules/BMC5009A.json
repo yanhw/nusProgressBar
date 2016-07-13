@@ -1,0 +1,22 @@
+{
+"moduleCode": "BMC5009A",
+"moduleTitle": "Systems & Operations Management",
+"moduleCredit": "3",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "BMC5009A", 
+            "children": []
+},
+"moduleDescription": "Systems and operations management is the management of all internal activities directly related to the creation of goods and/or services through the transformation of inputs into outputs. This transformation process involves designing, planning, controlling, and executing activities. The objects dealt with involve manpower, materials, machines, facilities, and customers. The interaction and interrelationship of all the activities and objects makes the management of operations a challenging task. Managing these activities with a systems perspective is critical to the success of a company.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF BUSINESS",
+"department": "DEAN'S OFFICE (BIZ)",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

@@ -1,0 +1,22 @@
+{
+"moduleCode": "GEM2023",
+"moduleTitle": "Primary Health Care",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "GEM2023", 
+            "children": []
+},
+"moduleDescription": "This module will introduce students to primary health care from a philosophical basis and a model of service provision using the World Health Organisation\u2019s global framework for health. Students will be able to apply health education and health promotion models as strategies for achieving sustainable health outcomes. This module provides students with understanding and knowledge of primary health care and community development concepts in multiple healthcare contexts.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "YONG LOO LIN SCHOOL OF MEDICINE",
+"department": "NURSING/ALICE LEE CTR FOR NURSING STUD",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

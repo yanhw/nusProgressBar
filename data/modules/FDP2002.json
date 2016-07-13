@@ -1,0 +1,22 @@
+{
+"moduleCode": "FDP2002",
+"moduleTitle": "Special Physics Class 1, 2 and 3",
+"moduleCredit": "12",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "A-level Physics",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "FDP2002", 
+            "children": []
+},
+"moduleDescription": "Topics covered include vectorial calculus, electrostatics, magnetostatics, electromagnetism, quasi-permanent regime, mechanics, thermodynamics and optics.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "SCIENCE",
+"department": "DEAN'S OFFICE (SCIENCE)",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

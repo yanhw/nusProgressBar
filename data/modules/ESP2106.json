@@ -1,0 +1,29 @@
+{
+"moduleCode": "ESP2106",
+"moduleTitle": "Principles of Continua",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "PC1433",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["PC1433"]
+},
+"prerequisiteList": ["PC1433"],
+"completePrerequisite": {
+            "name": "ESP2106", 
+            "children": [
+                {
+                    "name": "PC1433", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "Introduction of the fundamental concepts, derivation of the field equations of continuum mechanics using the conservations laws of physics (conservation of mass, momenta and energy) and constitutive relations, simple applications to heat transfer, fluid mechanics, and mechanics of materials. Tools and understanding that are gained through this course are: vectors and tensors formulation of the mathematical models of physical phenomena and simple applications to boundary-value problems arising in heat transfer, fluid mechanics, solid mechanics as well as in interdisciplinary areas. The knowledge gained in the course is very useful for the follow up courses in engineering science as well as in various engineering disciplines.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "ENGINEERING SCIENCE PROGRAMME",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

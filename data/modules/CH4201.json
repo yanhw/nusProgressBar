@@ -1,0 +1,24 @@
+{
+"moduleCode": "CH4201",
+"moduleTitle": "Chinese Classical Phonology",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "CL3208",
+"prerequisite": "Cohort 2011 and before: Completed 80 MCs, including 28 MCs in CH or CL, with a minimum CAP of 3.50 or be on the Honours track. Cohort 2012 onwards: Completed 80 MCs, including 28 MCs in CH or CL, with a minimum CAP of 3.20 or be on the Honours track.",
+"preclusionList": [
+            "CL3208"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "CH4201", 
+            "children": []
+},
+"moduleDescription": "This module deals with the nature, characteristics and tradition of Chinese classical phonology. In addition to rhyme books, rhyme tables, and the various categories and elements in them, students will also be expected to understand the application of Chinese phonology in the study of textual criticism, poetics and Chinese dialectology. Three main periods of Chinese in respect to phonology will be covered: Old Chinese, Middle Chinese and Old Mandarin. The course is offered to students in the Department.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "CHINESE STUDIES",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

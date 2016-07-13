@@ -1,0 +1,22 @@
+{
+"moduleCode": "YHU2244",
+"moduleTitle": "History and Philosophy of the Scientific Revolution",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "YHU2244", 
+            "children": []
+},
+"moduleDescription": "This seminar deals with a pivotal period in the history of science: the scientific revolution (ca. 1500-1700). This era witnessed the development of sciences such as astronomy, mechanics and anatomy into something recognizably modern, and the institutionalization of science in forms that are still existent. During this time scientific thought and activity moved from a culturally marginal to a central position. In addition to examining the historical and philosophical significance of these changes, we will devote some time to the pseudo-sciences, and consider their relationship to the orthodox sciences.",
+"crossModule": "-1",
+"corequisite": "None.",
+"faculty": "YALE-NUS COLLEGE",
+"department": "YALE-NUS COLLEGE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

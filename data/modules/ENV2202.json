@@ -1,0 +1,22 @@
+{
+"moduleCode": "ENV2202",
+"moduleTitle": "Sustainability of Sabah's Coastal Environment",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "For Environmental Studies students only.",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "ENV2202", 
+            "children": []
+},
+"moduleDescription": "The use of Sabah\u2019s coastal area is examined to give an understanding of the conflicts that result in environmental quality decline and coastal habitat degradation. These compromise coastal sustainability, which has serious implications for the well-being of coastal communities, particularly with the added impact of climate change. The more effective management modes to improve coastal resilience take into consideration the biophysical, socio-economic, cultural and governance aspects but implementation remains a challenge. Students will visit field sites in Sabah to analyse the site-specific issues and develop suitable management responses.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCIENCE",
+"department": "DEAN'S OFFICE (SCIENCE)",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,0,3,4,]]
+}

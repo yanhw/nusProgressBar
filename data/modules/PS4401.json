@@ -1,0 +1,24 @@
+{
+"moduleCode": "PS4401",
+"moduleTitle": "Honours Thesis",
+"moduleCredit": "15",
+"lockedModules":[
+],
+"preclusion": "PS4660",
+"prerequisite": "Completed 110 MCs, including 60 MCs of PS major requirements with a minimum SJAP of 4.00 and CAP of 3.50. Students may seek a waiver of the SJAP pre-requisite from the department if they have a minimum CAP of 4.25 after completing 110 MCs.",
+"preclusionList": [
+            "PS4660"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "PS4401", 
+            "children": []
+},
+"moduleDescription": "This is basically a research and writing exercise to be supervised by a Department staff. Those who qualify are expected to select a research topic in any subfield of Political Science, conduct research on the topic, collect and analyse data, present arguments, complete the thesis, and submit it within the stipulated deadline. The length of the thesis should not exceed 10,000 words. Each thesis is assessed by two examiners (including the supervisor), and it is meant only for Honours Year students in Political Science.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "POLITICAL SCIENCE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

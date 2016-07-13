@@ -1,0 +1,22 @@
+{
+"moduleCode": "TR2202",
+"moduleTitle": "Technological Innovation",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "TR2202", 
+            "children": []
+},
+"moduleDescription": "This course helps students build a strong conceptual foundation for understanding technological innovation. The dynamics of technological change are explored through concepts such as technological dominant designs, disruptive technologies and diffusion curves. Students will learn the process through which an innovative idea is transformed into a marketable product or service, as well as the organisational and strategic factors that influence this process. These include ways to encourage risk-taking and creativity, discover market opportunities, protect intellectual property, attract resources, nurture entrepreneurial leadership, and overcome resistance to change. These concepts are brought to life using case studies, videos and guest speakers.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF BUSINESS",
+"department": "STRATEGY AND POLICY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

@@ -1,0 +1,33 @@
+{
+"moduleCode": "CM1121",
+"moduleTitle": "Organic Chemistry 1",
+"moduleCredit": "4",
+"lockedModules":[
+            "CM2288",
+            "CM2289",
+            "MLE3104",
+            "CM2121",
+            "CM4269",
+            "FST2102B",
+            "CM4227",
+            "BN3402"
+        ],
+"preclusion": "CM1501 or CM1503",
+"prerequisite": "'A' level or H2 pass in Chemistry or equivalent or CM1417/CM1417X",
+"preclusionList": [
+            "CM1501",
+            "CM1503"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "CM1121", 
+            "children": []
+},
+"moduleDescription": "This module covers the characteristic properties, methods of preparation, and reactions of alkanes/cycloalkanes, alkenes, alkynes, benzene and other aromatic compounds, alkyl halides; alcohols; ethers; epoxides, phenols, aldehydes and ketones; carboxylic acids and their derivatives; amines.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCIENCE",
+"department": "CHEMISTRY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

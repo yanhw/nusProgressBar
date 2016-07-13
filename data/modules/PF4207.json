@@ -1,0 +1,22 @@
+{
+"moduleCode": "PF4207",
+"moduleTitle": "Project Risk Management",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "PF4207", 
+            "children": []
+},
+"moduleDescription": "The module provides students with knowledge of the principles of risk management which include the common analysis techniques, and their application to projects. The major topics are: types and sources of project risks; risks affecting budgeting decisions and cost estimates; risk management cycle; risk analysis techniques; and risk allocation arrangements.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF DESIGN AND ENVIRONMENT",
+"department": "BUILDING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

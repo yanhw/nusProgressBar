@@ -1,0 +1,124 @@
+{
+"moduleCode": "EC3303",
+"moduleTitle": "Econometrics I",
+"moduleCredit": "4",
+"lockedModules":[
+            "EC3394",
+            "EC3305",
+            "EC3371",
+            "EC3361"
+        ],
+"preclusion": "ST3131",
+"prerequisite": "(EC1101E or EC1301 or BSP1005) and (EC2303 or DSC1007 or DSC1007X or any ST or SA module or MA2216)",
+"preclusionList": [
+            "ST3131"
+        ],
+"parsedPrerequisite": {
+            " and ": [
+                {
+                    " or ": [
+                        "EC1101E", 
+                        "EC1301", 
+                        "BSP1005"
+                    ]
+                }, 
+                {
+                    " or ": [
+                        "EC2303", 
+                        "DSC1007", 
+                        "DSC1007X", 
+                        "MA2216"
+                    ]
+                }
+            ]
+},
+"prerequisiteList": ["EC1101E","EC1301","BSP1005","EC2303","DSC1007","DSC1007X","MA2216","MA1102","MA1102R","MA1312","MA1507","MA1505","MA1505C","MA1521"],
+"completePrerequisite": {
+            "name": "EC3303", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "or", 
+                            "children": [
+                                {
+                                    "name": "EC1101E", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "EC1301", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "BSP1005", 
+                                    "children": []
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "or", 
+                            "children": [
+                                {
+                                    "name": "EC2303", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "DSC1007", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "DSC1007X", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "MA2216", 
+                                    "children": [
+                                        {
+                                            "name": "or", 
+                                            "children": [
+                                                {
+                                                    "name": "MA1102", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MA1102R", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MA1312", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MA1507", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MA1505", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MA1505C", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MA1521", 
+                                                    "children": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This is a basic econometrics module that requires a background in statistical analysis similar to EC2303 Foundations for Econometrics. This module is aimed at providing a user-friendly introduction to basic econometric techniques and commercial software packages such as Eviews and Excel to carry out simple regression analyses. The major topics covered include a review of probability distributions and statistical inference, rudiments of matrix algebra, classical linear regression model with two or more variables, estimation and hypothesis testing, and violation of classical assumptions and some remedial measures.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "ECONOMICS",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

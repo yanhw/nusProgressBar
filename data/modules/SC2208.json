@@ -1,0 +1,22 @@
+{
+"moduleCode": "SC2208",
+"moduleTitle": "Population & Society",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "SC2208", 
+            "children": []
+},
+"moduleDescription": "As an introductory module in social demography, it provides a critical overview of the major theories dealing with fertility, mortality, and other core topics in population studies. It examines the structures of human populations and the processes of change in relation to socio-economic, cultural, and environmental factors. Population issues are analyzed in the context of specific social and ideological systems. This course is mounted for students throughout NUS with interest in social demography.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "SOCIOLOGY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

@@ -1,0 +1,121 @@
+{
+"moduleCode": "IS4102",
+"moduleTitle": "E-Business Capstone Project",
+"moduleCredit": "8",
+"lockedModules":[
+            "CP3106"
+        ],
+"preclusion": "NIL",
+"prerequisite": "Pass 80 MCs and [CS3240, IS2150, IS3230 and IS3150]",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " and ": [
+                "CS3240", 
+                "IS2150", 
+                "IS3230", 
+                "IS3150"
+            ]
+},
+"prerequisiteList": ["CS3240","CS1020","CS1010","NM2217","NM3209","IS2150","CS1102","CS1102S","IS1112","IS3230","IS3150","IS1105"],
+"completePrerequisite": {
+            "name": "IS4102", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "CS3240", 
+                            "children": [
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "CS1020", 
+                                            "children": [
+                                                {
+                                                    "name": "CS1010", 
+                                                    "children": []
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "NM2217", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "NM3209", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "IS2150", 
+                            "children": [
+                                {
+                                    "name": "and", 
+                                    "children": [
+                                        {
+                                            "name": "or", 
+                                            "children": [
+                                                {
+                                                    "name": "CS1020", 
+                                                    "children": [
+                                                        {
+                                                            "name": "CS1010", 
+                                                            "children": []
+                                                        }
+                                                    ]
+                                                }, 
+                                                {
+                                                    "name": "CS1102", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "CS1102S", 
+                                                    "children": []
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "IS1112", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "IS3230", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "IS3150", 
+                            "children": [
+                                {
+                                    "name": "and", 
+                                    "children": [
+                                        {
+                                            "name": "IS1105", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "IS1112", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "In this module, students are required to complete a Systems Development Life Cycle to develop an e-business system based on principles taught in previous modules. This project can be viewed as a large-scale practical module. Emphasis will be placed on system design, user interface design, database design, security strategy, and performance. Students will appreciate differences in the scalability, usability, performance and security aspects. They will also sharpen communication skills through close team interactions, consultations, and formal presentations. Students will also develop a comprehensive understanding of the issues of e-business implementation from an enterprise architecture standpoint.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "SCHOOL OF COMPUTING",
+"department": "INFORMATION SYSTEMS",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

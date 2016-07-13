@@ -1,0 +1,34 @@
+{
+"moduleCode": "MLE1101",
+"moduleTitle": "Introductory Materials Science And Engineering",
+"moduleCredit": "4",
+"lockedModules":[
+            "MLE3102",
+            "MLE3103",
+            "MLE3101",
+            "MLE3105",
+            "MLE3104",
+            "CN4216R",
+            "MLE2104",
+            "MLE2105",
+            "MLE2106",
+            "MLE2107",
+            "BN3301",
+            "CN4223R"
+        ],
+"preclusion": "Mechanical Engineering students",
+"prerequisite": "A Level Physics or H1 Physics or H2 Physics or [PC1221 and PC1222]",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "MLE1101", 
+            "children": []
+},
+"moduleDescription": "Introductory aspects of materials science and engineering (i.e. structure, properties and function). Structure on the Atomic scale. Energy levels, atomic orbitals, molecular orbitals; Interatomic bonding, types of bonds (metallic, ionic, covalent, molecular and mixed); Structure of metals, ceramics and polymers; Basic crystallography, imperfection in solids, point and line defects, non-crystalline and semi-crystalline materials, diffusion and diffusion controlled process; Correlation of structure to properties and engineering functions (mechanical, chemical). Discussion of examples for main materials categories (metals, ceramics, polymers and composites); Corrosion and degradation of materials; Basic materials selection for chemical engineering applications.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "MATERIALS SCIENCE AND ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

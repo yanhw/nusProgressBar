@@ -1,0 +1,31 @@
+{
+"moduleCode": "ME4225E",
+"moduleTitle": "Applied Heat Transfer",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "TM4225",
+"prerequisite": "ME3122E",
+"preclusionList": [
+            "TM4225"
+        ],
+"parsedPrerequisite": {
+" and ": ["ME3122E"]
+},
+"prerequisiteList": ["ME3122E"],
+"completePrerequisite": {
+            "name": "ME4225E", 
+            "children": [
+                {
+                    "name": "ME3122E", 
+                    "children": []
+                }
+            ]
+},
+
+"crossModule": "-1",
+"corequisite": "Nil",
+"faculty": "ENGINEERING",
+"department": "BACHELOR OF TECHNOLOGY PROGRAMME",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

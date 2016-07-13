@@ -1,0 +1,22 @@
+{
+"moduleCode": "SC2221",
+"moduleTitle": "Environment and Society",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "SC2221", 
+            "children": []
+},
+"moduleDescription": "What are the social and cultural determinants of environmental issues? Can modern societies and capitalist development be ecologically sustainable? This module examines the complex relations between social systems and their environment. It aims to equip students with the different theories and concepts in environmental sociology and anthropology to understand and evaluate these relations in the light of ecological sustainability. Topics to be covered include conservation and indigenous peoples, urban pollution and eco-cities, global warming and green capitalism, environmental racism and sexism, environmental movements, corporate social responsibility, green technology, global environmental inequality.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "SOCIOLOGY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

@@ -1,0 +1,32 @@
+{
+"moduleCode": "UTW2001P",
+"moduleTitle": "Science Fiction and Empire",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "IEM2201%, UTW2001%",
+"prerequisite": "IEM1201%, UTW1001%",
+"preclusionList": [
+            "IEM2201",
+            "UTW2001"
+        ],
+"parsedPrerequisite": {
+" and ": ["UTW1001"]
+},
+"prerequisiteList": ["UTW1001"],
+"completePrerequisite": {
+            "name": "UTW2001P", 
+            "children": [
+                {
+                    "name": "UTW1001", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "Science fiction is less about the future than it is about the present. Many science fiction narratives critique contemporary social issues, particularly imperialism and colonialism. This course will introduce students to the theories of colonialism and their importance in a modern context. Armed with this knowledge, students will engage with classic and contemporary science fiction texts in order to understand, as well as question, how such narratives describe and proscribe ways of ordering the world. In developing their original research projects, students will explore how this intersection between popular narrative and ideology influences many of the ways we think about culture today.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "NON-FACULTY-BASED DEPARTMENTS",
+"department": "CTR FOR ENGLISH LANGUAGE COMMUNICATION",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

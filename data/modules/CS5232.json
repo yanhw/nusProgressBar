@@ -1,0 +1,65 @@
+{
+"moduleCode": "CS5232",
+"moduleTitle": "Formal Specification and Design Techniques",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "(CS1231 Discrete Structures or MA1100 Fundamental Concepts of Mathematics) and CS2103 Software Engineering",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " and ": [
+                {
+                    " or ": [
+                        "CS1231", 
+                        "MA1100"
+                    ]
+                }, 
+                "CS2103"
+            ]
+},
+"prerequisiteList": ["CS1231","MA1100","CS2103","CS1020","CS1010"],
+"completePrerequisite": {
+            "name": "CS5232", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "or", 
+                            "children": [
+                                {
+                                    "name": "CS1231", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "MA1100", 
+                                    "children": []
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "CS2103", 
+                            "children": [
+                                {
+                                    "name": "CS1020", 
+                                    "children": [
+                                        {
+                                            "name": "CS1010", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "The primary role of the formal specification is to provide a precise and unambiguous description of a computer system. A formal specification allows the system designer to verify important properties and detect design error before system development begins. The objective of this course is to study various formal specification and design techniques for modelling (1) object-oriented systems, (2) real-time distributed systems, and (3) concurrent reactive systems. The course will focus on the state-based notations Z/Object-Z, event-based notation CSP/Timed-CSP. Graphical modelling notations, such as StateChart and UML (Unified Modelling Language) will also be addressed.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF COMPUTING",
+"department": "COMPUTER SCIENCE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

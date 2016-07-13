@@ -1,0 +1,62 @@
+{
+"moduleCode": "SW3103A",
+"moduleTitle": "Social Work Field Practice (I)",
+"moduleCredit": "8",
+"lockedModules":[
+            "SW3104"
+        ],
+"preclusion": "NIL",
+"prerequisite": "SW1101E, SW2101, SW2104, SW2105. Students from 2007 cohort onwards.",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " and ": [
+                "SW1101E", 
+                "SW2101", 
+                "SW2104", 
+                "SW2105"
+            ]
+},
+"prerequisiteList": ["SW1101E","SW2101","SW2104","SW2105"],
+"completePrerequisite": {
+            "name": "SW3103A", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "SW1101E", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "SW2101", 
+                            "children": [
+                                {
+                                    "name": "SW1101E", 
+                                    "children": []
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "SW2104", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "SW2105", 
+                            "children": [
+                                {
+                                    "name": "SW1101E", 
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "Field Practice consists of 400 hours of full-time fieldwork in an agency or project where students work under professional supervision for the equivalent of 10 weeks from May to August. Students are taught skills in direct and indirect social work, depending on the placement. They also attend compulsory fieldwork seminars during the placement to link classroom theory to professional practice and to discuss social work methods and professional development. Assessment is made on performance in fieldwork and a written assignment on applying theory to practice and the comparative use of literature. The assignment must be submitted by the designated date.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "SOCIAL WORK",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,3,4,]]
+}

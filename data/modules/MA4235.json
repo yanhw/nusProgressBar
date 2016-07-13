@@ -1,0 +1,86 @@
+{
+"moduleCode": "MA4235",
+"moduleTitle": "Topics in Graph Theory",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "MA3233",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["MA3233"]
+},
+"prerequisiteList": ["MA3233","MA2214","MA1100","MA1101R","MA1311","MA1506","MA1102R","MA1505","MA1521","MA1508","CS1231","CS1231S"],
+"completePrerequisite": {
+            "name": "MA4235", 
+            "children": [
+                {
+                    "name": "MA3233", 
+                    "children": [
+                        {
+                            "name": "MA2214", 
+                            "children": [
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "MA1100", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "MA1101R", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "MA1311", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "MA1506", 
+                                            "children": [
+                                                {
+                                                    "name": "or", 
+                                                    "children": [
+                                                        {
+                                                            "name": "MA1102R", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "MA1505", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "MA1521", 
+                                                            "children": []
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "MA1508", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "CS1231", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "CS1231S", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module covers some advanced as well as special topics in Graph Theory. The topics are to be chosen from: Domination Theory, Edge Coloring, List Coloring, Graph Ramsey Theory, Chromatic Polynomials, Reconstruction Problem, Planar Graphs, Perfect Graphs, Matroid Theory.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCIENCE",
+"department": "MATHEMATICS",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

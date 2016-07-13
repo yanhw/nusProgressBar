@@ -1,0 +1,22 @@
+{
+"moduleCode": "BMP5002",
+"moduleTitle": "Asian Business Environment",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "BMP5002", 
+            "children": []
+},
+"moduleDescription": "The \u201cAsian Business Environment\u201d course aims to provide students with an understanding of the business/economic environments in Asia. Overview on globalization, economic development and growth, as well as, business strategies on doing business in Asia will be covered. Topics include macroeconomic fundamentals, international trade and investment, public and industrial policies, economic integration and global institutions. The course will also examine how the political, cultural and ethical differences shape the Asian business environment. In depth discussions on region or country specific issues will be conducted through case studies and/or team project. Guest speakers may be arranged for selected topics to provide insights on business strategies in the Asian business environment.",
+"crossModule": "-1",
+"corequisite": "Nil",
+"faculty": "SCHOOL OF BUSINESS",
+"department": "DEAN'S OFFICE (BIZ)",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

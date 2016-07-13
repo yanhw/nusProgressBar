@@ -1,0 +1,65 @@
+{
+"moduleCode": "SE3660",
+"moduleTitle": "Independent Study",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "Students should: have completed a minimum of 24 MC in Southeast Asian Studies; and have declared Southeast Asian Studies as their Major. read or waived from: LAB 1201 & LAB 2201; LAT 1201 & LAT2201; or LAV1201 and LAV2201",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " and ": [
+                {
+                    " or ": [
+                        "LAT2201", 
+                        "LAV1201"
+                    ]
+                }, 
+                "LAV2201"
+            ]
+},
+"prerequisiteList": ["LAT2201","LAT1201","LAV1201","LAV2201"],
+"completePrerequisite": {
+            "name": "SE3660", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "or", 
+                            "children": [
+                                {
+                                    "name": "LAT2201", 
+                                    "children": [
+                                        {
+                                            "name": "LAT1201", 
+                                            "children": []
+                                        }
+                                    ]
+                                }, 
+                                {
+                                    "name": "LAV1201", 
+                                    "children": []
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "LAV2201", 
+                            "children": [
+                                {
+                                    "name": "LAV1201", 
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This Independent Study Module is specially designed for the Semester-in-SEA programme at the SEASP in order to enable the student to explore an approved topic in Southeast Asian Studies. We seek to develop three skills that could only be most fruitfully realised in a fieldwork context away from the campus environment. These are: the ability to conduct fieldwork; utilising a Southeast Asian language for academic study; and first-hand engagement with research methodological issues. The student is expected to develop more reflexive research capacity and present a seminar at the end of the course.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "SOUTHEAST ASIAN STUDIES",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

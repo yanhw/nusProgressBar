@@ -1,0 +1,22 @@
+{
+"moduleCode": "CAS6101",
+"moduleTitle": "Asian Studies in Asia",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "CAS6101", 
+            "children": []
+},
+"moduleDescription": "Doing Asian Studies in Asia speaks directly to a call for inter-Asia referencing as a means to decentre Euro-American knowledge foundations in the human sciences. This module examines how interreferencing within Asia can be used as a method to rethink and generate regionally relevant epistemologies which can lay grounds for alternative thinking from and about Asia. The potential of inter-Asia referencing as a method to decentre knowledge production will be explored in the light of interconnections as well as distinctions in the history and politics of disciplinary, theoretical, and methodological practices of doing Asian Studies in both Euro-American and Asian academic settings.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "DEAN'S OFFICE (ARTS & SOCIAL SC.)",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

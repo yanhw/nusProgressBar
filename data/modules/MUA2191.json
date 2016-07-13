@@ -1,0 +1,40 @@
+{
+"moduleCode": "MUA2191",
+"moduleTitle": "Applied Voice Major Study 2B",
+"moduleCredit": "5",
+"lockedModules":[
+            "MUA3190"
+        ],
+"preclusion": "NIL",
+"prerequisite": "MUA 2190 or Permission of Instructor",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["MUA2190"]
+},
+"prerequisiteList": ["MUA2190","MUA1191","MUA1190"],
+"completePrerequisite": {
+            "name": "MUA2191", 
+            "children": [
+                {
+                    "name": "MUA2190", 
+                    "children": [
+                        {
+                            "name": "MUA1191", 
+                            "children": [
+                                {
+                                    "name": "MUA1190", 
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "Individual voice lessons specially designed for second semester, sophomore year performance majors. Technical skills, competency and suitable repertoire are expected at the appropriate levels. An individual performance will be required during the second semester of every academic year.",
+"crossModule": "-1",
+"corequisite": "Nil",
+"faculty": "YONG SIEW TOH CONSERVATORY OF MUSIC",
+"department": "YONG SIEW TOH CONSERVATORY OF MUSIC",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

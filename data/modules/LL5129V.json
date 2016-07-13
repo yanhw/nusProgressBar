@@ -1,0 +1,24 @@
+{
+"moduleCode": "LL5129V",
+"moduleTitle": "Indian Business Law",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "Students who are taking or have taken LL5129.",
+"prerequisite": "NUS Compulsory Core Law Curriculum or equivalent.",
+"preclusionList": [
+            "LL5129"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "LL5129V", 
+            "children": []
+},
+"moduleDescription": "The principal objective of this course is to provide an understanding and appreciation of the various legal issues and perspectives involved in carrying out business and corporate transactions in India.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "LAW",
+"department": "LAW",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

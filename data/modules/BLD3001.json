@@ -1,0 +1,29 @@
+{
+"moduleCode": "BLD3001",
+"moduleTitle": "Business Leadership Case Analysis",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "MNO1001 Management & Organization",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["MNO1001"]
+},
+"prerequisiteList": ["MNO1001"],
+"completePrerequisite": {
+            "name": "BLD3001", 
+            "children": [
+                {
+                    "name": "MNO1001", 
+                    "children": []
+                }
+            ]
+},
+
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF BUSINESS",
+"department": "DEAN'S OFFICE (BIZ)",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

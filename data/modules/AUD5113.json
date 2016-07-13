@@ -1,0 +1,55 @@
+{
+"moduleCode": "AUD5113",
+"moduleTitle": "Paediatric Audiology A - Part 2",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "AUD5101 Acoustics AUD5102 Anatomy and Physiology AUD5103 Pathologies of the Auditory System AUD5104 Perception of Sound and Speech AUD5106 Clinical Audiology A (Part 1) AUD5107 Paediatric Audiology A (Part 1)",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " and ": [
+                "AUD5106", 
+                "AUD5107"
+            ]
+},
+"prerequisiteList": ["AUD5106","AUD5103","AUD5104","AUD5107"],
+"completePrerequisite": {
+            "name": "AUD5113", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "AUD5106", 
+                            "children": [
+                                {
+                                    "name": "and", 
+                                    "children": [
+                                        {
+                                            "name": "AUD5103", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "AUD5104", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "AUD5107", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module is a continuation from AUD5107 that provides an introduction to the normal auditory, speech and language, social and physical development of infants and young children. The focus of this module is on children with hearing impairment. This module is delivered through lecture and clinical practicum takes place in NUH. Students are required to prepare session plans for cases scheduled on the day of observation and discuss them with clinical supervisors.",
+"crossModule": "-1",
+"corequisite": "AUD5112 Clinical Audiology A (Part 2); AUD5114 Electrophysiology Assessment A",
+"faculty": "YONG LOO LIN SCHOOL OF MEDICINE",
+"department": "DIVISION OF GRADUATE MEDICAL STUDIES",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

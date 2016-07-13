@@ -1,0 +1,24 @@
+{
+"moduleCode": "EC4302",
+"moduleTitle": "Macroeconomic Analysis III",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "EC4102",
+"prerequisite": "Cohort 2011 and before: Completed 80 MCs, including 28 MCs in EC, with a minimum CAP of 3.50 or be on the Honours track . Min avg grade point for EC3101 and EC3102 together of 4.00. Note: If student do not have the current pre-requisites for EC4301/EC4101 and EC4302/EC4102 but have: 1. passed at least 14 EC modules (or 56MCs) (inclusive of EC3101 and EC3102, and; 2. obtained an SJAP (avg grade of all EC modules) of at least 3.50, then student may submit an appeal for the prerequisite waiver using CORS. Cohort 2012 onwards: Completed 80 MCs, including 28 MCs in EC, with a minimum CAP of 3.20 or be on the Honours track. Min avg grade point for EC3101 and EC3102 together of 4.00. Note: If student do not have the current pre-requisites for EC4301/EC4101 and EC4302/EC4102 but have: 1. passed at least 14 EC modules (or 56MCs) (inclusive of EC3101 and EC3102, and; 2. obtained an SJAP (avg grade of all EC modules) of at least 3.50, then student may submit an appeal for the prerequisite waiver using CORS.",
+"preclusionList": [
+            "EC4102"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "EC4302", 
+            "children": []
+},
+"moduleDescription": "This module is divided into two sections; long- and short- run macro-economic analysis. In the first section, we shall discuss various theories of economic growth using inter-temporal optimization models, which include neo-classical growth models and overlapping-generations models. In the second section, we shall add stochastic elements to the standard neo-classical growth model and use it to study business cycles. Our focus will be to highlight the similarities and differences between the Real Business Cycle and New-Keynesian Models. This course is suitable for students intending to pursue graduate studies or quantitative research (in ministries, statutory boards, etc.) in Economics.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "ECONOMICS",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

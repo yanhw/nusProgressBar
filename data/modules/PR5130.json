@@ -1,0 +1,22 @@
+{
+"moduleCode": "PR5130",
+"moduleTitle": "Advanced Pharmacotherapy I",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "Acceptance in the PharmD programme or by permission",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "PR5130", 
+            "children": []
+},
+"moduleDescription": "Learning objectives: The objective of this module is to provide students with an understanding of the pharmacotherapy management of infectious diseases and neuropsychiatric disorders.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCIENCE",
+"department": "PHARMACY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

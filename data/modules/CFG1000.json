@@ -1,0 +1,40 @@
+{
+"moduleCode": "CFG1000",
+"moduleTitle": "StepUp Module (A Career Development Programme)",
+"moduleCredit": "0",
+"lockedModules":[
+            "ST3312",
+            "MA3311",
+            "MA3312",
+            "LSM3312",
+            "LSM3311",
+            "PR3312",
+            "ZB3311",
+            "ST3311",
+            "PC3311",
+            "PC3312",
+            "QF3311",
+            "QF3312",
+            "CM3312",
+            "CM3311",
+            "FAS2551"
+        ],
+"preclusion": "NCC1000 and CFG1001",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "CFG1001",
+            "NCC1000"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "CFG1000", 
+            "children": []
+},
+"moduleDescription": "With rising competition in the graduate recruitment market, there is an increasing need to help senior and graduating students differentiate themselves when faced with global competition for highly sought-after jobs. The StepUp module gives students the knowledge and skills to step up their career planning and job search strategies. This four-week tutorial module guides them in identifying the careers and jobs that best align with their profiles and interests, and equips them with the essential career skills to market and transit themselves successfully into their first internship or job.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "UNIVERSITY ADMINISTRATION",
+"department": "CENTRE FOR FUTURE-READY GRADUATES",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

@@ -1,0 +1,29 @@
+{
+"moduleCode": "IE4239E",
+"moduleTitle": "Selected Topics in Quality Engineering",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "IE2100E Probability Models with Applications IE3101E Statistics for Engineering Application",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["IE3101E"]
+},
+"prerequisiteList": ["IE3101E"],
+"completePrerequisite": {
+            "name": "IE4239E", 
+            "children": [
+                {
+                    "name": "IE3101E", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "This module introduces students to either emerging topics in quality engineering or specialised topics. Students will learn and understand concepts in quality management and quality technology. This module will enable them to keep abreast with current developments in quality engineering and broaden their exposure to various specialised topics.",
+"crossModule": "-1",
+"corequisite": "Nil",
+"faculty": "ENGINEERING",
+"department": "BACHELOR OF TECHNOLOGY PROGRAMME",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,0,3,0,]]
+}

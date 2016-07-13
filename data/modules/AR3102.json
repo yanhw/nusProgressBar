@@ -1,0 +1,24 @@
+{
+"moduleCode": "AR3102",
+"moduleTitle": "Design 6",
+"moduleCredit": "8",
+"lockedModules":[
+            "LA4701",
+            "LA4702"
+        ],
+"preclusion": "All non-architecture students",
+"prerequisite": "AR2101 Design 3 Grade 'C' or Grade \u201cS\u201d; AR2102 Design 4 Grade 'C'",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "AR3102", 
+            "children": []
+},
+"moduleDescription": "The objective of the program is to develop a level of competence in design skills and thinking. It involves the integration of technology with the natural environment, and urban context. Students address a generic brief by building upon it with emphasis in Urban, Environment, and/or Technological issues in a given site to demonstrate the acquisition of a level of competence in research, design thinking, operational skills and communication.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF DESIGN AND ENVIRONMENT",
+"department": "ARCHITECTURE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

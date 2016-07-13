@@ -1,0 +1,29 @@
+{
+"moduleCode": "FST3289",
+"moduleTitle": "Advanced UROPS in Food Science & Technology II",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "FST3288, and by permission.",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["FST3288"]
+},
+"prerequisiteList": ["FST3288"],
+"completePrerequisite": {
+            "name": "FST3289", 
+            "children": [
+                {
+                    "name": "FST3288", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "This module is an extension of FST3288 and involves a more detailed and prolonged study stretching over two semesters.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCIENCE",
+"department": "CHEMISTRY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,3,4,]]
+}

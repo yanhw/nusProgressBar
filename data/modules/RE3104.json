@@ -1,0 +1,41 @@
+{
+"moduleCode": "RE3104",
+"moduleTitle": "Real Estate Investment Analysis",
+"moduleCredit": "4",
+"lockedModules":[
+            "RE3212",
+            "RE4211",
+            "RE4212",
+            "RE4202",
+            "RE4222"
+        ],
+"preclusion": "RE3281 Real Estate Asset Market II",
+"prerequisite": "RE2104 Real Estate Finance",
+"preclusionList": [
+            "RE3281"
+        ],
+"parsedPrerequisite": {
+" and ": ["RE2104"]
+},
+"prerequisiteList": ["RE2104","RE1101"],
+"completePrerequisite": {
+            "name": "RE3104", 
+            "children": [
+                {
+                    "name": "RE2104", 
+                    "children": [
+                        {
+                            "name": "RE1101", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module examines real estate as an asset class and equips students with essential skills for analysing a real estate investment problem. The topics include: real estate investment objectives; leasing structure and property income analysis; characteristics of real estate returns and risks; capitalization rates; capital budgeting; financial leverage and after-tax returns; equity versus debt investment; and real estate equity investment strategies.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF DESIGN AND ENVIRONMENT",
+"department": "REAL ESTATE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

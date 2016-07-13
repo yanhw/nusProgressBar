@@ -1,0 +1,73 @@
+{
+"moduleCode": "LSM4234",
+"moduleTitle": "Mechanobiology",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "LSM2102 and LSM2103",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " and ": [
+                "LSM2102", 
+                "LSM2103"
+            ]
+},
+"prerequisiteList": ["LSM2102","LSM1401","LSM1102","LSM2103","LSM1101"],
+"completePrerequisite": {
+            "name": "LSM4234", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "LSM2102", 
+                            "children": [
+                                {
+                                    "name": "and", 
+                                    "children": [
+                                        {
+                                            "name": "LSM1401", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "LSM1102", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "LSM2103", 
+                            "children": [
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "LSM1101", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "LSM1401", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "LSM1102", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module introduces students to mechanobiology, an emerging field of life sciences that explores mechanical regulation and implications underlying numerous biological events from prokaryotes to higher organisms. It covers regulation of cell functions by cytoskeletal networks, mechanics of movement of tissue/cell/sub-cellular organelle, cellular/molecular force-sensing, mechanical modulation of biochemical signaling, physical landscapes of peri-/trans-/intra-nuclear events including transcription, and mechanical control of multicellular living organization. It also refers to physical and engineering aspects of physiological or pathological backgrounds of human health and diseases. In addition, students learn cutting-edge technologies to dissect mechanical/physical aspects of cellular/molecular functions.",
+"crossModule": "-1",
+"corequisite": "Nil",
+"faculty": "SCIENCE",
+"department": "BIOLOGICAL SCIENCES",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

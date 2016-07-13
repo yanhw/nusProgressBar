@@ -1,0 +1,22 @@
+{
+"moduleCode": "MT2001",
+"moduleTitle": "Experiencing Engineering Leadership",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "Engineering students only",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "MT2001", 
+            "children": []
+},
+"moduleDescription": "Leadership is a learnable skill developed through experiencing, reflecting and internalizing. Crafted specifically for students from engineering disciplines, in this module, students will be provided with a foundational knowledge of leadership theories and principles as guiding tools as they find their own path towards becoming leaders in engineering. Varied opportunities will then be provided for students to use this knowledge to learn what it means to be an engineer-leader including reflection on experience sharing from engineer-leaders who have made a difference, experiential workshops to sharpen communication and soft-skills, as well as project work to start putting these skills to use.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "DIVISION OF ENGINEERING AND TECH MGT",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

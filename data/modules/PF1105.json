@@ -1,0 +1,22 @@
+{
+"moduleCode": "PF1105",
+"moduleTitle": "Fundamentals of Facilities Management",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "PF1105", 
+            "children": []
+},
+"moduleDescription": "The module covers the design, planning, equipping, maintenance, protection, assessment, benchmarking and effective management of different types of real assets. It explores the principles that underpin sustainable facilities management and the perspectives of stakeholders.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "SCHOOL OF DESIGN AND ENVIRONMENT",
+"department": "BUILDING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

@@ -1,0 +1,41 @@
+{
+"moduleCode": "TS2217",
+"moduleTitle": "Introduction to Performance Studies",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "TS1101E or GEM1003",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " or ": [
+                "TS1101E", 
+                "GEM1003"
+            ]
+},
+"prerequisiteList": ["TS1101E","GEM1003"],
+"completePrerequisite": {
+            "name": "TS2217", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "TS1101E", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "GEM1003", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "From religious rituals to personal identity, propaganda to public protests, media spectacles to interactive artworks, performance is a prevalent feature of contemporary societies. Performance Studies draws on anthropology, cultural studies and art theory to explore how these and related phenomena work, what effects they have, and how they relate to each other. This introductory module provides an overview of the key concepts behind a fast-developing discipline, and uses them to interpret a range of social practices and performance events that can be found in Singapore and other highly globalized societies. The module combines fieldwork, critical thinking, and performance analysis.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "ENGLISH LANGUAGE & LITERATURE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

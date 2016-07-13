@@ -1,0 +1,46 @@
+{
+"moduleCode": "IS3261",
+"moduleTitle": "Mobile Apps Development for Enterprise",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "CS1020 Data Structures and Algorithms I or CS2020 Data Structures and Algorithms Accelerated or their equivalent.",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " or ": [
+                "CS1020", 
+                "CS2020"
+            ]
+},
+"prerequisiteList": ["CS1020","CS1010","CS2020"],
+"completePrerequisite": {
+            "name": "IS3261", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "CS1020", 
+                            "children": [
+                                {
+                                    "name": "CS1010", 
+                                    "children": []
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "CS2020", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "The proliferation of mobile phones offers unprecedented opportunities for enterprise to empower their employees with computing and communicating capabilities on the move. It also offers a rich interactive experience for customers. Programming skills for mobile apps in enterprise environment is therefore an increasingly important asset for the IT workforce. This course will teach mobile phone programming in a client-server setting. In addition to developing user interface, the students will also learn how to write mobile apps to communicate with servers via HTTP, making synchronous and asynchronous requests, as well as dealing with common payload formats such as JSON and HTML.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF COMPUTING",
+"department": "INFORMATION SYSTEMS",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

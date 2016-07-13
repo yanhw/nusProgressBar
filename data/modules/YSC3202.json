@@ -1,0 +1,23 @@
+{
+"moduleCode": "YSC3202",
+"moduleTitle": "Advanced Chemistry Laboratory",
+"moduleCredit": "5",
+"lockedModules":[
+            "YSC3201"
+        ],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "YSC3202", 
+            "children": []
+},
+"moduleDescription": "This is an advanced course in experimental chemistry. It provides students with hands-on experience of more advanced aspects of practical chemistry as well as illustrating how they can be used to investigate concepts from different branches of chemistry and biological sciences.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "YALE-NUS COLLEGE",
+"department": "YALE-NUS COLLEGE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

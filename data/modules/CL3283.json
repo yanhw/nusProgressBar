@@ -1,0 +1,41 @@
+{
+"moduleCode": "CL3283",
+"moduleTitle": "Film and Television Subtitling Translation",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "CL2280 or CL2281",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " or ": [
+                "CL2280", 
+                "CL2281"
+            ]
+},
+"prerequisiteList": ["CL2280","CL2281"],
+"completePrerequisite": {
+            "name": "CL3283", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "CL2280", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "CL2281", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module allows students to learn the rules of Chinese and English subtitling and the way to operate subtitling software like Aegisub and VisualSubSync. Audiovisual materials like documentaries, TV programs and movies, will be translated with or without scripts. Through practices, students are expected to familiarise themselves with subtitling and the above-mentioned software. Students will be exposed to different genres of film and television programmes, as well as the varieties of English and Chinese used in the field.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "CHINESE STUDIES",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

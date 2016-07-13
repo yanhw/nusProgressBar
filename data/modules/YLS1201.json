@@ -1,0 +1,25 @@
+{
+"moduleCode": "YLS1201",
+"moduleTitle": "Beginning Spanish 1",
+"moduleCredit": "5",
+"lockedModules":[
+            "YLS1202",
+            "YLS2201",
+            "LAS2201"
+        ],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "YLS1201", 
+            "children": []
+},
+"moduleDescription": "Spanish 1 is the introductory module to the language and culture of the Hispanic world. This course is designed to help you develop a basic ability to read, write, understand, and speak Spanish as well as to expand students\u2019 cultural competency. Since all linguistic skills cannot be fully developed in Spanish 1 alone, stress will be placed on the acquisition of basic structures, which will be developed and reinforced in subsequent modules.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "YALE-NUS COLLEGE",
+"department": "YALE-NUS COLLEGE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

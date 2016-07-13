@@ -1,0 +1,57 @@
+{
+"moduleCode": "IS4260",
+"moduleTitle": "E-Commerce Business Models",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "CS4260",
+"prerequisite": "Pass 80 MCs and [CS2250 or (IS1103 and IS1105)]",
+"preclusionList": [
+            "CS4260"
+        ],
+"parsedPrerequisite": {
+            " or ": [
+                "CS2250", 
+                {
+                    " and ": [
+                        "IS1103", 
+                        "IS1105"
+                    ]
+                }
+            ]
+},
+"prerequisiteList": ["CS2250","IS1103","IS1105"],
+"completePrerequisite": {
+            "name": "IS4260", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "CS2250", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "and", 
+                            "children": [
+                                {
+                                    "name": "IS1103", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "IS1105", 
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "As the fastest-growing facet of the Internet, electronic commerce offers functionality and new ways of doing business that no company can afford to ignore. The basis for moving to an electronic commerce is a belief that electronic markets have the potential to be more efficient in developing new information goods and services. In addition, electronic commerce also offers companies new ways of linking together trading partners and global customers. Students taking this course learn the characteristics of various b-webs such as agora, aggregation, value chain and alliances, and have opportunities to research in their areas of interest.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF COMPUTING",
+"department": "INFORMATION SYSTEMS",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

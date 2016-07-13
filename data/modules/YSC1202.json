@@ -1,0 +1,24 @@
+{
+"moduleCode": "YSC1202",
+"moduleTitle": "Introduction to Computation and Programming for All",
+"moduleCredit": "5",
+"lockedModules":[
+            "YSC3207",
+            "YSC3219"
+        ],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "YSC1202", 
+            "children": []
+},
+"moduleDescription": "This course introduces students with little or no programming experience to computational thinking and programming. Students will learn some basic concepts and techniques from computer science and programming and apply them to problems from different scientific domains, which might include epidemics, optimal routes in networks, data mining, and winning simple games.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "YALE-NUS COLLEGE",
+"department": "YALE-NUS COLLEGE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

@@ -1,0 +1,42 @@
+{
+"moduleCode": "LAK3202",
+"moduleTitle": "Korean 4",
+"moduleCredit": "4",
+"lockedModules":[
+            "LAK4201"
+        ],
+"preclusion": "LAK3203 Korean for Academic Purpose",
+"prerequisite": "Passed LAK3201 Korean 3 or by placement test.",
+"preclusionList": [
+            "LAK3203"
+        ],
+"parsedPrerequisite": {
+" and ": ["LAK3201"]
+},
+"prerequisiteList": ["LAK3201","LAK2201","LAK1201"],
+"completePrerequisite": {
+            "name": "LAK3202", 
+            "children": [
+                {
+                    "name": "LAK3201", 
+                    "children": [
+                        {
+                            "name": "LAK2201", 
+                            "children": [
+                                {
+                                    "name": "LAK1201", 
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "Korean 4 is a continuation of Korean 3. It is an integrated module which will help students gain higher intermediate proficiency in the four skills (listening, speaking, reading, and writing), grammar, and vocabulary, for personal interaction and communication in authentic situations.",
+"crossModule": "-1",
+"corequisite": "Nil",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "CENTRE FOR LANGUAGE STUDIES",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

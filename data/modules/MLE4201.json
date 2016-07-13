@@ -1,0 +1,43 @@
+{
+"moduleCode": "MLE4201",
+"moduleTitle": "Advanced Materials Characterisation",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "MLE3101",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["MLE3101"]
+},
+"prerequisiteList": ["MLE3101","MLE1101","MLE2101"],
+"completePrerequisite": {
+            "name": "MLE4201", 
+            "children": [
+                {
+                    "name": "MLE3101", 
+                    "children": [
+                        {
+                            "name": "or", 
+                            "children": [
+                                {
+                                    "name": "MLE1101", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "MLE2101", 
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "Surface analyses: X-ray photoelectron spectroscopy; secondary ion mass spectroscopy; Auger electron spectroscopy. Low energy electron diffraction; Energy dispersive X-ray analysis and Rutherford back-scattering; Vibrational spectroscopies: infrared spectroscopy and Raman spectroscopy; Electronic spectroscopy: absorption and fluorescence; Magnetic and magneto-optical characterization: vibrating sample magnetometry, magneto-electronic measurement, magneto-optical Kerr-effect.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "MATERIALS SCIENCE AND ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

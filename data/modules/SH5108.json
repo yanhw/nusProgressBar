@@ -1,0 +1,24 @@
+{
+"moduleCode": "SH5108",
+"moduleTitle": "Chemical Hazard Management",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "SH5004 Fundamentals in Industrial Hygiene",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "SH5004"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "SH5108", 
+            "children": []
+},
+"moduleDescription": "This module covers the chemical hazards mitigation, control and management principles on chemicals selection, use, storage, handling, hazard communication to workers, administrative measures, transportation and disposal. The proper implementation of engineering controls & selection, administrative control, and selection, use and limitations of respirators for personal protective equipment are discussed.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "ENGINEERING",
+"department": "CHEMICAL & BIOMOLECULAR ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

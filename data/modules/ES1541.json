@@ -1,0 +1,28 @@
+{
+"moduleCode": "ES1541",
+"moduleTitle": "Exploring Science Communication through Popular Science",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "Those who have taken SP1203, ENV1202, SP2171, SP1541, UTown and USP writing modules, ES1601 are precluded from taking ES1541.",
+"prerequisite": "This module is meant for students from Cohort 2013 and 2014. If students are required to take ES1000/ES1000FC (Basic English) and ES1102 (English for Academic Purposes), they must complete them before taking ES1541.",
+"preclusionList": [
+            "SP1541",
+            "SP1203",
+            "SP2171",
+            "ENV1202",
+            "ES1601"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "ES1541", 
+            "children": []
+},
+"moduleDescription": "Communication has long been taken as a core competency for undergraduate students in all major universities in the world and is a prerequisite skill almost invariably required by employers in today\u2019s knowledgebased economy. Important communication skills for science undergraduates include the ability to critically read and comprehend science-related publications, and express and argue for their opinions in writing as well as in oral communication. This module aims to develop such ability of science undergraduates through reading, classroom discussion, summary writing, essay writing, and oral presentation activities.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "NON-FACULTY-BASED DEPARTMENTS",
+"department": "CTR FOR ENGLISH LANGUAGE COMMUNICATION",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

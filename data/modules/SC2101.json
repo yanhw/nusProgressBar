@@ -1,0 +1,23 @@
+{
+"moduleCode": "SC2101",
+"moduleTitle": "Methods of Social Research",
+"moduleCredit": "4",
+"lockedModules":[
+            "SC3209"
+        ],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "SC2101", 
+            "children": []
+},
+"moduleDescription": "This is an introductory course to the basic concepts and tools of social research, covering the areas of research of problem definition, research design, measurement, and data collection, processing, and analysis. Students are given in-depth understanding of what qualitative, eg participant observation, in-depth interviewing, and quantitative, eg survey, data collection techniques involve. In addition, students are introduced to qualitative and quantitative data analysis techniques. Students are taught the important aspects of making a good presentation of research findings. This module is mounted for all students in NUS with interest in research methods.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "SOCIOLOGY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

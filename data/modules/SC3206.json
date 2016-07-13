@@ -1,0 +1,22 @@
+{
+"moduleCode": "SC3206",
+"moduleTitle": "Urban Sociology",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "SC3206", 
+            "children": []
+},
+"moduleDescription": "The module will look into the various external and internal forces shaping the development of cities. The following themes will be examined: the development and role of cities in Southeast Asia, cities and the new international division of labour (economic roles of cities in linking their respective countries to the global economy), and the social organization (culture, community, housing, social-economic opportunities) of cities. This course is mounted for all students throughout NUS with an interest in the development and social organization of cities.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "SOCIOLOGY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

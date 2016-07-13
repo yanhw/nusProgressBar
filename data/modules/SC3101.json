@@ -1,0 +1,24 @@
+{
+"moduleCode": "SC3101",
+"moduleTitle": "Social Thought & Social Theory",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "EU3224",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "EU3224"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "SC3101", 
+            "children": []
+},
+"moduleDescription": "This is a critical examination of central problems in classical social theory, with emphasis on the multifaceted analysis of the larger social processes in the making of modern society. The module will concentrate on the original contributions of major theorists such as Marx, Weber, and Durkheim and explore how their works continue to influence current Sociology. This course is mounted for all students throughout NUS with an interest in classical social theories.",
+        "CrossModule": "EU3224", 
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "SOCIOLOGY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

@@ -1,0 +1,25 @@
+{
+"moduleCode": "PS5111R",
+"moduleTitle": "Research Design in Political Science",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "PS5101, PS6101",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "PS5101",
+            "PS6101"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "PS5111R", 
+            "children": []
+},
+
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "POLITICAL SCIENCE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

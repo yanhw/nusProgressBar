@@ -1,0 +1,22 @@
+{
+"moduleCode": "PS3267",
+"moduleTitle": "German Political Thought",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "PS3267", 
+            "children": []
+},
+"moduleDescription": "This module studies German political thought since the Enlightenment. Reading selections in English translation from the political writings of nineteenthcentury luminaries such as Hegel, Marx and Nietzsche together with important twentieth-century thinkers such as Weber, Heidegger and Habermas, it introduces students to the major thinkers, ideas and problems of the modern German political tradition. Among the topics covered are the intellectual origins of German idealism and communism, Weimar politics, Nazism, the Frankfurt School and Habermas\u2019s theory of deliberative democracy.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "POLITICAL SCIENCE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

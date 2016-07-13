@@ -1,0 +1,177 @@
+{
+"moduleCode": "CN4123E",
+"moduleTitle": "Design Project",
+"moduleCredit": "7",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "CN3135E Process Safety, Health and Environment CN3421E Process Modelling & Numerical Simulation CN4122E Process Synthesis and Simulation TG2415 Ethics in Engineering",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " and ": [
+                "CN3135E", 
+                "CN3421E", 
+                "CN4122E", 
+                "TG2415"
+            ]
+},
+"prerequisiteList": ["CN3135E","CN2121E","CN1111E","CN2122E","TC1402","TC2401","CN3421E","CN4122E","CN3124E","TC2112","CN3132E","CN2125E","TG2415"],
+"completePrerequisite": {
+            "name": "CN4123E", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "CN3135E", 
+                            "children": [
+                                {
+                                    "name": "and", 
+                                    "children": [
+                                        {
+                                            "name": "CN2121E", 
+                                            "children": [
+                                                {
+                                                    "name": "CN1111E", 
+                                                    "children": []
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "CN2122E", 
+                                            "children": [
+                                                {
+                                                    "name": "or", 
+                                                    "children": [
+                                                        {
+                                                            "name": "TC1402", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "TC2401", 
+                                                            "children": []
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "CN3421E", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "CN4122E", 
+                            "children": [
+                                {
+                                    "name": "and", 
+                                    "children": [
+                                        {
+                                            "name": "CN3124E", 
+                                            "children": [
+                                                {
+                                                    "name": "or", 
+                                                    "children": [
+                                                        {
+                                                            "name": "TC2112", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "CN2122E", 
+                                                            "children": [
+                                                                {
+                                                                    "name": "or", 
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "TC1402", 
+                                                                            "children": []
+                                                                        }, 
+                                                                        {
+                                                                            "name": "TC2401", 
+                                                                            "children": []
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "CN3132E", 
+                                            "children": [
+                                                {
+                                                    "name": "and", 
+                                                    "children": [
+                                                        {
+                                                            "name": "CN1111E", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "CN2121E", 
+                                                            "children": [
+                                                                {
+                                                                    "name": "CN1111E", 
+                                                                    "children": []
+                                                                }
+                                                            ]
+                                                        }, 
+                                                        {
+                                                            "name": "CN2125E", 
+                                                            "children": [
+                                                                {
+                                                                    "name": "or", 
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "TC2112", 
+                                                                            "children": []
+                                                                        }, 
+                                                                        {
+                                                                            "name": "CN2122E", 
+                                                                            "children": [
+                                                                                {
+                                                                                    "name": "or", 
+                                                                                    "children": [
+                                                                                        {
+                                                                                            "name": "TC1402", 
+                                                                                            "children": []
+                                                                                        }, 
+                                                                                        {
+                                                                                            "name": "TC2401", 
+                                                                                            "children": []
+                                                                                        }
+                                                                                    ]
+                                                                                }
+                                                                            ]
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "TG2415", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "In this capstone design project, students execute a group project to design a chemical production facility. They solve a practical design problem in the same way as might be expected in an industrial situation. Students develop and evaluate process flowsheet alternatives via rigorous simulation, perform preliminary sizing, analyze safety and hazards, and estimate costs and profitability. Further, they learn how to solve open-ended problems by making critical design decisions with sound scientific justification and giving due consideration to cost and safety. Project coordinators act as facilitators, and students work almost independently on the project and exercise their creativity.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "BACHELOR OF TECHNOLOGY PROGRAMME",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,3,0,]]
+}

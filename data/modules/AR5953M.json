@@ -1,0 +1,22 @@
+{
+"moduleCode": "AR5953M",
+"moduleTitle": "Topics in Design Technology- Iterative Virtual Prototyping",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "AR5953M", 
+            "children": []
+},
+"moduleDescription": "This elective aims to introduce advance performance driven digital design methods and techniques leveraging parametric modelling and design simulation tools. The overall approach, referred to as Iterative Virtual Prototyping (IVP), involves a cyclical design process in which design variants are developed and evaluated using automated computational workflows. A number of design methods based on the IVP approach will be covered. Students will be taught how these methods can be appropriately applied and how they can used to better understand the design scenarios being tackled. Students will also learn a range of digital skills, focusing in particular on parametric and procedural modelling techniques.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF DESIGN AND ENVIRONMENT",
+"department": "ARCHITECTURE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

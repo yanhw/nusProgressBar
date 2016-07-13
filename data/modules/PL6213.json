@@ -1,0 +1,22 @@
+{
+"moduleCode": "PL6213",
+"moduleTitle": "Genetics of Social Behaviour",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "Undergraduate degree in social or life sciences",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "PL6213", 
+            "children": []
+},
+"moduleDescription": "Human beings are an incredibly social species and twin studies suggest that uniquely human characteristics such as empathy, altruism, sense of equity, love, trust, music, economic behavior, and even politics are partially hardwired. We will discuss evidence that social phenotypes are heritable and the implications of these findings for the social sciences. Emphasis will be placed on two social hormones, oxytocin and vasopressin, and how human findings resonate with those in other mammals. We will discuss how experimental economic paradigms and imaging are used to model social behavior in the laboratory including as altruism, trust and fairness.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "PSYCHOLOGY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

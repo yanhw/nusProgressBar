@@ -1,0 +1,24 @@
+{
+"moduleCode": "CH1101E",
+"moduleTitle": "Introduction to Chinese Studies",
+"moduleCredit": "4",
+"lockedModules":[
+            "CH2162",
+            "CH2161"
+        ],
+"preclusion": "NIL",
+"prerequisite": "Must obtain: 1) At least a B4 for (a) Higher Chinese at GCE 'O' Level, or (b) Chinese Language at GCE 'AO' Level (at GCE 'A' Level examination); OR 2) At least a pass for (a) Chinese at GCE 'A' Level, or (b) Higher Chinese at GCE 'A' Level; OR 3) At least C grade for Chinese Language (H1CL) at GCE 'A' Level; OR 4) At least a pass for (a) Chinese Language and Literature (H2CLL) at GCE 'A' Level, or (b) Chinese Language and Literature (H3CLL) at GCE 'A' Level. 5) Equivalent qualifications may be accepted.",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "CH1101E", 
+            "children": []
+},
+"moduleDescription": "An introductory course on some of the central concerns and issues in Chinese literature, history and culture. Students will be familiarized with a variety of literary genres, historical themes, and cultural theories through representative readings from primary and secondary sources. This is an essential module for students majoring in Chinese Studies and is also offered to students across the University with an interest in Chinese studies.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "CHINESE STUDIES",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

@@ -1,0 +1,22 @@
+{
+"moduleCode": "SW3219",
+"moduleTitle": "Child-centric Social Work",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "SW3219", 
+            "children": []
+},
+"moduleDescription": "The module enables students to acquire the knowledge base and intervention skills to work with children and their parents. They will understand the factors that lead to childhood vulnerability, neglect and abuse in the family and community contexts. They will learn about the history of child welfare and rights, and the social intervention approaches to protect and promote childrens well-being. They will also review the role of the state and relevant parties in this regard. The module will include experiential learning in using individual and group work skills in helping children, as well as counselling skills in working with parents.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "SOCIAL WORK",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

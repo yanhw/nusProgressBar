@@ -1,0 +1,39 @@
+{
+"moduleCode": "LAH3202",
+"moduleTitle": "Hindi 4",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "Passed LAH3201 Hindi 3, or by placement test.",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["LAH3201"]
+},
+"prerequisiteList": ["LAH3201","LAH2201","LAH1201"],
+"completePrerequisite": {
+            "name": "LAH3202", 
+            "children": [
+                {
+                    "name": "LAH3201", 
+                    "children": [
+                        {
+                            "name": "LAH2201", 
+                            "children": [
+                                {
+                                    "name": "LAH1201", 
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "\"Hindi 4 is a continuation of Hindi 3. It is an integrated module which will help students gain higher intermediate proficiency in the four skills (listening, speaking, reading, and writing), grammar, and vocabulary, for personal interaction and communication in authentic situations.\"",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "CENTRE FOR LANGUAGE STUDIES",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

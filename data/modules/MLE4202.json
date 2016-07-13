@@ -1,0 +1,47 @@
+{
+"moduleCode": "MLE4202",
+"moduleTitle": "Selected Advanced Topics on Polymers",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "MLE3104",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["MLE3104"]
+},
+"prerequisiteList": ["MLE3104","MLE1101","CM1121","CM1501"],
+"completePrerequisite": {
+            "name": "MLE4202", 
+            "children": [
+                {
+                    "name": "MLE3104", 
+                    "children": [
+                        {
+                            "name": "or", 
+                            "children": [
+                                {
+                                    "name": "MLE1101", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "CM1121", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "CM1501", 
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "Introduction to polymer physics: chain statistics, static light scattering, hydrodynamics of polymer solutions, thermodynamics of polymer solutions, polymer blends, solubility parameters and group contribution methods; Overview of selected topics in advanced and emerging specialty polymer science and technology; Current interests in nanopatterning and nanoimprinting, layer-by-layer polyelectrolyte assembly, advanced photoresists, liquid-crystalline polymer science and device technology, conducting polymer science and technology, semiconducting polymer device science and technology, polysiloxanes and microcontact printing, low-k (and high-k) dielectric materials.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "MATERIALS SCIENCE AND ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

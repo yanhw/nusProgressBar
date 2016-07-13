@@ -1,0 +1,24 @@
+{
+"moduleCode": "MS1102E",
+"moduleTitle": "Malays - Tradition, Conflict and Change",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "MS1101E",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "MS1101E"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "MS1102E", 
+            "children": []
+},
+"moduleDescription": "Foundation module on the Malays that outlines their history, culture and institutions. It introduces some of the major areas of research and scholarship on the study of the Malays. It highlights and evaluates dominant views expounded by colonial and post colonial scholars and alternative discourse on the subject. The themes covered in this module provide the basis for further exploration in greater depths in other modules offered by the Department.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "MALAY STUDIES",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

@@ -1,0 +1,54 @@
+{
+"moduleCode": "NUR3116",
+"moduleTitle": "Transition-to-Practice",
+"moduleCredit": "9",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "NUR3105 Clinical Practicum 3.1",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["NUR3105"]
+},
+"prerequisiteList": ["NUR3105","NUR2107","NUR2116","NUR2106","NUR2114","NUR1108"],
+"completePrerequisite": {
+            "name": "NUR3116", 
+            "children": [
+                {
+                    "name": "NUR3105", 
+                    "children": [
+                        {
+                            "name": "NUR2107", 
+                            "children": [
+                                {
+                                    "name": "NUR2116", 
+                                    "children": [
+                                        {
+                                            "name": "NUR2106", 
+                                            "children": [
+                                                {
+                                                    "name": "NUR2114", 
+                                                    "children": [
+                                                        {
+                                                            "name": "NUR1108", 
+                                                            "children": []
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "Transition to practice will enable students to integrate theory and clinical knowledge through experience in a clinical placement attachment of their choice. Students will focus on experience to enable them to function as registered nurses on the completion of the module.",
+"crossModule": "-1",
+"corequisite": "NUR3115 Issues for Contemporary Nursing Practice",
+"faculty": "YONG LOO LIN SCHOOL OF MEDICINE",
+"department": "NURSING/ALICE LEE CTR FOR NURSING STUD",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

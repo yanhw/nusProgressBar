@@ -1,0 +1,41 @@
+{
+"moduleCode": "RE3107",
+"moduleTitle": "Real Estate Practice And Ethics",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "RE4180 Real Estate Practice and Research",
+"prerequisite": "RE3101 Advanced Real Estate Valuation, RE3103 Real Estate Development",
+"preclusionList": [
+            "RE4180"
+        ],
+"parsedPrerequisite": {
+" and ": ["RE3103"]
+},
+"prerequisiteList": ["RE3103","RE2102","EC1301"],
+"completePrerequisite": {
+            "name": "RE3107", 
+            "children": [
+                {
+                    "name": "RE3103", 
+                    "children": [
+                        {
+                            "name": "RE2102", 
+                            "children": [
+                                {
+                                    "name": "EC1301", 
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "Understanding Real Estate Business Ethics helps to prepare students for the ethical dilemmas that they will encounter in today's evolving business world. This module highlights both the positive and negative consequences that decision makers face so that students have a better understanding of the challenges. This course is a programme elective for real estate students as it aims to prepare them for real world business challenges when they face ethical issues relating to many aspects of real estate such as investments, Development, consultancy, building construction, urban planning and dealing with government authorities and business partners with varying agendas. Case studies will be used to apply the principles in this module to real world situations.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF DESIGN AND ENVIRONMENT",
+"department": "REAL ESTATE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

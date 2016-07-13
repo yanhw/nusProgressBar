@@ -1,0 +1,22 @@
+{
+"moduleCode": "SC6216",
+"moduleTitle": "The Anthropological Perspective",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "SC6216", 
+            "children": []
+},
+"moduleDescription": "This course will examine concepts that have been prominent in the development of anthropology as a distinctive discipline. Concepts such as culture, cultural relativism, ethnocentrism, ethnography, participant observation, and social structure, will be analyzed in the context of their development and use by anthropologists over the past century. Other themes will include the historical relationship between anthropology and colonialism, critiques that have been made of anthropology in recent decades over questions of ethnographic authority, and the construction of anthropological objects and subjects.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "SOCIOLOGY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

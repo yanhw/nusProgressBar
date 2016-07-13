@@ -1,0 +1,22 @@
+{
+"moduleCode": "LLD5226",
+"moduleTitle": "Multimodal Transport Law",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "LLD5226", 
+            "children": []
+},
+"moduleDescription": "Other than the traditional unimodal contract of carriage, a multimodal contract of carriage requires more than one modality to perform the carriage. Think of a shipment of steel coils, traveling per train from Germany to the Netherlands, then by sea to Singapore where the last stretch to the end receiver is performed by truck. The course deals with all the legal aspects of such a multimodal contract of carriage.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "LAW",
+"department": "LAW",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

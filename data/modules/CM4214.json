@@ -1,0 +1,62 @@
+{
+"moduleCode": "CM4214",
+"moduleTitle": "Structural Methods in Inorganic Chem",
+"moduleCredit": "4",
+"lockedModules":[
+            "CM5212"
+        ],
+"preclusion": "NIL",
+"prerequisite": "CM3211 or CM3212",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " or ": [
+                "CM3211", 
+                "CM3212"
+            ]
+},
+"prerequisiteList": ["CM3211","CM2111","CM1111","CM3212"],
+"completePrerequisite": {
+            "name": "CM4214", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "CM3211", 
+                            "children": [
+                                {
+                                    "name": "CM2111", 
+                                    "children": [
+                                        {
+                                            "name": "CM1111", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "CM3212", 
+                            "children": [
+                                {
+                                    "name": "CM2111", 
+                                    "children": [
+                                        {
+                                            "name": "CM1111", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module covers the commonly used methods to determine the structure of inorganic and organometallic compounds including symmetry operators, point groups and irreducible representations; Raman or IR active vibrational modes; the principles and theories of single crystal and powder X-ray diffraction techniques; assessment of quality of published crystal structures; NMR as a powerful diagnostic tool to determine structures and fluxional mechanisms. High resolution mass spectrometry, electron paramagnetic resonance and Mossbauer spectroscopy may be introduced.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCIENCE",
+"department": "CHEMISTRY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

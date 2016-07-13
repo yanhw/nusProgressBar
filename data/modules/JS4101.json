@@ -1,0 +1,24 @@
+{
+"moduleCode": "JS4101",
+"moduleTitle": "Research and Writing in Japanese Studies",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "JS4221",
+"prerequisite": "Cohort 2011 and before: Completed 80 MCs, including 28 MCs in JS, with a minimum CAP of 3.50 or be on the Honours track. Cohort 2012 onwards: Completed 80 MCs, including 28 MCs in JS, with a minimum CAP of 3.20 or be on the Honours track.",
+"preclusionList": [
+            "JS4221"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "JS4101", 
+            "children": []
+},
+"moduleDescription": "This module is designed to encourage and enhance independent thinking, research and writing. Students will explore various approaches to the study of Japan and pursue a research proposal leading to a research project.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "JAPANESE STUDIES",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

@@ -1,0 +1,22 @@
+{
+"moduleCode": "CE5310",
+"moduleTitle": "Hydroinformatics",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "CE5310", 
+            "children": []
+},
+"moduleDescription": "Hydroinformatics is concerned with the development and application of mathematical modelling and advanced information technology tools to hydraulics, hydrological and environmental problems of urban, inland and coastal waters. On the technical side, in addition to computational hydraulics, hydroinformatics has a strong interest in the use of techniques originating in data-driven techniques, such as artificial neural networks, support vector machines and evolutionary programming.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "CIVIL & ENVIRONMENTAL ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

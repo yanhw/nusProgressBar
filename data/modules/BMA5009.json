@@ -1,0 +1,31 @@
+{
+"moduleCode": "BMA5009",
+"moduleTitle": "Marketing Management",
+"moduleCredit": "4",
+"lockedModules":[
+            "BMA5511",
+            "BMA5504A",
+            "BMA5013",
+            "BMA5525",
+            "BMA5532A",
+            "BMA5531",
+            "BMA5533",
+            "BMA5534",
+            "BMA5501"
+        ],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "BMA5009", 
+            "children": []
+},
+"moduleDescription": "The course is designed to provide the students an understanding of basic marketing concepts, tools and techniques and their application in the analysis of marketing problems. The focus is on creativity and appreciation of the role of marketing in an enterprise and its relationship with other functions of business. The course deploys a combination of teaching methods, including lectures, cases, exercises, and projects and covers topics such as the marketing concept, analysis of the marketing environment, buyer behavior, segmentation and targeting, development of marketing programmess and the specific elements of the marketing mix of product, pricing, promotion and distribution. Issues in integrating the marketing mix and implementing, evaluating and controlling the market programme are also addressed.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF BUSINESS",
+"department": "DEAN'S OFFICE (BIZ)",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

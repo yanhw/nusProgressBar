@@ -1,0 +1,46 @@
+{
+"moduleCode": "SP3203",
+"moduleTitle": "Aquatic Ecology Research",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "LSM2251 Ecology and Environment or GE2229 Water and Environment",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " or ": [
+                "LSM2251", 
+                "GE2229"
+            ]
+},
+"prerequisiteList": ["LSM2251","LSM1103","GE2229"],
+"completePrerequisite": {
+            "name": "SP3203", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "LSM2251", 
+                            "children": [
+                                {
+                                    "name": "LSM1103", 
+                                    "children": []
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "GE2229", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "The aim of the module is to provide students with handson research experience in aquatic ecology; the design, execution and analysis of surveys and experiments. Emphasis is placed on how quantitative scientific methods are applied to study aquatic ecosystems incorporating both theory and practice. The theory is primarily in the form of ecological survey planning and aquatic experimental design. The practical component provides the skills necessary to conduct real aquatic ecology research and present findings. The module covers hypothesis formulation, analytical methods and procedures specific to aquatic systems, as well as the use of statistical information for making ecological inferences. Awareness will be developed of what types of research are realistic given time, skill and budget constraints.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "SCIENCE",
+"department": "BIOLOGICAL SCIENCES",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

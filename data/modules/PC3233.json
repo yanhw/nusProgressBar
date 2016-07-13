@@ -1,0 +1,132 @@
+{
+"moduleCode": "PC3233",
+"moduleTitle": "Atomic & Molecular Physics I",
+"moduleCredit": "4",
+"lockedModules":[
+            "PC4243"
+        ],
+"preclusion": "NIL",
+"prerequisite": "PC2130 or PC2130B",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " or ": [
+                "PC2130", 
+                "PC2130B"
+            ]
+},
+"prerequisiteList": ["PC2130","PC1144","PC1432","MA1505","MA1506","MA1102R","MA1521","MA1101R","PC2130B","PC1432X","PC1433"],
+"completePrerequisite": {
+            "name": "PC3233", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "PC2130", 
+                            "children": [
+                                {
+                                    "name": "and", 
+                                    "children": [
+                                        {
+                                            "name": "or", 
+                                            "children": [
+                                                {
+                                                    "name": "PC1144", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "PC1432", 
+                                                    "children": []
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "or", 
+                                            "children": [
+                                                {
+                                                    "name": "and", 
+                                                    "children": [
+                                                        {
+                                                            "name": "MA1505", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "MA1506", 
+                                                            "children": [
+                                                                {
+                                                                    "name": "or", 
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "MA1102R", 
+                                                                            "children": []
+                                                                        }, 
+                                                                        {
+                                                                            "name": "MA1505", 
+                                                                            "children": []
+                                                                        }, 
+                                                                        {
+                                                                            "name": "MA1521", 
+                                                                            "children": []
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }, 
+                                                {
+                                                    "name": "and", 
+                                                    "children": [
+                                                        {
+                                                            "name": "MA1101R", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "MA1102R", 
+                                                            "children": []
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "PC2130B", 
+                            "children": [
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "PC1144", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "PC1432", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "PC1432X", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "PC1433", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module presents the basic concepts and principles of atomic and molecular physics. In particular, the module revolves around the energy level schemes of atoms and molecules which are essential to the interpretation of atomic and molecular spectra. Topics covered include the Dirac model, Lamb shift, hyperfine interaction, spin-orbit coupling schemes, Zeeman effect, central-field model, Born-Oppenheimer approximation, Pauli's exclusion principle, Hund's rules, electronic, vibrational, rotational and rotational-vibrational spectra, selection rules, and Raman scattering. The module is targeted at students who have a foundation in quantum mechanics and an interest in spectroscopy.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCIENCE",
+"department": "PHYSICS",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

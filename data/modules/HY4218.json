@@ -1,0 +1,24 @@
+{
+"moduleCode": "HY4218",
+"moduleTitle": "Approaches to Modern Japanese History",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "JS4213",
+"prerequisite": "Cohort 2011 and before: Completed 80MCs, including 28MCs in HY, with a minimum CAP of 3.50 or be on the Honours track. Cohort 2012 onwards: Completed 80MCs, including 28MCs in HY, with a minimum CAP of 3.20 or be on the Honours track.",
+"preclusionList": [
+            "JS4213"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "HY4218", 
+            "children": []
+},
+"moduleDescription": "This module traces the historical development of Japan from the mid 19th century to the present. It focuses on close reading and discussion of important English-language works with particular emphasis on historical and theoretical controversies in the field. Students will be encouraged to think about both the modern history of Japan as well as the historians who have claimed to reconstruct and narrate it. The module is aimed at students interested in the intersection between Japanese history, the practice of historiography, and the application of theoretical models to the past.",
+        "CrossModule": "JS4213", 
+"corequisite": "NIL",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "JAPANESE STUDIES",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

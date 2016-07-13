@@ -1,0 +1,24 @@
+{
+"moduleCode": "LL6234V",
+"moduleTitle": "Property Theory",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "Students who are taking or have taken LL6234.",
+"prerequisite": "NUS Compulsory Core Curriculum or its equivalent.",
+"preclusionList": [
+            "LL6234"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "LL6234V", 
+            "children": []
+},
+"moduleDescription": "This module explores the way in which the concept of property has figured in political and legal theory. The module will first investigate the significance of property discourse in modern political theory, beginning with early modern authors such as Grotius and Locke, and then considering later political theorists such as Kant, Hume, Smith and Hegel, as well as utilitarian/economic treatments of property. The course will then draw upon this material to then focus on modern debates about the role of the concept of property in legal theory, covering such issues as economic/distributive justice, whether property is a 'bundle of rights', possession, ownership, and equitable property.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "LAW",
+"department": "LAW",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

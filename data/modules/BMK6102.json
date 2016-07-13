@@ -1,0 +1,22 @@
+{
+"moduleCode": "BMK6102",
+"moduleTitle": "Marketing Seminar: Consumer Information Processing",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "BMK6102", 
+            "children": []
+},
+"moduleDescription": "Similar to BMK6101, this seminar will rely on journal articles for our weekly discussions. Building on your knowledge of BMK6101, microeconomics and mathematical statistics, the topics we cover here include forecasting, new product diffusion, product models, product design, advertising and promotion, consumer choice, and sales force management. The deliverable will be a research proposal, which may form the genesis of your dissertation.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF BUSINESS",
+"department": "MARKETING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

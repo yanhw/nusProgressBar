@@ -1,0 +1,37 @@
+{
+"moduleCode": "MA1508",
+"moduleTitle": "Linear Algebra with Applications",
+"moduleCredit": "4",
+"lockedModules":[
+            "MA2501",
+            "MA2213",
+            "MA2214",
+            "MA2219",
+            "MA3252",
+            "MA2101S",
+            "MA2101",
+            "EC3314",
+            "MA3238",
+            "ST3236",
+            "MA3220"
+        ],
+"preclusion": "MA1101R, MA1311, MA1506",
+"prerequisite": "A' level or H2 Mathematics or equivalent",
+"preclusionList": [
+            "MA1311",
+            "MA1506",
+            "MA1101R"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "MA1508", 
+            "children": []
+},
+"moduleDescription": "The objective of this module is to inculcate a facility in both linear algebra and its numerical methods. The module is targeted at students in the Engineering Science Programme. Topics: systems of linear equations, matrices, determinants, numerical solutions of systems of linear equations, vector spaces, subspaces, linear independence, basis and dimension, rank of a matrix, orthogonality and orthonormal bases, linear transformations, eigenvalues and eigenvectors, diagonalization, numerical methods in approximating eigenvalues.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCIENCE",
+"department": "MATHEMATICS",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

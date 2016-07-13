@@ -1,0 +1,52 @@
+{
+"moduleCode": "CE5308",
+"moduleTitle": "Coastal Processes & Sediment Transport",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "CE5307 Wave Hydrodynamics and Physical Oceanography",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["CE5307"]
+},
+"prerequisiteList": ["CE5307","CE2134","EG1109F","EG1109","CE1109X"],
+"completePrerequisite": {
+            "name": "CE5308", 
+            "children": [
+                {
+                    "name": "CE5307", 
+                    "children": [
+                        {
+                            "name": "CE2134", 
+                            "children": [
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "EG1109F", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "EG1109", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "CE1109X", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "The objectives of this module are to provide the basic knowledge on the coastal engineering and to apply the concepts and principles to solve coastal engineering problems such as beach processes and coastal structure protection. Topics include review of wave theory, coastal wave dynamics (wave transformation and propagation, radiation stress theory, wave set-up and set-down, edge waves, and rip currents), oscillatory boundary layers (wave boundary layer, and wave-current interaction), discrete sediment transport (sediment characterization and settling velocity, initiation of motion and entrainment, suspended load, bedload, total load and sediment discharge rating), continuous sediment transport (turbidity, debris flows, and suspension dynamics) and coastal structures (seawall, breakwater, groynes, headlands). This module is strongly recommended to students opting for the offshore engineering specialization.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "ENGINEERING",
+"department": "CIVIL & ENVIRONMENTAL ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

@@ -1,0 +1,24 @@
+{
+"moduleCode": "NM5204",
+"moduleTitle": "Computer-Mediated Environments",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "IF5204",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "IF5204"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "NM5204", 
+            "children": []
+},
+"moduleDescription": "This course is designed to help students explore current issues related to Computer-Mediated Environments (CMEs) such as online communities, virtual organizations, e-learning communities, virtual reality, etc. Students will critically analyze theories and conceptualize the impacts of ICTs on the way people communicate, work, socialize, play, and learn in CMEs. Students will review theories, models, and empirical studies on various topics such as social identity, Computer-mediated Communication (CMC), online community, computer-mediated social networks and social capital, human computer interactions, and online collaboration in business and education.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "COMMUNICATIONS AND NEW MEDIA",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

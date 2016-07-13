@@ -1,0 +1,22 @@
+{
+"moduleCode": "EL5102",
+"moduleTitle": "Phonetics and Phonology",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "Must be registered as a Graduate student in the university or with the approval of the Department.",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "EL5102", 
+            "children": []
+},
+"moduleDescription": "The module covers the foundational knowledge of the sound pattern of human language. Major topics include how speech sounds are made and transmitted, and how they pattern, drawing data primarily from English and other familiar languages. Students will learn the conceptual tools and technical skills in the analysis of speech data.",
+"crossModule": "-1",
+"corequisite": "Nil",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "ENGLISH LANGUAGE & LITERATURE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

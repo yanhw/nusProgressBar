@@ -1,0 +1,36 @@
+{
+"moduleCode": "EE5704",
+"moduleTitle": "High-Frequency Power Converters",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "EE6704 High-Frequency Power Converters (Advanced)",
+"prerequisite": "EE5711R Modelling and Control of Power Electronic Converters",
+"preclusionList": [
+            "EE6704"
+        ],
+"parsedPrerequisite": {
+" and ": ["EE5711R"]
+},
+"prerequisiteList": ["EE5711R","EE3501C"],
+"completePrerequisite": {
+            "name": "EE5704", 
+            "children": [
+                {
+                    "name": "EE5711R", 
+                    "children": [
+                        {
+                            "name": "EE3501C", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module introduces the student to the design of high frequency (switching frequency >200 kHz) high efficiency power electronic converters for AC-DC and DC-DC energy conversion using PWM and resonant energy conversion techniques and their significance in modern power electronic industries. This module will make the student aware of the fundamental considerations needed to design advanced high frequency power electronic converters in an industrial environment.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "ELECTRICAL & COMPUTER ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

@@ -1,0 +1,22 @@
+{
+"moduleCode": "ES5002",
+"moduleTitle": "Graduate English Course (Advanced Level)",
+"moduleCredit": "0",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "ES5002", 
+            "children": []
+},
+"moduleDescription": "This course is designed to help international graduate students from non-English speaking countries develop skills for writing theses and research papers.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "NON-FACULTY-BASED DEPARTMENTS",
+"department": "CTR FOR ENGLISH LANGUAGE COMMUNICATION",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

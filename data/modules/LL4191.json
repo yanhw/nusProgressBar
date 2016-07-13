@@ -1,0 +1,29 @@
+{
+"moduleCode": "LL4191",
+"moduleTitle": "Wealth Management Law",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "(a) NUS Compulsory Core Law Curriculum or equivalent (b) Principles of Conflict of Laws [LL4049] is recommended.",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["LL4049"]
+},
+"prerequisiteList": ["LL4049"],
+"completePrerequisite": {
+            "name": "LL4191", 
+            "children": [
+                {
+                    "name": "LL4049", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "This course will examine the legal principles and regulatory environment surrounding the wealth management services provided by banking institutions. Major topics that are likely to be covered on the course include the nature and regulation of wealth management services and providers, banks\u2019 potential liability for the provision of wealth management services (such as financial advisory services in general and in relation to complex financial products in particular, the provision of financial information and data, portfolio management services, and custodianship) and the effectiveness of banks\u2019 attempts to exclude or limit liability.",
+"crossModule": "-1",
+"corequisite": "Nil",
+"faculty": "LAW",
+"department": "LAW",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

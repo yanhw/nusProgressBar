@@ -1,0 +1,35 @@
+{
+"moduleCode": "MUA6115",
+"moduleTitle": "Ensemble Study 6A",
+"moduleCredit": "4",
+"lockedModules":[
+            "MUA6116"
+        ],
+"preclusion": "NIL",
+"prerequisite": "MUA5116 Ensemble Study 5B",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["MUA5116"]
+},
+"prerequisiteList": ["MUA5116","MUA5115"],
+"completePrerequisite": {
+            "name": "MUA6115", 
+            "children": [
+                {
+                    "name": "MUA5116", 
+                    "children": [
+                        {
+                            "name": "MUA5115", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module further consoldates and hones experience around chamber / orchestral and related ensemble study specially designed for performance / composition majors. In addition to greater responsibility in their roles within the ensembles, students also develop extended repertoire acquisition and experiences in a variety of ensemble contexts.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "YONG SIEW TOH CONSERVATORY OF MUSIC",
+"department": "YONG SIEW TOH CONSERVATORY OF MUSIC",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

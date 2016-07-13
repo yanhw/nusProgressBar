@@ -1,0 +1,24 @@
+{
+"moduleCode": "PL5306R",
+"moduleTitle": "Advanced Clinical Psychology",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "PL6210",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "PL6210"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "PL5306R", 
+            "children": []
+},
+"moduleDescription": "This module provides students with advanced knowledge in clinical psychology from historical as well as from the latest conceptual and empirical perspectives. The implications of life-span psychology, psychopathology, personality theory, neuropsychology, and competing systems of clinical psychology for multi-cultural clinical understanding, clinical epistemology, and clinical judgment will be critically reviewed.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "PSYCHOLOGY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

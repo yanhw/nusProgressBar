@@ -1,0 +1,24 @@
+{
+"moduleCode": "CN5222",
+"moduleTitle": "Pharmaceuticals & Fine Chemicals",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "CN4232",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "CN4232"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "CN5222", 
+            "children": []
+},
+"moduleDescription": "The objective of this module is to provide an overview of the chemical reaction engineering aspects of pharmaceutical and fine chemical synthesis. Special focus is on controlling the chemo-, regio-, and stereo-selectivity. As preliminaries, a number of relevant chemical aspects and analytical methods are introduced. Homogeneous, heterogeneous, and enzyme catalysis are emphasised for the syntheses of many important pharmaceuticals and fine chemicals. This naturally leads to a host of important environmental issues and green chemical technologies. Important unit operations in pharmaceutical and fine chemical productions are also included in this module. This module is for both PG and UG students.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "CHEMICAL & BIOMOLECULAR ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

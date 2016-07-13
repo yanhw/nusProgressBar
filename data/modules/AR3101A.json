@@ -1,0 +1,22 @@
+{
+"moduleCode": "AR3101A",
+"moduleTitle": "Design 5 (Landscape Architecture Emphasis)",
+"moduleCredit": "8",
+"lockedModules":[
+],
+"preclusion": "All non-architecture students",
+"prerequisite": "AR2101 Design 3 Grade 'C' or Grade \u201cS\u201d; AR2102 Design 4 Grade 'C'",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "AR3101A", 
+            "children": []
+},
+"moduleDescription": "This studio-based module develops basic skills in landscape design and marks the \u2018first-time experience\u2019 of architecture students in the field of landscape architectural studio work. It leads the students into urban and suburban contexts, where landscape \u2018meets\u2019 city and city \u2018eats\u2019 landscape.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF DESIGN AND ENVIRONMENT",
+"department": "ARCHITECTURE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

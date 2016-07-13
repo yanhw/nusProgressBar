@@ -1,0 +1,25 @@
+{
+"moduleCode": "YSS2211",
+"moduleTitle": "Econometrics",
+"moduleCredit": "5",
+"lockedModules":[
+            "YSS3220",
+            "YSS3207",
+            "YSS3204"
+        ],
+"preclusion": "NIL",
+"prerequisite": "Any one of the following three options: (i) YSS1203 Principles of Economics; (ii) YSS2203 Intermediate Microeconomics; (iii) A-level Economics and Mathematics or equivalent economics and mathematics courses",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "YSS2211", 
+            "children": []
+},
+"moduleDescription": "Does going to college increase your earnings? Does height have an effect your wage? Do episodes like the haze 2013 in Singapore have a major impact to the economy? This course introduces students to the statistical methods that economists use to answer this and similar questions. More generally, this is an introduction to the methods used to test economic models and examine empirical relationships, primarily regression analysis. Although much of the course will focus on the mathematical development of the methodology, emphasis is placed on learning by studying and replicating specific case studies that address current economic questions.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "YALE-NUS COLLEGE",
+"department": "YALE-NUS COLLEGE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

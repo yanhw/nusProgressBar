@@ -1,0 +1,31 @@
+{
+"moduleCode": "ME3251E",
+"moduleTitle": "Materials For Engineers",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "TM3251",
+"prerequisite": "ME2151E",
+"preclusionList": [
+            "TM3251"
+        ],
+"parsedPrerequisite": {
+" and ": ["ME2151E"]
+},
+"prerequisiteList": ["ME2151E"],
+"completePrerequisite": {
+            "name": "ME3251E", 
+            "children": [
+                {
+                    "name": "ME2151E", 
+                    "children": []
+                }
+            ]
+},
+
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "ENGINEERING",
+"department": "BACHELOR OF TECHNOLOGY PROGRAMME",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

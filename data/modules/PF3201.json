@@ -1,0 +1,22 @@
+{
+"moduleCode": "PF3201",
+"moduleTitle": "Measurement (Specialist Works)",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "PF2503 M&E Engineering Systems (AY2014/15 intake and after)",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "PF3201", 
+            "children": []
+},
+"moduleDescription": "This module develops further the students' skills in the measurement of items of work on projects, with a special focus on the quantification of specialist building works. Major topics are measurement of fluid flow systems, specialist and civil engineering construction works and building services.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF DESIGN AND ENVIRONMENT",
+"department": "BUILDING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

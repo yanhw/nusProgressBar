@@ -1,0 +1,41 @@
+{
+"moduleCode": "CO5210",
+"moduleTitle": "Practicum",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "CO5102 and CO5103",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " and ": [
+                "CO5102", 
+                "CO5103"
+            ]
+},
+"prerequisiteList": ["CO5102","CO5103"],
+"completePrerequisite": {
+            "name": "CO5210", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "CO5102", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "CO5103", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "SAW SWEE HOCK SCHOOL OF PUBLIC HEALTH",
+"department": "SAW SWEE HOCK SCHOOL OF PUBLIC HEALTH",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

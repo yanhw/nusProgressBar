@@ -1,0 +1,22 @@
+{
+"moduleCode": "EE5801",
+"moduleTitle": "Electromagnetic Compatibility",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "EE5801", 
+            "children": []
+},
+"moduleDescription": "The objective of this module is to introduce the fundamental concepts, theories and practices in electromagnetic compatibility (EMC). The module covers topics from the basics of EMC to radiated and conducted emission and susceptibility, cross-talk, shielding and advanced topics of system level design for EMC. Different test and measurement techniques will also be covered. Computational modelling techniques for analysing and reducing EMC problems will be introduced.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "ELECTRICAL & COMPUTER ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

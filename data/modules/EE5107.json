@@ -1,0 +1,124 @@
+{
+"moduleCode": "EE5107",
+"moduleTitle": "Optimal Control Systems",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "EE5105 Optimal Control Systems EE6107 Optimal Control Systems (Advanced)",
+"prerequisite": "EE5101 / EE5101R / ME5401 Linear Systems",
+"preclusionList": [
+            "EE6107",
+            "EE5105"
+        ],
+"parsedPrerequisite": {
+            " or ": [
+                "EE5101", 
+                "EE5101R", 
+                "ME5401"
+            ]
+},
+"prerequisiteList": ["EE5101","EE5101R","ME5401","EE4302","EE3331C","EE2023","MA1506","MA1102R","MA1505","MA1521","ME4246","ME2142"],
+"completePrerequisite": {
+            "name": "EE5107", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "EE5101", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "EE5101R", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "ME5401", 
+                            "children": [
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "EE4302", 
+                                            "children": [
+                                                {
+                                                    "name": "EE3331C", 
+                                                    "children": [
+                                                        {
+                                                            "name": "EE2023", 
+                                                            "children": [
+                                                                {
+                                                                    "name": "MA1506", 
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "or", 
+                                                                            "children": [
+                                                                                {
+                                                                                    "name": "MA1102R", 
+                                                                                    "children": []
+                                                                                }, 
+                                                                                {
+                                                                                    "name": "MA1505", 
+                                                                                    "children": []
+                                                                                }, 
+                                                                                {
+                                                                                    "name": "MA1521", 
+                                                                                    "children": []
+                                                                                }
+                                                                            ]
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "ME4246", 
+                                            "children": [
+                                                {
+                                                    "name": "ME2142", 
+                                                    "children": [
+                                                        {
+                                                            "name": "MA1506", 
+                                                            "children": [
+                                                                {
+                                                                    "name": "or", 
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "MA1102R", 
+                                                                            "children": []
+                                                                        }, 
+                                                                        {
+                                                                            "name": "MA1505", 
+                                                                            "children": []
+                                                                        }, 
+                                                                        {
+                                                                            "name": "MA1521", 
+                                                                            "children": []
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "The module provides students with an understanding of basic concepts and principles of system optimality with applications to control and state estimation. Mathematical background materials, such as matrix properties and operations, dynamic system models and solutions and random variables will first be discussed, followed by major topics including notions of optimality, selection of cost functions, optimal state estimation, basic optimal control and model predictive control. Issues on the design and implementation of actual control systems will be addressed through a design project.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "ELECTRICAL & COMPUTER ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

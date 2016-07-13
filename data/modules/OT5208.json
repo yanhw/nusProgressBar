@@ -1,0 +1,52 @@
+{
+"moduleCode": "OT5208",
+"moduleTitle": "Fatigue and Fracture for Offshore Structures",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "CE4257: Linear Finite Element Methods or Equivalent",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["CE4257"]
+},
+"prerequisiteList": ["CE4257","CE3155","EG1109F","EG1109","CE1109X"],
+"completePrerequisite": {
+            "name": "OT5208", 
+            "children": [
+                {
+                    "name": "CE4257", 
+                    "children": [
+                        {
+                            "name": "CE3155", 
+                            "children": [
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "EG1109F", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "EG1109", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "CE1109X", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "The primary objective of this module is to equip graduatelevel students in civil engineering with sufficient fundamental knowledge and skills on the fatigue and fracture mechanics for offshore structures, which will build a firm technical ground for their future research work and engineering professions. This module introduces the principles of mechanics for fracture and fatigue covering the linear-elastic fracture mechanics, elastic-plastic fracture theories, fatigue and fracture mechanism, stress and strain based approaches for fatigue design in offshore structures, with assignments and projects cultivating the students\u2019 understanding on both the fundamental principles and the practical applications.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "CIVIL & ENVIRONMENTAL ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

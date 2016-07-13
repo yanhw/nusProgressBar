@@ -1,0 +1,23 @@
+{
+"moduleCode": "RE1104",
+"moduleTitle": "Principles Of Real Estate Valuation",
+"moduleCredit": "4",
+"lockedModules":[
+            "RE2107"
+        ],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "RE1104", 
+            "children": []
+},
+"moduleDescription": "The module introduces students to the theories that underpin real property valuation with the aim of providing students with an appreciation of the fundamental principles of valuation. The model therefore provides a critical review of the value theory, appraisal theory and valuation theory. Topics to be dealt with include: nature and scope of valuation; concepts of value, particularly open market value and fair market value; foundations of appraisal; role and functions of the valuer; characteristics of property and the property market; market study and valuation; the valuation process; professional standards and valuation report; a critical review of the hedonic model, the methods of valuation.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF DESIGN AND ENVIRONMENT",
+"department": "REAL ESTATE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

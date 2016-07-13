@@ -1,0 +1,22 @@
+{
+"moduleCode": "BZD6000",
+"moduleTitle": "Applied Economics",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "BZD6000", 
+            "children": []
+},
+"moduleDescription": "This course covers the practical applications of microeconomic theory needed by students in the PhD program in business. Topics include individual decisionmaking, competitive markets, risk aversion, and the theory of the firm. The course centers on the underlying economic intuition rather complex mathematics. However, this course provides a rigorous analysis of applied economics using basic algebra and calculus tools",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF BUSINESS",
+"department": "STRATEGY AND POLICY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

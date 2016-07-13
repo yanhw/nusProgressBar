@@ -1,0 +1,47 @@
+{
+"moduleCode": "CE4258",
+"moduleTitle": "Structural Stability & Dynamics",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "CE3155",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["CE3155"]
+},
+"prerequisiteList": ["CE3155","EG1109F","EG1109","CE1109X"],
+"completePrerequisite": {
+            "name": "CE4258", 
+            "children": [
+                {
+                    "name": "CE3155", 
+                    "children": [
+                        {
+                            "name": "or", 
+                            "children": [
+                                {
+                                    "name": "EG1109F", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "EG1109", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "CE1109X", 
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module provides students with basic knowledge of structural stability and dynamics for the analysis of civil engineering structures. The topics covered include general principles of stability and dynamics; buckling of beam, columns and frames; design against local and overall stability. Dynamics analysis will cover single-degree-of-freedom systems, multi-degree-of-freedom systems and continuous systems. Students are taught to deal with general stability and vibration problems of frames including computer applications and numerical formulation. The module of specialized context targets at undergraduate and graduate students in research or engineering practices relating to structural engineering applications",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "CIVIL & ENVIRONMENTAL ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

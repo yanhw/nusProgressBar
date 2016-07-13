@@ -1,0 +1,25 @@
+{
+"moduleCode": "PS5312",
+"moduleTitle": "Seminar In Comparative Politics",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "PS5213, PS6301B",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "PS6301B",
+            "PS5213"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "PS5312", 
+            "children": []
+},
+"moduleDescription": "This seminar will survey the methodology, dominant approaches and theories in comparative politics. The seminar will place emphasis on methodological and theoretical issues that are common to the study of comparative politics. Classic works by leading comparativists will be used to illustrate the strengths and weaknesses of the existing methodological and theoretical approaches to the study of comparative politics.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "POLITICAL SCIENCE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

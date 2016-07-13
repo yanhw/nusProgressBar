@@ -1,0 +1,22 @@
+{
+"moduleCode": "AR4103",
+"moduleTitle": "Architectural & Technology Design 1",
+"moduleCredit": "8",
+"lockedModules":[
+],
+"preclusion": "All non architecture students",
+"prerequisite": "AR3101 Design 1 Grade 'C'; AR3102 Design 2 Grade 'C'",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "AR4103", 
+            "children": []
+},
+"moduleDescription": "The studio aims to provide the students with an opportunity to learn design detailing, technological development and resolution of architectural schemes up to a stage where the design information in the project submission may be understood as being equivalent to pre-tender drawings or drawings for construction. The scope of learning comprises of i) Understanding the conceptual intentions of design scheme. ii) Translating aesthetic intention into technological design issues. iii) Identifying separate technical design activities, eg lighting iv) Communicating resolved design solutions as technical specification, architectural/construction drawing.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF DESIGN AND ENVIRONMENT",
+"department": "ARCHITECTURE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

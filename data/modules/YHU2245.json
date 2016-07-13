@@ -1,0 +1,29 @@
+{
+"moduleCode": "YHU2245",
+"moduleTitle": "Democratic Theory",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "YCC2121 Modern Social Thought",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["YCC2121"]
+},
+"prerequisiteList": ["YCC2121"],
+"completePrerequisite": {
+            "name": "YHU2245", 
+            "children": [
+                {
+                    "name": "YCC2121", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "In this course we will engage with the normative theory of democracy, which seeks to answer the question, why and to what extent is democracy valuable? And how does it relate to other goods in the political domain? Normative democratic theory is distinct from but closely linked to the empirical study of politics: we will examine how well actual societies that are called democratic measure up to normative standards, and we will consider how real-world political developments influence our normative model.",
+"crossModule": "-1",
+"corequisite": "None.",
+"faculty": "YALE-NUS COLLEGE",
+"department": "YALE-NUS COLLEGE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

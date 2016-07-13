@@ -1,0 +1,24 @@
+{
+"moduleCode": "GEK2028",
+"moduleTitle": "Founders of Modern Philosophy",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "PH2206",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "PH2206"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "GEK2028", 
+            "children": []
+},
+"moduleDescription": "This module looks at the beginnings of modern Western philosophy in the seventeenth century, when philosophers conceived of themselves as breaking away from authority and tradition. It will deal with central themes from the thought of Descartes, Locke, Berkeley, Leibniz and Spinoza; in particular, the attempt to provide foundations for knowledge and science.",
+        "CrossModule": "PH2206", 
+"corequisite": "NIL",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "PHILOSOPHY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

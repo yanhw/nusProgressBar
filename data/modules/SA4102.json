@@ -1,0 +1,23 @@
+{
+"moduleCode": "SA4102",
+"moduleTitle": "Programming And .net Development",
+"moduleCredit": "8",
+"lockedModules":[
+            "SA4109"
+        ],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "SA4102", 
+            "children": []
+},
+"moduleDescription": "- Application Development Life Cycle I - Application Development Life Cycle II",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "NON-FACULTY-BASED DEPARTMENTS",
+"department": "INSTITUTE OF SYSTEMS SCIENCE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

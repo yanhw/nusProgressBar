@@ -1,0 +1,47 @@
+{
+"moduleCode": "EE4218",
+"moduleTitle": "Embedded Hardware System Design",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "EE2020",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["EE2020"]
+},
+"prerequisiteList": ["EE2020","EE1002","CG1108","EG1108"],
+"completePrerequisite": {
+            "name": "EE4218", 
+            "children": [
+                {
+                    "name": "EE2020", 
+                    "children": [
+                        {
+                            "name": "or", 
+                            "children": [
+                                {
+                                    "name": "EE1002", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "CG1108", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "EG1108", 
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "The goal of this module is to enable students to understand and be able to practise the principles of designing complex embedded systems. After completing this module, students must be able to translate system specifications into executable computation models using a high level specification language and map these formal specifications into a register-transfer level hardware description language (HDL) that can be implemented on an FPGA. Main topics covered include: Methodology for designing embedded systems; specification and modelling of systems; architectures of embedded systems; mapping specifications into architectures; rapid prototyping on FPGA platforms. Students are required to implement an embedded system by going though the complete design flow with state-of-the-art Electronic Design Automation (EDA) tools.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "ELECTRICAL & COMPUTER ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

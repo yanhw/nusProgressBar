@@ -1,0 +1,33 @@
+{
+"moduleCode": "CS2100",
+"moduleTitle": "Computer Organisation",
+"moduleCredit": "4",
+"lockedModules":[
+            "CS3210",
+            "CS2106"
+        ],
+"preclusion": "CS1104 or Students from Department of ECE",
+"prerequisite": "CS1010 or its equivalent",
+"preclusionList": [
+            "CS1104"
+        ],
+"parsedPrerequisite": {
+" and ": ["CS1010"]
+},
+"prerequisiteList": ["CS1010"],
+"completePrerequisite": {
+            "name": "CS2100", 
+            "children": [
+                {
+                    "name": "CS1010", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "The objective of this module is to familiarise students with the fundamentals of computing devices. Through this module students will understand the basics of data representation, and how the various parts of a computer work, separately and with each other. This allows students to understand the issues in computing devices, and how these issues affect the implementation of solutions. Topics covered include data representation systems, combinational and sequential circuit design techniques, assembly language, processor execution cycles, pipelining, memory hierarchy and input/output systems.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF COMPUTING",
+"department": "COMPUTER SCIENCE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

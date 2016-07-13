@@ -1,0 +1,22 @@
+{
+"moduleCode": "BPS5203",
+"moduleTitle": "Structural Systems and Spatial Performance",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "BPS5203", 
+            "children": []
+},
+"moduleDescription": "This module addresses the building integrity issues and provides a learning experience in structural planning as well as the decision making on the choice of construction techniques and materials. Topics covered include planning of horizontal (such as floor beams and slabs) and vertical (such as structural walls and columns) members of structural systems for buildings; structural systems for large spans and high-rise buildings; concrete and steel technologies; precast concrete technology; and structural appraisal and repair. The spatial performance addresses such issues as circulation efficiency, interior design and layout, way-finding and navigation, flexibility in the adaptation of services needs to layout changes.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "SCHOOL OF DESIGN AND ENVIRONMENT",
+"department": "BUILDING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

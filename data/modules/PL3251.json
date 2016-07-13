@@ -1,0 +1,48 @@
+{
+"moduleCode": "PL3251",
+"moduleTitle": "Atypical Development and Language",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "PL3880A",
+"prerequisite": "PL1101E and PL3234",
+"preclusionList": [
+            "PL3880A"
+        ],
+"parsedPrerequisite": {
+            " and ": [
+                "PL1101E", 
+                "PL3234"
+            ]
+},
+"prerequisiteList": ["PL1101E","PL3234"],
+"completePrerequisite": {
+            "name": "PL3251", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "PL1101E", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "PL3234", 
+                            "children": [
+                                {
+                                    "name": "PL1101E", 
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "In this module, we will focus on areas of development in infants and young children: these include cognitive, language, and emotional development. This module aims to give students who are interested in child development a chance to examine in further depth aspects of child development, as well as some areas of atypical development. In particular, we will explore how current research informs our understanding of normal development in infants and children. Topics covered include developmental disorders such as autism, atypical language such as speech language impairment and aspects of parent-child attachment.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "PSYCHOLOGY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

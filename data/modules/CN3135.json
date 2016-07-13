@@ -1,0 +1,64 @@
+{
+"moduleCode": "CN3135",
+"moduleTitle": "Process Safety, Health and Environment",
+"moduleCredit": "3",
+"lockedModules":[
+            "CN4123",
+            "CN4250",
+            "CN4118R"
+        ],
+"preclusion": "NIL",
+"prerequisite": "CN2121 Chemical Engineering Thermodynamics CN2122 Fluid Mechanics",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["CN2122"]
+},
+"prerequisiteList": ["CN2122","MA1505","MA1506","MA1102R","MA1521"],
+"completePrerequisite": {
+            "name": "CN3135", 
+            "children": [
+                {
+                    "name": "CN2122", 
+                    "children": [
+                        {
+                            "name": "and", 
+                            "children": [
+                                {
+                                    "name": "MA1505", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "MA1506", 
+                                    "children": [
+                                        {
+                                            "name": "or", 
+                                            "children": [
+                                                {
+                                                    "name": "MA1102R", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MA1505", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MA1521", 
+                                                    "children": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module aims to provide fundamental concepts and methods for the design and operation of safe plants. The students will gain a thorough understanding of chemical process hazards, their identification, their potential effects on safety, health, and the environment, and methods of assessment and control. Emphasis is placed on the integrated management of safety, health, and environmental sustainability.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "ENGINEERING",
+"department": "CHEMICAL & BIOMOLECULAR ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

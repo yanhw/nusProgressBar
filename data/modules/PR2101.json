@@ -1,0 +1,34 @@
+{
+"moduleCode": "PR2101",
+"moduleTitle": "Dosage Form Design I",
+"moduleCredit": "4",
+"lockedModules":[
+            "PR5217",
+            "PR5219",
+            "PR5218",
+            "PR5302",
+            "PR5303"
+        ],
+"preclusion": "NIL",
+"prerequisite": "PR1102",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["PR1102"]
+},
+"prerequisiteList": ["PR1102"],
+"completePrerequisite": {
+            "name": "PR2101", 
+            "children": [
+                {
+                    "name": "PR1102", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "Learning objectives: To study the classification, composition, properties and applications of common liquid and semisolid preparations and some solid and novel pharmaceutical systems. To understand and apply the principles of pharmaceutical formulation, technology, evaluation and standardisation in the design and development of the above pharmaceutical systems.Major topics: Fluid mixing. Viscosity and rheology. Interfacial phenomena and colloidal disperse systems. Extraction, filtration and centrifugation. Solutions, emulsions and suspensions. Ointments and gels. Suppositories. Percutaneous delivery systems.Target students: Pharmacy Year Two",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCIENCE",
+"department": "PHARMACY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

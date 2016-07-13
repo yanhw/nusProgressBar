@@ -1,0 +1,22 @@
+{
+"moduleCode": "GE2218",
+"moduleTitle": "Leisure, Recreation and Tourism",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "GE2218", 
+            "children": []
+},
+"moduleDescription": "Tourism is the largest industry in the world today, and its impacts on the physical environment and human societies are worthy of scrutiny. The module provides a multi-disciplinary approach to the study of tourism and leisure, exploring in detail their economic, social, cultural and geographic implications on physical and human landscapes. Concepts, models and theories drawn from the social sciences as well as geography, and case studies from the Asia-Pacific will be explored. The module is designed for level-2000 and level-3000 Geography students, but cross-faculty students are welcomed as well.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "GEOGRAPHY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

@@ -1,0 +1,47 @@
+{
+"moduleCode": "BN2102",
+"moduleTitle": "Bioengineering Data Analysis",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "MA1506 Mathematics II",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["MA1506"]
+},
+"prerequisiteList": ["MA1506","MA1102R","MA1505","MA1521"],
+"completePrerequisite": {
+            "name": "BN2102", 
+            "children": [
+                {
+                    "name": "MA1506", 
+                    "children": [
+                        {
+                            "name": "or", 
+                            "children": [
+                                {
+                                    "name": "MA1102R", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "MA1505", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "MA1521", 
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This course will introduce concepts relevant to the interpretation and statistical analysis of experimental results in the bioengineering field. Theoretical explanations will be followed by hands-on tutorials with relevant computational software. Students will learn how to perform some of the most commonly used statistical analysis of experiments (e.g., z and t tests, ANOVA analysis) as well as to interpret the results of typical bioengineering experiments by building a suitably fitted mathematical model.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "BIOMEDICAL ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

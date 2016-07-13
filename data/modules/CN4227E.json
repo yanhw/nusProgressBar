@@ -1,0 +1,62 @@
+{
+"moduleCode": "CN4227E",
+"moduleTitle": "Advanced Process Control",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "TC4227",
+"prerequisite": "TC3111/ CN3121E",
+"preclusionList": [
+            "TC4227"
+        ],
+"parsedPrerequisite": {
+            " or ": [
+                "TC3111", 
+                "CN3121E"
+            ]
+},
+"prerequisiteList": ["TC3111","CN3121E","TC2421","TC1402","TC2401"],
+"completePrerequisite": {
+            "name": "CN4227E", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "TC3111", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "CN3121E", 
+                            "children": [
+                                {
+                                    "name": "TC2421", 
+                                    "children": [
+                                        {
+                                            "name": "or", 
+                                            "children": [
+                                                {
+                                                    "name": "TC1402", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "TC2401", 
+                                                    "children": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "ENGINEERING",
+"department": "BACHELOR OF TECHNOLOGY PROGRAMME",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

@@ -1,0 +1,95 @@
+{
+"moduleCode": "CN5173",
+"moduleTitle": "Downstream Processing Of Biochemical & Pharmaceutical Products",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "CN4231",
+"prerequisite": "CN3132",
+"preclusionList": [
+            "CN4231"
+        ],
+"parsedPrerequisite": {
+" and ": ["CN3132"]
+},
+"prerequisiteList": ["CN3132","CN1111F","CN1111","CN1111X","CN2125","CN2122","MA1505","MA1506","MA1102R","MA1521"],
+"completePrerequisite": {
+            "name": "CN5173", 
+            "children": [
+                {
+                    "name": "CN3132", 
+                    "children": [
+                        {
+                            "name": "and", 
+                            "children": [
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "CN1111F", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "CN1111", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "CN1111X", 
+                                            "children": []
+                                        }
+                                    ]
+                                }, 
+                                {
+                                    "name": "CN2125", 
+                                    "children": [
+                                        {
+                                            "name": "CN2122", 
+                                            "children": [
+                                                {
+                                                    "name": "and", 
+                                                    "children": [
+                                                        {
+                                                            "name": "MA1505", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "MA1506", 
+                                                            "children": [
+                                                                {
+                                                                    "name": "or", 
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "MA1102R", 
+                                                                            "children": []
+                                                                        }, 
+                                                                        {
+                                                                            "name": "MA1505", 
+                                                                            "children": []
+                                                                        }, 
+                                                                        {
+                                                                            "name": "MA1521", 
+                                                                            "children": []
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "The objective of this module is to familiarize students with the downstream section of a bioprocess for the production of biochemical and pharmaceutical products. The module first discusses drug requirements for different applications, and an overview of the downstream processes involved in obtaining an acceptable product quality. The general characteristics and fundamental principles of unit operations encountered in each of the major section of a downstream train are then discussed in detail: removal of insolubles, product isolation, high resolution techniques and product polishing. The current state of the research in some unit operations is also highlighted. The concepts covered are finally applied to a lab project. This module is targeted at graduate students who are interested in biopharmaceuticals production.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "CHEMICAL & BIOMOLECULAR ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

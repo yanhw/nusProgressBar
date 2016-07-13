@@ -1,0 +1,41 @@
+{
+"moduleCode": "TS3232",
+"moduleTitle": "Performance & Social Space",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "TS1101E or GEM1003",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " or ": [
+                "TS1101E", 
+                "GEM1003"
+            ]
+},
+"prerequisiteList": ["TS1101E","GEM1003"],
+"completePrerequisite": {
+            "name": "TS3232", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "TS1101E", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "GEM1003", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module focuses on performance as a major component in the fabric of our everyday lives, especially in the ways we observe and absorb the myriad performances that surround us, both `mediated' and `live'. Through initial discussions, presentations and workshops we will explore notions of authenticity and transformation in performance, with particular focus on cinema, television, advertising and other popular media. Various theoretical models will be considered, including those that relate to avant-garde and experimental performance. A final project will be developed over several weeks, in which the students work in groups to create a short video that integrates these approaches with their own ideas about performance.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "ENGLISH LANGUAGE & LITERATURE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

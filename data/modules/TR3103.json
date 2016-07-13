@@ -1,0 +1,22 @@
+{
+"moduleCode": "TR3103",
+"moduleTitle": "Start-Up Business Case",
+"moduleCredit": "8",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "TR3103", 
+            "children": []
+},
+"moduleDescription": "The module forms part of the structured learning for the internship program at NUS Overseas College at Silicon Valley/ Bio Valley. It is targeted at students undergoing internship at start-up companies in the Silicon Valley/ Bio Valley, and it involves writing a business case on the start-up process and challenges faced by the companies. It is intended to be a channel for (a) the application of concepts and frameworks learned in Technopreneurship courses to document the key process and challenges faced by real companies, (b) sharpening student's observation, learning by questioning, and raising awareness of the broader business and strategic context, and (c) documentation of application of learning. Selective cases written by the students may be used as teaching cases.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "NUS ENTERPRISE",
+"department": "NUS ENTREPRENEURSHIP CENTRE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

@@ -1,0 +1,116 @@
+{
+"moduleCode": "PC2132",
+"moduleTitle": "Classical Mechanics",
+"moduleCredit": "4",
+"lockedModules":[
+            "PC3246"
+        ],
+"preclusion": "NIL",
+"prerequisite": "Students who have either passed (PC1141 or PC1431) and either (MA1505 and MA1506) or (MA1101R and MA1102R) or equivalent.",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " and ": [
+                {
+                    " or ": [
+                        "PC1141", 
+                        "PC1431"
+                    ]
+                }, 
+                {
+                    " or ": [
+                        {
+                            " and ": [
+                                "MA1505", 
+                                "MA1506"
+                            ]
+                        }, 
+                        {
+                            " and ": [
+                                "MA1101R", 
+                                "MA1102R"
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"prerequisiteList": ["PC1141","PC1431","MA1505","MA1506","MA1102R","MA1521","MA1101R"],
+"completePrerequisite": {
+            "name": "PC2132", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "or", 
+                            "children": [
+                                {
+                                    "name": "PC1141", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "PC1431", 
+                                    "children": []
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "or", 
+                            "children": [
+                                {
+                                    "name": "and", 
+                                    "children": [
+                                        {
+                                            "name": "MA1505", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "MA1506", 
+                                            "children": [
+                                                {
+                                                    "name": "or", 
+                                                    "children": [
+                                                        {
+                                                            "name": "MA1102R", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "MA1505", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "MA1521", 
+                                                            "children": []
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }, 
+                                {
+                                    "name": "and", 
+                                    "children": [
+                                        {
+                                            "name": "MA1101R", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "MA1102R", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module aims to consider the principles of mechanics in a rigorous mathematical framework, and to establish a bridge to the principles of modern physics. The topics to be covered include: kinematics; damped and driven oscillators; energy and angular momentum, conservative forces; twobody and many-body problems, centre-of-mass; central-force motion, inverse square law, orbits, scattering; action principle; Lagrangian mechanics; Hamiltonian mechanics; small-amplitude oscillations, normal modes; rotating rigid bodies; rotating reference frames, centrifugal and Coriolis forces, Foucault's pendulum. A good command of calculus and some basic knowledge of linear algebra are required.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCIENCE",
+"department": "PHYSICS",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,3,4,]]
+}

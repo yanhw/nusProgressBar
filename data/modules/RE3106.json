@@ -1,0 +1,29 @@
+{
+"moduleCode": "RE3106",
+"moduleTitle": "Residential Property Management",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "RE2106 Real Estate Marketing & Negotiation",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["RE2106"]
+},
+"prerequisiteList": ["RE2106"],
+"completePrerequisite": {
+            "name": "RE3106", 
+            "children": [
+                {
+                    "name": "RE2106", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "This module covers both private and public residential real estate management. The first part covers the management of high-rise high density private condominium, which covers issues of common property management, Land Title Strata Act, responsibilities of management councils and managing agents. The second part of the modules covers public real estate polices and management. Topics include role of government and its agencies in public housing markets, market failure and public intervention; town councils, management of public housing estates; asset enhancement, upgrading schemes, and selective enbloc redevelopment scheme (SERS); and social and political aspects of public estate management.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF DESIGN AND ENVIRONMENT",
+"department": "REAL ESTATE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

@@ -1,0 +1,29 @@
+{
+"moduleCode": "NUR5403",
+"moduleTitle": "Community Mental Health",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "NUR5303 Advanced Psychopathology NUR5304 Advanced Psychosocial Interventions NUR5404 Clinical Practicum I (Mental Health)",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["NUR5404"]
+},
+"prerequisiteList": ["NUR5404"],
+"completePrerequisite": {
+            "name": "NUR5403", 
+            "children": [
+                {
+                    "name": "NUR5404", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "This module aims to encompass two major components: family therapy and community mental health. The first component will include an overview of family, family assessment, and family health promotion. Major emphases will be placed on theoretical concepts and intervention strategies to family therapy. The second part of the module is designed to provide foundations pertinent to community mental health, mental health promotion, and psychiatric home care. Strategies to provide mental health services to individuals and families dwelling in the community will be strongly emphasised.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "YONG LOO LIN SCHOOL OF MEDICINE",
+"department": "NURSING/ALICE LEE CTR FOR NURSING STUD",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

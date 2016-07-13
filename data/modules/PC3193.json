@@ -1,0 +1,43 @@
+{
+"moduleCode": "PC3193",
+"moduleTitle": "Experimental Physics II",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "PC2193",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["PC2193"]
+},
+"prerequisiteList": ["PC2193","PC1432","PC1433"],
+"completePrerequisite": {
+            "name": "PC3193", 
+            "children": [
+                {
+                    "name": "PC2193", 
+                    "children": [
+                        {
+                            "name": "and", 
+                            "children": [
+                                {
+                                    "name": "PC1432", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "PC1433", 
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This continuous assessment module is intended to provide training in experimental techniques and analytical skills. Experiments are based on various areas of physics such as spectroscopy, nuclear physics, laser physics, optics and electronics. Some experiments involve the use of research-grade equipment like the electron microscope, the atomic force microscope and the FTIR spectrophotometer. Project-type experiments are also available. The module is targeted at science and engineering students who have a foundation in Level 2 experimental physics.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCIENCE",
+"department": "PHYSICS",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

@@ -1,0 +1,138 @@
+{
+"moduleCode": "MA2213",
+"moduleTitle": "Numerical Analysis I",
+"moduleCredit": "4",
+"lockedModules":[
+            "MA4272",
+            "MA4230",
+            "MA4255",
+            "MA4268",
+            "MA4270",
+            "MA3227"
+        ],
+"preclusion": "CE2407, ME3291, CN3421, CN3411, CHE students (for breadth requirements), EVE students (for breadth requirements).",
+"prerequisite": "(MA1102R or MA1312 or MA1507 or MA1505 or MA1521 or EG1402 or EE1401 or EE1461) and (MA1101R or MA1311 or MA1508 or MA1506)",
+"preclusionList": [
+            "CN3421",
+            "ME3291",
+            "CN3411",
+            "CE2407"
+        ],
+"parsedPrerequisite": {
+            " and ": [
+                {
+                    " or ": [
+                        "MA1102R", 
+                        "MA1312", 
+                        "MA1507", 
+                        "MA1505", 
+                        "MA1521", 
+                        "EG1402", 
+                        "EE1401", 
+                        "EE1461"
+                    ]
+                }, 
+                {
+                    " or ": [
+                        "MA1101R", 
+                        "MA1311", 
+                        "MA1508", 
+                        "MA1506"
+                    ]
+                }
+            ]
+},
+"prerequisiteList": ["MA1102R","MA1312","MA1507","MA1505","MA1521","EG1402","EE1401","EE1461","MA1101R","MA1311","MA1508","MA1506"],
+"completePrerequisite": {
+            "name": "MA2213", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "or", 
+                            "children": [
+                                {
+                                    "name": "MA1102R", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "MA1312", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "MA1507", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "MA1505", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "MA1521", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "EG1402", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "EE1401", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "EE1461", 
+                                    "children": []
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "or", 
+                            "children": [
+                                {
+                                    "name": "MA1101R", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "MA1311", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "MA1508", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "MA1506", 
+                                    "children": [
+                                        {
+                                            "name": "or", 
+                                            "children": [
+                                                {
+                                                    "name": "MA1102R", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MA1505", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MA1521", 
+                                                    "children": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This is a first course on the theory and applications of numerical approximation techniques. Through the study of this module, the students will gain an understanding of how in practice mathematically formulated problems are solved using computers, and how computational errors are analysed and tackled. The students will be equipped with a number of commonly used numerical algorithms and knowledge and skill in performing numerical computation using MATLAB. The module is intended for mathematics majors and students from engineering and physical sciences. It will provide a firm basis for future study of numerical analysis and scientific computing. Major topics: Computational errors, direct method for systemsof linear equations, interpolation and approximation, numerical integration, use of MATLAB software.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCIENCE",
+"department": "MATHEMATICS",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

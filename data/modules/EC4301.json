@@ -1,0 +1,24 @@
+{
+"moduleCode": "EC4301",
+"moduleTitle": "Microeconomic Analysis III",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "EC4101",
+"prerequisite": "Cohort 2011 and before: Completed 80 MCs, including 28 MCs in EC, with a minimum CAP of 3.50 or be on the Honours track . Min avg grade point for EC3101 and EC3102 together of 4.00. Note: If student do not have the current pre-requisites for EC4301/EC4101 and EC4302/EC4102 but have: 1. passed at least 14 EC modules (or 56MCs) (inclusive of EC3101 and EC3102, and; 2. obtained an SJAP (avg grade of all EC modules) of at least 3.50, then student may submit an appeal for the prerequisite waiver using CORS. Cohort 2012 onwards: Completed 80 MCs, including 28 MCs in EC, with a minimum CAP of 3.20 or be on the Honours track. Min avg grade point for EC3101 and EC3102 together of 4.00. Note: If student do not have the current pre-requisites for EC4301/EC4101 and EC4302/EC4102 but have: 1. passed at least 14 EC modules (or 56MCs) (inclusive of EC3101 and EC3102, and; 2. obtained an SJAP (avg grade of all EC modules) of at least 3.50, then student may submit an appeal for the prerequisite waiver using CORS.",
+"preclusionList": [
+            "EC4101"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "EC4301", 
+            "children": []
+},
+"moduleDescription": "The purpose of this course is to provide students with a sound understanding of modern microeconomic theory. The first half of the course introduces the fundamental tools of microeconomic analysis. It covers consumer theory, firm theory, and general equilibrium. The second half consists of introduction to a number of topics which signify the recent development in microeconomics. These topics include decisions under uncertainty and asymmetric information, and non-cooperative game theory and its applications.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "ECONOMICS",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

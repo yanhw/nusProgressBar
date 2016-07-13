@@ -1,0 +1,29 @@
+{
+"moduleCode": "RE4204",
+"moduleTitle": "Advanced Real Estate Marketing",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "RE2106 Real Estate Marketing and Negotiation",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["RE2106"]
+},
+"prerequisiteList": ["RE2106"],
+"completePrerequisite": {
+            "name": "RE4204", 
+            "children": [
+                {
+                    "name": "RE2106", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "This module offered as a restricted elective focuses on the real estate marketing processes as well as specific real estate marketing strategies and practices that are applicable to various types of real estate, including residential, commercial and industrial developments. Its scope encompasses the latest legislative framework, under Council for Estate Agencies\u2019 purview, that governs the real estate marketing practices in Singapore as well as the use of internet marketing tools. Case studies in Singapore and overseas will be utilised as an additional teaching tool to enhance students\u2019 learning of how to market public and private sector real estate developments for sale and lease under both boom and recessionary market conditions.",
+"crossModule": "-1",
+"corequisite": "N.A.",
+"faculty": "SCHOOL OF DESIGN AND ENVIRONMENT",
+"department": "REAL ESTATE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

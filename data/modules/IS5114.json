@@ -1,0 +1,55 @@
+{
+"moduleCode": "IS5114",
+"moduleTitle": "Information Technology Outsourcing",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "CS3251 or IS3243 or equivalent",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " or ": [
+                "CS3251", 
+                "IS3243"
+            ]
+},
+"prerequisiteList": ["CS3251","IS3243","CS2250","IS1105"],
+"completePrerequisite": {
+            "name": "IS5114", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "CS3251", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "IS3243", 
+                            "children": [
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "CS2250", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "IS1105", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "IT outsourcing has a great impact on today's information technology industry. This course will provide an overview of IT outsourcing concepts and practices and discuss new directions of outsourcing in the context of Internet information management. Topics covered include: vendor management; global outsourcing; outsourcing project management and cross-border knowledge management.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF COMPUTING",
+"department": "INFORMATION SYSTEMS",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

@@ -1,0 +1,24 @@
+{
+"moduleCode": "EL4880B",
+"moduleTitle": "Exploring Second Language Writing",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "EL5880B, EL5880BR",
+"prerequisite": "Cohort 2011 and before: Completed 80 MCs, including 28 MCs in EL, with a minimum CAP of 3.50 or be on the Honours track. Cohort 2012 onwards: Completed 80 MCs, including 28 MCs in EL, with a minimum CAP of 3.20 or be on the Honours track.",
+"preclusionList": [
+            "EL5880B"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "EL4880B", 
+            "children": []
+},
+"moduleDescription": "This module explores current research in second language writing and encompasses the investigation of both processes and products of writing. The module will draw on theories principally developed from first language research. The topics addressed will include theories in writing, composing processes (planning, transcribing, and revising), methodology of writing research (concurrent think-aloud and retrospection), written text features (textual and grammatical), assessment of writing (holistic and analytical rubrics), and characteristics of writers.",
+"crossModule": "-1",
+"corequisite": "Nil",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "ENGLISH LANGUAGE & LITERATURE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

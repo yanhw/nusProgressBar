@@ -1,0 +1,24 @@
+{
+"moduleCode": "PS4213",
+"moduleTitle": "International Political Theory",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "PS3203B",
+"prerequisite": "Cohort 2011 and before: Completed 80 MCs, including 28 MCs in PS or 28 MCs in EU/LA [French/German]/recognised modules, with a minimum CAP of 3.50 or be on the Honours track. Cohort 2012 onwards: Completed 80 MCs, including 28 MCs in PS or 28 MCs in EU/LA [French/German]/recognised modules, with a minimum CAP of 3.20 or be on the Honours track.",
+"preclusionList": [
+            "PS3203B"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "PS4213", 
+            "children": []
+},
+"moduleDescription": "The issue of morality in international politics is frequently treated as marginal to the contemporary concerns of states in their international relations. Developments such as the Nuremberg Trials, the Cold War, the African Famines of the 1980s, the Genocides in ex-Yugoslavia and the emergence of wrangles over resource exploitation and environmental pollution call attention otherwise. This module equips the student with the conceptual tools and frameworks with which to comprehend and make informed decisions about these cross-boundary ethical complexities. Both Political Science majors and non-Political Science students will find this a useful supplement to studies of international politics and philosophy.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "POLITICAL SCIENCE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

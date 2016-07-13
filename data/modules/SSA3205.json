@@ -1,0 +1,26 @@
+{
+"moduleCode": "SSA3205",
+"moduleTitle": "Singapore's Foreign Policy",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "PS3219B, SS3205PS, PS3249. Students majoring in PS are precluded from taking this module.",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "SS3205P",
+            "PS3249",
+            "PS3219B"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "SSA3205", 
+            "children": []
+},
+"moduleDescription": "This module analyses Singapore's outlook towards the world with particular reference to countries in the West and Asia. It examines the following key issues affecting Singapore's foreign policy: problems of a small state, factors influencing the worldview, the key foreign policy principles and precepts, the operationalisation of relations towards different countries; and the key differences in outlook towards the world in the Cold War and post-Cold War periods. The course is mounted for students throughout NUS with interest in Singapore and particularly its foreign policy.",
+        "CrossModule": "PS3249", 
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "POLITICAL SCIENCE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

@@ -1,0 +1,50 @@
+{
+"moduleCode": "ME2114",
+"moduleTitle": "Mechanics Of Materials II",
+"moduleCredit": "3",
+"lockedModules":[
+            "ME4235",
+            "ME3211",
+            "ME4212"
+        ],
+"preclusion": "NIL",
+"prerequisite": "ME2113",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["ME2113"]
+},
+"prerequisiteList": ["ME2113","EG1109F","EG1109","CE1109X"],
+"completePrerequisite": {
+            "name": "ME2114", 
+            "children": [
+                {
+                    "name": "ME2113", 
+                    "children": [
+                        {
+                            "name": "or", 
+                            "children": [
+                                {
+                                    "name": "EG1109F", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "EG1109", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "CE1109X", 
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This course provides for a further understanding of concepts and principles of solid mechanics and its applications to engineering problems. The topics covered are: Two-dimensional systems; Combined stresses; Energy methods; Columns; Experimental stress analysis; Inelastic behaviour. This is a core module.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "MECHANICAL ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

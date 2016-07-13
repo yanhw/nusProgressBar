@@ -1,0 +1,41 @@
+{
+"moduleCode": "SA4109",
+"moduleTitle": "Advanced Web Development",
+"moduleCredit": "8",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "Have passed the following two compulsory GDipSA modules: \u00bf\u00bf SA4102: Programming and .NET Development. \u00bf\u00bf SA4105: Java Programming.",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " and ": [
+                "SA4102", 
+                "SA4105"
+            ]
+},
+"prerequisiteList": ["SA4102","SA4105"],
+"completePrerequisite": {
+            "name": "SA4109", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "SA4102", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "SA4105", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "The aim of this elective course is to allow students of the Graduate Diploma in Systems Analysis (GDipSA) to specialise in advanced web application design and development. Students will acquire the Web-related skillsets required by majority of local employers who need developers for their Web-related projects. Students will gain a robust foundation in web development techniques, focusing on .NET and Java development skills, and will learn how to design, construct and test web applications on both platforms. The course includes classroom teaching, lab exercises and hands-on design and development projects using both platforms.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "NON-FACULTY-BASED DEPARTMENTS",
+"department": "INSTITUTE OF SYSTEMS SCIENCE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

@@ -1,0 +1,22 @@
+{
+"moduleCode": "TM4101",
+"moduleTitle": "B.Tech. Dissertation",
+"moduleCredit": "12",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "Senior Level 3 Standing (For AY 2006/2007 intake & earlier); Level 4 standing (For AY 2007/2008 intake onwards)",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "TM4101", 
+            "children": []
+},
+"moduleDescription": "This module consists mainly of a research-based project carried out under the supervision of one or more faculty members. It introduces students to the basic methodology of research in the context of a problem of current research interest. The module is normally taken over two consecutive semesters, and is a core requirement of the B.Tech. programme.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "ENGINEERING",
+"department": "BACHELOR OF TECHNOLOGY PROGRAMME",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,3,0,]]
+}

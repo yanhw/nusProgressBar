@@ -1,0 +1,24 @@
+{
+"moduleCode": "LL6006V",
+"moduleTitle": "Banking Law",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "Students who are taking or have taken LL6006.",
+"prerequisite": "NUS Compulsory Core Law Curriculum or equivalent.",
+"preclusionList": [
+            "LL6006"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "LL6006V", 
+            "children": []
+},
+"moduleDescription": "This course is designed to familiarise the student with the key principles relating to the modern law of banking. Four main areas will be covered: the law of negotiable instruments, the law of payment systems, the banker customer relationship and bank regulation. Students who wish to obtain a basic knowledge of banking law will benefit from this course. It is also recommended that those who wish to specialize in banking law take this course as a foundational course, prior to studying the more advanced banking courses.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "LAW",
+"department": "LAW",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

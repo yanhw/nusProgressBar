@@ -1,0 +1,57 @@
+{
+"moduleCode": "EE3304",
+"moduleTitle": "Digital Control Systems",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "EE2010 EE3331C Feedback Control Systems",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["EE3331C"]
+},
+"prerequisiteList": ["EE3331C","EE2023","MA1506","MA1102R","MA1505","MA1521"],
+"completePrerequisite": {
+            "name": "EE3304", 
+            "children": [
+                {
+                    "name": "EE3331C", 
+                    "children": [
+                        {
+                            "name": "EE2023", 
+                            "children": [
+                                {
+                                    "name": "MA1506", 
+                                    "children": [
+                                        {
+                                            "name": "or", 
+                                            "children": [
+                                                {
+                                                    "name": "MA1102R", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MA1505", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MA1521", 
+                                                    "children": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module provides students with system theory, analysis tools and design methods in discrete-time domain. It is the first course in control and automation that systematically introduces the basic concepts and principles in sampling, Z-transform, zero-order-hold, discrete equivalence and the relations to discrete-time control design. It further examines the design issues for digital PID, PID auto-tuning, phase compensator, and the model predictive control, including the performance criteria, pole-placement, as well as numerous illustrative application examples.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "ELECTRICAL & COMPUTER ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

@@ -1,0 +1,27 @@
+{
+"moduleCode": "DSC2008",
+"moduleTitle": "Business Analytics - Data & Decisions",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "ST1131/ST1131A Introduction to Statistics, ST1232 Statistics for Life Sciences and ST2334 Probability and Statistics.",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "ST1131",
+            "ST1131A",
+            "ST1232",
+            "ST2334"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "DSC2008", 
+            "children": []
+},
+"moduleDescription": "Business decisions are often made under uncertainty. In the modern business environment, technological advances facilitate the collection of huge amounts of data which can potentially improve the decision making process. Successful businesses make use of Business Analytics and Business Intelligence, which are fundamentally based on quantitative statistical methods, to identify patterns and trends in their data which eventually lead to insightful projections and realistic predictions. This module introduces students to the fundamental concepts of statistical inference such as confidence intervals and hypothesis testing, as well as to statistical tools useful in business analysis, such as regression analysis and time series analysis.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "SCHOOL OF BUSINESS",
+"department": "DECISION SCIENCES",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

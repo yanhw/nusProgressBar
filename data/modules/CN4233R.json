@@ -1,0 +1,106 @@
+{
+"moduleCode": "CN4233R",
+"moduleTitle": "Good Manufacturing Practices in Pharmaceutical Industry",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "LSM1401 Fundamentals of Biochemistry CN2108 Chemical Engineering Laboratory I",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["CN2108"]
+},
+"prerequisiteList": ["CN2108","CN2121","CN1111F","CN1111","CN1111X","CM1502","CN2122","MA1505","MA1506","MA1102R","MA1521","LSM1401"],
+"completePrerequisite": {
+            "name": "CN4233R", 
+            "children": [
+                {
+                    "name": "CN2108", 
+                    "children": [
+                        {
+                            "name": "and", 
+                            "children": [
+                                {
+                                    "name": "CN2121", 
+                                    "children": [
+                                        {
+                                            "name": "and", 
+                                            "children": [
+                                                {
+                                                    "name": "or", 
+                                                    "children": [
+                                                        {
+                                                            "name": "CN1111F", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "CN1111", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "CN1111X", 
+                                                            "children": []
+                                                        }
+                                                    ]
+                                                }, 
+                                                {
+                                                    "name": "CM1502", 
+                                                    "children": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }, 
+                                {
+                                    "name": "CN2122", 
+                                    "children": [
+                                        {
+                                            "name": "and", 
+                                            "children": [
+                                                {
+                                                    "name": "MA1505", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MA1506", 
+                                                    "children": [
+                                                        {
+                                                            "name": "or", 
+                                                            "children": [
+                                                                {
+                                                                    "name": "MA1102R", 
+                                                                    "children": []
+                                                                }, 
+                                                                {
+                                                                    "name": "MA1505", 
+                                                                    "children": []
+                                                                }, 
+                                                                {
+                                                                    "name": "MA1521", 
+                                                                    "children": []
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }, 
+                                {
+                                    "name": "LSM1401", 
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This course covers important topics pertaining to regulatory and quality issues associated with pharmaceutical production. The two main components of the module are: regulatory aspects of pharmaceutical manufacture and analytical techniques for quality control. The concept of good manufacturing practices (GMP) and its components including standard operating procedures, documentation, validation, organization and personnel, premises, equipment, production and quality control are covered in the first half of the module. The second part of the module introduces the students to the various analytical techniques employed in pharmaceutical industry to assess drug\u2019s quality.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "CHEMICAL & BIOMOLECULAR ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

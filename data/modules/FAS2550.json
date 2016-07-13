@@ -1,0 +1,22 @@
+{
+"moduleCode": "FAS2550",
+"moduleTitle": "General Local/Global Internship",
+"moduleCredit": "2",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "FAS2550", 
+            "children": []
+},
+"moduleDescription": "This is a formal module to recognise students who embark on local or overseas internship (self-sourced or through NUS) that is usually 10 weeks long and can be up to 6 months. This module requires students to complete a minimum of 65 hours over the duration of the internship.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "DEAN'S OFFICE (ARTS & SOCIAL SC.)",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,4,]]
+}

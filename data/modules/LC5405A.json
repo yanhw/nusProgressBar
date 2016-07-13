@@ -1,0 +1,30 @@
+{
+"moduleCode": "LC5405A",
+"moduleTitle": "Law Of Intellectual Property (A)",
+"moduleCredit": "8",
+"lockedModules":[
+],
+"preclusion": "LL4405B/LL5405B/LL6405B Law of IP & LL4070/LL5070/LC5070/LL6070 Foundations of IP Law",
+"prerequisite": "NUS Compulsory Core Law Curriculum or equivalent.",
+"preclusionList": [
+            "LL5070",
+            "LC5070",
+            "LL6405B",
+            "LL5405B",
+            "LL4070",
+            "LL4405B",
+            "LL6070"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "LC5405A", 
+            "children": []
+},
+"moduleDescription": "Students will first be provided with an overview of what the various intellectual property (IP) rights in Singapore are. Thereafter, this module will launch into the specifics of the main IP rights including copyright, patents and trade marks. For each of these IP rights, selected issues relating to their subsistence (how does it arise; is registration needed; what are the registration criteria) and infringement (what exclusive rights the IP owner has; what defences are available) will be examined very closely. Students will also be encouraged to explore the inter-relationship between these IP rights on specific issues.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "LAW",
+"department": "LAW",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

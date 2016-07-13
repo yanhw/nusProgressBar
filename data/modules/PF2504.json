@@ -1,0 +1,22 @@
+{
+"moduleCode": "PF2504",
+"moduleTitle": "Materials Technology",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "PF2504", 
+            "children": []
+},
+"moduleDescription": "This module introduces the properties, characteristics, selection, specfication, assembly and inter-relationship of materials utilised in modern facilities, focusing on construction materials. Major topics are materials suitable for application in relation to weather resistance, stability, durability, damp prevention, insulation, energy conservation and fire protection. Principles relating to the weathering and corrosion of materials, especially building materials, are also covered. The coverage includes practical tests to evaluate the behaviour of selected materials under various conditions.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "SCHOOL OF DESIGN AND ENVIRONMENT",
+"department": "BUILDING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

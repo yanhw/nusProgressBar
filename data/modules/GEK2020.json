@@ -1,0 +1,24 @@
+{
+"moduleCode": "GEK2020",
+"moduleTitle": "Film Art and Human Concerns",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "GEH1053",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "GEH1053"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "GEK2020", 
+            "children": []
+},
+"moduleDescription": "Can movies engage with serious concerns? Through the close study of films by great directors, this module explores how film as an artistic medium can be used to engage with significant socio-cultural and existential concerns. Students will be taught how to analyze film as an artistic medium and, further, how film directors use the aesthetic elements of film to engage with important subjects. Through films by directors like Stanley Kubrick, Orson Welles, Wong Kar-Wai and Zhang Yimou, students get a chance to reflect on issues like the human condition, the family, the urban condition, love and society, and the nation.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "ENGLISH LANGUAGE & LITERATURE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

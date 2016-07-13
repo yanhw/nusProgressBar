@@ -1,0 +1,43 @@
+{
+"moduleCode": "SG5117",
+"moduleTitle": "Software Engineering Overseas Practicum",
+"moduleCredit": "12",
+"lockedModules":[
+],
+"preclusion": "Students that select SG5116 Software Engineering Project cannot also select the Software Engineering Overseas Practicum and vice versa.",
+"prerequisite": "Before commencing the Software Engineering Overseas Practicum, the students must successfully complete the four MTech SE core courses: SG4101 Basic Software Engineering Discipline SG5101 Object Oriented Analysis and Design SG5102 Software Project Management SG5103 Software Quality Management In addition, they must demonstrate in the electives they have taken and/or in their work experience that they have the technical background for the project being offered by NOC.",
+"preclusionList": [
+            "SG5116"
+        ],
+"parsedPrerequisite": {
+            " and ": [
+                "SG5102", 
+                "SG5103"
+            ]
+},
+"prerequisiteList": ["SG5102","SG5103"],
+"completePrerequisite": {
+            "name": "SG5117", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "SG5102", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "SG5103", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "The Software Engineering Overseas Practicum is designed to allow students to experience entrepreneurial enterprises, such as high technology start-up companies, in rapidly developing economies, such as Israel and China, and contribute to those companies by playing a significant role in the development of an advanced software product. The practicum allows students to apply their knowledge in a real world context, demonstrating their mastery of a range of Software Engineering skills, such as project management, requirements analysis, architecture and design, software construction, verification and validation. This module is conducted in collaboration with the NUS Overseas Colleges (NOC).",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "NON-FACULTY-BASED DEPARTMENTS",
+"department": "INSTITUTE OF SYSTEMS SCIENCE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

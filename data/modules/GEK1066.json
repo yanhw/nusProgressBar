@@ -1,0 +1,24 @@
+{
+"moduleCode": "GEK1066",
+"moduleTitle": "Engaging the natural environment in ASEAN",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "GEH1041",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "GEH1041"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "GEK1066", 
+            "children": []
+},
+"moduleDescription": "This module was designed as a foundation to a community service project in ASEAN. Weekly topics will provide students with an overview of history and contemporary society with a focus on the intersections between the capitalist globalization and development and some of the major consequences on poverty, inequality, migration and social change in selected ASEAN countries. The module also introduces students to debates around service learning and questions of development assistance/community service and \"volunteer tourism\"in a globalizing age. Lastly, the module provides a four week training workshop led by CELC experts where via break-out groups, students will learn hands-on simulations of proposal writing and oral presentation to potential funding agencies.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "UNIVERSITY ADMINISTRATION",
+"department": "OFFICE OF STUDENT AFFAIRS",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,3,0,]]
+}

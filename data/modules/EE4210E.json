@@ -1,0 +1,58 @@
+{
+"moduleCode": "EE4210E",
+"moduleTitle": "Computer Communications Networks II",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "CS3103",
+"prerequisite": "EE3204E or CS2105",
+"preclusionList": [
+            "CS3103"
+        ],
+"parsedPrerequisite": {
+            " or ": [
+                "EE3204E", 
+                "CS2105"
+            ]
+},
+"prerequisiteList": ["EE3204E","EE2009E","CS2105","CS1020","CS1010"],
+"completePrerequisite": {
+            "name": "EE4210E", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "EE3204E", 
+                            "children": [
+                                {
+                                    "name": "EE2009E", 
+                                    "children": []
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "CS2105", 
+                            "children": [
+                                {
+                                    "name": "CS1020", 
+                                    "children": [
+                                        {
+                                            "name": "CS1010", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "The course will enable students to know the basics and theories of Internet-related tenchologies which offer the background knowledge & skills required for computer or network engineers. Contents covered include Internet Architecture & client/server applications, Client & Server Computing, Internetworking concepts & Architectural Model, Transport protocols: UDP/TCP, TCP/IP socket programming, Routing protocols, Domain Name System, Mobile IP, and Next Generation IP.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "ENGINEERING",
+"department": "BACHELOR OF TECHNOLOGY PROGRAMME",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

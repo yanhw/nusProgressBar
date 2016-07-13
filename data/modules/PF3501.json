@@ -1,0 +1,22 @@
+{
+"moduleCode": "PF3501",
+"moduleTitle": "Intelligent Facilities",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "PF3501", 
+            "children": []
+},
+"moduleDescription": "This module covers the mechanical and electrical systems in modern facilities, with special focus on a building. It considers the principles and design of major systems such as: heating, ventilation and air conditioning systems, power generation and distribution, vertical and horizontal transportation systems,",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF DESIGN AND ENVIRONMENT",
+"department": "BUILDING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

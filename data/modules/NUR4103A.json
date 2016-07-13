@@ -1,0 +1,25 @@
+{
+"moduleCode": "NUR4103A",
+"moduleTitle": "Applied Research Methods",
+"moduleCredit": "8",
+"lockedModules":[
+            "NUR4104"
+        ],
+"preclusion": "NUR4103 Applied Research Methods is precluded",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "NUR4103"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "NUR4103A", 
+            "children": []
+},
+"moduleDescription": "This module provides the grounding for students to apply research in nursing. Major topics include an introduction to research; framing a research question; collection and analysis of quantitative data, qualitative data collection and analysis.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "YONG LOO LIN SCHOOL OF MEDICINE",
+"department": "NURSING/ALICE LEE CTR FOR NURSING STUD",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

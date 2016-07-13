@@ -1,0 +1,22 @@
+{
+"moduleCode": "EN3241",
+"moduleTitle": "Literature and Psychoanalysis",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "Cohort 2011 and before: EN1101E or GEK1000. Cohort 2012 onwards: (i) EN1101E or GEK1000, AND (ii) EN2201 or EN2202 or EN2203 or EN2204",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "EN3241", 
+            "children": []
+},
+"moduleDescription": "Since its articulation at the turn of the twentieth century, psychoanalysis has claimed a privileged relation to literature. Many of its foundational concepts sprang from Freud's life-long engagement with literature. The 'application' of psychoanalytic concepts to the interpretation of literary works will therefore be an important part of our approach. In applying theory to texts, we will identify and explore the plural and contradictory desires that make up literary discourse in particular, and the production of meaning, generally, just as our selections of literary works will help to exemplify key concepts in the psychoanalytic tradition.",
+"crossModule": "-1",
+"corequisite": "So long as students have fulfilled EN1101E/GEK1000, they may take this EN level-3000 module in the same semester as they are taking EN2201 or EN2202 or EN2203 or EN2204.",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "ENGLISH LANGUAGE & LITERATURE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

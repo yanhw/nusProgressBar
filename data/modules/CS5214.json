@@ -1,0 +1,56 @@
+{
+"moduleCode": "CS5214",
+"moduleTitle": "Design of Optimising Compilers",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "CS3212 or CS4212",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " or ": [
+                "CS3212", 
+                "CS4212"
+            ]
+},
+"prerequisiteList": ["CS3212","CS4212","CS2104","CS1020","CS1010"],
+"completePrerequisite": {
+            "name": "CS5214", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "CS3212", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "CS4212", 
+                            "children": [
+                                {
+                                    "name": "CS2104", 
+                                    "children": [
+                                        {
+                                            "name": "CS1020", 
+                                            "children": [
+                                                {
+                                                    "name": "CS1010", 
+                                                    "children": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "The performance gap between optimised and unoptimised code continues to widen as modern processors evolve. Notably, the emerging explicitly parallel instruction computing (EPIC) processors are significantly dependent on a range of aggressive program optimisations to yield performance. This module provides an in-depth study of code optimisation techniques used in compilers for state-of-the-art processors. Topics covered include structure of an optimising compiler, the program dependence graph, front end optimisations, instruction scheduling, register allocation, compiling for EPIC processors including predicated execution and software pipelining with hardware support, loop optimisations, dataflow analysis and optimisation, optimisations for the memory hierarchy, and automatic parallelisation.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF COMPUTING",
+"department": "COMPUTER SCIENCE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

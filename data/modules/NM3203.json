@@ -1,0 +1,24 @@
+{
+"moduleCode": "NM3203",
+"moduleTitle": "Copyright and New Media",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NM3880A",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "NM3880A"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "NM3203", 
+            "children": []
+},
+"moduleDescription": "This course will introduce students to fundamental principles of copyright law in the field of new media. The module will focus on copyright issues as they apply to content producers confronted with ongoing technological developments in information and communications technologies. It will review copyright issues from a socio-economic, legal and policy perspective, and will cover issues such as fair-use exceptions, the open-source movement, digital rights management and anti-circumvention and peer-topeer file sharing.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "COMMUNICATIONS AND NEW MEDIA",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

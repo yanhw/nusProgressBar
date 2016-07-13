@@ -1,0 +1,25 @@
+{
+"moduleCode": "PP5167",
+"moduleTitle": "Public Policy and Economics of Health Systems",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "Applicable to those who have taken PP5246 and PP5278",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "PP5246",
+            "PP5278"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "PP5167", 
+            "children": []
+},
+"moduleDescription": "This module is an introduction to public policy and health economics, with a special focus on the health care systems in Asia. It examines the roles and relationships between public policy in planning, implementation and evaluation processes, and different approaches of national systems in providing, regulating and paying for health care. Regional innovations in the organization, delivery and financing of health care systems will be analysed through selected country case-studies. Seminars and exercises on current topical issues include comparative health and economic policies, private-public participation in the health care industry, stakeholder analysis in health sector reforms and a final project to conduct a public policy and economic analysis of a health system in Asia.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "LEE KUAN YEW SCHOOL OF PUBLIC POLICY",
+"department": "LEE KUAN YEW SCHOOL OF PUBLIC POLICY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

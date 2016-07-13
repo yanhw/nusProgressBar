@@ -1,0 +1,24 @@
+{
+"moduleCode": "NM4213",
+"moduleTitle": "Digital Economies",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "NM3206",
+"prerequisite": "Cohort 2011 and before: (Not applicable to SOC students) Completed 80 MCs, including 28 MCs in NM, with a minimum CAP of 3.50 or be on the Honours track. (For SOC students) Completed 80 MCs and obtain a minimum CAP of 3.50. Cohort 2012 onwards: (Not applicable to SOC students) Completed 80 MCs, including 28 MCs in NM or 28 MCs in GL/GL recognised non-language modules, with a minimum CAP of 3.20 or be on the Honours track. (For SOC students) Completed 80 MCs and obtain a minimum CAP of 3.20.",
+"preclusionList": [
+            "NM3206"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "NM4213", 
+            "children": []
+},
+"moduleDescription": "This course will help students understand the concept of a digital economy and the ways in which ideas and their various expressions in new media formats are produced, communicated and exchanged in this knowledge-based economy. The module examines the main features of digital economies, presents historical perspectives on their birth and evolution, and reviews some contemporary themes, such as the debates on intellectual property and digital piracy, the appearance of commons-based and open-source models of production, issues of access to and governance of key economic resources, and the challenges posed by electronic distribution and the virtual economies of online games.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "COMMUNICATIONS AND NEW MEDIA",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

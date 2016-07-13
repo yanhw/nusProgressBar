@@ -1,0 +1,97 @@
+{
+"moduleCode": "MA3252",
+"moduleTitle": "Linear and Network Optimisation",
+"moduleCredit": "4",
+"lockedModules":[
+            "MA4272",
+            "MA4254",
+            "MA4260",
+            "MA4264"
+        ],
+"preclusion": "GM2302, MQ2204, CS3252, IC2231, DSC3214, GM3308, MA3235, BH3214, ISE students.",
+"prerequisite": "MA1101 or MA1101R or MA1306 or MA1311 or MA1508 or MA1506 or GM1306",
+"preclusionList": [
+            "GM2302",
+            "IC2231",
+            "BH3214",
+            "DSC3214",
+            "MQ2204",
+            "MA3235",
+            "CS3252",
+            "GM3308"
+        ],
+"parsedPrerequisite": {
+            " or ": [
+                "MA1101", 
+                "MA1101R", 
+                "MA1306", 
+                "MA1311", 
+                "MA1508", 
+                "MA1506", 
+                "GM1306"
+            ]
+},
+"prerequisiteList": ["MA1101","MA1101R","MA1306","MA1311","MA1508","MA1506","MA1102R","MA1505","MA1521","GM1306"],
+"completePrerequisite": {
+            "name": "MA3252", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "MA1101", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "MA1101R", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "MA1306", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "MA1311", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "MA1508", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "MA1506", 
+                            "children": [
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "MA1102R", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "MA1505", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "MA1521", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "GM1306", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "The objective of this course is to work on optimization problems which can be formulated as linear and network optimization problems. We formulate linear programming (LP) problems and solve them by the simplex method (algorithm). We also look at the geometrical aspect and develop the mathematical theory of the simplex method. We further study problems which may be formulated using graphs and networks. These optimization problems can be solved by using linear or integer programming approaches. However, due to its graphical structure, it is easier to handle these problems by using network algorithmic approaches. Applications of LP and network optimization will be demonstrated. This course should help the student in developing confidence in solving many similar problems in daily life that require much computing. Major topics: Introduction to LP: solving 2-variable LP via graphical methods. Geometry of LP: polyhedron, extreme points, existence of optimal solution at extreme point. Development of simplex method: basic solution, reduced costs and optimality condition, iterative steps in a simplex method, 2-phase method and Big-M method. Duality: dual LP, duality theory, dual simplex method. Sensitivity Analysis. Network optimization problems: minimal spanning tree problems, shortest path problems, maximal flow problems, minimum cost flow problems, salesman problems and postman problems.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCIENCE",
+"department": "MATHEMATICS",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

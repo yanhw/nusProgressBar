@@ -1,0 +1,24 @@
+{
+"moduleCode": "UTC1102M",
+"moduleTitle": "Junior Seminar: On Blindness",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "GEM1902M%",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "GEM1902M"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "UTC1102M", 
+            "children": []
+},
+"moduleDescription": "This seminar attempts to explore the relationality between seeing and knowledge. It begins with a meditation on the phrase \u201cseeing is believing\u201d; and questions the privileging of sight over all the other senses. Through a close reading of various texts, seminar participants will explore the relationality between sight and blindness\u2014are they necessarily antonyms, or are they always already a part of each other? And if they are intimately related, what are the implications on knowledge? Are we all potentially blind to our own insights?",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "NON-FACULTY-BASED DEPARTMENTS",
+"department": "TEMBUSU COLLEGE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

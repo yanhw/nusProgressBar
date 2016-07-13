@@ -1,0 +1,30 @@
+{
+"moduleCode": "PL3242",
+"moduleTitle": "Health Psychology",
+"moduleCredit": "4",
+"lockedModules":[
+            "PL3286"
+        ],
+"preclusion": "NIL",
+"prerequisite": "PL1101E",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["PL1101E"]
+},
+"prerequisiteList": ["PL1101E"],
+"completePrerequisite": {
+            "name": "PL3242", 
+            "children": [
+                {
+                    "name": "PL1101E", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "This module explores the role of psychological factors in physical health. Topics covered may include the relationship of mind and body, the role of human behaviour in health, stress and coping as they relate to health, the nature of illness, patient-practitioner relations, chronic illness and disability, death and dying, and the relationship of psychology to such important health problems as AIDS, cancer, heart disease and pain.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "PSYCHOLOGY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

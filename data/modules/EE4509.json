@@ -1,0 +1,47 @@
+{
+"moduleCode": "EE4509",
+"moduleTitle": "Silicon Micro Systems",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "EE2021 or equivalent",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["EE2021"]
+},
+"prerequisiteList": ["EE2021","EE1002","EG1108","CG1108"],
+"completePrerequisite": {
+            "name": "EE4509", 
+            "children": [
+                {
+                    "name": "EE2021", 
+                    "children": [
+                        {
+                            "name": "or", 
+                            "children": [
+                                {
+                                    "name": "EE1002", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "EG1108", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "CG1108", 
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "The module provides an introductory view of the microelectromechanical systems (MEMS) in various application areas, and also the knowledge on micromachining technology for making the physical sensors and actuators. Key topics are: MEMS design and process cycles, bulk and surface micromachining technology, structural deposition and etching, inertial, thermal sensors, actuators, micro-motors and micro-pumps, structural consideration and integration issues.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "ELECTRICAL & COMPUTER ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,0,3,0,]]
+}

@@ -1,0 +1,49 @@
+{
+"moduleCode": "ME2121",
+"moduleTitle": "Engineering Thermodynamics",
+"moduleCredit": "4",
+"lockedModules":[
+            "ME4226",
+            "ME4223",
+            "ME3221"
+        ],
+"preclusion": "NIL",
+"prerequisite": "PC1431/PC1431FC/PC1431X",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " or ": [
+                "PC1431", 
+                "PC1431F", 
+                "PC1431X"
+            ]
+},
+"prerequisiteList": ["PC1431","PC1431F","PC1431X"],
+"completePrerequisite": {
+            "name": "ME2121", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "PC1431", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "PC1431F", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "PC1431X", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This course develops a good understanding of the basic concepts and application of thermodynamics required for the analysis, modeling and design of thermal-fluid systems in engineering practice. Major topics include: Review of First and Second Laws of Thermodynamics and their applications; Reversible and Irreversible processes; Entropy; Non-flow and flow processes; Cycles involving entropy changes; Power/refrigeration and air cycles; Ideal gas mixtures; Psychrometry and applications; Fuels; Combustion and First Law applied to combustion. This is a core module.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "MECHANICAL ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

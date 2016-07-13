@@ -1,0 +1,41 @@
+{
+"moduleCode": "EL3203",
+"moduleTitle": "Semantics and Pragmatics",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "EL1101E or GEK1011",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " or ": [
+                "EL1101E", 
+                "GEK1011"
+            ]
+},
+"prerequisiteList": ["EL1101E","GEK1011"],
+"completePrerequisite": {
+            "name": "EL3203", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "EL1101E", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "GEK1011", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module introduces students to the key concepts in semantics and pragmatics. In order to test the usefulness of these concepts, students will learn to apply them to the analysis of data. The major topics covered may include some or all of the following: sense; reference; mental representation; word meaning and lexical relations, event and participant types; conceptual structure; deixis; entailment and presupposition; the role of context in interpretation; conventional and conversational implicatures; direct and indirect speech acts; and politeness.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "ENGLISH LANGUAGE & LITERATURE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

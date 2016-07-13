@@ -1,0 +1,127 @@
+{
+"moduleCode": "CN4205R",
+"moduleTitle": "Pinch Analysis and Process Integration",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "CN2125 Heat and Mass Transfer, CN3421 Process Modelling and Numerical Simulation.",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " and ": [
+                "CN2125", 
+                "CN3421"
+            ]
+},
+"prerequisiteList": ["CN2125","CN2122","MA1505","MA1506","MA1102R","MA1521","CN3421","CN1111","CN1111F","CN1111X"],
+"completePrerequisite": {
+            "name": "CN4205R", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "CN2125", 
+                            "children": [
+                                {
+                                    "name": "CN2122", 
+                                    "children": [
+                                        {
+                                            "name": "and", 
+                                            "children": [
+                                                {
+                                                    "name": "MA1505", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MA1506", 
+                                                    "children": [
+                                                        {
+                                                            "name": "or", 
+                                                            "children": [
+                                                                {
+                                                                    "name": "MA1102R", 
+                                                                    "children": []
+                                                                }, 
+                                                                {
+                                                                    "name": "MA1505", 
+                                                                    "children": []
+                                                                }, 
+                                                                {
+                                                                    "name": "MA1521", 
+                                                                    "children": []
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "CN3421", 
+                            "children": [
+                                {
+                                    "name": "and", 
+                                    "children": [
+                                        {
+                                            "name": "MA1505", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "MA1506", 
+                                            "children": [
+                                                {
+                                                    "name": "or", 
+                                                    "children": [
+                                                        {
+                                                            "name": "MA1102R", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "MA1505", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "MA1521", 
+                                                            "children": []
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "or", 
+                                            "children": [
+                                                {
+                                                    "name": "CN1111", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "CN1111F", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "CN1111X", 
+                                                    "children": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module provides students with a working knowledge of selected techniques and software in pinch analysis and process integration as well as their application to chemical processes. The first part of the module covers pinch analysis for heat integration, including data extraction and energy targeting, heat exchanger network design, integration of utilities, heat and power systems, and distillation columns. Application of pinch analysis to maximization of water re-use is also discussed. Another topic is data reconciliation and gross error detection, and their applications. This module is targeted at senior chemical engineering students.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "CHEMICAL & BIOMOLECULAR ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

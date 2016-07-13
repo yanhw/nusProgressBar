@@ -1,0 +1,76 @@
+{
+"moduleCode": "EE5907R",
+"moduleTitle": "Pattern Recognition",
+"moduleCredit": "4",
+"lockedModules":[
+            "EE6733"
+        ],
+"preclusion": "TD5133",
+"prerequisite": "EE2012 and CS1101C (Applicable to undergraduate students only)",
+"preclusionList": [
+            "TD5133"
+        ],
+"parsedPrerequisite": {
+            " and ": [
+                "EE2012", 
+                "CS1101C"
+            ]
+},
+"prerequisiteList": ["EE2012","MA1505","MA1506","MA1102R","MA1521","CS1101C"],
+"completePrerequisite": {
+            "name": "EE5907R", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "EE2012", 
+                            "children": [
+                                {
+                                    "name": "and", 
+                                    "children": [
+                                        {
+                                            "name": "MA1505", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "MA1506", 
+                                            "children": [
+                                                {
+                                                    "name": "or", 
+                                                    "children": [
+                                                        {
+                                                            "name": "MA1102R", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "MA1505", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "MA1521", 
+                                                            "children": []
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "CS1101C", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "Pattern recognition deals with automated classification, identification, and/or characterizations of signals/data from various sources. The main objectives of this graduate module are to equip students with knowledge of common statistical pattern recognition (PR) algorithms and techniques. Course will contain project-based work involving use of PR algorithms. Upon completion of this module, students will be able to analyze a given pattern recognition problem, and determine which standard technique is applicable, or be able to modify existing algorithms to engineer new algorithms to solve the problem. Topics covered include: Decision theory, Parameter estimation, Density estimation, Non-parametric techniques, Supervised learning, Dimensionality reduction, Linear discriminant functions, Clustering, Unsupervised learning, Feature extraction and Applications.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "ELECTRICAL & COMPUTER ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

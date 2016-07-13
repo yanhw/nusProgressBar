@@ -1,0 +1,25 @@
+{
+"moduleCode": "MUA1180",
+"moduleTitle": "First Year Brass Class A",
+"moduleCredit": "2",
+"lockedModules":[
+            "MUA1156",
+            "MUA1181",
+            "MUA1150"
+        ],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "MUA1180", 
+            "children": []
+},
+"moduleDescription": "First Year Brass Class (FYBC) is a class designed to introduce and familiarize the student with the skills and knowledge necessary for professional-level brass playing. The course will consist of two primary components divided over 10 sessions throughout the semester. One: \u201cLearning through Listening,\u201d will be classroom based and will introduce the history and literature of orchestral brass playing. Two: \u201cApplied Brass Techniques,\u201d will be playing based and will utilize in-class \u201cbrass lab\u201d activities to apply basic brass playing and brass ensemble techniques in a group setting.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "YONG SIEW TOH CONSERVATORY OF MUSIC",
+"department": "YONG SIEW TOH CONSERVATORY OF MUSIC",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

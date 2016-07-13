@@ -1,0 +1,22 @@
+{
+"moduleCode": "DTS5704",
+"moduleTitle": "Integrated Logistics Support",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "DTS5704", 
+            "children": []
+},
+"moduleDescription": "INTEGRATED LOGISTICS SUPPORT",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "NON-FACULTY-BASED DEPARTMENTS",
+"department": "TEMASEK DEFENCE SYSTEMS INSTITUTE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

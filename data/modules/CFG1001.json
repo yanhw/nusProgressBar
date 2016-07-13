@@ -1,0 +1,40 @@
+{
+"moduleCode": "CFG1001",
+"moduleTitle": "HeadStart Module (A Career Development Programme)",
+"moduleCredit": "0",
+"lockedModules":[
+            "ST3312",
+            "MA3311",
+            "MA3312",
+            "LSM3312",
+            "LSM3311",
+            "PR3312",
+            "ZB3311",
+            "ST3311",
+            "PC3311",
+            "PC3312",
+            "QF3311",
+            "QF3312",
+            "CM3312",
+            "CM3311",
+            "FAS2551"
+        ],
+"preclusion": "NCC1001 and CFG1000",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "CFG1000",
+            "NCC1001"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "CFG1001", 
+            "children": []
+},
+"moduleDescription": "The HeadStart Module is a five-week blended learning module that seeks to increase students' awareness of their strengths and interests and guides them in charting and maximizing their student life in pursuits of various academic programmes and co-curricular activities. Furthermore, it equips students with the knowledge and skills to differentiate and market themselves successfully for scholarships, overseas exchange programmes and internships. To enhance the learning experience for students, there are 2 online tutorials on Coursera and 3 face-to-face classroom sessions of 1.5 hours each. Students are to access the online tutorials and participate actively in the classes to fully reap the benefits of HeadStart.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "UNIVERSITY ADMINISTRATION",
+"department": "CENTRE FOR FUTURE-READY GRADUATES",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

@@ -1,0 +1,79 @@
+{
+"moduleCode": "CM4269",
+"moduleTitle": "Sustainable & Green Chemistry",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "CM1121 and CM1131 and (CM2121 or CM2101)",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " and ": [
+                "CM1121", 
+                "CM1131", 
+                {
+                    " or ": [
+                        "CM2121", 
+                        "CM2101"
+                    ]
+                }
+            ]
+},
+"prerequisiteList": ["CM1121","CM1131","CM2121","CM2101","CM1401"],
+"completePrerequisite": {
+            "name": "CM4269", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "CM1121", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "CM1131", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "or", 
+                            "children": [
+                                {
+                                    "name": "CM2121", 
+                                    "children": [
+                                        {
+                                            "name": "CM1121", 
+                                            "children": []
+                                        }
+                                    ]
+                                }, 
+                                {
+                                    "name": "CM2101", 
+                                    "children": [
+                                        {
+                                            "name": "or", 
+                                            "children": [
+                                                {
+                                                    "name": "CM1131", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "CM1401", 
+                                                    "children": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "The module covers: (i) introduction: origin, current status and future of green chemistry; (ii) concept of sustainability; (iii) environmental fate of chemicals; (iv) metrics for environmental risk evaluation of chemicals; (v) elements of green chemistry; (vi) energy balance in chemical reactions and separation processes; (vii) selectivity and yield improvements in chemical processes via statistical methods; (viii)fundamentals of industrial waste treatment; (ix) environmental consequences of burning fossil fuels for generation of energy; (x) renewable sources of fuels and chemical feedstocks; (xi) energy future beyond carbon; and (xii) advanced green chemistry techniques and process intensification",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCIENCE",
+"department": "CHEMISTRY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

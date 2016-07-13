@@ -1,0 +1,25 @@
+{
+"moduleCode": "YLG1201",
+"moduleTitle": "Beginning Classical Greek",
+"moduleCredit": "5",
+"lockedModules":[
+            "YLG2202"
+        ],
+"preclusion": "Students who have successfully completed YLG2201 Intensive Elementary Greek are not eligible for this course.",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "YLG2201"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "YLG1201", 
+            "children": []
+},
+"moduleDescription": "This is an introductory course of language instruction in ancient Attic Greek for beginners, designed to give students a decent reading level by the end of the semester. It offers four days a week instruction. As well as gaining an introductory familiarity with the syntax and vocabulary of ancient Greek texts, students will develop an associated cultural knowledge in ancient Greek society and literary/ dramatic production.",
+"crossModule": "-1",
+"corequisite": "Nil",
+"faculty": "YALE-NUS COLLEGE",
+"department": "YALE-NUS COLLEGE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

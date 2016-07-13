@@ -1,0 +1,29 @@
+{
+"moduleCode": "IE4242",
+"moduleTitle": "Cost Analysis And Management",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "IE2140",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["IE2140"]
+},
+"prerequisiteList": ["IE2140"],
+"completePrerequisite": {
+            "name": "IE4242", 
+            "children": [
+                {
+                    "name": "IE2140", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "This module introduces students to the basics of cost management. Concepts relating component items and process steps to value-added functions are introduced as a precursor to the analysis of system cost over the entire life cycle of products and services. It also deals with tools and approaches to select equipment, materials for cost-effective operations. This module enables students to cost out a system and recommend approaches to develop strategies for increasing the cost effectiveness of the system.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "INDUSTRIAL & SYSTEMS ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

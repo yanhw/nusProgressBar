@@ -1,0 +1,57 @@
+{
+"moduleCode": "FST4101",
+"moduleTitle": "Flavour Science",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "FST3104",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["FST3104"]
+},
+"prerequisiteList": ["FST3104","FST2102A","FST2106","FST1101","LSM1101"],
+"completePrerequisite": {
+            "name": "FST4101", 
+            "children": [
+                {
+                    "name": "FST3104", 
+                    "children": [
+                        {
+                            "name": "and", 
+                            "children": [
+                                {
+                                    "name": "FST2102A", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "FST2106", 
+                                    "children": [
+                                        {
+                                            "name": "and", 
+                                            "children": [
+                                                {
+                                                    "name": "FST1101", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "LSM1101", 
+                                                    "children": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module covers the chemical basis of food flavour perception and mechanism of olfaction. Study of selective biogenetic pathways of attractive flavour compounds. Aroma characteristics and flavour quality of different food products important in the region. Changes in flavour composition of foods/beverages in relation to the maturity and microbial activity or the processing.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCIENCE",
+"department": "CHEMISTRY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

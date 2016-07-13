@@ -1,0 +1,22 @@
+{
+"moduleCode": "ID3041",
+"moduleTitle": "Special Studies",
+"moduleCredit": "14",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "ID3041", 
+            "children": []
+},
+"moduleDescription": "This is a one semester involvement for attachment to industry or other institutions of design, research and development work.",
+"crossModule": "-1",
+"corequisite": "NA",
+"faculty": "SCHOOL OF DESIGN AND ENVIRONMENT",
+"department": "DIVISION OF INDUSTRIAL DESIGN",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

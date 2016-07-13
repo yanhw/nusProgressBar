@@ -1,0 +1,22 @@
+{
+"moduleCode": "MT5010",
+"moduleTitle": "Technology Intelligence & IP Strategy",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "MT5010", 
+            "children": []
+},
+"moduleDescription": "This module aims to equip students with strategic insights and analytical skills of technology, intellectual property (IP) and business competition. Effective collection and transformation of information into competitive intelligence requires a comprehensive awareness of enterprise niches and alternatives, as well as the search and analytical skills of data/information. It needs a thorough understanding of the strategic frameworks and decisions with regard to business, technology and IP. This module covers four main topics: (i) Theory and practice of strategic analysis, (ii) Technology competition models, (iii) In-house IP management and strategy, and (iv) Hands-on training of information search and intelligence analysis.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "DIVISION OF ENGINEERING AND TECH MGT",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

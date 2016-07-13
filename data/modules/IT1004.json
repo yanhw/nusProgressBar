@@ -1,0 +1,28 @@
+{
+"moduleCode": "IT1004",
+"moduleTitle": "Introduction to Electronic Commerce",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "School of Computing students; CS3266, CS4260, CS4264,CS4265 or DSC3211 or equivalent",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "CS4260",
+            "DSC3211",
+            "CS3266",
+            "CS4264",
+            "CS4265"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "IT1004", 
+            "children": []
+},
+"moduleDescription": "The Internet is a medium that no business can afford to ignore. The objective of this introductory module is to give non-computing students exposure to electronic commerce, and how it is being applied. Students will learn the basic concepts including electronic commerce infrastructure, security, privacy, threats, social and ethical issues in electronic commerce, electronic commerce payment systems, marketing on the Internet, components of B2C and B2B business models, and various actions in electronic commerce, such as retailers, auctions, portal, E-government.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF COMPUTING",
+"department": "INFORMATION SYSTEMS",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

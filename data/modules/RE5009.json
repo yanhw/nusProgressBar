@@ -1,0 +1,22 @@
+{
+"moduleCode": "RE5009",
+"moduleTitle": "Commercial Real Estate Appraisal",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "RE5009", 
+            "children": []
+},
+"moduleDescription": "This module seeks to develop an understanding of theory and contemporary approaches to valuation of retail, office and industrial properties. Topics include determination of the capitalization rates across different types of properties; appraisal of freehold and leasehold interests; critical analysis of the valuation approaches adopted for securitized real estate; asset pricing models; and application of option pricing theory to appraise various embedded lease options, investment flexibility and future redevelopment opportunities. Issues related to performance evaluation and index construction will also be covered, recognizing the illiquid and heterogeneous nature of commercial real estate.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF DESIGN AND ENVIRONMENT",
+"department": "REAL ESTATE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

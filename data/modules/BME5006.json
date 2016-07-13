@@ -1,0 +1,22 @@
+{
+"moduleCode": "BME5006",
+"moduleTitle": "Strategic Marketing and Brand Management",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "BME5006", 
+            "children": []
+},
+"moduleDescription": "The module is designed to provide executives with an understanding of marketing concepts, tools and techniques and their application in the analysis of marketing problems. The module covers topics such as the marketing concept; analysis of the marketing environment; buyer behaviour; segmentation and targeting; development of marketing programmes and elements of the marketing mix: product, pricing, promotion and distribution. Issues in integrating the marketing mix and implementing, evaluating and controlling the marketing programme in the Asian context constitute a common theme of this module.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF BUSINESS",
+"department": "DEAN'S OFFICE (BIZ)",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

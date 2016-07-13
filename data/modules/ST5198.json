@@ -1,0 +1,22 @@
+{
+"moduleCode": "ST5198",
+"moduleTitle": "Graduate Seminar Module",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "Departmental approval",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "ST5198", 
+            "children": []
+},
+"moduleDescription": "This module is a compulsory module for research students matriculated from August 04 onwards. The objectives are to encourage research students to participate in seminars and help to improve their presentation skills. It is made up of 2 components, seminar attendance and presentation",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCIENCE",
+"department": "STATISTICS & APPLIED PROBABILITY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

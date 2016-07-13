@@ -1,0 +1,55 @@
+{
+"moduleCode": "LSM4245",
+"moduleTitle": "Epigenetics and Chromatin Biology",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "LSM1102 Molecular Genetics and LSM2102 Molecular Biology",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " and ": [
+                "LSM1102", 
+                "LSM2102"
+            ]
+},
+"prerequisiteList": ["LSM1102","LSM2102","LSM1401"],
+"completePrerequisite": {
+            "name": "LSM4245", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "LSM1102", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "LSM2102", 
+                            "children": [
+                                {
+                                    "name": "and", 
+                                    "children": [
+                                        {
+                                            "name": "LSM1401", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "LSM1102", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "The aim of this module is to introduce concepts and molecular mechanism of epigenetics. Students will learn the historic discoveries of epigenetic research, DNA methylation, post-translational histone modifications, noncoding RNA, chromatin remodelling and epigenetic reprogramming. The module will focus on the role of epigenetic modifications in biological functions. The clinical applications of epigenetics will also be discussed.",
+"crossModule": "-1",
+"corequisite": "Nil",
+"faculty": "YONG LOO LIN SCHOOL OF MEDICINE",
+"department": "BIOCHEMISTRY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

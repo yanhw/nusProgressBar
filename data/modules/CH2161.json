@@ -1,0 +1,65 @@
+{
+"moduleCode": "CH2161",
+"moduleTitle": "Traditional Chinese Taxonomy of Learning",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "CH1101E and either CH2121/CL2121 or CH2141/CL2241",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " and ": [
+                "CH1101E", 
+                {
+                    " or ": [
+                        "CH2121", 
+                        "CL2121", 
+                        "CH2141", 
+                        "CL2241"
+                    ]
+                }
+            ]
+},
+"prerequisiteList": ["CH1101E","CH2121","CL2121","CH2141","CL2241"],
+"completePrerequisite": {
+            "name": "CH2161", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "CH1101E", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "or", 
+                            "children": [
+                                {
+                                    "name": "CH2121", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "CL2121", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "CH2141", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "CL2241", 
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module aims to depict the development and evolution of traditional Chinese scholarship. Topics covered include (1) Jing (&quot;Classics&quot;): Chinese classic texts; (2) Shi (&quot;Histories&quot;): Traditional historiography; (3) Zi (&quot;Masters&quot;): Miscellaneous genres philosophy, arts and science, among others, and (4) Ji (&quot;Collections&quot;): Literary Collections. Emphasis will be given to how works of different genres and nature made their ways into the so-called \u201cEmperor\u2019s Four Treasuries\u201d (Siku Quanshu), the largest collection of books in Chinese history compiled during the mid-eighteenth century based on the Quadripartite System (sibu) of knowledge classification. This course is designed for students majoring in Chinese Studies.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "CHINESE STUDIES",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

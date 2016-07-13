@@ -1,0 +1,27 @@
+{
+"moduleCode": "CL2241",
+"moduleTitle": "General History of China",
+"moduleCredit": "4",
+"lockedModules":[
+            "CH2162",
+            "CH2161"
+        ],
+"preclusion": "CH2141 and CL2141",
+"prerequisite": "Must obtain: (i) At least a B4 for (a) Higher Chinese at GCE \u2018O\u2019 Level, or (b) Chinese Language at GCE \u2018AO\u2019 Level (at GCE \u2018A\u2019 Level examination); OR (ii) At least a pass for (a) Chinese at GCE \u2018A\u2019 Level, or (b) Higher Chinese at GCE \u2018A\u2019 Level; OR (iii) At least C grade for Chinese Language (H1CL) at GCE \u2018A\u2019 Level; OR (iv) At least a pass for (a) Chinese Language and Literature (H2CLL) at GCE \u2018A\u2019 Level, or (b) Chinese Language and Literature (H3CLL) at GCE \u2018A\u2019 Level. (v) Equivalent qualifications may be accepted.",
+"preclusionList": [
+            "CH2141",
+            "CL2141"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "CL2241", 
+            "children": []
+},
+"moduleDescription": "An essential module for students majoring in Chinese Studies, this is a general survey of the socio-political and intellectual developments in China from ancient times to the Opium War (1842). The characteristics of each Chinese imperial dynasty and the relationship between China and other Asian countries will also be examined. The course is also offered to students across the University with an interest in the history of traditional China.",
+        "CrossModule": "CH2141", 
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "CHINESE STUDIES",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

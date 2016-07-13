@@ -1,0 +1,41 @@
+{
+"moduleCode": "CS3234",
+"moduleTitle": "Logic and Formal Systems",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "CS1231 or MA1100; Programming experience is preferred.",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " or ": [
+                "CS1231", 
+                "MA1100"
+            ]
+},
+"prerequisiteList": ["CS1231","MA1100"],
+"completePrerequisite": {
+            "name": "CS3234", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "CS1231", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "MA1100", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module focuses on the deductive and algorithmic aspects of both classical and non-classical logics. It introduces logic as a means for specifying, verifying and reasoning about computer programs. It emphasises, in contrast to other similar logic courses, on how logic can be used to represent computational problems, how these representations can be proven correct and how they can be executed on a computer. Topics covered include classical logic theories, logic programming, modal logic, and an introduction to non-standard logics. Treatments of predicate calculus and temporal logic are fully covered with emphasis on their specification, verification, deductive and algorithmic aspects.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF COMPUTING",
+"department": "COMPUTER SCIENCE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

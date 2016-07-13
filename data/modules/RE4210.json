@@ -1,0 +1,44 @@
+{
+"moduleCode": "RE4210",
+"moduleTitle": "Real Estate Finance Seminar",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "RE4211 REIT MANAGEMENT, RE4212 REAL ESTATE SECURITIZATION.",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["RE4212"]
+},
+"prerequisiteList": ["RE4212","RE3104","RE2104","RE1101"],
+"completePrerequisite": {
+            "name": "RE4210", 
+            "children": [
+                {
+                    "name": "RE4212", 
+                    "children": [
+                        {
+                            "name": "RE3104", 
+                            "children": [
+                                {
+                                    "name": "RE2104", 
+                                    "children": [
+                                        {
+                                            "name": "RE1101", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "Institutional investment into real estate has increased both in scale and sophistication in recent years. This module is designed to enable student to study flows of fund into real estate markets and different instruments in structured real estate financing. Topics include real estate capital market private real estate funds, real estate hedge funds, mutual and close-end funds, fund of funds, Islamic financing and issues in cross border real estate investment.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF DESIGN AND ENVIRONMENT",
+"department": "REAL ESTATE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

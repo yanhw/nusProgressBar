@@ -1,0 +1,121 @@
+{
+"moduleCode": "FIN3118",
+"moduleTitle": "Financial Risk Management",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "BH3118 or BZ3305 or FNA3118",
+"prerequisite": "FNA3101 or FIN3101",
+"preclusionList": [
+            "BH3118",
+            "BZ3305",
+            "FNA3118"
+        ],
+"parsedPrerequisite": {
+            " or ": [
+                "FNA3101", 
+                "FIN3101"
+            ]
+},
+"prerequisiteList": ["FNA3101","FIN3101","FNA2004","FIN2004","BK1003","BZ1002","BH1002","FNA1002","ACC1002","FNA1002X","ACC1002X","FNA1002E","BH1002E","EC3212","EG1422","BH2004","BZ2004","BK2004"],
+"completePrerequisite": {
+            "name": "FIN3118", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "FNA3101", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "FIN3101", 
+                            "children": [
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "FNA2004", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "FIN2004", 
+                                            "children": [
+                                                {
+                                                    "name": "or", 
+                                                    "children": [
+                                                        {
+                                                            "name": "BK1003", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "BZ1002", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "BH1002", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "FNA1002", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "ACC1002", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "FNA1002X", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "ACC1002X", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "FNA1002E", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "BH1002E", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "EC3212", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "EG1422", 
+                                                            "children": []
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "BH2004", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "BZ2004", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "BK2004", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This course covers one of the core functions of finance, namely, risk management. The objective is to introduce the fundamental concepts, principles and practices of financial risk management. The focus of the module is on the identification, measurement, monitoring and control of financial risk. It also addresses the basic financial and statistical techniques that enhance risk management decision-making.The course starts by looking at risk management concepts and the risk management process. It then examines the approaches used to identify, measure and reduce risks. Topics to be covered include risk measurement - Value-at-Risk (VAR) methods, measuring and managing market risk and credit risk, risk management applications, managing other risks such as liquidity and operational risks, regulatory and capital issues, risk-adjusted performance, and implementing a risk management programme.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF BUSINESS",
+"department": "FINANCE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

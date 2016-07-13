@@ -1,0 +1,41 @@
+{
+"moduleCode": "EC3396",
+"moduleTitle": "Economic Analysis of Law I",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "EC2102/BSP2001, EC3101 AND [(EC2104 OR ANY MA MODULE THAT IS NOT MA1301 OR MA1301FC OR MA1301X OR MA1311 OR MA1312 OR MA1421) OR EC3311]",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " and ": [
+                "MA1421", 
+                "EC3311"
+            ]
+},
+"prerequisiteList": ["MA1421","EC3311"],
+"completePrerequisite": {
+            "name": "EC3396", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "MA1421", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "EC3311", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "In this module and its sequel, economic concepts are applied to explain and clarify legal issues. The first of a sequence of two modules, this module focuses on areas in private law as well as the economics of crime and punishment. Students will be able to use economics to analyse the effects of legal rules, to explain why some legal rules are adopted and not others, and to evaluate the efficiency of legal rules. Major topics to be covered are an introduction to the economic framework that underlies much of the substance and procedures of the law, and the core areas of the common law, such as property, contract, tort and crime.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "ECONOMICS",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

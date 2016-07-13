@@ -1,0 +1,49 @@
+{
+"moduleCode": "ME3122",
+"moduleTitle": "Heat Transfer",
+"moduleCredit": "4",
+"lockedModules":[
+            "ME4225",
+            "ME4226",
+            "ME4223"
+        ],
+"preclusion": "NIL",
+"prerequisite": "PC1431FC/PC1431/PC1431X",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " or ": [
+                "PC1431F", 
+                "PC1431", 
+                "PC1431X"
+            ]
+},
+"prerequisiteList": ["PC1431F","PC1431","PC1431X"],
+"completePrerequisite": {
+            "name": "ME3122", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "PC1431F", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "PC1431", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "PC1431X", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This course covers the key concepts related to the different modes of heat transfer (conduction, convection and radiation) and principles of heat exchangers. It develops the students\u2019 proficiency in applying these heat transfer concepts and principles, to analyse and solve practical engineering problems involving heat transfer processes. Topics include introduction to heat transfer; steady state heat conduction; transient heat conduction; lumped capacitance; introduction to convective heat transfer; external forced convection; internal forced convection; natural/free convection; blackbody radiation and radiative properties; radiative exchange between surfaces; introduction to heat exchangers and basic calculation of overall heat transfer coefficient.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "MECHANICAL ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

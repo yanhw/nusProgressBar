@@ -1,0 +1,22 @@
+{
+"moduleCode": "GSN6501",
+"moduleTitle": "Neuronal Signalling",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "GSN6501", 
+            "children": []
+},
+"moduleDescription": "Signaling within and between neurons provide the basis for information processing, storage and retrieval in the brain. This module will consider several fundamental aspects of neuronal signalling, including: (1) the ionic basis of membrane excitability; (2) basic mechanisms of synaptic transmission; and (3) mechanisms of synaptic plasticity and their implications for learning and memory.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "NUS GRAD SCH FOR INTEGRATIVE SCI & ENGG",
+"department": "NUS GRAD SCH FOR INTEGRATIVE SCI & ENGG",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

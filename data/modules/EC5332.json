@@ -1,0 +1,24 @@
+{
+"moduleCode": "EC5332",
+"moduleTitle": "Money & Banking",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "EC5208",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "EC5208"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "EC5332", 
+            "children": []
+},
+"moduleDescription": "EC5332 is a first year graduate course on money, banking and financial markets. Topics covered include central banking and monetary policy, prudential supervision, financial markets and stochastic processes, the banking industry in South-East Asia, the role of price expectations, and modern theories of money, inflation, interest rates and the exchange rate. An important part of the course is the discussion of selected academic articles, with emphasis placed on the motivation and techniques underlying the theoretical and empirical work.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "ECONOMICS",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

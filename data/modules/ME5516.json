@@ -1,0 +1,22 @@
+{
+"moduleCode": "ME5516",
+"moduleTitle": "Emerging Energy Conversion and Storage Technologies",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "ME5516", 
+            "children": []
+},
+"moduleDescription": "The module provides an overview of emerging technologies for environment-friendly power generation and large-scale storage, focusing on post-silicon (organic) photovoltaics, fuel cells, and electrochemical batteries. The science behind each technology will be taught and related to the long-term economic viability, including resource limitations when going from small to large scale production, and externalities. The course will consider the link between the technology and economics of intermittent (solar, wind) energy production and those of storage as well as financial factors determining the final cost of energy.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "MECHANICAL ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

@@ -1,0 +1,92 @@
+{
+"moduleCode": "CS4234",
+"moduleTitle": "Optimisation Algorithms",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "MA1101R Linear Algebra I and CS3230 Design and Analysis of Algorithms",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " and ": [
+                "MA1101R", 
+                "CS3230"
+            ]
+},
+"prerequisiteList": ["MA1101R","CS3230","CS2010","CS1020","CS1010","CS1020E","CS1010E","CG1103","CS1231","MA1100"],
+"completePrerequisite": {
+            "name": "CS4234", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "MA1101R", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "CS3230", 
+                            "children": [
+                                {
+                                    "name": "and", 
+                                    "children": [
+                                        {
+                                            "name": "CS2010", 
+                                            "children": [
+                                                {
+                                                    "name": "or", 
+                                                    "children": [
+                                                        {
+                                                            "name": "CS1020", 
+                                                            "children": [
+                                                                {
+                                                                    "name": "CS1010", 
+                                                                    "children": []
+                                                                }
+                                                            ]
+                                                        }, 
+                                                        {
+                                                            "name": "CS1020E", 
+                                                            "children": [
+                                                                {
+                                                                    "name": "CS1010E", 
+                                                                    "children": []
+                                                                }
+                                                            ]
+                                                        }, 
+                                                        {
+                                                            "name": "CG1103", 
+                                                            "children": []
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "or", 
+                                            "children": [
+                                                {
+                                                    "name": "CS1231", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MA1100", 
+                                                    "children": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module covers common algorithmic techniques for solving optimisation problems, and introduces students to approaches for finding good-enough solutions to NP-hard problems. Topics covered include linear and integer programming, network flow algorithms, local search heuristics, approximation algorithms, and randomized algorithms. Through analysis and application of the techniques to a variety of canonical problems, students develop confidence to (i) appropriately model a given optimisation problem, (ii) apply appropriate algorithmic techniques to solve the problem, (iii) analyse the properties of the problem and candidate algorithms, such as time and space complexity, convergence, approximability, and optimality bound.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF COMPUTING",
+"department": "COMPUTER SCIENCE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

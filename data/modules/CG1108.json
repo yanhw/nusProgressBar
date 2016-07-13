@@ -1,0 +1,29 @@
+{
+"moduleCode": "CG1108",
+"moduleTitle": "Electrical Engineering",
+"moduleCredit": "4",
+"lockedModules":[
+            "EE3505C",
+            "EE2025",
+            "EE2020",
+            "EE2021"
+        ],
+"preclusion": "EG1108/EE1002",
+"prerequisite": "H1 Physics or H2 Physics or \u2018A\u2019 Level Physics or PC1222 Fundamentals of Physics II",
+"preclusionList": [
+            "EE1002",
+            "EG1108"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "CG1108", 
+            "children": []
+},
+"moduleDescription": "This course prepares students for computer engineering. It is intended to teach basic circuit principles in electrical engineering. The course covers DC and AC circuit analysis techniques and applications. The circuit principles are enhanced through a series of miniprojects which shall be carried out by students in groups of 2 or 3. In this course, students also learn about the importance of resourcefulness, teamwork, integrity and communications.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "JOINT MULTI-DISCIPLINARY PROGRAMMES",
+"department": "COMPUTING & ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

@@ -1,0 +1,22 @@
+{
+"moduleCode": "PH3203",
+"moduleTitle": "Moral Philosophy",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "PH3203", 
+            "children": []
+},
+"moduleDescription": "This module is concerned with an area in Moral Philosophy called 'meta-ethics'. Meta-ethics is a discussion of the nature of ethics. It is a second-order, reflective activity about ethics, and not a first-order discussion of the rights and wrongs of particular issues within ethics. Beginning with non-naturalism, the module proceeds to discuss emotivism, prescriptivism, descriptivism or naturalism, culminating in current discussion of moral realism.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "PHILOSOPHY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

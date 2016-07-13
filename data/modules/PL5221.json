@@ -1,0 +1,74 @@
+{
+"moduleCode": "PL5221",
+"moduleTitle": "Analysis Of Psychological Data Using Glm",
+"moduleCredit": "4",
+"lockedModules":[
+            "PL5225",
+            "PL5225R"
+        ],
+"preclusion": "PL5102/PL6102",
+"prerequisite": "PL2101Y/PL2131 and PL2132 or consent of Instructor",
+"preclusionList": [
+            "PL6102",
+            "PL5102"
+        ],
+"parsedPrerequisite": {
+            " and ": [
+                {
+                    " or ": [
+                        "PL2101Y", 
+                        "PL2131"
+                    ]
+                }, 
+                "PL2132"
+            ]
+},
+"prerequisiteList": ["PL2101Y","PL2131","PL2132","PL1101E"],
+"completePrerequisite": {
+            "name": "PL5221", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "or", 
+                            "children": [
+                                {
+                                    "name": "PL2101Y", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "PL2131", 
+                                    "children": []
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "PL2132", 
+                            "children": [
+                                {
+                                    "name": "and", 
+                                    "children": [
+                                        {
+                                            "name": "PL1101E", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "PL2131", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module addresses the use of the general linear for the analysis of psychological data including multiple regression and various forms of analysis of variance. Among the topics that may be covered are correlation and multiple regression, randomized groups analysis of variance, repeated measures analysis of variance, and mixed models. Emphasis will be placed on the development of skills through hands-on data analysis and interpretation.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "PSYCHOLOGY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

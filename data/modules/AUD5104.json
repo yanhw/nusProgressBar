@@ -1,0 +1,26 @@
+{
+"moduleCode": "AUD5104",
+"moduleTitle": "Perception of Sound & Speech",
+"moduleCredit": "2",
+"lockedModules":[
+            "AUD5105",
+            "AUD5111",
+            "AUD5112",
+            "AUD5106"
+        ],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "AUD5104", 
+            "children": []
+},
+"moduleDescription": "This module provides an understanding of the psychological theory of pitch and loudness perception, the relationship between physically measurable parameters of sound (e.g. frequency, intensity) and the psychological concepts of pitch and loudness, the psychoacoustic methods for determining the detection and discrimination ability of the auditory system, the acoustic features of different speech sounds, binaural hearing and the effect of masking.",
+"crossModule": "-1",
+"corequisite": "AUD5101: Acoustics",
+"faculty": "YONG LOO LIN SCHOOL OF MEDICINE",
+"department": "DIVISION OF GRADUATE MEDICAL STUDIES",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

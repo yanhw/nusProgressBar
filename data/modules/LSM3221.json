@@ -1,0 +1,77 @@
+{
+"moduleCode": "LSM3221",
+"moduleTitle": "Human Pharmacology",
+"moduleCredit": "4",
+"lockedModules":[
+            "LSM4212",
+            "LSM4211"
+        ],
+"preclusion": "NIL",
+"prerequisite": "LSM3211",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["LSM3211"]
+},
+"prerequisiteList": ["LSM3211","LSM2101","LSM1101","LSM1401","LSM2103","LSM1102"],
+"completePrerequisite": {
+            "name": "LSM3221", 
+            "children": [
+                {
+                    "name": "LSM3211", 
+                    "children": [
+                        {
+                            "name": "or", 
+                            "children": [
+                                {
+                                    "name": "LSM2101", 
+                                    "children": [
+                                        {
+                                            "name": "or", 
+                                            "children": [
+                                                {
+                                                    "name": "LSM1101", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "LSM1401", 
+                                                    "children": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }, 
+                                {
+                                    "name": "LSM2103", 
+                                    "children": [
+                                        {
+                                            "name": "or", 
+                                            "children": [
+                                                {
+                                                    "name": "LSM1101", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "LSM1401", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "LSM1102", 
+                                                    "children": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module introduces the pharmacological treatment of human disease. The module will discuss the principles of therapeutics, human pharmacokinetics and the actions of drugs on major organ systems in the human body. Examples of drugs used to treat diseases and disorders of the cardiovascular, endocrine, and nervous systems will be discussed.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "YONG LOO LIN SCHOOL OF MEDICINE",
+"department": "PHARMACOLOGY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

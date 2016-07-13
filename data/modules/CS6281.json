@@ -1,0 +1,22 @@
+{
+"moduleCode": "CS6281",
+"moduleTitle": "Topics in Computer Science II",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "CS6281", 
+            "children": []
+},
+"moduleDescription": "For the upcoming AY, we propose to mount CS6281 on the topic of \u201cUser Generated Content Analyses using Automated Discourse Processing\u201d with the following description: This module will examine the automated analyses of textual user generated content -- e.g., social media, student essays and scientific documents -- using state-of-the-art natural language processing tools and frameworks for discourse understand. In particular, we will focus on applications and analyses that emphasize the effects of dialogue and discourse processing: inclusive of argument mining, helpfulness prediction, automated summarization, revision analysis, discourse parsing, error correction/detection, corpus creation, social media. We will also investigate educational applications in detail, inclusive of peer review, automatic grading, and learning analytics.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF COMPUTING",
+"department": "COMPUTER SCIENCE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

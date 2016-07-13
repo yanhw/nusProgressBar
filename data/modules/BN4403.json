@@ -1,0 +1,47 @@
+{
+"moduleCode": "BN4403",
+"moduleTitle": "Cellular Bioengineering",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "LSM2103",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["LSM2103"]
+},
+"prerequisiteList": ["LSM2103","LSM1101","LSM1401","LSM1102"],
+"completePrerequisite": {
+            "name": "BN4403", 
+            "children": [
+                {
+                    "name": "LSM2103", 
+                    "children": [
+                        {
+                            "name": "or", 
+                            "children": [
+                                {
+                                    "name": "LSM1101", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "LSM1401", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "LSM1102", 
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "A multidisciplinary module which describes the processes on a cellular level. It provides the link between molecular level biochemical and biophysical phenomena and the processes on the physiological level, where specifics of tissue and organs become important. Cellular mechanisms of solvent, noncharged solutes and ions transport through ion channels in relationship to bioelectric phenomena and cellular homeostasis will be described. The module explains how do the cells maintain their composition, structure and volume, how do they form membrane potential and how do they communicate and form the contacts in epithelium.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "BIOMEDICAL ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

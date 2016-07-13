@@ -1,0 +1,24 @@
+{
+"moduleCode": "SC4401",
+"moduleTitle": "Honours Thesis",
+"moduleCredit": "15",
+"lockedModules":[
+],
+"preclusion": "SC4660",
+"prerequisite": "Completed 110 MCs including 60 MCs of SC major requirements with a minimum SJAP of 4.00 and CAP of 3.50. Students may seek a waiver of the SJAP pre-requisite from the department if they have a minimum CAP of 4.25 after completing 110 MCs.",
+"preclusionList": [
+            "SC4660"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "SC4401", 
+            "children": []
+},
+"moduleDescription": "This module requires students to conduct an independent research project on an approved topic under the supervision of an academic staff. The research project, which usually includes some fieldwork, will be submitted as an Honours Thesis.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "SOCIOLOGY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

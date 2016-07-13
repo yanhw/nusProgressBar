@@ -1,0 +1,22 @@
+{
+"moduleCode": "MDG5223",
+"moduleTitle": "Stem Cells and Regenerative Medicine",
+"moduleCredit": "2",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "MDG5223", 
+            "children": []
+},
+"moduleDescription": "This module is designed to introduce students to stem cell biology, their origins, properties, function in tissue repair/regeneration, and utility in therapy. Major topics are 1) ES cells 2) Neural stem cells 3) Muscle stem cells 4) Stem cells and cancer 5) Hematopoeitic stem cells 6) Mesenchymal stem cells 7) Induced pluripotent stem cells.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "YONG LOO LIN SCHOOL OF MEDICINE",
+"department": "DEAN'S OFFICE (MEDICINE)",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

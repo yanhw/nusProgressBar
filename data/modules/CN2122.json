@@ -1,0 +1,64 @@
+{
+"moduleCode": "CN2122",
+"moduleTitle": "Fluid Mechanics",
+"moduleCredit": "4",
+"lockedModules":[
+            "CN2125",
+            "CN3135",
+            "BN3501",
+            "BN4202",
+            "CN2108"
+        ],
+"preclusion": "NIL",
+"prerequisite": "MA1505, MA1506",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " and ": [
+                "MA1505", 
+                "MA1506"
+            ]
+},
+"prerequisiteList": ["MA1505","MA1506","MA1102R","MA1521"],
+"completePrerequisite": {
+            "name": "CN2122", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "MA1505", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "MA1506", 
+                            "children": [
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "MA1102R", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "MA1505", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "MA1521", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module considers the classification of fluids and their properties, followed by the analysis of static fluid. The integral and differential forms of the fundamental equations ? Continuity, Momentum and Energy equations are then studied. The concept of momentum transfer by the shear stress is introduced in this course. Dimensional analysis and model theory are studied. The concept about boundary layer theory, flow with pressure gradient, viscous flow and turbulence are also described. Practical aspect involves the consideration of flows in closed conduits. At the end of the course, basic concepts regarding fluid machinery are also covered.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "CHEMICAL & BIOMOLECULAR ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

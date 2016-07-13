@@ -1,0 +1,24 @@
+{
+"moduleCode": "GEH1009",
+"moduleTitle": "Framing Bollywood: Unpacking The Magic",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "GEM1050",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "GEM1050"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "GEH1009", 
+            "children": []
+},
+"moduleDescription": "Bollywood Cinema is recognised as the most vibrant form of cultural media in India, one whose influence now extends to many parts of the world. By studying the content and meaning of selected Bollywood films, this module will introduce students to key social, economic, political and cultural issues in India, and explore important concepts in the humanities and social sciences such as nationalism, gender and sexuality, diaspora and globalisation.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "SOUTH ASIAN STUDIES PROGRAMME",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

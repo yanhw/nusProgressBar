@@ -1,0 +1,60 @@
+{
+"moduleCode": "CN2125E",
+"moduleTitle": "Heat And Mass Transfer",
+"moduleCredit": "4",
+"lockedModules":[
+            "CN4205E",
+            "CN3132E",
+            "CN4118E"
+        ],
+"preclusion": "TC2115",
+"prerequisite": "TC2112/ CN2122E",
+"preclusionList": [
+            "TC2115"
+        ],
+"parsedPrerequisite": {
+            " or ": [
+                "TC2112", 
+                "CN2122E"
+            ]
+},
+"prerequisiteList": ["TC2112","CN2122E","TC1402","TC2401"],
+"completePrerequisite": {
+            "name": "CN2125E", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "TC2112", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "CN2122E", 
+                            "children": [
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "TC1402", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "TC2401", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "ENGINEERING",
+"department": "BACHELOR OF TECHNOLOGY PROGRAMME",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

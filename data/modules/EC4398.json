@@ -1,0 +1,22 @@
+{
+"moduleCode": "EC4398",
+"moduleTitle": "Economics of Inequality",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "Cohort 2011 and before: Completed 80 MCs, including 28 MCs in EC, with a minimum CAP of 3.50 or be on the Honours track. EC3101, EC3102, and EC3303. Students should either have taken or currently taking EC3304 in the same semester. Cohort 2012 and after: Completed 80 MCs, including 28 MCs in EC, with a minimum CAP of 3.20 or be on the Honours track. EC3101, EC3102, and EC3303. Students should either have taken or currently taking EC3304 in the same semester.",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "EC4398", 
+            "children": []
+},
+"moduleDescription": "This module analyses inequality within a country, across countries, and across generations. We will study mechanisms of inequality such as discrimination and segregation. We will also investigate the role of institutions in creating and perpetuating inequality. Finally, we will examine social mobility.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "ECONOMICS",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

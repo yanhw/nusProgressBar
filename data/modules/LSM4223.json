@@ -1,0 +1,169 @@
+{
+"moduleCode": "LSM4223",
+"moduleTitle": "Advances in Antimicrobial Strategies",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "LSM3232 or LSM3225",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " or ": [
+                "LSM3232", 
+                "LSM3225"
+            ]
+},
+"prerequisiteList": ["LSM3232","LSM2101","LSM1101","LSM1401","LSM2102","LSM1102","LSM2103","LSM3225"],
+"completePrerequisite": {
+            "name": "LSM4223", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "LSM3232", 
+                            "children": [
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "LSM2101", 
+                                            "children": [
+                                                {
+                                                    "name": "or", 
+                                                    "children": [
+                                                        {
+                                                            "name": "LSM1101", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "LSM1401", 
+                                                            "children": []
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "LSM2102", 
+                                            "children": [
+                                                {
+                                                    "name": "and", 
+                                                    "children": [
+                                                        {
+                                                            "name": "LSM1401", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "LSM1102", 
+                                                            "children": []
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "LSM2103", 
+                                            "children": [
+                                                {
+                                                    "name": "or", 
+                                                    "children": [
+                                                        {
+                                                            "name": "LSM1101", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "LSM1401", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "LSM1102", 
+                                                            "children": []
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "LSM3225", 
+                            "children": [
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "LSM2101", 
+                                            "children": [
+                                                {
+                                                    "name": "or", 
+                                                    "children": [
+                                                        {
+                                                            "name": "LSM1101", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "LSM1401", 
+                                                            "children": []
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "LSM2102", 
+                                            "children": [
+                                                {
+                                                    "name": "and", 
+                                                    "children": [
+                                                        {
+                                                            "name": "LSM1401", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "LSM1102", 
+                                                            "children": []
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "LSM2103", 
+                                            "children": [
+                                                {
+                                                    "name": "or", 
+                                                    "children": [
+                                                        {
+                                                            "name": "LSM1101", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "LSM1401", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "LSM1102", 
+                                                            "children": []
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "An advanced course in the study of infectious diseases of man with emphasis on new and emerging infections as well as those of major clinical/economic importance. Core topics include understanding the principles and practice of Medical Microbiology, the nature and emergence of antimicrobial resistance, changing epidemiology of infections and laboratory diagnosis using classical diagnostic techniques and current molecular approaches. Seminars will be conducted as team presentations to explore current topics on infectious diseases in depth. A strong practical component is included.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "YONG LOO LIN SCHOOL OF MEDICINE",
+"department": "MICROBIOLOGY & IMMUNOLOGY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

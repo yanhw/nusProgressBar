@@ -1,0 +1,71 @@
+{
+"moduleCode": "IE2100",
+"moduleTitle": "Probability Models With Applications",
+"moduleCredit": "4",
+"lockedModules":[
+            "IE4220",
+            "IE3120",
+            "IE4299",
+            "IE3100R",
+            "IE3110"
+        ],
+"preclusion": "BH3215, DSC3215",
+"prerequisite": "ST2131",
+"preclusionList": [
+            "DSC3215",
+            "BH3215"
+        ],
+"parsedPrerequisite": {
+" and ": ["ST2131"]
+},
+"prerequisiteList": ["ST2131","MA1102","MA1102R","MA1312","MA1507","MA1505","MA1505C","MA1521"],
+"completePrerequisite": {
+            "name": "IE2100", 
+            "children": [
+                {
+                    "name": "ST2131", 
+                    "children": [
+                        {
+                            "name": "or", 
+                            "children": [
+                                {
+                                    "name": "MA1102", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "MA1102R", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "MA1312", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "MA1507", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "MA1505", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "MA1505C", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "MA1521", 
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "The module builds upon the foundation in ST2131 and stresses on applications of stochastic modeling. Topics include: Review of exponential distribution; Conditional probability and conditional expectation; discrete time Markov chains; Poisson process; Basic queuing models and continuous time Markov chains and Renewal Theory. Students will eventually be conversant with the properties of these models and appreciate their roles in engineering applications.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "INDUSTRIAL & SYSTEMS ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

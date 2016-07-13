@@ -1,0 +1,110 @@
+{
+"moduleCode": "FIN3119",
+"moduleTitle": "Risk and Insurance",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "BH3119 or BZ3311 or FNA3119",
+"prerequisite": "FNA2004 or FIN2004 or BH2004 or BZ2004 or BK2004",
+"preclusionList": [
+            "BH3119",
+            "FNA3119",
+            "BZ3311"
+        ],
+"parsedPrerequisite": {
+            " or ": [
+                "FNA2004", 
+                "FIN2004", 
+                "BH2004", 
+                "BZ2004", 
+                "BK2004"
+            ]
+},
+"prerequisiteList": ["FNA2004","FIN2004","BK1003","BZ1002","BH1002","FNA1002","ACC1002","FNA1002X","ACC1002X","FNA1002E","BH1002E","EC3212","EG1422","BH2004","BZ2004","BK2004"],
+"completePrerequisite": {
+            "name": "FIN3119", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "FNA2004", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "FIN2004", 
+                            "children": [
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "BK1003", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "BZ1002", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "BH1002", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "FNA1002", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "ACC1002", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "FNA1002X", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "ACC1002X", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "FNA1002E", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "BH1002E", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "EC3212", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "EG1422", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "BH2004", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "BZ2004", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "BK2004", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "Business entities and individuals are exposed to substantial risk associated with losses to property, income, and wealth because of damage to assets, legal liability, disability, retirement, and death. Costs associated with legal liability and employee benefit programmes, particularly Central Provident Fund (CPF) and health care, have become matters of deep concern to company management. Individuals seeking coverage of their professional and personal risks have similar concerns. This course analyses the nature and impact of these risks and discusses appropriate risk management techniques. The emphasis is on the analysis and management of these problems for business entities, but these are substantial implications for the problems faced by individual and society. Topics to be covered include risk identification and measurement; risk control and transfer; risk financing with commercial insurance; self-insurance; captive insurance programmes; insurance markets and regulation; employee benefits and CPF; life and health insurance; personal financial planning; international risk management and insurance for multi-national corporations.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF BUSINESS",
+"department": "FINANCE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

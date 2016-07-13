@@ -1,0 +1,43 @@
+{
+"moduleCode": "FST4102",
+"moduleTitle": "Advanced Food Processing Technology",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "FST3103",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["FST3103"]
+},
+"prerequisiteList": ["FST3103","FST1101","CM2161"],
+"completePrerequisite": {
+            "name": "FST4102", 
+            "children": [
+                {
+                    "name": "FST3103", 
+                    "children": [
+                        {
+                            "name": "and", 
+                            "children": [
+                                {
+                                    "name": "FST1101", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "CM2161", 
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module provides an in-depth study of the modern food processing methods, newly developed food packaging systems, and the advanced control of food processes. Topics include high pressure processing, pulsed electric fields processing, irradiation, active packaging technologies, instrumentation technology, and process control techniques.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCIENCE",
+"department": "CHEMISTRY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

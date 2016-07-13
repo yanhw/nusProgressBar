@@ -1,0 +1,42 @@
+{
+"moduleCode": "LAF3202",
+"moduleTitle": "French 4",
+"moduleCredit": "4",
+"lockedModules":[
+            "LAF4201"
+        ],
+"preclusion": "LAF3203",
+"prerequisite": "Passed LAF3201 or placement test.",
+"preclusionList": [
+            "LAF3203"
+        ],
+"parsedPrerequisite": {
+" and ": ["LAF3201"]
+},
+"prerequisiteList": ["LAF3201","LAF2201","LAF1201"],
+"completePrerequisite": {
+            "name": "LAF3202", 
+            "children": [
+                {
+                    "name": "LAF3201", 
+                    "children": [
+                        {
+                            "name": "LAF2201", 
+                            "children": [
+                                {
+                                    "name": "LAF1201", 
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "Students will be taught to comprehend longer listening and reading texts on more complex topics of general interest as well as on aspects of French culture, society and life. They will also acquire the ability to express their views and communicate meaningfully on the same topics at greater length, both in writing and orally. In the area of grammar and vocabulary, the focus will shift more towards textlinguistic and pragmatic features. Language learning skills and strategies will include recognising and applying common linguistic and sociolinguistic norms in the use of the French language. The assessment for this module is 100% Continuous Assessment.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "CENTRE FOR LANGUAGE STUDIES",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

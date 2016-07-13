@@ -1,0 +1,22 @@
+{
+"moduleCode": "PH5420R",
+"moduleTitle": "Advanced Political Philosophy",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "PH5420R", 
+            "children": []
+},
+"moduleDescription": "This module invites students to engage in normative thinking about a range of issues related to politics, most of which have to do with questions about the legitimate exercise of political power. We will consider liberal views of political legitimacy and various criticisms of these views. These debates concern issues such as liberty, equality, moral values, and rights.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "PHILOSOPHY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

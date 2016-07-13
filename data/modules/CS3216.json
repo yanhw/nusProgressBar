@@ -1,0 +1,61 @@
+{
+"moduleCode": "CS3216",
+"moduleTitle": "Software Development on Evolving Platforms",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "CS2103/CS2103T or with special approval from instructor. Students will submit personal statements to apply for a place in the course instead of bidding through the CORS system.",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " or ": [
+                "CS2103", 
+                "CS2103T"
+            ]
+},
+"prerequisiteList": ["CS2103","CS1020","CS1010","CS2103T"],
+"completePrerequisite": {
+            "name": "CS3216", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "CS2103", 
+                            "children": [
+                                {
+                                    "name": "CS1020", 
+                                    "children": [
+                                        {
+                                            "name": "CS1010", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "CS2103T", 
+                            "children": [
+                                {
+                                    "name": "CS1020", 
+                                    "children": [
+                                        {
+                                            "name": "CS1010", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module is a follow-up of CS3217 on the practice of software engineering on modern application platforms such as mobile devices, the Web and cloud systems. Students will work in small project teams to develop well-tested, production-quality software. This module focuses on the design and rapid iterative development of real-world applications. Students will analyse user needs, design and develop applications that meet user needs, and address user feedback of the applications. Students will also learn rapid development using APIs, Open Source tools and other modern tools, and deployment of the applications in the Web or cloud system.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF COMPUTING",
+"department": "COMPUTER SCIENCE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

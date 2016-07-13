@@ -1,0 +1,118 @@
+{
+"moduleCode": "FIN3103",
+"moduleTitle": "Financial Markets",
+"moduleCredit": "4",
+"lockedModules":[
+            "FIN4112G",
+            "FIN4112H",
+            "FIN3120C",
+            "FIN3120E",
+            "FIN3120D"
+        ],
+"preclusion": "BH3103 or BZ3303 or BK3102 or FNA3103 or FIN3103A or FIN3103B",
+"prerequisite": "FNA2004 or FIN2004 or BH2004 or BZ2004 or BK2004",
+"preclusionList": [
+            "BH3103",
+            "BK3102",
+            "BZ3303",
+            "FNA3103",
+            "FIN3103A",
+            "FIN3103B"
+        ],
+"parsedPrerequisite": {
+            " or ": [
+                "FNA2004", 
+                "FIN2004", 
+                "BH2004", 
+                "BZ2004", 
+                "BK2004"
+            ]
+},
+"prerequisiteList": ["FNA2004","FIN2004","BK1003","BZ1002","BH1002","FNA1002","ACC1002","FNA1002X","ACC1002X","FNA1002E","BH1002E","EC3212","EG1422","BH2004","BZ2004","BK2004"],
+"completePrerequisite": {
+            "name": "FIN3103", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "FNA2004", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "FIN2004", 
+                            "children": [
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "BK1003", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "BZ1002", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "BH1002", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "FNA1002", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "ACC1002", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "FNA1002X", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "ACC1002X", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "FNA1002E", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "BH1002E", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "EC3212", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "EG1422", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "BH2004", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "BZ2004", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "BK2004", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This course seeks to provide an understanding of the role of financial markets in the economy. Topics to be covered include the importance of the structure (architecture) of the financial system, the functions of markets and institutions, and their implications for resource mobilisation, resource allocation, allocative efficiency, and risk management. In addition, we consider the structure of financial markets for different instruments, the range of instruments traded therein, and the mechanisms facilitating trade in financial assets, and an assessment of the structure and efficiency of these markets in Singapore vis-&#224;-vis similar markets in other industrialised economies. To assess issues of efficiency and market structure, the course will include frequent references to markets in other economies, including the US, Australia, the UK, Hong Kong as well as other emerging market economics.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF BUSINESS",
+"department": "FINANCE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

@@ -1,0 +1,22 @@
+{
+"moduleCode": "PR5151",
+"moduleTitle": "Acute Care Medicine Clerkship",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "Acceptance in the Pharm.D. program or by permission",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "PR5151", 
+            "children": []
+},
+"moduleDescription": "This 5-week, full-time clinical clerkship is designed to develop the student\u2019s clinical knowledge and skills in the area of acute care medicine. Students will be able to apply this knowledge to the management of patients with a variety of acute and chronic medical conditions. This is a compulsory clerkship.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "SCIENCE",
+"department": "PHARMACY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

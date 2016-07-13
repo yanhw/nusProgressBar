@@ -1,0 +1,22 @@
+{
+"moduleCode": "AR2222",
+"moduleTitle": "History & Theory Of Western Architecture",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "AR2222", 
+            "children": []
+},
+"moduleDescription": "This module serves to introduce students to the development of architectural thoughts, ideas and works in Europe and the west. It will enable students to understand the development of western architecture and their influence on world architecture. Topics - The module examines the basic knowledge of architectural design and theories that constitute and is constituted by established European historical materials from Greek and Roman architecture to 19th century eclecticism. Although the historical materials centered around architectural thoughts and development, their connections to cultural and social history are also explored.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF DESIGN AND ENVIRONMENT",
+"department": "ARCHITECTURE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

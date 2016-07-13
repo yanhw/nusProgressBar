@@ -1,0 +1,22 @@
+{
+"moduleCode": "CSA6770",
+"moduleTitle": "Graduate Research Seminar",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "CSA6770", 
+            "children": []
+},
+"moduleDescription": "This is a required module for all PhD candidates in Cultural Studies in Asia programme. It is a forum for candidates to engage each other in critical discussion of their dissertation and other research projects. Each candidate is required to present a formal research paper. Active participation from each is expected. The module will be graded Satisfactory/Unsatisfactory' on the basis of a candidate's presentation and participation in discussions throughout the semester.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "SOCIOLOGY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

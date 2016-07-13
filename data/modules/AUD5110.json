@@ -1,0 +1,41 @@
+{
+"moduleCode": "AUD5110",
+"moduleTitle": "Vestibular Assessment and Management A",
+"moduleCredit": "3",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "AUD5102 Anatomy & Physiology AUD5103 Pathologies of the Auditory System",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " and ": [
+                "AUD5102", 
+                "AUD5103"
+            ]
+},
+"prerequisiteList": ["AUD5102","AUD5103"],
+"completePrerequisite": {
+            "name": "AUD5110", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "AUD5102", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "AUD5103", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module provides an understanding of the background, techniques, interpretation and the usefulness of caloric test, ocular motility, positional and positioning testing on patients with balance disorder. The module involves lecture and clinical practicum with guided and structured observation, whereby students will get an opportunity to observe experienced Audiologist performing caloric and ocular motor tests on patients with balance disorder.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "YONG LOO LIN SCHOOL OF MEDICINE",
+"department": "DIVISION OF GRADUATE MEDICAL STUDIES",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

@@ -1,0 +1,63 @@
+{
+"moduleCode": "MLE2104",
+"moduleTitle": "Mechanical Properties of Materials",
+"moduleCredit": "4",
+"lockedModules":[
+            "MLE4101R",
+            "PC3242",
+            "PC3241",
+            "MLE3103",
+            "MLE4206",
+            "MLE2106",
+            "MLE4101"
+        ],
+"preclusion": "NIL",
+"prerequisite": "EG1109FC/EG1109/CE1109X or MLE1101 or MLE2101",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " or ": [
+                "EG1109F", 
+                "EG1109", 
+                "CE1109X", 
+                "MLE1101", 
+                "MLE2101"
+            ]
+},
+"prerequisiteList": ["EG1109F","EG1109","CE1109X","MLE1101","MLE2101"],
+"completePrerequisite": {
+            "name": "MLE2104", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "EG1109F", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "EG1109", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "CE1109X", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "MLE1101", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "MLE2101", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "Stress and strain of material; Elastic deformation: Young\u2019s modulus, Poisson\u2019s ratio, stress-strain relation, stiffness/compliance matrix; Dislocations: Edge/screw/mixed dislocation, burgers vectors, twining, stress field of dislocation, dislocation interaction; Plastic deformation of single and polycrystalline materials: Schmid\u2019s law, plastic flow; Inelastic deformation: Viscosity, deformation of inorganic glasses, deformation of noncrystalline and crystalline polymers; Mechanical fracture: ductile and brittle facture, creep, fatigue; Testing methods.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "ENGINEERING",
+"department": "MATERIALS SCIENCE AND ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

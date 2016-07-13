@@ -1,0 +1,22 @@
+{
+"moduleCode": "MS2213",
+"moduleTitle": "Malay Families and Households",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "MS2213", 
+            "children": []
+},
+"moduleDescription": "This module aims to provide an understanding of contemporary forms and practices of Malay families and households. It discusses the underlying concepts in family studies and prevalent notions of the Malay family and household derived from earlier studies. A major focus is to show the changing nature of Malay family and household structures as well as their diverse forms. Furthermore, the dynamic social relationships in households will be analyzed from different perspectives. In addition the module explores how Malay families \"design\"family styles in a context of changing societies. The module is targeted for students interested in family studies.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "MALAY STUDIES",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

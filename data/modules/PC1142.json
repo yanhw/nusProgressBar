@@ -1,0 +1,28 @@
+{
+"moduleCode": "PC1142",
+"moduleTitle": "Introduction to Thermodynamics and Optics",
+"moduleCredit": "4",
+"lockedModules":[
+            "PC2288",
+            "PC2289"
+        ],
+"preclusion": "STUDENTS WHO HAVE PASSED PC1431 OR PC1431FC or PC1431X ARE NOT ALLOWED TO TAKE THIS MODULE.",
+"prerequisite": "A' LEVEL OR H2 PASS IN PHYSICS OR PC1221/PC1221FC/ PC1221X & PC1222",
+"preclusionList": [
+            "PC1431",
+            "PC1431X",
+            "PC1431F"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "PC1142", 
+            "children": []
+},
+"moduleDescription": "This module covers the fundamentals of two branches of physics: thermodynamics and optics. Its aim is to prepare students for a host of more advanced modules in these and related areas. Topics included in the part on thermodynamics are thermal processes and effects, the first and second laws, kinetic theory of gases, heat engines and entropy. The part on optics encompasses topics such as geometric optics, systems of lenses, optical instruments, interference, diffraction, grating and polarization. The module also has a practical component consisting of five experiments designed to enhance students' understanding of some of the concepts discussed in lectures. This module is targeted at science students who wish to acquire a working knowledge of thermodynamics and optics, and is an essential for physics majors.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCIENCE",
+"department": "PHYSICS",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

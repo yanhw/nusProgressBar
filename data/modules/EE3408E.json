@@ -1,0 +1,41 @@
+{
+"moduleCode": "EE3408E",
+"moduleTitle": "Integrated Analog Design",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "EE2005E or EE2021E",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " or ": [
+                "EE2005E", 
+                "EE2021E"
+            ]
+},
+"prerequisiteList": ["EE2005E","EE2021E"],
+"completePrerequisite": {
+            "name": "EE3408E", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "EE2005E", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "EE2021E", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module focuses on integration of analog circuits on silicon using CMOS technology. The topics covered include processing and modeling background, basic circuits, reference circuit design, single stage amplifiers, operational amplifiers, noise issues and advanced design methods",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "BACHELOR OF TECHNOLOGY PROGRAMME",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

@@ -1,0 +1,41 @@
+{
+"moduleCode": "TS2240",
+"moduleTitle": "Voice Studies and Production",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "TS1101E or GEM1003",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " or ": [
+                "TS1101E", 
+                "GEM1003"
+            ]
+},
+"prerequisiteList": ["TS1101E","GEM1003"],
+"completePrerequisite": {
+            "name": "TS2240", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "TS1101E", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "GEM1003", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module looks at how one's voice is made and how one can modulate it. Students will get an understanding of the physiological processes that produce voice and the relationship between mind and body in vocal communication. Hence this is also a very practical workshop using techniques developed by actors and singers that will improve the resonance and musicality of the speaking voice and also vocal strength and endurance. Using verse, prose and dramatic text, students will work on vocal characteristics - pitch, intonation patterns, pace and pausing, placement - and so improve their oral delivery.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "ENGLISH LANGUAGE & LITERATURE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

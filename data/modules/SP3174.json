@@ -1,0 +1,22 @@
+{
+"moduleCode": "SP3174",
+"moduleTitle": "Project Laboratory",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "SP3174", 
+            "children": []
+},
+"moduleDescription": "This module in general rides on an existing level 3000 UROPS module offered by a department. Strong emphasis is placed on the sophistication and depth of the investigation. Project topics are usually suggested by students and planned in consultation with their mentors.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCIENCE",
+"department": "DEAN'S OFFICE (SCIENCE)",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

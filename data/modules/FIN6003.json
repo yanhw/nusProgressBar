@@ -1,0 +1,22 @@
+{
+"moduleCode": "FIN6003",
+"moduleTitle": "Asset Pricing and Microstructure Theory",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "FIN6003", 
+            "children": []
+},
+"moduleDescription": "This is a foundation coursein investment decision-making and asset-pricing. The topics covered in the course are utility theory, decision-making under uncertainty, mean-varienceportfolio analysis, portfolio separation, equilibrium pricing in static and dynamic economies, risk neutral pricing in static and dynamic economies, derivatives, pricing in static and dynamic economies, stochastic discount factor interpretation of asset pricing, asset pricing with differential information, and theories of market microstructure.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF BUSINESS",
+"department": "FINANCE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

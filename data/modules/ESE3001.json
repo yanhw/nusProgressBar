@@ -1,0 +1,26 @@
+{
+"moduleCode": "ESE3001",
+"moduleTitle": "Water Quality Engineering",
+"moduleCredit": "4",
+"lockedModules":[
+            "ESE4405"
+        ],
+"preclusion": "ESE2401 & ESE3401",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "ESE2401",
+            "ESE3401"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "ESE3001", 
+            "children": []
+},
+"moduleDescription": "Topics covered in this module include water and wastewater sources, characteristics of water and wastewater (physical, chemical, and biological parameters), principles of physical, chemical, and biological processes for water and wastewater treatment, and water reclamation. Applications of fundamental principles for process analysis and design will be discussed with a focus on commonalities in applications across industry. Laboratory experiments relevant to water quality assessment and engineering are also included in the module.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "CIVIL & ENVIRONMENTAL ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

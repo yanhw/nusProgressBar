@@ -1,0 +1,65 @@
+{
+"moduleCode": "CN2125",
+"moduleTitle": "Heat & Mass Transfer",
+"moduleCredit": "4",
+"lockedModules":[
+            "CN3108",
+            "CN4205R",
+            "CN3132",
+            "CN4215R"
+        ],
+"preclusion": "NIL",
+"prerequisite": "CN2122",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["CN2122"]
+},
+"prerequisiteList": ["CN2122","MA1505","MA1506","MA1102R","MA1521"],
+"completePrerequisite": {
+            "name": "CN2125", 
+            "children": [
+                {
+                    "name": "CN2122", 
+                    "children": [
+                        {
+                            "name": "and", 
+                            "children": [
+                                {
+                                    "name": "MA1505", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "MA1506", 
+                                    "children": [
+                                        {
+                                            "name": "or", 
+                                            "children": [
+                                                {
+                                                    "name": "MA1102R", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MA1505", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MA1521", 
+                                                    "children": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This course considers three modes of heat transfer, namely, conduction, convection, and radiation. For heat conduction, both steady and unsteady states are examined. These are followed by analyses for convective heat transfer and heat transfer with phase change, and subsequently radiative heat transfer. Heat exchangers and their design are discussed. Steady and unsteady-state molecular diffusion is studied, while convective mass transfer is analyzed using exact and approximate integral analysis. Finally, analogies between mass, heat and momentum transfer are discussed leading to the concept of transport phenomena.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "CHEMICAL & BIOMOLECULAR ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

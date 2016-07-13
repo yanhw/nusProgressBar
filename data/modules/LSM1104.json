@@ -1,0 +1,27 @@
+{
+"moduleCode": "LSM1104",
+"moduleTitle": "General Physiology",
+"moduleCredit": "4",
+"lockedModules":[
+            "LSM3256",
+            "LSM3258",
+            "LSM3262",
+            "LSM2289",
+            "LSM2288"
+        ],
+"preclusion": "NIL",
+"prerequisite": "GCE \u2018A\u2019 LEVEL OR H2 BIOLOGY OR EQUIVALENT, OR LSM1301 OR LSM1301FC OR LSM1301X",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "LSM1104", 
+            "children": []
+},
+"moduleDescription": "This module deals with \u201cGeneral Physiology\u201d and its theme is \u201cBiological Transducers and Energy Transformation\u201d. This module will start with bioenergetics which stresses on the application of thermodynamics to physiological processes in both animals and plants. Six types of energy will be dealt with, concerning (1) the transformation of light energy to chemical energy by plants, (2) the transformation of chemical energy to chemical potential energy of ions and water across bio-membranes, (3) the transformation of chemical potential energy to electrical energy by plasmalemma with special emphasis on neurons, (4) the transformation of chemical energy to mechanical energy by muscle, and (5) the production and release of heat during energy transformation. Since neurons and muscle tissues require a relatively constant extracellular environment for them to function properly, the important concept of homeostasis will be discussed. Emphasis will be on extracellular fluid volume and composition. In addition, mechanisms involved in the balance of heat gain and heat loss to maintain a constant body temperature will be covered.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCIENCE",
+"department": "BIOLOGICAL SCIENCES",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

@@ -1,0 +1,69 @@
+{
+"moduleCode": "MLE4210",
+"moduleTitle": "Materials for energy storage and conversion",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "MLE2107 CERAMIC MATERIALS AND PROCESSING and MLE2105 ELECTRONIC PROPERTIES OF MATERIALS",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " and ": [
+                "MLE2107", 
+                "MLE2105"
+            ]
+},
+"prerequisiteList": ["MLE2107","MLE1101","MLE2101","MLE2105"],
+"completePrerequisite": {
+            "name": "MLE4210", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "MLE2107", 
+                            "children": [
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "MLE1101", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "MLE2101", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "MLE2105", 
+                            "children": [
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "MLE1101", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "MLE2101", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "Starting from a summary of solid state defect chemistry, electrochemistry and nanotechnology the module will introduce the basics of designing and processing materials for energy storage and conversion, their integration into batteries, supercapacitors, and fuel cells as well as methods for the performance characterisation and optimisation of these devices.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "MATERIALS SCIENCE AND ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

@@ -1,0 +1,41 @@
+{
+"moduleCode": "LSM4251",
+"moduleTitle": "Plant Growth and Development",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "LSM3253 or LSM3244",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " or ": [
+                "LSM3253", 
+                "LSM3244"
+            ]
+},
+"prerequisiteList": ["LSM3253","LSM3244"],
+"completePrerequisite": {
+            "name": "LSM4251", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "LSM3253", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "LSM3244", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "Growth and development of higher vascular plants through their life cycles. Discussion in this module include selected topics in gamete development, fertilization, embryo development, seed germination, development of various plant organs and flowering, the role of plant growth regulators, and the cellular, physiological and molecular basis of plant morphogenesis. The molecular basis of various stages of plant development will be discussed using developmental mutant analyses.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCIENCE",
+"department": "BIOLOGICAL SCIENCES",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

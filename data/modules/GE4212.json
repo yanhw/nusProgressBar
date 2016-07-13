@@ -1,0 +1,22 @@
+{
+"moduleCode": "GE4212",
+"moduleTitle": "Environmental Modelling",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "Cohort 2011 and before: Completed 80 MCs, including 28 MCs in GE, with a minimum CAP of 3.50 or be on the Honours track. Must have read and passed GE1101E or at least one of the following modules: GE2219, GE2220, GE2228, GE2229, GE3221 and GE3227. Cohort 2012 onwards: Completed 80 MCs, including 28 MCs in GE with a minimum CAP of 3.20 or be on the Honours track. Must have read and passed GE1101E or at least one of the following modules: GE2219, GE2220, GE2228, GE2229, GE3221 and GE3227. Cohort 2012 onwards: (BES students from both specialisations) Must have read and passed GE1101E or at least one of the following modules: GE2219, GE2220, GE2228, GE2229, GE3221 and GE3227. Completed 80 MCs of NUS modules before they can read any level-4000 GE modules. Do not need to complete 28 MCs of GE modules before they can read any level-4000 GE modules. Do not need a minimum CAP of 3.20 before they can read any level-4000 GE modules. Cohort 2012 onwards: (Global Studies) Must have read and passed GE1101E and at least one of the following modules: GE2220, GE2228, GE2229, GE3221, GE3223 and GE3227. Completed at least 80MCs, including 28 MCs in GL/GL recognised non-language modules, with a minimum CAP of 3.20 or be on the Honours track.",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "GE4212", 
+            "children": []
+},
+"moduleDescription": "This course provides an introduction to the application of models (analytical, numerical, physical) through theory and practice in environmental or social sciences. Strengths and weaknesses of individual model types are discussed. Hands-on practical experience in the design and application of computer-based modelling will be a focus of the course. After completion the students should be able to demonstrate an understanding of the concept of modelling, explain why and how modelling is employed in environmental or social sciences and possess skills in developing and critically assessing such models.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "GEOGRAPHY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

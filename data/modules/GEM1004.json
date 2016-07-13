@@ -1,0 +1,24 @@
+{
+"moduleCode": "GEM1004",
+"moduleTitle": "Reason and Persuasion",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "GET1027",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "GET1027"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "GEM1004", 
+            "children": []
+},
+"moduleDescription": "The first six weeks we read Plato (a 5th Century BC Greek, of whom it has been said, 'All of Western thought is just footnotes to Plato') and Descartes (a 17th Century Frenchman, of 'I think therefore I am' fame.) The second six weeks concern questions and problems raised by Plato and Descartes. We will mull the metaphysics of mind and consciousness; ponder the politics of freedom. The module title hints at a basic question: what sorts of ways of convincing people, and being convinced by people - about life, about anything - are good ways?",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "PHILOSOPHY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

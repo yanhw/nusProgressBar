@@ -1,0 +1,54 @@
+{
+"moduleCode": "IS4227",
+"moduleTitle": "Enterprise Service-Oriented Architecture",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "CS4258",
+"prerequisite": "Pass 80 MCs and [CS3361 of IS3220]",
+"preclusionList": [
+            "CS4258"
+        ],
+"parsedPrerequisite": {
+" and ": ["IS3220"]
+},
+"prerequisiteList": ["IS3220","IS1103","IS1103F","IS1105"],
+"completePrerequisite": {
+            "name": "IS4227", 
+            "children": [
+                {
+                    "name": "IS3220", 
+                    "children": [
+                        {
+                            "name": "and", 
+                            "children": [
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "IS1103", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "IS1103F", 
+                                            "children": []
+                                        }
+                                    ]
+                                }, 
+                                {
+                                    "name": "IS1105", 
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module provides students with an overview of service oriented architecture (SOA). The key topics covered include SOA concepts and principles, SOA architecture and design considerations, and SOA relationship with enterprise capabilities. Key concepts from web services, that are relevant to SOA, will be covered with an emphasis on how these ideas may enhance the performance of enterprises. Approaches to service oriented software development (including reliability and security considerations) will also be included. Overall, this module equips students with the necessary knowledge and skills to implement SOA in enterprises.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF COMPUTING",
+"department": "INFORMATION SYSTEMS",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

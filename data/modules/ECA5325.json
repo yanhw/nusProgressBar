@@ -1,0 +1,26 @@
+{
+"moduleCode": "ECA5325",
+"moduleTitle": "Project & Policy Evaluation",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "EC5264, EC5216/EC5324",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "EC5324",
+            "EC5264",
+            "EC5216"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "ECA5325", 
+            "children": []
+},
+"moduleDescription": "This module emphasizes applied cost-benefit analysis. The module examines the theoretically correct approaches in the key areas and then focuses on the methods and practices in the application of cost-benefit analysis. Topics include investment criteria in the public sector, risk and uncertainty, valuing and identifying costs and benefits, shadow pricing, and the social rate of discount. In addition, students are expected to use cost-benefit analysis in a number of actual case studies.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "ECONOMICS",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

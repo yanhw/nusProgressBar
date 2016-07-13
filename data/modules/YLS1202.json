@@ -1,0 +1,30 @@
+{
+"moduleCode": "YLS1202",
+"moduleTitle": "Beginning Spanish 2",
+"moduleCredit": "5",
+"lockedModules":[
+            "YLS2201"
+        ],
+"preclusion": "NIL",
+"prerequisite": "YLS1201 or permission from instructor",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["YLS1201"]
+},
+"prerequisiteList": ["YLS1201"],
+"completePrerequisite": {
+            "name": "YLS1202", 
+            "children": [
+                {
+                    "name": "YLS1201", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "This module is a continuation of Introductory Spanish 1. Introductory Spanish 2 pays close attention to aural/oral practice while strengthening basic grammar skills, writing, and reading comprehension. The module covers the second half of the eBook used in Intro 1 and prepares students for Study Abroad opportunities via CIPE in their second summer at Yale-NUS or beyond.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "YALE-NUS COLLEGE",
+"department": "YALE-NUS COLLEGE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

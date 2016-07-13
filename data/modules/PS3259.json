@@ -1,0 +1,22 @@
+{
+"moduleCode": "PS3259",
+"moduleTitle": "American Political Thought",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "PS3259", 
+            "children": []
+},
+"moduleDescription": "This module examines the American political tradition, focusing on the ideas that inform America\u2019s unique system of governance during the past two centuries - revolution, self-determination, constitutional government, the separation of powers, the legal protection of basic moral rights, federalism, slavery, equality, and civil disobedience. Students will study the writings of America\u2019s most important political thinkers including Madison, Hamilton, Jefferson, Lincoln, Emerson, Thoreau, and Martin Luther King.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "POLITICAL SCIENCE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

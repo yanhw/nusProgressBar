@@ -1,0 +1,22 @@
+{
+"moduleCode": "CM4199A",
+"moduleTitle": "Honours Project in Chemistry",
+"moduleCredit": "16",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "At least an overall CAP of 3.50, on fulfillment of 100MC or more; and major requirements under the B.Sc. programme. ( Only for students entering NUS in or after 2002 ). Students from Cohort 2012 and onwards should have at least an overall CAP of 3.20, on fulfillment of 100MC or more; and major requirements under the B.Sc. programme.",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "CM4199A", 
+            "children": []
+},
+"moduleDescription": "The aim of this module is to introduce students to the components of independent research e.g. literature review, experimental techniques, data collection and treatment, etc. After completion of this module a student should be able to analyse a specific problem and to design and perform suitable experiments which will lead to its solution.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCIENCE",
+"department": "CHEMISTRY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

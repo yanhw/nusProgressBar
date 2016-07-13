@@ -1,0 +1,22 @@
+{
+"moduleCode": "CP5102",
+"moduleTitle": "MComp Information Security Project",
+"moduleCredit": "8",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "Students must be in Master of Computing programme, Infocomm Security specialisation",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "CP5102", 
+            "children": []
+},
+"moduleDescription": "The exploratory project option gives individual students the opportunity for independent study and research in the area of their selected specialization. This will be carried out under the supervision of an academic staff, in possible cosupervision with a mentor from the industry or government agency. The selection of the topic/area will be done in consultation with the supervisor and the external mentor. All projects will be vetted by School of Computing Postgraduate Office.",
+"crossModule": "-1",
+"corequisite": "Nil",
+"faculty": "SCHOOL OF COMPUTING",
+"department": "DEAN'S OFFICE (SCHOOL OF COMPUTING)",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

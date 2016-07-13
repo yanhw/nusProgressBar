@@ -1,0 +1,26 @@
+{
+"moduleCode": "TE2101",
+"moduleTitle": "Programming Methodology",
+"moduleCredit": "4",
+"lockedModules":[
+            "TE3201",
+            "EE4214E"
+        ],
+"preclusion": "TE1122",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "TE1122"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "TE2101", 
+            "children": []
+},
+"moduleDescription": "This module aims to introduce students to the discipline of computing and the problem solving process. It stresses on good programme design and programming styles, and structured programme development using a higher-level programming language. The topics covered in this module are: Algorithm design process, Programme development/coding/debugging. Programming concepts in a high-level language including programme structure, simple data types and structured types and various control structures (sequencing, loops, conditionals, etc.). Linear data structures such as arrays and linked-lists. The utility of recursion using a variety of sorting algorithms.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "BACHELOR OF TECHNOLOGY PROGRAMME",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

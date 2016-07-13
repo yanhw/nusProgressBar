@@ -1,0 +1,39 @@
+{
+"moduleCode": "JS3208",
+"moduleTitle": "Approaches to Japanese Linguistics",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "LAJ2202 or pass in JLPT level 3 or placement test.",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["LAJ2202"]
+},
+"prerequisiteList": ["LAJ2202","LAJ2201","LAJ1201"],
+"completePrerequisite": {
+            "name": "JS3208", 
+            "children": [
+                {
+                    "name": "LAJ2202", 
+                    "children": [
+                        {
+                            "name": "LAJ2201", 
+                            "children": [
+                                {
+                                    "name": "LAJ1201", 
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "As this is an intermediate level Japanese linguistics module, students who wish to read it should have done an introductory module on linguistics offered by the Department of Japanese Studies (for example, JS2203 Sound, Grammar and Meaning) or other departments, apart from meeting the Japanese language pre-requisite. Emphasising the different approaches to Japanese linguistics, this module will cover the phonological, morphological, syntactic and semantic analysis of the language. In order to enhance students' understanding of the analytical skills/tools, students will do frequent exercises on the language from many different points of view. Topics such as lexicography, pragmatics, socio-linguistics and historical linguistics may also be introduced.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "JAPANESE STUDIES",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

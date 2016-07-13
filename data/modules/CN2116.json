@@ -1,0 +1,53 @@
+{
+"moduleCode": "CN2116",
+"moduleTitle": "Chemical Kinetics & Reactor Design",
+"moduleCredit": "4",
+"lockedModules":[
+            "CN3108",
+            "CN4211R",
+            "CN4247R",
+            "CN4246R",
+            "CN4240R",
+            "CN4248",
+            "CN4201R"
+        ],
+"preclusion": "NIL",
+"prerequisite": "CN1111/CN1111FC/CN1111X",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " or ": [
+                "CN1111", 
+                "CN1111F", 
+                "CN1111X"
+            ]
+},
+"prerequisiteList": ["CN1111","CN1111F","CN1111X"],
+"completePrerequisite": {
+            "name": "CN2116", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "CN1111", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "CN1111F", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "CN1111X", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "The module begins with a revision of chemical kinetics and thermodynamics emphasizing on the different definitions of reaction rates, rate expressions, and simple and complex reactions. The design equations for ideal reactors are then introduced followed by the general methods of analysis of rate data. Reactor sequencing, yield versus productivity considerations in multiple reactions, and nonisothermal operations round up the first half of the course. More advanced topics such as residence time distributions in reactors, kinetics of catalytic reactions and catalyst deactivation, coupling of chemical reactions with transport processes, form the bulk of the second half of the course.",
+"crossModule": "-1",
+"corequisite": "CN2125",
+"faculty": "ENGINEERING",
+"department": "CHEMICAL & BIOMOLECULAR ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

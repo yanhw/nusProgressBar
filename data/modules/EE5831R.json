@@ -1,0 +1,23 @@
+{
+"moduleCode": "EE5831R",
+"moduleTitle": "Electromagnetic Wave Theory",
+"moduleCredit": "4",
+"lockedModules":[
+            "EE6831"
+        ],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "EE5831R", 
+            "children": []
+},
+"moduleDescription": "This module teaches basic theories and applications of electromagnetic waves. Topics include: Fundamentals include quasi-static and dynamic solutions to Maxwell's equations, plane-wave propagation and scattering, guiding structure and cavity, behavior at interface between media, Green's functions, and method of moment.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "ELECTRICAL & COMPUTER ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

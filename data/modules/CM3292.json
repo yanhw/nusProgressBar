@@ -1,0 +1,83 @@
+{
+"moduleCode": "CM3292",
+"moduleTitle": "Advanced Experiments In Analytical & Physical Chemistry",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "CM2101, CM2142 and CM2192",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " and ": [
+                "CM2101", 
+                "CM2142", 
+                "CM2192"
+            ]
+},
+"prerequisiteList": ["CM2101","CM1131","CM1401","CM2142","FST1101","CM2192","CM1191"],
+"completePrerequisite": {
+            "name": "CM3292", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "CM2101", 
+                            "children": [
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "CM1131", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "CM1401", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "CM2142", 
+                            "children": [
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "CM1131", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "FST1101", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "CM1401", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "CM2192", 
+                            "children": [
+                                {
+                                    "name": "CM1191", 
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "Laboratory work in Analytical and Physical Chemistry. This module is a major requirement for Chemistry students.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCIENCE",
+"department": "CHEMISTRY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,4,]]
+}

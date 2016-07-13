@@ -1,0 +1,33 @@
+{
+"moduleCode": "PL3236",
+"moduleTitle": "Abnormal Psychology",
+"moduleCredit": "4",
+"lockedModules":[
+            "PL3287",
+            "PL3257"
+        ],
+"preclusion": "SW3217",
+"prerequisite": "PL1101E",
+"preclusionList": [
+            "SW3217"
+        ],
+"parsedPrerequisite": {
+" and ": ["PL1101E"]
+},
+"prerequisiteList": ["PL1101E"],
+"completePrerequisite": {
+            "name": "PL3236", 
+            "children": [
+                {
+                    "name": "PL1101E", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "This core module covers most of the common mental health problems identified for children and adults, e.g. eating disorders, behavioural problems, attention deficits, learning disabilities, schizophrenia, anxiety, stress, depression, personality disorders, sexual adjustment, substance abuse, suicide, and dementia. The lectures and discussion groups provide an introduction to clinical intervention, but emphasis is placed on the theoretical formulation of problems. Whenever possible, films and case studies are used to supplement the textbook and readings, and a visit to the local Institute of Mental Health will usually be arranged.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "PSYCHOLOGY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

@@ -1,0 +1,22 @@
+{
+"moduleCode": "CE3101",
+"moduleTitle": "Integrated Infrastructure Project",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "CE2 standing or higher",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "CE3101", 
+            "children": []
+},
+"moduleDescription": "This module allows students to integrate their knowledge in various civil engineering disciplines and apply their understanding into creatively developing a large-scale infrastructure project. Organized in the form of a competition, the module requires student teams to work out a master concept plan of a real-world infrastructure project.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "CIVIL & ENVIRONMENTAL ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

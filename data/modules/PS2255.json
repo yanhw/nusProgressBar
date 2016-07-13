@@ -1,0 +1,24 @@
+{
+"moduleCode": "PS2255",
+"moduleTitle": "Politics of the Middle East",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "GEK2025",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "GEK2025"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "PS2255", 
+            "children": []
+},
+"moduleDescription": "This module provides a comparative overview of politics in the Middle East, giving particular attention to the history, societies, and cultures of the region. It considers some of the forces shaping its politics and discusses, selectively, major issues and challenges facing states in the Middle East today.",
+        "CrossModule": "GEK2025", 
+"corequisite": "NIL",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "POLITICAL SCIENCE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

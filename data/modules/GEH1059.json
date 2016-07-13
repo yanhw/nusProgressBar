@@ -1,0 +1,22 @@
+{
+"moduleCode": "GEH1059",
+"moduleTitle": "Living in the Nuclear World",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "GEH1059", 
+            "children": []
+},
+"moduleDescription": "The nuclear age dawned in 1945. Since then, the world has been profoundly shaped by the implications of nuclear fission. From science and engineering to war and peace, from design and popular culture to health and safety, exposure to the nuclear condition has shaped the lives of millions of people worldwide. This module offers a sweeping panorama of the nuclear world over the last century, from early scientific experiments to the recent Fukushima accident, with stops along the way in Japan, the Bikini atoll, North Korea, India, Israel, France, Ukraine, and the United States.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "SOUTHEAST ASIAN STUDIES",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

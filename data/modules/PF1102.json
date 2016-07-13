@@ -1,0 +1,22 @@
+{
+"moduleCode": "PF1102",
+"moduleTitle": "Visualisation in Design and Technology",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "PF1102", 
+            "children": []
+},
+"moduleDescription": "This module covers the fundamental principles and practice of construction for a building through a detailed examination of key building elements. It places emphasis on the detailing of these elements, and encompasses the functional, structural, construction and other issues influencing building forms. Students will acquire skills in the interpretation of building drawings and drafting of construction details. Basic principles of computer aided drafting are covered and software tools for improving visualisation are introduced.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "SCHOOL OF DESIGN AND ENVIRONMENT",
+"department": "BUILDING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

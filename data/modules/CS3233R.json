@@ -1,0 +1,22 @@
+{
+"moduleCode": "CS3233R",
+"moduleTitle": "Competitive Programming",
+"moduleCredit": "1",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "Co-read with host module in current semester or pass host module in previous semester. Student selection process is enforced.",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "CS3233R", 
+            "children": []
+},
+"moduleDescription": "This module aims to prepare students in competitive problem solving. It covers techniques for attacking and solving challenging computational problems. Fundamental algorithmic solving techniques covered include divide and conquer, greedy, dynamic programming, backtracking and branch and bound. Domain specific techniques like number theory, computational geometry, string processing and graph theoretic will also be covered. Advanced AI search techniques like iterative deepening, A* and heuristic search will be included. The module also covers algorithmic and programming language toolkits used in problem solving supported by the solution of representative or well-known problems in the various algorithmic paradigms.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "SCHOOL OF COMPUTING",
+"department": "COMPUTER SCIENCE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

@@ -1,0 +1,26 @@
+{
+"moduleCode": "GEK1003",
+"moduleTitle": "Introduction to Politics",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "PS1101, GEM1003K, PS1101E. Not for students majoring in PS",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "GEM1003K",
+            "PS1101E",
+            "PS1101"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "GEK1003", 
+            "children": []
+},
+"moduleDescription": "The purpose of this module is to impart a preliminary overview of political science and its sub-fields so that students have a basic orientation of the discipline. It briefly explains the scope and components of each of the four sub-fields (political theory, comparative politics, international relations and public administration) and familiarises students with the major issues and arguments related to power, justice, political culture, national identity, accountability, ethics and world order. It also focuses on key political institutions. The module will be of interest to students across the university who want to gain a basic understanding of politics.",
+        "CrossModule": "PS1101E", 
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "POLITICAL SCIENCE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

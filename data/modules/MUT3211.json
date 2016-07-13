@@ -1,0 +1,81 @@
+{
+"moduleCode": "MUT3211",
+"moduleTitle": "Tonal Counterpoint",
+"moduleCredit": "3",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "MUT 1121, MUT 1122, MUT 2117, MUT 2118",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " and ": [
+                "MUT1121", 
+                "MUT1122", 
+                "MUT2117", 
+                "MUT2118"
+            ]
+},
+"prerequisiteList": ["MUT1121","MUT1122","MUT2117","MUT2118"],
+"completePrerequisite": {
+            "name": "MUT3211", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "MUT1121", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "MUT1122", 
+                            "children": [
+                                {
+                                    "name": "MUT1121", 
+                                    "children": []
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "MUT2117", 
+                            "children": [
+                                {
+                                    "name": "MUT1122", 
+                                    "children": [
+                                        {
+                                            "name": "MUT1121", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "MUT2118", 
+                            "children": [
+                                {
+                                    "name": "MUT2117", 
+                                    "children": [
+                                        {
+                                            "name": "MUT1122", 
+                                            "children": [
+                                                {
+                                                    "name": "MUT1121", 
+                                                    "children": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module is designed for students who wish to acquire written skills in tonal counterpoint and learn structural aspects of polyphonic music of the Baroque period. They will receive a full individual instruction on how to write a good counterpoint in all species step by step and then be initiated into various polyphonic genres, such as canon, invention, and fugue. Students will also participate in detailed analysis of fugues (and other contrapuntal music) by J. S. Bach and other composers and learn their structural principles.",
+"crossModule": "-1",
+"corequisite": "Nil",
+"faculty": "YONG SIEW TOH CONSERVATORY OF MUSIC",
+"department": "YONG SIEW TOH CONSERVATORY OF MUSIC",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

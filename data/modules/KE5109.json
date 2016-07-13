@@ -1,0 +1,62 @@
+{
+"moduleCode": "KE5109",
+"moduleTitle": "Knowledge Engineering Overseas Practicum",
+"moduleCredit": "12",
+"lockedModules":[
+],
+"preclusion": "Students that select KE5105 Knowledge Engineering Project cannot also select the Knowledge Engineering Overseas Practicum and vice versa.",
+"prerequisite": "Before commencing the Knowledge Engineering Overseas Practicum, the students must successfully complete the four MTech KE core courses: KE4102 Intelligent Systems and Techniques for Business Analytics KE5106 Data Warehousing for Business Analytics KE5107 Data Mining Methodology and Methods KE5108 Developing Intelligent Systems for Performing Business Analytics In addition, they must demonstrate in the electives they have taken and/or in their work experience that they have the technical background for the project being offered by NOC.",
+"preclusionList": [
+            "KE5105"
+        ],
+"parsedPrerequisite": {
+            " and ": [
+                "KE5106", 
+                "KE5107", 
+                "KE5108"
+            ]
+},
+"prerequisiteList": ["KE5106","KE5107","KE5108","KE4102"],
+"completePrerequisite": {
+            "name": "KE5109", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "KE5106", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "KE5107", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "KE5108", 
+                            "children": [
+                                {
+                                    "name": "and", 
+                                    "children": [
+                                        {
+                                            "name": "KE4102", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "KE5107", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "The Knowledge Engineering Overseas Practicum is designed to allow students to experience entrepreneurial enterprises, such as high technology start-up companies, in rapidly developing economies, such as Israel and China, and contribute to those companies by playing a significant role in the development advanced software products or in solving complex business problems. The practicum allows students to apply their knowledge in a real world context, demonstrating their mastery of a range of Knowledge Engineering skills, such as problem formulation, problem modeling, knowledge discovery, solution design and construction, verification and validation. This module is conducted in collaboration with the NUS Overseas Colleges (NOC).",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "NON-FACULTY-BASED DEPARTMENTS",
+"department": "INSTITUTE OF SYSTEMS SCIENCE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

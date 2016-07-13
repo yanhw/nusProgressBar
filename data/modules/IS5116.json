@@ -1,0 +1,69 @@
+{
+"moduleCode": "IS5116",
+"moduleTitle": "IT and Entrepreneurship",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "(ACC1002 or ACC1002X) and IS3150",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " and ": [
+                {
+                    " or ": [
+                        "ACC1002", 
+                        "ACC1002X"
+                    ]
+                }, 
+                "IS3150"
+            ]
+},
+"prerequisiteList": ["ACC1002","ACC1002X","IS3150","IS1105","IS1112"],
+"completePrerequisite": {
+            "name": "IS5116", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "or", 
+                            "children": [
+                                {
+                                    "name": "ACC1002", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "ACC1002X", 
+                                    "children": []
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "IS3150", 
+                            "children": [
+                                {
+                                    "name": "and", 
+                                    "children": [
+                                        {
+                                            "name": "IS1105", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "IS1112", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "The course provides an introduction to the elements of high tech entrepreneurship - idea generation, nature of start-ups and innovations in IT industry, business plan development for IT/information goods and services, hyper-competition in high-tech industry, company incubation, angel funding, venture capital, stock options, etc. Besides lectures, some classes will be conducted in the form of seminars, where a technopreneur is invited to share his views and experiences in starting/running an IT or high-tech company, and to answer questions from the class. Venture capitalists and angel investors could also be invited to classes to share their views and opinions on they decide whether or not to invest in an IT or high-tech start-up company. This allows students to learn about entrepreneurship in the IT industry by hearing first hand from people who have trodden the path themselves. The seminar format provides ample opportunities for questions about entrepreneurial risk taking, strategy planning and execution, people management, business growth, etc. Students would be able to relate theories learnt in lectures with practices and experiences in the real world.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF COMPUTING",
+"department": "INFORMATION SYSTEMS",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

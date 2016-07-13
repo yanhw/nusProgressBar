@@ -1,0 +1,24 @@
+{
+"moduleCode": "GEH1047",
+"moduleTitle": "Social and Cultural Studies through Music",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "GEK1054",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "GEK1054"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "GEH1047", 
+            "children": []
+},
+"moduleDescription": "This module provides a cross-cultural introduction to music both as an art and as a human, socio-cultural phenomenon. Through lectures, reading and listening assignments, and actually playing different styles of music, students will learn how music works, why people listen to and make music, what its roles are in a society, and how these things vary in different cultures. The module introduces a variety of musical styles and cultures that represent an enormous wealth of human experience. At the end of the course the students will have access to a much wider variety of music to listen to, participate in, enjoy, and understand.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "YONG SIEW TOH CONSERVATORY OF MUSIC",
+"department": "YONG SIEW TOH CONSERVATORY OF MUSIC",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

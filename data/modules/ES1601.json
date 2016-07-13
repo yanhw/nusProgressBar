@@ -1,0 +1,51 @@
+{
+"moduleCode": "ES1601",
+"moduleTitle": "Professional and Academic Comm",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "CS2101 Effective Communication for Computing Professional, IS2101 Business and Technical Communication, ES2331 Communicating Engineering, ES2002 Business Communication, ES2007S & ES2007D Professional Communication, ES1541/SP1541 Exploring Science Communication through Popular Science, ES1501%.",
+"prerequisite": "ES1000 and/or ES1102",
+"preclusionList": [
+            "IS2101",
+            "ES2331",
+            "SP1541",
+            "CS2101",
+            "ES2007S",
+            "ES1501",
+            "ES2002",
+            "ES1541",
+            "ES2007D"
+        ],
+"parsedPrerequisite": {
+            " or ": [
+                "ES1000", 
+                "ES1102"
+            ]
+},
+"prerequisiteList": ["ES1000","ES1102"],
+"completePrerequisite": {
+            "name": "ES1601", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "ES1000", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "ES1102", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module aims to enable students to communicate and write in two main contexts - industry/workplace and academic. It is twinned with GEM1917 Understanding and Critiquing Sustainability and is read over two semesters. Therefore, the teaching/learning of targeted communication and writing skills are drawn upon the requirements, tasks, assignments, and projects of GEM1917. By situating communication in different contexts, students learn to shape, articulate and express their ideas, thoughts and messages depending on the audience, purpose, media and platform.",
+"crossModule": "-1",
+"corequisite": "GEM1917 Understanding and Critiquing Sustainability",
+"faculty": "NON-FACULTY-BASED DEPARTMENTS",
+"department": "CTR FOR ENGLISH LANGUAGE COMMUNICATION",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

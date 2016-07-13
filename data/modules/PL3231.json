@@ -1,0 +1,23 @@
+{
+"moduleCode": "PL3231",
+"moduleTitle": "Independent Research Project",
+"moduleCredit": "4",
+"lockedModules":[
+            "PL3261"
+        ],
+"preclusion": "NIL",
+"prerequisite": "PL1101E, PL2131, PL2132 and consent of Supervisor. Students must have at least a &quot;C&quot; grade in one of the prerequisites.",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "PL3231", 
+            "children": []
+},
+"moduleDescription": "This module allows students to undertake an individual research project under staff supervision. Students wishing to take this module are advised to obtain additional details from the Department.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "PSYCHOLOGY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

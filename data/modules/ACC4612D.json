@@ -1,0 +1,89 @@
+{
+"moduleCode": "ACC4612D",
+"moduleTitle": "SIA: Advanced Accounting Theory",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "ACC3615 Accounting Theory",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["ACC3615"]
+},
+"prerequisiteList": ["ACC3615","ACC3601","FNA1002","ACC1002","FNA3123","ACC3606","FNA3111"],
+"completePrerequisite": {
+            "name": "ACC4612D", 
+            "children": [
+                {
+                    "name": "ACC3615", 
+                    "children": [
+                        {
+                            "name": "or", 
+                            "children": [
+                                {
+                                    "name": "ACC3601", 
+                                    "children": [
+                                        {
+                                            "name": "or", 
+                                            "children": [
+                                                {
+                                                    "name": "FNA1002", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "ACC1002", 
+                                                    "children": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }, 
+                                {
+                                    "name": "FNA3123", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "ACC3606", 
+                                    "children": [
+                                        {
+                                            "name": "or", 
+                                            "children": [
+                                                {
+                                                    "name": "FNA3111", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "ACC3601", 
+                                                    "children": [
+                                                        {
+                                                            "name": "or", 
+                                                            "children": [
+                                                                {
+                                                                    "name": "FNA1002", 
+                                                                    "children": []
+                                                                }, 
+                                                                {
+                                                                    "name": "ACC1002", 
+                                                                    "children": []
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module is designed to prepare accounting honours students with the necessary knowledge and skills to complete their honour theses. It is also suitable for students with an interest in gaining an understanding of important accounting issues such as earnings management, analyst and management earnings forecasts, voluntary disclosure, and accounting-based valuation.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "SCHOOL OF BUSINESS",
+"department": "ACCOUNTING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

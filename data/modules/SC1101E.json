@@ -1,0 +1,22 @@
+{
+"moduleCode": "SC1101E",
+"moduleTitle": "Making Sense of Society",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "SC1101E", 
+            "children": []
+},
+"moduleDescription": "Students are introduced to the concepts used in Sociology and Anthropology. The main objective is to train students to use Sociology in analyzing social institutions and processes. For this reason, students are encouraged to relate their experiences in society to the discipline of Sociology and Anthropology. The topics covered in the module are the logic and methods of social investigation; family, work and organization; power and the state; social inequality (including gender and ethnicity); mass communication and popular culture; values and beliefs; and deviance and social control.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "SOCIOLOGY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

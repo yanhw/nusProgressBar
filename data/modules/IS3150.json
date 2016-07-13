@@ -1,0 +1,43 @@
+{
+"moduleCode": "IS3150",
+"moduleTitle": "Digital and New Media Marketing",
+"moduleCredit": "4",
+"lockedModules":[
+            "IS5116",
+            "IS4102"
+        ],
+"preclusion": "NIL",
+"prerequisite": "Pass 60 MCs and [IS1105 and IS1112 ]",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " and ": [
+                "IS1105", 
+                "IS1112"
+            ]
+},
+"prerequisiteList": ["IS1105","IS1112"],
+"completePrerequisite": {
+            "name": "IS3150", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "IS1105", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "IS1112", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module introduces students to the principles and practice of marketing management of IT products and services in the digital economy, and the application of computer decision tools and techniques for marketing on new interactive media such as the Internet and mobile phone platforms. The main topics of this module are: the concept of marketing, marketing environment in the digital economy, marketing research, buyer behaviour, IT market analysis, segmentation, targeting and positioning, IT product design, pricing, advertising and promotion, marketing channel and campaign management in new media platforms, etc. Cases and examples will be drawn from the high-tech IT industries.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "SCHOOL OF COMPUTING",
+"department": "INFORMATION SYSTEMS",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

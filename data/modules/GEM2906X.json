@@ -1,0 +1,27 @@
+{
+"moduleCode": "GEM2906X",
+"moduleTitle": "Environment and Civil Society in Singapore",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "GEM2906 SSU2005% UTC2402 UTS2402",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "UTS2402",
+            "SSU2005",
+            "UTC2402",
+            "GEM2906"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "GEM2906X", 
+            "children": []
+},
+"moduleDescription": "How \u2018green\u2019 is Singapore and how should we preserve biodiversity on this island? This GEM explores the rise of the conservation ethic in Singapore. It traces the scientific, social and economic conditions that gave rise to the global environmental movement, and to its various expressions in Singapore. Students will engage with stakeholders (scientists, officials, civil society) to understand the conflicts and collaborations between advocates of development and conservation. The class will make field trips to evaluate state-civil society partnerships (wildlife sanctuaries, green corridors, water catchment etc), and debate choices and dilemmas for the future.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "NON-FACULTY-BASED DEPARTMENTS",
+"department": "COLLEGE OF ALICE & PETER TAN",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

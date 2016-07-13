@@ -1,0 +1,22 @@
+{
+"moduleCode": "QF5206",
+"moduleTitle": "Topics in Quantitative Finance II",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "Departmental Approval",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "QF5206", 
+            "children": []
+},
+"moduleDescription": "This module is designed for graduate students in quantitative finance. The objective is to offer topics in quantitative finance that are of current interest and not covered by other modules in the quantitative finance programme, with the aim of providing students with the knowledge and skills that are of current demand in the finance industry. The module demonstrates how various mathematical concepts and methods in disciplines such as stochastic analysis, stochastic control, partial differential equations and numerical methods that the students have learned in the other modules are used to solve practical problems in quantitative finance, and emphasizes mathematical modeling, algorithms and numerical implementation. The topics covered may vary from year to year, and will be decided by the lecturer.",
+"crossModule": "-1",
+"corequisite": "Nil",
+"faculty": "SCIENCE",
+"department": "MATHEMATICS",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

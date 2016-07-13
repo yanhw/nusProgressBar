@@ -1,0 +1,22 @@
+{
+"moduleCode": "YHU3231",
+"moduleTitle": "Science and Technology vs Nature: The Case of Energy",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "YHU3231", 
+            "children": []
+},
+"moduleDescription": "The idea that science and technology are not only separate from Nature, but at war with it, is one that echoes in every weekly gazette, where we can read that consequences of \"progress\"and scientific knowledge itself are putting the world at risk. We will mainly examine the conceptual evolution of one scientific notion (energy) in its own conceptual history, from classical mechanics to contemporary quantum and thermodynamic physics. We will consider its technical applications, in order to get back to the roots of scientific thought, and to evaluate whether this philosophical mistrust of scientific thinking should be endorsed.",
+"crossModule": "-1",
+"corequisite": "None.",
+"faculty": "YALE-NUS COLLEGE",
+"department": "YALE-NUS COLLEGE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

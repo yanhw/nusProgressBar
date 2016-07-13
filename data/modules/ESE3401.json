@@ -1,0 +1,36 @@
+{
+"moduleCode": "ESE3401",
+"moduleTitle": "Water & Wastewater Engineering 1",
+"moduleCredit": "4",
+"lockedModules":[
+            "ESE4407",
+            "ESE4405"
+        ],
+"preclusion": "NIL",
+"prerequisite": "ESE2401",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["ESE2401"]
+},
+"prerequisiteList": ["ESE2401","ESE2001"],
+"completePrerequisite": {
+            "name": "ESE3401", 
+            "children": [
+                {
+                    "name": "ESE2401", 
+                    "children": [
+                        {
+                            "name": "ESE2001", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module introduces students to the unit operations and processes application for domestic water supply and wastewater treatment. Integration of physical, chemical and biological processes is the basis of current water and wastewater design practice. This module will enable students to understand the main treatment processes and engineering concerns of water and wastewater treatment systems. Students learn to identify the appropriate treatment system to address water and wastewater treatment needs and design basic processes of water and wastewater treatment systems.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "CIVIL & ENVIRONMENTAL ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

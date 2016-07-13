@@ -1,0 +1,24 @@
+{
+"moduleCode": "YHU2202",
+"moduleTitle": "Introduction to Creative Nonfiction",
+"moduleCredit": "5",
+"lockedModules":[
+            "YHU3206",
+            "YHU2224"
+        ],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "YHU2202", 
+            "children": []
+},
+"moduleDescription": "Creative nonfiction, a form of creative writing that often borrows from fiction and poetry in terms of technique, differs in that notions of factuality define the boundaries of the form. This course explores the literary essay in the fashion of the great French essayist, Michel de Montaigne, focusing primarily on the personal essay. While primarily a writing course, there will be much supplemental reading. Essayists to be read will range from the Roman Seneca (\u201cOn Noise\u201d) to the 10th Century Japanese Sei Shonagan and plenty of contemporary essays. There will be weekly writing assignments as well as reading.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "YALE-NUS COLLEGE",
+"department": "YALE-NUS COLLEGE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

@@ -1,0 +1,93 @@
+{
+"moduleCode": "EC3377",
+"moduleTitle": "Global Economic History",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "EC2101 Microeconomic Analysis I and EC2102 Macroeconomic Analysis I.",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " and ": [
+                "EC2101", 
+                "EC2102"
+            ]
+},
+"prerequisiteList": ["EC2101","EC1101E","EC1301","USE2301","BSP1005","BH1005","EC2102","BH2001"],
+"completePrerequisite": {
+            "name": "EC3377", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "EC2101", 
+                            "children": [
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "EC1101E", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "EC1301", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "USE2301", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "BSP1005", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "BH1005", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "EC2102", 
+                            "children": [
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "EC1101E", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "EC1301", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "USE2301", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "BSP1005", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "BH2001", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "In this module, we use economic theory and quantitative methods to understand why some countries grew rich while others did not. Since the operation of an economy cannot be devoid of its institutional context, special attention will be paid to the political economy of development. Besides the economics literature, we will also read selected works by historians, political scientists, and sociologists to gain a more comprehensive understanding of development issues in Asia, Africa, and the West in recent centuries.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "ECONOMICS",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

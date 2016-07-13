@@ -1,0 +1,22 @@
+{
+"moduleCode": "BMK5003",
+"moduleTitle": "Behavioral Economics",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "An introductory course in microeconomics",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "BMK5003", 
+            "children": []
+},
+"moduleDescription": "Behavioral economics is an interdisciplinary field which applies psychological theory and research to economics. Important behavioral economics findings which demonstrate persistent and systematic deviations from the \u201crationality\u201d assumption in economic decision making will be surveyed. Alternative theoretical accounts departing from the standard rational, self-interested maximization models will be introduced. The implications to business practices will also be discussed.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "SCHOOL OF BUSINESS",
+"department": "MARKETING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

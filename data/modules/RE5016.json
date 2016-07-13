@@ -1,0 +1,22 @@
+{
+"moduleCode": "RE5016",
+"moduleTitle": "Real Estate Securitisation",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "RE5016", 
+            "children": []
+},
+"moduleDescription": "The course covers innovations in debt capital markets, mainly the design of mortgage contracts and the development of real estate securitisation and structured financing products globally. Students will acquire a toolkit that allows them to understand mortgage mathematics, term structure models and the pricing of embedded options in real estate debt instruments. The module also covers credit analysis and the role of credit rating for real estate debt. Emphasis will be placed on the investment characteristics and pricing of secondary real estate instruments such as Mortgage-Backed Securities (MBS), Collateralised Mortgage Obligations (CMOs), asset-backed securitisation deals, as well as publicly traded debt paper.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF DESIGN AND ENVIRONMENT",
+"department": "REAL ESTATE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

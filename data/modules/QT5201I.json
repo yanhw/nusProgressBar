@@ -1,0 +1,22 @@
+{
+"moduleCode": "QT5201I",
+"moduleTitle": "Breakthrough techniques in atomic and many-body physics",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "This module is open to all students at CQT and in Physics.Students from other departments and faculties are welcome, but it is advisable that they discuss their background with the lecturer before registering.",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "QT5201I", 
+            "children": []
+},
+"moduleDescription": "This module will introduce graduate students in CQT tospecialized areas of research in atomic and many-bodyphysics. The module will be taught by research fellows, providing a unique opportunity to learn advanced techniques from active researchers in the field of interest.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SPECIALITY RESEARCH INSTITUTES/CENTRES",
+"department": "CENTRE FOR QUANTUM TECHNOLOGIES",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

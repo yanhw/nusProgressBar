@@ -1,0 +1,46 @@
+{
+"moduleCode": "MUT3205",
+"moduleTitle": "Advanced Keyboard Studies",
+"moduleCredit": "3",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "MUT 1121, MUT 1122, MUT 3XXX or similar level of keyboard competency",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " and ": [
+                "MUT1121", 
+                "MUT1122"
+            ]
+},
+"prerequisiteList": ["MUT1121","MUT1122"],
+"completePrerequisite": {
+            "name": "MUT3205", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "MUT1121", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "MUT1122", 
+                            "children": [
+                                {
+                                    "name": "MUT1121", 
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module is a continuation of MUT 3XXX Intermediate Keyboard Studies. Students learn more advanced keyboard skills and techniques that enhance their musical experiences in performing and teaching. Such skills include orchestral score-reading, application of complex harmony in harmonization and transposition, study of modes and other scales, keyboard improvisation, pianist techniques, and instrumental and choir accompanying skills.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "YONG SIEW TOH CONSERVATORY OF MUSIC",
+"department": "YONG SIEW TOH CONSERVATORY OF MUSIC",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

@@ -1,0 +1,35 @@
+{
+"moduleCode": "ES1501C",
+"moduleTitle": "Critical Thinking and Expository Writing: Fact and Truth in Crime and Disaster Writing",
+"moduleCredit": "4",
+"lockedModules":[
+            "EG2401"
+        ],
+"preclusion": "1. Students who have already read a WP2201%, IEM1201%, UTW1001%, ES1201G, ES1201L, ES1601 or ES1501% module. 2. FoE students will be exempted from GET1021 or GEK1549/ES1531 and ES2331 if they have successfully completed ES1501%. 3. However, FoE students who have successfully completed ES1501% can still opt to read GET1021 or GEK1549/ES1531 and ES2331.",
+"prerequisite": "1.Students who are required to take ES1000 Basic English and/or ES1102 English for Academic Purposes must pass the modules before they are allowed to read this module. 2. FOE students should have sat for one of following examinations and obtained the grade required as indicated below in order to be eligible for ES1501%: a. Singapore-Cambridge GCE \u2018A\u2019 level, General Paper (A grade) b. Singapore-Cambridge GCE \u2018A\u2019 level, Knowledge Inquiry (A grade) c. International Baccalaureate, Theory of Knowledge (A grade) d. NUS High School of Mathematics and Science, EL5102 English for Academic Purposes Critical Reading & Writing (A grade) e. NUS High School of Mathematics and Science, EL5101 Language in Society II and EL6103 Language in Society III (A- grade for both modules). 3. Global Engineering Programme (GEP) and Double Degree Programme (DDP) students who obtained the minimum grade required as indicated below are also eligible to read ES1501%: a. Singapore-Cambridge GCE \u2018A\u2019 level, General Paper (B grade) b. Singapore-Cambridge GCE \u2018A\u2019 level, Knowledge Inquiry (B grade) c. International Baccalaureate, Theory of Knowledge (B grade) d. NUS High School of Mathematics and Science, EL5102 English for Academic Purposes Critical Reading & Writing (B grade) e. NUS High School of Mathematics and Science, EL5101 Language in Society II and EL6103 Language in Society III (B- grade for both modules)",
+"preclusionList": [
+            "ES1531",
+            "GET1021",
+            "ES1601",
+            "ES1201L",
+            "ES2331",
+            "ES1201G",
+            "ES1501",
+            "UTW1001",
+            "IEM1201",
+            "WP2201",
+            "GEK1549"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "ES1501C", 
+            "children": []
+},
+"moduleDescription": "Can facts be assembled to reveal the truth of an event? Is it possible the truth of an event can be subjective? Looking at classic and current examples of non-fiction crime and disaster writing, we will explore the craft of writing on sensitive subjects with objectivity and clarity. Crime and disaster stories require detailed anecdotes and descriptions to hold the reader. But they often draw upon official documents that are sometimes bland statements of fact, eyewitness accounts that vary greatly, or the seemingly hidden world of text and social media. We will cast a critical eye over this process of building essays reports or memos with facts and interviews and discuss how some of the best writers in the business get it right, or not.",
+"crossModule": "-1",
+"corequisite": "NA",
+"faculty": "NON-FACULTY-BASED DEPARTMENTS",
+"department": "CTR FOR ENGLISH LANGUAGE COMMUNICATION",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

@@ -1,0 +1,57 @@
+{
+"moduleCode": "ME5708",
+"moduleTitle": "Pressure Surges in Liquid & Gas Flow Systems",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "ME3233 or equivalent",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["ME3233"]
+},
+"prerequisiteList": ["ME3233","ME2135","ME2134","PC1431","PC1431F","PC1431X"],
+"completePrerequisite": {
+            "name": "ME5708", 
+            "children": [
+                {
+                    "name": "ME3233", 
+                    "children": [
+                        {
+                            "name": "ME2135", 
+                            "children": [
+                                {
+                                    "name": "ME2134", 
+                                    "children": [
+                                        {
+                                            "name": "or", 
+                                            "children": [
+                                                {
+                                                    "name": "PC1431", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "PC1431F", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "PC1431X", 
+                                                    "children": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module is suitable for persons interested in the design and analysis of pressure surge protection in Oil & Gas Systems. It is also suitable for R&D engineers working in the Oil & Gas field flow systems. Its contents are focused on giving an overview of the pressure surges in fluid systems; Methods of solutions and analysis of transient flow for Oil & liquid systems; Gas flow systems; Two phases Oil & Gas flow systems; Analysis and Solutions of Industrial Fluid Transients Problems; Industrial Pressure Protection methods. A structured programme of lectures, seminars, term papers, mini-projects and a final examination are included in this module.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "ENGINEERING",
+"department": "MECHANICAL ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

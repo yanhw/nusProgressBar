@@ -1,0 +1,116 @@
+{
+"moduleCode": "CS3223",
+"moduleTitle": "Database Systems Implementation",
+"moduleCredit": "4",
+"lockedModules":[
+            "CS5226",
+            "CS4224",
+            "CS4225",
+            "CS4221",
+            "CS6203"
+        ],
+"preclusion": "NIL",
+"prerequisite": "(CS2010 or its equivalent) and (CS2102 or CS2102S)",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " and ": [
+                "CS2010", 
+                {
+                    " or ": [
+                        "CS2102", 
+                        "CS2102S"
+                    ]
+                }
+            ]
+},
+"prerequisiteList": ["CS2010","CS1020","CS1010","CS1020E","CS1010E","CG1103","CS2102","CS1231","MA1100","CS2102S"],
+"completePrerequisite": {
+            "name": "CS3223", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "CS2010", 
+                            "children": [
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "CS1020", 
+                                            "children": [
+                                                {
+                                                    "name": "CS1010", 
+                                                    "children": []
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "CS1020E", 
+                                            "children": [
+                                                {
+                                                    "name": "CS1010E", 
+                                                    "children": []
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "CG1103", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "or", 
+                            "children": [
+                                {
+                                    "name": "CS2102", 
+                                    "children": [
+                                        {
+                                            "name": "and", 
+                                            "children": [
+                                                {
+                                                    "name": "CS1020", 
+                                                    "children": [
+                                                        {
+                                                            "name": "CS1010", 
+                                                            "children": []
+                                                        }
+                                                    ]
+                                                }, 
+                                                {
+                                                    "name": "or", 
+                                                    "children": [
+                                                        {
+                                                            "name": "CS1231", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "MA1100", 
+                                                            "children": []
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }, 
+                                {
+                                    "name": "CS2102S", 
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module provides an in-depth study of the concepts and implementation issues related to database management systems. It first covers the physical implementation of relational data model, which includes storage management, access methods, query processing, and optimisation. Then it covers issues and techniques dealing with multi-user application environments, namely, transactions, concurrency control and recovery. The third part covers object-database systems that are useful extension of relational databases to deal with complex data types. The last part covers database technologies required for modern decision support systems, including data warehousing, data mining and knowledge discovery and on-line analytical processing.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF COMPUTING",
+"department": "COMPUTER SCIENCE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

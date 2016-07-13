@@ -1,0 +1,22 @@
+{
+"moduleCode": "ME3263",
+"moduleTitle": "Design For Manufacturing And Assembly",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "ME3263", 
+            "children": []
+},
+"moduleDescription": "This module teaches product design for manufacture and assembly. It covers the details of design for manufacture and assembly (DFMA) methods for practicing engineers and also allows for learning of concurrent or simultaneous engineering. The topics covered: Introduction, Selection of materials and processes; Product design for manual assembly; Design for automatic assembly and robotic assembly; Design for machining; Design for rapid prototyping and tooling (rapid mould making); Design for injection moulding. The module is targeted at students majoring in manufacturing.",
+"crossModule": "-1",
+"corequisite": "ME2162/ME3162",
+"faculty": "ENGINEERING",
+"department": "MECHANICAL ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

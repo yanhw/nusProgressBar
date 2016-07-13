@@ -1,0 +1,24 @@
+{
+"moduleCode": "CS1231R",
+"moduleTitle": "Discrete Structures",
+"moduleCredit": "1",
+"lockedModules":[
+],
+"preclusion": "MA1100",
+"prerequisite": "Co-read with host module in current semester or pass host module in previous semester. Student selection process is enforced.",
+"preclusionList": [
+            "MA1100"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "CS1231R", 
+            "children": []
+},
+"moduleDescription": "This 1-MC module adds a research component to the host module, enabling students to acquire more in-depth understanding of the research issues pertaining to the subject matter.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF COMPUTING",
+"department": "COMPUTER SCIENCE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

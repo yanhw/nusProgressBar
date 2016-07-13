@@ -1,0 +1,34 @@
+{
+"moduleCode": "RE3201",
+"moduleTitle": "Research Methodology",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "RE2101 Real Estate Market Analysis, RE2104 Real Estate Finance",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["RE2104"]
+},
+"prerequisiteList": ["RE2104","RE1101"],
+"completePrerequisite": {
+            "name": "RE3201", 
+            "children": [
+                {
+                    "name": "RE2104", 
+                    "children": [
+                        {
+                            "name": "RE1101", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "Students will be introduced to the mechanics and process of research. This module covers topics such as: problem identification and formulation, statement of research objectives, literature review, development of relevant hypothesis, research design and methodologies, data collection, statistical analyses, report writing and presentation. Statistical techniques such as descriptive and inferential statistics, time series, and multivariate statistical methods will be introduced. The emphasis is on the application of the statistical tools to real estate research questions. Students will also learn to apply basic statistical tools with hands-on practices on software like SPSS and Eview.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "SCHOOL OF DESIGN AND ENVIRONMENT",
+"department": "REAL ESTATE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

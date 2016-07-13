@@ -1,0 +1,219 @@
+{
+"moduleCode": "MA3269",
+"moduleTitle": "Mathematical Finance I",
+"moduleCredit": "4",
+"lockedModules":[
+            "QF3101",
+            "MA4269"
+        ],
+"preclusion": "QF2101 Basic Financial Mathematics",
+"prerequisite": "(CS1010 or CS1010E or CS1010S or CS1010FC or IT1006 or CS1101 or CS1101C or CS1101S or IT1002) and (ST2131 or ST2334 or MA2216)",
+"preclusionList": [
+            "QF2101"
+        ],
+"parsedPrerequisite": {
+            " and ": [
+                {
+                    " or ": [
+                        "CS1010", 
+                        "CS1010E", 
+                        "CS1010S", 
+                        "CS1010F", 
+                        "IT1006", 
+                        "CS1101", 
+                        "CS1101C", 
+                        "CS1101S", 
+                        "IT1002"
+                    ]
+                }, 
+                {
+                    " or ": [
+                        "ST2131", 
+                        "ST2334", 
+                        "MA2216"
+                    ]
+                }
+            ]
+},
+"prerequisiteList": ["CS1010","CS1010E","CS1010S","CS1010F","IT1006","CS1101","CS1101C","CS1101S","IT1002","ST2131","MA1102","MA1102R","MA1312","MA1507","MA1505","MA1505C","MA1521","ST2334","MA1306","MA2216"],
+"completePrerequisite": {
+            "name": "MA3269", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "or", 
+                            "children": [
+                                {
+                                    "name": "CS1010", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "CS1010E", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "CS1010S", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "CS1010F", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "IT1006", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "CS1101", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "CS1101C", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "CS1101S", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "IT1002", 
+                                    "children": []
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "or", 
+                            "children": [
+                                {
+                                    "name": "ST2131", 
+                                    "children": [
+                                        {
+                                            "name": "or", 
+                                            "children": [
+                                                {
+                                                    "name": "MA1102", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MA1102R", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MA1312", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MA1507", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MA1505", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MA1505C", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MA1521", 
+                                                    "children": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }, 
+                                {
+                                    "name": "ST2334", 
+                                    "children": [
+                                        {
+                                            "name": "or", 
+                                            "children": [
+                                                {
+                                                    "name": "MA1306", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MA1102", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MA1102R", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MA1505", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MA1505C", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MA1521", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MA1312", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MA1507", 
+                                                    "children": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }, 
+                                {
+                                    "name": "MA2216", 
+                                    "children": [
+                                        {
+                                            "name": "or", 
+                                            "children": [
+                                                {
+                                                    "name": "MA1102", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MA1102R", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MA1312", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MA1507", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MA1505", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MA1505C", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MA1521", 
+                                                    "children": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module introduces the students to the basics of financial mathematics and targets all students who have an interest in building a foundation in financial mathematics. Topics include basic mathematical theory of interest, term structure of interest rates, fixed income securities, risk aversion, basic utility theory, single-period portfolio optimization, basic option theory. Mathematical rigor will be emphasized.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "SCIENCE",
+"department": "MATHEMATICS",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

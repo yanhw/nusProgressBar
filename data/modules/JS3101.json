@@ -1,0 +1,56 @@
+{
+"moduleCode": "JS3101",
+"moduleTitle": "Approaches to Japanese Studies II",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "This module is for students who major in Japanese Studies. Students should have completed JS2101 Approaches to Japanese Studies I and at least LAJ2202 Japanese 3 (or equivalent Japanese language skills).",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " and ": [
+                "JS2101", 
+                "LAJ2202"
+            ]
+},
+"prerequisiteList": ["JS2101","JS1101E","LAJ2202","LAJ2201","LAJ1201"],
+"completePrerequisite": {
+            "name": "JS3101", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "JS2101", 
+                            "children": [
+                                {
+                                    "name": "JS1101E", 
+                                    "children": []
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "LAJ2202", 
+                            "children": [
+                                {
+                                    "name": "LAJ2201", 
+                                    "children": [
+                                        {
+                                            "name": "LAJ1201", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module guides students towards using source materials in the Japanese language for their research. Based on their disciplinary interests, students will develop a research question and write a substantial paper based on Japanese language sources. Catering to students with different levels of Japanese language ability, this can be a review paper based on academic work in Japanese or a research paper using primary materials of different levels of difficulties, for example newspaper articles, government committee protocols, NGO publications, websites, or Japanese advertisements.",
+"crossModule": "-1",
+"corequisite": "Nil",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "JAPANESE STUDIES",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

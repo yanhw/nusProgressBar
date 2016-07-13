@@ -1,0 +1,22 @@
+{
+"moduleCode": "EL5203",
+"moduleTitle": "Sociophonetics",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "Must be registered as a Graduate student in the university or with the approval of the Department.",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "EL5203", 
+            "children": []
+},
+"moduleDescription": "This module will familiarize students with the tools and methodologies of phonetic analysis and how these may be employed in the investigation of the relationship of language and society. The module will focus on acoustic analysis with additional units on articulatory and auditory phonetics, and cover both segmental features (vowels, consonants) and suprasegmental features (intonation, rhythm, voice quality). Students will collaborate on a group research project related to speech in Singapore.",
+"crossModule": "-1",
+"corequisite": "Nil",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "ENGLISH LANGUAGE & LITERATURE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

@@ -1,0 +1,57 @@
+{
+"moduleCode": "CE5207",
+"moduleTitle": "Pavement Network Management Systems",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "CE3121",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["CE3121"]
+},
+"prerequisiteList": ["CE3121","CE2407","MA1506","MA1102R","MA1505","MA1521"],
+"completePrerequisite": {
+            "name": "CE5207", 
+            "children": [
+                {
+                    "name": "CE3121", 
+                    "children": [
+                        {
+                            "name": "CE2407", 
+                            "children": [
+                                {
+                                    "name": "MA1506", 
+                                    "children": [
+                                        {
+                                            "name": "or", 
+                                            "children": [
+                                                {
+                                                    "name": "MA1102R", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MA1505", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MA1521", 
+                                                    "children": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "The course introduces the basic principles and concepts of management systems for road and airfield pavement network. The major issues addressed include the conflicting objectives and requirements of pavement operations, challenges to developing sound pavement management system, and analytical tools and techniques involved in the development of the system. Students will be introduced to the concept of pavement management, techniques of evaluating different financing and management strategies of pavement operations, methods of pavement conditions and performance data collection, optimal programming of pavement management activities, budget planning and life-cycle cost analysis, and examples of pavement management systems (PMS). The module requires each student to do a term project to analyse a case study of PMS development, identify deficiencies of the system and propose schemes to improve the operational efficiencies of the system.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "CIVIL & ENVIRONMENTAL ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

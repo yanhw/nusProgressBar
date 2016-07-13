@@ -1,0 +1,22 @@
+{
+"moduleCode": "CM5131",
+"moduleTitle": "Graduate Physical Chemistry",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "By permission",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "CM5131", 
+            "children": []
+},
+"moduleDescription": "This module is concerned with advanced core physical chemistry. It is intended for all graduate students studying physical chemistry. The topics covered are: statistical mechanics, electronic structure calculations, statistical thermodynamic data from electronic structure calculations. Transition state theory and chemical dynamics. Computing rate coefficients from electronic structure calculations.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCIENCE",
+"department": "CHEMISTRY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

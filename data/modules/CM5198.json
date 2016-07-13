@@ -1,0 +1,22 @@
+{
+"moduleCode": "CM5198",
+"moduleTitle": "Graduate Seminar Module in Chemistry",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "Graduate seminar modules by other departments",
+"prerequisite": "Registration as Graduate Student in the Department of Chemistry",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "CM5198", 
+            "children": []
+},
+"moduleDescription": "This is a required module for all research Masters and PhD students admitted fromAY2004/2005. The main purpose of this module is to help graduate students to improve their scientific presentation skills and to participate in scientific seminars/exchanges in a professional manner. The module will be spread over 2 Semesters and be graded \"Satisfactory/Unsatisfactory\"grade on the basis of student presentation and participation.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCIENCE",
+"department": "CHEMISTRY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

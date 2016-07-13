@@ -1,0 +1,84 @@
+{
+"moduleCode": "PR5219",
+"moduleTitle": "Product Quality Management",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "(PR2101, PR3102 and PR4106) or PR3301",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " or ": [
+                {
+                    " and ": [
+                        "PR2101", 
+                        "PR3102", 
+                        "PR4106"
+                    ]
+                }, 
+                "PR3301"
+            ]
+},
+"prerequisiteList": ["PR2101","PR1102","PR3102","PR2105","PR4106","PR3301"],
+"completePrerequisite": {
+            "name": "PR5219", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "and", 
+                            "children": [
+                                {
+                                    "name": "PR2101", 
+                                    "children": [
+                                        {
+                                            "name": "PR1102", 
+                                            "children": []
+                                        }
+                                    ]
+                                }, 
+                                {
+                                    "name": "PR3102", 
+                                    "children": [
+                                        {
+                                            "name": "and", 
+                                            "children": [
+                                                {
+                                                    "name": "PR1102", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "PR2105", 
+                                                    "children": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }, 
+                                {
+                                    "name": "PR4106", 
+                                    "children": [
+                                        {
+                                            "name": "PR1102", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "PR3301", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "The module will emphasise proven quality management procedures such as \u201cSix Sigma\u201d, \u201cBaldridge\u201d, \u201cTotal Quality Management\u201d, \u201cLean Management\u201d and Project Design and Management\u201d. The module will also include various types of audits and inspections that occur in the pharmaceutical industry. Target students: Enrolment in M.Sc. (Pharmaceutical Sciences & Technology) programme.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCIENCE",
+"department": "PHARMACY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

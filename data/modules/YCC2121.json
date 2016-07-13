@@ -1,0 +1,29 @@
+{
+"moduleCode": "YCC2121",
+"moduleTitle": "Modern Social Thought",
+"moduleCredit": "5",
+"lockedModules":[
+            "YHU2245",
+            "YSS2209",
+            "YSS3216",
+            "YSS3223",
+            "YSS3231",
+            "YSS3202",
+            "YHU2239"
+        ],
+"preclusion": "Not Applicable",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "YCC2121", 
+            "children": []
+},
+"moduleDescription": "This module will introduce students to foundational figures of modern social thought and explore the ways in which their writings have been taken up in contemporary social analysis and political practice in different parts of the world.",
+"crossModule": "-1",
+"corequisite": "Not Applicable",
+"faculty": "YALE-NUS COLLEGE",
+"department": "YALE-NUS COLLEGE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

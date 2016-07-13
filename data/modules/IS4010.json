@@ -1,0 +1,160 @@
+{
+"moduleCode": "IS4010",
+"moduleTitle": "Industry Internship Programme",
+"moduleCredit": "12",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "(i) At least 80 MCs fulfilled, and (ii) IS2101 Business and Technical Communication, and (iii) IS2103 Enterprise Systems Development Concepts for Information System degree programme student, or IS2150 E-Business Design and Implementation for Electronic Commerce degree programme student, or BT2101 IT and Decision Making for Business Analytics degree programme student",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " and ": [
+                "IS2101", 
+                {
+                    " or ": [
+                        "IS2103", 
+                        "IS2150", 
+                        "BT2101"
+                    ]
+                }
+            ]
+},
+"prerequisiteList": ["IS2101","ES1000","ES1102","IS2103","CS1020","CS1010","CS1102","CS1102C","CS1102S","IS2150","IS1112","BT2101","MA1521","MA1102R"],
+"completePrerequisite": {
+            "name": "IS4010", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "IS2101", 
+                            "children": [
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "ES1000", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "ES1102", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "or", 
+                            "children": [
+                                {
+                                    "name": "IS2103", 
+                                    "children": [
+                                        {
+                                            "name": "or", 
+                                            "children": [
+                                                {
+                                                    "name": "CS1020", 
+                                                    "children": [
+                                                        {
+                                                            "name": "CS1010", 
+                                                            "children": []
+                                                        }
+                                                    ]
+                                                }, 
+                                                {
+                                                    "name": "CS1102", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "CS1102C", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "CS1102S", 
+                                                    "children": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }, 
+                                {
+                                    "name": "IS2150", 
+                                    "children": [
+                                        {
+                                            "name": "and", 
+                                            "children": [
+                                                {
+                                                    "name": "or", 
+                                                    "children": [
+                                                        {
+                                                            "name": "CS1020", 
+                                                            "children": [
+                                                                {
+                                                                    "name": "CS1010", 
+                                                                    "children": []
+                                                                }
+                                                            ]
+                                                        }, 
+                                                        {
+                                                            "name": "CS1102", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "CS1102S", 
+                                                            "children": []
+                                                        }
+                                                    ]
+                                                }, 
+                                                {
+                                                    "name": "IS1112", 
+                                                    "children": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }, 
+                                {
+                                    "name": "BT2101", 
+                                    "children": [
+                                        {
+                                            "name": "and", 
+                                            "children": [
+                                                {
+                                                    "name": "CS1010", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "IS1112", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "or", 
+                                                    "children": [
+                                                        {
+                                                            "name": "MA1521", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "MA1102R", 
+                                                            "children": []
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module enables students to apply the computing knowledge and skills that they have acquired in class to industry internships in companies/organizations. Students in industry internships will be jointly guided by supervisors from both the companies/organizations and the school Their progress on internship projects will be monitored during internship period, and their performance will be assessed through letter grades at the end of the internship. The internship duration will be 6 months, consisting of both a full-time and part-time component. Full-time internship attachment will last for 3 months during the NUS vacation period, and will continue on a part-time basis that will last for 3 months during the NUS study semester.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF COMPUTING",
+"department": "INFORMATION SYSTEMS",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,3,4,]]
+}

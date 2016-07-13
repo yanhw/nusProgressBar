@@ -1,0 +1,55 @@
+{
+"moduleCode": "MUA4190",
+"moduleTitle": "Applied Voice Major Study 4A",
+"moduleCredit": "4",
+"lockedModules":[
+            "MUA4191"
+        ],
+"preclusion": "NIL",
+"prerequisite": "MUA 3191 or Permission of Instructor",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["MUA3191"]
+},
+"prerequisiteList": ["MUA3191","MUA3190","MUA2191","MUA2190","MUA1191","MUA1190"],
+"completePrerequisite": {
+            "name": "MUA4190", 
+            "children": [
+                {
+                    "name": "MUA3191", 
+                    "children": [
+                        {
+                            "name": "MUA3190", 
+                            "children": [
+                                {
+                                    "name": "MUA2191", 
+                                    "children": [
+                                        {
+                                            "name": "MUA2190", 
+                                            "children": [
+                                                {
+                                                    "name": "MUA1191", 
+                                                    "children": [
+                                                        {
+                                                            "name": "MUA1190", 
+                                                            "children": []
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "Individual voice lessons specially designed for first semester, senior year performance majors. Technical skills, competency and suitable repertoire are expected at the appropriate levels. An individual performance will be required during the second semester of every academic year.",
+"crossModule": "-1",
+"corequisite": "Nil",
+"faculty": "YONG SIEW TOH CONSERVATORY OF MUSIC",
+"department": "YONG SIEW TOH CONSERVATORY OF MUSIC",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

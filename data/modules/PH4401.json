@@ -1,0 +1,24 @@
+{
+"moduleCode": "PH4401",
+"moduleTitle": "Honours Thesis",
+"moduleCredit": "15",
+"lockedModules":[
+],
+"preclusion": "PH4660",
+"prerequisite": "Completed 110 MCs including 60 MCs of PH major requirements with a minimum CAP of 3.50.",
+"preclusionList": [
+            "PH4660"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "PH4401", 
+            "children": []
+},
+"moduleDescription": "A dissertation on an approved research topic not exceeding twelve thousand words.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "PHILOSOPHY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

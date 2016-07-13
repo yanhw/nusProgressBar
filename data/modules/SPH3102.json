@@ -1,0 +1,22 @@
+{
+"moduleCode": "SPH3102",
+"moduleTitle": "Public Health Communication",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "SPH3102", 
+            "children": []
+},
+"moduleDescription": "This module equips students with the principles and skills to design health communication messages and activities/projects e.g. talks, skills development, telehealth in a variety of settings such as the school, workplace, internet and the community. It emphasizes the critical analysis and application of health communication theory and social marketing principles in the design of messages and communication projects to promote health in the community.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "SAW SWEE HOCK SCHOOL OF PUBLIC HEALTH",
+"department": "SAW SWEE HOCK SCHOOL OF PUBLIC HEALTH",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

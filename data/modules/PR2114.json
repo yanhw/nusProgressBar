@@ -1,0 +1,22 @@
+{
+"moduleCode": "PR2114",
+"moduleTitle": "Formulation & Technology I",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "Pass in A-level H2 Chem or the equivalent",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "PR2114", 
+            "children": []
+},
+"moduleDescription": "This module studies the fundamental physical chemical principles which are important to the design and development of pharmaceutical formulations. The major topics to be covered include: phase diagrams; solutions; buffers & isotonicity; partition, diffusion & mass transfer; solubility & dissolution; reaction kinetics & drug product stability; physical properties of solids (crystallinity, polymorphism); interfacial phenomenon; colloidal systems.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCIENCE",
+"department": "PHARMACY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

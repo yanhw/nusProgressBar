@@ -1,0 +1,54 @@
+{
+"moduleCode": "CM3252",
+"moduleTitle": "Polymer Chemistry 1",
+"moduleCredit": "4",
+"lockedModules":[
+            "CM4252",
+            "CM4251",
+            "CM4258"
+        ],
+"preclusion": "CM2264, CM3262, CM3265, CM3266",
+"prerequisite": "CM1131 and CM2121",
+"preclusionList": [
+            "CM2264",
+            "CM3266",
+            "CM3265",
+            "CM3262"
+        ],
+"parsedPrerequisite": {
+            " and ": [
+                "CM1131", 
+                "CM2121"
+            ]
+},
+"prerequisiteList": ["CM1131","CM2121","CM1121"],
+"completePrerequisite": {
+            "name": "CM3252", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "CM1131", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "CM2121", 
+                            "children": [
+                                {
+                                    "name": "CM1121", 
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "Polymer science is the study of plastic materials of everyday life and the development of new materials that meet technological needs. This module covers classification and synthesis of polymers by different polymerization techniques; copolymerization reactions and industrial polymers. Physical properties of polymers both in the solid state and in solution will also be discussed. Knowledge in laboratory techniques in polymerization, determination of molecular weight and stability and spectroscopic studies will be introduced.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCIENCE",
+"department": "CHEMISTRY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

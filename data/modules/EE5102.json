@@ -1,0 +1,123 @@
+{
+"moduleCode": "EE5102",
+"moduleTitle": "Multivariable Control Systems",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "EE6102 Multivariable Control Systems (Advanced)",
+"prerequisite": "EE5101 / EE5101R / ME5401 Linear Systems",
+"preclusionList": [
+            "EE6102"
+        ],
+"parsedPrerequisite": {
+            " or ": [
+                "EE5101", 
+                "EE5101R", 
+                "ME5401"
+            ]
+},
+"prerequisiteList": ["EE5101","EE5101R","ME5401","EE4302","EE3331C","EE2023","MA1506","MA1102R","MA1505","MA1521","ME4246","ME2142"],
+"completePrerequisite": {
+            "name": "EE5102", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "EE5101", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "EE5101R", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "ME5401", 
+                            "children": [
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "EE4302", 
+                                            "children": [
+                                                {
+                                                    "name": "EE3331C", 
+                                                    "children": [
+                                                        {
+                                                            "name": "EE2023", 
+                                                            "children": [
+                                                                {
+                                                                    "name": "MA1506", 
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "or", 
+                                                                            "children": [
+                                                                                {
+                                                                                    "name": "MA1102R", 
+                                                                                    "children": []
+                                                                                }, 
+                                                                                {
+                                                                                    "name": "MA1505", 
+                                                                                    "children": []
+                                                                                }, 
+                                                                                {
+                                                                                    "name": "MA1521", 
+                                                                                    "children": []
+                                                                                }
+                                                                            ]
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "ME4246", 
+                                            "children": [
+                                                {
+                                                    "name": "ME2142", 
+                                                    "children": [
+                                                        {
+                                                            "name": "MA1506", 
+                                                            "children": [
+                                                                {
+                                                                    "name": "or", 
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "MA1102R", 
+                                                                            "children": []
+                                                                        }, 
+                                                                        {
+                                                                            "name": "MA1505", 
+                                                                            "children": []
+                                                                        }, 
+                                                                        {
+                                                                            "name": "MA1521", 
+                                                                            "children": []
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module covers both classical topics and current techniques in multivariable control system design. It gives students a good understanding of the differences between single loop and multi-loop systems, in terms of both analysis and synthesis. The topics covered include: Principles of single- and multi-loop feedback designs; poles, zeros and stability of multivariable feedback systems; performance and robustness of multivariable feedback systems; control system design using LQR technique, LQG/LTR method, H2 and H-infinity control, and computer aided design software.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "ELECTRICAL & COMPUTER ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

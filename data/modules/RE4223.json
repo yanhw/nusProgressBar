@@ -1,0 +1,44 @@
+{
+"moduleCode": "RE4223",
+"moduleTitle": "Urban Planning In Asian Cities",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "RE3102 ADVANCED TOPICS IN URBAN PLANNING RE4221 ADVANCED URBAN PLANNING THEORIES RE4222 PUBLIC POLICY AND REAL ESTATE MARKET",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["RE4222"]
+},
+"prerequisiteList": ["RE4222","RE3104","RE2104","RE1101"],
+"completePrerequisite": {
+            "name": "RE4223", 
+            "children": [
+                {
+                    "name": "RE4222", 
+                    "children": [
+                        {
+                            "name": "RE3104", 
+                            "children": [
+                                {
+                                    "name": "RE2104", 
+                                    "children": [
+                                        {
+                                            "name": "RE1101", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module provides a comparative and evaluative study of Asian cities, highlighting different planning regimes, regulatory processes and institutional environments. The aim is to provide a better understanding of urban planning and how it interacts with economic, social, cultural and political dynamics to shape cities. The module uses a case study and narrative approach, and may include a field study to enhance the appreciation of planning responses to the dynamics of city growth and change at different stages of urban development.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF DESIGN AND ENVIRONMENT",
+"department": "REAL ESTATE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

@@ -1,0 +1,65 @@
+{
+"moduleCode": "YSC3221",
+"moduleTitle": "Computer Vision",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "YSC3207 Principles and Tools of Software Development YSC3205 Linear Algebra Or permission of instructor",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " and ": [
+                "YSC3207", 
+                "YSC3205"
+            ]
+},
+"prerequisiteList": ["YSC3207","YCC2133","YCC1132","YSC1202","YSC3205","YSC2209"],
+"completePrerequisite": {
+            "name": "YSC3221", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "YSC3207", 
+                            "children": [
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "YCC2133", 
+                                            "children": [
+                                                {
+                                                    "name": "YCC1132", 
+                                                    "children": []
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "YSC1202", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "YSC3205", 
+                            "children": [
+                                {
+                                    "name": "YSC2209", 
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "The goal of computer vision is to make computers work like human visual perception, namely, to understand and recognize the world through visual information, such as, images or videos. Human visual perception, after millions of years of evolution, is extremely good in understanding and recognizing objects or scenes. To have similar abilities to human visual perception, computer scientists have been developing algorithms by relying on various visual information, and this course is about some of these algorithms. Silhouette-based 3D reconstruction, segmentation, multiview geometry, Bayesian/probabilistic inference for image modelling and analysis, object recognition, visual tracking, photometric stereo, image editing and enhancement.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "YALE-NUS COLLEGE",
+"department": "YALE-NUS COLLEGE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

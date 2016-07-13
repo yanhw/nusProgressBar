@@ -1,0 +1,55 @@
+{
+"moduleCode": "AUD5114",
+"moduleTitle": "Electrophysiological Assessment B",
+"moduleCredit": "2",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "AUD5102 Anatomy and Physiology AUD5103 Pathologies of the Auditory System AUD5106 Clinical Audiology A (Part 1) AUD5107 Paediatric Audiology A (Part 1) AUD5108 Electrophysiology Assessment A",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " and ": [
+                "AUD5107", 
+                "AUD5108"
+            ]
+},
+"prerequisiteList": ["AUD5107","AUD5108","AUD5102","AUD5103"],
+"completePrerequisite": {
+            "name": "AUD5114", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "AUD5107", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "AUD5108", 
+                            "children": [
+                                {
+                                    "name": "and", 
+                                    "children": [
+                                        {
+                                            "name": "AUD5102", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "AUD5103", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This subject builds on the knowledge obtained in the Electrophysiological Assessment A subject. Students will have the opportunity to examine the principles and practices associated with advanced auditory evoked potential assessment in the clinic (NUH).",
+"crossModule": "-1",
+"corequisite": "AUD5112 Clinical Audiology A (Part 2); AUD5113 Paediatric Audiology A (Part 2)",
+"faculty": "YONG LOO LIN SCHOOL OF MEDICINE",
+"department": "DIVISION OF GRADUATE MEDICAL STUDIES",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

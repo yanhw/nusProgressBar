@@ -1,0 +1,24 @@
+{
+"moduleCode": "ST5203",
+"moduleTitle": "Experimental Design",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "ST5318",
+"prerequisite": "Departmental approval",
+"preclusionList": [
+            "ST5318"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "ST5203", 
+            "children": []
+},
+"moduleDescription": "Basics of experimental design and analysis: randomization, blocking and confounding, factorial designs, fractional factorial designs, incomplete block designs, Latin squares, unbalanced designs and missing values, split plot, nested and crossover designs, uniform designs, optimal designs, response surface methodology. This module is targeted at students who are interested in Statistics and are able to meet the pre-requisites.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCIENCE",
+"department": "STATISTICS & APPLIED PROBABILITY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

@@ -1,0 +1,22 @@
+{
+"moduleCode": "PF2201",
+"moduleTitle": "Scope and Design Management",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "PF2201", 
+            "children": []
+},
+"moduleDescription": "This module covers the fundamental principles relating to managing the designprocess and forming the project scope. Major topics are consideration and assessment of clients; requirements, selection of projects, formulationof project brief, the role of design as well as the deisgner in projects, design for value, integrated designs, and design evaluation.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF DESIGN AND ENVIRONMENT",
+"department": "BUILDING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

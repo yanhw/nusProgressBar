@@ -1,0 +1,24 @@
+{
+"moduleCode": "GES1028",
+"moduleTitle": "Singapore Society",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "SSA1201",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "SSA1201"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "GES1028", 
+            "children": []
+},
+"moduleDescription": "This module introduces students to critical developments in the development of Singapore as a society and nation-state. It enables students to develop skills in understanding and making sense of Singapore society. It also encourages them to develop alternative interpretations of the development of Singapore society. The topics include the following: the origins of Singapore, ideology and identity, ethnic relations, industrialisation, family, gender, religion, and the state and civil society.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "SOCIOLOGY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

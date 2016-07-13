@@ -1,0 +1,22 @@
+{
+"moduleCode": "BN3101",
+"moduleTitle": "Biomedical Engineering Design",
+"moduleCredit": "6",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "BN3101", 
+            "children": []
+},
+"moduleDescription": "Preparation of formal engineering reports on a series of engineering analysis and design problems illustrating methodology from various branches of applied mechanics as applied to bioengineering problems. Statistical analysis. A term project and oral presentation are required. Students are exposed to the entire design process: design problem definition, generation of a design specification, documentation, design review process, prototype fabrication, testing and calibration.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "BIOMEDICAL ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

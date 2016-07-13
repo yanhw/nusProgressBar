@@ -1,0 +1,74 @@
+{
+"moduleCode": "CS6242",
+"moduleTitle": "Digital Libraries",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "CS3245 and CS3246 or their equivalent",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " and ": [
+                "CS3245", 
+                "CS3246"
+            ]
+},
+"prerequisiteList": ["CS3245","CS2010","CS1020","CS1010","CS1020E","CS1010E","CG1103","CS3246"],
+"completePrerequisite": {
+            "name": "CS6242", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "CS3245", 
+                            "children": [
+                                {
+                                    "name": "CS2010", 
+                                    "children": [
+                                        {
+                                            "name": "or", 
+                                            "children": [
+                                                {
+                                                    "name": "CS1020", 
+                                                    "children": [
+                                                        {
+                                                            "name": "CS1010", 
+                                                            "children": []
+                                                        }
+                                                    ]
+                                                }, 
+                                                {
+                                                    "name": "CS1020E", 
+                                                    "children": [
+                                                        {
+                                                            "name": "CS1010E", 
+                                                            "children": []
+                                                        }
+                                                    ]
+                                                }, 
+                                                {
+                                                    "name": "CG1103", 
+                                                    "children": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "CS3246", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module is targeted to graduate students of computer science and information systems wishing to understand the issues in building, using and maintaining large volumes of knowledge in digital libraries. Fundamentals of modern information retrieval is assumed. The course will focus on how such information retrieval technology operationalises traditional information finding skills of the librarian/cataloger/archivist, organised around 5S framework for digital library education. Areas within digital libraries that will be covered include collection development, knowledge organisation, DL architecture, user behavior, services, preservation, management and evaluation and DL education and research. Students will round out their knowledge with case studies of how different disciplines (e.g. music, arts, medicine and law) impose different search, usability and maintenance requirements on the digital library.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF COMPUTING",
+"department": "COMPUTER SCIENCE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

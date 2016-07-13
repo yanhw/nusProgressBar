@@ -1,0 +1,22 @@
+{
+"moduleCode": "PP5411",
+"moduleTitle": "Economic Analysis of Public Policy (Gateway)",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "PP5411", 
+            "children": []
+},
+"moduleDescription": "The module covers microeconomics and macroeconomics at a more advanced level than the Economic Foundations course. The objective is to deepen students' understanding of key economic principles and their application in public policy. The first part of the module covers advanced topics in consumer decision-making, factor markets, and decision making under uncertainty. The second covers monetary and financial issues with attention to inflation and the intermediary role of the financial sector. This is followed by an analysis of fiscal, monetary, and prudential policies. Finally, the last part addresses gains from international trade, managing capital flows, and choice of exchange rate regime.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "LEE KUAN YEW SCHOOL OF PUBLIC POLICY",
+"department": "LEE KUAN YEW SCHOOL OF PUBLIC POLICY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

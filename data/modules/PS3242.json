@@ -1,0 +1,22 @@
+{
+"moduleCode": "PS3242",
+"moduleTitle": "US Foreign Policy",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "PS3242", 
+            "children": []
+},
+"moduleDescription": "This module considers the foreign relations of the United States. It covers both the institutions and practices that shape the making of US foreign policy and the substantive policies that emerge from the policy process.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "POLITICAL SCIENCE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

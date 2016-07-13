@@ -1,0 +1,23 @@
+{
+"moduleCode": "GL4101",
+"moduleTitle": "Readings in Global Issues",
+"moduleCredit": "5",
+"lockedModules":[
+            "GL4102"
+        ],
+"preclusion": "NIL",
+"prerequisite": "GL majors ONLY. Completed 80 MCs, including 28 MCs in GL/GL recognised non-language modules, with a minimum CAP of 3.20 or be on the Honours track.",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "GL4101", 
+            "children": []
+},
+"moduleDescription": "This module is a capstone seminar for the Global Studies programme. Each seminar will investigate one specific global issue in depth. Possible topics include legacies of anti-communism, xenophobia, the US war in Iraq, the 2008 financial crisis, climate change, and global poverty.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "POLITICAL SCIENCE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

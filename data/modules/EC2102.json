@@ -1,0 +1,66 @@
+{
+"moduleCode": "EC2102",
+"moduleTitle": "Macroeconomic Analysis I",
+"moduleCredit": "4",
+"lockedModules":[
+            "EC3342",
+            "EC3395",
+            "EC3394",
+            "EC3314",
+            "EC3378",
+            "EC3377",
+            "EC3376",
+            "EC3343"
+        ],
+"preclusion": "BSP2001",
+"prerequisite": "EC1101E or EC1301 or USE2301 or BSP1005 or BH2001",
+"preclusionList": [
+            "BSP2001"
+        ],
+"parsedPrerequisite": {
+            " or ": [
+                "EC1101E", 
+                "EC1301", 
+                "USE2301", 
+                "BSP1005", 
+                "BH2001"
+            ]
+},
+"prerequisiteList": ["EC1101E","EC1301","USE2301","BSP1005","BH2001"],
+"completePrerequisite": {
+            "name": "EC2102", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "EC1101E", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "EC1301", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "USE2301", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "BSP1005", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "BH2001", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This course develops the analytical tools to understand basic questions on short-run macroeconomic fluctuations, and shows how these tools can be applied to real world situations. In the process of developing these tools, we will discuss the determinants of consumption and investment. Next we turn to different business cycle theories. Specifically, we study the Keynesian, New Keynesian, Neo Classical and Real Business Cycle models, and examine their different assumptions and policy prescriptions for macroeconomic stabilization. IS-LM and AD-AS frameworks are employed in studying some or all of these paradigms. Finally, we evaluate the predictions of these models against business cycle facts. We will also briefly review national income accounting and discuss some measurement issues.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "ECONOMICS",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

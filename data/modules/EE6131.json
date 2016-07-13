@@ -1,0 +1,29 @@
+{
+"moduleCode": "EE6131",
+"moduleTitle": "Wireless Communications (Advanced)",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "EE5137R Stochastic Processes OR EE5306 Random Signal Analysis",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["EE5306"]
+},
+"prerequisiteList": ["EE5306"],
+"completePrerequisite": {
+            "name": "EE6131", 
+            "children": [
+                {
+                    "name": "EE5306", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "This course covers various basic and selected advanced topics in wireless communication. It begins with an overview of current wireless systems and standards, followed by a mathematical characterization of the wireless channel. It then examines the fundamental capacity limits of wireless channels and the characteristics of the capacity-achieving transmission strategies. This part is followed by practical digital modulation techniques and their performance under wireless channel impairments, including diversity techniques to compensate for flat-fading, multicarrier modulation to combat frequency-selective fading, and multiple antenna space-time communications. The course concludes with a discussion of various practical multiple access schemes in wireless cellular systems.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "ELECTRICAL & COMPUTER ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

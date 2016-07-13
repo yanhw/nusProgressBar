@@ -1,0 +1,70 @@
+{
+"moduleCode": "CS2010",
+"moduleTitle": "Data Structures and Algorithms II",
+"moduleCredit": "4",
+"lockedModules":[
+            "CS2309",
+            "CS4215",
+            "CS3245",
+            "CS3244",
+            "CS3243",
+            "CS3230",
+            "CS3223",
+            "CS3225"
+        ],
+"preclusion": "CG1102, CS1102, CS1102C, CS1102S, CS2020",
+"prerequisite": "CS1020 or CS1020E or CG1103 Data Structures and Algorithms I",
+"preclusionList": [
+            "CS1102",
+            "CS2020",
+            "CG1102",
+            "CS1102S",
+            "CS1102C"
+        ],
+"parsedPrerequisite": {
+            " or ": [
+                "CS1020", 
+                "CS1020E", 
+                "CG1103"
+            ]
+},
+"prerequisiteList": ["CS1020","CS1010","CS1020E","CS1010E","CG1103"],
+"completePrerequisite": {
+            "name": "CS2010", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "CS1020", 
+                            "children": [
+                                {
+                                    "name": "CS1010", 
+                                    "children": []
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "CS1020E", 
+                            "children": [
+                                {
+                                    "name": "CS1010E", 
+                                    "children": []
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "CG1103", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module is the third part of a three-part series on introductory programming and problem solving by computing. It continues the introduction in CS1010 and CS1020, and emphasises object-oriented programming with application to complex data structures. Topics covered include trees, binary search trees, order property, prefix/infix/postfix expressions, heaps, priority queues, graphs and their algorithmic design, recursive algorithms, problem formulation and problem solving with applications of complex data structures, data structure design principles and implementation strategies, and algorithm analysis. Advanced data structures such as B-trees and AVL trees are also covered.",
+"crossModule": "-1",
+"corequisite": "Nil",
+"faculty": "SCHOOL OF COMPUTING",
+"department": "COMPUTER SCIENCE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,4,]]
+}

@@ -1,0 +1,29 @@
+{
+"moduleCode": "PL3237",
+"moduleTitle": "Language & Cognitive Processes",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "PL1101E",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["PL1101E"]
+},
+"prerequisiteList": ["PL1101E"],
+"completePrerequisite": {
+            "name": "PL3237", 
+            "children": [
+                {
+                    "name": "PL1101E", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "This module covers aspects of current research in the fields of psycholinguistics, cognitive psychology and cognitive neuropsychology. Reading material is supplemented with local case studies to facilitate discussion of issues relevant to language and cognition in multilingual populations. Lectures, tutorials and workshops will include the following topics: brain-language relationships and levels of explanation; emergence of literacy skills; acquired and developmental disorders of spoken language; cognitive analyses of normal and abnormal reading; bilingualism; writing systems and biscriptal reading.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "PSYCHOLOGY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

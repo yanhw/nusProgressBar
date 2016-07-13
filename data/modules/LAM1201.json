@@ -1,0 +1,25 @@
+{
+"moduleCode": "LAM1201",
+"moduleTitle": "Malay 1",
+"moduleCredit": "4",
+"lockedModules":[
+            "LAM2201"
+        ],
+"preclusion": "LAB1201 Bahasa Indonesia 1",
+"prerequisite": "This module is meant for students with no prior knowledge of the target language. Students with prior knowledge (including spoken proficiency) must contact CLS to take a placement test.",
+"preclusionList": [
+            "LAB1201"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "LAM1201", 
+            "children": []
+},
+"moduleDescription": "This module aims at guiding the beginner to achieve competence in understanding and using basic Malay. The emphasis is mainly on conversational Malay and its practical use at the level of everyday discourse. To facilitate immersion into the language students would be taught the necessary skills of listening, reading, writing and conversing in basic conversational Malay. The rudiments of Malay grammar would be taught where relevant or necessary.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "CENTRE FOR LANGUAGE STUDIES",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

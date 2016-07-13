@@ -1,0 +1,30 @@
+{
+"moduleCode": "BAA6002",
+"moduleTitle": "Accounting Research Seminars II",
+"moduleCredit": "4",
+"lockedModules":[
+            "BAA6003A"
+        ],
+"preclusion": "NIL",
+"prerequisite": "BAA6001 Accounting Research Seminars I",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["BAA6001"]
+},
+"prerequisiteList": ["BAA6001"],
+"completePrerequisite": {
+            "name": "BAA6002", 
+            "children": [
+                {
+                    "name": "BAA6001", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "The primary objective of the course is to introduce Ph.D. students to advanced research topics in accounting. The course will focus on selected areas of research in accounting, including but not limited to the following: 1. Information in Accounting Numbers 2. Earnings Response Coefficient (ERC) 3. The Post-Earnings-Announcement Drift 4. Cost of Equity Capital 5. Trading Volume, Non-Directional 6. Trading Volume, Directional 7. Insider Trading 8. Taxation and the Capital Market, Payout Policy 9. Taxation and the Capital Market, Capital Structure 10. Corporate Social Responsibilities Disclosure 11. Accounting Standards and Reporting Quality 12. China Related Topics",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF BUSINESS",
+"department": "ACCOUNTING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

@@ -1,0 +1,41 @@
+{
+"moduleCode": "EC3353",
+"moduleTitle": "Health Economics I",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "EC2101 AND (EC2104 OR ANY MA MODULE THAT IS NOT MA1301/MA1301FC/MA1301X OR MA1311 OR MA1312 OR MA1421)",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " or ": [
+                "MA1312", 
+                "MA1421"
+            ]
+},
+"prerequisiteList": ["MA1312","MA1421"],
+"completePrerequisite": {
+            "name": "EC3353", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "MA1312", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "MA1421", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "Can economic analysis contribute to solving the problem of how to design a national health care system, which efficiently responds to consumers' desire for good health? What are the efficient ways of financing healthcare? This module examines these questions through the use of tools of microeconomic analysis and analyzes the behavior of consumers, producers and insurers in the healthcare market. The issue of how healthcare is financed will be examined from the perspective of economic efficiency and equity. The course will also relate the theories developed to current policy issues.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "ECONOMICS",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

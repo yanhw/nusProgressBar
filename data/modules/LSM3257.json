@@ -1,0 +1,34 @@
+{
+"moduleCode": "LSM3257",
+"moduleTitle": "Quantitative Methods for Ecological Research",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "ST1232 Statistics for Life Sciences AND LSM2251 Ecology and Environment",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["LSM2251"]
+},
+"prerequisiteList": ["LSM2251","LSM1103"],
+"completePrerequisite": {
+            "name": "LSM3257", 
+            "children": [
+                {
+                    "name": "LSM2251", 
+                    "children": [
+                        {
+                            "name": "LSM1103", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "Research design and analysis of ecological data are fundamental skills for environmental biology. This module will provide students with the skills and knowledge to design and perform statistical analyses on typical research projects in environmental biology. The students will also learn to conduct analysis using R. This will allow them to analyze and address quantitatively ecological information which is an important skill set in this discipline of life sciences.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCIENCE",
+"department": "BIOLOGICAL SCIENCES",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

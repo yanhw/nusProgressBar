@@ -1,0 +1,22 @@
+{
+"moduleCode": "SP3173",
+"moduleTitle": "Independent Study Module",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "SP3173", 
+            "children": []
+},
+"moduleDescription": "This module comprises seminar talks and problem sessions that are targeted towards an in-depth exploration of a chosen area of specialization in science. This module, in general rides on an existing level 3000 regular module offered by the relevant department. Its content is modelled after a regular module with the exception that the students have to propose an independent study plan in consultation with the lecturer conducting the course.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCIENCE",
+"department": "DEAN'S OFFICE (SCIENCE)",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

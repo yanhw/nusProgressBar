@@ -1,0 +1,22 @@
+{
+"moduleCode": "ENV3202",
+"moduleTitle": "Environmental Studies Internship Programme",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "For BES students only. Students must have completed at least 2 regular semesters of studies at the point of application.",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "ENV3202", 
+            "children": []
+},
+"moduleDescription": "This module is designed for undergraduate students pursuing the Bachelor of Environmental Studies degree with the aim of helping them gain working experience in the environmental industry during their undergraduate study and to prepare them for employment after graduation. The module requires students to perform a structured and supervised internship in a company/organization for 10-12 weeks during Special Terms. Through regular meetings and feedback with internship supervisors and BES academic advisors, students will assimilate and translate knowledge acquired from the curriculum to performing tasks and assignments in the actual working environment, giving them an extra edge when transiting to the work force.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCIENCE",
+"department": "DEAN'S OFFICE (SCIENCE)",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,3,4,]]
+}

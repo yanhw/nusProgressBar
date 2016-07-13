@@ -1,0 +1,30 @@
+{
+"moduleCode": "PP6706",
+"moduleTitle": "Research Methods in Public Policy II",
+"moduleCredit": "4",
+"lockedModules":[
+            "PP5172"
+        ],
+"preclusion": "NIL",
+"prerequisite": "PP6701 Research Methods for Public Policy I",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["PP6701"]
+},
+"prerequisiteList": ["PP6701"],
+"completePrerequisite": {
+            "name": "PP6706", 
+            "children": [
+                {
+                    "name": "PP6701", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "This is the second in a two-module series in research methods in public policy. This module provides a more in-depth understanding of the theory and practice of empirical methods, both quantitative and qualitative, used to study the causal effects of policy on observed outcomes. It focuses on the applications of econometric techniques to policy research with real world data sets. Students apply these techniques to real-life case studies and present analyses in class.",
+"crossModule": "-1",
+"corequisite": "NA",
+"faculty": "LEE KUAN YEW SCHOOL OF PUBLIC POLICY",
+"department": "LEE KUAN YEW SCHOOL OF PUBLIC POLICY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

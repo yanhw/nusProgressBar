@@ -1,0 +1,22 @@
+{
+"moduleCode": "BMA5801",
+"moduleTitle": "Management Communication",
+"moduleCredit": "0",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "BMA5801", 
+            "children": []
+},
+"moduleDescription": "designed to prepare students for effective communication at the workplace. It enables students to develop and demonstrate effective, business oriented communication skills in three important areas: (a) reading; (b) writing; and (c) speaking.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "SCHOOL OF BUSINESS",
+"department": "DEAN'S OFFICE (BIZ)",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

@@ -1,0 +1,59 @@
+{
+"moduleCode": "EE2023",
+"moduleTitle": "Signals and Systems",
+"moduleCredit": "4",
+"lockedModules":[
+            "EE3206",
+            "EE3204",
+            "EE4603",
+            "EE3131C",
+            "EE2032",
+            "EE3731C",
+            "EE4131",
+            "EE3331C",
+            "EE4305"
+        ],
+"preclusion": "EE2009 Signals, EE2010 Systems & Control",
+"prerequisite": "MA1506 Mathematics II",
+"preclusionList": [
+            "EE2010",
+            "EE2009"
+        ],
+"parsedPrerequisite": {
+" and ": ["MA1506"]
+},
+"prerequisiteList": ["MA1506","MA1102R","MA1505","MA1521"],
+"completePrerequisite": {
+            "name": "EE2023", 
+            "children": [
+                {
+                    "name": "MA1506", 
+                    "children": [
+                        {
+                            "name": "or", 
+                            "children": [
+                                {
+                                    "name": "MA1102R", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "MA1505", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "MA1521", 
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This is a fundamental course in signals and systems. Signals in electrical engineering play an important role in carrying information. Signals going through a system is an inevitable process. It allows engineers to understand the system. Thus in this course the relationship between signals and systems will be taught. The concepts which are important include time and frequency domain representations, Fourier and Laplace transforms, spectrum of a signal, frequency response of systems (Bode diagrams), sampling theorem, linear time invariant systems, convolution, transfer functions, stability of feedback systems, modulation and filters.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "ENGINEERING",
+"department": "ELECTRICAL & COMPUTER ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

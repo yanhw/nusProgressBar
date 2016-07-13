@@ -1,0 +1,23 @@
+{
+"moduleCode": "PF2101",
+"moduleTitle": "Project and Facilities Management Law",
+"moduleCredit": "4",
+"lockedModules":[
+            "PF3103"
+        ],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "PF2101", 
+            "children": []
+},
+"moduleDescription": "This module covers the fundamental principles relating to the law, the legal system, the law of contract, the law of torts, the role of statutory laws, and relevant aspects of land law and copyright. The module also provides students with an awareness of civil proceedings and dispute resolution.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF DESIGN AND ENVIRONMENT",
+"department": "BUILDING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

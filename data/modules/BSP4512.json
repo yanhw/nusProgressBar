@@ -1,0 +1,55 @@
+{
+"moduleCode": "BSP4512",
+"moduleTitle": "Global Strategic Management",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "BH4512 or BZ4812A or BK4009.",
+"prerequisite": "BSP2001",
+"preclusionList": [
+            "BH4512",
+            "BZ4812A",
+            "BK4009"
+        ],
+"parsedPrerequisite": {
+" and ": ["BSP2001"]
+},
+"prerequisiteList": ["BSP2001","BSP1005","BH1005","BZ1006","BK1008"],
+"completePrerequisite": {
+            "name": "BSP4512", 
+            "children": [
+                {
+                    "name": "BSP2001", 
+                    "children": [
+                        {
+                            "name": "or", 
+                            "children": [
+                                {
+                                    "name": "BSP1005", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "BH1005", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "BZ1006", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "BK1008", 
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "The course aims to provide participants with the basic theoretical knowledge, skills, and sensitivities that will help them deal effectively with key management issues and challenges in today's global business environment. We intend to explore the major issues and challenges facing companies with worldwide operations as seen by the managers themselves. The topics addressed include the following: challenges of operating in a global environment, formulation of global strategies and organisational policies (implementation) to achieve the goals set out under the formulation process. Case studies, group projects and presentations will be extensively used to illustrate the concepts.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF BUSINESS",
+"department": "STRATEGY AND POLICY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

@@ -1,0 +1,25 @@
+{
+"moduleCode": "ECA5351",
+"moduleTitle": "Public Finance",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "EC5209/EC5351",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "EC5351",
+            "EC5209"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "ECA5351", 
+            "children": []
+},
+"moduleDescription": "The main objective of the module is to gain appreciation of how economic theory can be used to analyse both the individual components of the fiscal system, such as effects of various taxes and expenditures, as well as the size and the behaviour of the government sector itself. The module encompasses the traditional, public choice and supply side approaches. While the main focus is on partial equilibrium analysis, wherever feasible or relevant, e.g. in incidence analysis, a general equilibrium approach is also included. The theory of social choice is also discussed.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "ECONOMICS",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

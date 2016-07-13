@@ -1,0 +1,24 @@
+{
+"moduleCode": "GEK3005",
+"moduleTitle": "Politics and the Visual",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "PS3260",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "PS3260"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "GEK3005", 
+            "children": []
+},
+"moduleDescription": "This module explores the many forms of relationship between politics and visual culture. From the ancient world to the present, politics, whether formal or popular, has had a visual dimension. Politicians have been concerned to control their appearance; various media (from painting to theatre to television to the internet) have been used to both serve and defeat this goal. The module surveys the relationship between politics and visual culture and allows students to engage with contemporary issues surrounding politics, film, and digital culture.",
+        "CrossModule": "PS3260", 
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "POLITICAL SCIENCE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

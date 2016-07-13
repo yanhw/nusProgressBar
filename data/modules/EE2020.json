@@ -1,0 +1,50 @@
+{
+"moduleCode": "EE2020",
+"moduleTitle": "Digital Fundamentals",
+"moduleCredit": "5",
+"lockedModules":[
+            "EE4218",
+            "EE4415",
+            "EE2024",
+            "EE2024E"
+        ],
+"preclusion": "NIL",
+"prerequisite": "EE1002 or CG1108 or EG1108",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " or ": [
+                "EE1002", 
+                "CG1108", 
+                "EG1108"
+            ]
+},
+"prerequisiteList": ["EE1002","CG1108","EG1108"],
+"completePrerequisite": {
+            "name": "EE2020", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "EE1002", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "CG1108", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "EG1108", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This is a first course that introduces fundamental digital logic, digital circuits, and programmable devices. The course also provides an overview of computer systems. This course provides students with an understanding of the building blocks of modern digital systems and methods of designing, simulating and realizing such systems. The emphasis of this module is on understanding the fundamentals of digital design across different levels of abstraction using hardware description languages.",
+"crossModule": "-1",
+"corequisite": "CS1010E",
+"faculty": "ENGINEERING",
+"department": "ELECTRICAL & COMPUTER ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

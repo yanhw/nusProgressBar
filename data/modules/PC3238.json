@@ -1,0 +1,114 @@
+{
+"moduleCode": "PC3238",
+"moduleTitle": "Fluid Dynamics",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "Students who have passed either PC2174 or (MA1505 and MA1506) or PC3236 or equivalent.",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " or ": [
+                "PC2174", 
+                {
+                    " and ": [
+                        "MA1505", 
+                        "MA1506"
+                    ]
+                }, 
+                "PC3236"
+            ]
+},
+"prerequisiteList": ["PC2174","MA1505","MA1506","MA1102R","MA1521","PC3236"],
+"completePrerequisite": {
+            "name": "PC3238", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "PC2174", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "and", 
+                            "children": [
+                                {
+                                    "name": "MA1505", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "MA1506", 
+                                    "children": [
+                                        {
+                                            "name": "or", 
+                                            "children": [
+                                                {
+                                                    "name": "MA1102R", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MA1505", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MA1521", 
+                                                    "children": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "PC3236", 
+                            "children": [
+                                {
+                                    "name": "and", 
+                                    "children": [
+                                        {
+                                            "name": "MA1505", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "MA1506", 
+                                            "children": [
+                                                {
+                                                    "name": "or", 
+                                                    "children": [
+                                                        {
+                                                            "name": "MA1102R", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "MA1505", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "MA1521", 
+                                                            "children": []
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "PC2174", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module introduces physics students to the fundamental aspects of fluid dynamics. The Navier-Stokes equations are derived from first principles. After a discussion of the various versions of Bernoulli's equation and the concept of vorticity, the study of fluid flows starts with the potential flows, with an application to the theory of airfoils. The theory of irrotational water waves is then presented to illustrate dispersive wave propagation and the hyperbolic tendency to form shocks. The balance of these two tendencies produces soliton solutions. The concept of flow similarity is applied to the study of boundary layer. The phenomenon of boundary layer separation is discussed. The concept of hydrodynamic instability is illustrated with the Rayleigh-Benard convection problem. The chaotic dynamics of the related Lorenz equation is then presented. A brief introduction to turbulence closes the module.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCIENCE",
+"department": "PHYSICS",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

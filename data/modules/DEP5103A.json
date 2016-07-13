@@ -1,0 +1,34 @@
+{
+"moduleCode": "DEP5103A",
+"moduleTitle": "Quantitative Methods for Urban Planning",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "Must be taken together with DEP5103 Urban Planning Studio",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["DEP5103"]
+},
+"prerequisiteList": ["DEP5103","UD5622"],
+"completePrerequisite": {
+            "name": "DEP5103A", 
+            "children": [
+                {
+                    "name": "DEP5103", 
+                    "children": [
+                        {
+                            "name": "UD5622", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "Working with quantitative data is common in the planning profession. This module provides planning students with an introduction to the quantitative methods and techniques used in planning practice and urban research. It will prepare students to conduct basic statistical analysis of data themselves as well as to critically review analyses prepared by others. The emphasis is on how to develop sound arguments and research design, such that students appreciate both the power and limitation of quantitative analysis in planning discussions.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF DESIGN AND ENVIRONMENT",
+"department": "DEAN'S OFFICE (SCHOOL OF DESIGN & ENV)",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

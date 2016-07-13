@@ -1,0 +1,48 @@
+{
+"moduleCode": "CE3132",
+"moduleTitle": "Water Resources Engineering",
+"moduleCredit": "4",
+"lockedModules":[
+            "CE5312"
+        ],
+"preclusion": "NIL",
+"prerequisite": "CE2134",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["CE2134"]
+},
+"prerequisiteList": ["CE2134","EG1109F","EG1109","CE1109X"],
+"completePrerequisite": {
+            "name": "CE3132", 
+            "children": [
+                {
+                    "name": "CE2134", 
+                    "children": [
+                        {
+                            "name": "or", 
+                            "children": [
+                                {
+                                    "name": "EG1109F", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "EG1109", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "CE1109X", 
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This course introduces the basic principles of hydrology and water resources, including flow through pressurised pipe systems and free surface flow. In particular the course covers fundamental concepts of hydrological cycle, such as: response of catchment system, river network and reservoir to rainfall; frequency analysis of rainfall or flood, design of ponds, reservoirs, river flow and catchment management, are covered as well. Other topics include flow routing such as kinematic wave, diffusive wave and dynamic wave. Water Resources portion of the module covers pressurised pipe flow calculation principles, hydraulic design of pipelines, use of pumps and turbines, urban hydraulics and water distribution systems. In addition to this, free surface open channel flows are covered. In particular topics of uniform flow, critical depth, gradually varied flow, calculation of surface profiles",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "CIVIL & ENVIRONMENTAL ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

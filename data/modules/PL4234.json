@@ -1,0 +1,22 @@
+{
+"moduleCode": "PL4234",
+"moduleTitle": "Patient and Health Care",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "Cohort 2011 and before: Completed 80 MCs of which student must have passed PL1101E, PL2131, PL2132, PL3242 and 4 out of the 5 core modules (PL3232 - PL3236), with a minimum CAP of 3.50 or be on the Honours track. Cohort 2012 onwards: Completed 80 MCs of which student must have passed PL1101E, PL2131, PL2132, PL3242 and 4 out of the 5 core modules (PL3232 - PL3236), with a minimum CAP of 3.20 or be on the Honours track.",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "PL4234", 
+            "children": []
+},
+"moduleDescription": "This module is designed to increase knowledge and understanding of health psychology as an applied science. The module focuses on understanding developmental and lifespan frameworks in the experience of illness and disease; exploring patients\u2019 experiences in the health-care system; and developing an appreciation of factors that may lead to patient harm and adverse events in the context of health care delivery.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "PSYCHOLOGY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

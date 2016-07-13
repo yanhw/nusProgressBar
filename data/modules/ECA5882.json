@@ -1,0 +1,22 @@
+{
+"moduleCode": "ECA5882",
+"moduleTitle": "Topics in Applied Macroeconomics",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "ECA5882", 
+            "children": []
+},
+"moduleDescription": "This module applies the tools of macroeconomic analysis to analyze issues related to the determination of output, unemployment and inflation in the economy. It utilizes various economic frameworks and models for understanding macroeconomic developments and events. The module examines the applications of macroeconomic theory to policy in analysing the causes of macroeconomic events and their consequences.",
+"crossModule": "-1",
+"corequisite": "Nil",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "ECONOMICS",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

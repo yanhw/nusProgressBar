@@ -1,0 +1,29 @@
+{
+"moduleCode": "YSS3202",
+"moduleTitle": "Ethnography",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "A student should have completed YCC2121 Modern Social Thought or obtained permission of the instructor.",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["YCC2121"]
+},
+"prerequisiteList": ["YCC2121"],
+"completePrerequisite": {
+            "name": "YSS3202", 
+            "children": [
+                {
+                    "name": "YCC2121", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "In this course, students will understand what constitutes ethnographic field methods, what makes ethnographic writing different from other kinds of nonfiction writing, and the ethical and theoretical considerations within ethnographic research. Over the semester, students will conduct their own, small-scale ethnographic fieldwork, interviews and participant observation based in Singapore. This course is required in the Anthropology Major. This course satisfies requirements in the Global Affairs Major. This course satisfies requirements in the Urban Studies Major.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "YALE-NUS COLLEGE",
+"department": "YALE-NUS COLLEGE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

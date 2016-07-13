@@ -1,0 +1,22 @@
+{
+"moduleCode": "CE5311",
+"moduleTitle": "Environmental modelling with computers",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "CE5311", 
+            "children": []
+},
+"moduleDescription": "This course deals with many of the chemical and biochemical fundamentals, as well as the behaviour of environment systems such as the atmosphere, freshwater systems, estuaries, coastal seas and oceans. The inter-linkages between environmental media and the major human and environmental impacts are explained at an introductory level. After this introduction of fundamental processes the course introduces widely used computational environmental modelling concepts, used for impact assessment, in different media such as air, water and soil. Also numerical aspects will be taken into account.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "ENGINEERING",
+"department": "CIVIL & ENVIRONMENTAL ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

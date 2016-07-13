@@ -1,0 +1,32 @@
+{
+"moduleCode": "CM1131",
+"moduleTitle": "Physical Chemistry 1",
+"moduleCredit": "4",
+"lockedModules":[
+            "CM2288",
+            "CM2289",
+            "CM3252",
+            "CM3253",
+            "CM2101",
+            "CM4282",
+            "SP2251",
+            "CM4269",
+            "CM2142",
+            "CM3201"
+        ],
+"preclusion": "NIL",
+"prerequisite": "'A' level or H2 pass in Chemistry or equivalent",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "CM1131", 
+            "children": []
+},
+"moduleDescription": "Equations of state of ideal and real gases, intermolecular forces; kinetic theory of gases; first law of thermodynamics; enthalpy; thermochemistry; the second law; entropy; Helmholtz and Gibbs functions; the third law; rates of chemical reactions; accounting for the rate laws - reaction mechanisms; effect of temperature on reaction rate; theories of reaction rates.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCIENCE",
+"department": "CHEMISTRY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

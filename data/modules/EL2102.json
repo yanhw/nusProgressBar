@@ -1,0 +1,45 @@
+{
+"moduleCode": "EL2102",
+"moduleTitle": "The Sound System of English",
+"moduleCredit": "4",
+"lockedModules":[
+            "EL3202",
+            "EL3212"
+        ],
+"preclusion": "EL2202",
+"prerequisite": "EL1101E or GEK1011",
+"preclusionList": [
+            "EL2202"
+        ],
+"parsedPrerequisite": {
+            " or ": [
+                "EL1101E", 
+                "GEK1011"
+            ]
+},
+"prerequisiteList": ["EL1101E","GEK1011"],
+"completePrerequisite": {
+            "name": "EL2102", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "EL1101E", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "GEK1011", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module introduces students to phonetics, which is concerned with how speech sounds are made. We will learn about the human speech apparatus in detail, and the mechanisms that are involved in speech sound production. The focus is on the sound inventory of English. We will develop a set of rules which tell us how sounds are combined into syllables and syllables into even larger units, such as feet. We will learn some of the common sound changes and ways to analyze such changes. The module teaches basic conceptual tools that will allow students to analyze the sound system of English.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "ENGLISH LANGUAGE & LITERATURE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

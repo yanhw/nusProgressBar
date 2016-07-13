@@ -1,0 +1,22 @@
+{
+"moduleCode": "EC4103",
+"moduleTitle": "Singapore Economy: Practice and Policy",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "Cohort 2012 onwards: Completed 110MCs including 60MCs in EC, with minimum CAP of 3.20 or be on the Honours track. EC3101, EC3102, and EC3303",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "EC4103", 
+            "children": []
+},
+"moduleDescription": "A compulsory honours module that covers the application of macro and micro economics to address practical real world economic questions facing Singapore. It makes use of a wide range of advanced economic tools and approaches, and shows how to apply these to practical issues.",
+"crossModule": "-1",
+"corequisite": "Nil",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "ECONOMICS",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

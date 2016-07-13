@@ -1,0 +1,69 @@
+{
+"moduleCode": "BN3402",
+"moduleTitle": "Bio-Analytical Methods In Bioengineering",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "(CM1121 or CM1501) and (LSM1101 or LSM1401)",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " and ": [
+                {
+                    " or ": [
+                        "CM1121", 
+                        "CM1501"
+                    ]
+                }, 
+                {
+                    " or ": [
+                        "LSM1101", 
+                        "LSM1401"
+                    ]
+                }
+            ]
+},
+"prerequisiteList": ["CM1121","CM1501","LSM1101","LSM1401"],
+"completePrerequisite": {
+            "name": "BN3402", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "or", 
+                            "children": [
+                                {
+                                    "name": "CM1121", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "CM1501", 
+                                    "children": []
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "or", 
+                            "children": [
+                                {
+                                    "name": "LSM1101", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "LSM1401", 
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "The aim of the course is to give a theoretical and practical introduction into selected analytical methods for the characterization of biomaterials, tissues, biomolecules and immobilized biological molecules. The methods are focused to obtain: structural, topological (e.g. atomic force microscopy), chemical (e.g. spectrometry) and functional (e.g. surface palsmon resonance and bioassays) information for the characterization of biomolecules, biomaterials, tissues and biomodified materials.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "BIOMEDICAL ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

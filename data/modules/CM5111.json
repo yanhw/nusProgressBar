@@ -1,0 +1,41 @@
+{
+"moduleCode": "CM5111",
+"moduleTitle": "Graduate Inorganic Chemistry",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "CM4211 and CM4212 or by permission.",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " and ": [
+                "CM4211", 
+                "CM4212"
+            ]
+},
+"prerequisiteList": ["CM4211","CM4212"],
+"completePrerequisite": {
+            "name": "CM5111", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "CM4211", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "CM4212", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module will cover a spectrum of essential topics in inorganic chemistry that will be useful for all entry level graduate students. The topics may be classified under: (i) Physical inorganic chemistry, (ii) Synthetic methodologies, and (iii) Characterisation techniques",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCIENCE",
+"department": "CHEMISTRY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

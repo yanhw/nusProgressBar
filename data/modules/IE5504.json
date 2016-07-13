@@ -1,0 +1,22 @@
+{
+"moduleCode": "IE5504",
+"moduleTitle": "Systems Modelling And Advanced Simulation",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "IE5504", 
+            "children": []
+},
+"moduleDescription": "Systems modelling and simulation are important tools in operations research. This subject covers the major aspects of modelling and techniques of computer simulation, model definition, construction of digital simulation models, design of simulation experiments, statistical verification of input data and results, simulation languages and advanced simulation concepts.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "INDUSTRIAL & SYSTEMS ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

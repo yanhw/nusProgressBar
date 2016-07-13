@@ -1,0 +1,46 @@
+{
+"moduleCode": "YHU2240",
+"moduleTitle": "Defenses of Poetry",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "YCC1111 Literature and Humanities 1, and YCC1112 Literature and Humanities 2",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " and ": [
+                "YCC1111", 
+                "YCC1112"
+            ]
+},
+"prerequisiteList": ["YCC1111","YCC1112"],
+"completePrerequisite": {
+            "name": "YHU2240", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "YCC1111", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "YCC1112", 
+                            "children": [
+                                {
+                                    "name": "YCC1111", 
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "From Plato to the present, poetry\u2019s detractors say that it tells lies, corrupts moral integrity, preserves archaic thinking, obscures the nature of reality, has no use, and offers an escape from social and historical responsibility. Poetry\u2019s defenders fight back by saying that it finds truth by connecting the specific with the general, encourages moral sympathy, opens visionary possibilities, reveals the true nature of reality, transcends utility, and helps shape social history. We shall read attackers such as Plato and Rousseau and defenders from Aristotle to the present. (By \u201cpoetry\u201d is often meant art broadly conceived, sometimes beyond even literary art.)",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "YALE-NUS COLLEGE",
+"department": "YALE-NUS COLLEGE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

@@ -1,0 +1,44 @@
+{
+"moduleCode": "MUT3201",
+"moduleTitle": "Compositional Approaches since WWII",
+"moduleCredit": "3",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "MUT2118 Musical Concepts and Materials IV",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["MUT2118"]
+},
+"prerequisiteList": ["MUT2118","MUT2117","MUT1122","MUT1121"],
+"completePrerequisite": {
+            "name": "MUT3201", 
+            "children": [
+                {
+                    "name": "MUT2118", 
+                    "children": [
+                        {
+                            "name": "MUT2117", 
+                            "children": [
+                                {
+                                    "name": "MUT1122", 
+                                    "children": [
+                                        {
+                                            "name": "MUT1121", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "YONG SIEW TOH CONSERVATORY OF MUSIC",
+"department": "YONG SIEW TOH CONSERVATORY OF MUSIC",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

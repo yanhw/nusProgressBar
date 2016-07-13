@@ -1,0 +1,42 @@
+{
+"moduleCode": "YLG2202",
+"moduleTitle": "Intermediate Classical Greek",
+"moduleCredit": "5",
+"lockedModules":[
+            "YLG3201"
+        ],
+"preclusion": "NIL",
+"prerequisite": "YLG1201 Beginning Classical Greek or permission of the instructor or YLG2201 Intensive Elementary Greek",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " or ": [
+                "YLG1201", 
+                "YLG2201"
+            ]
+},
+"prerequisiteList": ["YLG1201","YLG2201"],
+"completePrerequisite": {
+            "name": "YLG2202", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "YLG1201", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "YLG2201", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This course is designed to give students a more solid reading level by the end of the semester. It offers four days a week instruction. As well as gaining a familiarity with additional vocabulary and the more complex constructions of ancient Greek \u2013 especially those involving optative and subjunctive \u2013 students will through their more extensive reading develop an increased cultural knowledge in ancient Greek society and literary/ dramatic production.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "YALE-NUS COLLEGE",
+"department": "YALE-NUS COLLEGE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

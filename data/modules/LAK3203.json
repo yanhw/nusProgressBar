@@ -1,0 +1,42 @@
+{
+"moduleCode": "LAK3203",
+"moduleTitle": "Korean for Academic Purposes",
+"moduleCredit": "4",
+"lockedModules":[
+            "LAK4201"
+        ],
+"preclusion": "LAK3202 Korean 4",
+"prerequisite": "Passed LAK3201 Korea 3 or by placement test.",
+"preclusionList": [
+            "LAK3202"
+        ],
+"parsedPrerequisite": {
+" and ": ["LAK3201"]
+},
+"prerequisiteList": ["LAK3201","LAK2201","LAK1201"],
+"completePrerequisite": {
+            "name": "LAK3203", 
+            "children": [
+                {
+                    "name": "LAK3201", 
+                    "children": [
+                        {
+                            "name": "LAK2201", 
+                            "children": [
+                                {
+                                    "name": "LAK1201", 
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "The module Korean for Academic Purposes is specially designed for students who are interested in studying in Korea. Its primary focus will be on the preparation of students for essential communicative situations and interactions in a Korean university environment. Students will be taught to comprehend longer listening and reading texts on more complex topics of academic interest.",
+"crossModule": "-1",
+"corequisite": "Nil",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "CENTRE FOR LANGUAGE STUDIES",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

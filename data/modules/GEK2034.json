@@ -1,0 +1,24 @@
+{
+"moduleCode": "GEK2034",
+"moduleTitle": "Social Philosophy and Policy",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "PH2220",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "PH2220"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "GEK2034", 
+            "children": []
+},
+"moduleDescription": "This module is a study of the different ways societies organize their political, economic, and other social institutions, with an emphasis on the philosophical principles that justify (or don\u2019t) alternative social arrangements. Topics will include different systems of social organization (capitalism, socialism, and democracy), specific policies (taxation, redistribution), and related normative concepts and theories (feminism, individualism, collectivism, community, freedom, equality, rule of law).",
+        "CrossModule": "PH2220", 
+"corequisite": "NIL",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "PHILOSOPHY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

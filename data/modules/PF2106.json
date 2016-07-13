@@ -1,0 +1,22 @@
+{
+"moduleCode": "PF2106",
+"moduleTitle": "Project & Facilities Communication Management",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "PF2106", 
+            "children": []
+},
+"moduleDescription": "Communication management is a knowledge area in project and facilities management. This module covers the communication skills required in project and facilities management. Topics include managing and communicating with internal and external stakeholders, the forms of communication, project documentation, and orders and reports.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "SCHOOL OF DESIGN AND ENVIRONMENT",
+"department": "BUILDING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

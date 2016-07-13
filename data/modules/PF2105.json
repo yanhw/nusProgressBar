@@ -1,0 +1,22 @@
+{
+"moduleCode": "PF2105",
+"moduleTitle": "Research Methods",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "Students who have read research methodology.",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "PF2105", 
+            "children": []
+},
+"moduleDescription": "The module covers the basic principles relating to scientific modes of inquiry and research methodologies. It also covers the fundamental quantitative tools that are needed to undertake research in project and facilities management. Major topics include principles of modelling, operations research, systems dynamics, decision analysis, risk analysis and sensitivity analysis.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF DESIGN AND ENVIRONMENT",
+"department": "BUILDING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

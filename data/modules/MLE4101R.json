@@ -1,0 +1,110 @@
+{
+"moduleCode": "MLE4101R",
+"moduleTitle": "Integrated B.ENG./B.SC. (Hons) Dissertation",
+"moduleCredit": "16",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "MLE2103 and MLE2104 and MLE2105 and MLE3101",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " and ": [
+                "MLE2103", 
+                "MLE2104", 
+                "MLE2105", 
+                "MLE3101"
+            ]
+},
+"prerequisiteList": ["MLE2103","MLE2102","MLE2104","EG1109F","EG1109","CE1109X","MLE1101","MLE2101","MLE2105","MLE3101"],
+"completePrerequisite": {
+            "name": "MLE4101R", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "MLE2103", 
+                            "children": [
+                                {
+                                    "name": "MLE2102", 
+                                    "children": []
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "MLE2104", 
+                            "children": [
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "EG1109F", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "EG1109", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "CE1109X", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "MLE1101", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "MLE2101", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "MLE2105", 
+                            "children": [
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "MLE1101", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "MLE2101", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "MLE3101", 
+                            "children": [
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "MLE1101", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "MLE2101", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "MATERIALS SCIENCE AND ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

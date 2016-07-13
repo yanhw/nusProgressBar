@@ -1,0 +1,24 @@
+{
+"moduleCode": "AS4232",
+"moduleTitle": "Topics in American Literature",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "EN4232",
+"prerequisite": "Cohort 2011 and before: Completed 80 MCs including 28 MCs in EN, with a minimum CAP of 3.50 or be on the Honours track. Cohort 2012 onwards: Completed 80 MCs including 28 MCs in EN, with a minimum CAP of 3.20 or be on the Honours track.",
+"preclusionList": [
+            "EN4232"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "AS4232", 
+            "children": []
+},
+"moduleDescription": "This module, which is aimed at upper level English Literature majors and cross-faculty students who have some experience with literary analysis, will focus on American literary orientalism in order to continue to examine questions of race, gender, ethnicity and literary form in the (mainly postwar) American imaginary.",
+        "CrossModule": "EN4232", 
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "ENGLISH LANGUAGE & LITERATURE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

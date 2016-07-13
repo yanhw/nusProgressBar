@@ -1,0 +1,22 @@
+{
+"moduleCode": "BPS5102",
+"moduleTitle": "Climate Change and the Built Environment",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "BPS5102", 
+            "children": []
+},
+"moduleDescription": "The construction industry and activities occurring within the urban environment are a significant contributor of greenhouse gases. Furthermore, the interactions between the urban and rural environments affect the way we can adapt to climate change. This module examines how climate change can affect the future of built environment and how the built environment can be improved in order to mitigate, and adapt itself to, the effects of climate change.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "SCHOOL OF DESIGN AND ENVIRONMENT",
+"department": "BUILDING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

@@ -1,0 +1,22 @@
+{
+"moduleCode": "TP5027",
+"moduleTitle": "Transport & Freight Terminal Management",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "CE4 standing or higher",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "TP5027", 
+            "children": []
+},
+"moduleDescription": "The module will highlight critical issues and themes concerning the development of sustainable transport infrastructure systems include the planning components of the sea and air transport terminal systems, the cost-benefit analysis of economic impacts of ports and airports, and the roles of ports/airports in the supply chain. The planning and management of infrastructure capacity and operations, and design parameters in terminal facilities will be examined. The increasingly important place of information technology in port/airport operations will also be evaluated.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "CIVIL & ENVIRONMENTAL ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

@@ -1,0 +1,47 @@
+{
+"moduleCode": "IS3243",
+"moduleTitle": "Technology Strategy and Management",
+"moduleCredit": "4",
+"lockedModules":[
+            "IS5120",
+            "IS5114",
+            "IS5117",
+            "IS5111"
+        ],
+"preclusion": "CS3251",
+"prerequisite": "Pass 60 MCs and [CS2250 or IS1105]",
+"preclusionList": [
+            "CS3251"
+        ],
+"parsedPrerequisite": {
+            " or ": [
+                "CS2250", 
+                "IS1105"
+            ]
+},
+"prerequisiteList": ["CS2250","IS1105"],
+"completePrerequisite": {
+            "name": "IS3243", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "CS2250", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "IS1105", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "Students will understand the theory and practice of business strategy as applied to technology-oriented (and in particular, IT-oriented) products and services. The module provides students with a broad and in-depth understanding of the theory and practice of technology strategy and management. These will be applied to information technology-related products and services. Students will also understand the life cycle and product development process of technological innovations. Case studies form a major part of this module.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF COMPUTING",
+"department": "INFORMATION SYSTEMS",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

@@ -1,0 +1,35 @@
+{
+"moduleCode": "CE3116",
+"moduleTitle": "Foundation Engineering",
+"moduleCredit": "4",
+"lockedModules":[
+            "CE5107"
+        ],
+"preclusion": "NIL",
+"prerequisite": "CE2112",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["CE2112"]
+},
+"prerequisiteList": ["CE2112","EG1109"],
+"completePrerequisite": {
+            "name": "CE3116", 
+            "children": [
+                {
+                    "name": "CE2112", 
+                    "children": [
+                        {
+                            "name": "EG1109", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This is an introductory module in foundation engineering. The topics covered include site investigation and interpretation of soil reports, shallow foundations and deep foundations. Students will learn how to use simple foundations to distribute vertical loads from the superstructure to the underlying soil formation without overstressing the soil (more complex loading modes to be discussed in advanced modules). Students are taught the interpretation of site investigation report, derivation of relevant design soil properties, selection of sensible foundation type, and verification of capacity and settlement requirements.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "CIVIL & ENVIRONMENTAL ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

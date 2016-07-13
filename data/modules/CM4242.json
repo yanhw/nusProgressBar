@@ -1,0 +1,62 @@
+{
+"moduleCode": "CM4242",
+"moduleTitle": "Advanced Analytical Techniques",
+"moduleCredit": "4",
+"lockedModules":[
+            "CM5241"
+        ],
+"preclusion": "NIL",
+"prerequisite": "CM3242 or by permission",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["CM3242"]
+},
+"prerequisiteList": ["CM3242","CM2142","CM1131","FST1101","CM1401","CM2166"],
+"completePrerequisite": {
+            "name": "CM4242", 
+            "children": [
+                {
+                    "name": "CM3242", 
+                    "children": [
+                        {
+                            "name": "or", 
+                            "children": [
+                                {
+                                    "name": "CM2142", 
+                                    "children": [
+                                        {
+                                            "name": "or", 
+                                            "children": [
+                                                {
+                                                    "name": "CM1131", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "FST1101", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "CM1401", 
+                                                    "children": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }, 
+                                {
+                                    "name": "CM2166", 
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module is aimed at the principles and applications of advanced analytical techniques. The student will gain familiarity with the fundamental principles, instrumentation aspects as well as analytical applications of modern separation techniques as well as advances in microscopy and mass spectrometry. Topics discussed are selected from capillary electrophoresis and related techniques, hyphenated techniques involving gas chromatography and liquid chromatography, etc., with a focus on qualitative analysis; multidimensional chromatography; current advances in microscopy, mass spectrometry, etc., including applications. The module is directed towards students majoring in chemistry and related disciplines.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCIENCE",
+"department": "CHEMISTRY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

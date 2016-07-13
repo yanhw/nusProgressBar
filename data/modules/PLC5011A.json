@@ -1,0 +1,29 @@
+{
+"moduleCode": "PLC5011A",
+"moduleTitle": "Clinical Placement 1",
+"moduleCredit": "6",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "PLC5004 (Psychological Intervention and Therapy), PLC5001 (Psychological Assessment and Diagnosis)",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["PLC5001"]
+},
+"prerequisiteList": ["PLC5001"],
+"completePrerequisite": {
+            "name": "PLC5011A", 
+            "children": [
+                {
+                    "name": "PLC5001", 
+                    "children": []
+                }
+            ]
+},
+
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "PSYCHOLOGY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

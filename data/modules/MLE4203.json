@@ -1,0 +1,99 @@
+{
+"moduleCode": "MLE4203",
+"moduleTitle": "Polymeric Biomedical Materials",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "MLE3104 and BN3301",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " and ": [
+                "MLE3104", 
+                "BN3301"
+            ]
+},
+"prerequisiteList": ["MLE3104","MLE1101","CM1121","CM1501","BN3301","LSM1101","LSM1401"],
+"completePrerequisite": {
+            "name": "MLE4203", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "MLE3104", 
+                            "children": [
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "MLE1101", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "CM1121", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "CM1501", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "BN3301", 
+                            "children": [
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "LSM1101", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "LSM1401", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "MLE1101", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "MLE3104", 
+                                            "children": [
+                                                {
+                                                    "name": "or", 
+                                                    "children": [
+                                                        {
+                                                            "name": "MLE1101", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "CM1121", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "CM1501", 
+                                                            "children": []
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "Properties and processing of polymeric biomaterials; Biological responses to biomaterials and their evaluation. Biocompatibility issues; Biodegradable polymeric materials; Application of polymeric biomaterials in medicine will be discussed with emphasis on drug delivery systems and tissue engineering application.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "MATERIALS SCIENCE AND ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

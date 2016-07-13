@@ -1,0 +1,28 @@
+{
+"moduleCode": "EN1101E",
+"moduleTitle": "An Introduction to Literary Studies",
+"moduleCredit": "4",
+"lockedModules":[
+            "EN2202",
+            "EN2201",
+            "EN2271",
+            "TS3246"
+        ],
+"preclusion": "GEK1000",
+"prerequisite": "Exempted from or passed the NUS Qualifying English Test, or exempted from further CELC Remedial English modules.",
+"preclusionList": [
+            "GEK1000"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "EN1101E", 
+            "children": []
+},
+"moduleDescription": "Human beings are 'tale-telling animals'. We all tell stories, and we all listen to them, read them and watch them. This module looks at the ways in which people tell stories, the kinds of stories they tell, and the meanings those stories generate. It focuses, in particular, upon the telling, and gives special attention to questions concerned with that. Texts include a novel, a play, films, short stories, poems and oral tales.",
+        "CrossModule": "GEK1000", 
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "ENGLISH LANGUAGE & LITERATURE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

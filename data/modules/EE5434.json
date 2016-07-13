@@ -1,0 +1,33 @@
+{
+"moduleCode": "EE5434",
+"moduleTitle": "CMOS Processes and Integration",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "EE5515, EE5516, EE5432R",
+"prerequisite": "EE3431C or equivalent",
+"preclusionList": [
+            "EE5432R",
+            "EE5515",
+            "EE5516"
+        ],
+"parsedPrerequisite": {
+" and ": ["EE3431C"]
+},
+"prerequisiteList": ["EE3431C"],
+"completePrerequisite": {
+            "name": "EE5434", 
+            "children": [
+                {
+                    "name": "EE3431C", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "The aim of this module is to provide the crucial understanding of semiconductor processes and integration technologies that are extensively used to fabricate modern electronic devices. This module covers important aspects of CMOS front-end and back-end processes and integration. The students will develop indepth understanding of integrating the unit process steps to design a device that meets electrical performance specification. The topics covered include Oxidation, Isolation, Gate Module Technology, Diffusion, Ion Implantation, Shallow Junction Technology, Plasma etching process, Thin film deposition, Al/Cu interconnects, Lithography, and CMOS Integration.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "ELECTRICAL & COMPUTER ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

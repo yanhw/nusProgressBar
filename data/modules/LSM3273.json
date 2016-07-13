@@ -1,0 +1,34 @@
+{
+"moduleCode": "LSM3273",
+"moduleTitle": "Ecology, Conservation and Management of Sri Lankan Ecosystems",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "LSM2251",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["LSM2251"]
+},
+"prerequisiteList": ["LSM2251","LSM1103"],
+"completePrerequisite": {
+            "name": "LSM3273", 
+            "children": [
+                {
+                    "name": "LSM2251", 
+                    "children": [
+                        {
+                            "name": "LSM1103", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module will provide a first-hand experience on the ecology, conservation and management of Sri Lankan ecosystems. The course will include basic lectures on the natural history and conservation issues of Sri Lanka, with the core being a 4-week field excursion to representative habitats and protected areas in the country. Emphasis will be on ecological research skills, assessments of complex conservation situations, and data analysis, all within a field setting.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCIENCE",
+"department": "BIOLOGICAL SCIENCES",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,0,3,4,]]
+}

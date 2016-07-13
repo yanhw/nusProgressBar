@@ -1,0 +1,48 @@
+{
+"moduleCode": "SC5102R",
+"moduleTitle": "Quantitative Data Analysis",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "SC6101 (obsolete)",
+"prerequisite": "SC5101 or equivalent SC3209 or equivalent",
+"preclusionList": [
+            "SC6101"
+        ],
+"parsedPrerequisite": {
+            " or ": [
+                "SC5101", 
+                "SC3209"
+            ]
+},
+"prerequisiteList": ["SC5101","SC3209","SC2101"],
+"completePrerequisite": {
+            "name": "SC5102R", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "SC5101", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "SC3209", 
+                            "children": [
+                                {
+                                    "name": "SC2101", 
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module provides a systematic exposition of general linear models in social science research.Topics include relative frequencies, probability distribution, model specification, estimation, hypothesis testing, and remedies for violations of statistical assumptions. The main emphasis is on the hands-on application of statistical techniques to social research. Research articles in sociology are used to illustrate the application of these models and techniques. Extensions to nonlinear models and panel data analysis are introduced in the latter part of the module. The course aims to help students to strengthen their understanding of statistical concepts and modelling techniques, and enrich their capacity to interpret statistical findings.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "SOCIOLOGY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

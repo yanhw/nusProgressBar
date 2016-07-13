@@ -1,0 +1,62 @@
+{
+"moduleCode": "CS3249",
+"moduleTitle": "User Interface Development",
+"moduleCredit": "4",
+"lockedModules":[
+            "CS3283"
+        ],
+"preclusion": "NIL",
+"prerequisite": "CS2103 or CS2103T Software Engineering",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " or ": [
+                "CS2103", 
+                "CS2103T"
+            ]
+},
+"prerequisiteList": ["CS2103","CS1020","CS1010","CS2103T"],
+"completePrerequisite": {
+            "name": "CS3249", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "CS2103", 
+                            "children": [
+                                {
+                                    "name": "CS1020", 
+                                    "children": [
+                                        {
+                                            "name": "CS1010", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "CS2103T", 
+                            "children": [
+                                {
+                                    "name": "CS1020", 
+                                    "children": [
+                                        {
+                                            "name": "CS1010", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module aims at providing students with technical skills and hands-on experience of user interface development. It focuses on the design and implementation of user interfaces in general, including graphical user interface. It covers essential topics including user interface models, psychology of humans and computers, user interface style, layout guidelines, GUI programming with widget toolkits, interaction models, event handling, multithreading, interacting with multimedia hardware, usability testing. Selected advanced topics such as geometric transformation, and 3D user interfaces, multiple-user interaction and real-time interaction are also covered.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "SCHOOL OF COMPUTING",
+"department": "COMPUTER SCIENCE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

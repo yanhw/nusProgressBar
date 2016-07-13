@@ -1,0 +1,22 @@
+{
+"moduleCode": "CO5235",
+"moduleTitle": "Information Technology in Healthcare",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "CO5235", 
+            "children": []
+},
+"moduleDescription": "Students will learn about use of Information Techonology in Singapore healthcare. They will gain knowledge and skills on managing IT projects in their workplace, learn about key considerations for IT project success, and be able to conduct a basic evaluation of healthcare IT products.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SAW SWEE HOCK SCHOOL OF PUBLIC HEALTH",
+"department": "SAW SWEE HOCK SCHOOL OF PUBLIC HEALTH",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

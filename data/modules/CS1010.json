@@ -1,0 +1,39 @@
+{
+"moduleCode": "CS1010",
+"moduleTitle": "Programming Methodology",
+"moduleCredit": "4",
+"lockedModules":[
+            "CS1020",
+            "MA3269",
+            "IS2102",
+            "IT2002",
+            "IT2001",
+            "CS2100",
+            "CS2107",
+            "BT2101",
+            "ST3247"
+        ],
+"preclusion": "CG1101, CS1010E, CS1010FC, CS1010S, CS1101, CS1101C, CS1101S. Engineering and Science students who require this module for their majors/minors are not allowed to read it as ULR-Breadth.",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "CS1010S",
+            "CS1101C",
+            "CG1101",
+            "CS1101",
+            "CS1101S",
+            "CS1010E",
+            "CS1010F"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "CS1010", 
+            "children": []
+},
+"moduleDescription": "This module introduces the fundamental concepts of problem solving by computing and programming using an imperative programming language. It is the first and foremost introductory course to computing. It is also the first part of a three-part series on introductory programming and problem solving by computing, which also includes CS1020 and CS2010. Topics covered include problem solving by computing, writing pseudo-codes, basic problem formulation and problem solving, program development, coding, testing and debugging, fundamental programming constructs (variables, types, expressions, assignments, functions, control structures, etc.), fundamental data structures: arrays, strings and structures, simple file processing, and basic recursion. This module is appropriate for SoC students.",
+"crossModule": "-1",
+"corequisite": "Nil",
+"faculty": "SCHOOL OF COMPUTING",
+"department": "COMPUTER SCIENCE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

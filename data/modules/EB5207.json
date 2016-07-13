@@ -1,0 +1,29 @@
+{
+"moduleCode": "EB5207",
+"moduleTitle": "Analytics for Tourism and Hospitality",
+"moduleCredit": "3",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "EB5001 Foundations of Business Analytics",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["EB5001"]
+},
+"prerequisiteList": ["EB5001"],
+"completePrerequisite": {
+            "name": "EB5207", 
+            "children": [
+                {
+                    "name": "EB5001", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "The objective of this course is to gain insights into how analytic tools are transforming the conventions and practices of the tourism and hospitality industries to increase product and service differentiation. Using predictive analytics, participants will learn how to identify new selling opportunities, enhance product and service offerings, create better pricing models, and improving overall customer satisfaction and loyalty. Some key analyses include customer behaviour, campaign effectiveness, customer profitability, basket analysis, demand forecasting and churn models. Students will be lead through the various stages of analysis starting from preparation of raw data, exploratory data analysis, analytical modelling to results interpretation.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "NON-FACULTY-BASED DEPARTMENTS",
+"department": "INSTITUTE OF SYSTEMS SCIENCE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

@@ -1,0 +1,34 @@
+{
+"moduleCode": "IS4241",
+"moduleTitle": "Social Media Network Analysis",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "Students must have completed 80 MCs and CS1020 or its equivalent.",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["CS1020"]
+},
+"prerequisiteList": ["CS1020","CS1010"],
+"completePrerequisite": {
+            "name": "IS4241", 
+            "children": [
+                {
+                    "name": "CS1020", 
+                    "children": [
+                        {
+                            "name": "CS1010", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "The world of online social media is of much interest for academic, social and e-commerce studies. This module is about the analysis of social media networks. The module will cover the characteristics of social media networks, the analysis software and methods, case studies and projects of network analysis.",
+"crossModule": "-1",
+"corequisite": "Nil",
+"faculty": "SCHOOL OF COMPUTING",
+"department": "INFORMATION SYSTEMS",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

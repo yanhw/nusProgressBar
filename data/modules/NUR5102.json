@@ -1,0 +1,23 @@
+{
+"moduleCode": "NUR5102",
+"moduleTitle": "Advanced Pathophysiology",
+"moduleCredit": "6",
+"lockedModules":[
+            "PA1113A"
+        ],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "NUR5102", 
+            "children": []
+},
+"moduleDescription": "The module aims to provide a comprehensive, scientific basis for the assessment, evaluation and advanced nursing management of processes resulting form the manifestation of disease. A brief review of normal anatomy and physiology will be included, however, if should be noted this is an advanced module. Emphasis will be on the pathophysiology of selected disorders and diseases as examples of alterations of body systems when normal anatomy and physiology are impaired.",
+"crossModule": "-1",
+"corequisite": "NUR5101 Advanced Health Assessment",
+"faculty": "YONG LOO LIN SCHOOL OF MEDICINE",
+"department": "NURSING/ALICE LEE CTR FOR NURSING STUD",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

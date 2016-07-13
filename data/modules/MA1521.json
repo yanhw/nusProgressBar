@@ -1,0 +1,46 @@
+{
+"moduleCode": "MA1521",
+"moduleTitle": "Calculus for Computing",
+"moduleCredit": "4",
+"lockedModules":[
+            "CS3218",
+            "MA2213",
+            "MA2216",
+            "BT3102",
+            "MA2108",
+            "DSC3214",
+            "IE2110",
+            "CS5240",
+            "ST2131",
+            "MA2311",
+            "ST2334",
+            "MA1104",
+            "BT2101",
+            "MA2108S",
+            "CS3242",
+            "MA3220",
+            "MA1506",
+            "CS4243"
+        ],
+"preclusion": "MA1102R, MA1312, MA1505, MA1507, MA2501, FoE students.",
+"prerequisite": "GCE 'A' LEVEL MATHEMATICS OR H2 MATHEMATICS OR MA1301 OR MA1301FC OR MA1301X",
+"preclusionList": [
+            "MA1312",
+            "MA2501",
+            "MA1102R",
+            "MA1507",
+            "MA1505"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "MA1521", 
+            "children": []
+},
+"moduleDescription": "This module provides a basic foundation for calculus and its related subjects required by computing students. The objective is to train the students to be able to handle calculus techniques arising in their courses of specialization. In addition to the standard calculus material, the course also covers simple mathematical modeling techniques and numerical methods in connection with ordinary differential equations. Major topics: Preliminaries on sets and number systems. Calculus of functions of one variable and applications. Sequences, series and power series. Functions of several variables. Extrema. First and second order differential equations. Basic numerical methods for ordinary differential equations.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCIENCE",
+"department": "MATHEMATICS",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

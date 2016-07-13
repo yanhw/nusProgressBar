@@ -1,0 +1,29 @@
+{
+"moduleCode": "BMA5331",
+"moduleTitle": "Applied Investment Valuation",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "ync",
+"prerequisite": "BMA5008",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["BMA5008"]
+},
+"prerequisiteList": ["BMA5008"],
+"completePrerequisite": {
+            "name": "BMA5331", 
+            "children": [
+                {
+                    "name": "BMA5008", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "This is a practical workshop where the emphasis is on application of corporate finance fundamentals. The focus is on \u201clearning by doing\u201d. The course will use numerous proprietary and contemporary case studies based on lectures experiences and situations to distill out current market practices. It will prepare students for a career in investment management, investment banking and corporate finance. The module aims to do the following - To provide students with different security valuation approaches and their relative merits - To introduce students to security valuation for different kinds of businesses and for differing stakeholder objectives. - To provide a framework for assessing risks and interpreting the market.",
+"crossModule": "-1",
+"corequisite": "tbc",
+"faculty": "SCHOOL OF BUSINESS",
+"department": "DEAN'S OFFICE (BIZ)",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

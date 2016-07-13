@@ -1,0 +1,22 @@
+{
+"moduleCode": "CO5218",
+"moduleTitle": "Advanced Quantitative Methods I",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "A minimum grade of \u2018B-\u2018 obtained in CO5103 Quantitative Epidemiologic Methods and working knowledge of STATA.",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "CO5218", 
+            "children": []
+},
+"moduleDescription": "In this module, the principles of statistical modelling will be introduced, and statistical models such as multiple linear regression, logistic regression and Cox proportional hazards model will be applied to a variety of practical medical problems. Methods for analyzing repeated measures data, assessment of model fit, statistical handling of confounding and statistical evaluation of effect modification will also be discussed.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "SAW SWEE HOCK SCHOOL OF PUBLIC HEALTH",
+"department": "SAW SWEE HOCK SCHOOL OF PUBLIC HEALTH",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

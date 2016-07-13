@@ -1,0 +1,24 @@
+{
+"moduleCode": "GMS1000",
+"moduleTitle": "The Duke-NUS Premed Course",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "FMS1201D",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "FMS1201D"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "GMS1000", 
+            "children": []
+},
+"moduleDescription": "In the past 50 years, rapid advances in medical research have revolutionized clinical medicine. Discoveries in fundamental science continue to pave the way for changes in diagnosis and treatment of disease. We will examine and evaluate these developments, seeking to understand their scientific, clinical, social, and ethical importance, in an active and collaborative learning environment.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "DUKE-NUS MEDICAL SCHOOL",
+"department": "DUKE-NUS MEDICAL SCHOOL",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

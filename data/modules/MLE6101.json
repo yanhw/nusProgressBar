@@ -1,0 +1,22 @@
+{
+"moduleCode": "MLE6101",
+"moduleTitle": "Thermodynamics And Kinetics Of Materials",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "MLE6101", 
+            "children": []
+},
+"moduleDescription": "This module teaches thermodynamics and kinetics of different engineering materials including metals, ceramics and polymers. The major topics cover: Equilibrium and non-equilibrium. Introduction to statistical thermodynamics, Transition state theory and field effects, Solution theory, Phase diagrams. Diffusion mechanisms, Nucleation in condensed phases, Surface energy, Crystal growth, Defects in crystals, Phase transformation theories, Formation of nanostructures: nano-dots, nano-wells, nano-wires and nano-tubes.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "MATERIALS SCIENCE AND ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

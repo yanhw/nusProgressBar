@@ -1,0 +1,29 @@
+{
+"moduleCode": "YSS2207",
+"moduleTitle": "Introduction to Social Psychology",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "YSS2201 Understanding Behaviour and Cognition",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["YSS2201"]
+},
+"prerequisiteList": ["YSS2201"],
+"completePrerequisite": {
+            "name": "YSS2207", 
+            "children": [
+                {
+                    "name": "YSS2201", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "Humans are known as social animals for a reason. There is no part of our lives that is not influenced in one way or another by our social interactions. In this course we will be exploring the ways in which we are influenced by our social environment, how we influence others, how we think about social situations, how we related to other people and the implications for understanding human behaviour.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "YALE-NUS COLLEGE",
+"department": "YALE-NUS COLLEGE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

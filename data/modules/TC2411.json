@@ -1,0 +1,29 @@
+{
+"moduleCode": "TC2411",
+"moduleTitle": "Mathematics for Chemical Engineers 2",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "TC1411 Mathematics for Chemical Engineers 1",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["TC1411"]
+},
+"prerequisiteList": ["TC1411"],
+"completePrerequisite": {
+            "name": "TC2411", 
+            "children": [
+                {
+                    "name": "TC1411", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "This module introduces basic concepts of developing mathematical models for Chemical Engineering systems and trains students on techniques for solving the resulting differential equations. The objective is to provide mathematical foundations for solution of complex Chemical Engineering problems. This module is to be driven from Chemical Engineering systems perspective and expose students to methodology to identify appropriate simplifications in system modeling that lead to simplified mathematical description from a more comprehensive one. The module develops methods for solving first and second order differential equations, partial differential equations, and then applies them to Chemical Engineering systems.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "ENGINEERING",
+"department": "BACHELOR OF TECHNOLOGY PROGRAMME",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,0,3,0,]]
+}

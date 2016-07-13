@@ -1,0 +1,26 @@
+{
+"moduleCode": "UTW1001M",
+"moduleTitle": "Sport and competition",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "IEM1201%, UTW1001%, ES1501%",
+"prerequisite": "Students must have passed/been exempted from the NUS Qualifying English Test (QET) or have passed CELC English for Academic Purposes modules.",
+"preclusionList": [
+            "IEM1201",
+            "ES1501",
+            "UTW1001"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "UTW1001M", 
+            "children": []
+},
+"moduleDescription": "In professional, competitive sport, there appear to be fundamentally distinct ideas concerning human endeavour and the nature of competition that are worthy of critical examination. Is winning everything? Should participation or self-defining achievement be more valued? Is sport becoming too elitist? Does the obsession to win create the need for performance-enhancing drugs? Should we legalize doping or tighten control measures? Should we change the nature of professional competitive sport? Students will explore these questions through close analysis of viewpoints expressed in both scholarly literature and popular media, ultimately developing their own positions in written arguments.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "NON-FACULTY-BASED DEPARTMENTS",
+"department": "CTR FOR ENGLISH LANGUAGE COMMUNICATION",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

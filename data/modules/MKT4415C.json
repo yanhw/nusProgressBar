@@ -1,0 +1,29 @@
+{
+"moduleCode": "MKT4415C",
+"moduleTitle": "SIM: Marketing Analytics",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "MKT2401 Asian Markets and Marketing Management",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["MKT2401"]
+},
+"prerequisiteList": ["MKT2401"],
+"completePrerequisite": {
+            "name": "MKT4415C", 
+            "children": [
+                {
+                    "name": "MKT2401", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "The digital age has fundamentally altered the manner we collect, process, analyse and disseminate market intelligence. Driven by advances in hardware, software and communications, the very nature of market research is rapidly changing. New techniques are emerging. The increased velocity of information flow enables marketers to respond with much greater speed to changes in the marketplace. Market research is timelier, less expensive, more actionable and more precise ... all of which makes it of far greater importance to marketers. Applied Market Research is primarily designed for marketing professionals to train them to use market knowledge for day-to-day marketing decisions. It will provide good understanding of many prevalent research techniques and their application. The course will be taught in an application-oriented fashion through lectures, class discussions and case studies. Students will acquire critical analysis and decision making abilities to prepare them to tackle the marketing and business issues they are likely to confront in a career in marketing.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "SCHOOL OF BUSINESS",
+"department": "MARKETING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

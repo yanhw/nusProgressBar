@@ -1,0 +1,51 @@
+{
+"moduleCode": "ESE4405",
+"moduleTitle": "Urban Water Engineering & Management",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "ESE3401 or ESE3001",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " or ": [
+                "ESE3401", 
+                "ESE3001"
+            ]
+},
+"prerequisiteList": ["ESE3401","ESE2401","ESE2001","ESE3001"],
+"completePrerequisite": {
+            "name": "ESE4405", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "ESE3401", 
+                            "children": [
+                                {
+                                    "name": "ESE2401", 
+                                    "children": [
+                                        {
+                                            "name": "ESE2001", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "ESE3001", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "Topics covered in this module include urban water supply and demand, urban water management, identification of urban water quality systems, management strategies, environmental economics, technological and social considerations, capacity planning and management, modeling of water quality enhancement systems, impacts of design and operating protocols, and retrofitting and upgrading considerations. Application of fundamental principles for planning, analysis and design of various types of urban water quality enhancement systems will be addressed.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "ENGINEERING",
+"department": "CIVIL & ENVIRONMENTAL ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

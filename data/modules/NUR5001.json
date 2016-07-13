@@ -1,0 +1,22 @@
+{
+"moduleCode": "NUR5001",
+"moduleTitle": "Evidence Based Practice",
+"moduleCredit": "8",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "NUR5001", 
+            "children": []
+},
+"moduleDescription": "This module will provide the student with the skills to undertake a comprehensive systematic review of the literature. The student will be expected to, with the assistance of one supervisor, develop a systematic review protocol; have the protocol accepted by the Joanna Briggs Institute or the Cochrane Collaboration; complete a meta-analysis or meta-synthesis, write a systematic review; have the systematic review published by the Joanna Briggs Institute or Cochrane Library and prepare the systematic review for publication in a peer-reviewed journal suitable for the topic.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "YONG LOO LIN SCHOOL OF MEDICINE",
+"department": "NURSING/ALICE LEE CTR FOR NURSING STUD",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

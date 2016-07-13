@@ -1,0 +1,22 @@
+{
+"moduleCode": "SH5002",
+"moduleTitle": "Fundamentals in Industrial Safety",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "1 or 2 years of basic chemistry; some working experience",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "SH5002", 
+            "children": []
+},
+"moduleDescription": "The course provides basic industrial and process safety knowledge for safety, health and environment protection practitioners. It covers the life-cycle (birth-to-death principle) approach in preventing safety, health and environment problems in industry. Techniques required in risk management such as hazard identification, risk assessment, risk evaluation and risk treatment will be covered. Other topics cover include system safety, inherently safe design, process intensification, layer of protection analysis, equipment/process reliability and maintainability, redundancy and common cause failures, human errors and behavioral-based safety in the prevention of industrial accidents.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "CHEMICAL & BIOMOLECULAR ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

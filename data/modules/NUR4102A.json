@@ -1,0 +1,25 @@
+{
+"moduleCode": "NUR4102A",
+"moduleTitle": "Consolidated Clinical Practice",
+"moduleCredit": "4",
+"lockedModules":[
+            "NUR4104"
+        ],
+"preclusion": "NUR4102",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "NUR4102"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "NUR4102A", 
+            "children": []
+},
+"moduleDescription": "This module conducted over two semesters enables students to integrate theory and clinical knowledge through experience in the clinical setting. Students will focus on planning, implementing and evaluating care using evidence based practice in their selected area of interest.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "YONG LOO LIN SCHOOL OF MEDICINE",
+"department": "NURSING/ALICE LEE CTR FOR NURSING STUD",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

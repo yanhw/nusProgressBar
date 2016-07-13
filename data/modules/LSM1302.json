@@ -1,0 +1,22 @@
+{
+"moduleCode": "LSM1302",
+"moduleTitle": "Genes and Society",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "Not for Life Sciences major/minor or Food Sciences & Technology or Pharmacy majors or Bioengineering programmes.",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "LSM1302", 
+            "children": []
+},
+"moduleDescription": "The primary aim of this module is to introduce students to the modern concepts in biology and to enable them to evaluate independently the potential benefits and risks of thebiotechnological revolution and its implications for society. The topics taught will cover an understanding of the nature of the genetic material and the passage of information from DNA to protein, as well as the major technologies currently used for genetic engineering. Examples of genetic engineering of micro-organisms, plants and animals will be given in detail, and cloning will also be discussed. The students will become aware of the impact of the various genome projects on their own lives and will also able to recognise difficulties associated with deciding which kinds of genetic engineering are ethically and morally acceptable.",
+        "CrossModule": "GEK1527", 
+"corequisite": "NIL",
+"faculty": "SCIENCE",
+"department": "BIOLOGICAL SCIENCES",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

@@ -1,0 +1,22 @@
+{
+"moduleCode": "YHU3205",
+"moduleTitle": "Ming Imperial Voyages",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "YHU3205", 
+            "children": []
+},
+"moduleDescription": "From 1405 to 1433, the Ming admiral Zheng He (Cheng Ho) led seven extravagant expeditions to kingdoms in Southeast Asia and around the Indian Ocean world, going as far as the African continent. In this Historical Immersion course, we will examine the life of this eunuch-admiral and explore the nature of his voyages. We will also study the policies and ambitions of Zheng He\u2019s patron, the Emperor Yongle, and consider his lasting legacy today.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "YALE-NUS COLLEGE",
+"department": "YALE-NUS COLLEGE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

@@ -1,0 +1,47 @@
+{
+"moduleCode": "EE4434",
+"moduleTitle": "Integrated Circuit Technology, Design and Testing",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "EE2020 Digital Fundamentals EE2021 Devices and Circuits",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["EE2021"]
+},
+"prerequisiteList": ["EE2021","EE1002","EG1108","CG1108"],
+"completePrerequisite": {
+            "name": "EE4434", 
+            "children": [
+                {
+                    "name": "EE2021", 
+                    "children": [
+                        {
+                            "name": "or", 
+                            "children": [
+                                {
+                                    "name": "EE1002", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "EG1108", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "CG1108", 
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module aims to introduce students to the industry practice on the technology, design, layout and testing of digital and memory integrated circuits (IC). Students will be introduced to the different types of devices which are manufactured in a foundry. Students will learn about the ideas of design for testability through lectures, hands on exposure to different testing and debugging tools and industrial visits. Specific topics include wafer technology and devices, digital logic and memory design and layout, fundamentals of digital and static random access memory (SRAM) testing, design for testability, fault isolation and electrical characterization.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "ELECTRICAL & COMPUTER ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

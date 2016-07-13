@@ -1,0 +1,22 @@
+{
+"moduleCode": "NM4225",
+"moduleTitle": "Design Fiction",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "Cohort 2011 and before: (Not applicable to SOC/SDE/ENG students) Completed 80 MCs, including 28 MCs in NM, with a minimum CAP of 3.50 or be on the Honours track. (For SOC/SDE/ENG students) Completed 80 MCs and obtain a minimum CAP of 3.50. Cohort 2012 onwards: (Not applicable to SOC/SDE/ENG students) Completed 80 MCs, including 28 MCs in NM, with a minimum CAP of 3.20 or be on the Honours track. (For SOC/SDE/ENG students) Completed 80 MCs and obtain a minimum CAP of 3.20.",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "NM4225", 
+            "children": []
+},
+"moduleDescription": "The module introduces, discusses and evaluates various techniques of design thinking and exploration related to emergent technologies and near future scenarios. Critical and speculative design practices, such as design fiction, action research and various community-based technology and citizen science initiatives reflect upon new technologies through prototyping, storytelling, employing scenarios. They bring a convergence between the philosophical modes of inquiry and design practices serving several functions: from opening a public debate about the social, cultural and ethical impact of emerging and future technologies to exploring alternative futures and involving various actors and stakeholders in the decision making related to various technologies.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "COMMUNICATIONS AND NEW MEDIA",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

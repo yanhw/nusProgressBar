@@ -1,0 +1,22 @@
+{
+"moduleCode": "SC2215",
+"moduleTitle": "The Sociology of Food",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "SC2215", 
+            "children": []
+},
+"moduleDescription": "Food is a social phenomenon: what constitutes food and, therefore, what can be eaten; how it is to be prepared, presented, and consumed; with whom you eat and so forth express complex relationships to class, ethnicity and gender. This course will uncover the complexity behind an everyday life material that affects and effects multiple social networks, wherein food is both the material and symbol by which class, race/ethnicity, sex/gender are socially constructed. This module is mounted for all students throughout NUS with interest in food and society.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "SOCIOLOGY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,4,]]
+}

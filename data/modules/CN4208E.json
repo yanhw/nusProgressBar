@@ -1,0 +1,97 @@
+{
+"moduleCode": "CN4208E",
+"moduleTitle": "Biochemical Engineering",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "TC2106 / CN2116E & TC2112 / CN2122E",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " and ": [
+                {
+                    " or ": [
+                        "TC2106", 
+                        "CN2116E"
+                    ]
+                }, 
+                {
+                    " or ": [
+                        "TC2112", 
+                        "CN2122E"
+                    ]
+                }
+            ]
+},
+"prerequisiteList": ["TC2106","CN2116E","TC1101","CN1111E","TC2112","CN2122E","TC1402","TC2401"],
+"completePrerequisite": {
+            "name": "CN4208E", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "or", 
+                            "children": [
+                                {
+                                    "name": "TC2106", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "CN2116E", 
+                                    "children": [
+                                        {
+                                            "name": "or", 
+                                            "children": [
+                                                {
+                                                    "name": "TC1101", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "CN1111E", 
+                                                    "children": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "or", 
+                            "children": [
+                                {
+                                    "name": "TC2112", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "CN2122E", 
+                                    "children": [
+                                        {
+                                            "name": "or", 
+                                            "children": [
+                                                {
+                                                    "name": "TC1402", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "TC2401", 
+                                                    "children": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "ENGINEERING",
+"department": "BACHELOR OF TECHNOLOGY PROGRAMME",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

@@ -1,0 +1,138 @@
+{
+"moduleCode": "EC3361",
+"moduleTitle": "Labour Economics I",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "EC2101, (EC2104 OR ANY MA MODULE THAT IS NOT MA1301/MA1301FC/MA1301X OR MA1311 OR MA1312 OR MA1421), AND EC3303",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " and ": [
+                "MA1311", 
+                {
+                    " or ": [
+                        "MA1312", 
+                        "MA1421"
+                    ]
+                }, 
+                "EC3303"
+            ]
+},
+"prerequisiteList": ["MA1311","MA1312","MA1421","EC3303","EC1101E","EC1301","BSP1005","EC2303","DSC1007","DSC1007X","MA2216","MA1102","MA1102R","MA1507","MA1505","MA1505C","MA1521"],
+"completePrerequisite": {
+            "name": "EC3361", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "MA1311", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "or", 
+                            "children": [
+                                {
+                                    "name": "MA1312", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "MA1421", 
+                                    "children": []
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "EC3303", 
+                            "children": [
+                                {
+                                    "name": "and", 
+                                    "children": [
+                                        {
+                                            "name": "or", 
+                                            "children": [
+                                                {
+                                                    "name": "EC1101E", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "EC1301", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "BSP1005", 
+                                                    "children": []
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "or", 
+                                            "children": [
+                                                {
+                                                    "name": "EC2303", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "DSC1007", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "DSC1007X", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MA2216", 
+                                                    "children": [
+                                                        {
+                                                            "name": "or", 
+                                                            "children": [
+                                                                {
+                                                                    "name": "MA1102", 
+                                                                    "children": []
+                                                                }, 
+                                                                {
+                                                                    "name": "MA1102R", 
+                                                                    "children": []
+                                                                }, 
+                                                                {
+                                                                    "name": "MA1312", 
+                                                                    "children": []
+                                                                }, 
+                                                                {
+                                                                    "name": "MA1507", 
+                                                                    "children": []
+                                                                }, 
+                                                                {
+                                                                    "name": "MA1505", 
+                                                                    "children": []
+                                                                }, 
+                                                                {
+                                                                    "name": "MA1505C", 
+                                                                    "children": []
+                                                                }, 
+                                                                {
+                                                                    "name": "MA1521", 
+                                                                    "children": []
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module employs the analytical tools of economics to provide a better understanding of the workings and outcomes of labour markets. It applies economic theory to analyze and predict the behaviour of and relationship between labour market participants; to understand the causes of important labour market trends and developments; and to discuss and evaluate policies affecting labour services. Major topics covered include the theory of individual labour supply, labour demand, economics of education, training and migration, trade unions and collective bargaining, economics of personnel, pay determination and productivity.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "ECONOMICS",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

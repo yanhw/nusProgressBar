@@ -1,0 +1,24 @@
+{
+"moduleCode": "SSA2208",
+"moduleTitle": "Singapore's Military History",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "HY2242. Students majoring in HY are precluded from taking this module.",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "HY2242"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "SSA2208", 
+            "children": []
+},
+"moduleDescription": "Singapore is a sovereign nation-state with formidable armed forces but its military situation is still very much governed by its place in the Malay world and its fluctuating strategic value to great powers. This module showcases the value of a 700-year approach to the island\u2019s military history and examines the relative impact of its distant and recent past on its present situation. This module has no pre-requisites and is suitable for any student with an interest in Singapore\u2019s history or military history in general.",
+        "CrossModule": "HY2242", 
+"corequisite": "NIL",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "HISTORY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

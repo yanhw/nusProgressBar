@@ -1,0 +1,29 @@
+{
+"moduleCode": "YSS3227",
+"moduleTitle": "The Economy-Security Nexus",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "YSS2202 Introduction to International Relations",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["YSS2202"]
+},
+"prerequisiteList": ["YSS2202"],
+"completePrerequisite": {
+            "name": "YSS3227", 
+            "children": [
+                {
+                    "name": "YSS2202", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "This course offers an introduction to the scholarly literature on the intersection of international security and international economy. It examines how economic interdependence affects military disputes (and vice versa), economic underpinnings of national security and international order, and the coexistence of military competition and economic cooperation in major regions of the world.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "YALE-NUS COLLEGE",
+"department": "YALE-NUS COLLEGE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

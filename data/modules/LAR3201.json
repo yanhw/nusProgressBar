@@ -1,0 +1,35 @@
+{
+"moduleCode": "LAR3201",
+"moduleTitle": "Arabic 3",
+"moduleCredit": "4",
+"lockedModules":[
+            "LAR3202"
+        ],
+"preclusion": "NIL",
+"prerequisite": "Successful completion of LAR2201 or exemption from it based on placement test results.",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["LAR2201"]
+},
+"prerequisiteList": ["LAR2201","LAR1201"],
+"completePrerequisite": {
+            "name": "LAR3201", 
+            "children": [
+                {
+                    "name": "LAR2201", 
+                    "children": [
+                        {
+                            "name": "LAR1201", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "Arabic 3 is a continuation of Arabic 2. Its focus is to improve upon the students\u2019 ability to interact in the language, augment their active vocabulary, and build upon their structural knowledge. An inductive/communicative approach is employed with all skills; the students are given real-life situations so that they can put into practice their acquired vocabulary and newly learnt grammar points. Also, students are exposed to a good amount of comprehensible input, such as real conversations between native speakers, audios of newscasts, and parts of movies. They are also asked to write short compositions using newly taught structures and vocabulary.",
+"crossModule": "-1",
+"corequisite": "Nil",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "CENTRE FOR LANGUAGE STUDIES",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

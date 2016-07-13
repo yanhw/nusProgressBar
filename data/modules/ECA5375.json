@@ -1,0 +1,25 @@
+{
+"moduleCode": "ECA5375",
+"moduleTitle": "Economic Growth in East Asia",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "EC5266, IZ5212",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "IZ5212",
+            "EC5266"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "ECA5375", 
+            "children": []
+},
+"moduleDescription": "This course is designed to enhance understanding of economic growth by analysing the experience of East Asian countries. By looking at both common and specific factors across the countries and related theoretical issues, it attempts to provide students with both analytical and realistic view on development process. The major topics include catching-up debate, comparisons of Asian models, the role of the state, industrial and trade policy, foreign direct investment, globalisation, and the Asian financial crisis.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "ECONOMICS",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

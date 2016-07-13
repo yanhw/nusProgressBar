@@ -1,0 +1,22 @@
+{
+"moduleCode": "IE5107",
+"moduleTitle": "Material Flow Systems",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "IE5107", 
+            "children": []
+},
+"moduleDescription": "This module covers the activities required to manage materials flow from supplier through manufacturing activities to the final use of the materials or delivery to customer. Emphasis is given on the movement of materials within the manufacturing processes and storage systems. Methodologies useful to the analysis of material flow systems, in both the manufacturing and warehousing systems, are introduced.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "INDUSTRIAL & SYSTEMS ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

@@ -1,0 +1,64 @@
+{
+"moduleCode": "PC2232",
+"moduleTitle": "Physics for Electrical Engineers",
+"moduleCredit": "4",
+"lockedModules":[
+            "EE5431R",
+            "EE4433",
+            "PC3232B"
+        ],
+"preclusion": "NIL",
+"prerequisite": "EE2011",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["EE2011"]
+},
+"prerequisiteList": ["EE2011","MA1505","MA1506","MA1102R","MA1521"],
+"completePrerequisite": {
+            "name": "PC2232", 
+            "children": [
+                {
+                    "name": "EE2011", 
+                    "children": [
+                        {
+                            "name": "and", 
+                            "children": [
+                                {
+                                    "name": "MA1505", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "MA1506", 
+                                    "children": [
+                                        {
+                                            "name": "or", 
+                                            "children": [
+                                                {
+                                                    "name": "MA1102R", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MA1505", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MA1521", 
+                                                    "children": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This 2000 level module is designed to give students an indepth grounding in fundamental aspects of modern physics. The module concentrates on modern optics and quantum mechanics (QM), with a focus on the applications of these two topics in electrical engineering.",
+"crossModule": "-1",
+"corequisite": "N.A.",
+"faculty": "SCIENCE",
+"department": "PHYSICS",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

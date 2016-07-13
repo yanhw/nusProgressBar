@@ -1,0 +1,83 @@
+{
+"moduleCode": "EE6435",
+"moduleTitle": "Advanced Concepts in Nanoelectronics",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "EE5209 and EE5521",
+"prerequisite": "EE5431R",
+"preclusionList": [
+            "EE5209",
+            "EE5521"
+        ],
+"parsedPrerequisite": {
+" and ": ["EE5431R"]
+},
+"prerequisiteList": ["EE5431R","PC2232","EE2011","MA1505","MA1506","MA1102R","MA1521","EE3431C"],
+"completePrerequisite": {
+            "name": "EE6435", 
+            "children": [
+                {
+                    "name": "EE5431R", 
+                    "children": [
+                        {
+                            "name": "or", 
+                            "children": [
+                                {
+                                    "name": "PC2232", 
+                                    "children": [
+                                        {
+                                            "name": "EE2011", 
+                                            "children": [
+                                                {
+                                                    "name": "and", 
+                                                    "children": [
+                                                        {
+                                                            "name": "MA1505", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "MA1506", 
+                                                            "children": [
+                                                                {
+                                                                    "name": "or", 
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "MA1102R", 
+                                                                            "children": []
+                                                                        }, 
+                                                                        {
+                                                                            "name": "MA1505", 
+                                                                            "children": []
+                                                                        }, 
+                                                                        {
+                                                                            "name": "MA1521", 
+                                                                            "children": []
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }, 
+                                {
+                                    "name": "EE3431C", 
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module focuses on advanced solid-state physics and quantum transport in nano-scale devices. This module is designed for students to learn the latest developments in nanoelectronics and devices. Major topics include the advanced theory of electronic structures of novel materials, quantum transport theory, and their applications to novel nanoelectronic devices.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "ELECTRICAL & COMPUTER ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

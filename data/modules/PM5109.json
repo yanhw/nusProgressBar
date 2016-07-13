@@ -1,0 +1,22 @@
+{
+"moduleCode": "PM5109",
+"moduleTitle": "Project Management Law",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "PM5109", 
+            "children": []
+},
+"moduleDescription": "Objective - This module provides an understanding of aspects of construction law and mechanisms for resolving disputes. It covers the law of contract, the duties and liabilities of different parties in a project, negligence, claims, procurement, risk allocation, and remedies.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF DESIGN AND ENVIRONMENT",
+"department": "BUILDING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

@@ -1,0 +1,96 @@
+{
+"moduleCode": "LSM3232",
+"moduleTitle": "Microbiology",
+"moduleCredit": "4",
+"lockedModules":[
+            "LSM4223",
+            "LSM3242",
+            "LSM4226",
+            "FST5203"
+        ],
+"preclusion": "NIL",
+"prerequisite": "LSM2101 or LSM2102 or LSM2103",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " or ": [
+                "LSM2101", 
+                "LSM2102", 
+                "LSM2103"
+            ]
+},
+"prerequisiteList": ["LSM2101","LSM1101","LSM1401","LSM2102","LSM1102","LSM2103"],
+"completePrerequisite": {
+            "name": "LSM3232", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "LSM2101", 
+                            "children": [
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "LSM1101", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "LSM1401", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "LSM2102", 
+                            "children": [
+                                {
+                                    "name": "and", 
+                                    "children": [
+                                        {
+                                            "name": "LSM1401", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "LSM1102", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "LSM2103", 
+                            "children": [
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "LSM1101", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "LSM1401", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "LSM1102", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "Principles of Microbiology, with emphasis on the properties, functions and classification of the major classes of microorganisms, especially bacteria, fungi and viruses. Understanding microbial activities and their influence on microbial diseases, industrial applications, ecology, food and water quality.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "YONG LOO LIN SCHOOL OF MEDICINE",
+"department": "MICROBIOLOGY & IMMUNOLOGY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

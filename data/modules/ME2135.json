@@ -1,0 +1,54 @@
+{
+"moduleCode": "ME2135",
+"moduleTitle": "Fluid Mechanics II",
+"moduleCredit": "4",
+"lockedModules":[
+            "ME3233E",
+            "ME4233",
+            "ME4231",
+            "ME4234",
+            "ME3232",
+            "ME3233",
+            "ME5301"
+        ],
+"preclusion": "NIL",
+"prerequisite": "ME2134",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["ME2134"]
+},
+"prerequisiteList": ["ME2134","PC1431","PC1431F","PC1431X"],
+"completePrerequisite": {
+            "name": "ME2135", 
+            "children": [
+                {
+                    "name": "ME2134", 
+                    "children": [
+                        {
+                            "name": "or", 
+                            "children": [
+                                {
+                                    "name": "PC1431", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "PC1431F", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "PC1431X", 
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module introduces the students to the operating principles of hydraulic pumps and turbines, their applications and methods of selecting pumps to match system requirements and how to avoid cavitation damage. We also focus on the mathematical theory of potential (non-viscous) fluid flow as well as the structure of basic vortices. This is followed by treatment of the fundamentals of viscous fluid flow and boundary layers. The major topics covered therein are the Navier-Stokes equations and some of their exact solutions, boundary layer flow theory, estimation of drag force on a flat plate, boundary layer separation and control, equations of motion for turbulent flow and turbulent boundary layers, turbulent models and velocity profiles in turbulent boundary layers. Boundary layer with transition. Flow around bluff and streamlined bodies: their flow patterns, drag and lift.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "MECHANICAL ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

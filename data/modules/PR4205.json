@@ -1,0 +1,35 @@
+{
+"moduleCode": "PR4205",
+"moduleTitle": "Bioorganic Principles of Medicinal Chemistry",
+"moduleCredit": "4",
+"lockedModules":[
+            "PR5216"
+        ],
+"preclusion": "NIL",
+"prerequisite": "Pass in PR2115 OR PR3101 OR by permission",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["PR3101"]
+},
+"prerequisiteList": ["PR3101","PR1101"],
+"completePrerequisite": {
+            "name": "PR4205", 
+            "children": [
+                {
+                    "name": "PR3101", 
+                    "children": [
+                        {
+                            "name": "PR1101", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "Learning objectives: To learn the different approaches in the design of drugs that are capable of interacting specifically with enzymes, DNA and other cellular targets. Major topics: A mechanistic, chemical and biochemical approach to medicinal chemistry, emphasizing enzymatic and macromolecular targets of drug action. Peptide, peptidomimetics and oligonucleotides. Target students: Pharmacy Final Year and Applied Chemistry (Drug Option)",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCIENCE",
+"department": "PHARMACY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

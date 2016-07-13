@@ -1,0 +1,29 @@
+{
+"moduleCode": "PR2143",
+"moduleTitle": "Pharmaceutical Analysis for Quality Assurance",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "PR1110",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["PR1110"]
+},
+"prerequisiteList": ["PR1110"],
+"completePrerequisite": {
+            "name": "PR2143", 
+            "children": [
+                {
+                    "name": "PR1110", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "This module aims to train students in the principles and practical capability of pharmacopeia assays and various analytical instruments for pharmaceutical analysis. In particular, students will apply the analytical techniques in the characterization of active pharmaceutical ingredient (API), the quality assurance of dosage forms and the analysis of biological fluids, coupled with hands-on experience with instrumentation and real-life problem solving.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCIENCE",
+"department": "PHARMACY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

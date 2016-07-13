@@ -1,0 +1,22 @@
+{
+"moduleCode": "BPS5205",
+"moduleTitle": "Sustainable Construction and Maintainability",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "BPS5205", 
+            "children": []
+},
+"moduleDescription": "This module deals with the issues of sustainable construction through its treatment of durability of building materials and components and utilises the risk management approach to predict future maintainability. It aims to improve the standard and quality of design, construction and maintenance practices to produce efficient facilities that require minimum maintenance. Major topics covered include technical issues related to maintainability of major components of a facility for wet area, fa\u00e7ade, basement, roof and Mechanical & Electrical services. Other topics covered are the implications and selection of materials for high maintainability, diagnostic techniques and maintainability grading system.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "SCHOOL OF DESIGN AND ENVIRONMENT",
+"department": "BUILDING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

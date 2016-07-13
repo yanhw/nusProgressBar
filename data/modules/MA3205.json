@@ -1,0 +1,52 @@
+{
+"moduleCode": "MA3205",
+"moduleTitle": "Set Theory",
+"moduleCredit": "4",
+"lockedModules":[
+            "MA4207"
+        ],
+"preclusion": "NIL",
+"prerequisite": "MA1100 or MA1100S or CS1231 or CS1231S",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " or ": [
+                "MA1100", 
+                "MA1100S", 
+                "CS1231", 
+                "CS1231S"
+            ]
+},
+"prerequisiteList": ["MA1100","MA1100S","CS1231","CS1231S"],
+"completePrerequisite": {
+            "name": "MA3205", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "MA1100", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "MA1100S", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "CS1231", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "CS1231S", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This is an introductory mathematical course in set theory. There are two main objectives: One is to present some basic facts about abstract sets, such as, cardinal and ordinal numbers, axiom of choice and transfinite recursion; the other is to explain why set theory is often viewed as foundation of mathematics. This module is designed for students who are interested in mathematical logic, foundation of mathematics and set theory itself. Major topics: Algebra of sets. Functions and relations. Infinite sets. Induction and definition by recursion. Countable and uncountable sets. Linear orderings. Well orderings and ordinals. Axiom of choice.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCIENCE",
+"department": "MATHEMATICS",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

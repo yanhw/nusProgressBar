@@ -1,0 +1,23 @@
+{
+"moduleCode": "EC6101",
+"moduleTitle": "Advanced Microeconomic Theory",
+"moduleCredit": "4",
+"lockedModules":[
+            "BZD6001"
+        ],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "EC6101", 
+            "children": []
+},
+"moduleDescription": "As an essential module for economics PhD students, this module aims to equip them with the tools of modern microeconomic theory and prepare them to be independent researchers. As a subsequent module following EC5101, this module focuses on general equilibrium and welfare theory, game theory, and information economics.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "ECONOMICS",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

@@ -1,0 +1,23 @@
+{
+"moduleCode": "CO5204",
+"moduleTitle": "Health Economics And Financing",
+"moduleCredit": "4",
+"lockedModules":[
+            "SPH6005"
+        ],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "CO5204", 
+            "children": []
+},
+"moduleDescription": "This module addresses the economic and financing aspects of the production, distribution, and organization of health care services and delivery. This includes the structure of health care delivery and insurance markets, demand for and supply of health services, pricing of services, cost of care, financing mechanisms, and their impact on the relevant markets. A special emphasis will be given to market failures and the role of government in the market for health services. Through text book readings and discussions of seminal articles and more recent empirical applications in health economics, students will learn the economic way of thinking. They will be given the opportunity to showcase these skills through a series of research papers written throughout the semester that will culminate with a final manuscript that provides an in-depth analysis of a critical health issue.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "SAW SWEE HOCK SCHOOL OF PUBLIC HEALTH",
+"department": "SAW SWEE HOCK SCHOOL OF PUBLIC HEALTH",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

@@ -1,0 +1,64 @@
+{
+"moduleCode": "IS3240",
+"moduleTitle": "Economics of E-Business",
+"moduleCredit": "4",
+"lockedModules":[
+            "BSP4513"
+        ],
+"preclusion": "CS3265",
+"prerequisite": "Pass 60 MCs and [EC1101 or EC1101E or EC1301 or EC1310 or EC1311 or GCE \u2018A\u2019 Level Economics or BSP1005 ]",
+"preclusionList": [
+            "CS3265"
+        ],
+"parsedPrerequisite": {
+            " or ": [
+                "EC1101", 
+                "EC1101E", 
+                "EC1301", 
+                "EC1310", 
+                "EC1311", 
+                "BSP1005"
+            ]
+},
+"prerequisiteList": ["EC1101","EC1101E","EC1301","EC1310","EC1311","BSP1005"],
+"completePrerequisite": {
+            "name": "IS3240", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "EC1101", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "EC1101E", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "EC1301", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "EC1310", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "EC1311", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "BSP1005", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "We are living in a \"New Economy\"with e-business. E-Business means not only \"selling products electronically\"but also digitalisation of many conventional business processes: financing, advertising, and managing human resources. These process-related changes significantly impact intra-business organisation, business-to-business relationships, and business-to-consumer interactions. As technology advances breathlessly, the ideas, concepts, and models of economic principles need to be applied carefully. The economic analyses, such as differential pricing, bundling, signalling, licensing, lock-in, or network effects can be directly applied to E-Business economy. This course aims to give students economic insights to understand E-Business and to make better decisions in E-Business.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF COMPUTING",
+"department": "INFORMATION SYSTEMS",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

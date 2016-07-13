@@ -1,0 +1,22 @@
+{
+"moduleCode": "BPS5201",
+"moduleTitle": "Thermal and Indoor Air Quality Performance",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "BPS5201", 
+            "children": []
+},
+"moduleDescription": "The thermal performance deals with the building thermal physics and addresses both passive and active design features in different climatic conditions. It also deals with thermal comfort in all types of buildings and climates including adaptive comfort models. The indoor air quality (IAQ) performance examines the relationship between IAQ and occupants\u2019 well-being and health and identifies the types and sources of indoor air pollutants and means of minimizing the problems. The experimental procedures of investigating and analyzing IAQ issues are also introduced. The module also focuses on energy efficient HVAC and air distribution systems in achieving sustainable thermal and IAQ performance.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "SCHOOL OF DESIGN AND ENVIRONMENT",
+"department": "BUILDING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

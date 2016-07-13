@@ -1,0 +1,22 @@
+{
+"moduleCode": "BMA5108",
+"moduleTitle": "Technopreneurship",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "BMA5108", 
+            "children": []
+},
+"moduleDescription": "The course provides a comprehensive overview of the major elements of high technology entrepreneurial activity, including evaluation and planning of a new business, intellectual property protection, financing, team building, product development, marketing and operational management issues, alternative models for revenue and growth, and exit strategies The course is targeted primarily at graduate students with technical backgrounds, particularly those from engineering, science and computing who are interested in commercializing their inventions or technical know-how by starting up their own ventures.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF BUSINESS",
+"department": "DEAN'S OFFICE (BIZ)",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,4,]]
+}

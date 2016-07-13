@@ -1,0 +1,26 @@
+{
+"moduleCode": "PC1222",
+"moduleTitle": "Fundamentals of Physics II",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "'A' level or H2 pass in Physics or PC1143, or PC1144 or PC1432",
+"prerequisite": "'O' level pass in Physics or Combined Science (Physics & Chemistry OR Physics & Biology).",
+"preclusionList": [
+            "PC1143",
+            "PC1432",
+            "PC1144"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "PC1222", 
+            "children": []
+},
+"moduleDescription": "The module aims to bridge the gap between O level Physics and first year university physics level. The module covers the fundamentals of three branches of physics: electricity &amp; magnetism, optics and modern physics. Topics included in the part on electricity &amp; magnetism are Coulombs law, electric field and potential, capacitance, current and resistance, DC circuits, magnetic fields, magnetic effects on current, electromagnetic induction, AC circuits and electromagnetic waves. The part on optics encompasses topics such as reflection and refraction, systems of lenses, optical instruments, interference, diffraction, grating and polarization. Topics covered in the part on modern physics are blackbody radiation, photoelectric effect, atomic transitions and spectra, the uncertainty principle, wave-particle duality, radioactivity and decay processes, binding energy and fusion energy and fusion &amp; fission.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCIENCE",
+"department": "PHYSICS",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

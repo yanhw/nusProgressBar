@@ -1,0 +1,22 @@
+{
+"moduleCode": "SE4101",
+"moduleTitle": "SEA Studies: Theory & Practice",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "ALL Non SE major students.",
+"prerequisite": "Cohort 2011 and before: Completed 80MCs, including 28MCs in SE, with a minimum CAP of 3.50 or be on Honours track. Cohort 2012 onwards: Completed 80 MCs, including 28 MCs in SE, with a minimum CAP of 3.20 or be on the Honours track.",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "SE4101", 
+            "children": []
+},
+"moduleDescription": "The module prepares Honours students for their thesis exercise, particularly in the choice of analytical framework and appropriate research design. Students are introduced to various ideas about 'theory' and 'practice' in research on Southeast Asia. Different disciplinary approaches are compared and evaluated in terms of the way they formulate research questions, conceptualise research design and measure evidence. Attention will also be paid to modes of writing and representation adopted in texts under study. Seminar discussions are aimed at helping students think critically about the suitability of various approaches to their own research interests.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "SOUTHEAST ASIAN STUDIES",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

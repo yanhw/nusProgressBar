@@ -1,0 +1,24 @@
+{
+"moduleCode": "EE5003",
+"moduleTitle": "Electrical Engineering Project",
+"moduleCredit": "8",
+"lockedModules":[
+],
+"preclusion": "EE5001",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "EE5001"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "EE5003", 
+            "children": []
+},
+
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "ELECTRICAL & COMPUTER ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

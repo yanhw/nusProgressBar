@@ -1,0 +1,32 @@
+{
+"moduleCode": "PA1113",
+"moduleTitle": "Basic Pharmacology",
+"moduleCredit": "4",
+"lockedModules":[
+            "PR2133",
+            "PR2134",
+            "PR2135"
+        ],
+"preclusion": "NIL",
+"prerequisite": "AY1130",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["AY1130"]
+},
+"prerequisiteList": ["AY1130"],
+"completePrerequisite": {
+            "name": "PA1113", 
+            "children": [
+                {
+                    "name": "AY1130", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "This is a team-taught module that aims to prepare pharmacy students with the fundamental principles in how drugs influence human body and how human body handles these agents. These principles are key to introducing system pharmacology here which includes major topics: autonomic, corticosteroid, steroid hormone and immune-pharmacology.",
+"crossModule": "-1",
+"corequisite": "PY1131",
+"faculty": "YONG LOO LIN SCHOOL OF MEDICINE",
+"department": "PHARMACOLOGY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

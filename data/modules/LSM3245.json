@@ -1,0 +1,43 @@
+{
+"moduleCode": "LSM3245",
+"moduleTitle": "RNA Biology and Technology",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "LSM2102 Molecular Biology",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["LSM2102"]
+},
+"prerequisiteList": ["LSM2102","LSM1401","LSM1102"],
+"completePrerequisite": {
+            "name": "LSM3245", 
+            "children": [
+                {
+                    "name": "LSM2102", 
+                    "children": [
+                        {
+                            "name": "and", 
+                            "children": [
+                                {
+                                    "name": "LSM1401", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "LSM1102", 
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module examines the roles of RNA, coding and in particular non-coding (ncRNA), in regulation of gene expression, host\u2013pathogen interaction, and catalysis as well as their applications in research, diagnosis, and therapy of human diseases. The topics cover the \u2018RNA world hypothesis\u2019, the relation between structure and function of RNA, the mechanisms of regulation and dysregulation of gene expression by ncRNAs, selection and design of functional RNAs, features and usage of ncRNAs, the role of RNA in early stage pharmaceutical developments, and RNA-based drug development.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "YONG LOO LIN SCHOOL OF MEDICINE",
+"department": "MICROBIOLOGY & IMMUNOLOGY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

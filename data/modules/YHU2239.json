@@ -1,0 +1,51 @@
+{
+"moduleCode": "YHU2239",
+"moduleTitle": "Queer Theory",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "YCC1111 Literature and Humanities 1, and YCC1112 Literature and Humanities 2, and YCC2121 Modern Social Thought",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " and ": [
+                "YCC1111", 
+                "YCC1112", 
+                "YCC2121"
+            ]
+},
+"prerequisiteList": ["YCC1111","YCC1112","YCC2121"],
+"completePrerequisite": {
+            "name": "YHU2239", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "YCC1111", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "YCC1112", 
+                            "children": [
+                                {
+                                    "name": "YCC1111", 
+                                    "children": []
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "YCC2121", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "An introduction to the body of critical writings on dissident forms of gender, desire, and sexuality that has come to be known as \u201cqueer theory,\u201d with a focus on its influence on literary studies. Paying equal attention to the classic theories in the 1990s (Butler, Sedgwick, Halperin, Rubin) and contemporary debates (Love, Freeman, Edelman, Rofel), this course traces the development of queer theory from its early concerns with performativity,heteronormativity, butch/femme, and drag to new theories of queer temporalities, affect, transgender, intersex, and homonationalism.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "YALE-NUS COLLEGE",
+"department": "YALE-NUS COLLEGE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

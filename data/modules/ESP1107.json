@@ -1,0 +1,24 @@
+{
+"moduleCode": "ESP1107",
+"moduleTitle": "Computing and Statistics",
+"moduleCredit": "4",
+"lockedModules":[
+            "ESP2110",
+            "ESP2109"
+        ],
+"preclusion": "NIL",
+"prerequisite": "'A' level Mathematics or equivalent",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "ESP1107", 
+            "children": []
+},
+"moduleDescription": "This module introduces basic concepts in high level programming, numerical methods and statistics. Students will learn how to program simple and essential tasks such as interpolation, differentiation and integration, and how to make parameter fits to data. They will learn about error generation and propagation. Students will learn programming, primarily by using it to solve simple problems. They will learn basic concepts of probability and statistics and how they are used in the acquisition and processing of data.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "ENGINEERING SCIENCE PROGRAMME",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

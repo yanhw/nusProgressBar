@@ -1,0 +1,22 @@
+{
+"moduleCode": "CL3203",
+"moduleTitle": "Chinese Discourse Analysis & Pragmatics",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "Must obtain: 1) At least a B4 for (a) Higher Chinese at GCE 'O' Level, or (b) Chinese Language at GCE 'AO' Level (at GCE 'A' Level examination); OR 2) At least a pass for (a) Chinese at GCE 'A' Level, or (b) Higher Chinese at GCE 'A' Level; OR 3) At least C grade for Chinese Language (H1CL) at GCE 'A' Level; OR 4) At least a pass for (a) Chinese Language and Literature (H2CLL) at GCE 'A' Level, or (b) Chinese Language and Literature (H3CLL) at GCE 'A' Level. 5) Equivalent qualifications may be accepted.",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "CL3203", 
+            "children": []
+},
+"moduleDescription": "This module aims at applying the methodologies of discourse analysis in the study of Chinese discourse. This course discusses how context influences the interpretation of meaning. Essential topics in pragmatics such as speech acts, presuppositions, deixis, conversational maxims, and implicature with special reference to the Chinese language, etc. will be discussed. Preference will be given to students who have taken CL2203/CL2103 Chinese Grammar.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "CHINESE STUDIES",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

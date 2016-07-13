@@ -1,0 +1,22 @@
+{
+"moduleCode": "BDC6113",
+"moduleTitle": "Foundations of Inventory Management",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "BDC6113", 
+            "children": []
+},
+"moduleDescription": "This course will provide an in-depth study of a variety of production and inventory control planning problems, the development of mathematical models corresponding to these problems, approaches to characterize solutions, and algorithm designs for finding solutions. We will cover deterministic as well as stochastic inventory models. Although many of the topics we will cover are of great interest to managers, our focus will not be on practice but on theory.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "SCHOOL OF BUSINESS",
+"department": "DECISION SCIENCES",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

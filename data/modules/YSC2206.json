@@ -1,0 +1,22 @@
+{
+"moduleCode": "YSC2206",
+"moduleTitle": "Principles of Organic Chemistry",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "Integrated Science",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "YSC2206", 
+            "children": []
+},
+"moduleDescription": "This course introduces students to the principles of carbon-based chemistry that form the building blocks of the molecules of life. Determining the shapes and structures of organic molecules and how they influence chemical reactivity and functionality is the main emphasis of this course.",
+"crossModule": "-1",
+"corequisite": "None required for this course, however this course is co-requisite for students enrolling in the laboratory-based â€œTechniques in Organic and Analytical Chemistryâ€? course.",
+"faculty": "YALE-NUS COLLEGE",
+"department": "YALE-NUS COLLEGE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

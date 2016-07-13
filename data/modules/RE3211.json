@@ -1,0 +1,29 @@
+{
+"moduleCode": "RE3211",
+"moduleTitle": "Real Estate Finance Law",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "RE2105 Land Law",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["RE2105"]
+},
+"prerequisiteList": ["RE2105"],
+"completePrerequisite": {
+            "name": "RE3211", 
+            "children": [
+                {
+                    "name": "RE2105", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "This module deals with the legal aspects of conducting and participating in the business of investing organizations as well as joint venture agreements. Students will also gain an understanding of the regulatory framework that governs real estate lending institutions and mortgages, real-estate backed securities and other forms of real estate financing. The original Trust concept and its adaptation to business trusts and real estate investment trusts (REITS) will also be discussed from the legal perspective.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF DESIGN AND ENVIRONMENT",
+"department": "REAL ESTATE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

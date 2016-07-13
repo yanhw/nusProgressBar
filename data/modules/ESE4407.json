@@ -1,0 +1,56 @@
+{
+"moduleCode": "ESE4407",
+"moduleTitle": "Environmental Forensics",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "ESE3101, ESE3201 and ESE3401",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " and ": [
+                "ESE3101", 
+                "ESE3201", 
+                "ESE3401"
+            ]
+},
+"prerequisiteList": ["ESE3101","ESE3201","ESE3401","ESE2401","ESE2001"],
+"completePrerequisite": {
+            "name": "ESE4407", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "ESE3101", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "ESE3201", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "ESE3401", 
+                            "children": [
+                                {
+                                    "name": "ESE2401", 
+                                    "children": [
+                                        {
+                                            "name": "ESE2001", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module examines the theory and practical application of environmental chemistry and biology for the purpose of identifying contamination sources and forecasting environmental fate and exposure in organisms. The module provides an overview of the emerging field of environmental forensics, which is gaining prominence within government agencies, industry and environmental consulting firms. An interdisciplinary approach is used, introducing the students to fundamental concepts and methodologies from a variety of scientific sub-disciplines including analytical chemistry, molecular biology, ecology, simulation modelling and ecological risk assessment, as well as an awareness of legal and regulatory frameworks related to environmental protection and toxic substance management. The students will learn essential skills to understand technical and legal aspects of complex environmental contamination problems.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "ENGINEERING",
+"department": "CIVIL & ENVIRONMENTAL ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

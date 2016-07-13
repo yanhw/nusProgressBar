@@ -1,0 +1,22 @@
+{
+"moduleCode": "FE5221",
+"moduleTitle": "Trading Principles & Fundamentals",
+"moduleCredit": "2",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "FE5221", 
+            "children": []
+},
+"moduleDescription": "This module aims to familiarize the students with the reality of trading within the financial markets environment. Beyond the pure trading principles, it covers the many aspects of trading decisions, in terms of risk control and limits, market and economic data and information, overall portfolio management, practical market standards and conventions, specificities of derivatives trading, trading styles and techniques to manage specific market situations. This module should prepare students to better grasp trading and financial markets and allow them to become effective in a work environment in a record short time.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SPECIALITY RESEARCH INSTITUTES/CENTRES",
+"department": "RISK MANAGEMENT INSTITUTE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

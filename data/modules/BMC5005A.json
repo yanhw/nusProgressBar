@@ -1,0 +1,22 @@
+{
+"moduleCode": "BMC5005A",
+"moduleTitle": "International Business",
+"moduleCredit": "3",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "BMC5005A", 
+            "children": []
+},
+"moduleDescription": "This module provides for an understanding of cross-border economic activities, especially international trade and foreign direct investment. It examines how culture and politics influence the processes and outcomes of international business, especially the contemporary sociopolitical economy of trade and investment. Other topics include international monetary system, regional economic integration and the strategy and structure of multinational enterprises. The aim is to sensitize the student to a wide array of concepts that, taken together, explain the phenomenon of globalization.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF BUSINESS",
+"department": "DEAN'S OFFICE (BIZ)",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

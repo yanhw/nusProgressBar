@@ -1,0 +1,57 @@
+{
+"moduleCode": "CS6222",
+"moduleTitle": "Advanced Topics in Computational Biology",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "CS2220",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["CS2220"]
+},
+"prerequisiteList": ["CS2220","CS1020","CS1010","LSM1101","LSM1102"],
+"completePrerequisite": {
+            "name": "CS6222", 
+            "children": [
+                {
+                    "name": "CS2220", 
+                    "children": [
+                        {
+                            "name": "and", 
+                            "children": [
+                                {
+                                    "name": "CS1020", 
+                                    "children": [
+                                        {
+                                            "name": "CS1010", 
+                                            "children": []
+                                        }
+                                    ]
+                                }, 
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "LSM1101", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "LSM1102", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This lecture/seminar-based module introduces some biological investigations enabled by the latest experimental technologies in biology. We focus on the role of computing in helping biologists with these investigations. Students are expected to attend lectures, give seminars, and do projects. The seminars require the students to read papers related to the selected biological investigations, the enabling experimental technologies, and associated computational solutions. For the projects, students need to develop some methods/algorithms, integrate existing tools, or enhance existing tools with new functions.",
+"crossModule": "-1",
+"corequisite": "Nil",
+"faculty": "SCHOOL OF COMPUTING",
+"department": "COMPUTER SCIENCE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

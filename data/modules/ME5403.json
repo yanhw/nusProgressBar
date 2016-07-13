@@ -1,0 +1,25 @@
+{
+"moduleCode": "ME5403",
+"moduleTitle": "Computer Control Systems",
+"moduleCredit": "4",
+"lockedModules":[
+            "EE6201",
+            "EE6107",
+            "EE5201"
+        ],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "ME5403", 
+            "children": []
+},
+"moduleDescription": "The module aims to introduce the basic concepts and design methods of computer/microprocessor based control schemes. Techniques for discrete-time control realization will also be discussed. After attending the course, the students will acquire the basic skills on designing simple controllers for real time systems, know how to analyze the system responses and evaluate the controller performance. The topics covered are: discrete system analysis; pole-placement design, basic predictive control, digital PID controllers; implementation issues (sampling theorem, aliasing, discretization errors) and real-time realization using system control software such as Matlab and Labview.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "ELECTRICAL & COMPUTER ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

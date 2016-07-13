@@ -1,0 +1,49 @@
+{
+"moduleCode": "ST1232",
+"moduleTitle": "Statistics for Life Sciences",
+"moduleCredit": "4",
+"lockedModules":[
+            "CS5233",
+            "IE2130",
+            "ST2288",
+            "IE3101",
+            "CS5228",
+            "DSC3216",
+            "ST2289",
+            "IE2130E",
+            "CS5240",
+            "IE2101",
+            "FIN4111",
+            "SPH3101",
+            "ST2137",
+            "CS5340",
+            "CS3244",
+            "CS4243",
+            "CS4248"
+        ],
+"preclusion": "ST1131, ST1131A, ST2334, CE2407, CN3421, EC2231, EC2303, PR2103, DSC2008.",
+"prerequisite": "GCE 'AO' Level or H1 Pass in Mathematics or its equivalent",
+"preclusionList": [
+            "ST2334",
+            "CE2407",
+            "ST1131",
+            "ST1131A",
+            "DSC2008",
+            "PR2103",
+            "CN3421",
+            "EC2303",
+            "EC2231"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "ST1232", 
+            "children": []
+},
+"moduleDescription": "This module introduces life science students to the basic principles and methods of biostatistics, and their applications and interpretation. A computer package is used to enhance learning and to enable students to analyze real life data sets. Topics include probability, probability distributions, sampling distributions, statistical inference for one and two sample problems, nonparametric tests, categorical data analysis, correlation and regression analysis, multi-sample inference. This module is essential to students of the Life Sciences.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCIENCE",
+"department": "STATISTICS & APPLIED PROBABILITY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

@@ -1,0 +1,26 @@
+{
+"moduleCode": "GEM2006",
+"moduleTitle": "Logic",
+"moduleCredit": "4",
+"lockedModules":[
+            "PH3246"
+        ],
+"preclusion": "PH2110 and GET1028.",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "PH2110",
+            "GET1028"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "GEM2006", 
+            "children": []
+},
+"moduleDescription": "An introduction to classical logic. The first half of the course introduces propositional logic, using the techniques of truth-tables and trees. The second half of the course extends the use of trees to predicate logic and basic modal logic. Emphasis is placed on applying the techniques to philosophical arguments, and on philosophical questions raised by the study of logic.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "PHILOSOPHY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

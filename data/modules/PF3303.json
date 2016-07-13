@@ -1,0 +1,29 @@
+{
+"moduleCode": "PF3303",
+"moduleTitle": "Intelligent Facilities",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "PF2104 M&E Engineering Systems",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["PF2104"]
+},
+"prerequisiteList": ["PF2104"],
+"completePrerequisite": {
+            "name": "PF3303", 
+            "children": [
+                {
+                    "name": "PF2104", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "This module covers the mechanical and electrical systems in modern facilities, with special focus on a building. It considers the principles and design of major systems such as: heating, ventilation and air conditioning systems, power generation and distribution, vertical and horizontal transportation systems, firefighting systems, and communication and security systems. This module also covers the engineering principles and key factors influencing the thermal environments and quantification of these factors, functional requirements of utilities, and the design of systems to local codes. Students are recommended to take PF2503(existing code) / PF2503 (new code) M&E Engineering Systems before taking this module.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF DESIGN AND ENVIRONMENT",
+"department": "BUILDING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

@@ -1,0 +1,29 @@
+{
+"moduleCode": "PR5214",
+"moduleTitle": "Advances In Tablet Technology",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "PR3104 or by special permission",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["PR3104"]
+},
+"prerequisiteList": ["PR3104"],
+"completePrerequisite": {
+            "name": "PR5214", 
+            "children": [
+                {
+                    "name": "PR3104", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "Learning objectives? To gain advanced knowledge in the area of tablet technology, with special emphasis on R&D work in pharmaceutical industries.Major topics? Direct compression; Slugging; Compaction Theories; Instrumentation studies. Advances in agglomeration processes (eg. Low, medium, high shear, aqueous and non-aqueous granulations) and other processing technologies (eg. coating) and their effects on product quality. Recent trends in the development of raw materials, e.g. characterization of raw materials, influences of the properties of raw materials on tableting processes and product quality. Measurement of tablet characteristics and quality control.Target students? Postgraduates with permission",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "SCIENCE",
+"department": "PHARMACY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

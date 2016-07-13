@@ -1,0 +1,24 @@
+{
+"moduleCode": "MA4199",
+"moduleTitle": "Honours Project in Mathematics",
+"moduleCredit": "12",
+"lockedModules":[
+],
+"preclusion": "XFS4199M",
+"prerequisite": "Only for students matriculated from 2002/2003, subject to faculty and departmental requirements",
+"preclusionList": [
+            "XFS4199M"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "MA4199", 
+            "children": []
+},
+"moduleDescription": "The Honours project is intended to give students the opportunity to work independently, to encourage students develop and exhibit aspects of their ability not revealed or tested by the usual written examination, and to foster skills that could be of continued usefulness in their subsequent careers. The project work duration is one year (including assessment).",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCIENCE",
+"department": "MATHEMATICS",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

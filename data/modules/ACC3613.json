@@ -1,0 +1,67 @@
+{
+"moduleCode": "ACC3613",
+"moduleTitle": "Advanced Assurance and Attestation",
+"moduleCredit": "4",
+"lockedModules":[
+            "ACC4612A"
+        ],
+"preclusion": "Students who have passed FNA3128 are not allowed to take ACC3613.",
+"prerequisite": "FNA3121 or ACC3603",
+"preclusionList": [
+            "FNA3128"
+        ],
+"parsedPrerequisite": {
+            " or ": [
+                "FNA3121", 
+                "ACC3603"
+            ]
+},
+"prerequisiteList": ["FNA3121","ACC3603","FNA1002","ACC1002","FNA2002"],
+"completePrerequisite": {
+            "name": "ACC3613", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "FNA3121", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "ACC3603", 
+                            "children": [
+                                {
+                                    "name": "and", 
+                                    "children": [
+                                        {
+                                            "name": "or", 
+                                            "children": [
+                                                {
+                                                    "name": "FNA1002", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "ACC1002", 
+                                                    "children": []
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "FNA2002", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "To equip students with a good understanding of the theoretical and practical knowledge/techniques for a variety of assurance and attestation work other than the statutory audit. Such work is often more complex and requires advanced methodologies.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF BUSINESS",
+"department": "ACCOUNTING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

@@ -1,0 +1,42 @@
+{
+"moduleCode": "CS3219",
+"moduleTitle": "Software Engineering Principles and Patterns",
+"moduleCredit": "4",
+"lockedModules":[
+            "CS4218"
+        ],
+"preclusion": "CS3213 Software Systems Design",
+"prerequisite": "CS2103/T",
+"preclusionList": [
+            "CS3213"
+        ],
+"parsedPrerequisite": {
+" and ": ["CS2103"]
+},
+"prerequisiteList": ["CS2103","CS1020","CS1010"],
+"completePrerequisite": {
+            "name": "CS3219", 
+            "children": [
+                {
+                    "name": "CS2103", 
+                    "children": [
+                        {
+                            "name": "CS1020", 
+                            "children": [
+                                {
+                                    "name": "CS1010", 
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module provides an in-depth, hands-on experience in key aspects of software engineering that accompany the development of software. Based on proven principles and best practices, this module focuses on software architectural design from the perspective of the software process. It covers techniques for requirement elicitation and specification that provide sound base for architectural design. The module covers design decision exploration as well as patterns that explicate principles and best practices in replicable form.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF COMPUTING",
+"department": "COMPUTER SCIENCE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

@@ -1,0 +1,34 @@
+{
+"moduleCode": "SC6229",
+"moduleTitle": "Social Networks",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "SC3209 Data Analysis in Social Research, or its equivalent undergraduate statistics module",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["SC3209"]
+},
+"prerequisiteList": ["SC3209","SC2101"],
+"completePrerequisite": {
+            "name": "SC6229", 
+            "children": [
+                {
+                    "name": "SC3209", 
+                    "children": [
+                        {
+                            "name": "SC2101", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "We are living in a connected social world. The quest for a mechanism by which social connection is formed and dissolved and the pursuit of the impact of such mechanism on diverse areas such as economy, politics, culture, collective movement, technological development, or medicine have made social networks a popular topic in and beyond sociology. This advanced graduate module for sociology Ph.D. students aims to (1) introduce the theories of social networks, (2) teach varied methods to measure social networks, and (3) provide practical opportunities for students to apply the methods to their own research projects and doctoral dissertations.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "SOCIOLOGY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

@@ -1,0 +1,22 @@
+{
+"moduleCode": "DTS5730",
+"moduleTitle": "Graduate Seminar in Defence Technology and Systems",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "DTS5730", 
+            "children": []
+},
+"moduleDescription": "This graduate-level module is designed to provide opportunities for the student to: - Attend seminars on defence and security-related topics delivered by external speakers - Choose a topic pertaining to defence technology and systems - Select and critically read research publications on the chosen topic - Organize and present a presentation on the chosen topic to his fellow students and interested faculty",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "NON-FACULTY-BASED DEPARTMENTS",
+"department": "TEMASEK DEFENCE SYSTEMS INSTITUTE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

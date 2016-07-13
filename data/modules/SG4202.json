@@ -1,0 +1,22 @@
+{
+"moduleCode": "SG4202",
+"moduleTitle": "Mobile Wireless Application Development",
+"moduleCredit": "3",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "SG4202", 
+            "children": []
+},
+"moduleDescription": "The objective of this course is to enable participants to understand the various M-business strategies, and be able to select the appropriate wireless network infrastructure and develop a wireless application. The main topics are as follows: M-Business Strategies; Wireless Network Infrastructure and Technologies; Security for M-commerce; Mobile User Interface Design; Wireless Application Development using WAP, J2ME, and Wireless Security There will be a design/programming project. This course is intended for designers/developers who wish to develop m-applications.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "NON-FACULTY-BASED DEPARTMENTS",
+"department": "INSTITUTE OF SYSTEMS SCIENCE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

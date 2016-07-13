@@ -1,0 +1,22 @@
+{
+"moduleCode": "RE5003",
+"moduleTitle": "Real Estate Investment",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "RE5003", 
+            "children": []
+},
+"moduleDescription": "This module develops an understanding of the tools for assessing real estate investment opportunities at the micro-level, paying particular attention to the characteristics that distinguish real estate from other assets. It covers the fundamental discounted cash flow models for underwriting across different types of properties. The concept of leverage is also introduced in relation to cash flow projections. Specific techniques include developing cash flow proformas, ratio analyses and capitalization rate and establishing discount rates for handling risk using the CAPM or alternative models.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF DESIGN AND ENVIRONMENT",
+"department": "REAL ESTATE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

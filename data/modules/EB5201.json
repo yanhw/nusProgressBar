@@ -1,0 +1,29 @@
+{
+"moduleCode": "EB5201",
+"moduleTitle": "Campaign Management",
+"moduleCredit": "3",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "EB5001 Foundations of Business Analytics",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["EB5001"]
+},
+"prerequisiteList": ["EB5001"],
+"completePrerequisite": {
+            "name": "EB5201", 
+            "children": [
+                {
+                    "name": "EB5001", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "The objective of this module is to teach students how to build a successful, repeatable campaign development process. Using helpful practical techniques students will learn how to put marketing activities and offers together to ensure a truly relevant integrated marketing communications plan that works. Students will also learn how to measure campaign results and automatically feed that intelligence back into the system to fine tune future campaigns.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "NON-FACULTY-BASED DEPARTMENTS",
+"department": "INSTITUTE OF SYSTEMS SCIENCE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

@@ -1,0 +1,22 @@
+{
+"moduleCode": "CO5208",
+"moduleTitle": "Measuring And Managing Quality Of Care",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "CO5208", 
+            "children": []
+},
+"moduleDescription": "This module provides an introduction to the concepts and techniques used to measure and improve the quality of healthcare. It will address current concerns with patient safety and medical errors, and explore systemic approaches to harm reduction. Participants will understand the methodologies and instruments for the measurement of quality in healthcare, including clinical outcome indicators, healthcare professionals\u2019 performance measurement and patient satisfaction surveys. Strategies for managing quality, including the tools for continuous quality improvement in healthcare organizations, will be presented.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "SAW SWEE HOCK SCHOOL OF PUBLIC HEALTH",
+"department": "SAW SWEE HOCK SCHOOL OF PUBLIC HEALTH",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

@@ -1,0 +1,66 @@
+{
+"moduleCode": "ST5214",
+"moduleTitle": "Advanced Probability Theory",
+"moduleCredit": "4",
+"lockedModules":[
+            "MA5260"
+        ],
+"preclusion": "MA5259",
+"prerequisite": "ST2131 or Departmental approval (compulsory to MSc by Research and AMP students)",
+"preclusionList": [
+            "MA5259"
+        ],
+"parsedPrerequisite": {
+" and ": ["ST2131"]
+},
+"prerequisiteList": ["ST2131","MA1102","MA1102R","MA1312","MA1507","MA1505","MA1505C","MA1521"],
+"completePrerequisite": {
+            "name": "ST5214", 
+            "children": [
+                {
+                    "name": "ST2131", 
+                    "children": [
+                        {
+                            "name": "or", 
+                            "children": [
+                                {
+                                    "name": "MA1102", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "MA1102R", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "MA1312", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "MA1507", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "MA1505", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "MA1505C", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "MA1521", 
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "Probability measures and their distribution functions. Random variable: properties of mathematical expectation, independence, conditional probability and expectation. Convergence concepts: various modes of convergence of sequence of random variables; almost sure convergence, Borel-Cantelli Lemma, uniform integrability, convergence of moments. Weak and strong law of large numbers. Convergence in distribution, characteristic function: general properties, convolution, uniqueness and inversion, Lindeberg conditions and central limit theorem. This module is targeted at students who are interested in Statistics and are able to meet the pre-requisites.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCIENCE",
+"department": "STATISTICS & APPLIED PROBABILITY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

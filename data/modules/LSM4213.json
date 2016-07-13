@@ -1,0 +1,87 @@
+{
+"moduleCode": "LSM4213",
+"moduleTitle": "System Neurobiology",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "LSM3215 and LSM3216",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " and ": [
+                "LSM3215", 
+                "LSM3216"
+            ]
+},
+"prerequisiteList": ["LSM3215","LSM2103","LSM1101","LSM1401","LSM1102","LSM3216"],
+"completePrerequisite": {
+            "name": "LSM4213", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "LSM3215", 
+                            "children": [
+                                {
+                                    "name": "LSM2103", 
+                                    "children": [
+                                        {
+                                            "name": "or", 
+                                            "children": [
+                                                {
+                                                    "name": "LSM1101", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "LSM1401", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "LSM1102", 
+                                                    "children": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "LSM3216", 
+                            "children": [
+                                {
+                                    "name": "LSM2103", 
+                                    "children": [
+                                        {
+                                            "name": "or", 
+                                            "children": [
+                                                {
+                                                    "name": "LSM1101", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "LSM1401", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "LSM1102", 
+                                                    "children": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "The primary goal of this module is to understand how (a) neurons, assembled into circuits, mediate behavior and (b) pathophysiology of neurons leading to dysfunctional cellular and molecular processes and behavior. This course draws on basic knowledge of the cell biology and physiology of neurons.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "YONG LOO LIN SCHOOL OF MEDICINE",
+"department": "PHYSIOLOGY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

@@ -1,0 +1,22 @@
+{
+"moduleCode": "LL5008AV",
+"moduleTitle": "Carriage of Goods By Sea",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "Students who are taking or have taken Carriage of Goods By Sea.",
+"prerequisite": "NUS Compulsory Core Law Curriculum or equivalent.",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "LL5008AV", 
+            "children": []
+},
+"moduleDescription": "This course will focus on the different transport documents which are used in contracts for the carriage of goods by sea. This will include bills of lading, sea waybills, delivery orders. The course will examine the rights and liabilities of the parties to such contracts, including the shipowner, the charterer, the cargo owner, the lawful holder of the bill of lading etc. Major international conventions on carriage of goods, such as the Hague and Hague-Visby Rules, the Hamburg Rules, and the Rotterdam Rules will also be examined. This course is of fundamental importance to those individuals contemplating a career in shipping law and underlines Singapore\u2019s role as a major global port and maritime hub.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "LAW",
+"department": "LAW",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

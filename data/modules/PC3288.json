@@ -1,0 +1,22 @@
+{
+"moduleCode": "PC3288",
+"moduleTitle": "Advanced UROPS in Physics I",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "Departmental Approval",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "PC3288", 
+            "children": []
+},
+"moduleDescription": "Please note also that only 4MCs can be accredited towards major requirements in case that a student undertakes 8MCs for both PC3288 and PC3289.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCIENCE",
+"department": "PHYSICS",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,3,4,]]
+}

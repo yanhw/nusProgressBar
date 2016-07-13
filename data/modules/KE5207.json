@@ -1,0 +1,22 @@
+{
+"moduleCode": "KE5207",
+"moduleTitle": "Computational Intelligence II",
+"moduleCredit": "3",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "KE5207", 
+            "children": []
+},
+"moduleDescription": "The aim of this elective course of the Master of Technology (MTech) in Knowledge Engineering (KE) is to introduce Fuzzy Systems, Rough Sets, Bayesian Nets and Evolutionary Computation and their role in the development of intelligent systems for Business Analytics The objectives of the course are to: (1) Introduce computational intelligence techniques with a focus on Fuzzy Systems, Rough Sets, Bayesian Nets and Evolutionary Computation. (2) Explore how these techniques can be used to construct intelligent systems to solve real-world problems such as reasoning, decision making and optimization.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "NON-FACULTY-BASED DEPARTMENTS",
+"department": "INSTITUTE OF SYSTEMS SCIENCE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

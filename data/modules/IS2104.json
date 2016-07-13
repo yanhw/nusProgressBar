@@ -1,0 +1,22 @@
+{
+"moduleCode": "IS2104",
+"moduleTitle": "Software Team Dynamics",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "Students can only take this module after completing 40 MCs",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "IS2104", 
+            "children": []
+},
+"moduleDescription": "This course introduces students to the fundamentals of teams and working in teams. Emphasis is placed on team dynamics in the software environment. Students will learn about different types of software teams, the challenges of working in such teams and how to work and manage such teams effectively. A variety of instructional methods including lectures, in-class group activities, discussions and debates, videos and fieldwork will be used to facilitate teaching of the course.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "SCHOOL OF COMPUTING",
+"department": "INFORMATION SYSTEMS",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

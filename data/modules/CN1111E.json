@@ -1,0 +1,28 @@
+{
+"moduleCode": "CN1111E",
+"moduleTitle": "Chemical Engineering Principles",
+"moduleCredit": "4",
+"lockedModules":[
+            "CN3132E",
+            "CN2116E",
+            "CN4118E",
+            "CN2121E"
+        ],
+"preclusion": "TC1101",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "TC1101"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "CN1111E", 
+            "children": []
+},
+
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "ENGINEERING",
+"department": "BACHELOR OF TECHNOLOGY PROGRAMME",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

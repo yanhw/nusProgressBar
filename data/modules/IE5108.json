@@ -1,0 +1,22 @@
+{
+"moduleCode": "IE5108",
+"moduleTitle": "Facility Layout And Location",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "IE5108", 
+            "children": []
+},
+"moduleDescription": "This module provides an analytical treatment of the subject of facility layout and location. The layout design process consists of problem formulation, analysis of the problem, search for layout designs, selection of the preferred design, and specification of the layout design to be installed. This module also considers the problem of locating one or several new facilities with respect to existing facilities. The objective considered is the minimization of a cost function of travel distances. Problems with rectilinear and Euclidean distances are considered. Students will be assigned a computer project and a case study.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "INDUSTRIAL & SYSTEMS ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

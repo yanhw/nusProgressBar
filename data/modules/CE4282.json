@@ -1,0 +1,22 @@
+{
+"moduleCode": "CE4282",
+"moduleTitle": "Building Information Modeling for Project Management",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "CE4282", 
+            "children": []
+},
+"moduleDescription": "Building Information Modeling (BIM) is a revolutionary technology and process that provides an integrated digital database and a variety of modelling tools to remarkably change the way buildings and infrastructure facilities are designed, analyzed, constructed, and managed. BIM is rapidly becoming the industry standard and best practice. This course provides a comprehensive coverage with essential details in several key aspects of project development, such as design, building performance, sustainability, engineering, construction, project delivery, and facilities management. It helps the students start their first integrated BIM project through the hands-on of a project assignment employing industry leading BIM software.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "CIVIL & ENVIRONMENTAL ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

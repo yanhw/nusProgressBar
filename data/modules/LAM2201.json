@@ -1,0 +1,30 @@
+{
+"moduleCode": "LAM2201",
+"moduleTitle": "Malay 2",
+"moduleCredit": "4",
+"lockedModules":[
+            "LAM3201"
+        ],
+"preclusion": "NIL",
+"prerequisite": "Passed LAM1201 Malay 1 or placement test.",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["LAM1201"]
+},
+"prerequisiteList": ["LAM1201"],
+"completePrerequisite": {
+            "name": "LAM2201", 
+            "children": [
+                {
+                    "name": "LAM1201", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "This module is a progression from Malay 1 and it seeks to build upon the standard attained by students in that module. This follow-up module introduces students by gradation to the use of standard Malay in relation to administration, commerce and the modern professions. The overriding aim of the module is for students to attain a functional competency in the Malay language for formal and practical purposes where necessary and relevant, aspects of Malay grammar would be taught.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "CENTRE FOR LANGUAGE STUDIES",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

@@ -1,0 +1,83 @@
+{
+"moduleCode": "CN3132E",
+"moduleTitle": "Separation Processes",
+"moduleCredit": "5",
+"lockedModules":[
+            "CN4118E",
+            "CN4122E"
+        ],
+"preclusion": "TC2113",
+"prerequisite": "CN1111E & CN2121E & CN2125E",
+"preclusionList": [
+            "TC2113"
+        ],
+"parsedPrerequisite": {
+            " and ": [
+                "CN1111E", 
+                "CN2121E", 
+                "CN2125E"
+            ]
+},
+"prerequisiteList": ["CN1111E","CN2121E","CN2125E","TC2112","CN2122E","TC1402","TC2401"],
+"completePrerequisite": {
+            "name": "CN3132E", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "CN1111E", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "CN2121E", 
+                            "children": [
+                                {
+                                    "name": "CN1111E", 
+                                    "children": []
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "CN2125E", 
+                            "children": [
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "TC2112", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "CN2122E", 
+                                            "children": [
+                                                {
+                                                    "name": "or", 
+                                                    "children": [
+                                                        {
+                                                            "name": "TC1402", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "TC2401", 
+                                                            "children": []
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "BACHELOR OF TECHNOLOGY PROGRAMME",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

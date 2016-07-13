@@ -1,0 +1,22 @@
+{
+"moduleCode": "EC4304",
+"moduleTitle": "Economic and Financial Forecasting",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "Cohort 2011 and before: Completed 80 MCs, including 28 MCs in EC, with a minimum CAP of 3.50 or be on the Honours track. EC3303 and EC3304. Cohort 2012 onwards: Completed 80 MCs, including 28 MCs in EC, with a minimum CAP of 3.20 or be on the Honours track. EC3303 and EC3304",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "EC4304", 
+            "children": []
+},
+"moduleDescription": "This module studies techniques for forecasting, evaluating forecast performance and associated uncertainty, and comparing and combining forecasts that are tailored to the typical characteristics of economic and financial data. The emphasis is put on application of these techniques to forecasting real world data using a popular software package such as Stata or EViews.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "ECONOMICS",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

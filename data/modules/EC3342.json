@@ -1,0 +1,95 @@
+{
+"moduleCode": "EC3342",
+"moduleTitle": "International Trade",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "EC3341",
+"prerequisite": "EC2101 and EC2102",
+"preclusionList": [
+            "EC3341"
+        ],
+"parsedPrerequisite": {
+            " and ": [
+                "EC2101", 
+                "EC2102"
+            ]
+},
+"prerequisiteList": ["EC2101","EC1101E","EC1301","USE2301","BSP1005","BH1005","EC2102","BH2001"],
+"completePrerequisite": {
+            "name": "EC3342", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "EC2101", 
+                            "children": [
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "EC1101E", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "EC1301", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "USE2301", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "BSP1005", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "BH1005", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "EC2102", 
+                            "children": [
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "EC1101E", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "EC1301", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "USE2301", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "BSP1005", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "BH2001", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "International trade is about how nations interact through trade of goods and services. This module focuses on the real transactions across borders (i.e., those transactions that involve a physical movement of goods or a tangible commitment of economic resources), such as the pattern of trade, gains from trade, and trade volume.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "ECONOMICS",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

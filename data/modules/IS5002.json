@@ -1,0 +1,22 @@
+{
+"moduleCode": "IS5002",
+"moduleTitle": "Contemporary IS Management",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "IS5002", 
+            "children": []
+},
+"moduleDescription": "This module aims to help students learn essential knowledge on the management of information systems. Upon completion of the course, students are expected to gain a better understanding of IS issues and phenomena from a theoretical perspective and be able to apply the knowledge to solving practical and managerial problems in IS usage, planning, and deployment. The content of the module will cover both classical and emerging MIS issues such as IS adoption and diffusion, IS strategy, social media, e-commerce, mobile commerce, network economics, platform competition, and digital innovation. Cases will be used to enhance student learning.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF COMPUTING",
+"department": "INFORMATION SYSTEMS",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

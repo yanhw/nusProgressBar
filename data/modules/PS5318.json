@@ -1,0 +1,24 @@
+{
+"moduleCode": "PS5318",
+"moduleTitle": "The Politics of Authoritarian Rule",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "PS6317",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "PS6317"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "PS5318", 
+            "children": []
+},
+"moduleDescription": "This module explores the politics of authoritarian rule. It begins by investigating conceptual and operational differences between authoritarian and democratic regimes. It then proceeds to examine the question of \u201cwho governs\u201d in authoritarian regimes, looking in particular at personalist, monarchical, military, and single party regimes. Further topics include: conditions that give rise to authoritarianism; strategies of maintaining power; authoritarianism and economic growth; and domestic and international sources of authoritarian demise. Readings will cover theoretical approaches to the study of authoritarian rule and in-depth (mainly qualitative) case studies.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "POLITICAL SCIENCE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

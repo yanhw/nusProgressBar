@@ -1,0 +1,26 @@
+{
+"moduleCode": "ECA5313",
+"moduleTitle": "Topics in Econometrics",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "ECA5253/ECA5304/ECA5103",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "ECA5103",
+            "ECA5304",
+            "ECA5253"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "ECA5313", 
+            "children": []
+},
+"moduleDescription": "This module is designed to cover topics that are not covered under ECA5103 Quantitative and Computing Methods. Topics such as Bayesian econometrics, microeconometrics, panel regressions, limited dependent variable models, simultaneous equations models and marcoeconometric modelling for forecasting and policy analyese are likely to be covered under this module.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "ECONOMICS",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,0,3,0,]]
+}

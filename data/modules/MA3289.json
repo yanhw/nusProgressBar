@@ -1,0 +1,22 @@
+{
+"moduleCode": "MA3289",
+"moduleTitle": "Advanced UROPS in Mathematics II",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "Departmental approval",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "MA3289", 
+            "children": []
+},
+"moduleDescription": "This module provides a continuation of work done in MA3288 and the project should be of two semesters' duration. Please see section 4.4.3.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCIENCE",
+"department": "MATHEMATICS",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,3,4,]]
+}

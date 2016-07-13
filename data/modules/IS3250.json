@@ -1,0 +1,22 @@
+{
+"moduleCode": "IS3250",
+"moduleTitle": "Health Informatics",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "Students must have completed 60 MCs.",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "IS3250", 
+            "children": []
+},
+"moduleDescription": "The goal of this module is to provide students with an introduction to the many facets of IT applications in healthcare. With the increasing use of IT in the healthcare landscape, there has been a steady growth of demands for IT systems and innovations to streamline healthcare practice and to provide for quality patient care. Lectures will cover IT systems in healthcare settings, decisionmaking in patient care, standards and interoperability issues, patient data privacy and security and challenges associated with IT implementation in healthcare enterprises. The module is useful for students with the view to an IT career in healthcare.",
+"crossModule": "-1",
+"corequisite": "NA",
+"faculty": "SCHOOL OF COMPUTING",
+"department": "INFORMATION SYSTEMS",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

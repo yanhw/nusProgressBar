@@ -1,0 +1,22 @@
+{
+"moduleCode": "CM5121",
+"moduleTitle": "Graduate Organic Chemistry",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "By permission",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "CM5121", 
+            "children": []
+},
+"moduleDescription": "Major topics to be covered: Asymmetric oxidation e.g. asymmetric oxidation, epoxidation of olefins (Sharpless, Jacobsen, Yang-shi, etc), asymmetric osmylation. Asymmetric reductions e.g. asymmetric reduction of carbonyl compounds, asymmetric hydrogenation, etc. Asymmetric C-C bond formation reactions. Metal-mediated organic transformations Protecting groups in organic synthesis. Selected mechanisms in organic synthesis.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCIENCE",
+"department": "CHEMISTRY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

@@ -1,0 +1,74 @@
+{
+"moduleCode": "PC4248",
+"moduleTitle": "Relativity",
+"moduleCredit": "4",
+"lockedModules":[
+            "PC4232"
+        ],
+"preclusion": "NIL",
+"prerequisite": "Students who have passed either PC3234 or PC3274 or Departmental Approval",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " or ": [
+                "PC3234", 
+                "PC3274"
+            ]
+},
+"prerequisiteList": ["PC3234","PC3274","MA1505","MA1506","MA1102R","MA1521"],
+"completePrerequisite": {
+            "name": "PC4248", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "PC3234", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "PC3274", 
+                            "children": [
+                                {
+                                    "name": "and", 
+                                    "children": [
+                                        {
+                                            "name": "MA1505", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "MA1506", 
+                                            "children": [
+                                                {
+                                                    "name": "or", 
+                                                    "children": [
+                                                        {
+                                                            "name": "MA1102R", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "MA1505", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "MA1521", 
+                                                            "children": []
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module provides an introduction to the theories of special and general relativity. The topics covered are: relativistic kinematics and Lorentz transformations, the concept of spacetime, relativistic mechanics, homogeneous and inhomogeneous Lorentz groups; general tensor analysis, the Riemann tensor, the gravitational field equation, the Schwarzschild solution and experimental tests of general relativity. While this module is mainly targeted at physics majors, it is also suitable for science students with a strong mathematical foundation.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCIENCE",
+"department": "PHYSICS",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

@@ -1,0 +1,43 @@
+{
+"moduleCode": "ENV1202",
+"moduleTitle": "Communications for Environmental Studies",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "SP1202",
+"prerequisite": "Students who are required to complete ES1000 Basic English and/or ES1102 English for Academic Purposes must first do so before they are allowed to read this module.",
+"preclusionList": [
+            "SP1202"
+        ],
+"parsedPrerequisite": {
+            " or ": [
+                "ES1000", 
+                "ES1102"
+            ]
+},
+"prerequisiteList": ["ES1000","ES1102"],
+"completePrerequisite": {
+            "name": "ENV1202", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "ES1000", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "ES1102", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module is designed for undergraduate students pursuing the degree in the Bachelor of Environmental Studies with the aim of helping them to develop critical thinking, reading, writing and speaking skills that are relevant for communication with the academia and public. The curriculum is organised along three main interrelated areas: 1) Communication with the public: Raising public awareness of environmental issues through science-based advocacy , 2) Communication with the academia: Developing skills in academic writing, 3) Argumentation within environmental studies: Examining environmental issues using the Precautionary Principle.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "NON-FACULTY-BASED DEPARTMENTS",
+"department": "CTR FOR ENGLISH LANGUAGE COMMUNICATION",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

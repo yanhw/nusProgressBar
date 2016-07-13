@@ -1,0 +1,24 @@
+{
+"moduleCode": "PS4218",
+"moduleTitle": "European Foreign Policy",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "EU4228",
+"prerequisite": "Cohort 2011 and before: Completed 80 MCs, including 28 MCs in PS or 28 MCs in SC with a minimum CAP of 3.50 or be on the Honours track. Cohort 2012 onwards: Completed 80 MCs, including 28 MCs in PS or 28 MCs in SC or 28 MCs in GL/GL recognised non-language modules, with a minimum CAP of 3.20 or be on the Honours track.",
+"preclusionList": [
+            "EU4228"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "PS4218", 
+            "children": []
+},
+"moduleDescription": "The European Union is often viewed as an economic superpower but a military pygmy. This module aims to provide students with tools to evaluate whether the EU, as a non-state actor, can have a coherent and effective foreign policy. It considers theories and debates concerning the institutionalisation of the EU's Common Foreign and Security Policy (CFSP), and includes case studies of EU objectives and actions on selected issues (international trade, ethics, human security), in selected regions (Eastern Europe, the Middle East, Asia and Africa), and in relations with international organizations such as the UN.",
+        "CrossModule": "EU4228", 
+"corequisite": "NIL",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "POLITICAL SCIENCE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

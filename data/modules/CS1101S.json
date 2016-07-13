@@ -1,0 +1,32 @@
+{
+"moduleCode": "CS1101S",
+"moduleTitle": "Programming Methodology",
+"moduleCredit": "5",
+"lockedModules":[
+            "MA3269"
+        ],
+"preclusion": "CG1101, CS1010, CS1010E, CS1010FC, CS1010S, CS1010X, CS1101, CS1101C, Engineering students",
+"prerequisite": "No programming or computer science experience is required. A-level Mathematics or H2 Mathematics MA1301 or MA1301FC or MA1301X",
+"preclusionList": [
+            "CS1010S",
+            "CS1101C",
+            "CG1101",
+            "CS1010X",
+            "CS1101",
+            "CS1010E",
+            "CS1010F",
+            "CS1010"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "CS1101S", 
+            "children": []
+},
+"moduleDescription": "This module introduces the concepts of programming from a functional perspective, and is perceived as the first and foremost introductory course to computing. It is the first of a two part series on introductory programming, which also includes CS1102S. This series is characterized by the use of a minimalist syntax of functional languages that enables an emphasis on fundamental programming issues. Topics covered include: overview of programming languages and compilation process, procedural abstraction, recursion, data abstraction, algorithmic strategies, higher-order functions, state mutation, evaluation strategies, debugging and testing. Module activities include lectures, recitation, tutorial and laboratory exercises.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF COMPUTING",
+"department": "COMPUTER SCIENCE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

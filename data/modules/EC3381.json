@@ -1,0 +1,41 @@
+{
+"moduleCode": "EC3381",
+"moduleTitle": "Urban Economics",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "EC2101 AND (EC2104 OR ANY MA MODULE THAT IS NOT MA1301/MA1301FC/MA1301X OR MA1311 OR MA1312 OR MA1421)",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " or ": [
+                "MA1312", 
+                "MA1421"
+            ]
+},
+"prerequisiteList": ["MA1312","MA1421"],
+"completePrerequisite": {
+            "name": "EC3381", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "MA1312", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "MA1421", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "The module provides students with a general knowledge on various aspects of urban economics. It uses microeconomic analysis to explain why cities exits, where they develop, how they grow, and how different activities are arranged within cities. Models of firm, industrial and household location decisions will form the basis in analysing urban land use patterns and trends. Other topics covered include housing markets, the role of the government in the urban economy, and urban transportation. The module is for students with strong microeconomic background and with interest in urban economics.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "ECONOMICS",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

@@ -1,0 +1,29 @@
+{
+"moduleCode": "YSS3215",
+"moduleTitle": "Cognitive Psychology",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "YSS2201 Understanding Behavior & Cognition Or Permission of instructor",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["YSS2201"]
+},
+"prerequisiteList": ["YSS2201"],
+"completePrerequisite": {
+            "name": "YSS3215", 
+            "children": [
+                {
+                    "name": "YSS2201", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "This course introduces students to the study of how the mind works, seeking to understand how sensory information is transformed, stored, retrieved, or used. Although primarily focused on psychological approaches to understanding cognition (as mental information processing), it will also connect to relevant approaches within neuroscience, linguistics, philosophy, and computer science. Topics and processes to be explored include attention, language, learning, memory, perception, reasoning, emotion, and action.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "YALE-NUS COLLEGE",
+"department": "YALE-NUS COLLEGE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

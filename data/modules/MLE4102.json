@@ -1,0 +1,105 @@
+{
+"moduleCode": "MLE4102",
+"moduleTitle": "Design Project",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "MLE2103 and MLE3102 and MLE3103",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " and ": [
+                "MLE2103", 
+                "MLE3102", 
+                "MLE3103"
+            ]
+},
+"prerequisiteList": ["MLE2103","MLE2102","MLE3102","MLE1101","MLE3103","MLE2104","EG1109F","EG1109","CE1109X","MLE2101"],
+"completePrerequisite": {
+            "name": "MLE4102", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "MLE2103", 
+                            "children": [
+                                {
+                                    "name": "MLE2102", 
+                                    "children": []
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "MLE3102", 
+                            "children": [
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "MLE1101", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "MLE2102", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "MLE3103", 
+                            "children": [
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "MLE1101", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "MLE2104", 
+                                            "children": [
+                                                {
+                                                    "name": "or", 
+                                                    "children": [
+                                                        {
+                                                            "name": "EG1109F", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "EG1109", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "CE1109X", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "MLE1101", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "MLE2101", 
+                                                            "children": []
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "Students are assigned with a Design Project. Students have the opportunity to work in a team to use their knowledge of Materials Science and Engineering in problem solving. This project has the emphasis in Independent Study. Students are required to submit a report at the end of the project.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "MATERIALS SCIENCE AND ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

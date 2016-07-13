@@ -1,0 +1,30 @@
+{
+"moduleCode": "YHU2210",
+"moduleTitle": "Integrative Music Theory 2",
+"moduleCredit": "5",
+"lockedModules":[
+            "YHU4203"
+        ],
+"preclusion": "NIL",
+"prerequisite": "YHU2205 Integrative Music Theory 1 or equivalent.",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["YHU2205"]
+},
+"prerequisiteList": ["YHU2205"],
+"completePrerequisite": {
+            "name": "YHU2210", 
+            "children": [
+                {
+                    "name": "YHU2205", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "IMT 2 embraces advanced tonal procedures and the techniques of chromaticism used in composition to the end of the 19th century. Students will study the complete diatonic and chromatic vocabulary, including elements of figuration, chromatically inflected progressions, mixture, leading-tone seventh chords, dominant ninths, elevenths and thirteenths and chromatic chords including the Neapolitan and augmented sixths. Compositional applications will include the writing of advanced chorales, string quartet and piano accompaniment textures. These processes will be amplified by listening to a variety of repertoire.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "YALE-NUS COLLEGE",
+"department": "YALE-NUS COLLEGE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

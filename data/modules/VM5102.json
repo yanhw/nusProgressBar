@@ -1,0 +1,22 @@
+{
+"moduleCode": "VM5102",
+"moduleTitle": "Symptom Management in Palliative Care I",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "VM5102", 
+            "children": []
+},
+"moduleDescription": "This module covers principles of management of common symptoms encountered in palliative care, namely pain, cachexia, fatigue, gastrointestinal and respiratory symptoms. It also covers issues of hydration and nutrition in palliative care.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "YONG LOO LIN SCHOOL OF MEDICINE",
+"department": "DIVISION OF GRADUATE MEDICAL STUDIES",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

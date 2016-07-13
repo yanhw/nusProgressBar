@@ -1,0 +1,22 @@
+{
+"moduleCode": "AR4142",
+"moduleTitle": "Research Report",
+"moduleCredit": "8",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "AR4142", 
+            "children": []
+},
+"moduleDescription": "The B.A. Arch Research Report is a culminating academic exercise in the final year of B.A. Arch study. It is intended to evaluate the students\u2019 ability to carry out independent research under the supervision of a faculty member. Students will identify subject in the area of architecture theory/ history or Urban Design/ study. The report will be forged and realized under the History, Theory and Criticism or Urban Studies Research Teaching Groups.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF DESIGN AND ENVIRONMENT",
+"department": "ARCHITECTURE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

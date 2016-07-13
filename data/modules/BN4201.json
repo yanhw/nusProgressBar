@@ -1,0 +1,29 @@
+{
+"moduleCode": "BN4201",
+"moduleTitle": "Tissue Biomechanics",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "BN2204 Fundamentals of Biomechanics",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["BN2204"]
+},
+"prerequisiteList": ["BN2204"],
+"completePrerequisite": {
+            "name": "BN4201", 
+            "children": [
+                {
+                    "name": "BN2204", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "The module aims to provide an understanding of the relationship between structure and function in tissue biomechanics; introduce quantitative and qualitative assessment of hard and soft tissues in normal and pathological states; inculcate critical and constructive thinking regarding the recent research literature on tissue biomechanics and explore the potential clinical applications. The major topics include mechanical properties of bones, muscles, cartilage, ligaments/tendons, ocular tissues and cardiovascular tissues. Some examples of clinical applications include but are not limited to: tissue growth & remodelling, tendinitis, osteoporosis, osteoarthritis, atherosclerosis, aneurysms, glaucoma, myopia, corneal disorders.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "BIOMEDICAL ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

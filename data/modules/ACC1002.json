@@ -1,0 +1,33 @@
+{
+"moduleCode": "ACC1002",
+"moduleTitle": "Financial Accounting",
+"moduleCredit": "4",
+"lockedModules":[
+            "FIN3113",
+            "ACC2002",
+            "IS5116",
+            "ACC1006",
+            "FIN2004",
+            "ACC3603",
+            "ACC3605",
+            "ACC3601",
+            "ACC3611"
+        ],
+"preclusion": "Students who have passed FNA1002 are not allowed to take ACC1002.",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "FNA1002"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "ACC1002", 
+            "children": []
+},
+"moduleDescription": "The course provides an introduction to financial accounting. It examines accounting from an external user's perspective: an external user being an investor or a creditor. Such users would need to understand financial accounting in order to make investing or lending decisions. However, to attain a good understanding, it is also necessary to be familiar with how the information is derived. Therefore, students would learn how to prepare the reports or statements resulting from financial accounting and how to use them for decision-making.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF BUSINESS",
+"department": "ACCOUNTING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

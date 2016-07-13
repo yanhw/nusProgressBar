@@ -1,0 +1,22 @@
+{
+"moduleCode": "CO5209",
+"moduleTitle": "Control Of Non-Communicable Diseases",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "CO5209", 
+            "children": []
+},
+"moduleDescription": "In this module, the public health approach to non-communicable disease control will be illustrated using a matrix, which integrates epidemiological parameters (i.e. risk factors, prevention, surveillance) with the main non-communicable diseases (i.e. cardiovascular disease, cancer, mental illness, chronic respiratory disease, diabetes mellitus, Alzheimer\u2019s disease and congenital and childhood diseases). In addition, current issues, such as genetics and ethics, will be highlighted in relation to control of non-communicable diseases. The students will read, critically appraise and discuss the application of some relevant epidemiological studies. Finally, they will perform a literature search to identify an important and relevant public health concern and prepare a proposal for a public health intervention.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "SAW SWEE HOCK SCHOOL OF PUBLIC HEALTH",
+"department": "SAW SWEE HOCK SCHOOL OF PUBLIC HEALTH",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

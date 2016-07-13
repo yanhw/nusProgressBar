@@ -1,0 +1,41 @@
+{
+"moduleCode": "TS3237",
+"moduleTitle": "Acting and Directing in Asian Theatre",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "TS1101E or GEM1003",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " or ": [
+                "TS1101E", 
+                "GEM1003"
+            ]
+},
+"prerequisiteList": ["TS1101E","GEM1003"],
+"completePrerequisite": {
+            "name": "TS3237", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "TS1101E", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "GEM1003", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "Asian performance has had a huge impact on the 20th century world theatre. Prominent figures, such as Stanislavski, Artaud, Brecht, Brook, Grotowski, Suzuki and Schechner, were influenced by Asian acting. This module teaches the Asian performance traditions of the golden age: the Sanskrit theatre of India, zaju opera of China, and kabuki of Japan. The principles and philosophies of these traditions are compared as an organic whole that differs significantly from Western traditions. Students are guided to explore masterpieces in a Renaissance manner, imitating and reviving both their style and spirit. The module also serves as a reference for intercultural performances",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "ENGLISH LANGUAGE & LITERATURE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

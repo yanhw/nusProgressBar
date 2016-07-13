@@ -1,0 +1,22 @@
+{
+"moduleCode": "VM5101",
+"moduleTitle": "Introduction of Palliative Care",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "VM5101", 
+            "children": []
+},
+"moduleDescription": "This module is designed to introduce participants to the scope and principles of palliative care, and the general principles in the management of advanced cancers and the advanced non-cancer diseases.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "YONG LOO LIN SCHOOL OF MEDICINE",
+"department": "DIVISION OF GRADUATE MEDICAL STUDIES",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

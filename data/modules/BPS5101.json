@@ -1,0 +1,22 @@
+{
+"moduleCode": "BPS5101",
+"moduleTitle": "Total Building Performance and Integration",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "BPS5101", 
+            "children": []
+},
+"moduleDescription": "This module aims to provide the concept and principles of total building performance and diagnosis, and introduces the methodology for building performance evaluation and rectification. It also considers four systems of integration in buildings \u2013 Structures, Envelope, Mechanical and Interior. The module discusses trends in office evolution.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "SCHOOL OF DESIGN AND ENVIRONMENT",
+"department": "BUILDING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

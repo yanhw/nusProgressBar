@@ -1,0 +1,48 @@
+{
+"moduleCode": "LSM3233",
+"moduleTitle": "Developmental Biology",
+"moduleCredit": "4",
+"lockedModules":[
+            "LSM4252"
+        ],
+"preclusion": "NIL",
+"prerequisite": "LSM2103",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["LSM2103"]
+},
+"prerequisiteList": ["LSM2103","LSM1101","LSM1401","LSM1102"],
+"completePrerequisite": {
+            "name": "LSM3233", 
+            "children": [
+                {
+                    "name": "LSM2103", 
+                    "children": [
+                        {
+                            "name": "or", 
+                            "children": [
+                                {
+                                    "name": "LSM1101", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "LSM1401", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "LSM1102", 
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This course will showcase and examine embryogenesis, starting from fertilisation to birth in the case of animal development; and to germination, growth and differentiation in plants. Students will be exposed to concepts, principles and mechanisms that underlie development in plants and animals. Different organism models will be studied to demonstrate the rapid advances in this field of life sciences.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCIENCE",
+"department": "BIOLOGICAL SCIENCES",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

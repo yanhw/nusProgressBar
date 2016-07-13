@@ -1,0 +1,22 @@
+{
+"moduleCode": "EC4303",
+"moduleTitle": "Econometrics III",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "Cohort 2011 and before: Completed 80 MCs, including 28 MCs in EC, with a minimum CAP of 3.50 or be on the Honours track. EC3101, EC3102, and EC3304. Cohort 2012 onwards: Completed 80 MCs, including 28 MCs in EC, with a minimum CAP of 3.20 or be on the Honours track. EC3101, EC3102, EC3304",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "EC4303", 
+            "children": []
+},
+"moduleDescription": "This module is aimed at consolidating what was covered in Econometrics I and II and provide a reasonable training in econometric theory and sound empirical analyses. In addition the module will cover non-linear models, time series econometrics (including cointegration and error correction models), simultaneous equations models and more on other topics such as microeconometrics. The module will be highly useful for honours theses that deal with applied problems.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "ECONOMICS",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

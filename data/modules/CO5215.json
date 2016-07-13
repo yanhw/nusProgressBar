@@ -1,0 +1,41 @@
+{
+"moduleCode": "CO5215",
+"moduleTitle": "Advanced Epidemiology I",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "CO5102 and CO5103",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " and ": [
+                "CO5102", 
+                "CO5103"
+            ]
+},
+"prerequisiteList": ["CO5102","CO5103"],
+"completePrerequisite": {
+            "name": "CO5215", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "CO5102", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "CO5103", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module covers advanced methods for the design, conduct, analysis and interpretation of epidemiologic studies. The main focus is on analytical studies that aim to identify risk factors for diseases particularly case-control and cohort studies. Topics include causal inference, study design, methods of handling confounding and identifying effect modification, measurement error and information bias, selection bias, lifestyle and molecular epidemiology, and meta-analysis.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "SAW SWEE HOCK SCHOOL OF PUBLIC HEALTH",
+"department": "SAW SWEE HOCK SCHOOL OF PUBLIC HEALTH",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

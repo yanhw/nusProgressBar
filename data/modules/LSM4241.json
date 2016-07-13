@@ -1,0 +1,48 @@
+{
+"moduleCode": "LSM4241",
+"moduleTitle": "Functional Genomics",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "LSM3231",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["LSM3231"]
+},
+"prerequisiteList": ["LSM3231","LSM2101","LSM1101","LSM1401"],
+"completePrerequisite": {
+            "name": "LSM4241", 
+            "children": [
+                {
+                    "name": "LSM3231", 
+                    "children": [
+                        {
+                            "name": "LSM2101", 
+                            "children": [
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "LSM1101", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "LSM1401", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module aims to introduce selected topics on functional genomics. Areas covered include : the assignment of functions to novel genes following from the genome-sequencing projects of human and other organisms; the principles underlying enabling technologies: DNA microarrays, proteomics, protein chips, structural genomics, yeast two-hybrid system, transgenics, and aspects of bioinformatics and its applications; and to understand the impact of functional genomics on the study of diseases such as cancer, drug discovery, pharmacogenetics and healthcare.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "YONG LOO LIN SCHOOL OF MEDICINE",
+"department": "BIOCHEMISTRY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

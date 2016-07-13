@@ -1,0 +1,52 @@
+{
+"moduleCode": "MA1101R",
+"moduleTitle": "Linear Algebra I",
+"moduleCredit": "4",
+"lockedModules":[
+            "CS3218",
+            "CS6244",
+            "MA2213",
+            "MA2214",
+            "MA2219",
+            "MA3252",
+            "DSC3214",
+            "IE2110",
+            "MA2289",
+            "MA2101S",
+            "PC2132",
+            "PC2130",
+            "CS5240",
+            "MA2101",
+            "CS4234",
+            "EC3314",
+            "MA3238",
+            "CS3242",
+            "ST3236",
+            "MA3220",
+            "MA2288",
+            "PC2131",
+            "CS4243"
+        ],
+"preclusion": "EG1401, EG1402, MA1101, MA1311, MA1506, MA1508, FOE students",
+"prerequisite": "GCE 'A' LEVEL MATHEMATICS OR H2 MATHEMATICS OR MA1301 OR MA1301FC OR MA1301X",
+"preclusionList": [
+            "EG1401",
+            "EG1402",
+            "MA1311",
+            "MA1508",
+            "MA1506",
+            "MA1101"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "MA1101R", 
+            "children": []
+},
+"moduleDescription": "This module is a first course in linear algebra. Fundamental concepts of linear algebra will be introduced and investigated in the context of the Euclidean spaces R^n. Proofs of results will be presented in the concrete setting. Students are expected to acquire computational facilities and geometric intuition with regard to vectors and matrices. Some applications will be presented. Major topics: Systems of linear equations, matrices, determinants, Euclidean spaces, linear combinations and linear span, subspaces, linear independence, bases and dimension, rank of a matrix, inner products, eigenvalues and eigenvectors, diagonalization, linear transformations between Euclidean spaces, applications.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCIENCE",
+"department": "MATHEMATICS",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

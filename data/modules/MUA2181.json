@@ -1,0 +1,40 @@
+{
+"moduleCode": "MUA2181",
+"moduleTitle": "Orchestral Repertoire for Brass 2B",
+"moduleCredit": "2",
+"lockedModules":[
+            "MUA3181"
+        ],
+"preclusion": "NIL",
+"prerequisite": "MUA2180 Orchestral Repertoire for Brass 2A",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["MUA2180"]
+},
+"prerequisiteList": ["MUA2180","MUA1181","MUA1180"],
+"completePrerequisite": {
+            "name": "MUA2181", 
+            "children": [
+                {
+                    "name": "MUA2180", 
+                    "children": [
+                        {
+                            "name": "MUA1181", 
+                            "children": [
+                                {
+                                    "name": "MUA1180", 
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "Orchestral Repertoire for Brass is an orchestral repertory class designed to give orchestral brass playing experience to the brass majors of YSTCM. This class is required for all MUS2 brass majors but is also open to all brass-playing students at the conservatory committed to intensive study of orchestral brass playing techniques and repertoire. As a continuation of MUA2117, in 10 sessions throughout the semester, the class will read and rehearse significant orchestral repertoire for brass. Brass students are expected to demonstrate aptitude in large ensemble playing including: orchestral concepts in sound, intonation, and blend, as well as a professional attitude in working with conductors and colleagues.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "YONG SIEW TOH CONSERVATORY OF MUSIC",
+"department": "YONG SIEW TOH CONSERVATORY OF MUSIC",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

@@ -1,0 +1,55 @@
+{
+"moduleCode": "EE3131C",
+"moduleTitle": "Communication Systems",
+"moduleCredit": "4",
+"lockedModules":[
+            "EE4113"
+        ],
+"preclusion": "EE3103 Communications",
+"prerequisite": "EE2023 Signals & Systems",
+"preclusionList": [
+            "EE3103"
+        ],
+"parsedPrerequisite": {
+" and ": ["EE2023"]
+},
+"prerequisiteList": ["EE2023","MA1506","MA1102R","MA1505","MA1521"],
+"completePrerequisite": {
+            "name": "EE3131C", 
+            "children": [
+                {
+                    "name": "EE2023", 
+                    "children": [
+                        {
+                            "name": "MA1506", 
+                            "children": [
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "MA1102R", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "MA1505", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "MA1521", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "Introductory overview of analog and digital communications. Advantages of digital over analog communications in the presence of noise. Analog and digital modulation techniques. Source coding and waveform quantization techniques. Channel noise and channel coding for error protection. Multiplexing and multiple access. Basics of wireless communications. Applications of wireless systems. Radio wave propagation and multipath fading. Transmitter and receiver antennas. Free-space and fiber optical communication systems. Optical transmitters, optical receivers, and optical channels. Introduction to data communications. Packet switching, line coding, framing, and error detection.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "ELECTRICAL & COMPUTER ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

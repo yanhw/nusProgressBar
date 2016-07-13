@@ -1,0 +1,74 @@
+{
+"moduleCode": "FST3102",
+"moduleTitle": "Food Safety Assurance",
+"moduleCredit": "4",
+"lockedModules":[
+            "FST4202"
+        ],
+"preclusion": "NIL",
+"prerequisite": "(FST2102A) or (LSM1103 and LSM2103)",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " or ": [
+                "FST2102A", 
+                {
+                    " and ": [
+                        "LSM1103", 
+                        "LSM2103"
+                    ]
+                }
+            ]
+},
+"prerequisiteList": ["FST2102A","LSM1103","LSM2103","LSM1101","LSM1401","LSM1102"],
+"completePrerequisite": {
+            "name": "FST3102", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "FST2102A", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "and", 
+                            "children": [
+                                {
+                                    "name": "LSM1103", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "LSM2103", 
+                                    "children": [
+                                        {
+                                            "name": "or", 
+                                            "children": [
+                                                {
+                                                    "name": "LSM1101", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "LSM1401", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "LSM1102", 
+                                                    "children": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module examines the major sources of food contaminants, the ways of preventing contamination and the likely consequences as regards health of consumers if contaminated food is consumed. Emphasis is placed on both microbial and chemical contaminants and how these affect the consumer. An introduction to epidemiology is included and some methods of determining the levels of contamination are discussed and utilised. The main aim of the module is to explain the importance od safe and quality food and how this may be achieved.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCIENCE",
+"department": "CHEMISTRY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

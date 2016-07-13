@@ -1,0 +1,69 @@
+{
+"moduleCode": "CS4220",
+"moduleTitle": "Knowledge Discovery Methods in Bioinformatics",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "CS2220 or LSM2104",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " or ": [
+                "CS2220", 
+                "LSM2104"
+            ]
+},
+"prerequisiteList": ["CS2220","CS1020","CS1010","LSM1101","LSM1102","LSM2104"],
+"completePrerequisite": {
+            "name": "CS4220", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "CS2220", 
+                            "children": [
+                                {
+                                    "name": "and", 
+                                    "children": [
+                                        {
+                                            "name": "CS1020", 
+                                            "children": [
+                                                {
+                                                    "name": "CS1010", 
+                                                    "children": []
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "or", 
+                                            "children": [
+                                                {
+                                                    "name": "LSM1101", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "LSM1102", 
+                                                    "children": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "LSM2104", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "The advent of high throughput technologies (e.g, DNA chips, microarray, etc), biologists are being overloaded with lots of information (e.g., gene expression data). To be able to make sense out of these data, there is a need to have a systematic way to analyse them. This course is introduced to provide students with knowledge of techniques that can be used to analyse biological data to enable them to discover new knowledge. At the end of the course, students will be able to identify the relevant techniques for different biological data to uncover new information. Topics include: Clustering analysis, classification, association rule mining; support vector machines; Hidden Markov Models.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF COMPUTING",
+"department": "COMPUTER SCIENCE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

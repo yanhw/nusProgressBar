@@ -1,0 +1,61 @@
+{
+"moduleCode": "EE5731R",
+"moduleTitle": "Visual Computing",
+"moduleCredit": "4",
+"lockedModules":[
+            "EE6901",
+            "EE6733"
+        ],
+"preclusion": "EE6904 Advanced Topics in Computer Vision",
+"prerequisite": "Proficiency in C/C++ or Matlab, Linear algebra, EE3206 Introduction to Computer Vision and Image Processing (or other equivalent modules)",
+"preclusionList": [
+            "EE6904"
+        ],
+"parsedPrerequisite": {
+" and ": ["EE3206"]
+},
+"prerequisiteList": ["EE3206","EE2023","MA1506","MA1102R","MA1505","MA1521"],
+"completePrerequisite": {
+            "name": "EE5731R", 
+            "children": [
+                {
+                    "name": "EE3206", 
+                    "children": [
+                        {
+                            "name": "EE2023", 
+                            "children": [
+                                {
+                                    "name": "MA1506", 
+                                    "children": [
+                                        {
+                                            "name": "or", 
+                                            "children": [
+                                                {
+                                                    "name": "MA1102R", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MA1505", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MA1521", 
+                                                    "children": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "Computer vision involves complex information processing tasks, making sense of visual signals and retrieving information from them. The aim of this module is to provide a comprehensive introduction of various advanced topics in computer vision. This course covers: radiometry, texture, feature matching, segmentation, and image/video editing. It will focus on both the principles of these vision problems and their associated mathematical and computational tools. By the end of this module, students are expected to be able to identify important and current vision problems, read and understand research papers in the area, and lead discussions on related topics.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "ENGINEERING",
+"department": "ELECTRICAL & COMPUTER ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

@@ -1,0 +1,41 @@
+{
+"moduleCode": "PR5220",
+"moduleTitle": "Bioprocess Technology",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "PR3104 or PR3301 or by special permission.",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " or ": [
+                "PR3104", 
+                "PR3301"
+            ]
+},
+"prerequisiteList": ["PR3104","PR3301"],
+"completePrerequisite": {
+            "name": "PR5220", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "PR3104", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "PR3301", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module provides an introduction to the theory and application of recombinant DNA and cell culture technologies leading to the development and manufacture of biopharmaceutical products. Students will acquire the basic biological and engineering concepts of cell culture, bioreactors and fermentation processes, and an overview of the current Good Manufacturing Practices and quality control practices in the biopharmaceutical industry. The module will be conducted through lectures, tutorials and journal presentations. Students will be expected to do simple mathematical calculations and work in groups for the tutorial and journal presentations.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCIENCE",
+"department": "PHARMACY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

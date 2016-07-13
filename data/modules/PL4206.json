@@ -1,0 +1,22 @@
+{
+"moduleCode": "PL4206",
+"moduleTitle": "Cognitive Neuroscience",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "Cohort 2011 and before: Completed 80 MCs of which student must have passed PL1101E, PL2131, PL2132 and 4 out of the 5 core modules (PL3232 - PL3236), in which one must be PL3232, with a minimum CAP of 3.50 or be on the Honours track. Cohort 2012 onwards: Completed 80 MCs of which student must have passed PL1101E, PL2131, PL2132 and 4 out of the 5 core modules (PL3232 - PL3236), in which one must be PL3232, with a minimum CAP of 3.20 or be on the Honours track.",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "PL4206", 
+            "children": []
+},
+"moduleDescription": "This module introduces recent research findings in Cognitive Neuroscience - in particular, functional brain imaging (fMRI and ERP). We will explore whether brain imaging techniques have illuminated what each part of the brain actually does, and how these different parts interact functionally, before finally discussing recent applications of such findings. Two currently popular application areas are brain-machine/computer interfaces (using brain-waves to directly control robotic devices) and creating new &quot;sensory abilities&quot; in those people who have sensory impairments (e.g., the blind or deaf). The style of the course will be an informal one, and the &quot;lectures&quot; should be treated more like seminars/discussions. The emphasis will therefore rely heavily on preparation work outside the lectures that culminates in a fruitful debate during the lectures. To facilitate this style, several lectures will begin with students' critiques of research articles before &quot;opening up the floor&quot; for general discussion.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "PSYCHOLOGY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

@@ -1,0 +1,73 @@
+{
+"moduleCode": "ESP4206",
+"moduleTitle": "Continuum Mechanics",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "MA2501 or ME2113",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " or ": [
+                "MA2501", 
+                "ME2113"
+            ]
+},
+"prerequisiteList": ["MA2501","MA1507","MA1508","ME2113","EG1109F","EG1109","CE1109X"],
+"completePrerequisite": {
+            "name": "ESP4206", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "MA2501", 
+                            "children": [
+                                {
+                                    "name": "and", 
+                                    "children": [
+                                        {
+                                            "name": "MA1507", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "MA1508", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "ME2113", 
+                            "children": [
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "EG1109F", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "EG1109", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "CE1109X", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "Derivation of the field equations of continuum mechanics in invariant (vector and tensor) form using the laws of physics (conservation of mass, momenta and energy) and constitutive relations for anisotropic and linear viscoelastic materials; formulation and solutions of two-dimensional and three-dimensional problems of heat transfer, fluid mechanics, and solid mechanics, including biological materials. Tools acquired and the understanding gained through this course include: formulation of the mathematical models of physical systems and development of solutions to boundary- and initial-value problems arising in fluid mechanics, heat transfer, and solid mechanics as well as in interdisciplinary areas as such as nanomechanics and biomechanics.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "ENGINEERING SCIENCE PROGRAMME",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

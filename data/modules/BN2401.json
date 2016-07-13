@@ -1,0 +1,51 @@
+{
+"moduleCode": "BN2401",
+"moduleTitle": "Biosignals Processing",
+"moduleCredit": "4",
+"lockedModules":[
+            "BN4406",
+            "EE4603"
+        ],
+"preclusion": "EE2023 Signals and Systems",
+"prerequisite": "MA1506 Mathematics II",
+"preclusionList": [
+            "EE2023"
+        ],
+"parsedPrerequisite": {
+" and ": ["MA1506"]
+},
+"prerequisiteList": ["MA1506","MA1102R","MA1505","MA1521"],
+"completePrerequisite": {
+            "name": "BN2401", 
+            "children": [
+                {
+                    "name": "MA1506", 
+                    "children": [
+                        {
+                            "name": "or", 
+                            "children": [
+                                {
+                                    "name": "MA1102R", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "MA1505", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "MA1521", 
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module will introduce signals and systems in both continuous and discrete time domains with examples from biomedical signals processing. The theory is motivated by examples from biomedical signals and systems, such as EEG and ECG. Numerous MATLAB commands for solving a wide range of problems arising in processing physiological signals will be illustrated. Topics will include the introduction to biosignal examples, continuous and discrete signals, linear time invariant discrete and continuous systems, convolution, Fourier series, Fourier transforms, filtering, Laplace transforms. Hands-on experiments on biosignal sampling, frequency analysis, and filtering will be performed using MATLAB.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "BIOMEDICAL ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

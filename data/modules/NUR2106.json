@@ -1,0 +1,35 @@
+{
+"moduleCode": "NUR2106",
+"moduleTitle": "Clinical Practicum 2.1",
+"moduleCredit": "4",
+"lockedModules":[
+            "NUR2116"
+        ],
+"preclusion": "NIL",
+"prerequisite": "NUR1108 Clinical Practicum 1.2 NUR2114 Medical/Surgical Nursing I",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["NUR2114"]
+},
+"prerequisiteList": ["NUR2114","NUR1108"],
+"completePrerequisite": {
+            "name": "NUR2106", 
+            "children": [
+                {
+                    "name": "NUR2114", 
+                    "children": [
+                        {
+                            "name": "NUR1108", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "YONG LOO LIN SCHOOL OF MEDICINE",
+"department": "NURSING/ALICE LEE CTR FOR NURSING STUD",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

@@ -1,0 +1,61 @@
+{
+"moduleCode": "YSC3210",
+"moduleTitle": "Introduction to Quantum Mechanics",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "YSC2203 Classical Mechanics and YSC2205 Mathematical Methods for Physical Scientists or Permission of instructor",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " and ": [
+                "YSC2203", 
+                "YSC2205"
+            ]
+},
+"prerequisiteList": ["YSC2203","YCC2133","YCC1132","YSC2205"],
+"completePrerequisite": {
+            "name": "YSC3210", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "YSC2203", 
+                            "children": [
+                                {
+                                    "name": "YCC2133", 
+                                    "children": [
+                                        {
+                                            "name": "YCC1132", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "YSC2205", 
+                            "children": [
+                                {
+                                    "name": "YCC2133", 
+                                    "children": [
+                                        {
+                                            "name": "YCC1132", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This first course on quantum mechanics introduces students to the postulates of quantum theory and then applies it to discuss problems like two level systems, quantum harmonic oscillators, the variational principle and the WKB approximation.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "YALE-NUS COLLEGE",
+"department": "YALE-NUS COLLEGE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

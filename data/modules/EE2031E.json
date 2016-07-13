@@ -1,0 +1,29 @@
+{
+"moduleCode": "EE2031E",
+"moduleTitle": "Circuit and Systems Design Lab",
+"moduleCredit": "3",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "EE2021E",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["EE2021E"]
+},
+"prerequisiteList": ["EE2021E"],
+"completePrerequisite": {
+            "name": "EE2031E", 
+            "children": [
+                {
+                    "name": "EE2021E", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "This module emphasizes on the practical aspects related to modules EE2021E Device and Circuits. It also provides students with an integrated perspective in experiments. Students will first learn about the device characterizations, such as diode, LED, solar cell, transistor, operational amplifiers, etc. They will then proceed to build interesting circuits blocks, involving the devices learnt earlier. With these accumulated knowledge on device and circuit blocks, students will move on to system projects that require the integration of knowledge cross different fields, such as devices and circuits.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "BACHELOR OF TECHNOLOGY PROGRAMME",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

@@ -1,0 +1,47 @@
+{
+"moduleCode": "CN3121E",
+"moduleTitle": "Process Dynamics & Control",
+"moduleCredit": "4",
+"lockedModules":[
+            "CN4227E",
+            "CN4118E"
+        ],
+"preclusion": "TC3111",
+"prerequisite": "TC2421",
+"preclusionList": [
+            "TC3111"
+        ],
+"parsedPrerequisite": {
+" and ": ["TC2421"]
+},
+"prerequisiteList": ["TC2421","TC1402","TC2401"],
+"completePrerequisite": {
+            "name": "CN3121E", 
+            "children": [
+                {
+                    "name": "TC2421", 
+                    "children": [
+                        {
+                            "name": "or", 
+                            "children": [
+                                {
+                                    "name": "TC1402", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "TC2401", 
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "BACHELOR OF TECHNOLOGY PROGRAMME",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

@@ -1,0 +1,140 @@
+{
+"moduleCode": "EC3395",
+"moduleTitle": "Economics and Ethics",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "EC2101, EC2102, EC3101, EC3102",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " and ": [
+                "EC2101", 
+                "EC2102", 
+                "EC3101", 
+                "EC3102"
+            ]
+},
+"prerequisiteList": ["EC2101","EC1101E","EC1301","USE2301","BSP1005","BH1005","EC2102","BH2001","EC3101","MA1312","MA1421","EC3102","MA1311"],
+"completePrerequisite": {
+            "name": "EC3395", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "EC2101", 
+                            "children": [
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "EC1101E", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "EC1301", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "USE2301", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "BSP1005", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "BH1005", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "EC2102", 
+                            "children": [
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "EC1101E", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "EC1301", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "USE2301", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "BSP1005", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "BH2001", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "EC3101", 
+                            "children": [
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "MA1312", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "MA1421", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "EC3102", 
+                            "children": [
+                                {
+                                    "name": "and", 
+                                    "children": [
+                                        {
+                                            "name": "MA1311", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "or", 
+                                            "children": [
+                                                {
+                                                    "name": "MA1312", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MA1421", 
+                                                    "children": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "In this module, we examine the interaction between economics and ethics along several dimensions. We uncover the ethical underpinnings of economics as commonly taught and practiced in its selection of topics, measurements and principles. We examine how incorporating ethical motivations in individual decision-making enriches economic models and explains important features in modern economies. We also look at how economics influences the value systems of participants in the economic system. Current issues in which economic considerations appear to be in conflict with ethics will be discussed.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "ECONOMICS",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}
