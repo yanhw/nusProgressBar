@@ -16,11 +16,11 @@ App.start();
 
 //show warning window
 $(document).ready(function(){
-	$('.warning-popup').show();
+	$('#warning-popup').show();
 });
 //Close popup
-$(".warning-close").click(function(){
-	$('.warning-popup').fadeOut(350);
+$("#warning-close").click(function(){
+	$('#warning-popup').fadeOut(350);
 });
 
 console.log("I am at the end");
