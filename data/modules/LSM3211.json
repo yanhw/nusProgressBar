@@ -1,0 +1,80 @@
+{
+"moduleCode": "LSM3211",
+"moduleTitle": "Fundamental Pharmacology",
+"moduleCredit": "4",
+"lockedModules":[
+            "LSM4221",
+            "LSM4212",
+            "LSM4211",
+            "LSM4214",
+            "LSM3221"
+        ],
+"preclusion": "GEK2501",
+"prerequisite": "LSM2101 or LSM2103",
+"preclusionList": [
+            "GEK2501"
+        ],
+"parsedPrerequisite": {
+            " or ": [
+                "LSM2101", 
+                "LSM2103"
+            ]
+},
+"prerequisiteList": ["LSM2101","LSM1101","LSM1401","LSM2103","LSM1102"],
+"completePrerequisite": {
+            "name": "LSM3211", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "LSM2101", 
+                            "children": [
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "LSM1101", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "LSM1401", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "LSM2103", 
+                            "children": [
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "LSM1101", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "LSM1401", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "LSM1102", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module aims to provide basic principles of pharmacological science with emphasis on drug action from the molecular and cellular levels to tissue, organ and whole animal including human using lectures and practicals. The lectures will start with the classical drug receptor theory followed by molecular pharmacology of drug receptors and their regulation including receptor-mediated signal transduction and membrane ion channel function. Autonomic pharmacology (sympathetic and parasympathetic) will be introduced. The module also focuses on the pharmacodynamics of autacoids, non-steroidal anti-inflammatory agents, corticosteroids and other immunosuppressants, anti-asthma drugs, anti-thrombotic agents and nitric oxide.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "YONG LOO LIN SCHOOL OF MEDICINE",
+"department": "PHARMACOLOGY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

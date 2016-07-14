@@ -1,0 +1,29 @@
+{
+"moduleCode": "EB5105",
+"moduleTitle": "Enterprise Business Analytics Project",
+"moduleCredit": "12",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "EB5001 Foundations of Business Analytics EB5002 Data Analytics EB5003 Advanced Analytics",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["EB5003"]
+},
+"prerequisiteList": ["EB5003"],
+"completePrerequisite": {
+            "name": "EB5105", 
+            "children": [
+                {
+                    "name": "EB5003", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "The Enterprise Business Analytics project is designed to be a building block for students to consolidate and put into practice the skills, tools and techniques they have acquired during the Masters programme. This hands-on experience will give students the opportunity to analyze the business needs of a functional area in their organization and suggest and apply Business Analytics techniques to provide business insights and identifiable benefits. The project may take the form of a typical consulting engagement or alternatively, it may involve the experimental application and validation of a Business Analytics technology such as text mining, neural networks etc.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "NON-FACULTY-BASED DEPARTMENTS",
+"department": "INSTITUTE OF SYSTEMS SCIENCE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

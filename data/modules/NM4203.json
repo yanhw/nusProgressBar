@@ -1,0 +1,26 @@
+{
+"moduleCode": "NM4203",
+"moduleTitle": "Infocomm Technology Policy",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "IF5203, NM5203 and NM5203R",
+"prerequisite": "(Not applicable to SOC students) Completed 80 MCs, including 28 MCs in NM with a minimum CAP of 3.50 or be on the Honours track. (For SOC students) Completed 80 MCs and obtain a minimum CAP of 3.50. Cohort 2012 onwards: Completed 80 MCs, including 28 MCs in NM or 28 MCs in GL/GL recognised non-language modules, with a minimum CAP of 3.20 or be on the Honours track. (For SOC students) Completed 80 MCs and obtain a minimum CAP of 3.20.",
+"preclusionList": [
+            "IF5203",
+            "NM5203R",
+            "NM5203"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "NM4203", 
+            "children": []
+},
+"moduleDescription": "This module examines public policies and the regulation of information and communication technologies in Singapore and its Asian neighbors as well as in Europe, Australia, African nations and the Americas. Its aim is to help students understand the legal, political, and cultural foundations of policymaking. The module will examine various nations' selected ICT policies and the impact those policies can have on technological growth and innovation, e-commerce, and society at large.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "COMMUNICATIONS AND NEW MEDIA",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

@@ -1,0 +1,111 @@
+{
+"moduleCode": "MA4268",
+"moduleTitle": "Mathematics for Visual Data Processing",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "MA2213",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["MA2213"]
+},
+"prerequisiteList": ["MA2213","MA1102R","MA1312","MA1507","MA1505","MA1521","EG1402","EE1401","EE1461","MA1101R","MA1311","MA1508","MA1506"],
+"completePrerequisite": {
+            "name": "MA4268", 
+            "children": [
+                {
+                    "name": "MA2213", 
+                    "children": [
+                        {
+                            "name": "and", 
+                            "children": [
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "MA1102R", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "MA1312", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "MA1507", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "MA1505", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "MA1521", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "EG1402", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "EE1401", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "EE1461", 
+                                            "children": []
+                                        }
+                                    ]
+                                }, 
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "MA1101R", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "MA1311", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "MA1508", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "MA1506", 
+                                            "children": [
+                                                {
+                                                    "name": "or", 
+                                                    "children": [
+                                                        {
+                                                            "name": "MA1102R", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "MA1505", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "MA1521", 
+                                                            "children": []
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This multi-disciplinary module focuses on various important mathematical methods addressing problems arising in imaging and vision. Topics covered include: Continuous and discrete Fourier transform, Gabor transform, Wiener filter, variational principle, level set method, applied differential geometry, linear and nonlinear least squares, regularization methods.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCIENCE",
+"department": "MATHEMATICS",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

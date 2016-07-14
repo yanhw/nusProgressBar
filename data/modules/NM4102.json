@@ -1,0 +1,25 @@
+{
+"moduleCode": "NM4102",
+"moduleTitle": "Advanced Communications & New Media Research",
+"moduleCredit": "5",
+"lockedModules":[
+            "NM4401"
+        ],
+"preclusion": "NM4101",
+"prerequisite": "Cohort 2011 and before: (1) Completed 80 MCs, including 28 MCs in NM, with a minimum CAP of 3.50 or be on the Honours track. (2) NM2102 or NM2103 or NM2104. Cohort 2012 onwards: (1) Completed 80MCs, including 28MCs in NM, with a minimum CAP of 3.20 or be on the Honours track. (2) NM2103 Quantitative Research Methods (3) NM2104 Qualitative Communication Research Methods",
+"preclusionList": [
+            "NM4101"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "NM4102", 
+            "children": []
+},
+"moduleDescription": "This module is to help honours students conduct independent empirical research using the key social science research methods. Students will learn detailed procedures and executable techniques of selected research methods such as survey research, experimental design, in-depth/focus group interviews, and content analysis. The module adopts a Problem Based Learning (PBL) approach, as students will select their own research topics, develop research questions and hypotheses, and design the structure of research activities including measurement, sampling, data collection, and data analysis. Key issues in each step (e.g., instrument development for multi-dimensional constructs) will be discussed through presentations, Q &amp; As, and lectures. The module focuses more on applications and practices than theories, and explains how different types of data and methods can be used to answer research questions relevant to communications and new media.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "COMMUNICATIONS AND NEW MEDIA",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

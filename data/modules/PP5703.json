@@ -1,0 +1,22 @@
+{
+"moduleCode": "PP5703",
+"moduleTitle": "Public Finance and Budgeting",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "PP5703", 
+            "children": []
+},
+"moduleDescription": "The objectives of this module are to understand the basic principles and logic of government fiscal activities and government budgets. This module helps MPAM students become familiar with analytical approaches for resource allocation and decision evaluations in the public sector. Major topics covered include rationale for public sector; options for financing government expenditure; taxation policy; expenditure policy; fiscal decentralisation; privatization; role of cost recovery and user charges; budgeting systems and techniques; capital budgeting.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "LEE KUAN YEW SCHOOL OF PUBLIC POLICY",
+"department": "LEE KUAN YEW SCHOOL OF PUBLIC POLICY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

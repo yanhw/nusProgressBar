@@ -1,0 +1,46 @@
+{
+"moduleCode": "PP5203",
+"moduleTitle": "Behavioral Economics and Public Policy",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "PP5101 Economics and Public Policy I, or PP5301 Economic Reasoning and Policy, or PP5501 Economic Applications for Public Organisations",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " or ": [
+                "PP5101", 
+                "PP5301", 
+                "PP5501"
+            ]
+},
+"prerequisiteList": ["PP5101","PP5301","PP5501"],
+"completePrerequisite": {
+            "name": "PP5203", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "PP5101", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "PP5301", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "PP5501", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "Traditional economics, which is one of the key theoretical cornerstones of public policy, typically assumes that human behavior is rational, preferences are stable, and individuals are smart and unemotional. However, human behavior often deviates from standard assumptions due to psychological and social factors; analysis based on traditional economics can therefore misinform policies and lead to detrimental consequences. This course discusses behavioral regularities that are of potential importance for public policy. Students will be exposed to behavioral economic theory and its applications to public policy in the areas of savings, investment, healthcare, climate change, taxation, labor supply, and monetary policy.",
+"crossModule": "-1",
+"corequisite": "Nil",
+"faculty": "LEE KUAN YEW SCHOOL OF PUBLIC POLICY",
+"department": "LEE KUAN YEW SCHOOL OF PUBLIC POLICY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

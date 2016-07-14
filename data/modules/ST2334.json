@@ -1,0 +1,117 @@
+{
+"moduleCode": "ST2334",
+"moduleTitle": "Probability and Statistics",
+"moduleCredit": "4",
+"lockedModules":[
+            "IS4250",
+            "CS5233",
+            "IE2130",
+            "MA3269",
+            "CS5228",
+            "DSC3216",
+            "MA3259",
+            "IE2130E",
+            "CS5240",
+            "IE2101",
+            "CS4226",
+            "CS4222",
+            "ST2132",
+            "ST3239",
+            "FIN4111",
+            "ST3232",
+            "SPH3101",
+            "ST2137",
+            "MA4260",
+            "IS5152",
+            "MA4264",
+            "EE4113",
+            "CS5340",
+            "ST3131",
+            "EE3731C",
+            "CS3244",
+            "ST3233",
+            "MA3227",
+            "IS4240",
+            "EE4131",
+            "CS4246",
+            "CS4243",
+            "CS4248",
+            "ST3247"
+        ],
+"preclusion": "ST1131, ST1131A, ST1232, ST2131, MA2216, CE2407, EC2231, EC2303, PR2103, DSC2008. ME students taking or having taken ME4273. All ISE students.",
+"prerequisite": "MA1306 or MA1102 or MA1102R or MA1505 or MA1505C or MA1521 or MA1312 or MA1507",
+"preclusionList": [
+            "EC2303",
+            "MA2216",
+            "CE2407",
+            "ST1131",
+            "ST1131A",
+            "DSC2008",
+            "PR2103",
+            "ME4273",
+            "ST2131",
+            "ST1232",
+            "EC2231"
+        ],
+"parsedPrerequisite": {
+            " or ": [
+                "MA1306", 
+                "MA1102", 
+                "MA1102R", 
+                "MA1505", 
+                "MA1505C", 
+                "MA1521", 
+                "MA1312", 
+                "MA1507"
+            ]
+},
+"prerequisiteList": ["MA1306","MA1102","MA1102R","MA1505","MA1505C","MA1521","MA1312","MA1507"],
+"completePrerequisite": {
+            "name": "ST2334", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "MA1306", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "MA1102", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "MA1102R", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "MA1505", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "MA1505C", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "MA1521", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "MA1312", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "MA1507", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "Basic concepts of probability, conditional probability, independence, random variables, joint and marginal distributions, mean and variance, some common probability distributions, sampling distributions, estimation and hypothesis testing based on a normal population. This module is targeted at students who are interested in Statistics and are able to meet the pre-requisites. Preclude ME students taking or have taken ME4273.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCIENCE",
+"department": "STATISTICS & APPLIED PROBABILITY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

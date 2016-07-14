@@ -1,0 +1,43 @@
+{
+"moduleCode": "RE2101",
+"moduleTitle": "Real Estate Market Analysis",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "RE3280 Real Estate Space Market II",
+"prerequisite": "RE2802 Real Estate Economics; RE2804 Real Estate Finance",
+"preclusionList": [
+            "RE3280"
+        ],
+"parsedPrerequisite": {
+            " and ": [
+                "RE2802", 
+                "RE2804"
+            ]
+},
+"prerequisiteList": ["RE2802","RE2804"],
+"completePrerequisite": {
+            "name": "RE2101", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "RE2802", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "RE2804", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module provides students with conceptual frameworks for analysing real market conditions and trends. The module will cover: the four-quadrant model of real estate markets; real estate market adjustment process; demand formation and market characteristics by property types, including residential, office, retail, and industrial properties; and real estate supply behaviour. By completing this module, students will be able to identify new market opportunities arising from technological, demographic, socio-economic and lifestyle changes.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF DESIGN AND ENVIRONMENT",
+"department": "REAL ESTATE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

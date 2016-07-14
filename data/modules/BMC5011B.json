@@ -1,0 +1,22 @@
+{
+"moduleCode": "BMC5011B",
+"moduleTitle": "Contemporary Issues in Business 2",
+"moduleCredit": "3",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "BMC5011B", 
+            "children": []
+},
+"moduleDescription": "This is the second part of special topics module. The modules offered under this heading will address one or more of a range of important topics and issues in the management of Asian organizations. Examples of modules or topics include: contemporary issues in Asian business, East Asian (Japanese, Korean & Chinese) business and management systems, business-government relations in Asia, managing the China venture, managing in South Asia and managing the Asian multinational corporation.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF BUSINESS",
+"department": "DEAN'S OFFICE (BIZ)",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

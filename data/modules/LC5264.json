@@ -1,0 +1,26 @@
+{
+"moduleCode": "LC5264",
+"moduleTitle": "WTO and Regional Integration",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "LL4060B/LL5060B/LL6060B World Trade Law",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "LL6060B",
+            "LL5060B",
+            "LL4060B"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "LC5264", 
+            "children": []
+},
+"moduleDescription": "Regionalism is very much debated in contemporary trade policy discourse. Some regional trade agreements have involved deep integration, even going beyond the WTO. This course aims to ponder the relationship between the multilateral trading system and regional agreements. It will look at the manner in which regional agreements operate, and what effects they have on international trade.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "LAW",
+"department": "LAW",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

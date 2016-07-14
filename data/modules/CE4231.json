@@ -1,0 +1,59 @@
+{
+"moduleCode": "CE4231",
+"moduleTitle": "Earth's Climate: Science & Modelling",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "MA1505 and MA1506, or equivalents",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " and ": [
+                "MA1505", 
+                "MA1506"
+            ]
+},
+"prerequisiteList": ["MA1505","MA1506","MA1102R","MA1521"],
+"completePrerequisite": {
+            "name": "CE4231", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "MA1505", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "MA1506", 
+                            "children": [
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "MA1102R", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "MA1505", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "MA1521", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This course introduces the basic scientific principles of how the Earth\u2019s climate system. This is done by first introducing and analyzing measurements of the climate system. This will then be followed-up with consideration of the basic physical processes involved. Finally, simple models will be introduced to allow students to explore and understand more deeply. The following topics will be covered: 1. Conservation of energy & radiative forcing 2. Large-scale flows on a rotating sphere 3. Atmospheric thermodynamics 4. Physics and chemistry of greenhouse gases & aerosols 5. Land surface change 6. Coupling Across Scales & non-linearities",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "CIVIL & ENVIRONMENTAL ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

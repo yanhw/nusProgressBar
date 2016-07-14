@@ -1,0 +1,24 @@
+{
+"moduleCode": "PS2240",
+"moduleTitle": "Introduction to Public Administration",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "PS2210B",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "PS2210B"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "PS2240", 
+            "children": []
+},
+"moduleDescription": "This introductory module defines the scope of public administration in terms of its structures, functions, sectors, and institutions. It familiarises students with some basic concepts used in public administration, including authority, organisation, bureaucracy, accountability, meritocracy, representation, ethics, professionalism, leadership, and decision making. The module also examines major approaches to studying public administration. Practical cases and examples are used in presenting these topics. The module is available to all year 1-3 students at NUS.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "POLITICAL SCIENCE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

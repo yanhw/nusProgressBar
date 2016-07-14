@@ -1,0 +1,72 @@
+{
+"moduleCode": "LAF4201",
+"moduleTitle": "French 5",
+"moduleCredit": "5",
+"lockedModules":[
+            "LAF4202"
+        ],
+"preclusion": "NIL",
+"prerequisite": "Passed LAF3202 or LAF3203 or placement test.",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " or ": [
+                "LAF3202", 
+                "LAF3203"
+            ]
+},
+"prerequisiteList": ["LAF3202","LAF3201","LAF2201","LAF1201","LAF3203"],
+"completePrerequisite": {
+            "name": "LAF4201", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "LAF3202", 
+                            "children": [
+                                {
+                                    "name": "LAF3201", 
+                                    "children": [
+                                        {
+                                            "name": "LAF2201", 
+                                            "children": [
+                                                {
+                                                    "name": "LAF1201", 
+                                                    "children": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "LAF3203", 
+                            "children": [
+                                {
+                                    "name": "LAF3201", 
+                                    "children": [
+                                        {
+                                            "name": "LAF2201", 
+                                            "children": [
+                                                {
+                                                    "name": "LAF1201", 
+                                                    "children": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "The module seeks to develop the student's ability to understand French language and culture through the study of various materials: newspapers, magazines, extracts of films and books, web sites. Students will be introduced to complex documents and will learn different approaches for text and discourse analysis.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "CENTRE FOR LANGUAGE STUDIES",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

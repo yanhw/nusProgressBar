@@ -1,0 +1,24 @@
+{
+"moduleCode": "PP6705",
+"moduleTitle": "The Politics of Public Policy",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "PP5268 Institutional Design and Analysis",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "PP5268"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "PP6705", 
+            "children": []
+},
+"moduleDescription": "Doctoral-level research seminar on institutional theory, emphasizing: (i) frontiers of research on institutionalism (from the fields of public administration, organizational sociology, and political economy) and (ii) new research directions. The aim is to train students in theory-building and the conduct of original research in institutional analysis and design, which requires developing an ability to critique extant literature and identify open questions that are ripe for investigation. Open to masters students with instructor's permission. The course begins with an investigation of current frontiers in research, and ends with positing new directions for inquiry.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "LEE KUAN YEW SCHOOL OF PUBLIC POLICY",
+"department": "LEE KUAN YEW SCHOOL OF PUBLIC POLICY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

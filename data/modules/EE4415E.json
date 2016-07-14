@@ -1,0 +1,46 @@
+{
+"moduleCode": "EE4415E",
+"moduleTitle": "Integrated Digital Design",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "EE2006E or EE2020E",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " or ": [
+                "EE2006E", 
+                "EE2020E"
+            ]
+},
+"prerequisiteList": ["EE2006E","EE2020E","EE1002"],
+"completePrerequisite": {
+            "name": "EE4415E", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "EE2006E", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "EE2020E", 
+                            "children": [
+                                {
+                                    "name": "EE1002", 
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module introduces the students to the design of integrated circuits. It covers basic concepts including integrated circuits fabrication technology, CMOS and nMOS design, inverter design, aspect ratios of pull-up and pull-down transistors, switching characteristics of CMOS and nMOS inverters, latch-up, stick diagram, design rules, mask layout, sub-systems design, ASIC challenges and issues, ASIC design flow, Verilog hardware design language basics, and logic synthesis. Each student will do a design exercise using the EDA tools.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "ENGINEERING",
+"department": "BACHELOR OF TECHNOLOGY PROGRAMME",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

@@ -1,0 +1,62 @@
+{
+"moduleCode": "CN3135E",
+"moduleTitle": "Process Safety, Health and Environment",
+"moduleCredit": "3",
+"lockedModules":[
+            "CN4118E",
+            "CN4123E"
+        ],
+"preclusion": "NIL",
+"prerequisite": "CN2121E & CN2122E",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " and ": [
+                "CN2121E", 
+                "CN2122E"
+            ]
+},
+"prerequisiteList": ["CN2121E","CN1111E","CN2122E","TC1402","TC2401"],
+"completePrerequisite": {
+            "name": "CN3135E", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "CN2121E", 
+                            "children": [
+                                {
+                                    "name": "CN1111E", 
+                                    "children": []
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "CN2122E", 
+                            "children": [
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "TC1402", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "TC2401", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module aims to provide fundamental concepts and methods for the design and operation of safe plants. The students will gain a thorough understanding of chemical process hazards, their identification, their potential effects on safety, health, and the environment, and methods of assessment and control. Emphasis is placed on the integrated management of safety, health, and environmental sustainability.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "ENGINEERING",
+"department": "BACHELOR OF TECHNOLOGY PROGRAMME",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,0,3,0,]]
+}

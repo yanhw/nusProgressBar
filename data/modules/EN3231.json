@@ -1,0 +1,24 @@
+{
+"moduleCode": "EN3231",
+"moduleTitle": "American Literature I",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "AS3231",
+"prerequisite": "Cohort 2011 and before: EN1101E or GEK1000. Cohort 2012 onwards: (i) EN1101E or GEK1000, AND (ii) EN2201 or EN2202 or EN2203 or EN2204",
+"preclusionList": [
+            "AS3231"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "EN3231", 
+            "children": []
+},
+"moduleDescription": "This module examines selected texts of 19th century American writing through Reconstruction; it examines typical aspects of American character/imagination, and it trains students to read literary texts closely and to express their understanding of texts both in class discussion and in writing. The module is aimed at undergraduate English majors, but cross-faculty students who enjoy literature are welcome.",
+        "CrossModule": "AS3231", 
+"corequisite": "So long as students have fulfilled EN1101E/GEK1000, they may take this EN level-3000 module in the same semester as they are taking EN2201 or EN2202 or EN2203 or EN2204.",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "ENGLISH LANGUAGE & LITERATURE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

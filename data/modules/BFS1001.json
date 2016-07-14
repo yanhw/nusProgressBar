@@ -1,0 +1,22 @@
+{
+"moduleCode": "BFS1001",
+"moduleTitle": "Personal Development & Career Management",
+"moduleCredit": "0",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "BFS1001", 
+            "children": []
+},
+"moduleDescription": "This module is the School\u2019s flagship program that looks into the personal and professional development of students, and prepares them to be work-world ready. Over 6 weeks, students will understand their own strengths and motivations, explore activities to enrich their student life, and acquire essential career skills including resume writing, interviewing and networking techniques. Upon completion, students will be more equipped to put into practice what they have learnt in their internship and subsequently job application. Completion of an internship is not a requirement for this module.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF BUSINESS",
+"department": "DEAN'S OFFICE (BIZ)",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

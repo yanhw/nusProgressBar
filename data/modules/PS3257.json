@@ -1,0 +1,27 @@
+{
+"moduleCode": "PS3257",
+"moduleTitle": "Political Inquiry",
+"moduleCredit": "4",
+"lockedModules":[
+            "PS3880G"
+        ],
+"preclusion": "PS2102, PS2102B, PS2231B",
+"prerequisite": "Completed 20 MCs in Political Science",
+"preclusionList": [
+            "PS2231B",
+            "PS2102B",
+            "PS2102"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "PS3257", 
+            "children": []
+},
+"moduleDescription": "This module examines the theories of knowledge and methods of inquiry appropriate to studying politics. It introduces students to alternative understandings of the social sciences and to the empirical, critical, and analytical skills they imply. It pays particular attention to helping students understand the basics of good research and to acquire skills essential to conducting their own research.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "POLITICAL SCIENCE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

@@ -1,0 +1,24 @@
+{
+"moduleCode": "UTS2400",
+"moduleTitle": "Identities in Asia",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "SSU2002%",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "SSU2002"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "UTS2400", 
+            "children": []
+},
+"moduleDescription": "This course explores identity-formation in Asia from topdown and bottom-up perspectives, by looking at how authorities, communities and individuals construct their collective identities. The concept of \u2018identity\u2019 is a contentious site as it deals with issues of belonging, imagining communities and defining one\u2019s trajectory (identity-formation). Looking at historical cases to cross-compare examples among Asian societies, the course aims to encourage students to investigate groups and their relationships to their surrounding communities (families, societies and gender) and to examine the relations between state and identity, and between social activism and identity.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "NON-FACULTY-BASED DEPARTMENTS",
+"department": "COLLEGE OF ALICE & PETER TAN",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

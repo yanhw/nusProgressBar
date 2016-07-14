@@ -1,0 +1,22 @@
+{
+"moduleCode": "GE2202",
+"moduleTitle": "Economy & Space",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "GE2202", 
+            "children": []
+},
+"moduleDescription": "This module examines relationships between economy and space through a focus on 'development'. Through interrogating theories, strategies and trajectories of 'development', students will develop an understanding of the past and contemporary global political economy and its geographies. The course will emphasise the geopolitical and cultural backdrops to 'development' and attendant economic geographies amidst debates about 'globalisation', international trade and investment.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "GEOGRAPHY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

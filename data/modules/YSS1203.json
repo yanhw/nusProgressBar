@@ -1,0 +1,22 @@
+{
+"moduleCode": "YSS1203",
+"moduleTitle": "Principles of Economics",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "A level Mathematics AND A level Economics (or equivalent mathematics and economics courses).",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "YSS1203", 
+            "children": []
+},
+"moduleDescription": "Economists are mainly concerned with the study of choice: choices made by consumers (buy the latest gizmo or save the money?), firms (how much to produce and what price to charge?) and policy-makers (bailout the banks or reduce income tax rates?) are all within the purview of economic analysis. This module serves as an introduction to economics and the basic mathematical tools for economic analysis. It covers topics in microeconomics, macroeconomics, univariate calculus, and systems of equations.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "YALE-NUS COLLEGE",
+"department": "YALE-NUS COLLEGE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

@@ -1,0 +1,22 @@
+{
+"moduleCode": "NUR5412",
+"moduleTitle": "Clinical Practicum II (Mental Health).",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "NUR5412", 
+            "children": []
+},
+"moduleDescription": "This module involves clinical practicum in the roles of psychiatric mental health APN using selected psychosocial interventions in the management of individuals with mental health problems/disorders across life span. Emphases are on individual and group interventions, psychiatric emergency management, crisis intervention, stress management, and motivational interviewing. Assessment, diagnoses, and management of medical clients exhibiting psychosocial problems are included.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "YONG LOO LIN SCHOOL OF MEDICINE",
+"department": "NURSING/ALICE LEE CTR FOR NURSING STUD",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

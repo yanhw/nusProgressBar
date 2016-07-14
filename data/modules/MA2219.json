@@ -1,0 +1,89 @@
+{
+"moduleCode": "MA2219",
+"moduleTitle": "Introduction to Geometry",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "MA1100 or MA1101R or MA1506 or MA1508 or MA1102R or MA1505 or MA1507 or CS1231",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " or ": [
+                "MA1100", 
+                "MA1101R", 
+                "MA1506", 
+                "MA1508", 
+                "MA1102R", 
+                "MA1505", 
+                "MA1507", 
+                "CS1231"
+            ]
+},
+"prerequisiteList": ["MA1100","MA1101R","MA1506","MA1102R","MA1505","MA1521","MA1508","MA1507","CS1231"],
+"completePrerequisite": {
+            "name": "MA2219", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "MA1100", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "MA1101R", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "MA1506", 
+                            "children": [
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "MA1102R", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "MA1505", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "MA1521", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "MA1508", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "MA1102R", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "MA1505", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "MA1507", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "CS1231", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module gives a first introduction to various kinds of geometries ranging from elementary Euclidean geometry on the plane, inversive geometry on the sphere, as well as projective geometry and Non-Euclidean geometry. Topics covered include: Conics, Quadric surfaces, Affine geometry, Affine transformations, Ceva's theorem, Menelaus' theorem, Projective geometry, projective transformations, homogeneous coordinates, cross-ratio, Pappus' theorem, Desargues' theorem, duality and projective conics, Pascal's theorem, Brianchon's theorem, Inversions, coaxal family of circles, Non-Euclidean geometry, Mobius transformations, distance and area in Non-Euclidean geometry.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "SCIENCE",
+"department": "MATHEMATICS",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

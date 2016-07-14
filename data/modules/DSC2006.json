@@ -1,0 +1,34 @@
+{
+"moduleCode": "DSC2006",
+"moduleTitle": "Operations Management",
+"moduleCredit": "4",
+"lockedModules":[
+            "DSC3226",
+            "DSC4211G",
+            "DSC3218",
+            "DSC3202",
+            "DSC3203",
+            "DSC3201",
+            "DSC4215"
+        ],
+"preclusion": "BH2006 or BZ2003 or BK2006 or IE3120. All Industrial &amp; Systems (ISE) students",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "BH2006",
+            "IE3120",
+            "BK2006",
+            "BZ2003"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "DSC2006", 
+            "children": []
+},
+"moduleDescription": "All manufacturing and service organisations have an operations function that is primarily responsible for the production and delivery of their products and services. The operations function therefore not only affects final product quality but also impacts customer service and the overall competitiveness of the organisation. The objective of this course is to introduce and highlight the strategic importance of operations, and the fundamental principles and concepts of effective operations management. Students will examine how operations decisions in areas such as quality, process design, capacity and inventory can be managed, controlled and improved. Operations in both manufacturing and service organisations will be addressed.(Although no prerequisite is stated, this module assumes prior knowledge of basic probability concepts like expected value, variance, normal distribution, and Poisson distribution. Students should ensure that they are adequately prepared for this module.)",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF BUSINESS",
+"department": "DECISION SCIENCES",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

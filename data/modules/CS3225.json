@@ -1,0 +1,111 @@
+{
+"moduleCode": "CS3225",
+"moduleTitle": "Combinatorial Methods in Bioinformatics",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "(CS2010 or its equivalent) and (CS2220 or LSM2104)",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " and ": [
+                "CS2010", 
+                {
+                    " or ": [
+                        "CS2220", 
+                        "LSM2104"
+                    ]
+                }
+            ]
+},
+"prerequisiteList": ["CS2010","CS1020","CS1010","CS1020E","CS1010E","CG1103","CS2220","LSM1101","LSM1102","LSM2104"],
+"completePrerequisite": {
+            "name": "CS3225", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "CS2010", 
+                            "children": [
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "CS1020", 
+                                            "children": [
+                                                {
+                                                    "name": "CS1010", 
+                                                    "children": []
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "CS1020E", 
+                                            "children": [
+                                                {
+                                                    "name": "CS1010E", 
+                                                    "children": []
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "CG1103", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "or", 
+                            "children": [
+                                {
+                                    "name": "CS2220", 
+                                    "children": [
+                                        {
+                                            "name": "and", 
+                                            "children": [
+                                                {
+                                                    "name": "CS1020", 
+                                                    "children": [
+                                                        {
+                                                            "name": "CS1010", 
+                                                            "children": []
+                                                        }
+                                                    ]
+                                                }, 
+                                                {
+                                                    "name": "or", 
+                                                    "children": [
+                                                        {
+                                                            "name": "LSM1101", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "LSM1102", 
+                                                            "children": []
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }, 
+                                {
+                                    "name": "LSM2104", 
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "After the complete sequencing of a number of genomes, we are in the stage to understand the mystery of our body, that is, we need to understand the information encoded in the genome and its relationship with RNA and protein. This aim of this module is to cover algorithms related to this stage. In the module, we will cover the algorithms related to genome annotation, motif identification, proteomics, population genetics, microarray, etc.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF COMPUTING",
+"department": "COMPUTER SCIENCE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

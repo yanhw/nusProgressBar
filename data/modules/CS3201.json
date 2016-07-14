@@ -1,0 +1,42 @@
+{
+"moduleCode": "CS3201",
+"moduleTitle": "Software Engineering Project I",
+"moduleCredit": "4",
+"lockedModules":[
+            "CP3106"
+        ],
+"preclusion": "CS3215",
+"prerequisite": "CS2103 Software Engineering or its equivalent.",
+"preclusionList": [
+            "CS3215"
+        ],
+"parsedPrerequisite": {
+" and ": ["CS2103"]
+},
+"prerequisiteList": ["CS2103","CS1020","CS1010"],
+"completePrerequisite": {
+            "name": "CS3201", 
+            "children": [
+                {
+                    "name": "CS2103", 
+                    "children": [
+                        {
+                            "name": "CS1020", 
+                            "children": [
+                                {
+                                    "name": "CS1010", 
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module is the first part of a two-part series on the practice of software engineering in Software Development Life Cycle (SDLC). These two modules together provide the students with hands-on experience in working in project groups through a complete SDLC to develop a well-designed, welltested, large-scaled software system. This first part focuses on applying best software engineering practices on the analysis and design of software system. The students will practice analysis of user\u2019s needs, formulation of computing requirements to meet the user\u2019s needs, modeling and design of the computer systems according to the requirements, and evaluation of the design.",
+"crossModule": "-1",
+"corequisite": "CS3202 Software Engineering Project II",
+"faculty": "SCHOOL OF COMPUTING",
+"department": "COMPUTER SCIENCE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

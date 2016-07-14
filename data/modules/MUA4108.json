@@ -1,0 +1,22 @@
+{
+"moduleCode": "MUA4108",
+"moduleTitle": "Large Ensembles 4B",
+"moduleCredit": "2",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "MUA4108", 
+            "children": []
+},
+"moduleDescription": "Provides comprehensive orchestral training and performance experience exposing students to music of the 17th through 21st centuries for chamber orchestra. Each year the Conservatory Orchestra will perform a cross-section of the standard orchestral repertoire, supplemented by new works and lesser-known compositions. Seating assignments in the orchestra are rotated as much as possible. Placement is by audition.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "YONG SIEW TOH CONSERVATORY OF MUSIC",
+"department": "YONG SIEW TOH CONSERVATORY OF MUSIC",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

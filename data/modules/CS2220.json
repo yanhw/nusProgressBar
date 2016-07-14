@@ -1,0 +1,64 @@
+{
+"moduleCode": "CS2220",
+"moduleTitle": "Introduction to Computational Biology",
+"moduleCredit": "4",
+"lockedModules":[
+            "CS6222",
+            "CS4220",
+            "ZB4171",
+            "CS3225"
+        ],
+"preclusion": "NIL",
+"prerequisite": "CS1020 Data Structures and Algorithms I or its equivalent. LSM1101 Biochemistry of Biomolecules or LSM1102 Molecular Genetics are highly recommended.",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " and ": [
+                "CS1020", 
+                {
+                    " or ": [
+                        "LSM1101", 
+                        "LSM1102"
+                    ]
+                }
+            ]
+},
+"prerequisiteList": ["CS1020","CS1010","LSM1101","LSM1102"],
+"completePrerequisite": {
+            "name": "CS2220", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "CS1020", 
+                            "children": [
+                                {
+                                    "name": "CS1010", 
+                                    "children": []
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "or", 
+                            "children": [
+                                {
+                                    "name": "LSM1101", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "LSM1102", 
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This course aims to develop flexible and logical problem solving skills, understanding of main bioinformatics problems, and appreciation of main techniques and approaches to bioinformatics. Through case studies and hands-on exercises, the student will (i) master the basic tools and approaches for analysis of DNA sequences, protein sequences, gene expression profiles, etc. (ii) understand important problems and applications of computational biology, including identifying functional features in DNA and protein sequences, predicting protein function, and deriving diagnostic models from gene expression profiles, (iii) be confident to propose new solutions to both existing and emerging problems in computational biology.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF COMPUTING",
+"department": "COMPUTER SCIENCE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

@@ -1,0 +1,29 @@
+{
+"moduleCode": "PS3880G",
+"moduleTitle": "Topics in PS: Research Design and Methods",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "PS3257",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["PS3257"]
+},
+"prerequisiteList": ["PS3257"],
+"completePrerequisite": {
+            "name": "PS3880G", 
+            "children": [
+                {
+                    "name": "PS3257", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "The module provides undergraduate students with intensive, focused, and hands-on training in specific research methods. It introduces students to and familiarizes them with such quantitative and qualitative methods as multiple regression, qualitative comparative analysis, and experimental methods. While the existing modules PS3257: Political Inquiry and PS3258: Research Methods in Political Science provide undergraduates with a broad overview of all the many different methods and methodological approaches, this module aims to teaches them the detailed ins and outs of one specific research method used by political scientists and researchers in neighboring social science disciplines.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "POLITICAL SCIENCE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,0,0,4,]]
+}

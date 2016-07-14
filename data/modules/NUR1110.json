@@ -1,0 +1,22 @@
+{
+"moduleCode": "NUR1110",
+"moduleTitle": "Effective Communication for Health Professionals",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "NUR1110", 
+            "children": []
+},
+"moduleDescription": "This module explores the importance and need for nurses to communicate in an effective manner with patients, family members and other health care professionals in order to facilitate optimal health outcomes for the patients.",
+"crossModule": "-1",
+"corequisite": "NUR1114 Fundamentals of Nursing",
+"faculty": "YONG LOO LIN SCHOOL OF MEDICINE",
+"department": "NURSING/ALICE LEE CTR FOR NURSING STUD",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

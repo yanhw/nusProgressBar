@@ -1,0 +1,22 @@
+{
+"moduleCode": "EN3222",
+"moduleTitle": "The Eighteenth Century",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "Cohort 2011 and before: EN1101E or GEK1000. Cohort 2012 onwards: (i) EN1101E or GEK1000, AND (ii) EN2201 or EN2202 or EN2203 or EN2204",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "EN3222", 
+            "children": []
+},
+"moduleDescription": "This module looks at the emergence of the novel, at its experiments with form, and at its characteristic modes of representation. It concentrates, in particular, on such matters as the restrictions and opportunities of the genre: on the practicalities of sustaining a long fiction in prose; how different writers meet the various challenges of plot, episode, characterisation and style; and on the emergence of a distinct sense of the individual.",
+"crossModule": "-1",
+"corequisite": "So long as students have fulfilled EN1101E/GEK1000, they may take this EN level-3000 module in the same semester as they are taking EN2201 or EN2202 or EN2203 or EN2204.",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "ENGLISH LANGUAGE & LITERATURE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

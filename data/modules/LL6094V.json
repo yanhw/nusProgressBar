@@ -1,0 +1,24 @@
+{
+"moduleCode": "LL6094V",
+"moduleTitle": "The Law Clinic",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "Students who are taking or have taken LL6094.",
+"prerequisite": "NUS Compulsory Core Curriculum or its equivalent.",
+"preclusionList": [
+            "LL6094"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "LL6094V", 
+            "children": []
+},
+"moduleDescription": "The clinical legal education programme at the NUS Faculty of Law has a strong pro bono emphasis. Built as a natural extension to the Legal Skills Programme, this module provides students with an opportuity to further develop their legal skills in context, to acquire new skills for legal practice, and to make significant contributions to enhancing the provision of legal services to the community. Students will work under the close supervision of lawyers to assist in live cases.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "LAW",
+"department": "LAW",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

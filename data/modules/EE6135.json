@@ -1,0 +1,32 @@
+{
+"moduleCode": "EE6135",
+"moduleTitle": "Digital Communications (Advanced)",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "EE5305. EE5135",
+"prerequisite": "EE5137R Stochastic Processes OR EE5306 Random Signal Analysis",
+"preclusionList": [
+            "EE5305",
+            "EE5135"
+        ],
+"parsedPrerequisite": {
+" and ": ["EE5306"]
+},
+"prerequisiteList": ["EE5306"],
+"completePrerequisite": {
+            "name": "EE6135", 
+            "children": [
+                {
+                    "name": "EE5306", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "Probability theory, stochastic processes and vector spaces. Application of statistical decision theory to optimum receiver design for Gaussian channels. Error performance analysis of digital modulation systems. Analysis and design of coded systems. Soft decoding and hard decoding. Communication via fading channels \u2013 channel models, receiver design and error performance analysis. Communication theory. Efficient signaling for message sequences. R0-parameters and Channel capacity.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "ELECTRICAL & COMPUTER ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

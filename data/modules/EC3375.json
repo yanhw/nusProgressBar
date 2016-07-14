@@ -1,0 +1,55 @@
+{
+"moduleCode": "EC3375",
+"moduleTitle": "Economy and Business of Japan and Korea",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "EC2101",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["EC2101"]
+},
+"prerequisiteList": ["EC2101","EC1101E","EC1301","USE2301","BSP1005","BH1005"],
+"completePrerequisite": {
+            "name": "EC3375", 
+            "children": [
+                {
+                    "name": "EC2101", 
+                    "children": [
+                        {
+                            "name": "or", 
+                            "children": [
+                                {
+                                    "name": "EC1101E", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "EC1301", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "USE2301", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "BSP1005", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "BH1005", 
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module examines economic miracles of Japan and Korea and their central business organizations, keiretsu and chaebols, that brought the success. It then analyzes how they responded to the challenges of the transition from catching-up economies to mature economies, and how their business organizations functioned in the transition process.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "ECONOMICS",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

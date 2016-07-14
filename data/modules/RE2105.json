@@ -1,0 +1,27 @@
+{
+"moduleCode": "RE2105",
+"moduleTitle": "Land Law",
+"moduleCredit": "4",
+"lockedModules":[
+            "RE3211",
+            "RE3221"
+        ],
+"preclusion": "RE1182 Principles of Law RE2180 Fundamentals of Real Estate Law",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "RE1182",
+            "RE2180"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "RE2105", 
+            "children": []
+},
+"moduleDescription": "The module covers basic concepts in Land Law, including the doctrine of estates and tenures, rights in land, transfer of title, strata law, landlord and tenant law and estate agency. Through content knowledge, students will gain an appreciation of legal analysis and reasoning, as well as the rationale for the current state of real estate law.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF DESIGN AND ENVIRONMENT",
+"department": "REAL ESTATE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

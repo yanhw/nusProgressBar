@@ -1,0 +1,48 @@
+{
+"moduleCode": "YSC3207",
+"moduleTitle": "Principles and Tools of Software Development",
+"moduleCredit": "5",
+"lockedModules":[
+            "YSC3217",
+            "YSC3221"
+        ],
+"preclusion": "NIL",
+"prerequisite": "YCC2133 Integrated Science (Computer Track) or YSC1202 introduction to Computational Thinking and Programming for All or permission of instructor",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " or ": [
+                "YCC2133", 
+                "YSC1202"
+            ]
+},
+"prerequisiteList": ["YCC2133","YCC1132","YSC1202"],
+"completePrerequisite": {
+            "name": "YSC3207", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "YCC2133", 
+                            "children": [
+                                {
+                                    "name": "YCC1132", 
+                                    "children": []
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "YSC1202", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "Only being able to program does not make one a good programmer. This course teaches principles and tools that can make a good software developer. Students will learn basic principles of software development, e.g., encapsulation, information hiding, modularisation, unit/integrated testing, debugging, programming in a team, profiling. They will also learn tools that will help automate these tasks, e.g., Make, version control systems (git), shell scripting, UNIX programming.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "YALE-NUS COLLEGE",
+"department": "YALE-NUS COLLEGE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

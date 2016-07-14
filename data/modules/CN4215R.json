@@ -1,0 +1,142 @@
+{
+"moduleCode": "CN4215R",
+"moduleTitle": "Food Technology and Engineering",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "CN2125, CN3132",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " and ": [
+                "CN2125", 
+                "CN3132"
+            ]
+},
+"prerequisiteList": ["CN2125","CN2122","MA1505","MA1506","MA1102R","MA1521","CN3132","CN1111F","CN1111","CN1111X"],
+"completePrerequisite": {
+            "name": "CN4215R", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "CN2125", 
+                            "children": [
+                                {
+                                    "name": "CN2122", 
+                                    "children": [
+                                        {
+                                            "name": "and", 
+                                            "children": [
+                                                {
+                                                    "name": "MA1505", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MA1506", 
+                                                    "children": [
+                                                        {
+                                                            "name": "or", 
+                                                            "children": [
+                                                                {
+                                                                    "name": "MA1102R", 
+                                                                    "children": []
+                                                                }, 
+                                                                {
+                                                                    "name": "MA1505", 
+                                                                    "children": []
+                                                                }, 
+                                                                {
+                                                                    "name": "MA1521", 
+                                                                    "children": []
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "CN3132", 
+                            "children": [
+                                {
+                                    "name": "and", 
+                                    "children": [
+                                        {
+                                            "name": "or", 
+                                            "children": [
+                                                {
+                                                    "name": "CN1111F", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "CN1111", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "CN1111X", 
+                                                    "children": []
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "CN2125", 
+                                            "children": [
+                                                {
+                                                    "name": "CN2122", 
+                                                    "children": [
+                                                        {
+                                                            "name": "and", 
+                                                            "children": [
+                                                                {
+                                                                    "name": "MA1505", 
+                                                                    "children": []
+                                                                }, 
+                                                                {
+                                                                    "name": "MA1506", 
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "or", 
+                                                                            "children": [
+                                                                                {
+                                                                                    "name": "MA1102R", 
+                                                                                    "children": []
+                                                                                }, 
+                                                                                {
+                                                                                    "name": "MA1505", 
+                                                                                    "children": []
+                                                                                }, 
+                                                                                {
+                                                                                    "name": "MA1521", 
+                                                                                    "children": []
+                                                                                }
+                                                                            ]
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module provides students with the necessary background for food processing in the context of chemical engineering operations. The module combines food science and engineering operations as an integrated food-engineering course. It starts with food science topics such as food chemistry, microbiology and nutrition. It then focuses on the applications of various chemical engineering operations (refrigeration, freezing, evaporation, drying, thermal sterilisation) to food processing. The course also covers other relevant topics such as food rheology and packaging of food products. This module is targeted at level 4 chemical engineering students.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "CHEMICAL & BIOMOLECULAR ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

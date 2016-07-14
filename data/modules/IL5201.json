@@ -1,0 +1,22 @@
+{
+"moduleCode": "IL5201",
+"moduleTitle": "Measuring and Demonstrating Value from IT Investments",
+"moduleCredit": "3",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "IL5201", 
+            "children": []
+},
+"moduleDescription": "This module introduces the concepts, principles and techniques to measure organizational performance for decision-making and accountability. It also prepares students to conduct an assessment of the performance of an organization in a credible, conclusive and compelling fashion. Students learn a process to define measures that are linked to their organization\u2019s mission, goals and objectives using the Balanced Scorecard. They will also learn about and apply techniques to measure and communicate the value of IT investments.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "NON-FACULTY-BASED DEPARTMENTS",
+"department": "INSTITUTE OF SYSTEMS SCIENCE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

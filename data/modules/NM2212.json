@@ -1,0 +1,22 @@
+{
+"moduleCode": "NM2212",
+"moduleTitle": "Visual Design",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "NM2212", 
+            "children": []
+},
+"moduleDescription": "This module provides an introduction to the principles and theories of visual design. Students will be exposed to the history and influences of visual design, and learn to appreciate the principles underlying visual design practice. Upon completing this module, students will be able to analyse, critique, and evaluate visual designs from both an aesthetic and a social and cultural perspective.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "COMMUNICATIONS AND NEW MEDIA",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

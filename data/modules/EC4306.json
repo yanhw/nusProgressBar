@@ -1,0 +1,25 @@
+{
+"moduleCode": "EC4306",
+"moduleTitle": "Selected Readings in Microeconomics",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "EC4101 and EC4301",
+"prerequisite": "Cohort 2011 and before: Completed 80 MCs, including 28 MCs in EC, with a minimum CAP of 3.50 or be on the Honours track. EC3101 Cohort 2012 onwards: Completed 80 MCs, including 28 MCs in EC, with a minimum CAP of 3.20 or be on the Honours track. EC3101",
+"preclusionList": [
+            "EC4301",
+            "EC4101"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "EC4306", 
+            "children": []
+},
+"moduleDescription": "The module covers selected topics including economics of asymmetric information, auction and mechanism design, and matching and market design. The module will focus on delivering the economic insights and minimize the use of mathematical tools. Emphasis will be placed on main applications such as design of efficient and revenue-maximizing auctions, design of stable school choice mechanisms, and design of efficient and optimal contracts.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "ECONOMICS",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

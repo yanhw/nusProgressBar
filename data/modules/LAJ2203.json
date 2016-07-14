@@ -1,0 +1,41 @@
+{
+"moduleCode": "LAJ2203",
+"moduleTitle": "Japanese 4",
+"moduleCredit": "4",
+"lockedModules":[
+            "LAJ3201",
+            "LAJ3203"
+        ],
+"preclusion": "NIL",
+"prerequisite": "Passed LAJ2202 or placement test.",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["LAJ2202"]
+},
+"prerequisiteList": ["LAJ2202","LAJ2201","LAJ1201"],
+"completePrerequisite": {
+            "name": "LAJ2203", 
+            "children": [
+                {
+                    "name": "LAJ2202", 
+                    "children": [
+                        {
+                            "name": "LAJ2201", 
+                            "children": [
+                                {
+                                    "name": "LAJ1201", 
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "Building upon the basis of Japanese 3, this module aims to further develop students' communication skills on daily topics of general interests. It enhances students? socio-cultural awareness and enables them to communicate meaningfully in an appropriate manner using polite expressions. Approximately 150 kanji and 200 kanji-words will be introduced. With this knowledge of characters, students will be able to understand letters with fairly formal written language.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "CENTRE FOR LANGUAGE STUDIES",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

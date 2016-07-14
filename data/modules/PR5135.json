@@ -1,0 +1,22 @@
+{
+"moduleCode": "PR5135",
+"moduleTitle": "Foundations In Advanced Pharmacy Practice",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "Acceptance in the PharmD programme or by permission",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "PR5135", 
+            "children": []
+},
+"moduleDescription": "This module is aimed at having students acquire effective drug information retrieval skills, literature evaluation skills and gaining a basic understanding of common biostatistical and study design principles.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCIENCE",
+"department": "PHARMACY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

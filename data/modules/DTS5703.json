@@ -1,0 +1,22 @@
+{
+"moduleCode": "DTS5703",
+"moduleTitle": "Operations Research",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "DTS5703", 
+            "children": []
+},
+"moduleDescription": "Operations Research (OR) originated from World War II as a response to the need for effective, efficient, and optimal operation of weapon systems and the deployment of military forces at the strategic, operational, and tactical levels. Since then, OR has evolved into a full-scale scientific discipline that is practiced widely by analysts and decision makers in industry, government, and the military. The purpose of this module is to educate the participants, including military personnel, in the fundamental theory and practice of operations research for the understanding, structuring, and improvement of decision making, leading to improved performance of complex defense and non-defense operations and systems. Topics covered include linear & non-linear programming, queuing theory, simulation, decision analysis and multiple attribute decision making, with emphasis on the development and manipulation of mathematical and computer models of complex organizational and operational systems. Examples will be drawn from the areas of resource allocation, logistics, force composition, human resources, operational planning & scheduling, weapon systems selection, etc.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "NON-FACULTY-BASED DEPARTMENTS",
+"department": "TEMASEK DEFENCE SYSTEMS INSTITUTE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

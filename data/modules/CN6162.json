@@ -1,0 +1,24 @@
+{
+"moduleCode": "CN6162",
+"moduleTitle": "Advanced Polymeric Materials",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "CN5162",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "CN5162"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "CN6162", 
+            "children": []
+},
+"moduleDescription": "Survey of functional polymers. Polymer applications in photoresists, e-beam resists, printed wiring as encapsulants in polymer blends and polymer membranes. Electroactive polymers. Polymers in optoelectronics. Surface modified and functionalized polymers. Miscibility in polymer blends. Membrane science. Membrane making and membrane characterization.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "CHEMICAL & BIOMOLECULAR ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

@@ -1,0 +1,107 @@
+{
+"moduleCode": "EC3305",
+"moduleTitle": "Programming Tools for Economics",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "EC2101 Microeconomic Analysis I EC2102 Macroeconomic Analysis I EC2104 Quantitative Methods for Economic Analysis EC3303 Econometrics I",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["EC3303"]
+},
+"prerequisiteList": ["EC3303","EC1101E","EC1301","BSP1005","EC2303","DSC1007","DSC1007X","MA2216","MA1102","MA1102R","MA1312","MA1507","MA1505","MA1505C","MA1521"],
+"completePrerequisite": {
+            "name": "EC3305", 
+            "children": [
+                {
+                    "name": "EC3303", 
+                    "children": [
+                        {
+                            "name": "and", 
+                            "children": [
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "EC1101E", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "EC1301", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "BSP1005", 
+                                            "children": []
+                                        }
+                                    ]
+                                }, 
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "EC2303", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "DSC1007", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "DSC1007X", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "MA2216", 
+                                            "children": [
+                                                {
+                                                    "name": "or", 
+                                                    "children": [
+                                                        {
+                                                            "name": "MA1102", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "MA1102R", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "MA1312", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "MA1507", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "MA1505", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "MA1505C", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "MA1521", 
+                                                            "children": []
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module focuses on teaching programming tools and econometric software for economics. The aim is for students to master basic programming skills and to know how to use broadly used econometrics software. It will be a \"hands-on\"module during which students will learn to explore, modify, manage, and analyze data. They will also learn how to learn by themselves skills that will not be covered in class. At the end of the course, students will be able to produce a given analysis starting from any type of raw data. Applications will cover several fields of applied economics.",
+"crossModule": "-1",
+"corequisite": "Nil",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "ECONOMICS",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,0,0,4,]]
+}

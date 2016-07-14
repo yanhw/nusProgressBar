@@ -1,0 +1,61 @@
+{
+"moduleCode": "EE3408C",
+"moduleTitle": "Integrated Analog Design",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "EE3408",
+"prerequisite": "EE2005 Electronics or EE2021 Devices and Circuits",
+"preclusionList": [
+            "EE3408"
+        ],
+"parsedPrerequisite": {
+            " or ": [
+                "EE2005", 
+                "EE2021"
+            ]
+},
+"prerequisiteList": ["EE2005","EE2021","EE1002","EG1108","CG1108"],
+"completePrerequisite": {
+            "name": "EE3408C", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "EE2005", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "EE2021", 
+                            "children": [
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "EE1002", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "EG1108", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "CG1108", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module focuses on integration of analog circuits on silicon using CMOS technology. The topics covered include processing and modeling background, basic circuits, reference circuit design, single stage amplifiers, operational amplifiers, noise issues and advanced design methods.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "ELECTRICAL & COMPUTER ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

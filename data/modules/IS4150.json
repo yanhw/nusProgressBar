@@ -1,0 +1,61 @@
+{
+"moduleCode": "IS4150",
+"moduleTitle": "Mobile and Ubiquitous Commerce",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "Pass 80 MCs and IS2150",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["IS2150"]
+},
+"prerequisiteList": ["IS2150","CS1020","CS1010","CS1102","CS1102S","IS1112"],
+"completePrerequisite": {
+            "name": "IS4150", 
+            "children": [
+                {
+                    "name": "IS2150", 
+                    "children": [
+                        {
+                            "name": "and", 
+                            "children": [
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "CS1020", 
+                                            "children": [
+                                                {
+                                                    "name": "CS1010", 
+                                                    "children": []
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "CS1102", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "CS1102S", 
+                                            "children": []
+                                        }
+                                    ]
+                                }, 
+                                {
+                                    "name": "IS1112", 
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "In this module, students will develop an appreciation for the strategic, operational, and technical issues for e-commerce in the emerging domains of mobile and ubiquitous computing. It provides students with an understanding of the theory and practice of e-business management and systems development in these domain areas. The module covers concepts such as frameworks for mobile commerce, enabling business processes and models, as well as technologies for enabling commerce on non-traditional computing platforms. Students will learn to design and develop e-business applications on these platforms to meet constantly changing business needs. Case studies form a major part of this module.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "SCHOOL OF COMPUTING",
+"department": "INFORMATION SYSTEMS",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

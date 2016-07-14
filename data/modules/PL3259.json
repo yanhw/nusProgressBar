@@ -1,0 +1,61 @@
+{
+"moduleCode": "PL3259",
+"moduleTitle": "Psychology of Ageing",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "PL1101E, PL2131, PL3234 and PL3235",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " and ": [
+                "PL1101E", 
+                "PL2131", 
+                "PL3234", 
+                "PL3235"
+            ]
+},
+"prerequisiteList": ["PL1101E","PL2131","PL3234","PL3235"],
+"completePrerequisite": {
+            "name": "PL3259", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "PL1101E", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "PL2131", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "PL3234", 
+                            "children": [
+                                {
+                                    "name": "PL1101E", 
+                                    "children": []
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "PL3235", 
+                            "children": [
+                                {
+                                    "name": "PL1101E", 
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This course is an introduction to the study of ageing that views the ageing process as a normal part of lifespan development. This includes exploring what ageing means, examining which factors are involved in healthy and pathological aspects of ageing, and distinguishing between ageing stereotypes and reality. Students will study the research for age-related change (and stability) in several psychological domains in the context of changing paradigms of ageing, examining various issues in ageing (e.g., transition to retirement, health-related changes, optimal ageing factors), as well as multiple influences on the experience of ageing (e.g., caregiving, societal policies, attitudes toward elderly).",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "PSYCHOLOGY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

@@ -1,0 +1,43 @@
+{
+"moduleCode": "TS3235",
+"moduleTitle": "Singapore English-Language Theatre",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "SSA3201",
+"prerequisite": "TS1101E or GEM1003",
+"preclusionList": [
+            "SSA3201"
+        ],
+"parsedPrerequisite": {
+            " or ": [
+                "TS1101E", 
+                "GEM1003"
+            ]
+},
+"prerequisiteList": ["TS1101E","GEM1003"],
+"completePrerequisite": {
+            "name": "TS3235", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "TS1101E", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "GEM1003", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module provides a grand overview of Singapore English Language Theatre as well as an in-depth analysis of its canonical texts. It traces the development of Singapore's cultural identity through her theatre's shifting strategies of representation. Apart from contextualizing the key texts within an awareness of Singapore cultural policy and social rubric, this module also focuses on an understanding of theoretical paradigms from postcolonialism, feminism, interculturalism and postmodernism.",
+        "CrossModule": "SSA3201", 
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "ENGLISH LANGUAGE & LITERATURE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

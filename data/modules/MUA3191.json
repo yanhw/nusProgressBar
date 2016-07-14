@@ -1,0 +1,50 @@
+{
+"moduleCode": "MUA3191",
+"moduleTitle": "Junior Recital in Voice",
+"moduleCredit": "6",
+"lockedModules":[
+            "MUA4190"
+        ],
+"preclusion": "NIL",
+"prerequisite": "MUA 3190 or Permission of Instructor",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["MUA3190"]
+},
+"prerequisiteList": ["MUA3190","MUA2191","MUA2190","MUA1191","MUA1190"],
+"completePrerequisite": {
+            "name": "MUA3191", 
+            "children": [
+                {
+                    "name": "MUA3190", 
+                    "children": [
+                        {
+                            "name": "MUA2191", 
+                            "children": [
+                                {
+                                    "name": "MUA2190", 
+                                    "children": [
+                                        {
+                                            "name": "MUA1191", 
+                                            "children": [
+                                                {
+                                                    "name": "MUA1190", 
+                                                    "children": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "Presented at the end of the junior year, students will be required to present 20-30 minutes of music in performance in a wide variety of styles in Italian, English and either German or French. Combined with private lessons, the performance will comprise one half of the final grade.",
+"crossModule": "-1",
+"corequisite": "Nil",
+"faculty": "YONG SIEW TOH CONSERVATORY OF MUSIC",
+"department": "YONG SIEW TOH CONSERVATORY OF MUSIC",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

@@ -1,0 +1,41 @@
+{
+"moduleCode": "CS5342",
+"moduleTitle": "Multimedia Computing and Applications",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "CS4341 or CS3246",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " or ": [
+                "CS4341", 
+                "CS3246"
+            ]
+},
+"prerequisiteList": ["CS4341","CS3246"],
+"completePrerequisite": {
+            "name": "CS5342", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "CS4341", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "CS3246", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF COMPUTING",
+"department": "COMPUTER SCIENCE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

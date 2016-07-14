@@ -1,0 +1,95 @@
+{
+"moduleCode": "MA4254",
+"moduleTitle": "Discrete Optimization",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "MA3235, ISE students.",
+"prerequisite": "MA2215 or MA3252",
+"preclusionList": [
+            "MA3235"
+        ],
+"parsedPrerequisite": {
+            " or ": [
+                "MA2215", 
+                "MA3252"
+            ]
+},
+"prerequisiteList": ["MA2215","MA3252","MA1101","MA1101R","MA1306","MA1311","MA1508","MA1506","MA1102R","MA1505","MA1521","GM1306"],
+"completePrerequisite": {
+            "name": "MA4254", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "MA2215", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "MA3252", 
+                            "children": [
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "MA1101", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "MA1101R", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "MA1306", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "MA1311", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "MA1508", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "MA1506", 
+                                            "children": [
+                                                {
+                                                    "name": "or", 
+                                                    "children": [
+                                                        {
+                                                            "name": "MA1102R", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "MA1505", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "MA1521", 
+                                                            "children": []
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "GM1306", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "Discrete optimization deals with problems of maximizing or minimizing a function over a feasible region of discrete structure. These problems come from many fields like operations research, management science and computer science. The primary objective of this module is twofold: (a) to study key techniques to separate easy problems from difficult ones and (b) to use typical methods to deal with difficult problems. Major topics: Integer programming: cutting plane techniques, branch and bound enumeration, partitioning algorithms, the fixed charge and plant location problems. Sequencing and job-shop scheduling. Vehicle routing problems.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCIENCE",
+"department": "MATHEMATICS",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

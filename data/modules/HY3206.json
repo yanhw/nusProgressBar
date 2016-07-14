@@ -1,0 +1,22 @@
+{
+"moduleCode": "HY3206",
+"moduleTitle": "East Asian International Relations",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "HY3206", 
+            "children": []
+},
+"moduleDescription": "This module examines the development of international relations in East Asia from the Opium War to the Korean War. Its main themes are the introduction of the unequal treaty system in China and Japan around the mid-19th century; the rise of the USA and Japan as major powers in the region from 1900 to 1919; American-East Asian relations in the inter-war years; and World War II and early postwar developments.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "HISTORY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

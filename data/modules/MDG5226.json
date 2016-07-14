@@ -1,0 +1,22 @@
+{
+"moduleCode": "MDG5226",
+"moduleTitle": "Antibiotic Resistance and Antibacterial Drug Discovery",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "MDG5226", 
+            "children": []
+},
+"moduleDescription": "With the dramatic increase in antibiotic resistance and the paucity in the development of new drugs we are in a transition phase to a pre-antibiotic like era with major implications for public health and clinical practice. Here, we will discuss two major topics: i) mechanisms of action of antibiotics and resistance, ii) concepts of antibacterial drug discovery, including target product profile, target and lead finding, and lead optimization.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "YONG LOO LIN SCHOOL OF MEDICINE",
+"department": "DEAN'S OFFICE (MEDICINE)",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

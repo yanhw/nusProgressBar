@@ -1,0 +1,26 @@
+{
+"moduleCode": "BN2201",
+"moduleTitle": "Quantitative Physiology for Bioengineers",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "DY103 Physiology, LSM3212 Human Physiology, PY1105 Physiology I, PY1106 Physiology II",
+"prerequisite": "BIE Stage 2 standing",
+"preclusionList": [
+            "PY1105",
+            "LSM3212",
+            "PY1106"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "BN2201", 
+            "children": []
+},
+"moduleDescription": "This module provides students interested in bioengineering with a basic foundation in the physiology of the human body. In contrast to traditional physiology, engineering concepts will be used as a basis to explain and quantify physiological function. The goal of this module is to give students an overview of how the body functions from an engineering perspective in preparation for more advanced bioengineering modules. The major topics that will be covered are biotransport systems, bioenergy systems and biocontrol systems.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "BIOMEDICAL ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

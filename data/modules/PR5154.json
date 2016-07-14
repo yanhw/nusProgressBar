@@ -1,0 +1,22 @@
+{
+"moduleCode": "PR5154",
+"moduleTitle": "Drug Information Clerkship",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "Acceptance in the Pharm.D. program or by permission",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "PR5154", 
+            "children": []
+},
+"moduleDescription": "This 5-week, full-time clerkship is designed to develop the student\u2019s knowledge and skills in the area of drug information. After this five weeks clerkship, students should be able to retrieve, analyze, and communicate appropriate information on medications and healthcare issues to physicians, patients, nurses, pharmacists and other health professionals. This is a compulsory clerkship.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "SCIENCE",
+"department": "PHARMACY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

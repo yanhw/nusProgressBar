@@ -1,0 +1,26 @@
+{
+"moduleCode": "AUD5103",
+"moduleTitle": "Pathologies of the Auditory System",
+"moduleCredit": "2",
+"lockedModules":[
+            "AUD5108",
+            "AUD5110",
+            "AUD5112",
+            "AUD5106"
+        ],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "AUD5103", 
+            "children": []
+},
+"moduleDescription": "This module provides students an understanding of the basis of diseases that are commonly affecting the hearing and balance system, and the impact of the different types of pathology (e.g. conductive and sensorineural hearing loss, central auditory processing disorder, peripheral and central vestibular lesion) on the patient\u2019s life.",
+"crossModule": "-1",
+"corequisite": "AUD5102: Anatomy & Physiology",
+"faculty": "YONG LOO LIN SCHOOL OF MEDICINE",
+"department": "DIVISION OF GRADUATE MEDICAL STUDIES",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

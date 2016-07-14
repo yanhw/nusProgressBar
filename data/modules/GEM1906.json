@@ -1,0 +1,24 @@
+{
+"moduleCode": "GEM1906",
+"moduleTitle": "Jr Sem: Understanding Health Behaviour",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "UTC1405",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "UTC1405"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "GEM1906", 
+            "children": []
+},
+"moduleDescription": "How individuals, families and communities respond to illness, or seek to prevent it, is the result of a broad and complex mix of personal, social, cultural and experiential factors. This module gives students opportunities to picture the resources and constraints involved in this choice or act, through an understanding of theories of health behaviour and disease prevention, social influences, and the provisions and response of the healthcare system. It will also allow students to define and discuss the issues involved in addressing unmet need for healthcare. A key aspect of learning will be the use of patient narratives as anchoring points for the seminars; students will also construct and interpret such a narrative as their final assignment.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "NON-FACULTY-BASED DEPARTMENTS",
+"department": "COLLEGE OF ALICE & PETER TAN",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

@@ -1,0 +1,22 @@
+{
+"moduleCode": "BL5236",
+"moduleTitle": "Introduction to Electron Microscopy for Life Sciences",
+"moduleCredit": "2",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "BL5236", 
+            "children": []
+},
+"moduleDescription": "Bioimaging is one of the major emerging research areas in biological research. Some of the most interesting biological systems like viruses and certain large molecules are 1 to 100 nm in size, and cannot be studied using optical microscopy methods. To image these biological systems, electron microscopy must be employed. This module aims to introduce students to the basics of electron microscopy and its application in life sciences. Students will learn basic principles of electron optics, and the electron microscopy techniques used in the study of biological systems.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCIENCE",
+"department": "BIOLOGICAL SCIENCES",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

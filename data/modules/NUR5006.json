@@ -1,0 +1,22 @@
+{
+"moduleCode": "NUR5006",
+"moduleTitle": "Geriatrics and Gerontology",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "NUR5006", 
+            "children": []
+},
+"moduleDescription": "This module provides a solid foundation for the management of older adults from the APN perspective. It focuses on assessment, management and evaluation of care and services from a holistic and multidisciplinary approach.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "YONG LOO LIN SCHOOL OF MEDICINE",
+"department": "NURSING/ALICE LEE CTR FOR NURSING STUD",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

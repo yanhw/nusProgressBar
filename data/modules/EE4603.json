@@ -1,0 +1,87 @@
+{
+"moduleCode": "EE4603",
+"moduleTitle": "Biomedical Imaging Systems",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "EE2023/BN2401",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " or ": [
+                "EE2023", 
+                "BN2401"
+            ]
+},
+"prerequisiteList": ["EE2023","MA1506","MA1102R","MA1505","MA1521","BN2401"],
+"completePrerequisite": {
+            "name": "EE4603", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "EE2023", 
+                            "children": [
+                                {
+                                    "name": "MA1506", 
+                                    "children": [
+                                        {
+                                            "name": "or", 
+                                            "children": [
+                                                {
+                                                    "name": "MA1102R", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MA1505", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MA1521", 
+                                                    "children": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "BN2401", 
+                            "children": [
+                                {
+                                    "name": "MA1506", 
+                                    "children": [
+                                        {
+                                            "name": "or", 
+                                            "children": [
+                                                {
+                                                    "name": "MA1102R", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MA1505", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MA1521", 
+                                                    "children": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "The purpose of this course is to present an overview of biomedical imaging systems. The course will examine various imaging modalities including X-ray, ultrasound, nuclear, and MRI. How these images are formed and what types of information they provide will be presented. Image analysis techniques will also be discussed. Specific analysis techniques will include the analysis of cardiac ultrasound, mammography, and MRI functional imagery.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "ELECTRICAL & COMPUTER ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

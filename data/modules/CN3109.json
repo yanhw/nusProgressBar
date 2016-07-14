@@ -1,0 +1,137 @@
+{
+"moduleCode": "CN3109",
+"moduleTitle": "Chemical Engineering Process Laboratory III",
+"moduleCredit": "2",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "CN3121, CN3132",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " and ": [
+                "CN3121", 
+                "CN3132"
+            ]
+},
+"prerequisiteList": ["CN3121","MA1505","MA1506","MA1102R","MA1521","CN3132","CN1111F","CN1111","CN1111X","CN2125","CN2122"],
+"completePrerequisite": {
+            "name": "CN3109", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "CN3121", 
+                            "children": [
+                                {
+                                    "name": "and", 
+                                    "children": [
+                                        {
+                                            "name": "MA1505", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "MA1506", 
+                                            "children": [
+                                                {
+                                                    "name": "or", 
+                                                    "children": [
+                                                        {
+                                                            "name": "MA1102R", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "MA1505", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "MA1521", 
+                                                            "children": []
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "CN3132", 
+                            "children": [
+                                {
+                                    "name": "and", 
+                                    "children": [
+                                        {
+                                            "name": "or", 
+                                            "children": [
+                                                {
+                                                    "name": "CN1111F", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "CN1111", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "CN1111X", 
+                                                    "children": []
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "CN2125", 
+                                            "children": [
+                                                {
+                                                    "name": "CN2122", 
+                                                    "children": [
+                                                        {
+                                                            "name": "and", 
+                                                            "children": [
+                                                                {
+                                                                    "name": "MA1505", 
+                                                                    "children": []
+                                                                }, 
+                                                                {
+                                                                    "name": "MA1506", 
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "or", 
+                                                                            "children": [
+                                                                                {
+                                                                                    "name": "MA1102R", 
+                                                                                    "children": []
+                                                                                }, 
+                                                                                {
+                                                                                    "name": "MA1505", 
+                                                                                    "children": []
+                                                                                }, 
+                                                                                {
+                                                                                    "name": "MA1521", 
+                                                                                    "children": []
+                                                                                }
+                                                                            ]
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module provides practical experience to students in process dynamics and control, mass transfer and separation processes. It also strengthens teamwork, technical writing and oral presentation skills, and problem solving skills of students. The importance of safety continues to be emphasised through rigorous implementation of proper operational and waste disposal procedures. The practical experience in fault diagnosis, instrumental analysis, data logging and processing, error analysis and data validation, and operation of process units gained in CN2108 and CN3108 are reinforced and extended further. Students do four experiments (each in two 4-hour sessions) during the semester.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "CHEMICAL & BIOMOLECULAR ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

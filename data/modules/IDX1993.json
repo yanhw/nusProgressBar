@@ -1,0 +1,22 @@
+{
+"moduleCode": "IDX1993",
+"moduleTitle": "Unrestricted Elective",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "IDX1993", 
+            "children": []
+},
+
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF DESIGN AND ENVIRONMENT",
+"department": "DIVISION OF INDUSTRIAL DESIGN",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

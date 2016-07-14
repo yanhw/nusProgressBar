@@ -1,0 +1,25 @@
+{
+"moduleCode": "GE2215",
+"moduleTitle": "Introduction to GIS & Remote Sensing",
+"moduleCredit": "4",
+"lockedModules":[
+            "GE3216"
+        ],
+"preclusion": "IF2203",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "IF2203"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "GE2215", 
+            "children": []
+},
+"moduleDescription": "This module focuses on the important concepts and the practical use of Geographic Information System (GIS) in problem solving in both social and physical sciences. Topics to be covered include vector and raster data formats and their analytical functions. This module is designed as learning through practicing, so practical laboratory excises utilising GIS software such as ArcView and ArcGIS will be major classroom activities. This module is mounted for students throughout NUS with interests in GIS applications in sciences, social sciences, engineering and business analysis.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "GEOGRAPHY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

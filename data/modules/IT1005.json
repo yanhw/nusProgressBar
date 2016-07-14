@@ -1,0 +1,30 @@
+{
+"moduleCode": "IT1005",
+"moduleTitle": "Introduction to Programming with Matlab",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "CS1010, CS1010E, CS1010FC, CS1010S, CS1101S, CG1101, IT1006 and its equivalents.",
+"prerequisite": "A-level Mathematics or H2 Mathematics, Chemical Engineering students matriculated in and after AY2006/2007.",
+"preclusionList": [
+            "CS1010S",
+            "IT1006",
+            "CG1101",
+            "CS1101S",
+            "CS1010E",
+            "CS1010F",
+            "CS1010"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "IT1005", 
+            "children": []
+},
+"moduleDescription": "With the widespread use of computers and computational tools in industrial practice and research, it is important for students in the chemical engineering programme to gain a firm understanding and appreciation of the fundamentals of programming, algorithmic problem solving, coding and debugging. The final goal is to be able to apply these skills to solving realistic chemical engineering problems. MATLAB, a high-level computing language will be employed due to its capability to solve domain-specific computing problems more conveniently than with traditional programming languages. MATLAB also provides the platform to span a wide variety of application areas.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF COMPUTING",
+"department": "COMPUTER SCIENCE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

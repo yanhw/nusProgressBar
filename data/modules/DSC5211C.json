@@ -1,0 +1,29 @@
+{
+"moduleCode": "DSC5211C",
+"moduleTitle": "Quantitative Risk Management",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "DSC5211A",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["DSC5211A"]
+},
+"prerequisiteList": ["DSC5211A"],
+"completePrerequisite": {
+            "name": "DSC5211C", 
+            "children": [
+                {
+                    "name": "DSC5211A", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "The aim of this course is to provide an introduction to the probability and statistical methods used by financial institutions and supply chain managers to model market, credit and operational risk. Topics addressed include loss distributions, multivariate models, dependence and copulas, extreme value theory, risk measures, risk aggregation, risk allocation and supply chain risk management.",
+"crossModule": "-1",
+"corequisite": "N.A.",
+"faculty": "SCHOOL OF BUSINESS",
+"department": "DECISION SCIENCES",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

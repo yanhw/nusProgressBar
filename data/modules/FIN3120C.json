@@ -1,0 +1,167 @@
+{
+"moduleCode": "FIN3120C",
+"moduleTitle": "TIF: China's Capital Markets",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "FIN2004 Finance and FIN3103 Financial Markets",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " and ": [
+                "FIN2004", 
+                "FIN3103"
+            ]
+},
+"prerequisiteList": ["FIN2004","BK1003","BZ1002","BH1002","FNA1002","ACC1002","FNA1002X","ACC1002X","FNA1002E","BH1002E","EC3212","EG1422","FIN3103","FNA2004","BH2004","BZ2004","BK2004"],
+"completePrerequisite": {
+            "name": "FIN3120C", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "FIN2004", 
+                            "children": [
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "BK1003", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "BZ1002", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "BH1002", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "FNA1002", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "ACC1002", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "FNA1002X", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "ACC1002X", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "FNA1002E", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "BH1002E", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "EC3212", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "EG1422", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "FIN3103", 
+                            "children": [
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "FNA2004", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "FIN2004", 
+                                            "children": [
+                                                {
+                                                    "name": "or", 
+                                                    "children": [
+                                                        {
+                                                            "name": "BK1003", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "BZ1002", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "BH1002", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "FNA1002", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "ACC1002", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "FNA1002X", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "ACC1002X", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "FNA1002E", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "BH1002E", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "EC3212", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "EG1422", 
+                                                            "children": []
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "BH2004", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "BZ2004", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "BK2004", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This is an introductory course on China\u2019s Capital Markets that will examine China\u2019s listed equity, private equity, bond and derivative markets from a development perspective and its convergence towards international standards. The course will use a combination of cases, professional and academic articles to provide an understanding of the concepts, issues and investors involved in China\u2019s capital markets. An underlying theme of this course is how China\u2019s capital markets have developed and improved, despite the grievances and misgivings widely espoused by the investment community.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF BUSINESS",
+"department": "FINANCE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

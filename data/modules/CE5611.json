@@ -1,0 +1,51 @@
+{
+"moduleCode": "CE5611",
+"moduleTitle": "Precast Concrete Technology",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "CE5610 Precast and Retrofitting Technology (taken in Semester 2, AY2008/09 or earlier)",
+"prerequisite": "CE 3165 or CE4 standing or higher",
+"preclusionList": [
+            "AY2008",
+            "CE5610"
+        ],
+"parsedPrerequisite": {
+" and ": ["CE3165"]
+},
+"prerequisiteList": ["CE3165","CE2155","EG1109F","EG1109"],
+"completePrerequisite": {
+            "name": "CE5611", 
+            "children": [
+                {
+                    "name": "CE3165", 
+                    "children": [
+                        {
+                            "name": "CE2155", 
+                            "children": [
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "EG1109F", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "EG1109", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "The primary objective of this module is to equip civil engineering students with sufficient design knowledge and skills on precast structural concrete both for their further education and for their future engineering career. This module provides students with fundamental approaches in designing precast concrete components and structures. The students will acquire fundamental knowledge and approaches to section analysis and design, design of connections, floor diaphragm action, precast frame structures and precast components. The module is targeted at MSc civil engineering students and those with a keen interest on precast concrete technology.",
+"crossModule": "-1",
+"corequisite": "Nil",
+"faculty": "ENGINEERING",
+"department": "CIVIL & ENVIRONMENTAL ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

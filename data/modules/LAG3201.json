@@ -1,0 +1,36 @@
+{
+"moduleCode": "LAG3201",
+"moduleTitle": "German 3",
+"moduleCredit": "4",
+"lockedModules":[
+            "LAG3202",
+            "LAG3203"
+        ],
+"preclusion": "NIL",
+"prerequisite": "Passed LAG2201 or placement test",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["LAG2201"]
+},
+"prerequisiteList": ["LAG2201","LAG1201"],
+"completePrerequisite": {
+            "name": "LAG3201", 
+            "children": [
+                {
+                    "name": "LAG2201", 
+                    "children": [
+                        {
+                            "name": "LAG1201", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "Building upon the foundation of the German 2 module, this module focuses on the development of students' ability to communicate on fairly complex topics of general interests. It will continue to adopt an integrated approach and cultivate students' proficiency in all areas of language learning, including their learning competence. Strategies to be developed focus on writing and speaking.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "CENTRE FOR LANGUAGE STUDIES",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

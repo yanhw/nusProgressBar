@@ -1,0 +1,41 @@
+{
+"moduleCode": "TS2233",
+"moduleTitle": "Making Contemporary Performance",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "TS1101E or GEM1003",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " or ": [
+                "TS1101E", 
+                "GEM1003"
+            ]
+},
+"prerequisiteList": ["TS1101E","GEM1003"],
+"completePrerequisite": {
+            "name": "TS2233", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "TS1101E", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "GEM1003", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module focuses on key figures and aspects of contemporary performance as a means of learning about innovative approaches to theatre practice. Taking the works of a significant dramatist, director, theorist or theatre/performance genre as their starting point, students will investigate the resulting aesthetic and conceptual innovations, and explore their implications for current approaches to performance making more generally. As such, the module combines creative and critical practice, and features a variety of reflective, analytical and practical assessment tasks, including a group performance project.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "ENGLISH LANGUAGE & LITERATURE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

@@ -1,0 +1,55 @@
+{
+"moduleCode": "IS3221",
+"moduleTitle": "Enterprise Resource Planning Systems",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "(IS1103 or IS1103FC) and IS1105",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " and ": [
+                {
+                    " or ": [
+                        "IS1103", 
+                        "IS1103F"
+                    ]
+                }, 
+                "IS1105"
+            ]
+},
+"prerequisiteList": ["IS1103","IS1103F","IS1105"],
+"completePrerequisite": {
+            "name": "IS3221", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "or", 
+                            "children": [
+                                {
+                                    "name": "IS1103", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "IS1103F", 
+                                    "children": []
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "IS1105", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "Business resources include employees, business processes, procedures, organisational structure, and computer systems. The efficiency and effectiveness of an organisation in carrying out its business can be enhanced if managers and employees are given the support to plan, monitor and control the business. Enterprise Resource Planning (ERP) supports the use of all resources in an organisation. In this course, students will learn the rationale for having ERP, ERP functionality (such as manufacturing, finance, distribution and human resource management), ERP and information technology, ERP systems and ERP implementation (planning, product selection, implementation and optimisation).",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF COMPUTING",
+"department": "INFORMATION SYSTEMS",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

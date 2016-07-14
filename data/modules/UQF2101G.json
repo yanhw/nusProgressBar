@@ -1,0 +1,22 @@
+{
+"moduleCode": "UQF2101G",
+"moduleTitle": "Quantitative Reasoning Foundation: Quantifying Nuclear Risks",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "Not applicable to USP First-Tier modules.",
+"prerequisite": "Not applicable to USP First-Tier modules.",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "UQF2101G", 
+            "children": []
+},
+"moduleDescription": "This topic-based module develops quantitative reasoning skills through a structured analysis of an important but accessible problem, imparting to students the appreciation that, for many questions/issues, a quantitative analysis can provide the insight and clarity that complements and moves beyond what might be gained through a qualitative approach. This module focuses on quantifying aspects of nuclear risks. Students will pose a question related to nuclear risks (e.g. What is the lowest dose of radiation that can lead to cancer?), propose a method to measure the relevant variables, collect the necessary data, and make scientifically justifiable inferences from it. Students will thus perform all aspects of a genuine scientific study, from problem formulation to decision making and final reporting.",
+"crossModule": "-1",
+"corequisite": "Not applicable to USP First-Tier modules.",
+"faculty": "UNIVERSITY SCHOLARS PROGRAMME",
+"department": "UNIVERSITY SCHOLARS PROGRAMME",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

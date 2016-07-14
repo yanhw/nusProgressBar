@@ -1,0 +1,39 @@
+{
+"moduleCode": "PR5216",
+"moduleTitle": "Advances In Drug Delivery",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "PR4205 or by special permission",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["PR4205"]
+},
+"prerequisiteList": ["PR4205","PR3101","PR1101"],
+"completePrerequisite": {
+            "name": "PR5216", 
+            "children": [
+                {
+                    "name": "PR4205", 
+                    "children": [
+                        {
+                            "name": "PR3101", 
+                            "children": [
+                                {
+                                    "name": "PR1101", 
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "Learning objectives? To critically examine the innovative approaches taken by pharmaceutical industries and scientists to develop optimized drug delivery systemsMajor topics? Concept of optimized drug delivery systems. Cellular mechanisms of drug absorption. Basic pharmacokinetics. Biological and physiochemical factors influencing drug bioavailability. Challenges in delivering biopharmaceuticals. Design, principles, merit and disadvantages of selected innovative delivery systems for biopharmaceuticalsTarget students? Postgraduates with permission",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "SCIENCE",
+"department": "PHARMACY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

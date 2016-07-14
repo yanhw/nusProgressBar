@@ -1,0 +1,37 @@
+{
+"moduleCode": "YCC1112",
+"moduleTitle": "Literature and Humanities 2",
+"moduleCredit": "5",
+"lockedModules":[
+            "YHU2232",
+            "YHU3218",
+            "YHU2233",
+            "YHU2230",
+            "YHU3210",
+            "YHU2240",
+            "YHU2247",
+            "YHU2239"
+        ],
+"preclusion": "NIL",
+"prerequisite": "YCC1111 Literature and Humanities 1 or permission of coordinator",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["YCC1111"]
+},
+"prerequisiteList": ["YCC1111"],
+"completePrerequisite": {
+            "name": "YCC1112", 
+            "children": [
+                {
+                    "name": "YCC1111", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "This is the second semester of a two semester sequence on literature and humanities. The sequence explores literature and other arts from cultures around the world throughout history. Special attention is paid to developing skills in written and oral expression.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "YALE-NUS COLLEGE",
+"department": "YALE-NUS COLLEGE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

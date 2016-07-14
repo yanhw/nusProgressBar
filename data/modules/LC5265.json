@@ -1,0 +1,30 @@
+{
+"moduleCode": "LC5265",
+"moduleTitle": "Chinese Business Law",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "LL4089/LL5089/LL6089 Chinese Corporate & Securities Law LL4089V/LL5089V/LL6089V Chinese Corporate & Securities Law LC5089 Chinese Corporate & Securities Law",
+"prerequisite": "Civil law, Contract Law",
+"preclusionList": [
+            "LL6089V",
+            "LC5089",
+            "LL5089",
+            "LL4089V",
+            "LL4089",
+            "LL5089V",
+            "LL6089"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "LC5265", 
+            "children": []
+},
+"moduleDescription": "This course is composed of five parts: 1. An Overview of Chinese Law 2. Chinese Partnership Law 3. Foreign Investment Enterprise Law 4. Chinese Corporation Law 5. Chinese Securities Law",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "LAW",
+"department": "LAW",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

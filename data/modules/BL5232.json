@@ -1,0 +1,26 @@
+{
+"moduleCode": "BL5232",
+"moduleTitle": "Introduction to Bioimaging",
+"moduleCredit": "2",
+"lockedModules":[
+            "BL5235",
+            "BL5232C",
+            "BL5232B",
+            "BL5232A"
+        ],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "BL5232", 
+            "children": []
+},
+"moduleDescription": "Bioimaging is one of the major emerging research areas in biological research due to the wide range of methods available with excellent temporal and spatial resolution. This allows us nowadays to test biological events at the single molecule level. The module aims at introducing the interested student to basics in the field. It will cover the basic physical principles of the diverse bioimaging techniques (electron microscopy, nuclear magnetic resonance, atomic force microscopy and light microscopy) and will cover the basic mathematical needs for a quantitative interpretation of bioimaging data (data evaluation techniques, error treatment).",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCIENCE",
+"department": "BIOLOGICAL SCIENCES",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

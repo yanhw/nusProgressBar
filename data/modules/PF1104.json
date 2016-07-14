@@ -1,0 +1,22 @@
+{
+"moduleCode": "PF1104",
+"moduleTitle": "Environmental Science for Building",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "PF1104", 
+            "children": []
+},
+"moduleDescription": "The module covers the basic science relating to projects in the context of sustainable development, with a focus on the elements of the scientific principles relevant to buildings. The major topics include external and climatic effects such as various forms of pollution, humidity and condensation, heat transfer, comfort conditions, comfort zones and indices, air movement, Sick Building Syndrome and solar radiation; lighting such as daylighting and artificial lighting; and building acoustics.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF DESIGN AND ENVIRONMENT",
+"department": "BUILDING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

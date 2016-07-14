@@ -1,0 +1,25 @@
+{
+"moduleCode": "EC6104",
+"moduleTitle": "Advanced Mathematical Economics",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "EC6210 and EC6311",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "EC6210",
+            "EC6311"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "EC6104", 
+            "children": []
+},
+"moduleDescription": "This module covers a number of advanced mathematical techniques that are frequently used for solving dynamic optimisation problems in economics. Topics include calculus of variations, dynamic programming and optimal control theory. The emphasis would be placed on both mathematics and applications in economics. This module would carry four modular credits.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "ECONOMICS",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

@@ -1,0 +1,22 @@
+{
+"moduleCode": "BDC6112",
+"moduleTitle": "Stochastic Processes",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "BDC6112", 
+            "children": []
+},
+"moduleDescription": "This module aims to provide PhD students with a rigorous introduction to stochastic processes. Examples showing how various concepts and techniques in stochastic processes can be adapted to solve real world problems will be discussed.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "SCHOOL OF BUSINESS",
+"department": "DECISION SCIENCES",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

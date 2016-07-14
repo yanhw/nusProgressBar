@@ -1,0 +1,45 @@
+{
+"moduleCode": "ST1131",
+"moduleTitle": "Introduction to Statistics",
+"moduleCredit": "4",
+"lockedModules":[
+            "IS4250",
+            "IE2130",
+            "ST2288",
+            "IE3101",
+            "DSC3216",
+            "ST2289",
+            "IE2130E",
+            "IE2101",
+            "FIN4111",
+            "ST2137",
+            "RE2201",
+            "IS5152",
+            "IS4240"
+        ],
+"preclusion": "ST1131A, ST1232, ST2334, CE2407, CN3421, EC2231, EC2303, PR2103, DSC2008. Engineering students except ISE students.",
+"prerequisite": "GCE \u2018AO\u2019 Level or H1 Pass in Mathematics or its equivalent or MA1301 or MA1301FC or MA1301X",
+"preclusionList": [
+            "ST2334",
+            "CE2407",
+            "ST1131A",
+            "DSC2008",
+            "PR2103",
+            "CN3421",
+            "EC2303",
+            "ST1232",
+            "EC2231"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "ST1131", 
+            "children": []
+},
+"moduleDescription": "This module introduces students to the basic concepts and the methods of statistics. A computer package is used to enhance learning and to enable students to analyse real life data. Topics include descriptive statistics, basic concepts of probability, sampling distribution, statistical estimation, hypothesis testing, linear regression. This module is targeted at students interested in Statistics who are able to meet the prerequisite. It is also an essential module for students in the following programmes: Industrial and Systems Engineering (FoE); E-Commerce (SoC); Project & Facilities Management and Real Estate (SDE).",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCIENCE",
+"department": "STATISTICS & APPLIED PROBABILITY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

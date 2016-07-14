@@ -1,0 +1,30 @@
+{
+"moduleCode": "CN1111X",
+"moduleTitle": "Chemical Engineering Principles",
+"moduleCredit": "4",
+"lockedModules":[
+            "CN2121",
+            "CN3132",
+            "CN3421",
+            "CN4238R",
+            "CN2116"
+        ],
+"preclusion": "CN1111, CN1111FC",
+"prerequisite": "H2 Mathematics, H2 Chemistry and H2 Physics (or PC1221 Fundamentals of Physics I) or equivalent",
+"preclusionList": [
+            "CN1111F",
+            "CN1111"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "CN1111X", 
+            "children": []
+},
+"moduleDescription": "This module provides students with a basic concept of chemical engineering processes and related problem-solving methods. It provides a comprehensive introduction to the principles of chemical engineering process analysis. The module begins with an overview of the chemical process industry and a discussion of several significant examples. Details of steady state material and energy balance, including recycles, phase change and reaction, form the core substance of the course. Other topics include simultaneous mass and energy balances and unsteady state balances. All concepts and principles are amply illustrated with relevant process examples. This module is targeted at level one engineering or science students.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "CHEMICAL & BIOMOLECULAR ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,3,0,]]
+}

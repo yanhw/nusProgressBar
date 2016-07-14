@@ -1,0 +1,22 @@
+{
+"moduleCode": "NUR5201",
+"moduleTitle": "Foundations Of Advanced Practice Nursing",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "NUR5201", 
+            "children": []
+},
+"moduleDescription": "This module encompasses three major components: The first component aims to provide fundamental aspects of advanced practice nursing including historical background, role development, competencies, conceptualisation, outcome evaluation, and regulations. The second part emphases the nursing profession development in response to healthcare reform and patient safety and quality care translate research to practice and health information system. The third part provides a foundation for understanding, critiquing, evaluating and using theories in role development and researches for advanced nursing practice.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "YONG LOO LIN SCHOOL OF MEDICINE",
+"department": "NURSING/ALICE LEE CTR FOR NURSING STUD",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

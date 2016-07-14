@@ -1,0 +1,51 @@
+{
+"moduleCode": "CS2101",
+"moduleTitle": "Effective Communication for Computing Professionals",
+"moduleCredit": "4",
+"lockedModules":[
+            "CP3880"
+        ],
+"preclusion": "CS2103 Software Engineering, IS2101 Business Technical Communication or its equivalent, ES2002, ES2007S, ES2007D, CG1413, EG1413 and ES1601.",
+"prerequisite": "Students have to complete ES1000 and/or ES1102 (if required to take the module/s) before reading this module.",
+"preclusionList": [
+            "IS2101",
+            "EG1413",
+            "ES1601",
+            "CS2103",
+            "ES2007S",
+            "CG1413",
+            "ES2002",
+            "ES2007D"
+        ],
+"parsedPrerequisite": {
+            " or ": [
+                "ES1000", 
+                "ES1102"
+            ]
+},
+"prerequisiteList": ["ES1000","ES1102"],
+"completePrerequisite": {
+            "name": "CS2101", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "ES1000", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "ES1102", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module aims to equip students with the skills needed to communicate technical information to technical and nontechnical audiences, and to create comprehensible software documentation. A student-centric approach will be adopted to encourage independent and collaborative learning while engaging students in team-based projects. Students will learn interpersonal and intercultural communication skills as well as hone their oral and written communication skills. Assessment modes include a variety of oral and written communication tasks such as reports, software guides, oral presentations, software demonstrations and project blogs.",
+"crossModule": "-1",
+"corequisite": "Students have to read CS2103T Software Engineering at the same time as this module.",
+"faculty": "NON-FACULTY-BASED DEPARTMENTS",
+"department": "CTR FOR ENGLISH LANGUAGE COMMUNICATION",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

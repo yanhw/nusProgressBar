@@ -1,0 +1,140 @@
+{
+"moduleCode": "PC3235",
+"moduleTitle": "Solid State Physics I",
+"moduleCredit": "4",
+"lockedModules":[
+            "PC3242",
+            "PC3241",
+            "PC3243",
+            "PC4236",
+            "PC4240",
+            "PC4253"
+        ],
+"preclusion": "EE3406 or PC2133",
+"prerequisite": "PC2130 or PC2130B",
+"preclusionList": [
+            "EE3406",
+            "PC2133"
+        ],
+"parsedPrerequisite": {
+            " or ": [
+                "PC2130", 
+                "PC2130B"
+            ]
+},
+"prerequisiteList": ["PC2130","PC1144","PC1432","MA1505","MA1506","MA1102R","MA1521","MA1101R","PC2130B","PC1432X","PC1433"],
+"completePrerequisite": {
+            "name": "PC3235", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "PC2130", 
+                            "children": [
+                                {
+                                    "name": "and", 
+                                    "children": [
+                                        {
+                                            "name": "or", 
+                                            "children": [
+                                                {
+                                                    "name": "PC1144", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "PC1432", 
+                                                    "children": []
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "or", 
+                                            "children": [
+                                                {
+                                                    "name": "and", 
+                                                    "children": [
+                                                        {
+                                                            "name": "MA1505", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "MA1506", 
+                                                            "children": [
+                                                                {
+                                                                    "name": "or", 
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "MA1102R", 
+                                                                            "children": []
+                                                                        }, 
+                                                                        {
+                                                                            "name": "MA1505", 
+                                                                            "children": []
+                                                                        }, 
+                                                                        {
+                                                                            "name": "MA1521", 
+                                                                            "children": []
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }, 
+                                                {
+                                                    "name": "and", 
+                                                    "children": [
+                                                        {
+                                                            "name": "MA1101R", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "MA1102R", 
+                                                            "children": []
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "PC2130B", 
+                            "children": [
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "PC1144", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "PC1432", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "PC1432X", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "PC1433", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This is a first course in solid state physics. It aims to lay the foundations for students seeking to major in physics as well as students studying in materials science and engineering. The lectures emphasize on the fundamental concepts of condensed matter, covering crystal structure and reciprocal lattice, crystal binding and elastic constants, crystal vibrations and thermal properties, free electron theory and physical properties of metals, electron in periodic potentials, and basic semiconductors. Simple model prediction data and the experimental data from real systems would be compared and discussed to help students develop an intuitive understanding of the subject.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "SCIENCE",
+"department": "PHYSICS",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

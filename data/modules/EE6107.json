@@ -1,0 +1,44 @@
+{
+"moduleCode": "EE6107",
+"moduleTitle": "Optimal Control Systems (Advanced)",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "EE5107 Optimal Control Systems, EE5105 Optimal Control Systems (old code for EE5107)",
+"prerequisite": "EE5101 / EE5101R Linear Systems (Cross-listed ME5401) OR EE5103 / EE5103R Computer Controls Systems (Crosslisted ME5403)",
+"preclusionList": [
+            "EE5107",
+            "EE5105"
+        ],
+"parsedPrerequisite": {
+            " or ": [
+                "EE5103R", 
+                "ME5403"
+            ]
+},
+"prerequisiteList": ["EE5103R","ME5403"],
+"completePrerequisite": {
+            "name": "EE6107", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "EE5103R", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "ME5403", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "Basic concepts and principles of system optimality with applications to control and state estimation will be taught in the module. Major topics covered are optimality, selection of cost functions, linear quadratic Gaussian controllers, Kalman filter, and model predictive control. The recent development in optimal system and control has brought in new topics and methods, which are covered in this module, including inverse optimality, linear matrix inequality, numerical optimal algorithms, randomized optimization algorithms, nonlinear H8",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "ELECTRICAL & COMPUTER ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

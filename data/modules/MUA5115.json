@@ -1,0 +1,23 @@
+{
+"moduleCode": "MUA5115",
+"moduleTitle": "Ensemble Study 5A",
+"moduleCredit": "4",
+"lockedModules":[
+            "MUA5116"
+        ],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "MUA5115", 
+            "children": []
+},
+"moduleDescription": "This module revolves around chamber / orchestral and related ensemble study specially designed for performance / composition majors. It allows the time and opportunity for students to become able ensemble participants in a variety of contexts.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "YONG SIEW TOH CONSERVATORY OF MUSIC",
+"department": "YONG SIEW TOH CONSERVATORY OF MUSIC",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

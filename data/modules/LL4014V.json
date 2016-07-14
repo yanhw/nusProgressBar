@@ -1,0 +1,24 @@
+{
+"moduleCode": "LL4014V",
+"moduleTitle": "Construction Law",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "Students who are taking or have taken LL4014",
+"prerequisite": "NUS Compulsory Core Curriculum or its equivalent",
+"preclusionList": [
+            "LL4014"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "LL4014V", 
+            "children": []
+},
+"moduleDescription": "The objective of this course is to introduce students to the legal principles that form the foundation of construction law and to the common practical problems that arise in this field. Topics will include: (a) general principles of construction law, including completion, defects, retention and certification; (b) basic provisions of construction contracts; (c) claims procedure & dispute resolution, including arbitration procedure; and (d) relevant provisions of standard form building contracts. This course will be of interest to students interested in construction practice or a practical approach to the study of law. This course is taught by partners from the Construction Practice Group of Wong Partnership.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "LAW",
+"department": "LAW",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

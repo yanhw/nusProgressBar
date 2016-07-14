@@ -1,0 +1,47 @@
+{
+"moduleCode": "CE2155",
+"moduleTitle": "Structural Mechanics and Materials",
+"moduleCredit": "4",
+"lockedModules":[
+            "OT5202",
+            "CE3166",
+            "CE5514",
+            "CE5513",
+            "CE3165",
+            "CE5604"
+        ],
+"preclusion": "NIL",
+"prerequisite": "EG1109FC/EG1109",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " or ": [
+                "EG1109F", 
+                "EG1109"
+            ]
+},
+"prerequisiteList": ["EG1109F","EG1109"],
+"completePrerequisite": {
+            "name": "CE2155", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "EG1109F", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "EG1109", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module equips students with knowledge and skills in structural mechanics, and concrete and steel as structural materials. The topics introduce the fundamentals of material constitutive behaviours and failure models to appreciate the use of materials in structural design. The topics also cover the applications of concrete and steel as structural materials including its properties, design and quality control in practice. The module is compulsory for civil engineering undergraduate students without which he will not be qualified to practise as a professional civil engineer.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "CIVIL & ENVIRONMENTAL ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

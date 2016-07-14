@@ -1,0 +1,84 @@
+{
+"moduleCode": "LSM3241",
+"moduleTitle": "Bioinformatics & Biocomputing",
+"moduleCredit": "4",
+"lockedModules":[
+            "ZB4171"
+        ],
+"preclusion": "NIL",
+"prerequisite": "LSM2102 and either LSM2104 or LSM2241",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " and ": [
+                "LSM2102", 
+                {
+                    " or ": [
+                        "LSM2104", 
+                        "LSM2241"
+                    ]
+                }
+            ]
+},
+"prerequisiteList": ["LSM2102","LSM1401","LSM1102","LSM2104","LSM2241","LSM1101"],
+"completePrerequisite": {
+            "name": "LSM3241", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "LSM2102", 
+                            "children": [
+                                {
+                                    "name": "and", 
+                                    "children": [
+                                        {
+                                            "name": "LSM1401", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "LSM1102", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "or", 
+                            "children": [
+                                {
+                                    "name": "LSM2104", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "LSM2241", 
+                                    "children": [
+                                        {
+                                            "name": "or", 
+                                            "children": [
+                                                {
+                                                    "name": "LSM1101", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "LSM1401", 
+                                                    "children": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module provides fundamentals in bioinformatics. Topics include sequence analysis and applications, molecular modeling and drug design, protein modeling, and data mining.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCIENCE",
+"department": "BIOLOGICAL SCIENCES",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

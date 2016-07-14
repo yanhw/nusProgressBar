@@ -1,0 +1,42 @@
+{
+"moduleCode": "FST2106",
+"moduleTitle": "Post Harvest Food Processing",
+"moduleCredit": "4",
+"lockedModules":[
+            "FST3104"
+        ],
+"preclusion": "NIL",
+"prerequisite": "FST1101 and LSM1101",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " and ": [
+                "FST1101", 
+                "LSM1101"
+            ]
+},
+"prerequisiteList": ["FST1101","LSM1101"],
+"completePrerequisite": {
+            "name": "FST2106", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "FST1101", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "LSM1101", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module introduces students to factors that result in the loss of quality characteristics of plant and animal produce, and discusses how such losses can be minimized by proper and effective handling of the fresh produce, from farm to market. This module also covers the various aspects of post-harvest processes and the products derived from fresh produce. The roles of irradiation and packaging in extending the shelf-life of animal and plant produce are also discussed.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCIENCE",
+"department": "CHEMISTRY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

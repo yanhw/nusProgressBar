@@ -1,0 +1,29 @@
+{
+"moduleCode": "NUR5302",
+"moduleTitle": "Advanced Practice Nursing II (Adult Health)",
+"moduleCredit": "6",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "NUR5101 Advanced Health Assessment NUR5102 Advanced Pathophysiology NUR5301 Advanced Practice Nursing I (Adult Health) PA2106A Pharmacology I",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["PA2106A"]
+},
+"prerequisiteList": ["PA2106A"],
+"completePrerequisite": {
+            "name": "NUR5302", 
+            "children": [
+                {
+                    "name": "PA2106A", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "This module aims to emphasis on clinical management of patients with altered health status in relation to neurology, renal, and endocrinology systems. Students will utilise knowledge and skills of pathophysiology, advanced health assessment and pharmocotherapeutics in the clinical management of such patients.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "YONG LOO LIN SCHOOL OF MEDICINE",
+"department": "NURSING/ALICE LEE CTR FOR NURSING STUD",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

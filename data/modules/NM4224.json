@@ -1,0 +1,22 @@
+{
+"moduleCode": "NM4224",
+"moduleTitle": "Sound and Interaction",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "Cohort 2011 and before: (Not applicable to SOC/SDE/ENG students) Completed 80 MCs, including 28 MCs in NM, with a minimum CAP of 3.50 or be on the Honours track. (For SOC/SDE/ENG students) Completed 80 MCs and obtain a minimum CAP of 3.50. Cohort 2012 onwards: (Not applicable to SOC/SDE/ENG students) Completed 80 MCs, including 28 MCs in NM, with a minimum CAP of 3.20 or be on the Honours track. (For SOC/SDE/ENG students) Completed 80 MCs and obtain a minimum CAP of 3.20.",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "NM4224", 
+            "children": []
+},
+"moduleDescription": "In this course we will develop and understanding of how sound works and can be designed to support the communication of information and of meaning. Topics to be covered include the psychology of sound, sound ecologies, sonifications of data, the use of sound in storytelling media such as film and games, the design of sonified objects, synthetic and algorithmic processes, bodily interaction, sonic art, and media support for live sound and music collaboration. We will also develop skills with computational tools and systems in order to create and deliver effective interactive media based on or including sound.",
+"crossModule": "-1",
+"corequisite": "Nil",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "COMMUNICATIONS AND NEW MEDIA",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

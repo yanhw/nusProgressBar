@@ -1,0 +1,22 @@
+{
+"moduleCode": "YHU2231",
+"moduleTitle": "Literary Translation Workshop",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "YHU2231", 
+            "children": []
+},
+"moduleDescription": "The literary translation workshop is a seminar-style course in the craft and theory of literary translation. Emphasis is placed on developing the practical skills needed to become a literary translator. Advanced reading abilities in at least one foreign language is required.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "-1",
+"department": "-1",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,]]
+}

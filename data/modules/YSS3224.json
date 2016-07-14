@@ -1,0 +1,29 @@
+{
+"moduleCode": "YSS3224",
+"moduleTitle": "International Finance",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "YSS2203 Intermediate Microeconomics YSS2214 Intermediate Macroeconomics",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["YSS2214"]
+},
+"prerequisiteList": ["YSS2214"],
+"completePrerequisite": {
+            "name": "YSS3224", 
+            "children": [
+                {
+                    "name": "YSS2214", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "This course is an overview of international macroeconomic theory and policy. It presents economic theories to foster understanding of international financial markets and the interrelationships of economic aggregates such as GDP, exchange rates, trade balances, etc. Models will be applied to understand the effects and implications of macroeconomic policies in the international arena. The course will also look at relevant current issues: the global financial crisis, international coordination in macroeconomic policy, the economics of the Euro, etc. Students should have a working knowledge of algebra, graphical techniques and the basics of micro- and macroeconomics.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "YALE-NUS COLLEGE",
+"department": "YALE-NUS COLLEGE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

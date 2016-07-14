@@ -1,0 +1,108 @@
+{
+"moduleCode": "CS3211",
+"moduleTitle": "Parallel and Concurrent Programming",
+"moduleCredit": "4",
+"lockedModules":[
+            "CS5223",
+            "CS6213"
+        ],
+"preclusion": "NIL",
+"prerequisite": "CS2106 or CG2271",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " or ": [
+                "CS2106", 
+                "CG2271"
+            ]
+},
+"prerequisiteList": ["CS2106","CS2100","CS1010","EE2007","EE2024","EE2020","EE1002","CG1108","EG1108","CS1010E","CG2271","CS1020"],
+"completePrerequisite": {
+            "name": "CS3211", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "CS2106", 
+                            "children": [
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "CS2100", 
+                                            "children": [
+                                                {
+                                                    "name": "CS1010", 
+                                                    "children": []
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "EE2007", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "EE2024", 
+                                            "children": [
+                                                {
+                                                    "name": "and", 
+                                                    "children": [
+                                                        {
+                                                            "name": "EE2020", 
+                                                            "children": [
+                                                                {
+                                                                    "name": "or", 
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "EE1002", 
+                                                                            "children": []
+                                                                        }, 
+                                                                        {
+                                                                            "name": "CG1108", 
+                                                                            "children": []
+                                                                        }, 
+                                                                        {
+                                                                            "name": "EG1108", 
+                                                                            "children": []
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }, 
+                                                        {
+                                                            "name": "CS1010E", 
+                                                            "children": []
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "CG2271", 
+                            "children": [
+                                {
+                                    "name": "CS1020", 
+                                    "children": [
+                                        {
+                                            "name": "CS1010", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "A concurrent system consists of a set of processes that executes simultaneously and that may collaborate by communicating and synchronising with one another. Examples of concurrent systems are parallel programs that describe sets of collaborating processes. This module introduces the design, development and debugging of parallel programs. It will build on the concurrency concepts gained from the Operating Systems module. It covers concepts and modelling tools for specifying and reasoning (about the properties of) concurrent systems and parallel programs. It also covers principles of performance analysis, asynchronous and asynchronous parallel programming, and engineering concurrent systems and parallel programs.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF COMPUTING",
+"department": "COMPUTER SCIENCE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

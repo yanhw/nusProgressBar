@@ -1,0 +1,24 @@
+{
+"moduleCode": "GEM1902G",
+"moduleTitle": "Junior Seminar: Proof: What\u2019s Truth got to do with it?",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "UTC1102G GEM1902GX",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "UTC1102G"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "GEM1902G", 
+            "children": []
+},
+"moduleDescription": "An essential part of an educated person is an independent desire to know the truth. In seeking the truth, one must often judge a proffered proof. This seminar will discuss the relationship between Truth and Proof in biology, ecology, history, justice, mathematics, medicine, philosophy, physics, religion, statistics, etc. This helps the student see both the hard, objective formulation of the two concepts in the sciences, as well as their soft, subjective abstraction in the humanities.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "NON-FACULTY-BASED DEPARTMENTS",
+"department": "TEMBUSU COLLEGE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

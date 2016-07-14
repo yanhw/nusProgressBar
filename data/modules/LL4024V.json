@@ -1,0 +1,24 @@
+{
+"moduleCode": "LL4024V",
+"moduleTitle": "Indonesian Law",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "Students who are taking or have taken LL4024",
+"prerequisite": "NUS Compulsory Core Curriculum or its equivalent",
+"preclusionList": [
+            "LL4024"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "LL4024V", 
+            "children": []
+},
+"moduleDescription": "This course will initiate the student to the basics of Indonesian law (adat law, Islamic law, legal pluralism, constitutional law, administrative law, civil law, judicial process) as well as to others aspects that are of concern to foreigners (foreign investment laws and protections, regional autonomy, mining laws etc.). It will also address some of the problems relating to law enforcement in Indonesia",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "LAW",
+"department": "LAW",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

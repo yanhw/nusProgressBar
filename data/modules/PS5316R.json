@@ -1,0 +1,22 @@
+{
+"moduleCode": "PS5316R",
+"moduleTitle": "Seminar In Public Administration",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "PS5316R", 
+            "children": []
+},
+"moduleDescription": "This is seminar is designed for graduate students in any subfield of political science. The module examines the intellectual history of public administration and the basic issues that confront it today. The seminar pays particular attention to administrative responsibility and ethics and to the formulation and implementation of public policy. To this end, it will emphasize the nexus of public administration and politics.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "-1",
+"department": "-1",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,]]
+}

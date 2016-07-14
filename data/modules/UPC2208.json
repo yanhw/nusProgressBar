@@ -1,0 +1,22 @@
+{
+"moduleCode": "UPC2208",
+"moduleTitle": "Molecular Courtship",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "Not applicable to USP modules.",
+"prerequisite": "Not applicable to USP First-Tier modules.",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "UPC2208", 
+            "children": []
+},
+"moduleDescription": "How does an understanding of molecular interactions help us to make sense of everyday chemical phenomena to important chemical technologies? For example why are plastics non-biodegradable? Why and how an LED lights up or gets quenched, or one drug molecule works while another results in side effects? These are important outcomes resulting directly or indirectly from initial intermolecular forces. Environmental issues such as differentiation between biodegradable and \u201cunfriendly\u201d materials can also be discussed. Stereochemical or 3D-controlled intermolecular forces allow an understanding of many chemical processes in biological systems.",
+"crossModule": "-1",
+"corequisite": "Not applicable to USP modules.",
+"faculty": "UNIVERSITY SCHOLARS PROGRAMME",
+"department": "UNIVERSITY SCHOLARS PROGRAMME",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

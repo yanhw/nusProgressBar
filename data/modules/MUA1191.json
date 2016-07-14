@@ -1,0 +1,30 @@
+{
+"moduleCode": "MUA1191",
+"moduleTitle": "Applied Voice Major Studies 1B",
+"moduleCredit": "5",
+"lockedModules":[
+            "MUA2190"
+        ],
+"preclusion": "NIL",
+"prerequisite": "MUA 1190 or Permission of Instructor",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["MUA1190"]
+},
+"prerequisiteList": ["MUA1190"],
+"completePrerequisite": {
+            "name": "MUA1191", 
+            "children": [
+                {
+                    "name": "MUA1190", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "Individual voice lessons specially designed for second semester, freshmen year performance majors. Technical skills, competency and suitable repertoire are expected at the appropriate levels. An individual performance will be required during the second semester of every academic year.",
+"crossModule": "-1",
+"corequisite": "Nil",
+"faculty": "YONG SIEW TOH CONSERVATORY OF MUSIC",
+"department": "YONG SIEW TOH CONSERVATORY OF MUSIC",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

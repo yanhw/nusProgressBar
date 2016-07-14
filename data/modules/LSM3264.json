@@ -1,0 +1,29 @@
+{
+"moduleCode": "LSM3264",
+"moduleTitle": "Environmental Biochemistry",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "LSM1101 Biochemistry of Biomolecules or Departmental Approval",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["LSM1101"]
+},
+"prerequisiteList": ["LSM1101"],
+"completePrerequisite": {
+            "name": "LSM3264", 
+            "children": [
+                {
+                    "name": "LSM1101", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "The module introduces various approaches based on current knowledge of biochemistry and molecular and cell biology to deal with various environmental issues in an urban city like Singapore. The major environmental issues such as global warming, air and water pollution, and energy crisis, need our immediate attention. Major topics include biomass, bioremediation, microbial metabolism for reduction of carbon dioxide, recovery of precious metals from electronic wastes, algae for biofuel production, waste water treatment and CO2 emissions, monitoring and treatment of water.",
+"crossModule": "-1",
+"corequisite": "Nil",
+"faculty": "YONG LOO LIN SCHOOL OF MEDICINE",
+"department": "BIOCHEMISTRY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

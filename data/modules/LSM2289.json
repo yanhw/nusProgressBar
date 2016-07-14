@@ -1,0 +1,51 @@
+{
+"moduleCode": "LSM2289",
+"moduleTitle": "Basic UROPS in Life Sciences II",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "LSM1101 or LSM1102 or LSM1103 or LSM1104; and Departmental Approval",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " or ": [
+                "LSM1101", 
+                "LSM1102", 
+                "LSM1103", 
+                "LSM1104"
+            ]
+},
+"prerequisiteList": ["LSM1101","LSM1102","LSM1103","LSM1104"],
+"completePrerequisite": {
+            "name": "LSM2289", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "LSM1101", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "LSM1102", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "LSM1103", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "LSM1104", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCIENCE",
+"department": "BIOLOGICAL SCIENCES",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,3,4,]]
+}

@@ -1,0 +1,22 @@
+{
+"moduleCode": "YSC3213",
+"moduleTitle": "Experimental Physics Laboratory",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "Juniors and Seniors students in Physics Track major.",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "YSC3213", 
+            "children": []
+},
+"moduleDescription": "Experimental physics will provide students with hands-on practical experience using techniques to investigate scientific problems that draw on concepts from different branches of physics (e.g. quantum, statistical, thermal, solid state and optical). It aims to enhance their understanding and apply scientific knowledge learnt in class. Emphasis will also be placed on the development of analytical skills in measurement and analysis.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "YALE-NUS COLLEGE",
+"department": "YALE-NUS COLLEGE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

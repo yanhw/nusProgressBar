@@ -1,0 +1,24 @@
+{
+"moduleCode": "GEM1902P",
+"moduleTitle": "Junior Seminar: Murals: Expressions from/on the Walls",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "UTC1102P GEM1902PX",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "UTC1102P"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "GEM1902P", 
+            "children": []
+},
+"moduleDescription": "This module introduces students to mural painting historically, theoretically and technically. Students will learn of murals from different cultures and periods to facilitate critical discussions on the roles of art, artists and aesthetics vis-\u00e0-vis notions of everyday life, public space and community. They will cultivate a strong sense of observation and curiosity about their surroundings, reporting on murals from antiquity, and of Singapore or their home countries. They will also acquire skills in the technical aspects of mural painting, from conceptualising designs to painting a mural. Finally, this module provides students an unusual opportunity for building collaborative and community spirit as they paint their chosen mural together.",
+"crossModule": "-1",
+"corequisite": "Nil",
+"faculty": "NON-FACULTY-BASED DEPARTMENTS",
+"department": "TEMBUSU COLLEGE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

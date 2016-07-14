@@ -1,0 +1,23 @@
+{
+"moduleCode": "NM3227",
+"moduleTitle": "Critical Game Design",
+"moduleCredit": "4",
+"lockedModules":[
+            "CS3283"
+        ],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "NM3227", 
+            "children": []
+},
+"moduleDescription": "Games and game-like interactive media are increasingly being designed by artists, philosophers, and activists for critical purposes such as getting people to reflect on aspects of their everyday lives, as a means of artistic expression, and as tools for social change. This module will engage students in designing different types of critical games, as well as exploring the social, cultural, and ethical considerations in their wider adoption.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "COMMUNICATIONS AND NEW MEDIA",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

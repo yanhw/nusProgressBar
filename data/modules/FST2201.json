@@ -1,0 +1,30 @@
+{
+"moduleCode": "FST2201",
+"moduleTitle": "Introduction to Human Nutrition",
+"moduleCredit": "4",
+"lockedModules":[
+            "FST3202"
+        ],
+"preclusion": "NIL",
+"prerequisite": "LSM1101",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["LSM1101"]
+},
+"prerequisiteList": ["LSM1101"],
+"completePrerequisite": {
+            "name": "FST2201", 
+            "children": [
+                {
+                    "name": "LSM1101", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "This module introduces the student to the science of nutrition. The format consists of a series of lectures, assigned readings and assignments that cover the fundamental concepts related to basic nutrition. By the end of this course, the student will possess the knowledge to interpret dietary labels, make informed food selections for a healthy, well-balanced diet and understand the relevant human physiological processes that transform food after the first bite. Students will be required to demonstrate a specific understanding of nutrition in health and human physiology, vitamins and minerals, protein, carbohydrates, dietary fats and energy metabolism.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCIENCE",
+"department": "CHEMISTRY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

@@ -1,0 +1,22 @@
+{
+"moduleCode": "GS6889A",
+"moduleTitle": "Academic Professional Skills II",
+"moduleCredit": "2",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "The skills capsules are timed.",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "GS6889A", 
+            "children": []
+},
+"moduleDescription": "The Professional Skills series enables students better to approach, present, and otherwise communicate their research. Students are helped to understand what graduate level research involves, how to gauge their own progress and set appropriate goals, to read critically, listen effectively, write-up and present their research to different audiences - peers, lab meetings, conferences, grant bodies, journals, and thesis examiners. Each skills capsule will be timed relevantly to accord with the different stages of the PhD degree.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "NUS GRAD SCH FOR INTEGRATIVE SCI & ENGG",
+"department": "NUS GRAD SCH FOR INTEGRATIVE SCI & ENGG",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

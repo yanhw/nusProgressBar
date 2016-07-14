@@ -1,0 +1,24 @@
+{
+"moduleCode": "GES1000",
+"moduleTitle": "Labour Law In Singapore",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "SSB1204",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "SSB1204"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "GES1000", 
+            "children": []
+},
+"moduleDescription": "The course introduces students to the development of industrial relations and labour laws in Singapore. Students can thus understand why labour relations are the way they are in Singapore. In addition, the course is not purely historical. A substantial part of the course is also aimed at looking at the current legal problems faced by employees and employers in Singapore. This course will be of general relevance to all as students are in all likelihood going to be employees or employers some day.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF BUSINESS",
+"department": "STRATEGY AND POLICY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

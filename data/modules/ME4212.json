@@ -1,0 +1,52 @@
+{
+"moduleCode": "ME4212",
+"moduleTitle": "Aircraft Structures",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "ME2114",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["ME2114"]
+},
+"prerequisiteList": ["ME2114","ME2113","EG1109F","EG1109","CE1109X"],
+"completePrerequisite": {
+            "name": "ME4212", 
+            "children": [
+                {
+                    "name": "ME2114", 
+                    "children": [
+                        {
+                            "name": "ME2113", 
+                            "children": [
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "EG1109F", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "EG1109", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "CE1109X", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "The module deals mainly with: the theory and analysis of plates in particular circular and rectangular plates; the theory of thin shells with emphasis in the stress analysis of pressure vessels; the analysis of thin-walled structures; and the application of energy methods to instability problems in columns and plates. This is an elective module and is intended to accommodate the needs of students who have an interest in the design and analysis of plate and shell structures. The materials in this module are applicable to the chemical, civil, mechanical, aeronautical engineering and engineering mechanics curricula.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "MECHANICAL ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

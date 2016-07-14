@@ -1,0 +1,24 @@
+{
+"moduleCode": "MLE2102",
+"moduleTitle": "Thermodynamics and Phase Diagrams",
+"moduleCredit": "4",
+"lockedModules":[
+            "MLE3102",
+            "MLE2103"
+        ],
+"preclusion": "NIL",
+"prerequisite": "A Level Physics or H1 Physics or H2 Physics or [PC1221 and PC1222]",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "MLE2102", 
+            "children": []
+},
+"moduleDescription": "Thermodynamic laws and relationship, concept of entropy and its relationship to heat, strategy for deriving thermodynamic relationships, general criterion for equilibrium, physical and chemical equilibria; Statistical thermodynamics: micro-states and macro-states, partition function; Phase diagram: unary and multicomponent systems, Clausius-Clapeyron equation, partial molar properties, Gibbs phase rule, applications of phase diagrams; Curvature effects in thermodynamics: surface excess properties, surface tension, phase equilibria, Gibbs adsorption equation; Basic electrochemistry.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "MATERIALS SCIENCE AND ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

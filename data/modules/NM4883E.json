@@ -1,0 +1,22 @@
+{
+"moduleCode": "NM4883E",
+"moduleTitle": "Health Communications and Social Marketing",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "NM4883E", 
+            "children": []
+},
+"moduleDescription": "Each year, millions of dollars are spent world-wide to combat health and other social problems such as HIV/AIDS, drug addiction, gambling, and ecological degradation. Communications and marketing play an important role in promoting behaviours that solve such problems. Through the use of texts, cases, discussion, and group project, students will understand the nature of these behaviour change strategies, their framework, and the theories they are based upon; they will also learn to critically analyse how non-profit organisations, government, and corporations are applying these frameworks and theories to solve various social problems.",
+"crossModule": "-1",
+"corequisite": "Nil",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "COMMUNICATIONS AND NEW MEDIA",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

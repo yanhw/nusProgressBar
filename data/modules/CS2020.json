@@ -1,0 +1,32 @@
+{
+"moduleCode": "CS2020",
+"moduleTitle": "Data Structures and Algorithms Accelerated",
+"moduleCredit": "6",
+"lockedModules":[
+            "IS3261"
+        ],
+"preclusion": "CG1102, CG1103, CS1020, CS1020E, CS2010, CS1102, CS1102C, CS1102S",
+"prerequisite": "Obtain a grade of at least A- in either CS1010 or CS1101S or CS1010S or CS1010FC or their equivalents",
+"preclusionList": [
+            "CS2010",
+            "CG1102",
+            "CG1103",
+            "CS1102",
+            "CS1020",
+            "CS1102C",
+            "CS1020E",
+            "CS1102S"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "CS2020", 
+            "children": []
+},
+"moduleDescription": "This module is an accelerated version that combines CS1020 and CS2010. It continues the introduction in CS1010, and emphasises object-oriented programming with application to data structures. Topics covered include object-oriented problem modeling with concepts of objects, classes and methods, object-oriented problem formulation and problem solving, data structure design principles and implementation strageties, abstraction and encapsulation of data structures, object-oriented programming constructs, use of APIs and class libraries, exception handling, lists, linked lists, stacks, queues, hash tables, trees, graphs, and their algorithmic design, various forms of sorting and searching methods, recursive algorithms, and algorithm analysis.",
+"crossModule": "-1",
+"corequisite": "Obtain a grade of at least A- in either CS1010 or  CS1101S Programming Methodology",
+"faculty": "SCHOOL OF COMPUTING",
+"department": "COMPUTER SCIENCE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

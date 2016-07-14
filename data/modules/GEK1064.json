@@ -1,0 +1,25 @@
+{
+"moduleCode": "GEK1064",
+"moduleTitle": "Psychology in Everyday Life",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "PLB1201 and PL1101E.",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "PLB1201",
+            "PL1101E"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "GEK1064", 
+            "children": []
+},
+"moduleDescription": "The module is designed to equip students who are not planning to major in psychology with basic literacy in the discipline. Students will acquire basic understanding of common human experiences, such as sleep, dreams, learning, and memory from a psychological perspective; and apply psychological knowledge to understand some of the common problematic behaviours we encounter, such as forgetfulness, sleep problems, addiction, eating disorders, depression, and mental retardation. Students will also learn about some of the practical issues, such as whether it is beneficial to boost one\u2019s self-esteem, whether subliminal persuasion works, and how we could find happiness.",
+        "CrossModule": "PLB1201", 
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "PSYCHOLOGY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

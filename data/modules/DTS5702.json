@@ -1,0 +1,22 @@
+{
+"moduleCode": "DTS5702",
+"moduleTitle": "C3 Systems",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "DTS5702", 
+            "children": []
+},
+"moduleDescription": "C3 SYSTEMS",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "NON-FACULTY-BASED DEPARTMENTS",
+"department": "TEMASEK DEFENCE SYSTEMS INSTITUTE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

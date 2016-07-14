@@ -1,0 +1,22 @@
+{
+"moduleCode": "NUR5101",
+"moduleTitle": "Advanced Health Assessment",
+"moduleCredit": "6",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "Advanced Pathophysiology",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "NUR5101", 
+            "children": []
+},
+"moduleDescription": "This module aims to provide a thorough understanding of health assessment and to develop advanced skills in performing history taking and physical examination. These skills are essential for diagnostic reasoning and clinical decision-making. Principles and techniques from the physical, health, and behavioural sciences are utilised to obtain health assessment data and make differential diagnoses and subsequently, the final diagnosis.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "YONG LOO LIN SCHOOL OF MEDICINE",
+"department": "NURSING/ALICE LEE CTR FOR NURSING STUD",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

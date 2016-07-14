@@ -1,0 +1,38 @@
+{
+"moduleCode": "CS1020E",
+"moduleTitle": "Data Structures and Algorithms I",
+"moduleCredit": "4",
+"lockedModules":[
+            "CS2010"
+        ],
+"preclusion": "CG1102, CG1103, CS1020, CS1102, CS1102C, CS1102S, CS2020",
+"prerequisite": "CS1010E or its equivalent",
+"preclusionList": [
+            "CG1102",
+            "CG1103",
+            "CS1102",
+            "CS1020",
+            "CS2020",
+            "CS1102C",
+            "CS1102S"
+        ],
+"parsedPrerequisite": {
+" and ": ["CS1010E"]
+},
+"prerequisiteList": ["CS1010E"],
+"completePrerequisite": {
+            "name": "CS1020E", 
+            "children": [
+                {
+                    "name": "CS1010E", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "This module is the second part of a three-part series on introductory programming and problem solving by computing. It continues the introduction that begins in CS1010, and emphasises objectoriented programming with application to simple data structures. Topics include object-oriented problem modeling with objects, classes and methods, object-oriented problem formulation and solving, data structure implementation strageties, abstraction and encapsulation of data structures, object-oriented programming constructs, APIs and class libraries, exception handling, lists, linked lists, stacks, queues, hash tables and their algorithmic design, sorting and searching methods, recursive algorithms, and Big-O notation. This module is appropriate for FoE students.",
+"crossModule": "-1",
+"corequisite": "Nil",
+"faculty": "SCHOOL OF COMPUTING",
+"department": "COMPUTER SCIENCE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

@@ -1,0 +1,26 @@
+{
+"moduleCode": "PF2501",
+"moduleTitle": "Structural Systems",
+"moduleCredit": "4",
+"lockedModules":[
+            "PF3305",
+            "PF3205"
+        ],
+"preclusion": "Students from Civil Engineering and students who passed BU2484.",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "BU2484"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "PF2501", 
+            "children": []
+},
+"moduleDescription": "This module covers the principles underlying the factors which influence the performance and stability of buildings through coverage of the forces and stresses in the structural components of buildings, and the characteristics of basic structural materials. The major topics covered include: concepts of forces, moments and equilibrium; properties of common structural materials; basic structural design of steel and reinforced concrete elements. Also covered are temporary works and structures, and foundations.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF DESIGN AND ENVIRONMENT",
+"department": "BUILDING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

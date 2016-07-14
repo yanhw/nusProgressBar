@@ -1,0 +1,28 @@
+{
+"moduleCode": "TM2401",
+"moduleTitle": "Engineering Mathematics II",
+"moduleCredit": "4",
+"lockedModules":[
+            "ME2142E"
+        ],
+"preclusion": "TE2002 or TC2401 or TC1402 or TM1402",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "TC1402",
+            "TM1402",
+            "TC2401",
+            "TE2002"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "TM2401", 
+            "children": []
+},
+
+"crossModule": "-1",
+"corequisite": "TG1401",
+"faculty": "ENGINEERING",
+"department": "BACHELOR OF TECHNOLOGY PROGRAMME",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

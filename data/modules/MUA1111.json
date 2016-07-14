@@ -1,0 +1,22 @@
+{
+"moduleCode": "MUA1111",
+"moduleTitle": "Piano Ensemble 1A",
+"moduleCredit": "2",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "MUA1111", 
+            "children": []
+},
+"moduleDescription": "Undergraduate piano majors are required to take this module as part of the chamber music programme. It is designed to develop reading skills an understanding of written music to foster accuracy and facility in performance at sight. The module is offered in conjunction with four-hand piano literature to acquire ensemble and performance experience through the piano-ensemble repertory of different periods and styles. The course also includes basic analysis and score reading.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "YONG SIEW TOH CONSERVATORY OF MUSIC",
+"department": "YONG SIEW TOH CONSERVATORY OF MUSIC",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

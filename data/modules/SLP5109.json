@@ -1,0 +1,22 @@
+{
+"moduleCode": "SLP5109",
+"moduleTitle": "Professional Practice 2",
+"moduleCredit": "6",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "SLP5109", 
+            "children": []
+},
+
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "YONG LOO LIN SCHOOL OF MEDICINE",
+"department": "DIVISION OF GRADUATE MEDICAL STUDIES",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,3,4,]]
+}

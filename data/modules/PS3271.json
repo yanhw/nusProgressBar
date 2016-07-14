@@ -1,0 +1,24 @@
+{
+"moduleCode": "PS3271",
+"moduleTitle": "Public Policy-Making",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "PS2242",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "PS2242"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "PS3271", 
+            "children": []
+},
+"moduleDescription": "This module covers the institutional and procedural dimensions of public policymaking. It introduces theories of policy-making, such as rationality, incrementalism, and policy networks, and it explores how major political institutions\u2014including executives, legislatures, bureaucracies and interest groups\u2014affect the policy-making process. The stages of policy-making, such as agenda-setting and policy formulation, implementation, evaluation and termination, are also considered. Case studies are used to illustrate these complex processes. The module is designed for students who are interested in governance and policy-making and may be considering a career in the public sector.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "POLITICAL SCIENCE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

@@ -1,0 +1,29 @@
+{
+"moduleCode": "BMA5327",
+"moduleTitle": "Family Business & Wealth Management",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "BMA5008",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["BMA5008"]
+},
+"prerequisiteList": ["BMA5008"],
+"completePrerequisite": {
+            "name": "BMA5327", 
+            "children": [
+                {
+                    "name": "BMA5008", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "This course provids in-depth conceptual and practical knowledge for managing family business and wealth. Family business is commonly thought to be small and unprofessional; and not lasting three generations. There are, however, a number of successful family firms, for example, Hermes, Tata, Toyota, and Ford Motors. This course highlights the challenges uniquely faced by business families and focuses on how to transform the family business to a family enterprise operating professionally; and how to preserve and transfer family business and wealth across generations.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF BUSINESS",
+"department": "DEAN'S OFFICE (BIZ)",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

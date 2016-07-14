@@ -1,0 +1,53 @@
+{
+"moduleCode": "IS2101",
+"moduleTitle": "Business and Technical Communication",
+"moduleCredit": "4",
+"lockedModules":[
+            "IS4010",
+            "BT3101",
+            "CP3880",
+            "IS3102"
+        ],
+"preclusion": "ES2002, ES2007D, ES2007S, CS2101, CG1413, CS2103T and ES1601.",
+"prerequisite": "Students who are required to read ES1000 and/or ES1102 must pass it/them before taking IS2101.",
+"preclusionList": [
+            "ES1601",
+            "CS2101",
+            "ES2007S",
+            "CG1413",
+            "ES2002",
+            "CS2103T",
+            "ES2007D"
+        ],
+"parsedPrerequisite": {
+            " or ": [
+                "ES1000", 
+                "ES1102"
+            ]
+},
+"prerequisiteList": ["ES1000","ES1102"],
+"completePrerequisite": {
+            "name": "IS2101", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "ES1000", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "ES1102", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "Business and Technical Communication a customized core module for the School of Computing, aims to give its students a professional edge in the competitive and interconnected job market by preparing and enhancing their professional communication skills in IT related work settings. By the end of the module, students will have an array of communicative skills. Students will be able to: - write effective and persuasive business letters/ email messages and proposals - speak and deliver confidently with and without multimodal aids both in prepared and impromptu speech situations such as meetings, job interviews, oral presentations and proposal presentations - have an enhanced awareness of intercultural and interpersonal concepts and skills - critically analyze communication contexts and use these skills in written and spoken assignments This is a 48-hour module taught over 12 weeks with 2 two-hour tutorials per week.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "NON-FACULTY-BASED DEPARTMENTS",
+"department": "CTR FOR ENGLISH LANGUAGE COMMUNICATION",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

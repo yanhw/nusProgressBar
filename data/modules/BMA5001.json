@@ -1,0 +1,22 @@
+{
+"moduleCode": "BMA5001",
+"moduleTitle": "Managerial Economics",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "BMA5001", 
+            "children": []
+},
+"moduleDescription": "The objective of this course is to provide a rigorous foundation in economic theory for analyzing the key managerial decision problems of firms and other economic organisations. The course develops the analytic tools of microeconomic theory for modeling the economic behaviour of economic agents (consumers, firms, asset owners etc.) and the functioning of markets, and shows how these tools can be applied to deal with problems of practical relevance to managers. The course takes a \"modernist\"approach, incorporating recent theoretical developments such as transaction costs theory, markets with asymmetric information, principal-agent models to enhance the student's appreciation of the analytic power and practical applicability of economic theory.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF BUSINESS",
+"department": "DEAN'S OFFICE (BIZ)",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

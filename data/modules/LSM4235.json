@@ -1,0 +1,43 @@
+{
+"moduleCode": "LSM4235",
+"moduleTitle": "Nuclear Mechanics and Genome Regulation",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "LSM2102",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["LSM2102"]
+},
+"prerequisiteList": ["LSM2102","LSM1401","LSM1102"],
+"completePrerequisite": {
+            "name": "LSM4235", 
+            "children": [
+                {
+                    "name": "LSM2102", 
+                    "children": [
+                        {
+                            "name": "and", 
+                            "children": [
+                                {
+                                    "name": "LSM1401", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "LSM1102", 
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module aims to develop an understanding of the relationship between physico-chemical constraints that underlie chromosome organization and its impact on regulating genetic information within the 3D nuclear architecture. In addition, mechanisms of nuclear mechanotransduction and its coupling to mechanofeedback genetic circuits during differentiation, development and in diseases will be discussed.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCIENCE",
+"department": "BIOLOGICAL SCIENCES",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

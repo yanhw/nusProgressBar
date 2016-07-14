@@ -1,0 +1,34 @@
+{
+"moduleCode": "LSM3265",
+"moduleTitle": "Entomology",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "LSM2251 Ecology and Environment",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["LSM2251"]
+},
+"prerequisiteList": ["LSM2251","LSM1103"],
+"completePrerequisite": {
+            "name": "LSM3265", 
+            "children": [
+                {
+                    "name": "LSM2251", 
+                    "children": [
+                        {
+                            "name": "LSM1103", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "Insects and other related terrestrial arthropod groups are the most diverse forms of life on earth. Insects are ideal models for studies in evolution, ecology, behaviour and the environment as the same body plan has been adapted to diverse functions, in almost all terrestrial environments, and in most human endeavour. This module will equip students with knowledge in insect dentification, phylogeny, ecology, beneficial and pestiferous interactions with humans, and methods for their control.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "SCIENCE",
+"department": "BIOLOGICAL SCIENCES",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

@@ -1,0 +1,55 @@
+{
+"moduleCode": "EL3202",
+"moduleTitle": "Phonetics and Phonology",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "EL2102 or EL2202",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " or ": [
+                "EL2102", 
+                "EL2202"
+            ]
+},
+"prerequisiteList": ["EL2102","EL1101E","GEK1011","EL2202"],
+"completePrerequisite": {
+            "name": "EL3202", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "EL2102", 
+                            "children": [
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "EL1101E", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "GEK1011", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "EL2202", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "In this module, we study the sound pattern of English, with an eye on developing a deeper understanding of the phonological phenomena in English in relation to crosslinguistic patterns. We investigate the segmental properties - phonemes and their distribution and alternation; as well as suprasegmental properties - how segments are organized into syllables, syllables into feet, and feet into words. As part of the phonetic bases for phonological patterns, we study the speech organs, the description and classification of speech sounds, and other aspects of articulatory phonetics relevant for phonological patterns.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "ENGLISH LANGUAGE & LITERATURE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

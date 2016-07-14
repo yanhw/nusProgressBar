@@ -1,0 +1,22 @@
+{
+"moduleCode": "LC1002F",
+"moduleTitle": "Introduction to Legal Theory (F)",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "LC1002F", 
+            "children": []
+},
+"moduleDescription": "The goal of this course is to provide students with a basic introduction to basic concepts, issues, and controversies of legal theory. The course will examine some or all of these topics: utilitarian and deontological moral theories; the relationship between morality and law; natural law and positivism; Critical Legal Studies (CLS); gender and the law; Asian values and jurisprudence, culture and the law; and law and economics. These approaches to law will be examined both in their own right and as perspectives from which positive law might be understood and critically assessed.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "LAW",
+"department": "LAW",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

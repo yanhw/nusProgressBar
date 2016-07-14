@@ -1,0 +1,96 @@
+{
+"moduleCode": "FST4202",
+"moduleTitle": "Nutritional Biochemistry",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "FST3102 and LSM2101",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " and ": [
+                "FST3102", 
+                "LSM2101"
+            ]
+},
+"prerequisiteList": ["FST3102","FST2102A","LSM1103","LSM2103","LSM1101","LSM1401","LSM1102","LSM2101"],
+"completePrerequisite": {
+            "name": "FST4202", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "FST3102", 
+                            "children": [
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "FST2102A", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "and", 
+                                            "children": [
+                                                {
+                                                    "name": "LSM1103", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "LSM2103", 
+                                                    "children": [
+                                                        {
+                                                            "name": "or", 
+                                                            "children": [
+                                                                {
+                                                                    "name": "LSM1101", 
+                                                                    "children": []
+                                                                }, 
+                                                                {
+                                                                    "name": "LSM1401", 
+                                                                    "children": []
+                                                                }, 
+                                                                {
+                                                                    "name": "LSM1102", 
+                                                                    "children": []
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "LSM2101", 
+                            "children": [
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "LSM1101", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "LSM1401", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "The aim of this module is to examine in depth the minor components of food and how these are important in health and disease. Methods of isolation and identification of the compounds will be discussed and how food processing may affect their concentrations and bio-availability. Claims for nutritional benefits from food supplements such as herbs will be examined and the labelling of foods as regards health claims will be discussed. The interactions of food components and effects on activity will be examined along with the special dietary needs for minor components (e.g. selected phytochemicals) in certain disease states.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCIENCE",
+"department": "CHEMISTRY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

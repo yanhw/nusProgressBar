@@ -1,0 +1,90 @@
+{
+"moduleCode": "MKT4411",
+"moduleTitle": "Marketing Strategy",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "MKT2401 or MKT2401A or MKT2401B",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " or ": [
+                "MKT2401", 
+                "MKT2401A", 
+                "MKT2401B"
+            ]
+},
+"prerequisiteList": ["MKT2401","MKT2401A","MKT1003","BH1003","BZ1003","BK2003","MKT2401B"],
+"completePrerequisite": {
+            "name": "MKT4411", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "MKT2401", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "MKT2401A", 
+                            "children": [
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "MKT1003", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "BH1003", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "BZ1003", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "BK2003", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "MKT2401B", 
+                            "children": [
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "MKT1003", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "BH1003", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "BZ1003", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "BK2003", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This is an advanced module in strategic marketing and covers the three areas of marketing strategy, marketing planning and marketing management and their inter-relationships. The perspective taken is that of a Chief Executive Officer looking at overall marketing issues and problems at the corporate and business unit levels. The module will cover the process, tools, and models of strategic analysis and their application for the development of marketing module will judiciously synthesise the twin areas of analytic approaches to strategy development and managerial approach to marketing decision making. The pedagogy therefore uses a combination of theory and models on the one hand and complex managerial case situations on the other to develop balanced marketing strategists comfortable with both marketing science and marketing decision making.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF BUSINESS",
+"department": "MARKETING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

@@ -1,0 +1,36 @@
+{
+"moduleCode": "NUR1118",
+"moduleTitle": "Anatomy and Physiology II",
+"moduleCredit": "4",
+"lockedModules":[
+            "NUR2115",
+            "NUR2117",
+            "NUR1120"
+        ],
+"preclusion": "AY1104 Anatomy PY1105 Physiology I PY1106 Physiology II",
+"prerequisite": "NUR1117 Anatomy and Physiology I",
+"preclusionList": [
+            "PY1105",
+            "AY1104",
+            "PY1106"
+        ],
+"parsedPrerequisite": {
+" and ": ["NUR1117"]
+},
+"prerequisiteList": ["NUR1117"],
+"completePrerequisite": {
+            "name": "NUR1118", 
+            "children": [
+                {
+                    "name": "NUR1117", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "This module will develop knowledge and understanding of the normal structure and function of the human body. Following an introduction to the basic principles of anatomy and physiology, learning will take a \u2018cell to organ-systems\u2019 approach to guide students learning. Body systems covered include: reproductive, human development, genes and inheritance, digestive, urinary, musculoskeletal, nervous including special senses. Knowledge of these systems is fundamental to, and underpins, the nursing practice modules including Medical/Surgical Nursing I in Year 1 Semester 2.",
+"crossModule": "-1",
+"corequisite": "Nil",
+"faculty": "YONG LOO LIN SCHOOL OF MEDICINE",
+"department": "NURSING/ALICE LEE CTR FOR NURSING STUD",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

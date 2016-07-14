@@ -1,0 +1,24 @@
+{
+"moduleCode": "BN2202S",
+"moduleTitle": "Introduction to Biotransport",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "BN2101S",
+"prerequisite": "BIE Stage 2 standing and Engineering students doing Minor in Bioengineering",
+"preclusionList": [
+            "BN2101S"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "BN2202S", 
+            "children": []
+},
+"moduleDescription": "This module will present fundamental transport solutions which model the major features of biological flow. The conservation of mass, momentum, and energy in a system will be studied and applied to blood flows in the cardiovascular system. Basic knowledge of non-Newtonian fluid mechanics will also be covered. Bifurcation flow and Hemorheology in macrocirculation and microcirculation will be discussed. Basic mass transfer will be introduced to the students.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "BIOMEDICAL ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,0,0,4,]]
+}

@@ -1,0 +1,43 @@
+{
+"moduleCode": "NM4401",
+"moduleTitle": "Honours Thesis",
+"moduleCredit": "15",
+"lockedModules":[
+],
+"preclusion": "NM4660",
+"prerequisite": "(1) Completed 110 MCs including 60 MCs of NM major requirements with a minimum SJAP of 4.00 and CAP of 3.50. Students may seek a waiver of the SJAP pre-requisite from the department if they have a minimum CAP of 4.25 after completing 110 MCs. (2) Pass NM4101 or NM4102",
+"preclusionList": [
+            "NM4660"
+        ],
+"parsedPrerequisite": {
+            " or ": [
+                "NM4101", 
+                "NM4102"
+            ]
+},
+"prerequisiteList": ["NM4101","NM4102"],
+"completePrerequisite": {
+            "name": "NM4401", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "NM4101", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "NM4102", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "Each student is required to conduct an independent research project on an approved topic under the supervision of a faculty member. The student may select a topic in any field of Communications and New Media. The topic may entail a technical aspect of Communications and New Media or an aspect which explores the application of Communications and New Media to an area of the Humanities and Social Sciences. The project will be submitted as an Honours Thesis.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "COMMUNICATIONS AND NEW MEDIA",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

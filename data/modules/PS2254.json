@@ -1,0 +1,22 @@
+{
+"moduleCode": "PS2254",
+"moduleTitle": "American Government and Politics",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "PS2254", 
+            "children": []
+},
+"moduleDescription": "The American system has been viewed as a model for countries around the world and, more recently, a lesson in the dangers of extreme individualism and irresponsible government. This module examines political institutions and practices in the United States, including the Constitution, the Presidency, Congress, and Judiciary, the federal system, the party system, and presidential and congressional elections. Because it has been intensively studied, the American political system provides a good introduction to the study of political science.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "POLITICAL SCIENCE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

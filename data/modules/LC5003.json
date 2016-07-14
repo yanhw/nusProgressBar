@@ -1,0 +1,22 @@
+{
+"moduleCode": "LC5003",
+"moduleTitle": "Common Law Legal System Of Singapore",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "LC5003", 
+            "children": []
+},
+"moduleDescription": "The Singapore legal system comes within the common law family, like that of the UK and the rest of the Commonwealth and the US. This course seeks to introduce the fundamentals of civil obligations to lawyers trained in the civil law, like the People?s Republic of China, Europe, Japan and many of our ASEAN partners (apart from Malaysia). Besides the substance of the laws in contract, tort and the legal system of S?pore, it also aims to introduce the foreign lawyers to the methodology and reasoning within these areas of the common law.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "LAW",
+"department": "LAW",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

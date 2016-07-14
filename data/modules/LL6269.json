@@ -1,0 +1,29 @@
+{
+"moduleCode": "LL6269",
+"moduleTitle": "Privacy and Intellectual Property",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "Privacy Law: Critical & Comparative Perspectives LL4169/LL5169/LL6169 LL4169V / LL5169V / LL6169V",
+"prerequisite": "NUS Compulsory Core Curriculum or its equivalent",
+"preclusionList": [
+            "LL5169",
+            "LL4169",
+            "LL6169",
+            "LL6169V",
+            "LL4169V",
+            "LL5169V"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "LL6269", 
+            "children": []
+},
+"moduleDescription": "Privacy may in some cases conflict with intellectual property but in other cases the two may go hand in hand and in addition other rights in personal information may further blur and complexity the boundaries. This module will explore the relationships between privacy, intellectual property and other rights in personal information in a range of contexts across different jurisdictions in an effort to explain and evaluate the current legal position, the various debates and proposals for improvements in the law.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "LAW",
+"department": "LAW",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

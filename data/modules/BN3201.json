@@ -1,0 +1,52 @@
+{
+"moduleCode": "BN3201",
+"moduleTitle": "Introduction To Biomechanics",
+"moduleCredit": "4",
+"lockedModules":[
+            "BN4203"
+        ],
+"preclusion": "NIL",
+"prerequisite": "EG1109FC/EG1109/CE1109/CE1109X",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " or ": [
+                "EG1109F", 
+                "EG1109", 
+                "CE1109", 
+                "CE1109X"
+            ]
+},
+"prerequisiteList": ["EG1109F","EG1109","CE1109","CE1109X"],
+"completePrerequisite": {
+            "name": "BN3201", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "EG1109F", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "EG1109", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "CE1109", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "CE1109X", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "The module aims to introduce students to the applications of engineering statics and dynamics to perform simple force analysis of the musculoskeletal system; give an appreciation of kinematics and kinetics of human motions; apply the fundamentals of strength of materials, i.e. stress and strain in biological systems, sheer force, bending moment and torsion; introduce biomechanics of soft and hard tissues.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "BIOMEDICAL ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

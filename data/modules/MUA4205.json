@@ -1,0 +1,46 @@
+{
+"moduleCode": "MUA4205",
+"moduleTitle": "Advanced Conducting II",
+"moduleCredit": "2",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "MUA4203 or MUA4204",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " or ": [
+                "MUA4203", 
+                "MUA4204"
+            ]
+},
+"prerequisiteList": ["MUA4203","MUA4105","MUA4204"],
+"completePrerequisite": {
+            "name": "MUA4205", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "MUA4203", 
+                            "children": [
+                                {
+                                    "name": "MUA4105", 
+                                    "children": []
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "MUA4204", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "Designed for the student who desires more intensive study in conducting.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "YONG SIEW TOH CONSERVATORY OF MUSIC",
+"department": "YONG SIEW TOH CONSERVATORY OF MUSIC",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

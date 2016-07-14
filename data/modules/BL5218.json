@@ -1,0 +1,22 @@
+{
+"moduleCode": "BL5218",
+"moduleTitle": "Studies In Conservation",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "BL5218", 
+            "children": []
+},
+"moduleDescription": "Species are becoming extinct at ay alarming rate (50-100 estimated), while natural habitats are being destroyed ? some scientists estimate an area the size of Taiwan each year is being removed. While the biological challenges facing conservation are immense (from understanding species dynamics, habitat systems, interactions etc.), the study of this discipline is compounded by its multidisciplinary nature. It is becoming increasing obvious that politics, markets forces, economic systems, legal frameworks, management regimes and philosophical concepts have major roles to play. These offer a wealth of opportunities for the detailed study of the discipline at the graduate level.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCIENCE",
+"department": "BIOLOGICAL SCIENCES",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

@@ -1,0 +1,22 @@
+{
+"moduleCode": "YID3201",
+"moduleTitle": "Conservation Biology",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "YID 1201 Introduction to Environmental Studies or permission of instructor",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "YID3201", 
+            "children": []
+},
+"moduleDescription": "An introduction to the principles of conservation biology, including population, community, and ecosystem-level approaches. Students will learn the basics of ecology and population genetics as they pertain to conservation, interrogate classic case studies in the field, and explore relevant examples from around Southeast Asia.",
+"crossModule": "-1",
+"corequisite": "YID 1201 Introduction to Environmental Studies or permission of instructor",
+"faculty": "YALE-NUS COLLEGE",
+"department": "YALE-NUS COLLEGE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

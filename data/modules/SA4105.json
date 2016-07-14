@@ -1,0 +1,23 @@
+{
+"moduleCode": "SA4105",
+"moduleTitle": "Java Programming",
+"moduleCredit": "6",
+"lockedModules":[
+            "SA4109"
+        ],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "SA4105", 
+            "children": []
+},
+"moduleDescription": "- Java Programming - Java Object Persistence - Web-based J2EE Applications - Wireless Technology - J2EE Project",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "NON-FACULTY-BASED DEPARTMENTS",
+"department": "INSTITUTE OF SYSTEMS SCIENCE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

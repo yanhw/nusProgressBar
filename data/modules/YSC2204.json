@@ -1,0 +1,35 @@
+{
+"moduleCode": "YSC2204",
+"moduleTitle": "Fundamentals of Programming",
+"moduleCredit": "5",
+"lockedModules":[
+            "YSC3203"
+        ],
+"preclusion": "NIL",
+"prerequisite": "YCC2133 Integrated Science 2 (Computer Science Track)",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["YCC2133"]
+},
+"prerequisiteList": ["YCC2133","YCC1132"],
+"completePrerequisite": {
+            "name": "YSC2204", 
+            "children": [
+                {
+                    "name": "YCC2133", 
+                    "children": [
+                        {
+                            "name": "YCC1132", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This course will teach you rigorous and systematic methods for developing and analyzing software. Our primary focus is on the specification, design, and analysis of algorithms and data structures, mostly in a functional style. You will learn to write code that is reliable, efficient, readable, maintainable, testable, verifiable, and beautiful.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "YALE-NUS COLLEGE",
+"department": "YALE-NUS COLLEGE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

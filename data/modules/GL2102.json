@@ -1,0 +1,32 @@
+{
+"moduleCode": "GL2102",
+"moduleTitle": "Global Political Economy",
+"moduleCredit": "4",
+"lockedModules":[
+            "IGL3550",
+            "GL3101",
+            "GL3550"
+        ],
+"preclusion": "NIL",
+"prerequisite": "GL1101E",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["GL1101E"]
+},
+"prerequisiteList": ["GL1101E"],
+"completePrerequisite": {
+            "name": "GL2102", 
+            "children": [
+                {
+                    "name": "GL1101E", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "One aspect of 'globalization' is the global character of economic practices such as trade, finance, and economic growth. But those practices rest upon a complex of relations among production, exchange, and power that constitute a global political economy. This module looks at the economic practices that drive globalization through the lens of this broader complex of relations. Drawing on the emerging interdisciplinary social science literature on global political economy, it provides a distinctively global perspective on economic issues such as emerging markets, power shifts in the global economy, global financial governance, and foreign aid.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "POLITICAL SCIENCE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

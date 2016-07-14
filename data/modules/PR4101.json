@@ -1,0 +1,72 @@
+{
+"moduleCode": "PR4101",
+"moduleTitle": "Pharmacotherapy II",
+"moduleCredit": "4",
+"lockedModules":[
+            "PR4102"
+        ],
+"preclusion": "NIL",
+"prerequisite": "PR3105",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["PR3105"]
+},
+"prerequisiteList": ["PR3105","PX3108","PY1106","PR1908","PP2107","PA2107","PP2106"],
+"completePrerequisite": {
+            "name": "PR4101", 
+            "children": [
+                {
+                    "name": "PR3105", 
+                    "children": [
+                        {
+                            "name": "and", 
+                            "children": [
+                                {
+                                    "name": "PX3108", 
+                                    "children": [
+                                        {
+                                            "name": "and", 
+                                            "children": [
+                                                {
+                                                    "name": "PY1106", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "PR1908", 
+                                                    "children": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }, 
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "PP2107", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "PA2107", 
+                                            "children": [
+                                                {
+                                                    "name": "PP2106", 
+                                                    "children": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "Learning objectives: To provide an introduction to the management of commonly encountered human disease states, focusing on rational drug therapy to optimize patient outcomes.Major topics: Parameters which affect drug therapy decisions in selected diseases: neurology, peptic ulcer, cardiovascular and infectious diseases.Target students: Pharmacy Final Year",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCIENCE",
+"department": "PHARMACY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

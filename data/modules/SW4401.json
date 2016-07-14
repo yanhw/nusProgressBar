@@ -1,0 +1,24 @@
+{
+"moduleCode": "SW4401",
+"moduleTitle": "Honours Thesis",
+"moduleCredit": "15",
+"lockedModules":[
+],
+"preclusion": "SW4660",
+"prerequisite": "Cohort 2011 and before: Completed 110 MCs including 60 MCs of SW major requirements with a minimum SJAP of 4.00 and CAP of 3.50. Cohort 2012 onwards: Completed 110 MCs including 60 MCs of SW major requirements with a minimum CAP of 3.50.",
+"preclusionList": [
+            "SW4660"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "SW4401", 
+            "children": []
+},
+"moduleDescription": "The student is required to undertake research, which should have an evaluative and/or policy component and which may require direct social work intervention. The Honours Thesis, which should be of about 12,000 words, is the equivalent of three modules. The student, in consultation with staff of the department, will choose the research topic.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "SOCIAL WORK",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

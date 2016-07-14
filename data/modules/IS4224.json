@@ -1,0 +1,66 @@
+{
+"moduleCode": "IS4224",
+"moduleTitle": "Service Systems",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "CS4361",
+"prerequisite": "Pass 80 MCs and [CS3361 or IS3220]",
+"preclusionList": [
+            "CS4361"
+        ],
+"parsedPrerequisite": {
+            " or ": [
+                "CS3361", 
+                "IS3220"
+            ]
+},
+"prerequisiteList": ["CS3361","IS3220","IS1103","IS1103F","IS1105"],
+"completePrerequisite": {
+            "name": "IS4224", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "CS3361", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "IS3220", 
+                            "children": [
+                                {
+                                    "name": "and", 
+                                    "children": [
+                                        {
+                                            "name": "or", 
+                                            "children": [
+                                                {
+                                                    "name": "IS1103", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "IS1103F", 
+                                                    "children": []
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "IS1105", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module aims at introducing students to the systems approach of analysing service systems. It will cover the fundamentals of systems thinking for business services, and extend to large scale IT-integrated services. Students will learn about holistic social-technical systems, considering all the important factors, such as IT, business organization, user characteristics and different cultural environments. Case studies form an integral component of this module, to enhance student knowledge and application skills.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF COMPUTING",
+"department": "INFORMATION SYSTEMS",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

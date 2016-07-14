@@ -1,0 +1,24 @@
+{
+"moduleCode": "GEK1535",
+"moduleTitle": "Our Atmosphere: A Chemical Perspective",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "GEH1020",
+"prerequisite": "Available to all students",
+"preclusionList": [
+            "GEH1020"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "GEK1535", 
+            "children": []
+},
+"moduleDescription": "After reading this module, students will have developed a deeper knowledge and a greater appreciation of the atmosphere. They will leave the course with a general understanding of some principals of elementary chemistry and perhaps some insight into how science is used to guide government policy. Topics are varied, but include global warming, the ozone hole, air pollution, the Gaia hypothesis, eco-philosophy and environmental politics. No students are excluded. Only an elementary knowledge of science is assumed.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCIENCE",
+"department": "CHEMISTRY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

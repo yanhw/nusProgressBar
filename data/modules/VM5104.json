@@ -1,0 +1,22 @@
+{
+"moduleCode": "VM5104",
+"moduleTitle": "Psychiatry, Psychosocial Care & Spiritual Issues in Palliative Care",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "VM5104", 
+            "children": []
+},
+"moduleDescription": "This module covers common psychosocial and spiritual issues in palliative care. Assessment and management of Anxiety and Depression as well as managing patients asking for hastened death will be included. There will be a section on grief and bereavement and caring for caregivers, including healthcare workers. Sexuality and body image and its impact on patients\u2019 psychosocial wellbeing will be covered in the module.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "YONG LOO LIN SCHOOL OF MEDICINE",
+"department": "DIVISION OF GRADUATE MEDICAL STUDIES",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

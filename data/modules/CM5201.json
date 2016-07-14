@@ -1,0 +1,22 @@
+{
+"moduleCode": "CM5201",
+"moduleTitle": "Practical Synthetic And Analytical Chemistry",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "For M.Sc. Coursework students only",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "CM5201", 
+            "children": []
+},
+"moduleDescription": "Objectives of Part 1 (Organic): To perform the experiments of basecatalyzed asymmetric Diels-Alder reactions using organocatalysts, and to characterize the products by using proton NMR (Nuclear Magnetic Resonance) and HPLC (High-Performance Liquid Chromatography). Most pharmaceutical compounds are chiral. For example, Thalidomide, Epinephrine, Ibuprofen and etc. The catalytical enantioselective Diels-Alder reaction is a powerful method to construct complex molecular structures (ref.: Angew Chem. Int. Ed., 2002, 41, p.1650-1667). HPLC is one method to distinguish the chirality of the organic compounds and proton NMR is a common technique to identify the organic compounds. In this organic section, three synthetic experiments will be performed by the students individually. Demonstrations on the operations of both HPLC and NMR will be given. Objectives of Part 2 (Analytical): To perform analysis on a range of samples using four analytical techniques/instruments: capillary electrophoresis; gas chromatography - mass spectrometry; electrochemistry and the scanning electron microscope (SEM). Electrochemistry: The main objective of the electrochemical study is to investigate the corrosion resistant performances of polymer coatings on Ni wires in chloride containing solution using three different electrochemical methods. Students will learn how to use linear polarization, Tafel plot and alternating current (AC) impedance for corrosion studies. SEM: The SEM will be used in three analysis modes, the secondary electrons (SE), backscattering electrons (BSE) and energy dispersive x-ray spectroscopy (EDX) to analyse different types of carbon nanotubes. Samples include carbon nanotubes, carbon nanotubes with Pt nanoparticles and carbon nanotubes with different metal deposition.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCIENCE",
+"department": "CHEMISTRY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

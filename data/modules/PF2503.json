@@ -1,0 +1,24 @@
+{
+"moduleCode": "PF2503",
+"moduleTitle": "M&E Engineering Systems",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "PF2104",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "PF2104"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "PF2503", 
+            "children": []
+},
+"moduleDescription": "This module covers the mechanical and electrical systems in modern facilities, with special focus on a building. It considers the principles and design of major systems such as: heating, ventilation and air conditioning systems, power generation and distribution, vertical and horizontal transportation systems, fire fighting systems, and communication and security systems. This module also covers the engineering principles and key factors influencing the thermal environments and quantification of these factors, functional requirements of utilities, and the design of systems to local codes. Students are recommended to take PF1104 Environmental Science for Building before taking this module.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "SCHOOL OF DESIGN AND ENVIRONMENT",
+"department": "BUILDING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

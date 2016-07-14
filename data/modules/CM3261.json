@@ -1,0 +1,64 @@
+{
+"moduleCode": "CM3261",
+"moduleTitle": "Environmental Chemistry",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "CM3241 or CM2142 or CM2166 or by permission",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " or ": [
+                "CM3241", 
+                "CM2142", 
+                "CM2166"
+            ]
+},
+"prerequisiteList": ["CM3241","CM2142","CM1131","FST1101","CM1401","CM2166"],
+"completePrerequisite": {
+            "name": "CM3261", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "CM3241", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "CM2142", 
+                            "children": [
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "CM1131", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "FST1101", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "CM1401", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "CM2166", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "Environmental terms and concepts; scope of environmental chemistry; the atmosphere, lithosphere and hydrosphere; soil, water and air pollution; chemical toxicology; methods of environmental analysis and monitoring; global environmental problems; natural resources and energy; environmental management; risk assessment.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCIENCE",
+"department": "CHEMISTRY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

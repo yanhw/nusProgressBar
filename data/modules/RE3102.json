@@ -1,0 +1,38 @@
+{
+"moduleCode": "RE3102",
+"moduleTitle": "Advanced Topics In Urban Planning",
+"moduleCredit": "4",
+"lockedModules":[
+            "RE4221",
+            "RE3222"
+        ],
+"preclusion": "RE4490 Selected Topics in Urban Planning and Management",
+"prerequisite": "RE2103 Urban Planning",
+"preclusionList": [
+            "RE4490"
+        ],
+"parsedPrerequisite": {
+" and ": ["RE2103"]
+},
+"prerequisiteList": ["RE2103","RE1102"],
+"completePrerequisite": {
+            "name": "RE3102", 
+            "children": [
+                {
+                    "name": "RE2103", 
+                    "children": [
+                        {
+                            "name": "RE1102", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "The module will provide an in-depth understanding of planning by critical examination of the nature and characteristics of planning theory and practice. There will be a discussion of plan implementation and interaction with the real estate market. The institutional framework for planning, regulatory processes, strategic and local planning, and public participation would be discussed, using case studies in Singapore and other cities. A selection of planning theories will be introduced to provide the background for critical understanding and evaluation of planning practice.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF DESIGN AND ENVIRONMENT",
+"department": "REAL ESTATE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

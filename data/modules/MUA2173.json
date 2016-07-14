@@ -1,0 +1,22 @@
+{
+"moduleCode": "MUA2173",
+"moduleTitle": "Acoustics and Psychoacoustics",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "Basic Recording 2",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "MUA2173", 
+            "children": []
+},
+"moduleDescription": "This course module covers the physics and perceptioncognition of sound. Fundamental behaviour of sound waves in free field and enclosed spaces, noise control, signal processing, and perception-cognition of a wide range of aural signals will be introduced.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "YONG SIEW TOH CONSERVATORY OF MUSIC",
+"department": "YONG SIEW TOH CONSERVATORY OF MUSIC",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

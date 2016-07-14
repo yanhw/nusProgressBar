@@ -1,0 +1,45 @@
+{
+"moduleCode": "LAR4201",
+"moduleTitle": "Arabic 5",
+"moduleCredit": "5",
+"lockedModules":[
+            "LAR4202"
+        ],
+"preclusion": "NIL",
+"prerequisite": "Successful completion of LAR3202 or by placement test.",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["LAR3202"]
+},
+"prerequisiteList": ["LAR3202","LAR3201","LAR2201","LAR1201"],
+"completePrerequisite": {
+            "name": "LAR4201", 
+            "children": [
+                {
+                    "name": "LAR3202", 
+                    "children": [
+                        {
+                            "name": "LAR3201", 
+                            "children": [
+                                {
+                                    "name": "LAR2201", 
+                                    "children": [
+                                        {
+                                            "name": "LAR1201", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "LAR4201 Arabic 5 is an advanced module and a continuation of LAR3201 Arabic 4. In this module, students will achieve better oral fluency, considerable ability in listening and reading comprehension, and better writing proficiency. Oral activities in form of group work, pair work, role-plays, and presentations will be conducted regularly in both lectures and tutorials. Students will listen to authentic listening comprehension materials, such as lectures, newscasts, and talk shows. In addition to readings on a variety of topics the students will read stories. Using the vocabulary learned in lectures and tutorials, students will write compositions on different topics.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "CENTRE FOR LANGUAGE STUDIES",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

@@ -1,0 +1,25 @@
+{
+"moduleCode": "GEK1509",
+"moduleTitle": "The Emerging Nanoworld",
+"moduleCredit": "4",
+"lockedModules":[
+            "SP2251"
+        ],
+"preclusion": "GEH1028",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "GEH1028"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "GEK1509", 
+            "children": []
+},
+"moduleDescription": "This module will acquaint students with the rapid development of the nanoworld with insights into the impact of this emerging technology on our society, environment and human life. The essence of nanoscience and technology lies in the understanding and manipulation of molecules. The advances in these fields are expected to significantly influence our lives in the spheres of medical, engineering, ethical and environmental issues. This module will discuss the potential benefits and challenges of novel nanotechnologies. How does nanotechnology affect society and human interaction? How will nanodevices and nanomaterials change our lives in the future?",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCIENCE",
+"department": "PHYSICS",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

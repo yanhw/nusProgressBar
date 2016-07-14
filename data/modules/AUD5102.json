@@ -1,0 +1,25 @@
+{
+"moduleCode": "AUD5102",
+"moduleTitle": "Anatomy & Physiology",
+"moduleCredit": "2",
+"lockedModules":[
+            "AUD5108",
+            "AUD5110",
+            "AUD5112"
+        ],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "AUD5102", 
+            "children": []
+},
+"moduleDescription": "This module provides an understanding of the structure (anatomy) and function (physiology) of the ear and the brain as well as the peripheral balance organ. Students will also be introduced to the peripheral organs involved in normal speech production.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "YONG LOO LIN SCHOOL OF MEDICINE",
+"department": "DIVISION OF GRADUATE MEDICAL STUDIES",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

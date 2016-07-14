@@ -1,0 +1,59 @@
+{
+"moduleCode": "CE5883B",
+"moduleTitle": "Topics in Hydraulic & Water Resources \u2013 Modelling Climate Change",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "UG: MA1505 and MA1506, or equivalents PG: Knowledge in Linear Algebra and Differential Equations, or Instructor Permission",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " and ": [
+                "MA1505", 
+                "MA1506"
+            ]
+},
+"prerequisiteList": ["MA1505","MA1506","MA1102R","MA1521"],
+"completePrerequisite": {
+            "name": "CE5883B", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "MA1505", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "MA1506", 
+                            "children": [
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "MA1102R", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "MA1505", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "MA1521", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This course introduces the basic mathematical, statistical, physical, and chemical knowledge required to model the Earth\u2019s climate system. Given the complexity of the system, theory of how to approximate equations and make them relevant over temporal and spatial scales is introduced. Through experimentation and hands on learning, students will learn to understand and build models of varying complexity describing the Earth and its Climate System. Finally, students will use and modify these models to perform their own studies on relevant questions. Topics include: Conservation equations; Dynamics; Thermodynamics, physics, chemistry; Radiative Forcing, Response, and Feedbacks; Coupling Across Scales; Non-linearities.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "CIVIL & ENVIRONMENTAL ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

@@ -1,0 +1,41 @@
+{
+"moduleCode": "PH3301",
+"moduleTitle": "Classical Chinese Philosophy II",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "PH2301 or GEK2038",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " or ": [
+                "PH2301", 
+                "GEK2038"
+            ]
+},
+"prerequisiteList": ["PH2301","GEK2038"],
+"completePrerequisite": {
+            "name": "PH3301", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "PH2301", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "GEK2038", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This is the second part of a two part course which offers an introduction to philosophical debate in the Warring States period of ancient China, the Classical Age of Chinese Philosophy and the seedbed from which grew all of the native currents of thought that survived from traditional China. Continuing from Part I, we will be discussing Later Mohist Logic, Gongsun Long and other \u2018Sophists\u2019, Zhuangzi, Xunzi and Hanfeizi in this module. The approach of the course will be both historical and critical, and we will attempt to both situate Classical Chinese philosophical discourse in its intellectual-historical context and to bring out its continuing relevance.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "PHILOSOPHY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

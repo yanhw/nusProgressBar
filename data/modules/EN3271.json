@@ -1,0 +1,61 @@
+{
+"moduleCode": "EN3271",
+"moduleTitle": "Advanced Playwriting",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "TS4212",
+"prerequisite": "EN2271 or permission of instructor.",
+"preclusionList": [
+            "TS4212"
+        ],
+"parsedPrerequisite": {
+" and ": ["EN2271"]
+},
+"prerequisiteList": ["EN2271","EL1101E","EN1101E","TS1101E","GEK1011","GEK1000","GEM1003"],
+"completePrerequisite": {
+            "name": "EN3271", 
+            "children": [
+                {
+                    "name": "EN2271", 
+                    "children": [
+                        {
+                            "name": "or", 
+                            "children": [
+                                {
+                                    "name": "EL1101E", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "EN1101E", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "TS1101E", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "GEK1011", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "GEK1000", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "GEM1003", 
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "In this module students will write (and rewrite!) two fulllength plays of no less than 60 minutes in length. These will be critiqued intensively by their classmates and by the instructor. Students are at liberty to pick their own topics and genres. Specific historical or critical readings and dramatic texts will be assigned based on individual students interests (e.g. musical theatre, Theatre of the Oppressed). This is a demanding creative writing module requiring self-direction and artistic independence.",
+"crossModule": "-1",
+"corequisite": "So long as students have fulfilled EN1101E/GEK1000, they may take this EN level-3000 module in the same semester as they are taking EN2201 or EN2202 or EN2203 or EN2204.",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "ENGLISH LANGUAGE & LITERATURE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

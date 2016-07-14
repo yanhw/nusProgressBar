@@ -1,0 +1,41 @@
+{
+"moduleCode": "TS2880A",
+"moduleTitle": "Modern Drama in Asia",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "TS1101E or GEM1003",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " or ": [
+                "TS1101E", 
+                "GEM1003"
+            ]
+},
+"prerequisiteList": ["TS1101E","GEM1003"],
+"completePrerequisite": {
+            "name": "TS2880A", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "TS1101E", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "GEM1003", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "Asian theatre practitioners of the twentieth century have greatly contributed to the conception and formation of modernity in Asia. This module highlights three key historical moments in Asia\u2019s modernising process: Asia\u2019s initial contacts with Europe and America at the turn of the century; the postwar era between the 1960s and the 1980s when political activism was at its height; and the more recent global and local theatre collaborations in the region. This module combines the study of theatre history, play texts, and digital recordings of performances to trace the development and evolution of modern Asia from a theatre\u2019s perspective.",
+"crossModule": "-1",
+"corequisite": "Nil",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "ENGLISH LANGUAGE & LITERATURE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

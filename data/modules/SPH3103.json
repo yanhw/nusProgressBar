@@ -1,0 +1,22 @@
+{
+"moduleCode": "SPH3103",
+"moduleTitle": "Public Health Economics",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "SPH3103", 
+            "children": []
+},
+"moduleDescription": "This course will provide an introduction to the field of health economics. We will discuss some of the key concepts that health economists use to analyze the production, distribution, and organization of health care services and delivery (including market structure, demand and supply, incentives and financing mechanisms) and apply these concepts to selected current issues in health policy. Students will learn economic principles and apply them through a semester-long research project on a critical public health issue.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "SAW SWEE HOCK SCHOOL OF PUBLIC HEALTH",
+"department": "SAW SWEE HOCK SCHOOL OF PUBLIC HEALTH",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

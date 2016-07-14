@@ -1,0 +1,95 @@
+{
+"moduleCode": "EC3343",
+"moduleTitle": "International Finance",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "EC3341",
+"prerequisite": "EC2101 and EC2102",
+"preclusionList": [
+            "EC3341"
+        ],
+"parsedPrerequisite": {
+            " and ": [
+                "EC2101", 
+                "EC2102"
+            ]
+},
+"prerequisiteList": ["EC2101","EC1101E","EC1301","USE2301","BSP1005","BH1005","EC2102","BH2001"],
+"completePrerequisite": {
+            "name": "EC3343", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "EC2101", 
+                            "children": [
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "EC1101E", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "EC1301", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "USE2301", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "BSP1005", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "BH1005", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "EC2102", 
+                            "children": [
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "EC1101E", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "EC1301", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "USE2301", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "BSP1005", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "BH2001", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module deals with the theory and practice of international macroeconomics and finance. The objective of this module is to give students a theoretical framework to think about a wide variety of current issues in international finance: current account deficit, global imbalances, exchange rate determination, monetary policy in an open economy setting, and global financial crisis in 2008.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "ECONOMICS",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

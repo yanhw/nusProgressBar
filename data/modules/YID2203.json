@@ -1,0 +1,22 @@
+{
+"moduleCode": "YID2203",
+"moduleTitle": "Ecology and Ecosystems",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "YID2203", 
+            "children": []
+},
+"moduleDescription": "Ecology investigates the complex interactions between organisms and their environment, including other organisms. This course asks how life-history strategies, environmental conditions, and local biotic interactions (e.g. competition, trophic interactions) shape the structure and dynamics of natural communities (e.g. functional composition, diversity, productivity, stability, and food webs). It also explores how natural communities form metacommunities over larger spatial scales and across ecosystems boundaries. Students draw on selected case studies to examine (1) links between biodiversity and ecosystem productivity, stability, and resilience; and (2) management options for biodiversity and ecosystem services in human-dominated landscapes.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "YALE-NUS COLLEGE",
+"department": "YALE-NUS COLLEGE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

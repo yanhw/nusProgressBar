@@ -1,0 +1,22 @@
+{
+"moduleCode": "OT5301",
+"moduleTitle": "Subsea Systems Engineering",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "OT5301", 
+            "children": []
+},
+"moduleDescription": "This module is designed for persons interested in the subsea systems engineering in offshore oil and gas production. Its contents are focused on giving an overview and understanding of subsea systems employed in the subsea production and processing of oil & gas. Contents to cover subsea systems, equipment and their architecture, offshore exploration, drilling, well completion, subsea processing of oil & gas, subsea control systems, flowline, pipline and risers, etc. A structured programme of lectures, seminars, term papers, mini-projects and a final examination are included in this module.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "ENGINEERING",
+"department": "MECHANICAL ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

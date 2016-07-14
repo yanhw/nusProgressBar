@@ -1,0 +1,138 @@
+{
+"moduleCode": "LSM4212",
+"moduleTitle": "Pharmacogenetics and Drug Responses",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "LSM3211 or LSM3221",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " or ": [
+                "LSM3211", 
+                "LSM3221"
+            ]
+},
+"prerequisiteList": ["LSM3211","LSM2101","LSM1101","LSM1401","LSM2103","LSM1102","LSM3221"],
+"completePrerequisite": {
+            "name": "LSM4212", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "LSM3211", 
+                            "children": [
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "LSM2101", 
+                                            "children": [
+                                                {
+                                                    "name": "or", 
+                                                    "children": [
+                                                        {
+                                                            "name": "LSM1101", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "LSM1401", 
+                                                            "children": []
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "LSM2103", 
+                                            "children": [
+                                                {
+                                                    "name": "or", 
+                                                    "children": [
+                                                        {
+                                                            "name": "LSM1101", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "LSM1401", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "LSM1102", 
+                                                            "children": []
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "LSM3221", 
+                            "children": [
+                                {
+                                    "name": "LSM3211", 
+                                    "children": [
+                                        {
+                                            "name": "or", 
+                                            "children": [
+                                                {
+                                                    "name": "LSM2101", 
+                                                    "children": [
+                                                        {
+                                                            "name": "or", 
+                                                            "children": [
+                                                                {
+                                                                    "name": "LSM1101", 
+                                                                    "children": []
+                                                                }, 
+                                                                {
+                                                                    "name": "LSM1401", 
+                                                                    "children": []
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }, 
+                                                {
+                                                    "name": "LSM2103", 
+                                                    "children": [
+                                                        {
+                                                            "name": "or", 
+                                                            "children": [
+                                                                {
+                                                                    "name": "LSM1101", 
+                                                                    "children": []
+                                                                }, 
+                                                                {
+                                                                    "name": "LSM1401", 
+                                                                    "children": []
+                                                                }, 
+                                                                {
+                                                                    "name": "LSM1102", 
+                                                                    "children": []
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module will examine the scientific bases for all aspects of human variability in clinical responses to drugs and other xenobiotics. The course will provide both the theoretical and technical know-how to conduct and interpret simple studies relating to intraindividual, interindividual as well as interpopulational differences in drug responses.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "YONG LOO LIN SCHOOL OF MEDICINE",
+"department": "PHARMACOLOGY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

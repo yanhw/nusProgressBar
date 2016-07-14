@@ -1,0 +1,29 @@
+{
+"moduleCode": "FST2289",
+"moduleTitle": "Basic UROPS in Food Science & Technology II",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "FST1101 and Departmental Approval",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["FST1101"]
+},
+"prerequisiteList": ["FST1101"],
+"completePrerequisite": {
+            "name": "FST2289", 
+            "children": [
+                {
+                    "name": "FST1101", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "his module is an extension of FST2288 and a more detailed and prolonged study stretching over two semesters.",
+"crossModule": "-1",
+"corequisite": "Nil",
+"faculty": "SCIENCE",
+"department": "CHEMISTRY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,3,4,]]
+}

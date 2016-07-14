@@ -1,0 +1,66 @@
+{
+"moduleCode": "EE4101",
+"moduleTitle": "RF Communications",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "EE3104C",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["EE3104C"]
+},
+"prerequisiteList": ["EE3104C","EE2011","MA1505","MA1506","MA1102R","MA1521"],
+"completePrerequisite": {
+            "name": "EE4101", 
+            "children": [
+                {
+                    "name": "EE3104C", 
+                    "children": [
+                        {
+                            "name": "EE2011", 
+                            "children": [
+                                {
+                                    "name": "and", 
+                                    "children": [
+                                        {
+                                            "name": "MA1505", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "MA1506", 
+                                            "children": [
+                                                {
+                                                    "name": "or", 
+                                                    "children": [
+                                                        {
+                                                            "name": "MA1102R", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "MA1505", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "MA1521", 
+                                                            "children": []
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "Radio and microwave systems are used for information transmission. This module therefore introduces the student to a broad range of enabling knowledge and skills commonly employed by RF and microwave engineers to specify, analyse and design radio and microwave transmission systems. Topics covered: Time-varying EM fields: guided waves, evanescent modes and plane-wave propagation. Radiation: radiation mechanism, magnetic vector potential, current distribution on a thin wire, Hertzian dipole, Half-wave dipole & monopole. RF Antennas: parameters, aperture antennas and arrays. RF Amplification: stability, gain and small-signal narrowband design. RF Generation: conditions for oscillation, oscillator design and dielectric resonators. RF Receivers: receiver and mixer parameters. RF Systems: system gain and noise figure, satellite and terrestrial systems.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "ELECTRICAL & COMPUTER ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

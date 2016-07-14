@@ -1,0 +1,30 @@
+{
+"moduleCode": "MUA5116",
+"moduleTitle": "Ensemble Study 5B",
+"moduleCredit": "4",
+"lockedModules":[
+            "MUA6115"
+        ],
+"preclusion": "NIL",
+"prerequisite": "MUA5115 Ensemble Study 5A",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["MUA5115"]
+},
+"prerequisiteList": ["MUA5115"],
+"completePrerequisite": {
+            "name": "MUA5116", 
+            "children": [
+                {
+                    "name": "MUA5115", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "This module continues to consoldate and hone experience around chamber / orchestral and related ensemble study specially designed for performance / composition majors. Students gain greater responsibility in their roles within the ensembles, including assuming leadership and organizational roles where applicable.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "YONG SIEW TOH CONSERVATORY OF MUSIC",
+"department": "YONG SIEW TOH CONSERVATORY OF MUSIC",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

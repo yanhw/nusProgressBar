@@ -1,0 +1,185 @@
+{
+"moduleCode": "MA4271",
+"moduleTitle": "Differential Geometry of Curves and Surfaces",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "MA3215",
+"prerequisite": "(MA1104 or MA1104S or MA2221 or MA1507 or MA1505 or MA2311) and MA2101",
+"preclusionList": [
+            "MA3215"
+        ],
+"parsedPrerequisite": {
+            " and ": [
+                {
+                    " or ": [
+                        "MA1104", 
+                        "MA1104S", 
+                        "MA2221", 
+                        "MA1507", 
+                        "MA1505", 
+                        "MA2311"
+                    ]
+                }, 
+                "MA2101"
+            ]
+},
+"prerequisiteList": ["MA1104","MA1102","MA1102R","MA1505","MA1505C","MA1521","EE1401","EE1461","EG1402","MA1104S","MA2221","MA1507","MA2311","MA1312","MA1421","MA2101","MA1101","MA1101R","MA1506","MA1508","GM1302","GM1308"],
+"completePrerequisite": {
+            "name": "MA4271", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "or", 
+                            "children": [
+                                {
+                                    "name": "MA1104", 
+                                    "children": [
+                                        {
+                                            "name": "or", 
+                                            "children": [
+                                                {
+                                                    "name": "MA1102", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MA1102R", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MA1505", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MA1505C", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MA1521", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "EE1401", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "EE1461", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "EG1402", 
+                                                    "children": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }, 
+                                {
+                                    "name": "MA1104S", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "MA2221", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "MA1507", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "MA1505", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "MA2311", 
+                                    "children": [
+                                        {
+                                            "name": "or", 
+                                            "children": [
+                                                {
+                                                    "name": "MA1102R", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MA1312", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MA1421", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MA1521", 
+                                                    "children": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "MA2101", 
+                            "children": [
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "MA1101", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "MA1101R", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "MA1506", 
+                                            "children": [
+                                                {
+                                                    "name": "or", 
+                                                    "children": [
+                                                        {
+                                                            "name": "MA1102R", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "MA1505", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "MA1521", 
+                                                            "children": []
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "MA1508", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "GM1302", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "GM1308", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "Students of this module will learn how to apply their knowledge in advanced calculus and linear algebra to the study of the geometry of smooth curves and surfaces in the three dimensional Euclidean space. Major topics: theory of smooth space curves, differentiable structures on a smooth surface, local theory of the geometry of smooth surfaces, the first and second fundamental form, Guass map, parallel transport, geodesics, global properties of surfaces: triangulation, Euler number and orientation, global Gauss-Bonnet formula and its applications.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCIENCE",
+"department": "MATHEMATICS",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

@@ -1,0 +1,29 @@
+{
+"moduleCode": "YSS3214",
+"moduleTitle": "Abnormal Psychology",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "YSS2201 Understanding Behaviour and Cognition",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["YSS2201"]
+},
+"prerequisiteList": ["YSS2201"],
+"completePrerequisite": {
+            "name": "YSS3214", 
+            "children": [
+                {
+                    "name": "YSS2201", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "This course introduces students to the field of abnormal psychology and the treatment of psychological disorders.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "YALE-NUS COLLEGE",
+"department": "YALE-NUS COLLEGE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

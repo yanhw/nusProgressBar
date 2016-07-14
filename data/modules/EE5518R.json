@@ -1,0 +1,22 @@
+{
+"moduleCode": "EE5518R",
+"moduleTitle": "Vlsi Digital Circuit Design",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "EE5518R", 
+            "children": []
+},
+"moduleDescription": "This module guides the students with the design aspects of digital integrated circuits. It covers concepts of basic digital CMOS building blocks, combinational and sequential logic circuits, dynamic logic circuits, interconnect, timing and power issue of the digital integrated circuits. Low-power design and design verification are also covered in this module. The concepts are implemented and enhanced through assignments and several projects that involve practical design and use of design tools. This module provides the students with a solid background on analysis and design of the custom digital integrated circuits. Maximum class size 50.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "ELECTRICAL & COMPUTER ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

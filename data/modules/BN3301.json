@@ -1,0 +1,71 @@
+{
+"moduleCode": "BN3301",
+"moduleTitle": "Introduction To Biomaterials",
+"moduleCredit": "4",
+"lockedModules":[
+            "MLE4203",
+            "BN4301"
+        ],
+"preclusion": "NIL",
+"prerequisite": "[(CM1121 or CM1501) plus (LSM1101 or LSM1401 or MLE1101)] or MLE3104",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " or ": [
+                "LSM1101", 
+                "LSM1401", 
+                "MLE1101", 
+                "MLE3104"
+            ]
+},
+"prerequisiteList": ["LSM1101","LSM1401","MLE1101","MLE3104","CM1121","CM1501"],
+"completePrerequisite": {
+            "name": "BN3301", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "LSM1101", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "LSM1401", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "MLE1101", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "MLE3104", 
+                            "children": [
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "MLE1101", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "CM1121", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "CM1501", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "The objective of this module is to give students a strong materials science and engineering base to biomaterials engineering. The principles of materials science and engineering with particular attention to topics most relevant to biomedical engineering will be covered. This would include atomic structures, hard treatment, fundamental of corrosion, manufacturing processes and characterisation of materials. The structure-property relationships of metals, ceramics, polymers and composites as well as hard and soft tissues such as bone, teeth, cartilage, ligament, skin, muscle and vasculature will be described. Behaviour of materials in the physiological environment will be focus. The target students are those who have no background in materials science and engineering but would like to study to biomaterials as a subject in bioengineering.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "ENGINEERING",
+"department": "BIOMEDICAL ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

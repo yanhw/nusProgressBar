@@ -1,0 +1,43 @@
+{
+"moduleCode": "CE5604",
+"moduleTitle": "Advanced Concrete Technology",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "CE2155, or CE4 standing or higher",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["CE2155"]
+},
+"prerequisiteList": ["CE2155","EG1109F","EG1109"],
+"completePrerequisite": {
+            "name": "CE5604", 
+            "children": [
+                {
+                    "name": "CE2155", 
+                    "children": [
+                        {
+                            "name": "or", 
+                            "children": [
+                                {
+                                    "name": "EG1109F", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "EG1109", 
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module provides students with in-depth knowledge on the role of constituent materials of concrete such as cements, mineral admixtures, and chemical admixtures and their interactions that affect properties of fresh and hardened concrete. It also provides students with in-depth knowledge on concrete response to stresses, time-dependent deformations, and durability of concrete exposed to severe environments. The module discusses the basic considerations and design philosophy for performance-based design of concrete mixtures and production of concrete. It also discusses the progress in concrete technology and the latest development on high-strength, high-performance, lightweight, and self compacting concrete. Sustainable development in construction industry and use of recycled aggregates and other recycled materials will be discussed as well. The module is targeted at post-graduate and final year undergraduate students who will gain knowledge from the module to complement their skill in structural design and to prepare them for their career as professional engineers.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "CIVIL & ENVIRONMENTAL ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

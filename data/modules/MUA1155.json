@@ -1,0 +1,22 @@
+{
+"moduleCode": "MUA1155",
+"moduleTitle": "First Year Woodwinds Class A",
+"moduleCredit": "2",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "MUA1155", 
+            "children": []
+},
+"moduleDescription": "First Year Woodwinds Class (FYBC) is a class designed to introduce and familiarize the student with the skills and knowledge necessary for professional-level woodwinds playing. The course will consist of two primary components divided over 10 sessions throughout the semester. One: \u201cLearning through Listening,\u201d will be classroom based and will introduce the history and literature of orchestral woodwinds playing. Two: \u201cApplied Woodwinds Techniques,\u201d will be playing based and will utilize in-class \u201cwoodwinds lab\u201d activities to apply basic woodwinds playing and woodwinds ensemble techniques in a group setting.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "YONG SIEW TOH CONSERVATORY OF MUSIC",
+"department": "YONG SIEW TOH CONSERVATORY OF MUSIC",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

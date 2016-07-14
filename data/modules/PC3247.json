@@ -1,0 +1,112 @@
+{
+"moduleCode": "PC3247",
+"moduleTitle": "Modern Optics",
+"moduleCredit": "4",
+"lockedModules":[
+            "PC5247"
+        ],
+"preclusion": "PC2231",
+"prerequisite": "Students who have passed either PC2131 or EE2005",
+"preclusionList": [
+            "PC2231"
+        ],
+"parsedPrerequisite": {
+            " or ": [
+                "PC2131", 
+                "EE2005"
+            ]
+},
+"prerequisiteList": ["PC2131","PC1143","PC1432","MA1505","MA1506","MA1102R","MA1521","MA1101R","EE2005"],
+"completePrerequisite": {
+            "name": "PC3247", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "PC2131", 
+                            "children": [
+                                {
+                                    "name": "and", 
+                                    "children": [
+                                        {
+                                            "name": "or", 
+                                            "children": [
+                                                {
+                                                    "name": "PC1143", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "PC1432", 
+                                                    "children": []
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "or", 
+                                            "children": [
+                                                {
+                                                    "name": "and", 
+                                                    "children": [
+                                                        {
+                                                            "name": "MA1505", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "MA1506", 
+                                                            "children": [
+                                                                {
+                                                                    "name": "or", 
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "MA1102R", 
+                                                                            "children": []
+                                                                        }, 
+                                                                        {
+                                                                            "name": "MA1505", 
+                                                                            "children": []
+                                                                        }, 
+                                                                        {
+                                                                            "name": "MA1521", 
+                                                                            "children": []
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }, 
+                                                {
+                                                    "name": "and", 
+                                                    "children": [
+                                                        {
+                                                            "name": "MA1101R", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "MA1102R", 
+                                                            "children": []
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "EE2005", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "The objective of this module is to establish the interconnectedness of knowledge between principles of optics and modern sciences/technologies and identify the applications in our daily life. It covers wave properties, refraction and dispersion, interference, Michelson interferometer, Fabry-Perot cavity and optical resonator, interference filter, Fraunhofer and Fresnel diffraction, resolution limit, Fourier transformation, holography; polarisation, birefringence and wave plates, light absorption and emission, lasers. This module is targeted at physics and non-physics students, who are interested in principles of modern optics.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCIENCE",
+"department": "PHYSICS",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

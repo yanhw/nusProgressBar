@@ -1,0 +1,25 @@
+{
+"moduleCode": "AY1130",
+"moduleTitle": "Human Anatomy and Physiology I",
+"moduleCredit": "4",
+"lockedModules":[
+            "PA1113",
+            "PY1131",
+            "PX2108"
+        ],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "AY1130", 
+            "children": []
+},
+"moduleDescription": "The module encompasses core material on aspects of human anantomy and physiology with reference to relevant clinical examples. Topics for the module include the following human systems: 1. cell, integumentary and musculoskeletal, 2. cardiovascular, 3. Haematology and related immunology 4. Respiratory and 5. endocrine",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "YONG LOO LIN SCHOOL OF MEDICINE",
+"department": "ANATOMY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

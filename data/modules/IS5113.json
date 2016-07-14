@@ -1,0 +1,55 @@
+{
+"moduleCode": "IS5113",
+"moduleTitle": "Computer Mediated Communications",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "CS2250 or (IS1103 and IS1105)",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " or ": [
+                "CS2250", 
+                {
+                    " and ": [
+                        "IS1103", 
+                        "IS1105"
+                    ]
+                }
+            ]
+},
+"prerequisiteList": ["CS2250","IS1103","IS1105"],
+"completePrerequisite": {
+            "name": "IS5113", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "CS2250", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "and", 
+                            "children": [
+                                {
+                                    "name": "IS1103", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "IS1105", 
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "Computer and communications technologies are changing the ways in which individuals and groups communicate. The impact goes beyond one-to-one communications to the formation and operation of virtual and semi-virtual groups and work environments. The module examines the mediation of such technologies on verbal and nonverbal communications, feedback, intra-personal communications, interpersonal communications, small group communications, organisational communications, and communication goals. Technologies include basic media such as email, phone, fax, chat board, bulletin board, computer conferencing, and video conferencing. In addition, integrated systems such as group support systems and negotiation support systems will be used for advanced illustrations.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF COMPUTING",
+"department": "INFORMATION SYSTEMS",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

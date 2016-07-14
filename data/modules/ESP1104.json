@@ -1,0 +1,24 @@
+{
+"moduleCode": "ESP1104",
+"moduleTitle": "Introduction to Electronic Systems",
+"moduleCredit": "4",
+"lockedModules":[
+            "ESP2110",
+            "ESP2109"
+        ],
+"preclusion": "NIL",
+"prerequisite": "'A' level Physics or equivalent",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "ESP1104", 
+            "children": []
+},
+"moduleDescription": "The first part of this course consists of an introduction to Analog Electronics. Students will learn about basic circuit laws, resistive networks, inductors, capacitors, transient responses, complex impedance, frequency response and filter design. They then go on to cover active devices, such as diodes and their use in rectifiers, load-line analysis, basic transistor characteristics, common emitter and common collector amplifier circuits, operational amplifiers and their applications. The second part of the course covers digital electronics, which includes basic logic gates, combinatorial logic circuits, flip-flops, sequential logic circuits, digital signals and data acquisition systems. Students will have 12 practical sessions which involve them making up widely used circuits, designed to complement lectures and give them a hands-on introduction to Electronic Systems.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "ENGINEERING SCIENCE PROGRAMME",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

@@ -1,0 +1,22 @@
+{
+"moduleCode": "CZ5226",
+"moduleTitle": "Advanced Bioinformatics",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "Departmental approval",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "CZ5226", 
+            "children": []
+},
+"moduleDescription": "This module is meant for entering graduate students who want to do bioinformatics but without the undergraduate background. The syllabus is similar to CZ4226 but the workload is higher. Overview of bioinformatics and its role in biology. Protein sequence analysis algorithms. Sequence comparison and scoring functions: PAM, BLOSUM, Motifs. Prediction of Protein function and Protein-Protein Binding. Protein Structural prediction methods.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCIENCE",
+"department": "PHARMACY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

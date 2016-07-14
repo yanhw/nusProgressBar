@@ -1,0 +1,29 @@
+{
+"moduleCode": "BMA5525",
+"moduleTitle": "Competitive Strategies For Smes And Startups",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "BMA5009",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["BMA5009"]
+},
+"prerequisiteList": ["BMA5009"],
+"completePrerequisite": {
+            "name": "BMA5525", 
+            "children": [
+                {
+                    "name": "BMA5009", 
+                    "children": []
+                }
+            ]
+},
+
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF BUSINESS",
+"department": "DEAN'S OFFICE (BIZ)",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

@@ -1,0 +1,46 @@
+{
+"moduleCode": "LSM2291",
+"moduleTitle": "Fundamental Techniques in Microbiology",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "LSM1101 or LSM1102 or LSM1103",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " or ": [
+                "LSM1101", 
+                "LSM1102", 
+                "LSM1103"
+            ]
+},
+"prerequisiteList": ["LSM1101","LSM1102","LSM1103"],
+"completePrerequisite": {
+            "name": "LSM2291", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "LSM1101", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "LSM1102", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "LSM1103", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module gives an overview of microbial diversity, the biological properties of microbes, methods and approaches in the study of microbiology. At the end of the module, students should have fundamental knowledge of microbiology, including tools in the study of cells and microbes and the awareness of biosafety, and students should be excited by the microbial world and wishing to know more.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "YONG LOO LIN SCHOOL OF MEDICINE",
+"department": "MICROBIOLOGY & IMMUNOLOGY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

@@ -1,0 +1,46 @@
+{
+"moduleCode": "YSC3220",
+"moduleTitle": "Rings and Fields",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "YSC2209 Proof; YSC3204 Group Theory Experience with mathematical proof-writing and set theory, equivalent to that of the prerequisite Proof course; familiarity with groups, equivalent to that of the pre-requisite Group Theory course.",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " and ": [
+                "YSC2209", 
+                "YSC3204"
+            ]
+},
+"prerequisiteList": ["YSC2209","YSC3204"],
+"completePrerequisite": {
+            "name": "YSC3220", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "YSC2209", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "YSC3204", 
+                            "children": [
+                                {
+                                    "name": "YSC2209", 
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "Rings and fields are fundamental objects in abstract algebra which arise in a variety of contexts and share meaningful similarities with many familiar number systems. Within a ring or field, one may add, subtract, and multiply, and some familiar axioms hold. This course introduces ring and field theories through a rigorous exploration of polynomial rings, matrix rings, algebraic integers, and finite fields. Factorization will play a central role throughout and major topics will include ideals, quotients, homomorphisms, adjunction, integral domains, unique factorization domains, principal ideal domains, Euclidean domains, and field extensions.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "YALE-NUS COLLEGE",
+"department": "YALE-NUS COLLEGE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

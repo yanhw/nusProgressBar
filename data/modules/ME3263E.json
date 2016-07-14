@@ -1,0 +1,24 @@
+{
+"moduleCode": "ME3263E",
+"moduleTitle": "Design for Manufacturing and Assembly",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "TM3263",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "TM3263"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "ME3263E", 
+            "children": []
+},
+
+"crossModule": "-1",
+"corequisite": "ME3162E",
+"faculty": "ENGINEERING",
+"department": "BACHELOR OF TECHNOLOGY PROGRAMME",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

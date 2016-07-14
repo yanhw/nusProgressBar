@@ -1,0 +1,74 @@
+{
+"moduleCode": "TE3801",
+"moduleTitle": "Robust Design Of Electronic Circuits",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "EE2005E or EE2021E & TE2003",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " and ": [
+                {
+                    " or ": [
+                        "EE2005E", 
+                        "EE2021E"
+                    ]
+                }, 
+                "TE2003"
+            ]
+},
+"prerequisiteList": ["EE2005E","EE2021E","TE2003","TE2002","TE2102","TG1401"],
+"completePrerequisite": {
+            "name": "TE3801", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "or", 
+                            "children": [
+                                {
+                                    "name": "EE2005E", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "EE2021E", 
+                                    "children": []
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "TE2003", 
+                            "children": [
+                                {
+                                    "name": "TE2002", 
+                                    "children": [
+                                        {
+                                            "name": "or", 
+                                            "children": [
+                                                {
+                                                    "name": "TE2102", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "TG1401", 
+                                                    "children": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This purpose of this module is to learn the effects of, and ways of mitigating, random manufacturing variations and failure of components and systems. This module is targetted at students wishing to pursue careers in electronic manufacturing industries. Topics covered: Review of probability and statistics. Concepts of tolerance analysis and design. Methods of tolerance design including the Monte-Carlo method. Tolerance sensitivity and its applications. Reliability concepts. Device reliability. System reliability. Modelling and monitoring reliability. Burn-in and accelerated wear.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "BACHELOR OF TECHNOLOGY PROGRAMME",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

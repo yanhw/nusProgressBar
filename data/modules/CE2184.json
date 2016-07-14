@@ -1,0 +1,22 @@
+{
+"moduleCode": "CE2184",
+"moduleTitle": "Infrastructure & The Environment",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "CE2184", 
+            "children": []
+},
+"moduleDescription": "Civil infrastructure has significant impact on the natural, social, economic and human environments. Engineers have a significant role to play in proposing and realising technical solutions that are economically feasible and environmentally sustainable. Sustainable infrastructure development must consider all significant project impacts in a holistic way through a methodical impact assessment process. This module introduces the concepts to conceptualize and evaluate proposals for infrastructure development in a holistic and sustainable way.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "CIVIL & ENVIRONMENTAL ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

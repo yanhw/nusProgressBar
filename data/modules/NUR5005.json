@@ -1,0 +1,22 @@
+{
+"moduleCode": "NUR5005",
+"moduleTitle": "Seminar in Translational Medicine",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "NUR5005", 
+            "children": []
+},
+"moduleDescription": "This seminar series provides a framework for students to understand a relatively new initiative in medicine and nursing; translational research. Through an iterative process, key themes in the evolution of scientific discovery and its application to clinical practice will be presented by speakers from different spheres of medicine. The emphasis is on how healthcare professionals use scientific evidence to deliver rational treatments with tangible evidence of benefit for patients.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "YONG LOO LIN SCHOOL OF MEDICINE",
+"department": "NURSING/ALICE LEE CTR FOR NURSING STUD",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

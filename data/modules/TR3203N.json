@@ -1,0 +1,24 @@
+{
+"moduleCode": "TR3203N",
+"moduleTitle": "Start-up Case Study & Analysis",
+"moduleCredit": "8",
+"lockedModules":[
+],
+"preclusion": "TR3103",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "TR3103"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "TR3203N", 
+            "children": []
+},
+"moduleDescription": "This module involves the writing of a case study on the start-up process and challenges faced by the internship host companies of the students at the overseas college. Students will apply the concepts and frameworks learned in entrepreneurship courses to document the key processes of companies in the real world.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF BUSINESS",
+"department": "STRATEGY AND POLICY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

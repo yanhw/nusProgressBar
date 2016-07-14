@@ -1,0 +1,82 @@
+{
+"moduleCode": "ME5301",
+"moduleTitle": "Flow Systems Analysis",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "ME2134 Fluid Mechanics I and ME2135 Fluid Mechanics II or equivalent",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " and ": [
+                "ME2134", 
+                "ME2135"
+            ]
+},
+"prerequisiteList": ["ME2134","PC1431","PC1431F","PC1431X","ME2135"],
+"completePrerequisite": {
+            "name": "ME5301", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "ME2134", 
+                            "children": [
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "PC1431", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "PC1431F", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "PC1431X", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "ME2135", 
+                            "children": [
+                                {
+                                    "name": "ME2134", 
+                                    "children": [
+                                        {
+                                            "name": "or", 
+                                            "children": [
+                                                {
+                                                    "name": "PC1431", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "PC1431F", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "PC1431X", 
+                                                    "children": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "In this module, students will learn to analyse fluid systems under steady and unsteady operations. It covers the steady flow system analysis, transient flow analysis, sinusoidal oscillation analysis, fluid power and control, flow characteristics of system components, computer applications in flow system analysis and pressure surge control. The module is naturally divided into two areas \u2013 external flows & internal flows. The former will cover aerodynamics around 2D and 3D lifting surfaces, while the latter will deal with turbine blades in cascades and internal flows in various flow systems such as pipes, ducts and pressure equipment. This module further develops students\u2019 knowledge on various aspects of fluid mechanics and aerodynamics covered in their undergraduate module. There is a compulsory Term Paper project for this module. This module is intended for graduate students and engineers interested in the analysis of fluid systems in aeronautical and offshore engineering applications. It is proposed that this module will be offered as a core module for the specialization in Computation & Modelling in the M.Sc.(Mechanical Engineering) programme.",
+"crossModule": "-1",
+"corequisite": "Nil",
+"faculty": "ENGINEERING",
+"department": "MECHANICAL ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

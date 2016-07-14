@@ -1,0 +1,33 @@
+{
+"moduleCode": "EC1101E",
+"moduleTitle": "Introduction to Economic Analysis",
+"moduleCredit": "4",
+"lockedModules":[
+            "ENV3103",
+            "EC2101",
+            "EC2102",
+            "EC3303",
+            "EC2374",
+            "IS3240"
+        ],
+"preclusion": "EC1301, BH1005/BSP1005, USE2301. All BBA, BAC, BBA(Hons) and BAC(Hons) students are not allowed to take EC1101E.",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "BH1005",
+            "EC1301",
+            "USE2301",
+            "BSP1005"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "EC1101E", 
+            "children": []
+},
+"moduleDescription": "This course introduces students to some of the basic concepts, methods, and models in economics to equip the students to think economically. These tools will enable students to understand current economic issues and appreciate economics in their everyday lives.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "ECONOMICS",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

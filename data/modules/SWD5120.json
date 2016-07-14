@@ -1,0 +1,31 @@
+{
+"moduleCode": "SWD5120",
+"moduleTitle": "Social Work Practicum",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "SW5120",
+"prerequisite": "SWD5103 Contemporary Social Work Practice",
+"preclusionList": [
+            "SW5120"
+        ],
+"parsedPrerequisite": {
+" and ": ["SWD5103"]
+},
+"prerequisiteList": ["SWD5103"],
+"completePrerequisite": {
+            "name": "SWD5120", 
+            "children": [
+                {
+                    "name": "SWD5103", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "Candidates are required to fulfil practicum requirements of 400 fieldwork hours under an approved supervisor and it is equivalent to one module. The candidate is only allowed to take the Social Work Practicum if he/she had already taken or is concurrently taking one of the essential modules specified by the Department of Social Work and Psychology.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "SOCIAL WORK",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

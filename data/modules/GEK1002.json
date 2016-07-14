@@ -1,0 +1,24 @@
+{
+"moduleCode": "GEK1002",
+"moduleTitle": "Introduction to Japanese Studies",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "JS1101E. Students majoring in JS are precluded from taking this module.",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "JS1101E"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "GEK1002", 
+            "children": []
+},
+"moduleDescription": "This module aims to introduce students to the subject of Japanese studies from a multi-disciplinary approach. It has three main components. The first component is humanities, covering art, philosophy, history and literature. The second component is social sciences, which includes sociology,anthropology, politics and economics. The third component is linguistics and language development. Students will learn about the methods and theories the various disciplines contribute to the study of Japan. Audio-visual materials, fieldwork, guest lectures, study tours, projects and debates will supplement lecture and tutorials.",
+        "CrossModule": "JS1101E", 
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "JAPANESE STUDIES",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

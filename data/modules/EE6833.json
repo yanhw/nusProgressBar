@@ -1,0 +1,51 @@
+{
+"moduleCode": "EE6833",
+"moduleTitle": "Selected Topics in Microwave and Antenna Engineering",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "EE5303/EE5303R Microwave Electronics or EE5308/EE5308R Antenna Engineering",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " or ": [
+                "EE5303", 
+                "EE5303R", 
+                "EE5308", 
+                "EE5308R"
+            ]
+},
+"prerequisiteList": ["EE5303","EE5303R","EE5308","EE5308R"],
+"completePrerequisite": {
+            "name": "EE6833", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "EE5303", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "EE5303R", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "EE5308", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "EE5308R", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module covers selected topics in advanced microwave and antenna engineering problems. Topics include: advanced filter designs; system in package; transistor small signal modelling and large signal modelling; RF wireless power and energy harvesting; antenna bandwidth enhancement and miniaturization techniques; antennas in package; wearable and implantable antennas; etc. Selected papers on most recent research progress will be discussed. Case studies will be examined.",
+"crossModule": "-1",
+"corequisite": "Nil",
+"faculty": "ENGINEERING",
+"department": "ELECTRICAL & COMPUTER ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

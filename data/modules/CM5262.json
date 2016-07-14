@@ -1,0 +1,22 @@
+{
+"moduleCode": "CM5262",
+"moduleTitle": "Contemporary Materials Chemistry",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "By permission",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "CM5262", 
+            "children": []
+},
+"moduleDescription": "This module aims to discuss important contemporary topics in the field of Materials Chemistry, e.g. nanostructured materials, hybrid composites, macromolecular materials, biocomposites, biocompatible materials, fibrous materials, etc. These are materials that we encounter in day-to-day life. The chemistry of their formation, stability as well as the relationship between their structures and properties will be emphasized. After taking this module, students should have a good fundamental knowledge and understanding of how to design and to fabricate useful devices such as LEDs, optical switches, modulators, and dispersion compensators.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCIENCE",
+"department": "CHEMISTRY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

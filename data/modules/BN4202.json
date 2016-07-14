@@ -1,0 +1,128 @@
+{
+"moduleCode": "BN4202",
+"moduleTitle": "Biofluids Dynamics",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "Either CN2122 or ME2134 or BN2202",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " or ": [
+                "CN2122", 
+                "ME2134", 
+                "BN2202"
+            ]
+},
+"prerequisiteList": ["CN2122","MA1505","MA1506","MA1102R","MA1521","ME2134","PC1431","PC1431F","PC1431X","BN2202"],
+"completePrerequisite": {
+            "name": "BN4202", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "CN2122", 
+                            "children": [
+                                {
+                                    "name": "and", 
+                                    "children": [
+                                        {
+                                            "name": "MA1505", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "MA1506", 
+                                            "children": [
+                                                {
+                                                    "name": "or", 
+                                                    "children": [
+                                                        {
+                                                            "name": "MA1102R", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "MA1505", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "MA1521", 
+                                                            "children": []
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "ME2134", 
+                            "children": [
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "PC1431", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "PC1431F", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "PC1431X", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "BN2202", 
+                            "children": [
+                                {
+                                    "name": "and", 
+                                    "children": [
+                                        {
+                                            "name": "MA1505", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "MA1506", 
+                                            "children": [
+                                                {
+                                                    "name": "or", 
+                                                    "children": [
+                                                        {
+                                                            "name": "MA1102R", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "MA1505", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "MA1521", 
+                                                            "children": []
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module introduces fluid dynamic principles and their application in natural organs. Also studied are their substitutes, particularly the flow consideration in their design. Topics include: whole heart, intra-aortic balloon pump, blood pump, heart valve, blood substitutes, blood vessels, oxygenator, kidney, pancreas, liver. Special student projects involve the design of diagnostic and therapeutic instruments and devices for cardiovascular applications.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "BIOMEDICAL ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

@@ -1,0 +1,22 @@
+{
+"moduleCode": "SG5012",
+"moduleTitle": "Formal Methods",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "SG5012", 
+            "children": []
+},
+"moduleDescription": "The objective of this course is to teach students basic formal method concepts and theory and implementation of formal methods. Topics include: Formal methods in SE, mathematical foundations of formal methods, the Z formal method, applying formal methods and advanced issues in formal methods. There is an in-course assignment. This course is appropriate for all software engineers who are developing highly reliable software systems using Formal Methods.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "NON-FACULTY-BASED DEPARTMENTS",
+"department": "INSTITUTE OF SYSTEMS SCIENCE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

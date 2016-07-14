@@ -1,0 +1,22 @@
+{
+"moduleCode": "LC5002",
+"moduleTitle": "Common Law Reasoning & Writing",
+"moduleCredit": "8",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "LC5002", 
+            "children": []
+},
+"moduleDescription": "This course will teach the legal methodology of the common law to students trained in the civil law. The course will teach how case law evolves in the common law (stare decisis, distinguishing cases, making arguments based on the facts of the case rather than its principle). It will also teach about statutory interpretation in the common law. It will also require a lot of drafting from the student to teach them how to analyse and argue in the common law and in English. This course is only open to graduate students and exchange students not trained in the common law.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "LAW",
+"department": "LAW",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

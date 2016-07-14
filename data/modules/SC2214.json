@@ -1,0 +1,24 @@
+{
+"moduleCode": "SC2214",
+"moduleTitle": "Media and Culture",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "IF2214",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "IF2214"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "SC2214", 
+            "children": []
+},
+"moduleDescription": "Mass communications should be understood in the context of their production and consumption. In particular, we have to look at macro-structures like economy and politics as well as the legal framework in which mass media systems operate. This module analyses those relationships and looks at some key issues in media such as propaganda, media ethics, sociology of looking, celebrities and media stereotypes. This course is mounted for students throughout NUS with an interest in culture and politics, but some background in Sociology is important. It provides a good foundation for those who wish to read Ethnographic Analysis of Visual Media in the third year.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "SOCIOLOGY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

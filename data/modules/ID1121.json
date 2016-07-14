@@ -1,0 +1,22 @@
+{
+"moduleCode": "ID1121",
+"moduleTitle": "Human-Centred Design",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "ID1121", 
+            "children": []
+},
+"moduleDescription": "This module will inform students on human centred design, human scale, ergonomics, anthropometrics, as well as human perception and their relation to the design of objects, products, system or service. The module will walks students through the human-centered design process and supports them in activities such as building user research skills, implementing ideas and user testing. It provides students with the basic understanding of user needs in new ways, find innovative solutions to meet those needs, and deliver solutions with financial sustainability in mind.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF DESIGN AND ENVIRONMENT",
+"department": "DIVISION OF INDUSTRIAL DESIGN",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

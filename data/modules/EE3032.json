@@ -1,0 +1,64 @@
+{
+"moduleCode": "EE3032",
+"moduleTitle": "Innovation & Enterprise II",
+"moduleCredit": "6",
+"lockedModules":[
+],
+"preclusion": "EE2001 Project CG3002 Embedded Systems Design Project",
+"prerequisite": "EE2024 Programming for Computer Interfaces",
+"preclusionList": [
+            "EE2001",
+            "CG3002"
+        ],
+"parsedPrerequisite": {
+" and ": ["EE2024"]
+},
+"prerequisiteList": ["EE2024","EE2020","EE1002","CG1108","EG1108","CS1010E"],
+"completePrerequisite": {
+            "name": "EE3032", 
+            "children": [
+                {
+                    "name": "EE2024", 
+                    "children": [
+                        {
+                            "name": "and", 
+                            "children": [
+                                {
+                                    "name": "EE2020", 
+                                    "children": [
+                                        {
+                                            "name": "or", 
+                                            "children": [
+                                                {
+                                                    "name": "EE1002", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "CG1108", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "EG1108", 
+                                                    "children": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }, 
+                                {
+                                    "name": "CS1010E", 
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "In this module, students will work in a team project to design and build an electronic system which includes both digital and analog circuits and therefore requires both hardware and software design. The functionalities of the electronic system are determined by the students themselves. They will go through the steps of conceptual system design, detailed technical design, bread-board prototyping, printed circuit board implementation, system integration, testing & debugging and demonstration of the final working model. The project work will be continuously documented by each student in an individual project design portfolio.",
+"crossModule": "-1",
+"corequisite": "Nil",
+"faculty": "ENGINEERING",
+"department": "ELECTRICAL & COMPUTER ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,3,0,]]
+}

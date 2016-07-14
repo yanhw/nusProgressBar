@@ -1,0 +1,74 @@
+{
+"moduleCode": "IS5151",
+"moduleTitle": "Information Security Policies",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "CS4252 or IS4234",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " or ": [
+                "CS4252", 
+                "IS4234"
+            ]
+},
+"prerequisiteList": ["CS4252","IS4234","CS3254","IS4231","CS2107","CS1010","IS3230"],
+"completePrerequisite": {
+            "name": "IS5151", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "CS4252", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "IS4234", 
+                            "children": [
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "CS3254", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "IS4231", 
+                                            "children": [
+                                                {
+                                                    "name": "or", 
+                                                    "children": [
+                                                        {
+                                                            "name": "CS2107", 
+                                                            "children": [
+                                                                {
+                                                                    "name": "CS1010", 
+                                                                    "children": []
+                                                                }
+                                                            ]
+                                                        }, 
+                                                        {
+                                                            "name": "IS3230", 
+                                                            "children": []
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "In this course, students will learn how management, political leadership, and the technical community must work together to make effective strategy and policy. The course will examine how to determine the vulnerabilities and risks. They will be exposed to different competing priorities and factors in the provision of security; legal, cost, and other constraints. From these constraints, they learn to derive different strategies (both technical and procedure) to achieve the desired security objectives.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF COMPUTING",
+"department": "INFORMATION SYSTEMS",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

@@ -1,0 +1,22 @@
+{
+"moduleCode": "FE5103",
+"moduleTitle": "Equity Products and Exotics",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "FE5103", 
+            "children": []
+},
+"moduleDescription": "This module is a core module for students of MSc in Financial Engineering. The topics include: Covered warrants, equity warrants and options, subscription rights, stock index futures and options, and other equity derivatives. Issues of pricing and hedging. Institutional constraints. Portfolio management and other investment strategies. Path-dependent options such as Asian options, barrier options, lookback options, and forward-start options. Spread options, rainbow options, quantos, exchange options, basket options, as-you-like options, power options, digital options, and others. Pricing techniques and risk management purposes.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SPECIALITY RESEARCH INSTITUTES/CENTRES",
+"department": "RISK MANAGEMENT INSTITUTE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

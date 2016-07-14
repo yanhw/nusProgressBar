@@ -1,0 +1,201 @@
+{
+"moduleCode": "ST5224",
+"moduleTitle": "Advanced Statistical Theory II",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "ST5215 or Departmental approval",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["ST5215"]
+},
+"prerequisiteList": ["ST5215","ST2131","MA1102","MA1102R","MA1312","MA1507","MA1505","MA1505C","MA1521","ST2132","MA2216","ST2334","MA1306"],
+"completePrerequisite": {
+            "name": "ST5224", 
+            "children": [
+                {
+                    "name": "ST5215", 
+                    "children": [
+                        {
+                            "name": "and", 
+                            "children": [
+                                {
+                                    "name": "ST2131", 
+                                    "children": [
+                                        {
+                                            "name": "or", 
+                                            "children": [
+                                                {
+                                                    "name": "MA1102", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MA1102R", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MA1312", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MA1507", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MA1505", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MA1505C", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MA1521", 
+                                                    "children": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }, 
+                                {
+                                    "name": "ST2132", 
+                                    "children": [
+                                        {
+                                            "name": "or", 
+                                            "children": [
+                                                {
+                                                    "name": "MA2216", 
+                                                    "children": [
+                                                        {
+                                                            "name": "or", 
+                                                            "children": [
+                                                                {
+                                                                    "name": "MA1102", 
+                                                                    "children": []
+                                                                }, 
+                                                                {
+                                                                    "name": "MA1102R", 
+                                                                    "children": []
+                                                                }, 
+                                                                {
+                                                                    "name": "MA1312", 
+                                                                    "children": []
+                                                                }, 
+                                                                {
+                                                                    "name": "MA1507", 
+                                                                    "children": []
+                                                                }, 
+                                                                {
+                                                                    "name": "MA1505", 
+                                                                    "children": []
+                                                                }, 
+                                                                {
+                                                                    "name": "MA1505C", 
+                                                                    "children": []
+                                                                }, 
+                                                                {
+                                                                    "name": "MA1521", 
+                                                                    "children": []
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }, 
+                                                {
+                                                    "name": "ST2131", 
+                                                    "children": [
+                                                        {
+                                                            "name": "or", 
+                                                            "children": [
+                                                                {
+                                                                    "name": "MA1102", 
+                                                                    "children": []
+                                                                }, 
+                                                                {
+                                                                    "name": "MA1102R", 
+                                                                    "children": []
+                                                                }, 
+                                                                {
+                                                                    "name": "MA1312", 
+                                                                    "children": []
+                                                                }, 
+                                                                {
+                                                                    "name": "MA1507", 
+                                                                    "children": []
+                                                                }, 
+                                                                {
+                                                                    "name": "MA1505", 
+                                                                    "children": []
+                                                                }, 
+                                                                {
+                                                                    "name": "MA1505C", 
+                                                                    "children": []
+                                                                }, 
+                                                                {
+                                                                    "name": "MA1521", 
+                                                                    "children": []
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }, 
+                                                {
+                                                    "name": "ST2334", 
+                                                    "children": [
+                                                        {
+                                                            "name": "or", 
+                                                            "children": [
+                                                                {
+                                                                    "name": "MA1306", 
+                                                                    "children": []
+                                                                }, 
+                                                                {
+                                                                    "name": "MA1102", 
+                                                                    "children": []
+                                                                }, 
+                                                                {
+                                                                    "name": "MA1102R", 
+                                                                    "children": []
+                                                                }, 
+                                                                {
+                                                                    "name": "MA1505", 
+                                                                    "children": []
+                                                                }, 
+                                                                {
+                                                                    "name": "MA1505C", 
+                                                                    "children": []
+                                                                }, 
+                                                                {
+                                                                    "name": "MA1521", 
+                                                                    "children": []
+                                                                }, 
+                                                                {
+                                                                    "name": "MA1312", 
+                                                                    "children": []
+                                                                }, 
+                                                                {
+                                                                    "name": "MA1507", 
+                                                                    "children": []
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "Confidence intervals, P-values, classical (Neyman- Pearson) tests, UMP tests, Likelihood ratio test, Power, Wald\u2019s test, Rao\u2019s Score test, Application of likelihood ratio tests to regression. Additional topics that can be covered in this module includes resampling methods, Bayes procedures, robustness, times series, empirical and point processes, optimal experimental design, parametric, semiparametric and non-parametric modelling, survival analysis and sequential analysis.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCIENCE",
+"department": "STATISTICS & APPLIED PROBABILITY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

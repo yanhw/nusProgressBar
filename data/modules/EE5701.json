@@ -1,0 +1,22 @@
+{
+"moduleCode": "EE5701",
+"moduleTitle": "High Voltage Testing And Switchgear",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "EE5701", 
+            "children": []
+},
+"moduleDescription": "This module covers the phenomena and mechanisms of breakdown of gases, liquids and solids as used in electrical insulating materials. Methods of generating high voltages, measurements and testing of electrical apparatus and systems are included. The principles of circuit interruption and switchgear types will also be discussed.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "ELECTRICAL & COMPUTER ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

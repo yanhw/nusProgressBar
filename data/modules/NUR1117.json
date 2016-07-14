@@ -1,0 +1,29 @@
+{
+"moduleCode": "NUR1117",
+"moduleTitle": "Anatomy and Physiology I",
+"moduleCredit": "4",
+"lockedModules":[
+            "NUR2115",
+            "NUR1118",
+            "NUR2117"
+        ],
+"preclusion": "AY1104 Anatomy PY1105 Physiology I PY1106 Physiology II",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "PY1105",
+            "AY1104",
+            "PY1106"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "NUR1117", 
+            "children": []
+},
+"moduleDescription": "This module will develop knowledge and understanding of the normal structure and function of the human body. Following an introduction to the basic principles of anatomy and physiology, learning will take a \u2018cell to organ-systems\u2019 approach to guide students learning. Body systems covered include: integumentary, cardiovascular, respiratory, endocrine, urinary systems, and fluid and electrolyte balance including acid base homeostasis. Knowledge of these systems is fundamental to, and underpins, the nursing practice modules including Medical/Surgical Nursing I in Year 1 Semester 2.",
+"crossModule": "-1",
+"corequisite": "Nil",
+"faculty": "YONG LOO LIN SCHOOL OF MEDICINE",
+"department": "NURSING/ALICE LEE CTR FOR NURSING STUD",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

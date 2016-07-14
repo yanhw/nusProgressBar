@@ -1,0 +1,34 @@
+{
+"moduleCode": "PR5212",
+"moduleTitle": "Advanced Topics in Medicinal Chemistry",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "Pass PR3101 Principles of Medicinal Chemistry or by special permission",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["PR3101"]
+},
+"prerequisiteList": ["PR3101","PR1101"],
+"completePrerequisite": {
+            "name": "PR5212", 
+            "children": [
+                {
+                    "name": "PR3101", 
+                    "children": [
+                        {
+                            "name": "PR1101", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "Learning objectives: To introduce students to the principles of quantitative structure activity relationship and how to carry out and interprete QSAR studies based on multiple linear regression models. To introduce students to Comparative Molecular Field Analysis (CoMFA) and how to carry out and interprete CoMFA. To introduce students to the application of multivariate data analysis to QSAR and how carry out and interprete such analyses. To introduce the application of combinatorial chemistry in drug potential. To introduce rationale in computer-aided derivation of potential pharmacothore.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "SCIENCE",
+"department": "PHARMACY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

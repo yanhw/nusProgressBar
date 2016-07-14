@@ -1,0 +1,22 @@
+{
+"moduleCode": "MT5920",
+"moduleTitle": "Enterprise Development",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "MT5920", 
+            "children": []
+},
+"moduleDescription": "Enterprise development based on innovation in today's fast changing world is no longer an option but an imperative. This module introduces both processes of enterprise development and value creation - finding a relevant market for a new technology developed in the lab and identifying a new, untapped market opportunity and then applying a combination of existing technologies to capitalize on the opportunity. Techniques for market validation and Business Model Innovation concepts will be introduced and discussed during the course. Using specific cases students will work on screening market opportunities and creating viable business models for enterprise development based on innovation.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "DIVISION OF ENGINEERING AND TECH MGT",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

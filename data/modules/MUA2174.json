@@ -1,0 +1,22 @@
+{
+"moduleCode": "MUA2174",
+"moduleTitle": "Musical Acoustics",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "Acoustics and Psychoacoustics",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "MUA2174", 
+            "children": []
+},
+"moduleDescription": "This module will cover the acoustics of musical instruments, with additional introductory coverage of room acoustics, and perception and cognition of music. Understanding the physical mechanisms of sound generation, propagation, and perception/cognition will form the underlying basis for further studies in audio production and post-production.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "YONG SIEW TOH CONSERVATORY OF MUSIC",
+"department": "YONG SIEW TOH CONSERVATORY OF MUSIC",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

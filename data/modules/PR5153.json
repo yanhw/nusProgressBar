@@ -1,0 +1,22 @@
+{
+"moduleCode": "PR5153",
+"moduleTitle": "Critical Care Clerkship",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "Acceptance in the Pharm.D. program or by permission",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "PR5153", 
+            "children": []
+},
+"moduleDescription": "Critical care clerkship is a 5-week full time clerkship that is designed to train students to practice pharmaceutical care in a critical care setting. The aims are to provide patient care services to patients in a critical care area, to effectively communicate with patients and/or their caregivers and to be an effective member of the critical care team. This is a compulsory clerkship.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "SCIENCE",
+"department": "PHARMACY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

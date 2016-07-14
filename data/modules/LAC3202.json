@@ -1,0 +1,49 @@
+{
+"moduleCode": "LAC3202",
+"moduleTitle": "Chinese 4",
+"moduleCredit": "4",
+"lockedModules":[
+            "LAC4201"
+        ],
+"preclusion": "NIL",
+"prerequisite": "Passed LAC3201 or placement test.",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["LAC3201"]
+},
+"prerequisiteList": ["LAC3201","LAC2201","LAC1201","LAC2202"],
+"completePrerequisite": {
+            "name": "LAC3202", 
+            "children": [
+                {
+                    "name": "LAC3201", 
+                    "children": [
+                        {
+                            "name": "or", 
+                            "children": [
+                                {
+                                    "name": "LAC2201", 
+                                    "children": [
+                                        {
+                                            "name": "LAC1201", 
+                                            "children": []
+                                        }
+                                    ]
+                                }, 
+                                {
+                                    "name": "LAC2202", 
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module is a continuation of Chinese 3 (LAC3201). Based on the 600 Chinese characters they have already learned from Chinese 1 to 3, students will be taught another 300 new characters and phrases at this stage. New words, phrases and idioms will be strengthening for the usage of the language. Short stories and articles will be used in the teaching of this module. The students will also be trained in listening to broadcast materials, speech skills as well as short essay writing.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "CENTRE FOR LANGUAGE STUDIES",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

@@ -1,0 +1,24 @@
+{
+"moduleCode": "MS4401",
+"moduleTitle": "Honours Thesis",
+"moduleCredit": "15",
+"lockedModules":[
+],
+"preclusion": "MS4660",
+"prerequisite": "Completed 110 MCs including 60 MCs of MS major requirements with a minimum CAP of 3.50.",
+"preclusionList": [
+            "MS4660"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "MS4401", 
+            "children": []
+},
+"moduleDescription": "For the Honours Thesis, students are required to carry out a research under the supervision of a staff member from the Department. Topics will be chosen by students in consultation with and approved by the staff member. Students will learn how to do research based on primary and secondary data and write a thesis of 10,000 to 12,000 words. Honours Thesis is equivalent to three modules.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "MALAY STUDIES",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

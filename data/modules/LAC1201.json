@@ -1,0 +1,25 @@
+{
+"moduleCode": "LAC1201",
+"moduleTitle": "Chinese 1",
+"moduleCredit": "4",
+"lockedModules":[
+            "LAC2201"
+        ],
+"preclusion": "LAC2202",
+"prerequisite": "This module is meant for students with no prior knowledge of the target language. Students with prior knowledge (including spoken proficiency) must contact CLS to take a placement test.",
+"preclusionList": [
+            "LAC2202"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "LAC1201", 
+            "children": []
+},
+"moduleDescription": "This is a beginners' module consisting three main components: conversation, grammar and Chinese characters learning. Vocabulary items, sentence patterns and short texts will be taught. Students will acquire basic communicative skills to deal with simple daily situations after reading this module. Approximately 180 Chinese characters and 150 phrases will be introduced.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "CENTRE FOR LANGUAGE STUDIES",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,4,]]
+}

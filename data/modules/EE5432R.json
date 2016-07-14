@@ -1,0 +1,60 @@
+{
+"moduleCode": "EE5432R",
+"moduleTitle": "Microelectronic Processes & Characterization",
+"moduleCredit": "4",
+"lockedModules":[
+            "EE6436"
+        ],
+"preclusion": "EE5514, EE5515, EE5434 EE5516, EE6503, EE6504",
+"prerequisite": "EE4411 or equivalent",
+"preclusionList": [
+            "EE5516",
+            "EE6503",
+            "EE5515",
+            "EE5514",
+            "EE5434",
+            "EE6504"
+        ],
+"parsedPrerequisite": {
+" and ": ["EE4411"]
+},
+"prerequisiteList": ["EE4411","EE2021","EE1002","EG1108","CG1108"],
+"completePrerequisite": {
+            "name": "EE5432R", 
+            "children": [
+                {
+                    "name": "EE4411", 
+                    "children": [
+                        {
+                            "name": "EE2021", 
+                            "children": [
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "EE1002", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "EG1108", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "CG1108", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This is a core module for postgraduate research students on basic microelectronic processes and characterization techniques. The fabrication processes discussed are those which the students are likely to encounter in their research work. The characterization techniques covered are essentially the measurement methods related to the particular fabrication process discussed. Topics to be covered include processing and characterization techniques related to dopant introduction, thin film, pattern transfer and selective layer removal. An integration case study on how the processing techniques covered can be used to fabricate one or two contemporary devices, and how such structures are characterized, will also be discussed.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "ELECTRICAL & COMPUTER ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

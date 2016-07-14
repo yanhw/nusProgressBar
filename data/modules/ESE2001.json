@@ -1,0 +1,23 @@
+{
+"moduleCode": "ESE2001",
+"moduleTitle": "Environmental Processes",
+"moduleCredit": "4",
+"lockedModules":[
+            "ESE2401"
+        ],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "ESE2001", 
+            "children": []
+},
+"moduleDescription": "Contaminant transport in environmental fluids can be influenced by a number of physical processes. A comprehensive understanding of the movement of contaminants between environmental fluids and within each fluid is necessary to solve complex environmental problems. This module provides insights into transport processes in the multimedia environment. Topics include advection, diffusion, dispersion, settling, interphase mass transfer, reaction kinetics, equilibrium partition processes, and their applications in natural and engineered environments.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "CIVIL & ENVIRONMENTAL ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

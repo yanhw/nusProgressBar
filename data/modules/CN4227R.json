@@ -1,0 +1,61 @@
+{
+"moduleCode": "CN4227R",
+"moduleTitle": "Advanced Process Control",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "CN3121",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["CN3121"]
+},
+"prerequisiteList": ["CN3121","MA1505","MA1506","MA1102R","MA1521"],
+"completePrerequisite": {
+            "name": "CN4227R", 
+            "children": [
+                {
+                    "name": "CN3121", 
+                    "children": [
+                        {
+                            "name": "and", 
+                            "children": [
+                                {
+                                    "name": "MA1505", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "MA1506", 
+                                    "children": [
+                                        {
+                                            "name": "or", 
+                                            "children": [
+                                                {
+                                                    "name": "MA1102R", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MA1505", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MA1521", 
+                                                    "children": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "The first topic discusses the effect of model/plant mismatch on the closed-loop system, followed by the robust controller design method with the aim to maintain stability or/and achieve performance in the presence of the modelling error. As most chemical processes are multivariable in nature, the design issues related to multi-loop (or decentralised) and decoupling controllers are discussed in the next topic. For digital computer control topic, in many ways, the materials taught parallel those covered in CN3121. The last topic focuses on a powerful and modern control technique called as model predictive control that has received wide-spread use in the refining and chemical process industries.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "CHEMICAL & BIOMOLECULAR ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

@@ -1,0 +1,108 @@
+{
+"moduleCode": "CS5223",
+"moduleTitle": "Distributed Systems",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "CS3211 Parallel and Concurrent Programming",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["CS3211"]
+},
+"prerequisiteList": ["CS3211","CS2106","CS2100","CS1010","EE2007","EE2024","EE2020","EE1002","CG1108","EG1108","CS1010E","CG2271","CS1020"],
+"completePrerequisite": {
+            "name": "CS5223", 
+            "children": [
+                {
+                    "name": "CS3211", 
+                    "children": [
+                        {
+                            "name": "or", 
+                            "children": [
+                                {
+                                    "name": "CS2106", 
+                                    "children": [
+                                        {
+                                            "name": "or", 
+                                            "children": [
+                                                {
+                                                    "name": "CS2100", 
+                                                    "children": [
+                                                        {
+                                                            "name": "CS1010", 
+                                                            "children": []
+                                                        }
+                                                    ]
+                                                }, 
+                                                {
+                                                    "name": "EE2007", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "EE2024", 
+                                                    "children": [
+                                                        {
+                                                            "name": "and", 
+                                                            "children": [
+                                                                {
+                                                                    "name": "EE2020", 
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "or", 
+                                                                            "children": [
+                                                                                {
+                                                                                    "name": "EE1002", 
+                                                                                    "children": []
+                                                                                }, 
+                                                                                {
+                                                                                    "name": "CG1108", 
+                                                                                    "children": []
+                                                                                }, 
+                                                                                {
+                                                                                    "name": "EG1108", 
+                                                                                    "children": []
+                                                                                }
+                                                                            ]
+                                                                        }
+                                                                    ]
+                                                                }, 
+                                                                {
+                                                                    "name": "CS1010E", 
+                                                                    "children": []
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }, 
+                                {
+                                    "name": "CG2271", 
+                                    "children": [
+                                        {
+                                            "name": "CS1020", 
+                                            "children": [
+                                                {
+                                                    "name": "CS1010", 
+                                                    "children": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "The topic of Distributed Systems is now garnering increasing importance, especially with the advancement in technology of the Internet and WWW. The aim of this module is to provide students with basic concepts and principles of distributed operating systems, interprocess communications, distributed file systems, shared data, and the middleware approach. The module is taught in seminar style, and several case studies are included, e.g. CORBA. Topics: Introduction - Characteristics of Distributed Systems; Process Management Communication in Distributed Systems; Distributed Synchronisation; Distributed Real-time Systems; File Systems; Naming Security; Fault Tolerant Distributed Systems; Distributed Simulation; WWW as an application of Distributed System.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF COMPUTING",
+"department": "COMPUTER SCIENCE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

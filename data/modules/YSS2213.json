@@ -1,0 +1,29 @@
+{
+"moduleCode": "YSS2213",
+"moduleTitle": "Globalization: Past, Present and Future",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "YCC1121 Comparative Social Institutions",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["YCC1121"]
+},
+"prerequisiteList": ["YCC1121"],
+"completePrerequisite": {
+            "name": "YSS2213", 
+            "children": [
+                {
+                    "name": "YCC1121", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "This gateway course focuses on the economic, political, cultural, and social aspects of globalization. Students will be introduced to the various waves of globalization the world has undergone, and the impact of the growing mobility of capital, labor, and ideas around the world. In addition to economic globalization, students will study the globalization of crime, environmental degradation, culture, and food. They will read what both the critics and advocates of globalization and its subprocesses have to say about its impacts, looking at particular case studies sourced from various countries.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "YALE-NUS COLLEGE",
+"department": "YALE-NUS COLLEGE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

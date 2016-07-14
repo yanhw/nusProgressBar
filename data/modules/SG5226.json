@@ -1,0 +1,29 @@
+{
+"moduleCode": "SG5226",
+"moduleTitle": "Enterprise .NET II",
+"moduleCredit": "3",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "While there is no module pre-requisites, the student is expected to have knowledge in the following topics: - Basic Software Engineering - Object Oriented Analysis and Design - Posses good design & development knowledge in .NET equivalent to the coverage of SG5026",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["SG5026"]
+},
+"prerequisiteList": ["SG5026"],
+"completePrerequisite": {
+            "name": "SG5226", 
+            "children": [
+                {
+                    "name": "SG5026", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "The objective of this module is to provide students with in-depth knowledge and skills in architecting robust Distributed Enterprise Applications. The module would discuss key critical issues that impact multi-tier and multi-platform applications and would provide scientific solutions to address these. The module would also address research issues in the area of enterprise applications to prepare students in evolving innovative design models and implementation strategies for engineering secure, scalable and interoperable applications. The students would learn to experiment and apply these models in practice through project work that involves building and deploying multi-tier enterprise applications with .NET components, WCF and Web services as implementation vehicles.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "NON-FACULTY-BASED DEPARTMENTS",
+"department": "INSTITUTE OF SYSTEMS SCIENCE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

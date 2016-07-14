@@ -1,0 +1,22 @@
+{
+"moduleCode": "PLC5009",
+"moduleTitle": "Research Proposal",
+"moduleCredit": "8",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "Admission to Clinical Psychology training programme",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "PLC5009", 
+            "children": []
+},
+
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "PSYCHOLOGY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

@@ -1,0 +1,81 @@
+{
+"moduleCode": "MLE4206",
+"moduleTitle": "Current topics on Nanomaterials",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "MLE2104 and MLE2105",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " and ": [
+                "MLE2104", 
+                "MLE2105"
+            ]
+},
+"prerequisiteList": ["MLE2104","EG1109F","EG1109","CE1109X","MLE1101","MLE2101","MLE2105"],
+"completePrerequisite": {
+            "name": "MLE4206", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "MLE2104", 
+                            "children": [
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "EG1109F", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "EG1109", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "CE1109X", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "MLE1101", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "MLE2101", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "MLE2105", 
+                            "children": [
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "MLE1101", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "MLE2101", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module provides students with an understanding of the size effect of properties; students will learn unique properties of nanomateirals: mechanical, electronic, magnetic and optical. This module is designed for students who has materials science and engineering background and interested in properties of nanomaterials.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "MATERIALS SCIENCE AND ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

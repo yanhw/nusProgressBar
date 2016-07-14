@@ -1,0 +1,25 @@
+{
+"moduleCode": "GEK1067",
+"moduleTitle": "Life, the Universe, and Everything",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "PH1102E, GET1029",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "PH1102E",
+            "GET1029"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "GEK1067", 
+            "children": []
+},
+"moduleDescription": "This module offers an opportunity to grapple with some of the most enduring challenges to human thought. Our starting point is a conception of ourselves as free and conscious beings equipped with bodies that allow us to observe and explore a familiar external world. Successive lectures investigate alternative conceptions of the human condition, such as ones in which we are unfree, or non-spirituous, or inhabit a world whose fundamental nature is hidden from our view. Different conceptions bear differently on the further question of what we should value and why. Discussion is both argument-driven and historically informed.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "PHILOSOPHY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

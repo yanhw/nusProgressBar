@@ -1,0 +1,24 @@
+{
+"moduleCode": "PL4401",
+"moduleTitle": "Honours Thesis",
+"moduleCredit": "15",
+"lockedModules":[
+],
+"preclusion": "PL4660",
+"prerequisite": "Completed 110 MCs, including 60 MCs of PL major requirements, with a minimum CAP of 3.50.",
+"preclusionList": [
+            "PL4660"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "PL4401", 
+            "children": []
+},
+"moduleDescription": "Each student selects a topic for research and works under the supervision of a member of the teaching staff. The research work is presented as a thesis for examination. The Honours Thesis carries an equivalent weight of three modules and should be about 12,000 words.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "PSYCHOLOGY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

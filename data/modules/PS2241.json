@@ -1,0 +1,27 @@
+{
+"moduleCode": "PS2241",
+"moduleTitle": "Public Administration in Asia",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "GEK2012, GEM2012K, PS2206, PS2211B",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "GEM2012K",
+            "GEK2012",
+            "PS2211B",
+            "PS2206"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "PS2241", 
+            "children": []
+},
+"moduleDescription": "The module briefly covers the origins, functions, and contexts of public administration, and various comparative approaches to administrative systems in Asian countries. On that foundation, it then focuses on some of the major administrative issues in Asian countries, including local government and decentralisation, privatisation and public sector reform, ethnic representation, bureaucratic corruption, and administrative accountability. The module can be read by year 1-3 students across all faculties at NUS.",
+        "CrossModule": "GEK2012", 
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "POLITICAL SCIENCE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

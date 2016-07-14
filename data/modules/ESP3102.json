@@ -1,0 +1,77 @@
+{
+"moduleCode": "ESP3102",
+"moduleTitle": "From Making Nano to Probing Nano",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "PC2130B, PC2133",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " and ": [
+                "PC2130B", 
+                "PC2133"
+            ]
+},
+"prerequisiteList": ["PC2130B","PC1144","PC1432","PC1432X","PC1433","PC2133"],
+"completePrerequisite": {
+            "name": "ESP3102", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "PC2130B", 
+                            "children": [
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "PC1144", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "PC1432", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "PC1432X", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "PC1433", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "PC2133", 
+                            "children": [
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "PC1144", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "PC1433", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "The aims of this module are to provide a comprehensive coverage of a range of nanofabrication and characterization techniques. The fabrication part will facus on top-down techniques which will complement the bottom-up techniques covered by CM3251 Nanochemistry. Topics to be covered include: Nanofabrication: thin flim deposition, etching, photolithography, EUV, electron beam, x-ray and ion beam lithography, focused ion beam and direct laser writing, scanning probe based techniques, fabrication and alignment of nanostructures, manufacturing of nanodevices and nanosystems. Nanocharacterization: basic principle of imaging, wave diffraction, interaction of energy beams with materials, optical and electron microscopy, scanning probe microscopy, x-ray microanalysis, electron transport measurement, magnetic measurement and optical spectroscopy.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "ENGINEERING SCIENCE PROGRAMME",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

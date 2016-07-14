@@ -1,0 +1,63 @@
+{
+"moduleCode": "ST5225",
+"moduleTitle": "Statistical Analysis of Networks",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "ST2131 Probability",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["ST2131"]
+},
+"prerequisiteList": ["ST2131","MA1102","MA1102R","MA1312","MA1507","MA1505","MA1505C","MA1521"],
+"completePrerequisite": {
+            "name": "ST5225", 
+            "children": [
+                {
+                    "name": "ST2131", 
+                    "children": [
+                        {
+                            "name": "or", 
+                            "children": [
+                                {
+                                    "name": "MA1102", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "MA1102R", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "MA1312", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "MA1507", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "MA1505", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "MA1505C", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "MA1521", 
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "Network data has become increasingly important in both academia and industry. Many interesting questions can be understood and analysed through networks. Applications are found in areas such as sociology (Facebook and Twitter networks), computer science (World Wide Web), and biology (gene and protein interaction networks). With the availability of large network data sets, be it in corporate, governmental or scientific contexts, comes the necessity to work with such data in an appropriate manner. This course gives a practical introduction to the theory of network analysis; topics include statistical network models, descriptive and inferential network analysis, network visualisation.",
+"crossModule": "-1",
+"corequisite": "Basic Statistical Theory",
+"faculty": "SCIENCE",
+"department": "STATISTICS & APPLIED PROBABILITY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

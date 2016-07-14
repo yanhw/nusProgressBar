@@ -1,0 +1,46 @@
+{
+"moduleCode": "PR2133",
+"moduleTitle": "Pharmacotherapeutics I",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "PA1113, PR1111",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " and ": [
+                "PA1113", 
+                "PR1111"
+            ]
+},
+"prerequisiteList": ["PA1113","AY1130","PR1111"],
+"completePrerequisite": {
+            "name": "PR2133", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "PA1113", 
+                            "children": [
+                                {
+                                    "name": "AY1130", 
+                                    "children": []
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "PR1111", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This is a team-taught module that aims to prepare pharmacy students in the management of noncommunicable diseases through the intergration of pharmacology and pharmacotherapeutics. Major topics include: asthma, COPD, peptic ulcer disease, hypertension, dyslipidemia, and diabetes.",
+"crossModule": "-1",
+"corequisite": "PX2108",
+"faculty": "SCIENCE",
+"department": "PHARMACY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

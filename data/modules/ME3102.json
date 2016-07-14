@@ -1,0 +1,34 @@
+{
+"moduleCode": "ME3102",
+"moduleTitle": "Mechanical Systems Design II",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "ME3101",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["ME3101"]
+},
+"prerequisiteList": ["ME3101","ME2101"],
+"completePrerequisite": {
+            "name": "ME3102", 
+            "children": [
+                {
+                    "name": "ME3101", 
+                    "children": [
+                        {
+                            "name": "ME2101", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This is a follow-up module from ME3101 in which students fabricate and commission the prototype design worked on in Semester 5. Emphasis is placed on the integration of the components of the complete system and the optimization of the final design. Effective group dynamics and the experience of the process and problems involved in translating paper design to prototype are key objectives of this module. This is a core module.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "MECHANICAL ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

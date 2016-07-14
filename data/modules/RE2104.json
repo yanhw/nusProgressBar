@@ -1,0 +1,33 @@
+{
+"moduleCode": "RE2104",
+"moduleTitle": "Real Estate Finance",
+"moduleCredit": "4",
+"lockedModules":[
+            "RE3201",
+            "RE3104"
+        ],
+"preclusion": "RE2281 Real Estate Asset Market I",
+"prerequisite": "RE1101 Fundamentals of Real Estate Finance",
+"preclusionList": [
+            "RE2281"
+        ],
+"parsedPrerequisite": {
+" and ": ["RE1101"]
+},
+"prerequisiteList": ["RE1101"],
+"completePrerequisite": {
+            "name": "RE2104", 
+            "children": [
+                {
+                    "name": "RE1101", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "This module examines real estate finance institutions and instruments. It equips students with essential skills to analyze and evaluate real estate financing decisions. The topics include: institutional landscape real estate financing; mortgage mechanics; different mortgage instruments; residential financing analysis and borrower choices; residential underwriting and lending policies; development and project financing; and housing financing innovations.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF DESIGN AND ENVIRONMENT",
+"department": "REAL ESTATE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

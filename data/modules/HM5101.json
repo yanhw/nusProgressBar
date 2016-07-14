@@ -1,0 +1,22 @@
+{
+"moduleCode": "HM5101",
+"moduleTitle": "Introduction to Psychiatry",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "Optional for participants that have already completed GP training in the Mental Health GP programme.",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "HM5101", 
+            "children": []
+},
+"moduleDescription": "This module is designed to let participants learn the different types of psychiatric disorders and the identification, assessment, evaluation, treatment, and management of patients in primary practice.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "YONG LOO LIN SCHOOL OF MEDICINE",
+"department": "DIVISION OF GRADUATE MEDICAL STUDIES",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

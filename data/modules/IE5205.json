@@ -1,0 +1,22 @@
+{
+"moduleCode": "IE5205",
+"moduleTitle": "Healthcare System and Analytics",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "IE5205", 
+            "children": []
+},
+"moduleDescription": "This module gives an overview of healthcare systems and how healthcare delivery is achieved, including an understanding of the roles of analysts in healthcare, healthcare data concepts and management. Data modelling and the use of statistics and operations research methods to support operations management, planning and decision making in healthcare are also introduced.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "INDUSTRIAL & SYSTEMS ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

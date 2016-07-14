@@ -1,0 +1,24 @@
+{
+"moduleCode": "LL5164V",
+"moduleTitle": "International Projects Law & Practice",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "Students who are taking or have taken LL5164.",
+"prerequisite": "NUS Compulsory Core Law Curriculum or equivalent.",
+"preclusionList": [
+            "LL5164"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "LL5164V", 
+            "children": []
+},
+"moduleDescription": "This course is intended to introduce students to the practice and law relating to international projects and infrastructure. The various methods of procurement and the construction process involved will be reviewed in conjunction with standard forms that are used internationally - such as the FIDIC, JCT and NEC forms, among others. Familiar issues such as defects, time and cost overruns and the implications therefrom (and how these matters are dealt with in an international context) will also be covered. The course will provide students with an understanding of how international projects are procured, planned and administered as well as give an insight into how legal and commercial risks are identified, priced, managed and mitigated.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "LAW",
+"department": "LAW",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

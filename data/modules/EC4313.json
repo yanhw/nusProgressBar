@@ -1,0 +1,22 @@
+{
+"moduleCode": "EC4313",
+"moduleTitle": "Search Theory and Applications",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "Cohort 2011 and before: Completed 80 MCs, including 28 MCs in EC, with a minimum CAP of 3.50 or be on the Honours track. EC3101 and EC3102 Cohort 2012 onwards: Completed 80 MCs, including 28 MCs in EC, with a minimum CAP of 3.20 or be on the Honours track. EC3101 and EC3102",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "EC4313", 
+            "children": []
+},
+"moduleDescription": "This course studies models that depart from the standard Walrasian environment through the introduction of search and matching frictions, with applications to labour, goods, marriage and money markets. By introducing frictions, we can use our models to think more deeply about issues like wage/price dispersion, unemployment compensation, whether sellers should post prices or conduct auctions, or even why money is held.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "ECONOMICS",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

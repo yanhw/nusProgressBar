@@ -1,0 +1,46 @@
+{
+"moduleCode": "PM5116",
+"moduleTitle": "Project Finance Case Studies",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "CAP 4.0 from a combination of two modules from: 1. PM5114 Managing Complex Projects; 2. PM5115 Project Finance Contracts and Agreements; and 3. PM5105 Development Finance",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " and ": [
+                "PM5114", 
+                "PM5115", 
+                "PM5105"
+            ]
+},
+"prerequisiteList": ["PM5114","PM5115","PM5105"],
+"completePrerequisite": {
+            "name": "PM5116", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "PM5114", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "PM5115", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "PM5105", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module provides an opportunity for students to do an independent field study of how project finance plays an important role in a major development project. Students will select their own project, conduct the study under an appointed supervisor, present their findings in a seminar, and submit a 6,000-word written report.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF DESIGN AND ENVIRONMENT",
+"department": "BUILDING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

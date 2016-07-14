@@ -1,0 +1,22 @@
+{
+"moduleCode": "NM6101",
+"moduleTitle": "Advanced Theories In Cnm",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "NM6101", 
+            "children": []
+},
+"moduleDescription": "In this module, students will review classical and contemporary readings in communications and new media studies, including key concepts and areas of investigation. It will provide students with a comprehensive and critical overview of theoretical frameworks of communications and new media. Students will also examine the role of theory in the research process.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "COMMUNICATIONS AND NEW MEDIA",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

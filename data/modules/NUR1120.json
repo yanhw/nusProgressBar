@@ -1,0 +1,36 @@
+{
+"moduleCode": "NUR1120",
+"moduleTitle": "Comprehensive Health Assessment",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NUR2115 Comprehensive Health Assessment is precluded.",
+"prerequisite": "NUR1118 Anatomy and Physiology II is removed.",
+"preclusionList": [
+            "NUR2115"
+        ],
+"parsedPrerequisite": {
+" and ": ["NUR1118"]
+},
+"prerequisiteList": ["NUR1118","NUR1117"],
+"completePrerequisite": {
+            "name": "NUR1120", 
+            "children": [
+                {
+                    "name": "NUR1118", 
+                    "children": [
+                        {
+                            "name": "NUR1117", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "Providing a holistic framework for contemporary nursing practice, the module encourages students to use critical thinking and problem solving skills to apply knowledge and skills of comprehensive health assessment to diverse clinical situations.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "YONG LOO LIN SCHOOL OF MEDICINE",
+"department": "NURSING/ALICE LEE CTR FOR NURSING STUD",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

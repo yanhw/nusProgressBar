@@ -1,0 +1,30 @@
+{
+"moduleCode": "LAG2201",
+"moduleTitle": "German 2",
+"moduleCredit": "4",
+"lockedModules":[
+            "LAG3201"
+        ],
+"preclusion": "NIL",
+"prerequisite": "Passed LAG1201 or placement test",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["LAG1201"]
+},
+"prerequisiteList": ["LAG1201"],
+"completePrerequisite": {
+            "name": "LAG2201", 
+            "children": [
+                {
+                    "name": "LAG1201", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "This module aims to further enhance students' proficiency in the four basic skills of listening, speaking, reading and writing as well as increase their knowledge of the syntactical, morphological, phonetic and lexical aspects of the German language. Students will also acquire a better grasp of learning and communicative strategies. Authentic texts from daily communicative situations will serve as the main source of learning materials.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "CENTRE FOR LANGUAGE STUDIES",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

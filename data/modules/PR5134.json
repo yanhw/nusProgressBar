@@ -1,0 +1,22 @@
+{
+"moduleCode": "PR5134",
+"moduleTitle": "Physical Assessment in Pharmacy Practice",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "Acceptance in the PharmD programme or by permission",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "PR5134", 
+            "children": []
+},
+"moduleDescription": "The physical assessment portion of the course is a \u201chands-on\u201d course designed to familiarize the student with basic physical examination techniques. The course will emphasize those examination techniques utilized in the community setting and ambulatory clinic (e.g., blood pressure, diabetic foot exam) as well as in the acute care setting (e.g., cardiac and respiratory exams). The diagnostic test portion of the course is to introduce the tools that are used in the clinical settings for diagnoses of diseases and medical conditions.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCIENCE",
+"department": "PHARMACY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

@@ -1,0 +1,47 @@
+{
+"moduleCode": "ME4214",
+"moduleTitle": "Vehicle Dynamics",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "ME3112 \u2013 Mechanics of Machines",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["ME3112"]
+},
+"prerequisiteList": ["ME3112","PC1431","PC1431F","PC1431X"],
+"completePrerequisite": {
+            "name": "ME4214", 
+            "children": [
+                {
+                    "name": "ME3112", 
+                    "children": [
+                        {
+                            "name": "or", 
+                            "children": [
+                                {
+                                    "name": "PC1431", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "PC1431F", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "PC1431X", 
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module covers the topics for analysis of vehicle dynamics. These include forces acting on a vehicle and the resulting dynamics and motions. Forces from tires, brakes, steering and power train will be discussed. Students will learn how to analyze the longitudinal and turning motions as well as the vibration of a vehicle.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "MECHANICAL ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

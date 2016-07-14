@@ -1,0 +1,243 @@
+{
+"moduleCode": "IE3100R",
+"moduleTitle": "Systems Design Project",
+"moduleCredit": "8",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "IE2100, IE2110, IE2140; Co-requisite: IE2101",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " and ": [
+                "IE2100", 
+                "IE2110", 
+                "IE2140", 
+                "IE2101"
+            ]
+},
+"prerequisiteList": ["IE2100","ST2131","MA1102","MA1102R","MA1312","MA1507","MA1505","MA1505C","MA1521","IE2110","MA1101R","MA1311","MA1506","IE2140","IE2101","ST1131","SA1101","ST1131A","ST1232","ST2334","MA1306"],
+"completePrerequisite": {
+            "name": "IE3100R", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "IE2100", 
+                            "children": [
+                                {
+                                    "name": "ST2131", 
+                                    "children": [
+                                        {
+                                            "name": "or", 
+                                            "children": [
+                                                {
+                                                    "name": "MA1102", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MA1102R", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MA1312", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MA1507", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MA1505", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MA1505C", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MA1521", 
+                                                    "children": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "IE2110", 
+                            "children": [
+                                {
+                                    "name": "and", 
+                                    "children": [
+                                        {
+                                            "name": "or", 
+                                            "children": [
+                                                {
+                                                    "name": "MA1102R", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MA1505", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MA1521", 
+                                                    "children": []
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "or", 
+                                            "children": [
+                                                {
+                                                    "name": "MA1101R", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MA1311", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MA1506", 
+                                                    "children": [
+                                                        {
+                                                            "name": "or", 
+                                                            "children": [
+                                                                {
+                                                                    "name": "MA1102R", 
+                                                                    "children": []
+                                                                }, 
+                                                                {
+                                                                    "name": "MA1505", 
+                                                                    "children": []
+                                                                }, 
+                                                                {
+                                                                    "name": "MA1521", 
+                                                                    "children": []
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "IE2140", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "IE2101", 
+                            "children": [
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "and", 
+                                            "children": [
+                                                {
+                                                    "name": "MA1505", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MA1506", 
+                                                    "children": [
+                                                        {
+                                                            "name": "or", 
+                                                            "children": [
+                                                                {
+                                                                    "name": "MA1102R", 
+                                                                    "children": []
+                                                                }, 
+                                                                {
+                                                                    "name": "MA1505", 
+                                                                    "children": []
+                                                                }, 
+                                                                {
+                                                                    "name": "MA1521", 
+                                                                    "children": []
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "ST1131", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "SA1101", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "ST1131A", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "ST1232", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "ST2334", 
+                                            "children": [
+                                                {
+                                                    "name": "or", 
+                                                    "children": [
+                                                        {
+                                                            "name": "MA1306", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "MA1102", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "MA1102R", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "MA1505", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "MA1505C", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "MA1521", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "MA1312", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "MA1507", 
+                                                            "children": []
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This design project requires students to study, formulate and analyze an actual industrial problem with the goal of recommending a design solution that is practical. It also enables students to practice and improve the skills of technical report writing and oral presentation. The objective of the design project is to provide an opportunity for students to gain practical experience in an actual industry problem. It also gives the students a broader scope in applying industrial engineering concepts rather than concentrating on one particular subject area.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "INDUSTRIAL & SYSTEMS ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

@@ -1,0 +1,22 @@
+{
+"moduleCode": "UIT2207",
+"moduleTitle": "Computational Thinking and Modelling",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "UIT2207", 
+            "children": []
+},
+"moduleDescription": "Computational thinking is a way of understanding the world and solving problems. We will explore a wide range of programming languages, systems, and activities designed to help children and the general public acquire computational thinking skills. Students will build and explore computer models of complex systems in the life and social sciences in order to acquire a deeper understanding of the underlying phenomena. No programming experience required. This module is also about the pedagogical theories that underlie attempts to create environments designed to support learners in becoming creative problem solvers and capable of doing scientific research via computer simulations.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "UNIVERSITY SCHOLARS PROGRAMME",
+"department": "UNIVERSITY SCHOLARS PROGRAMME",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

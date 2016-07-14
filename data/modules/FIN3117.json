@@ -1,0 +1,198 @@
+{
+"moduleCode": "FIN3117",
+"moduleTitle": "Bank Management",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "Students who have passed FNA3117 are not allowed to take FIN3117. Not for students who have passed FE5105.",
+"prerequisite": "FNA2004/FIN2004 and FNA3102/FIN3102",
+"preclusionList": [
+            "FNA3117",
+            "FE5105"
+        ],
+"parsedPrerequisite": {
+            " and ": [
+                {
+                    " or ": [
+                        "FNA2004", 
+                        "FIN2004"
+                    ]
+                }, 
+                {
+                    " or ": [
+                        "FNA3102", 
+                        "FIN3102"
+                    ]
+                }
+            ]
+},
+"prerequisiteList": ["FNA2004","FIN2004","BK1003","BZ1002","BH1002","FNA1002","ACC1002","FNA1002X","ACC1002X","FNA1002E","BH1002E","EC3212","EG1422","FNA3102","FIN3102","BH2004","BZ2004","BK2004"],
+"completePrerequisite": {
+            "name": "FIN3117", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "or", 
+                            "children": [
+                                {
+                                    "name": "FNA2004", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "FIN2004", 
+                                    "children": [
+                                        {
+                                            "name": "or", 
+                                            "children": [
+                                                {
+                                                    "name": "BK1003", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "BZ1002", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "BH1002", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "FNA1002", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "ACC1002", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "FNA1002X", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "ACC1002X", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "FNA1002E", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "BH1002E", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "EC3212", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "EG1422", 
+                                                    "children": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "or", 
+                            "children": [
+                                {
+                                    "name": "FNA3102", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "FIN3102", 
+                                    "children": [
+                                        {
+                                            "name": "or", 
+                                            "children": [
+                                                {
+                                                    "name": "FNA2004", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "FIN2004", 
+                                                    "children": [
+                                                        {
+                                                            "name": "or", 
+                                                            "children": [
+                                                                {
+                                                                    "name": "BK1003", 
+                                                                    "children": []
+                                                                }, 
+                                                                {
+                                                                    "name": "BZ1002", 
+                                                                    "children": []
+                                                                }, 
+                                                                {
+                                                                    "name": "BH1002", 
+                                                                    "children": []
+                                                                }, 
+                                                                {
+                                                                    "name": "FNA1002", 
+                                                                    "children": []
+                                                                }, 
+                                                                {
+                                                                    "name": "ACC1002", 
+                                                                    "children": []
+                                                                }, 
+                                                                {
+                                                                    "name": "FNA1002X", 
+                                                                    "children": []
+                                                                }, 
+                                                                {
+                                                                    "name": "ACC1002X", 
+                                                                    "children": []
+                                                                }, 
+                                                                {
+                                                                    "name": "FNA1002E", 
+                                                                    "children": []
+                                                                }, 
+                                                                {
+                                                                    "name": "BH1002E", 
+                                                                    "children": []
+                                                                }, 
+                                                                {
+                                                                    "name": "EC3212", 
+                                                                    "children": []
+                                                                }, 
+                                                                {
+                                                                    "name": "EG1422", 
+                                                                    "children": []
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }, 
+                                                {
+                                                    "name": "BH2004", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "BZ2004", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "BK2004", 
+                                                    "children": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This course builds on basic financial theory and the principles courses in economics. It addresses topics that are important for managing financial institutions in a rapidly changing national and global environment. Upon successful completion of the course, student should be able to understand the role of financial institutions in the economy; explain why banks are unique, and therefore merit special attention; to understand the analytical foundations underlying financial institutions management, and be able to use them to analyse important financial issues, including financial crisis; be familiar with risk management techniques to deal with the various risks banks and other financial institutions face.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF BUSINESS",
+"department": "FINANCE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

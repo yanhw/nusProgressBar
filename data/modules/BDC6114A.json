@@ -1,0 +1,22 @@
+{
+"moduleCode": "BDC6114A",
+"moduleTitle": "DS Proseminar I",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "BDC6114A", 
+            "children": []
+},
+"moduleDescription": "The objective of this course is to expose students to the issues that need to be considered in designing and operating logistics and supply chains. We will start with an introduction including definition of logistics and supply chain management, key supply chain costs and metrics, and fundamental issues and trade-offs in supply chain management. We will then discuss the interactions between stages in a supply chain, double marginalization and contracts for supply chain coordination, strategic alliances and incentive alignment, channels of distribution, coordinating distribution strategies, pricing/promotions. We will also discuss supply chain planning, facility location models, and vehicle routing models.",
+"crossModule": "-1",
+"corequisite": "Nil",
+"faculty": "SCHOOL OF BUSINESS",
+"department": "DECISION SCIENCES",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

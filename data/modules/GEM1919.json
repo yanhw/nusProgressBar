@@ -1,0 +1,29 @@
+{
+"moduleCode": "GEM1919",
+"moduleTitle": "Thinking in Systems: Diseases and Healthcare",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "GEM-coded GEM1914 GEM1915% GEM1919 GE Reform GET1011 UTC-coded UTC1411 UTC1701 UTC1700",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "GEM1915",
+            "GEM1914",
+            "UTC1701",
+            "UTC1700",
+            "UTC1411",
+            "GET1011"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "GEM1919", 
+            "children": []
+},
+"moduleDescription": "Does a virus attack any individual? Or, does an individual create conditions for infection? How should hospitals plan treatment strategies and patient-staff movements during an outbreak? Should government allocate more resources to prevent onset of chronic diseases rather than managing the complications arising out of chronic diseases? Students will approach such questions from a systems perspective, which involves: understanding behaviours of subsytems and stakeholders such as disease/ infection, patients, providers, payers and society. They will also learn how the interdependencies and interactions between the different actors of the system can be integrated into a holistic system that enables better understanding.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "NON-FACULTY-BASED DEPARTMENTS",
+"department": "RESIDENTIAL COLLEGE 4",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

@@ -1,0 +1,22 @@
+{
+"moduleCode": "GEK1010",
+"moduleTitle": "Property Management",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "Not for Real Estate Students",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "GEK1010", 
+            "children": []
+},
+"moduleDescription": "This module provides an overview of property management allowing students to appreciate the basic theories, concepts and principles; gain knowledge of the wide spectrum of property management functions; as well as understand how property management is vital in the context of advancement in information technology and changing demographic and social trends. The major topics include: the scope and functions of property management, legislations and regulations, lease management, maintenance management, fire safety management, facilities management, building automation systems, management information systems, security and risk management, financial and investment management, management corporations and town councils, as well as estate upgrading and renewal.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF DESIGN AND ENVIRONMENT",
+"department": "REAL ESTATE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,0,3,0,]]
+}

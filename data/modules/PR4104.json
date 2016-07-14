@@ -1,0 +1,71 @@
+{
+"moduleCode": "PR4104",
+"moduleTitle": "Pharmacy Practice III",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "PR3105",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["PR3105"]
+},
+"prerequisiteList": ["PR3105","PX3108","PY1106","PR1908","PP2107","PA2107","PP2106"],
+"completePrerequisite": {
+            "name": "PR4104", 
+            "children": [
+                {
+                    "name": "PR3105", 
+                    "children": [
+                        {
+                            "name": "and", 
+                            "children": [
+                                {
+                                    "name": "PX3108", 
+                                    "children": [
+                                        {
+                                            "name": "and", 
+                                            "children": [
+                                                {
+                                                    "name": "PY1106", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "PR1908", 
+                                                    "children": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }, 
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "PP2107", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "PA2107", 
+                                            "children": [
+                                                {
+                                                    "name": "PP2106", 
+                                                    "children": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "Learning objectives: To articulate and perform essential steps in the prescription dispensing process for extemporaneous, proprietary and reformulated medications. To effectively use the pharmacy references and IT resources for review, documentation, information search, medication labelling and packaging. To develop effective communication skills for interacting with patients, caregivers and other health professionals. To learn the process of patient triage and the recommendation of safe and effective treatment options to appropriately affect patient behaviours for illness and wellness.Major topics:Good dispensing practice. Effective patient counselling. Patient education. Dispensing and occasional reformulation of commercial pharmaceutical products. Pharmacist intervention and communication with other health professionals. Patient instruction on use of self-monitoring equipment. Resolution of medication-related problems.Target students: Pharmacy Final Year",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCIENCE",
+"department": "PHARMACY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

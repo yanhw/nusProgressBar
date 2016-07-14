@@ -1,0 +1,90 @@
+{
+"moduleCode": "IE3101",
+"moduleTitle": "Statistics For Engineering Applications",
+"moduleCredit": "4",
+"lockedModules":[
+            "IE4230"
+        ],
+"preclusion": "NIL",
+"prerequisite": "ST1131, ST2131 or ST1232",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " and ": [
+                "ST1131", 
+                {
+                    " or ": [
+                        "ST2131", 
+                        "ST1232"
+                    ]
+                }
+            ]
+},
+"prerequisiteList": ["ST1131","ST2131","MA1102","MA1102R","MA1312","MA1507","MA1505","MA1505C","MA1521","ST1232"],
+"completePrerequisite": {
+            "name": "IE3101", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "ST1131", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "or", 
+                            "children": [
+                                {
+                                    "name": "ST2131", 
+                                    "children": [
+                                        {
+                                            "name": "or", 
+                                            "children": [
+                                                {
+                                                    "name": "MA1102", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MA1102R", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MA1312", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MA1507", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MA1505", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MA1505C", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MA1521", 
+                                                    "children": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }, 
+                                {
+                                    "name": "ST1232", 
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module goes beyond the foundation and deals mainly with the applications of statistics in the engineering context. Topics include review of statistical decision making and hypothesis testing, ANOVA with homogeneity of variance tests, concepts of blocking, RCBD, fixed and random effects models with multiple comparison procedures, factorial experiments, nonparametric methods, an introduction to bootstrapping with IE-based case studies. Students will be able to appreciate the importance of good planning and also conduct and evaluate simple experiments.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "INDUSTRIAL & SYSTEMS ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

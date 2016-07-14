@@ -1,0 +1,23 @@
+{
+"moduleCode": "EC5361",
+"moduleTitle": "Labour Economics",
+"moduleCredit": "4",
+"lockedModules":[
+            "EC6361"
+        ],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "EC5361", 
+            "children": []
+},
+"moduleDescription": "Labour economics is a major area in economics and its importance to the Singapore economy need not be overemphasized. It is one of the largest and essential fields in economics. It studies the decision of everyday life, especially how people earn a living. It helps students to construct logical, internally consistent arguments concerning economic variables, and apply constructed models into real world. The module is offered in all U.S. top economics department. We would be able to fill the gap by offering the module to our graduate students. These courses cater to both coursework students and masters and PhD students who want do their research in labor related topics.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "ECONOMICS",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

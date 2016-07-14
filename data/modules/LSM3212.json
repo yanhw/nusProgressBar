@@ -1,0 +1,44 @@
+{
+"moduleCode": "LSM3212",
+"moduleTitle": "Human Physiology: Cardiopulmonary System",
+"moduleCredit": "4",
+"lockedModules":[
+            "LSM3214"
+        ],
+"preclusion": "NIL",
+"prerequisite": "LSM2101",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["LSM2101"]
+},
+"prerequisiteList": ["LSM2101","LSM1101","LSM1401"],
+"completePrerequisite": {
+            "name": "LSM3212", 
+            "children": [
+                {
+                    "name": "LSM2101", 
+                    "children": [
+                        {
+                            "name": "or", 
+                            "children": [
+                                {
+                                    "name": "LSM1101", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "LSM1401", 
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "The heart and lungs are central to the maintenance of homeostasis in the human body by bringing essential materials to and removing wastes from the body?s cells. This module covers the basic physiology of the cardiovascular and pulmonary systems using exercise to illustrate the onset of homeostatic imbalances and the body's responses to restore homeostasis. Students will be able to identify the benefits that exercise imparts to cardiorespiratory fitness and overall health.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "YONG LOO LIN SCHOOL OF MEDICINE",
+"department": "PHYSIOLOGY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

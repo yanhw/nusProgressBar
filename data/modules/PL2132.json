@@ -1,0 +1,61 @@
+{
+"moduleCode": "PL2132",
+"moduleTitle": "Research and Statistical Methods II",
+"moduleCredit": "4",
+"lockedModules":[
+            "PL3287",
+            "PL3286",
+            "PL3258",
+            "PL5221",
+            "PL3253",
+            "PL5225",
+            "PL5222",
+            "PL3261",
+            "PL3282C",
+            "PL3238",
+            "PL3239",
+            "PL3283B",
+            "PL3281",
+            "PL3282",
+            "PL3281A",
+            "PL3248",
+            "PL5222R",
+            "PL5225R",
+            "PL5221R",
+            "PL3282A"
+        ],
+"preclusion": "NIL",
+"prerequisite": "At least a B- in both PL1101E and PL2131, OR has declared Psychology as a major. Students who fail to meet the B- criterion in either of the modules, or both, will have the opportunity to take a department-conducted test, which will act as an alternative prerequisite.",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " and ": [
+                "PL1101E", 
+                "PL2131"
+            ]
+},
+"prerequisiteList": ["PL1101E","PL2131"],
+"completePrerequisite": {
+            "name": "PL2132", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "PL1101E", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "PL2131", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module builds on the methodological and statistical base prepared by PL2131. An essential module for psychology major students, it aims to provide knowledge and experience in conducting a psychological study. Methods of data collection in laboratory and field settings are taught alongside commonly-used statistical techniques for data analysis. Students are introduced to issues of design and analysis in factorial experiments and correlational studies. Students also do experiments in class and learn the use of computer statistical packages for data analysis. A group empirical project is required.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "PSYCHOLOGY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

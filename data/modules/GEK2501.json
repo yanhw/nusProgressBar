@@ -1,0 +1,24 @@
+{
+"moduleCode": "GEK2501",
+"moduleTitle": "Understanding your Medications",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "Preclusion(s): Medical, Dental, Pharmacy, Nursing and all 1st year students are precluded. Life Science students who have taken LSM3211 are also precluded. Life Science students who have taken GEK2501 will not be allowed to do LSM3211",
+"prerequisite": "Open only to 2nd, 3rd and 4th year students",
+"preclusionList": [
+            "LSM3211"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "GEK2501", 
+            "children": []
+},
+"moduleDescription": "The module will introduce students in the humanities to the general principles of drug actions that underpin their therapeutic applications. The science of drug action (pharmacology) will include two major areas of pharmacology, pharmacodynamics and pharmacokinetics, which provide the scientific foundation for the study of drug actions. In dealing with the therapeutic applications of drug actions, examples of commonly used drugs for specific disease states will be discussed, and their possible side-effects highlighted. The examples will illustrate the use of over-the-counter as well as prescription drugs.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "YONG LOO LIN SCHOOL OF MEDICINE",
+"department": "PHARMACOLOGY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

@@ -1,0 +1,22 @@
+{
+"moduleCode": "AR5953L",
+"moduleTitle": "Topics in Design Technology - Design Space Exploration",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "AR5953L", 
+            "children": []
+},
+"moduleDescription": "Computational design has grown in importance and is fundamentally changing the nature of the design process in architectural practice. This module focuses on the ability to explore alternative design solutions as a means to inform the design and decision-making process. Without computational means, it is generally infeasible to consider more than a few design alternatives, even if the design solution space is uncountably large. Using techniques such as parametric/associative modelling, rule-based generation and more general algorithmic design generation allows defining and investigating a family or language of designs. Besides investigating one or more such techniques, we will also investigate the main characteristics of the design space and its structure.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF DESIGN AND ENVIRONMENT",
+"department": "ARCHITECTURE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

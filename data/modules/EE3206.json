@@ -1,0 +1,57 @@
+{
+"moduleCode": "EE3206",
+"moduleTitle": "Intro To Comp Vision & Image Processing",
+"moduleCredit": "4",
+"lockedModules":[
+            "EE4212",
+            "EE4604",
+            "EE5731R"
+        ],
+"preclusion": "CS4243",
+"prerequisite": "EE2023",
+"preclusionList": [
+            "CS4243"
+        ],
+"parsedPrerequisite": {
+" and ": ["EE2023"]
+},
+"prerequisiteList": ["EE2023","MA1506","MA1102R","MA1505","MA1521"],
+"completePrerequisite": {
+            "name": "EE3206", 
+            "children": [
+                {
+                    "name": "EE2023", 
+                    "children": [
+                        {
+                            "name": "MA1506", 
+                            "children": [
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "MA1102R", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "MA1505", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "MA1521", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "The goal of this module is to introduce students to the fundamental concepts underlying digital image processing and techniques for manipulating and analysing image data. This course will provide students with a good foundation in computer vision and image processing, which is important for those intending to proceed to biomedical engineering, intelligent systems and multimedia signal processing. The following topics are taught: elements of a vision system, image acquisition, 2-D discrete Fourier transform, image enhancement techniques, theoretical basis and techniques for image compression, segmentation methods including edge detection, feature extraction including texture measurement, and object recognition.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "ELECTRICAL & COMPUTER ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

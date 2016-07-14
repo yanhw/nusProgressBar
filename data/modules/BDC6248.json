@@ -1,0 +1,22 @@
+{
+"moduleCode": "BDC6248",
+"moduleTitle": "Seminars In Operations Management I",
+"moduleCredit": "2",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "BDC6248", 
+            "children": []
+},
+"moduleDescription": "This is an advanced PhD level module on operations management that builds on the foundation courses. Specific content of this module will depend on student and faculty interests. This module will provide an opportunity for students to be exposed to cutting-edge research topics related to stochastic modeling or stochastic optimization that are not otherwise included in the curriculum.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF BUSINESS",
+"department": "DECISION SCIENCES",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,3,0,]]
+}

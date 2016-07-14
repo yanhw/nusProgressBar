@@ -1,0 +1,23 @@
+{
+"moduleCode": "PP5404",
+"moduleTitle": "Policy Analysis",
+"moduleCredit": "6",
+"lockedModules":[
+            "PP5172"
+        ],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "PP5404", 
+            "children": []
+},
+"moduleDescription": "Public policy crafters need to use reliable evidence when creating policy. In this module, students will learn the methodology and tools to be good consumers, users, and producers of research and be equipped with foundational analytic skills through a comprehensive introduction to the field of policy analysis, underlying theory, and major analytical toolkits. The emphasis will be on application, particularly through case studies and group projects addressing research questions that will flow through the year. Every attempt will be made to relate what is learnt in this module with the topics and issues addressed in the Policy Challenges module that will run in parallel. Policy Analysis will also serve as preparation for the Policy Analysis Exercise.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "LEE KUAN YEW SCHOOL OF PUBLIC POLICY",
+"department": "LEE KUAN YEW SCHOOL OF PUBLIC POLICY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

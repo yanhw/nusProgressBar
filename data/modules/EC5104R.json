@@ -1,0 +1,25 @@
+{
+"moduleCode": "EC5104R",
+"moduleTitle": "Mathematical Economics",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "EC5210, EC5311",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "EC5210",
+            "EC5311"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "EC5104R", 
+            "children": []
+},
+"moduleDescription": "Mathematical Economics",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "ECONOMICS",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

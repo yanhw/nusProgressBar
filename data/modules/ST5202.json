@@ -1,0 +1,24 @@
+{
+"moduleCode": "ST5202",
+"moduleTitle": "Applied Regression Analysis",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "ST5318",
+"prerequisite": "Departmental approval",
+"preclusionList": [
+            "ST5318"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "ST5202", 
+            "children": []
+},
+"moduleDescription": "Multiple regression, model diagnostics, remedial measures, variable selection techniques, non-leastsquares estimation, nonlinear models, one and two factor analysis of variance, analysis of covariance, linear model as special case of generalized linear model. This module is targeted at students who are interested in Statistics and are able to meet the pre-requisites.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCIENCE",
+"department": "STATISTICS & APPLIED PROBABILITY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

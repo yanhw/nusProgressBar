@@ -1,0 +1,22 @@
+{
+"moduleCode": "CO5312",
+"moduleTitle": "Occupational Ergonomics",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "CO5312", 
+            "children": []
+},
+
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SAW SWEE HOCK SCHOOL OF PUBLIC HEALTH",
+"department": "SAW SWEE HOCK SCHOOL OF PUBLIC HEALTH",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

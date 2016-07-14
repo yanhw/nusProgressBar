@@ -1,0 +1,57 @@
+{
+"moduleCode": "FST3104",
+"moduleTitle": "Food Sensory, Innovation and Packaging",
+"moduleCredit": "6",
+"lockedModules":[
+            "FST4103",
+            "FST4101"
+        ],
+"preclusion": "NIL",
+"prerequisite": "FST2102A and FST2106",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " and ": [
+                "FST2102A", 
+                "FST2106"
+            ]
+},
+"prerequisiteList": ["FST2102A","FST2106","FST1101","LSM1101"],
+"completePrerequisite": {
+            "name": "FST3104", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "FST2102A", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "FST2106", 
+                            "children": [
+                                {
+                                    "name": "and", 
+                                    "children": [
+                                        {
+                                            "name": "FST1101", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "LSM1101", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module covers sensory basis of food perception and preference, discrimination testing and determination of threshold values, basis of psycophysics in sensory evaluation, measurement of preference &amp; liking, basis of training a panel, sensory evaluation in quality control, experimental design and statistical analysis of sensory data, shelf life evaluation of food, food quality management. Students will also be able to gain experience in developing a new food product through a problem-based learning project, which will last throughout the semester.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCIENCE",
+"department": "CHEMISTRY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

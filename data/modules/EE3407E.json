@@ -1,0 +1,41 @@
+{
+"moduleCode": "EE3407E",
+"moduleTitle": "Analog Electronics",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "EE2005E or EE2021E",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " or ": [
+                "EE2005E", 
+                "EE2021E"
+            ]
+},
+"prerequisiteList": ["EE2005E","EE2021E"],
+"completePrerequisite": {
+            "name": "EE3407E", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "EE2005E", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "EE2021E", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module provides students with essential concepts in electronics to enable them to understand and design complex electronics circuits and systems for processing analog signals.Topics covered: Techniques for implementing specific amplifier frequency response involving poles and time constants; Negative feedback amplifiers; Oscillators: RC, LC and crystal-controlled oscillators; Power amplifiers: Output stage, efficiency and distortion; DC power supply design: Linear and switching regulators, current limiting; Mixer, modulators and demodulators for communication systems; Active filters; Instrumentation amplifiers, CMRR; Applications of current mirror circuits.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "ENGINEERING",
+"department": "BACHELOR OF TECHNOLOGY PROGRAMME",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

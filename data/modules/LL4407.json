@@ -1,0 +1,22 @@
+{
+"moduleCode": "LL4407",
+"moduleTitle": "Law Of Insurance",
+"moduleCredit": "8",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "NUS Compulsory Core Law Curriculum or equivalent.",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "LL4407", 
+            "children": []
+},
+"moduleDescription": "This course deals with the principles and doctrines underpinning the formation and validity of insurance policies. It seeks to help students appreciate concepts of risk management, the protection of commercial businesses assets and the protection of individual lives against unforeseen contingencies and losses that may arise. Topics include the nature of general insurance contracts, formation of insurance contracts, peculiar insurance doctrines such as non disclosure, warranties and subrogation, claims procedure, doctrine of indemnity and measuring your losses, and third party rights. The techniques of successfully claiming under the policy and resisting the insurer's wrongful denial of claims will be covered.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "LAW",
+"department": "LAW",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

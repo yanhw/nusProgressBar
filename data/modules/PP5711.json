@@ -1,0 +1,22 @@
+{
+"moduleCode": "PP5711",
+"moduleTitle": "Urban Development and Policy",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "PP5711", 
+            "children": []
+},
+"moduleDescription": "This course examines the development of urban areas and the public policies that lead to rational and effective urban structures and institutions. The course begins with an examination of the theories and principles that explain the existence of regions and cities. These principles will then be used to establish criteria for evaluating urban policies and to look at several urban problems. Substantive areas which will be explored in the course include land use, housing, transportation, economic development, the environment, urban public finance, and intergovernmental organisations/institutions.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "LEE KUAN YEW SCHOOL OF PUBLIC POLICY",
+"department": "LEE KUAN YEW SCHOOL OF PUBLIC POLICY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

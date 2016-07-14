@@ -1,0 +1,41 @@
+{
+"moduleCode": "ENV3103",
+"moduleTitle": "Environmental Economics & Policy",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "For Environmental Studies students who have passed EC1101E or EC1301",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " or ": [
+                "EC1101E", 
+                "EC1301"
+            ]
+},
+"prerequisiteList": ["EC1101E","EC1301"],
+"completePrerequisite": {
+            "name": "ENV3103", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "EC1101E", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "EC1301", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module provides a comprehensive coverage of environmental economics and has been structured on the premise that course participants have little background in economics. The main objective of the module is to illustrate the following premises: the natural environment is the core of any economy and economic sustainability cannot be attained without environmental sustainability. The module consists of three parts, namely microeconomics of the environment, macroeconomics of the environment and environmental policy.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "SCIENCE",
+"department": "DEAN'S OFFICE (SCIENCE)",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

@@ -1,0 +1,24 @@
+{
+"moduleCode": "SSA1208",
+"moduleTitle": "Everyday Life of Chinese Singaporeans: Past & Present (taught in English)",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "GES1005",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "GES1005"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "SSA1208", 
+            "children": []
+},
+"moduleDescription": "Studies on the everyday life of ordinary people offer an important perspective for understanding human history. This module examines the daily life of Chinese Singaporeans during the late 19th to 20th centuries, focusing on their cultural expressions and social actions, revolving around eight geo-cultural sites, namely, Singapore River, Chinatown, Chinese temples, clan associations, opera stages, amusement parks, hawker centres, and streets/roads. Students are asked to compare the past and present of these sites through oral history and fieldwork observation.",
+"crossModule": "-1",
+"corequisite": "Nil",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "CHINESE STUDIES",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

@@ -1,0 +1,29 @@
+{
+"moduleCode": "BZD6004",
+"moduleTitle": "Applied Econometrics II",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "BZD6003 Applied Econometrics I",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["BZD6003"]
+},
+"prerequisiteList": ["BZD6003"],
+"completePrerequisite": {
+            "name": "BZD6004", 
+            "children": [
+                {
+                    "name": "BZD6003", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "This course applies econometric theory to connect statistics to business research. The emphasis venters on implementing existing econometric techniques and the ability to understand new empirical procedures. This intermediate course centers on identifying the ideal test procedure for the question of interest including experiments, observational data and simulations.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF BUSINESS",
+"department": "FINANCE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

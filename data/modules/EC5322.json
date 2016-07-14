@@ -1,0 +1,25 @@
+{
+"moduleCode": "EC5322",
+"moduleTitle": "Industrial Organisation",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "EC5215, EC5268",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "EC5268",
+            "EC5215"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "EC5322", 
+            "children": []
+},
+"moduleDescription": "The purpose of this course is to make in-depth analysis and understand various theoretical issues of modern industrial organisation. The approach of this course is game theoretic. In the beginning, basic concepts of non-cooperative game theory are reviewed in detail. This lays the foundation to study various applications of game theoretic models in the field of industrial organisation. The course is aimed for Masters' students and researchers in Economics interested in the area of Industrial Organisation.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "ECONOMICS",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

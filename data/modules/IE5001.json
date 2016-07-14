@@ -1,0 +1,24 @@
+{
+"moduleCode": "IE5001",
+"moduleTitle": "Operations Planning And Control I",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "BDC5101 Deterministic Operations Research Models",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "BDC5101"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "IE5001", 
+            "children": []
+},
+"moduleDescription": "Operations research and its applications, mainly in the area of production planning and control: linear programming, network analysis, project planning and scheduling, dynamic programming, inventory control models, queueing theory, replacement theory and maintenance models.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "INDUSTRIAL & SYSTEMS ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

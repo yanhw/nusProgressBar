@@ -1,0 +1,22 @@
+{
+"moduleCode": "GEK1046",
+"moduleTitle": "Introduction to Cultural Studies",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "GEK1046", 
+            "children": []
+},
+"moduleDescription": "The course examines the import of \"culture\"for understanding human activity and the history of the emergence of Cultural Studies as a discipline within the university. Specifically it explores the theoretical and methodological tools that have defined the field, as well as the objects to which they are turned. The course addresses the following areas: theories and models of communication; the history of broadcasting and broadcasting institutions; current and future developments in media technology; and cyberspace. Starting with an introduction to key theoretical concepts, the course examines the production and consumption of a range of popular cultural forms including film, television, popular fiction, and music.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "ENGLISH LANGUAGE & LITERATURE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

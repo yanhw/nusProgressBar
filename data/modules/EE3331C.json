@@ -1,0 +1,60 @@
+{
+"moduleCode": "EE3331C",
+"moduleTitle": "Feedback Control Systems",
+"moduleCredit": "4",
+"lockedModules":[
+            "EE3302",
+            "EE3304",
+            "ME4245",
+            "EE4302",
+            "EE4307",
+            "EE4306"
+        ],
+"preclusion": "EE2010 Systems & Control",
+"prerequisite": "EE2023 Signals and Systems",
+"preclusionList": [
+            "EE2010"
+        ],
+"parsedPrerequisite": {
+" and ": ["EE2023"]
+},
+"prerequisiteList": ["EE2023","MA1506","MA1102R","MA1505","MA1521"],
+"completePrerequisite": {
+            "name": "EE3331C", 
+            "children": [
+                {
+                    "name": "EE2023", 
+                    "children": [
+                        {
+                            "name": "MA1506", 
+                            "children": [
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "MA1102R", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "MA1505", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "MA1521", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "Feedback systems are ubiquitous in both the natural and engineered world. They are essential for maintaining our environment, enabling our transportation and communications systems; and are critical elements in our aerospace and industrial systems. For the most part, feedback control systems function accurately and reliably in the background. This course aims at introducing the magic of feedback, and tools for analysing and designing control systems. The fundamental knowledge of feedback and the related area of control systems are useful to students with diverse interests. Topics covered include feedback principles, time and frequency analysis of control systems, and simple controller design.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "ELECTRICAL & COMPUTER ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

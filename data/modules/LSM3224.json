@@ -1,0 +1,73 @@
+{
+"moduleCode": "LSM3224",
+"moduleTitle": "Molecular Basis of Human Diseases",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "LSM2101 and LSM2103",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " and ": [
+                "LSM2101", 
+                "LSM2103"
+            ]
+},
+"prerequisiteList": ["LSM2101","LSM1101","LSM1401","LSM2103","LSM1102"],
+"completePrerequisite": {
+            "name": "LSM3224", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "LSM2101", 
+                            "children": [
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "LSM1101", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "LSM1401", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "LSM2103", 
+                            "children": [
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "LSM1101", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "LSM1401", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "LSM1102", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module aims to provide students primarily with in-depth knowledge of the basic molecular mechanisms of common human diseases, such as cancer, atherosclerosis, obesity, diabetes, and muscle wasting conditions; and to prepare them for future translational research. There will be extensive discussion on results from current cutting-edge research. Since the focus of this module is on the current molecular mechanisms underlying the pathogenesis of each disease, prospective students should have basic knowledge of molecular and cell biology, genetics and general human physiology before registering for this module.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "YONG LOO LIN SCHOOL OF MEDICINE",
+"department": "BIOCHEMISTRY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

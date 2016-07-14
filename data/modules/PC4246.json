@@ -1,0 +1,935 @@
+{
+"moduleCode": "PC4246",
+"moduleTitle": "Quantum Optics",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "Students who have passed either PC3130 or PC3243",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " or ": [
+                "PC3130", 
+                "PC3243"
+            ]
+},
+"prerequisiteList": ["PC3130","PC2130","PC1144","PC1432","MA1505","MA1506","MA1102R","MA1521","MA1101R","PC2130B","PC1432X","PC1433","PC2174","PC3243","PC2131","PC1143","PC2231","PC3241","PC3235","MLE2104","EG1109F","EG1109","CE1109X","MLE1101","MLE2101","PC2133","EE2005"],
+"completePrerequisite": {
+            "name": "PC4246", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "PC3130", 
+                            "children": [
+                                {
+                                    "name": "and", 
+                                    "children": [
+                                        {
+                                            "name": "or", 
+                                            "children": [
+                                                {
+                                                    "name": "PC2130", 
+                                                    "children": [
+                                                        {
+                                                            "name": "and", 
+                                                            "children": [
+                                                                {
+                                                                    "name": "or", 
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "PC1144", 
+                                                                            "children": []
+                                                                        }, 
+                                                                        {
+                                                                            "name": "PC1432", 
+                                                                            "children": []
+                                                                        }
+                                                                    ]
+                                                                }, 
+                                                                {
+                                                                    "name": "or", 
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "and", 
+                                                                            "children": [
+                                                                                {
+                                                                                    "name": "MA1505", 
+                                                                                    "children": []
+                                                                                }, 
+                                                                                {
+                                                                                    "name": "MA1506", 
+                                                                                    "children": [
+                                                                                        {
+                                                                                            "name": "or", 
+                                                                                            "children": [
+                                                                                                {
+                                                                                                    "name": "MA1102R", 
+                                                                                                    "children": []
+                                                                                                }, 
+                                                                                                {
+                                                                                                    "name": "MA1505", 
+                                                                                                    "children": []
+                                                                                                }, 
+                                                                                                {
+                                                                                                    "name": "MA1521", 
+                                                                                                    "children": []
+                                                                                                }
+                                                                                            ]
+                                                                                        }
+                                                                                    ]
+                                                                                }
+                                                                            ]
+                                                                        }, 
+                                                                        {
+                                                                            "name": "and", 
+                                                                            "children": [
+                                                                                {
+                                                                                    "name": "MA1101R", 
+                                                                                    "children": []
+                                                                                }, 
+                                                                                {
+                                                                                    "name": "MA1102R", 
+                                                                                    "children": []
+                                                                                }
+                                                                            ]
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }, 
+                                                {
+                                                    "name": "PC2130B", 
+                                                    "children": [
+                                                        {
+                                                            "name": "or", 
+                                                            "children": [
+                                                                {
+                                                                    "name": "PC1144", 
+                                                                    "children": []
+                                                                }, 
+                                                                {
+                                                                    "name": "PC1432", 
+                                                                    "children": []
+                                                                }, 
+                                                                {
+                                                                    "name": "PC1432X", 
+                                                                    "children": []
+                                                                }, 
+                                                                {
+                                                                    "name": "PC1433", 
+                                                                    "children": []
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "and", 
+                                            "children": [
+                                                {
+                                                    "name": "MA1505", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MA1506", 
+                                                    "children": [
+                                                        {
+                                                            "name": "or", 
+                                                            "children": [
+                                                                {
+                                                                    "name": "MA1102R", 
+                                                                    "children": []
+                                                                }, 
+                                                                {
+                                                                    "name": "MA1505", 
+                                                                    "children": []
+                                                                }, 
+                                                                {
+                                                                    "name": "MA1521", 
+                                                                    "children": []
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "PC2130", 
+                                            "children": [
+                                                {
+                                                    "name": "and", 
+                                                    "children": [
+                                                        {
+                                                            "name": "or", 
+                                                            "children": [
+                                                                {
+                                                                    "name": "PC1144", 
+                                                                    "children": []
+                                                                }, 
+                                                                {
+                                                                    "name": "PC1432", 
+                                                                    "children": []
+                                                                }
+                                                            ]
+                                                        }, 
+                                                        {
+                                                            "name": "or", 
+                                                            "children": [
+                                                                {
+                                                                    "name": "and", 
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "MA1505", 
+                                                                            "children": []
+                                                                        }, 
+                                                                        {
+                                                                            "name": "MA1506", 
+                                                                            "children": [
+                                                                                {
+                                                                                    "name": "or", 
+                                                                                    "children": [
+                                                                                        {
+                                                                                            "name": "MA1102R", 
+                                                                                            "children": []
+                                                                                        }, 
+                                                                                        {
+                                                                                            "name": "MA1505", 
+                                                                                            "children": []
+                                                                                        }, 
+                                                                                        {
+                                                                                            "name": "MA1521", 
+                                                                                            "children": []
+                                                                                        }
+                                                                                    ]
+                                                                                }
+                                                                            ]
+                                                                        }
+                                                                    ]
+                                                                }, 
+                                                                {
+                                                                    "name": "and", 
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "MA1101R", 
+                                                                            "children": []
+                                                                        }, 
+                                                                        {
+                                                                            "name": "MA1102R", 
+                                                                            "children": []
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "PC2174", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "PC3243", 
+                            "children": [
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "PC2131", 
+                                            "children": [
+                                                {
+                                                    "name": "and", 
+                                                    "children": [
+                                                        {
+                                                            "name": "or", 
+                                                            "children": [
+                                                                {
+                                                                    "name": "PC1143", 
+                                                                    "children": []
+                                                                }, 
+                                                                {
+                                                                    "name": "PC1432", 
+                                                                    "children": []
+                                                                }
+                                                            ]
+                                                        }, 
+                                                        {
+                                                            "name": "or", 
+                                                            "children": [
+                                                                {
+                                                                    "name": "and", 
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "MA1505", 
+                                                                            "children": []
+                                                                        }, 
+                                                                        {
+                                                                            "name": "MA1506", 
+                                                                            "children": [
+                                                                                {
+                                                                                    "name": "or", 
+                                                                                    "children": [
+                                                                                        {
+                                                                                            "name": "MA1102R", 
+                                                                                            "children": []
+                                                                                        }, 
+                                                                                        {
+                                                                                            "name": "MA1505", 
+                                                                                            "children": []
+                                                                                        }, 
+                                                                                        {
+                                                                                            "name": "MA1521", 
+                                                                                            "children": []
+                                                                                        }
+                                                                                    ]
+                                                                                }
+                                                                            ]
+                                                                        }
+                                                                    ]
+                                                                }, 
+                                                                {
+                                                                    "name": "and", 
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "MA1101R", 
+                                                                            "children": []
+                                                                        }, 
+                                                                        {
+                                                                            "name": "MA1102R", 
+                                                                            "children": []
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "PC2231", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "PC3130", 
+                                            "children": [
+                                                {
+                                                    "name": "and", 
+                                                    "children": [
+                                                        {
+                                                            "name": "or", 
+                                                            "children": [
+                                                                {
+                                                                    "name": "PC2130", 
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "and", 
+                                                                            "children": [
+                                                                                {
+                                                                                    "name": "or", 
+                                                                                    "children": [
+                                                                                        {
+                                                                                            "name": "PC1144", 
+                                                                                            "children": []
+                                                                                        }, 
+                                                                                        {
+                                                                                            "name": "PC1432", 
+                                                                                            "children": []
+                                                                                        }
+                                                                                    ]
+                                                                                }, 
+                                                                                {
+                                                                                    "name": "or", 
+                                                                                    "children": [
+                                                                                        {
+                                                                                            "name": "and", 
+                                                                                            "children": [
+                                                                                                {
+                                                                                                    "name": "MA1505", 
+                                                                                                    "children": []
+                                                                                                }, 
+                                                                                                {
+                                                                                                    "name": "MA1506", 
+                                                                                                    "children": [
+                                                                                                        {
+                                                                                                            "name": "or", 
+                                                                                                            "children": [
+                                                                                                                {
+                                                                                                                    "name": "MA1102R", 
+                                                                                                                    "children": []
+                                                                                                                }, 
+                                                                                                                {
+                                                                                                                    "name": "MA1505", 
+                                                                                                                    "children": []
+                                                                                                                }, 
+                                                                                                                {
+                                                                                                                    "name": "MA1521", 
+                                                                                                                    "children": []
+                                                                                                                }
+                                                                                                            ]
+                                                                                                        }
+                                                                                                    ]
+                                                                                                }
+                                                                                            ]
+                                                                                        }, 
+                                                                                        {
+                                                                                            "name": "and", 
+                                                                                            "children": [
+                                                                                                {
+                                                                                                    "name": "MA1101R", 
+                                                                                                    "children": []
+                                                                                                }, 
+                                                                                                {
+                                                                                                    "name": "MA1102R", 
+                                                                                                    "children": []
+                                                                                                }
+                                                                                            ]
+                                                                                        }
+                                                                                    ]
+                                                                                }
+                                                                            ]
+                                                                        }
+                                                                    ]
+                                                                }, 
+                                                                {
+                                                                    "name": "PC2130B", 
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "or", 
+                                                                            "children": [
+                                                                                {
+                                                                                    "name": "PC1144", 
+                                                                                    "children": []
+                                                                                }, 
+                                                                                {
+                                                                                    "name": "PC1432", 
+                                                                                    "children": []
+                                                                                }, 
+                                                                                {
+                                                                                    "name": "PC1432X", 
+                                                                                    "children": []
+                                                                                }, 
+                                                                                {
+                                                                                    "name": "PC1433", 
+                                                                                    "children": []
+                                                                                }
+                                                                            ]
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }, 
+                                                        {
+                                                            "name": "and", 
+                                                            "children": [
+                                                                {
+                                                                    "name": "MA1505", 
+                                                                    "children": []
+                                                                }, 
+                                                                {
+                                                                    "name": "MA1506", 
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "or", 
+                                                                            "children": [
+                                                                                {
+                                                                                    "name": "MA1102R", 
+                                                                                    "children": []
+                                                                                }, 
+                                                                                {
+                                                                                    "name": "MA1505", 
+                                                                                    "children": []
+                                                                                }, 
+                                                                                {
+                                                                                    "name": "MA1521", 
+                                                                                    "children": []
+                                                                                }
+                                                                            ]
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }, 
+                                                        {
+                                                            "name": "PC2130", 
+                                                            "children": [
+                                                                {
+                                                                    "name": "and", 
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "or", 
+                                                                            "children": [
+                                                                                {
+                                                                                    "name": "PC1144", 
+                                                                                    "children": []
+                                                                                }, 
+                                                                                {
+                                                                                    "name": "PC1432", 
+                                                                                    "children": []
+                                                                                }
+                                                                            ]
+                                                                        }, 
+                                                                        {
+                                                                            "name": "or", 
+                                                                            "children": [
+                                                                                {
+                                                                                    "name": "and", 
+                                                                                    "children": [
+                                                                                        {
+                                                                                            "name": "MA1505", 
+                                                                                            "children": []
+                                                                                        }, 
+                                                                                        {
+                                                                                            "name": "MA1506", 
+                                                                                            "children": [
+                                                                                                {
+                                                                                                    "name": "or", 
+                                                                                                    "children": [
+                                                                                                        {
+                                                                                                            "name": "MA1102R", 
+                                                                                                            "children": []
+                                                                                                        }, 
+                                                                                                        {
+                                                                                                            "name": "MA1505", 
+                                                                                                            "children": []
+                                                                                                        }, 
+                                                                                                        {
+                                                                                                            "name": "MA1521", 
+                                                                                                            "children": []
+                                                                                                        }
+                                                                                                    ]
+                                                                                                }
+                                                                                            ]
+                                                                                        }
+                                                                                    ]
+                                                                                }, 
+                                                                                {
+                                                                                    "name": "and", 
+                                                                                    "children": [
+                                                                                        {
+                                                                                            "name": "MA1101R", 
+                                                                                            "children": []
+                                                                                        }, 
+                                                                                        {
+                                                                                            "name": "MA1102R", 
+                                                                                            "children": []
+                                                                                        }
+                                                                                    ]
+                                                                                }
+                                                                            ]
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }, 
+                                                        {
+                                                            "name": "PC2174", 
+                                                            "children": []
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "PC3241", 
+                                            "children": [
+                                                {
+                                                    "name": "or", 
+                                                    "children": [
+                                                        {
+                                                            "name": "PC2131", 
+                                                            "children": [
+                                                                {
+                                                                    "name": "and", 
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "or", 
+                                                                            "children": [
+                                                                                {
+                                                                                    "name": "PC1143", 
+                                                                                    "children": []
+                                                                                }, 
+                                                                                {
+                                                                                    "name": "PC1432", 
+                                                                                    "children": []
+                                                                                }
+                                                                            ]
+                                                                        }, 
+                                                                        {
+                                                                            "name": "or", 
+                                                                            "children": [
+                                                                                {
+                                                                                    "name": "and", 
+                                                                                    "children": [
+                                                                                        {
+                                                                                            "name": "MA1505", 
+                                                                                            "children": []
+                                                                                        }, 
+                                                                                        {
+                                                                                            "name": "MA1506", 
+                                                                                            "children": [
+                                                                                                {
+                                                                                                    "name": "or", 
+                                                                                                    "children": [
+                                                                                                        {
+                                                                                                            "name": "MA1102R", 
+                                                                                                            "children": []
+                                                                                                        }, 
+                                                                                                        {
+                                                                                                            "name": "MA1505", 
+                                                                                                            "children": []
+                                                                                                        }, 
+                                                                                                        {
+                                                                                                            "name": "MA1521", 
+                                                                                                            "children": []
+                                                                                                        }
+                                                                                                    ]
+                                                                                                }
+                                                                                            ]
+                                                                                        }
+                                                                                    ]
+                                                                                }, 
+                                                                                {
+                                                                                    "name": "and", 
+                                                                                    "children": [
+                                                                                        {
+                                                                                            "name": "MA1101R", 
+                                                                                            "children": []
+                                                                                        }, 
+                                                                                        {
+                                                                                            "name": "MA1102R", 
+                                                                                            "children": []
+                                                                                        }
+                                                                                    ]
+                                                                                }
+                                                                            ]
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }, 
+                                                        {
+                                                            "name": "PC2231", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "PC3235", 
+                                                            "children": [
+                                                                {
+                                                                    "name": "or", 
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "PC2130", 
+                                                                            "children": [
+                                                                                {
+                                                                                    "name": "and", 
+                                                                                    "children": [
+                                                                                        {
+                                                                                            "name": "or", 
+                                                                                            "children": [
+                                                                                                {
+                                                                                                    "name": "PC1144", 
+                                                                                                    "children": []
+                                                                                                }, 
+                                                                                                {
+                                                                                                    "name": "PC1432", 
+                                                                                                    "children": []
+                                                                                                }
+                                                                                            ]
+                                                                                        }, 
+                                                                                        {
+                                                                                            "name": "or", 
+                                                                                            "children": [
+                                                                                                {
+                                                                                                    "name": "and", 
+                                                                                                    "children": [
+                                                                                                        {
+                                                                                                            "name": "MA1505", 
+                                                                                                            "children": []
+                                                                                                        }, 
+                                                                                                        {
+                                                                                                            "name": "MA1506", 
+                                                                                                            "children": [
+                                                                                                                {
+                                                                                                                    "name": "or", 
+                                                                                                                    "children": [
+                                                                                                                        {
+                                                                                                                            "name": "MA1102R", 
+                                                                                                                            "children": []
+                                                                                                                        }, 
+                                                                                                                        {
+                                                                                                                            "name": "MA1505", 
+                                                                                                                            "children": []
+                                                                                                                        }, 
+                                                                                                                        {
+                                                                                                                            "name": "MA1521", 
+                                                                                                                            "children": []
+                                                                                                                        }
+                                                                                                                    ]
+                                                                                                                }
+                                                                                                            ]
+                                                                                                        }
+                                                                                                    ]
+                                                                                                }, 
+                                                                                                {
+                                                                                                    "name": "and", 
+                                                                                                    "children": [
+                                                                                                        {
+                                                                                                            "name": "MA1101R", 
+                                                                                                            "children": []
+                                                                                                        }, 
+                                                                                                        {
+                                                                                                            "name": "MA1102R", 
+                                                                                                            "children": []
+                                                                                                        }
+                                                                                                    ]
+                                                                                                }
+                                                                                            ]
+                                                                                        }
+                                                                                    ]
+                                                                                }
+                                                                            ]
+                                                                        }, 
+                                                                        {
+                                                                            "name": "PC2130B", 
+                                                                            "children": [
+                                                                                {
+                                                                                    "name": "or", 
+                                                                                    "children": [
+                                                                                        {
+                                                                                            "name": "PC1144", 
+                                                                                            "children": []
+                                                                                        }, 
+                                                                                        {
+                                                                                            "name": "PC1432", 
+                                                                                            "children": []
+                                                                                        }, 
+                                                                                        {
+                                                                                            "name": "PC1432X", 
+                                                                                            "children": []
+                                                                                        }, 
+                                                                                        {
+                                                                                            "name": "PC1433", 
+                                                                                            "children": []
+                                                                                        }
+                                                                                    ]
+                                                                                }
+                                                                            ]
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }, 
+                                                        {
+                                                            "name": "MLE2104", 
+                                                            "children": [
+                                                                {
+                                                                    "name": "or", 
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "EG1109F", 
+                                                                            "children": []
+                                                                        }, 
+                                                                        {
+                                                                            "name": "EG1109", 
+                                                                            "children": []
+                                                                        }, 
+                                                                        {
+                                                                            "name": "CE1109X", 
+                                                                            "children": []
+                                                                        }, 
+                                                                        {
+                                                                            "name": "MLE1101", 
+                                                                            "children": []
+                                                                        }, 
+                                                                        {
+                                                                            "name": "MLE2101", 
+                                                                            "children": []
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }, 
+                                                        {
+                                                            "name": "PC2133", 
+                                                            "children": [
+                                                                {
+                                                                    "name": "or", 
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "PC1144", 
+                                                                            "children": []
+                                                                        }, 
+                                                                        {
+                                                                            "name": "PC1433", 
+                                                                            "children": []
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }, 
+                                                        {
+                                                            "name": "EE2005", 
+                                                            "children": []
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "PC3235", 
+                                            "children": [
+                                                {
+                                                    "name": "or", 
+                                                    "children": [
+                                                        {
+                                                            "name": "PC2130", 
+                                                            "children": [
+                                                                {
+                                                                    "name": "and", 
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "or", 
+                                                                            "children": [
+                                                                                {
+                                                                                    "name": "PC1144", 
+                                                                                    "children": []
+                                                                                }, 
+                                                                                {
+                                                                                    "name": "PC1432", 
+                                                                                    "children": []
+                                                                                }
+                                                                            ]
+                                                                        }, 
+                                                                        {
+                                                                            "name": "or", 
+                                                                            "children": [
+                                                                                {
+                                                                                    "name": "and", 
+                                                                                    "children": [
+                                                                                        {
+                                                                                            "name": "MA1505", 
+                                                                                            "children": []
+                                                                                        }, 
+                                                                                        {
+                                                                                            "name": "MA1506", 
+                                                                                            "children": [
+                                                                                                {
+                                                                                                    "name": "or", 
+                                                                                                    "children": [
+                                                                                                        {
+                                                                                                            "name": "MA1102R", 
+                                                                                                            "children": []
+                                                                                                        }, 
+                                                                                                        {
+                                                                                                            "name": "MA1505", 
+                                                                                                            "children": []
+                                                                                                        }, 
+                                                                                                        {
+                                                                                                            "name": "MA1521", 
+                                                                                                            "children": []
+                                                                                                        }
+                                                                                                    ]
+                                                                                                }
+                                                                                            ]
+                                                                                        }
+                                                                                    ]
+                                                                                }, 
+                                                                                {
+                                                                                    "name": "and", 
+                                                                                    "children": [
+                                                                                        {
+                                                                                            "name": "MA1101R", 
+                                                                                            "children": []
+                                                                                        }, 
+                                                                                        {
+                                                                                            "name": "MA1102R", 
+                                                                                            "children": []
+                                                                                        }
+                                                                                    ]
+                                                                                }
+                                                                            ]
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }, 
+                                                        {
+                                                            "name": "PC2130B", 
+                                                            "children": [
+                                                                {
+                                                                    "name": "or", 
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "PC1144", 
+                                                                            "children": []
+                                                                        }, 
+                                                                        {
+                                                                            "name": "PC1432", 
+                                                                            "children": []
+                                                                        }, 
+                                                                        {
+                                                                            "name": "PC1432X", 
+                                                                            "children": []
+                                                                        }, 
+                                                                        {
+                                                                            "name": "PC1433", 
+                                                                            "children": []
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "PC2133", 
+                                            "children": [
+                                                {
+                                                    "name": "or", 
+                                                    "children": [
+                                                        {
+                                                            "name": "PC1144", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "PC1433", 
+                                                            "children": []
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "EE2005", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module is an introduction to the quantum description of the electromagnetic field, with a special focus on phenomena at optical frequencies; in short, \u201cquantum optics\u201d. It starts with two introductory chapters: a concise reminder of important facts and devices of classical optics; and a presentation of typical quantum phenomena that have been observed with light (entanglement, violation of Bell's inequalities, teleportation\u2026). The core of the module is the canonical quantization of the electromagnetic field and the introduction of the corresponding vector space (\u201cFock space\u201d) and field operators. Then, we present the main families of states (number, thermal, coherent, squeezed) and the most typical measurement techniques (photo-detection, homodyne measurement, first- and second-order coherence, Hong-Ou-\\Mandel bunching). The statistical nature of light fields is highlighted. Finally, we present the basic case studies of photon-atom interactions in the full quantum approach: cavity quantum electrodynamics (Janyes-Cummings model), spontaneous decay (Wigner-Weisskopf approach).",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCIENCE",
+"department": "PHYSICS",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

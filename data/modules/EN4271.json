@@ -1,0 +1,24 @@
+{
+"moduleCode": "EN4271",
+"moduleTitle": "Research Workshop",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "EL4200",
+"prerequisite": "Cohort 2011 and before: For EN and TS students - Completed 80 MCs including 28 MCs in EN or 28 MCs in TS, with a minimum CAP of 3.50 or be on the Honours track. For EU students - Completed 80 MCs including 28 MCs in EL, EN or TS modules, or a combination from the three (Literary and/or linguistic modules from other departments may also contribute towards the 28 MCs total at the module chair's discretion), with a minimum CAP of 3.50 or be on the Honours track. Cohort 2012 onwards: For EN and TS students - Completed 80 MCs including 28 MCs in EN or 28 MCs in TS, with a minimum CAP of 3.20 or be on the Honours track. For EU students - Completed 80 MCs including 28 MCs in EL, EN or TS modules, or a combination from the three (Literary and/or linguistic modules from other departments may also contribute towards the 28 MCs total at the module chair's discretion), with a minimum CAP of 3.20 or be on the Honours track.",
+"preclusionList": [
+            "EL4200"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "EN4271", 
+            "children": []
+},
+"moduleDescription": "As part of the preparation for writing research papers or Honours Theses, this module aims to help students understand the interpretative strategies, modes of argumentation, criteria for evaluating claims, analyses and theories, as well as expectations and conventions governing research in diverse areas of literary studies. The major topics will include research areas and questions; research claims; interpretative methods; evidence and argumentation; critical evaluation of academic argument; and rhetorical conventions and strategies.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "ENGLISH LANGUAGE & LITERATURE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

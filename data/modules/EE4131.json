@@ -1,0 +1,106 @@
+{
+"moduleCode": "EE4131",
+"moduleTitle": "Random Signals",
+"moduleCredit": "4",
+"lockedModules":[
+            "EE5133"
+        ],
+"preclusion": "EE5306 Random Signals Analysis and EE5137R Stochastic Processes",
+"prerequisite": "EE2012 Analytical Methods in ECE or ST2334 Probability and Statistics and EE2023 Signals and Systems",
+"preclusionList": [
+            "EE5306",
+            "EE5137R"
+        ],
+"parsedPrerequisite": {
+            " and ": [
+                "ST2334", 
+                "EE2023"
+            ]
+},
+"prerequisiteList": ["ST2334","MA1306","MA1102","MA1102R","MA1505","MA1505C","MA1521","MA1312","MA1507","EE2023","MA1506"],
+"completePrerequisite": {
+            "name": "EE4131", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "ST2334", 
+                            "children": [
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "MA1306", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "MA1102", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "MA1102R", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "MA1505", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "MA1505C", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "MA1521", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "MA1312", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "MA1507", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "EE2023", 
+                            "children": [
+                                {
+                                    "name": "MA1506", 
+                                    "children": [
+                                        {
+                                            "name": "or", 
+                                            "children": [
+                                                {
+                                                    "name": "MA1102R", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MA1505", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MA1521", 
+                                                    "children": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module is designed to serve as a first course in stochastic signal analysis-and-processing for senior and graduate engineering students. It aims to bridge the gap between the elements of probability theory, as taught in early undergraduate level modules, and the basic concepts needed in contemporary signal processing applications. Topics include: general concepts and classification of random variables and stochastic processes; transformation of random variables; effects of linear time-invariant filtering on the autocorrelation function and power spectrum of a stochastic process; Gaussian, chi and chi-square statistics; random binary signals, random walk process, Wiener-L\u00e9vy process; Poisson and related processes; random telegraph signals.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "ELECTRICAL & COMPUTER ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

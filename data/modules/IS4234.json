@@ -1,0 +1,63 @@
+{
+"moduleCode": "IS4234",
+"moduleTitle": "Control and Audit of Information Systems",
+"moduleCredit": "4",
+"lockedModules":[
+            "IS5151"
+        ],
+"preclusion": "CS4252",
+"prerequisite": "Pass 80 MCs and [CS3254 or IS4231]",
+"preclusionList": [
+            "CS4252"
+        ],
+"parsedPrerequisite": {
+            " or ": [
+                "CS3254", 
+                "IS4231"
+            ]
+},
+"prerequisiteList": ["CS3254","IS4231","CS2107","CS1010","IS3230"],
+"completePrerequisite": {
+            "name": "IS4234", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "CS3254", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "IS4231", 
+                            "children": [
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "CS2107", 
+                                            "children": [
+                                                {
+                                                    "name": "CS1010", 
+                                                    "children": []
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "IS3230", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "The aim of this module is to provide an in-depth study of information systems security in business organisations. This module provides an opportunity for students to examine the design of security control and auditing processes and procedures of information systems from a management perspective. The course will cover the economics of security, principles of management and application control, evidence gathering and evaluation, auditing procedures and techniques. The emphasis of this course is on the managerial and business issues rather than technical issues such as encryption algorithms and virus-manipulation.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF COMPUTING",
+"department": "INFORMATION SYSTEMS",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

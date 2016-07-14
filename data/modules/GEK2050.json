@@ -1,0 +1,24 @@
+{
+"moduleCode": "GEK2050",
+"moduleTitle": "Digital Humanities in Arts Research",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "GET1030",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "GET1030"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "GEK2050", 
+            "children": []
+},
+"moduleDescription": "Digital technologies let us do humanities differently, using interactive publishing, machine-driven analysis, media-rich platforms, online archives and crowd-sourced databases. How are these technologies changing the humanities? This module invites students from across the university to consider this question through a problem-based approach. In each session, the students will learn to use and critically evaluate digital tools and platforms. Reflecting the multiple approaches within the digital humanities, teaching combines seminar discussions of topics with hands-on training in web programming, text encoding and video processing techniques.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "ENGLISH LANGUAGE & LITERATURE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

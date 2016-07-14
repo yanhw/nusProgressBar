@@ -1,0 +1,22 @@
+{
+"moduleCode": "YHU3209",
+"moduleTitle": "Rome: The Eternal City",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "YHU3209", 
+            "children": []
+},
+"moduleDescription": "An interdisciplinary study of Rome from its legendary origins through its evolving presence at the crossroads of the world. We will explore the city's rich interweaving of history, theology, literature, philosophy, and the arts in significant moments of Roman and world history. This course fulfils the 5MC requirement within the structure of the History Major. As such it will engage the student in advancing their understanding of/skills of: History and art history, mythology, literature, theology, political thought, and urban planning.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "YALE-NUS COLLEGE",
+"department": "YALE-NUS COLLEGE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

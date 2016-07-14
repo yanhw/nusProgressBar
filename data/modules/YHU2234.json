@@ -1,0 +1,30 @@
+{
+"moduleCode": "YHU2234",
+"moduleTitle": "Creative Music Composition 1",
+"moduleCredit": "5",
+"lockedModules":[
+            "YHU4203"
+        ],
+"preclusion": "NIL",
+"prerequisite": "YHU2205 Integrative Music Theory 1 or equivalent experience",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["YHU2205"]
+},
+"prerequisiteList": ["YHU2205"],
+"completePrerequisite": {
+            "name": "YHU2234", 
+            "children": [
+                {
+                    "name": "YHU2205", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "This course is designed to stimulate new lines of enquiry that will help students define and enrich their own compositional ideas. Students will be exposed to the discoveries of composers, scientists of sound and artists outside of music in order to build a vocabulary to articulate one\u2019s own ideas and listening experience. The goal of the course is to help students cultivate an independent voice as a creative artist and extend their musical imaginations.",
+"crossModule": "-1",
+"corequisite": "Nil",
+"faculty": "YALE-NUS COLLEGE",
+"department": "YALE-NUS COLLEGE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

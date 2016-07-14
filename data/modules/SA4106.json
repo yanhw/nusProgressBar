@@ -1,0 +1,22 @@
+{
+"moduleCode": "SA4106",
+"moduleTitle": "AD Project",
+"moduleCredit": "6",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "SA4106", 
+            "children": []
+},
+"moduleDescription": "- Application Development Project This is a pre-internship project where the students will work in a team to apply the project management, analysis, design, business communications and programming skills learnt earlier in the course. Based on a User Requirement Statement given to the students, they will go through a complete software development life cycle to develop and deliver the required system. The students will capture requirements through user interviews, produce a feasible design of the system, code, test and implement the solution in a distributed platform. This project provides a simulation of the real-life IT working environment, and tests their strengths in working closely as a project team.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "NON-FACULTY-BASED DEPARTMENTS",
+"department": "INSTITUTE OF SYSTEMS SCIENCE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

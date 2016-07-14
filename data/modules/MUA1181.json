@@ -1,0 +1,30 @@
+{
+"moduleCode": "MUA1181",
+"moduleTitle": "First Year Brass Class B",
+"moduleCredit": "2",
+"lockedModules":[
+            "MUA2180"
+        ],
+"preclusion": "NIL",
+"prerequisite": "MUA1180 First Year Brass Class A",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["MUA1180"]
+},
+"prerequisiteList": ["MUA1180"],
+"completePrerequisite": {
+            "name": "MUA1181", 
+            "children": [
+                {
+                    "name": "MUA1180", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "A continuation of MUA1117 First Year Brass Class A, First Year Brass Class B (FYBC) is a class designed to further introduce and familiarize the student with the skills and knowledge necessary for professional-level brass playing. The course will consist of two primary components divided over 10 sessions throughout the semester. One: \u201cLearning through Listening,\u201d will be classroom based and will introduce the history and literature of orchestral brass playing. Two: \u201cApplied Brass Techniques,\u201d will be playing based and will utilize in-class \u201cbrass lab\u201d activities to apply basic brass playing and brass ensemble techniques in a group setting.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "YONG SIEW TOH CONSERVATORY OF MUSIC",
+"department": "YONG SIEW TOH CONSERVATORY OF MUSIC",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

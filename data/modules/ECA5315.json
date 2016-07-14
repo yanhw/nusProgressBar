@@ -1,0 +1,49 @@
+{
+"moduleCode": "ECA5315",
+"moduleTitle": "Financial Econometrics",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "EC5261, EC5315",
+"prerequisite": "EC5274/EC5333/ECA5333",
+"preclusionList": [
+            "EC5261",
+            "EC5315"
+        ],
+"parsedPrerequisite": {
+            " or ": [
+                "EC5274", 
+                "EC5333", 
+                "ECA5333"
+            ]
+},
+"prerequisiteList": ["EC5274","EC5333","ECA5333"],
+"completePrerequisite": {
+            "name": "ECA5315", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "EC5274", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "EC5333", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "ECA5333", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module is designed to provide students with vigorous training in applied financial econometrics. It covers topics on characteristics of macroeconomic and financial data; basic concepts of linear and non-linear time series models: stationary time series models, ARMA models; stochastic volatility models; GARCH models and diagnostic tests; value at risk analysis; and multivariate conditional time-varying models. Students are expected to do several computer based projects.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "ECONOMICS",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,0,0,4,]]
+}

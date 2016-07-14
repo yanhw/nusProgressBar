@@ -1,0 +1,36 @@
+{
+"moduleCode": "EB5106",
+"moduleTitle": "Enterprise Business Analytics Overseas Practicum",
+"moduleCredit": "12",
+"lockedModules":[
+],
+"preclusion": "Students that select EB5105 Enterprise Business Analytics Project cannot also select the Enterprise Business Analytics Overseas Practicum and vice versa.",
+"prerequisite": "Before commencing the Enterprise Business Analytics Overseas Practicum, the students must successfully complete the four MTech EBAC core courses: EB5101 Foundations of Business Analytics EB5102 Data Analytics EB5103 Advanced Analytics EB5104 Decision Making and Optimization In addition, they must demonstrate in the electives they have taken and/or in their work experience that they have the technical background for the project being offered by NOC.",
+"preclusionList": [
+            "EB5105"
+        ],
+"parsedPrerequisite": {
+" and ": ["EB5104"]
+},
+"prerequisiteList": ["EB5104","EB5001"],
+"completePrerequisite": {
+            "name": "EB5106", 
+            "children": [
+                {
+                    "name": "EB5104", 
+                    "children": [
+                        {
+                            "name": "EB5001", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "The Enterprise Business Analytics Overseas Practicum is designed to allow students to experience entrepreneurial enterprises, such as high technology start-up companies, in rapidly developing economies, such as Israel and China, and contribute to those companies by playing a significant role in using data for competitive advantage and in solving complex business problems. The practicum allows students to apply their knowledge in a real world context, demonstrating their mastery of a range of Enterprise Business Analytics skills, such as problem formulation, problem modeling, data cleansing and preparation, model construction, verification and validation. This module is conducted in collaboration with the NUS Overseas Colleges (NOC).",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "NON-FACULTY-BASED DEPARTMENTS",
+"department": "INSTITUTE OF SYSTEMS SCIENCE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

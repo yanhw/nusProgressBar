@@ -1,0 +1,29 @@
+{
+"moduleCode": "BMA5531",
+"moduleTitle": "Sales Management",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "BMA5009",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["BMA5009"]
+},
+"prerequisiteList": ["BMA5009"],
+"completePrerequisite": {
+            "name": "BMA5531", 
+            "children": [
+                {
+                    "name": "BMA5009", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "This course systemically introduces sales management from process and procedure perspective. It helps students develop a clear sales framework that contains account/channel planning, opportunity evaluation, sales team-building, in-depth relationship-building and sales strategy execution.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF BUSINESS",
+"department": "DEAN'S OFFICE (BIZ)",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,0,0,4,]]
+}

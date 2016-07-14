@@ -1,0 +1,24 @@
+{
+"moduleCode": "SH5110",
+"moduleTitle": "Chemical Hazard Evaluation",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "SH5004: Fundamentals in Industrial Hygiene",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "SH5004"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "SH5110", 
+            "children": []
+},
+"moduleDescription": "This module is on concepts and techniques related to the evaluation of occupational exposure to gases, vapors, and aerosols. Covered topics include air flow measurements, aerosol science, particulate sampling with and without size separation, optical microscopy, active and passive sampling of gases and vapors, direct reading instruments, sampling strategy and statistical evaluation of exposure data, occupational exposure limits and threshold limit values.",
+"crossModule": "-1",
+"corequisite": "Nil",
+"faculty": "ENGINEERING",
+"department": "CHEMICAL & BIOMOLECULAR ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

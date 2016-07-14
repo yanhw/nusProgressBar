@@ -1,0 +1,22 @@
+{
+"moduleCode": "YSC3223",
+"moduleTitle": "Introduction to Black Holes",
+"moduleCredit": "2",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "Either YCC1132 Integrated Science 1 or physics at A-level, AP, or equivalent.",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "YSC3223", 
+            "children": []
+},
+"moduleDescription": "An introduction to the theoretical and empirical study of black holes in the universe.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "YALE-NUS COLLEGE",
+"department": "YALE-NUS COLLEGE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

@@ -1,0 +1,133 @@
+{
+"moduleCode": "PC4243",
+"moduleTitle": "Atomic & Molecular Physics II",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "PC3233",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["PC3233"]
+},
+"prerequisiteList": ["PC3233","PC2130","PC1144","PC1432","MA1505","MA1506","MA1102R","MA1521","MA1101R","PC2130B","PC1432X","PC1433"],
+"completePrerequisite": {
+            "name": "PC4243", 
+            "children": [
+                {
+                    "name": "PC3233", 
+                    "children": [
+                        {
+                            "name": "or", 
+                            "children": [
+                                {
+                                    "name": "PC2130", 
+                                    "children": [
+                                        {
+                                            "name": "and", 
+                                            "children": [
+                                                {
+                                                    "name": "or", 
+                                                    "children": [
+                                                        {
+                                                            "name": "PC1144", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "PC1432", 
+                                                            "children": []
+                                                        }
+                                                    ]
+                                                }, 
+                                                {
+                                                    "name": "or", 
+                                                    "children": [
+                                                        {
+                                                            "name": "and", 
+                                                            "children": [
+                                                                {
+                                                                    "name": "MA1505", 
+                                                                    "children": []
+                                                                }, 
+                                                                {
+                                                                    "name": "MA1506", 
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "or", 
+                                                                            "children": [
+                                                                                {
+                                                                                    "name": "MA1102R", 
+                                                                                    "children": []
+                                                                                }, 
+                                                                                {
+                                                                                    "name": "MA1505", 
+                                                                                    "children": []
+                                                                                }, 
+                                                                                {
+                                                                                    "name": "MA1521", 
+                                                                                    "children": []
+                                                                                }
+                                                                            ]
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }, 
+                                                        {
+                                                            "name": "and", 
+                                                            "children": [
+                                                                {
+                                                                    "name": "MA1101R", 
+                                                                    "children": []
+                                                                }, 
+                                                                {
+                                                                    "name": "MA1102R", 
+                                                                    "children": []
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }, 
+                                {
+                                    "name": "PC2130B", 
+                                    "children": [
+                                        {
+                                            "name": "or", 
+                                            "children": [
+                                                {
+                                                    "name": "PC1144", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "PC1432", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "PC1432X", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "PC1433", 
+                                                    "children": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "The objective of this module is to provide students with a background to the important developments in atomic physics over the last 30 years that have now become standard techniques utilized in many laboratories around the world. The lectures provide a detailed description of the interaction of atoms with electromagnetic fields and apply this analysis to a number of applications such as laser spectroscopy, laser cooling, and magnetic and optical trapping. The course will provide students with a comprehensive background to the tools of modern atomic physics. Syllabus in detail includes atomic structure, the interaction of atoms with electromagnetic fields, absorption spectroscopy, sub Doppler spectroscopy, Zeeman slowing, Doppler and sub Doppler cooling, two photon Raman transitions, magnet and optical trapping techniques.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCIENCE",
+"department": "PHYSICS",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

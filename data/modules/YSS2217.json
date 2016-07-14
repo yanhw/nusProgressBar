@@ -1,0 +1,22 @@
+{
+"moduleCode": "YSS2217",
+"moduleTitle": "Political Concepts",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "YSS2217", 
+            "children": []
+},
+"moduleDescription": "Ideas fuel politics and politics structures the world of ideas. To engage effectively in these worlds requires a grasp of the political concepts that engender consensus and conflict. This course uses history of ideas, legal documents, and contemporary philosophy to introduce students to core concepts that scaffold institutions and practices (e.g., democracy, authoritarianism, republicanism, socialism) as well as concepts which shape and are shaped by those institutions and practices (e.g., power, empire, order, liberty, equality, right). Using a case-based approach in class, we explore how political conflict and action grow from contestations over the meanings and consequences of these concepts.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "YALE-NUS COLLEGE",
+"department": "YALE-NUS COLLEGE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

@@ -1,0 +1,24 @@
+{
+"moduleCode": "CFG1020",
+"moduleTitle": "Roots and Wings \u2013 Personal and Interpersonal Effectiveness 2.0",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "CFG1010 Roots and Wings \u2013 Personal and Interpersonal Effectiveness",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "CFG1010"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "CFG1020", 
+            "children": []
+},
+"moduleDescription": "The world we live in is changing fast, giving rise to the need for students to learn core behavioral strategies and develop healthy mindsets which will allow them to focus, thrive and respond with agility amidst an environment of rapid change and disruption. This is a highly interactive course based on experiential learning which investigates and demystifies the future-ready skills and provides students practical techniques based on the latest research in neuroscience, psychology and leadership, so that they may understand the nature of their mind, learn the science of focus, and maximize their potential in their academic journey, life and career.",
+"crossModule": "-1",
+"corequisite": "Nil",
+"faculty": "UNIVERSITY ADMINISTRATION",
+"department": "CENTRE FOR FUTURE-READY GRADUATES",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

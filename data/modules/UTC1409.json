@@ -1,0 +1,24 @@
+{
+"moduleCode": "UTC1409",
+"moduleTitle": "Jr Sem: The Pursuit of Happiness",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "GEM1910",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "GEM1910"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "UTC1409", 
+            "children": []
+},
+"moduleDescription": "This module introduced a comprehensive perspective on \u2018happiness\u2019 and related social constructs such as satisfaction and quality of life. Drawing from multidisciplinary research in Singapore and around the world, the following issues are discussed in detail: Does rising GDP lead to more happiness? Who are the people who are happy? Can money buy happiness? What really makes people happy? Can the government manufacture happiness for its citizens?",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "NON-FACULTY-BASED DEPARTMENTS",
+"department": "COLLEGE OF ALICE & PETER TAN",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

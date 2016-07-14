@@ -1,0 +1,31 @@
+{
+"moduleCode": "CO5103",
+"moduleTitle": "Quantitative Epidemiologic Methods",
+"moduleCredit": "4",
+"lockedModules":[
+            "CO5237",
+            "CO5220",
+            "SPH6003",
+            "SPH6001",
+            "SPH6005",
+            "CO5219",
+            "CO5210",
+            "CO5214",
+            "CO5215"
+        ],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "CO5103", 
+            "children": []
+},
+
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SAW SWEE HOCK SCHOOL OF PUBLIC HEALTH",
+"department": "SAW SWEE HOCK SCHOOL OF PUBLIC HEALTH",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

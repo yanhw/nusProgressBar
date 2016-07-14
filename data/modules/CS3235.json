@@ -1,0 +1,187 @@
+{
+"moduleCode": "CS3235",
+"moduleTitle": "Computer Security",
+"moduleCredit": "4",
+"lockedModules":[
+            "CS5331",
+            "CS5231",
+            "CS4239",
+            "CS4238",
+            "CS5321"
+        ],
+"preclusion": "NIL",
+"prerequisite": "(CS2105 Introduction to Computer Networks or EE3204 Computer Communications and Networks I) and (CS2106 Introduction to Operating Systems or CG2271 Realtime Operating Systems) and CS2107 Introduction to Information & System Security.",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " and ": [
+                {
+                    " or ": [
+                        "CS2105", 
+                        "EE3204"
+                    ]
+                }, 
+                {
+                    " or ": [
+                        "CS2106", 
+                        "CG2271"
+                    ]
+                }, 
+                "CS2107"
+            ]
+},
+"prerequisiteList": ["CS2105","CS1020","CS1010","EE3204","EE2023","MA1506","MA1102R","MA1505","MA1521","CS2106","CS2100","EE2007","EE2024","EE2020","EE1002","CG1108","EG1108","CS1010E","CG2271","CS2107"],
+"completePrerequisite": {
+            "name": "CS3235", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "or", 
+                            "children": [
+                                {
+                                    "name": "CS2105", 
+                                    "children": [
+                                        {
+                                            "name": "CS1020", 
+                                            "children": [
+                                                {
+                                                    "name": "CS1010", 
+                                                    "children": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }, 
+                                {
+                                    "name": "EE3204", 
+                                    "children": [
+                                        {
+                                            "name": "EE2023", 
+                                            "children": [
+                                                {
+                                                    "name": "MA1506", 
+                                                    "children": [
+                                                        {
+                                                            "name": "or", 
+                                                            "children": [
+                                                                {
+                                                                    "name": "MA1102R", 
+                                                                    "children": []
+                                                                }, 
+                                                                {
+                                                                    "name": "MA1505", 
+                                                                    "children": []
+                                                                }, 
+                                                                {
+                                                                    "name": "MA1521", 
+                                                                    "children": []
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "or", 
+                            "children": [
+                                {
+                                    "name": "CS2106", 
+                                    "children": [
+                                        {
+                                            "name": "or", 
+                                            "children": [
+                                                {
+                                                    "name": "CS2100", 
+                                                    "children": [
+                                                        {
+                                                            "name": "CS1010", 
+                                                            "children": []
+                                                        }
+                                                    ]
+                                                }, 
+                                                {
+                                                    "name": "EE2007", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "EE2024", 
+                                                    "children": [
+                                                        {
+                                                            "name": "and", 
+                                                            "children": [
+                                                                {
+                                                                    "name": "EE2020", 
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "or", 
+                                                                            "children": [
+                                                                                {
+                                                                                    "name": "EE1002", 
+                                                                                    "children": []
+                                                                                }, 
+                                                                                {
+                                                                                    "name": "CG1108", 
+                                                                                    "children": []
+                                                                                }, 
+                                                                                {
+                                                                                    "name": "EG1108", 
+                                                                                    "children": []
+                                                                                }
+                                                                            ]
+                                                                        }
+                                                                    ]
+                                                                }, 
+                                                                {
+                                                                    "name": "CS1010E", 
+                                                                    "children": []
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }, 
+                                {
+                                    "name": "CG2271", 
+                                    "children": [
+                                        {
+                                            "name": "CS1020", 
+                                            "children": [
+                                                {
+                                                    "name": "CS1010", 
+                                                    "children": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "CS2107", 
+                            "children": [
+                                {
+                                    "name": "CS1010", 
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "The objective of this module is to provide a broad understanding of computer security with some indepth discussions on selected topics in system and network security. This module covers the following topics: intrusion detection, DNS security, electronic mail security, authentication, access control, buffer overflow, memory and stack protection, selected topics in application security, for instance, web security, and well-known attacks.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF COMPUTING",
+"department": "COMPUTER SCIENCE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

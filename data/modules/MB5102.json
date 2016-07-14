@@ -1,0 +1,29 @@
+{
+"moduleCode": "MB5102",
+"moduleTitle": "Topics in Mechanobiology",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "Basic Physical Chemistry, Calculus, Biology, Graduate standing, MB5101 or approval of the module coordinator.",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["MB5101"]
+},
+"prerequisiteList": ["MB5101"],
+"completePrerequisite": {
+            "name": "MB5102", 
+            "children": [
+                {
+                    "name": "MB5101", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "To provide a working understanding of basic cell functions with the physical and chemical principles underlying them. In practical terms, we will attempt to understand a number of important problems relevant to mechanoregulation of cellular function. The assignments will primarily involve reading original literatures under the guidance of MBI investigators to complete a few entries into the Manual for Cellular and Molecular Functions.",
+"crossModule": "-1",
+"corequisite": "NA",
+"faculty": "SPECIALITY RESEARCH INSTITUTES/CENTRES",
+"department": "MECHANOBIOLOGY INSTITUTE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

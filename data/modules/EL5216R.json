@@ -1,0 +1,22 @@
+{
+"moduleCode": "EL5216R",
+"moduleTitle": "Computers, Corpora & The World Wide Web",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "Must be registered as a Graduate Student in the University or with the approval of the Department",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "EL5216R", 
+            "children": []
+},
+"moduleDescription": "This module takes an empirical approach to linguistic investigation: it bases claims on adequate electronic language datasets known as corpora. Such corpora may either be stand-alone or drawn from the World Wide Web, the dynamic mega-corpus. With special reference to English, relevant topics will be introduced to suit particular needs and may include the relation between corpora and lexicography, culture studies, translation, language teaching and computer-mediated communication. Participants will also receive hands-on training with stand-alone linguistic programmes and those found on the World Wide Web. This module does not assume any expert computing knowledge.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "ENGLISH LANGUAGE & LITERATURE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

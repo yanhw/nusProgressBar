@@ -1,0 +1,24 @@
+{
+"moduleCode": "CN5191",
+"moduleTitle": "Project Engineering",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "CN4225",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "CN4225"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "CN5191", 
+            "children": []
+},
+"moduleDescription": "The objective of this module is to provide a step-by-step description and illustration of a project\u2019s lifecycle in the chemical industry. Beginning with an overview of the chemical process industry (CPI) and project terminology, the module will discuss in detail the organization of projects, team composition and roles of various personnel, planning and scheduling of activities, project management tools, and plant operations. It will involve guest speakers from various industries and real-life cases studies. This module is targeted at students with a potential career interest in engineering and construction field.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "CHEMICAL & BIOMOLECULAR ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

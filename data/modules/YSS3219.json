@@ -1,0 +1,29 @@
+{
+"moduleCode": "YSS3219",
+"moduleTitle": "Developmental Psychology",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "YSS2201 Understanding Behaviour and Cognition",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["YSS2201"]
+},
+"prerequisiteList": ["YSS2201"],
+"completePrerequisite": {
+            "name": "YSS3219", 
+            "children": [
+                {
+                    "name": "YSS2201", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "This course introduces students to the field of developmental psychology which addresses the ways in which humans develop psychologically.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "YALE-NUS COLLEGE",
+"department": "YALE-NUS COLLEGE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

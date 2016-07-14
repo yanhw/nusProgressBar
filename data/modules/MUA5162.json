@@ -1,0 +1,23 @@
+{
+"moduleCode": "MUA5162",
+"moduleTitle": "Major Study 5B",
+"moduleCredit": "10",
+"lockedModules":[
+            "MUA6161"
+        ],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "MUA5162", 
+            "children": []
+},
+"moduleDescription": "This module revolves around individual instrumental / composition lessons specially designed for performance / composition majors. It continues to consolidate and hone processes initiated in the previous semester, with a view to the presentation of a preliminary major Public Recital during the semester.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "YONG SIEW TOH CONSERVATORY OF MUSIC",
+"department": "YONG SIEW TOH CONSERVATORY OF MUSIC",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

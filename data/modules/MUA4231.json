@@ -1,0 +1,23 @@
+{
+"moduleCode": "MUA4231",
+"moduleTitle": "Orchestral Excerpts for Strings 4A",
+"moduleCredit": "2",
+"lockedModules":[
+            "MUA4232"
+        ],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "MUA4231", 
+            "children": []
+},
+
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "YONG SIEW TOH CONSERVATORY OF MUSIC",
+"department": "YONG SIEW TOH CONSERVATORY OF MUSIC",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

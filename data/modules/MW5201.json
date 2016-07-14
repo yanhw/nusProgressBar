@@ -1,0 +1,22 @@
+{
+"moduleCode": "MW5201",
+"moduleTitle": "Topics in Science Communication",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "Students outside the MSc in Science Communication Programme maybe considered on a case by case basis.",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "MW5201", 
+            "children": []
+},
+"moduleDescription": "This module will consist of a series of lectures from across all disciplines of science. These lectures will highlight some of the current topics in science that are of major concern to the public and topics that are likely to come up in science education. The lectures will present the fundamental science behind these topics and show how these topics have been communicated to the public. The bi-directional relationship between science and society will be explored and used to illustrate how science communication has evolved in recent history. Science communication in the past will also be discussed with particular attention given to the works of Galileo, Kepler and Darwin.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "SCIENCE",
+"department": "DEAN'S OFFICE (SCIENCE)",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

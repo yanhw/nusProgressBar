@@ -1,0 +1,22 @@
+{
+"moduleCode": "TP5026",
+"moduleTitle": "Transportation Management & Policy",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "CE4 standing or higher",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "TP5026", 
+            "children": []
+},
+"moduleDescription": "This module is designed to provide senior level undergraduate and graduate students with an overall view of the transportation systems, means of managing and influencing the systems to achieve certain goals. The topics covered include the characteristics of land, sea and air transportation systems; roles and structure of government agencies in transportation management; environmental and social impact of transportation systems, travel demand management; public transport management; models of financing transportation services; regulation and deregulation of transportation services; roles of intelligent transportation systems in system management and policy implementation; case studies of transportation policies in several countries",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "CIVIL & ENVIRONMENTAL ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

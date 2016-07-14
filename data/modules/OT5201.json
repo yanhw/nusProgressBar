@@ -1,0 +1,27 @@
+{
+"moduleCode": "OT5201",
+"moduleTitle": "Marine Statics & Dynamics",
+"moduleCredit": "4",
+"lockedModules":[
+            "OT5204"
+        ],
+"preclusion": "CE5307 Offshore Hydrodynamics (title before AY2010/2011), CE5887 Topics in Offshore Engineering: Marine Statics & Dynamics (Sem1, AY2010/2011)",
+"prerequisite": "CE-4 standing or higher",
+"preclusionList": [
+            "CE5307",
+            "CE5887",
+            "AY2010"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "OT5201", 
+            "children": []
+},
+"moduleDescription": "The module covers the main topics on marine hydrodynamics and structure dynamics in offshore engineering. It first discusses the hydrostatics and stability of offshore structures, which is followed by the special properties of potential and viscous flows. The wave forces on offshore structures of different sizes are then discussed, including Morison equation for small structures, and diffraction theory for large structures. Accordingly, the corresponding numerical techniques are introduced. The module also covers random wave forces on offshore structures. Lastly, the dynamic response of offshore structures in waves is discussed.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "ENGINEERING",
+"department": "CIVIL & ENVIRONMENTAL ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

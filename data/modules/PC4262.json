@@ -1,0 +1,102 @@
+{
+"moduleCode": "PC4262",
+"moduleTitle": "Remote Sensing",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "PC3231",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["PC3231"]
+},
+"prerequisiteList": ["PC3231","PC2131","PC1143","PC1432","MA1505","MA1506","MA1102R","MA1521","MA1101R"],
+"completePrerequisite": {
+            "name": "PC4262", 
+            "children": [
+                {
+                    "name": "PC3231", 
+                    "children": [
+                        {
+                            "name": "PC2131", 
+                            "children": [
+                                {
+                                    "name": "and", 
+                                    "children": [
+                                        {
+                                            "name": "or", 
+                                            "children": [
+                                                {
+                                                    "name": "PC1143", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "PC1432", 
+                                                    "children": []
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "or", 
+                                            "children": [
+                                                {
+                                                    "name": "and", 
+                                                    "children": [
+                                                        {
+                                                            "name": "MA1505", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "MA1506", 
+                                                            "children": [
+                                                                {
+                                                                    "name": "or", 
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "MA1102R", 
+                                                                            "children": []
+                                                                        }, 
+                                                                        {
+                                                                            "name": "MA1505", 
+                                                                            "children": []
+                                                                        }, 
+                                                                        {
+                                                                            "name": "MA1521", 
+                                                                            "children": []
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }, 
+                                                {
+                                                    "name": "and", 
+                                                    "children": [
+                                                        {
+                                                            "name": "MA1101R", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "MA1102R", 
+                                                            "children": []
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module explores the physics behind the chain of events that leads to the acquisition of remote sensing images. Topics covered include: satellite orbital dynamics, radiometry, scattering of EM waves, radiative transfer in the atmosphere, ocean and vegetation canopy, various types of sensors, and examples of remote sensing applications. Skills in image processing and analysis of remote sensing images will be gained through project works. This module is targeted at students who are interested in applying physics to real-life situations. The students should already have a basic knowledge of physics and mathematical methods.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCIENCE",
+"department": "PHYSICS",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

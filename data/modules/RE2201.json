@@ -1,0 +1,29 @@
+{
+"moduleCode": "RE2201",
+"moduleTitle": "Quantitative Methods in Real Estate",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "ST1131 Introduction to Statistics",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["ST1131"]
+},
+"prerequisiteList": ["ST1131"],
+"completePrerequisite": {
+            "name": "RE2201", 
+            "children": [
+                {
+                    "name": "ST1131", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "This module aims to offer essential knowledge and provide solid training in statistics/econometrics with particular emphasis on real estate applications. Primary focus is placed on applicability, comprehension of techniques in the literature, and in an ability to apply statistic software for analysis. The module is built on the foundation of ST1131 Introduction to Statistics. Topics include, but are not limited to, estimation and hypothesis testing, linear regression, multiple regression, simultaneous equation models, discrete choice models, time-series and panel data analysis, as well as other advanced techniques. Issues on identification will be discussed.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF DESIGN AND ENVIRONMENT",
+"department": "REAL ESTATE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

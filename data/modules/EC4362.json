@@ -1,0 +1,22 @@
+{
+"moduleCode": "EC4362",
+"moduleTitle": "Immigration Economics",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "Cohort 2011 and before: Completed 80 MCs, including 28 MCs in EC, with a minimum CAP of 3.50 or be on the Honours track. EC3101, EC3102, EC3303, and (EC3351 or EC3361 or EC3371) Cohort 2012 onwards: Completed 80 MCs, including 28 MCs in EC, with a minimum CAP of 3.20 or be on the Honours track. EC3101, EC3102, EC3303, and (EC3351 or EC3361 or EC3371)",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "EC4362", 
+            "children": []
+},
+"moduleDescription": "This module studies global and regional factors that influence international migration and its impact on welfare and development outcomes of individuals and communities in source as well as destination countries.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "ECONOMICS",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

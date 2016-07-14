@@ -1,0 +1,22 @@
+{
+"moduleCode": "BME5009",
+"moduleTitle": "Logistics And Operations Management",
+"moduleCredit": "6",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "BME5009", 
+            "children": []
+},
+"moduleDescription": "This module introduces the participants to the functional areas of Operations and Logistics Management. It will cover topics such as Operations Planning and Control, Quality Excellence, Japanese Operations Systems, Theory of Constraints, Operations Research-Based Tools, Operations Strategy and Design, Supply Chain Management, Risk Pooling, Vendor Hubs, Physical Distribution and Transportation, Strategic Warehousing, Logistics Performance and Planning and Third Party Logistics.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF BUSINESS",
+"department": "DEAN'S OFFICE (BIZ)",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

@@ -1,0 +1,29 @@
+{
+"moduleCode": "BMA5325",
+"moduleTitle": "International Finance",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "BMA5008",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["BMA5008"]
+},
+"prerequisiteList": ["BMA5008"],
+"completePrerequisite": {
+            "name": "BMA5325", 
+            "children": [
+                {
+                    "name": "BMA5008", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "In this course, the emphasis is placed on the international financial system, international investments, and international financial management, particularly in Asia. It is especially helpful for a student pursuing a career in international banking, global asset management, or international corporate finance. Our course begins with a thorough analysis of the structure and the management of the international monetary system. We will then cover the following topics: the foreign exchange market; exchangerate forecasting; international investments; currency and rate risk management; international capital budgeting; international political risk and corporate governance in Asia; and international banking and liquid asset management. The Global Financial Crisis has changed the global financial landscape tremendously. The course not only provides an understanding of the existing international financial architecture, but the rapidly evolving global institutions and markets.",
+"crossModule": "-1",
+"corequisite": "Nil",
+"faculty": "SCHOOL OF BUSINESS",
+"department": "DEAN'S OFFICE (BIZ)",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

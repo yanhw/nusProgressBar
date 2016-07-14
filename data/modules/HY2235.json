@@ -1,0 +1,24 @@
+{
+"moduleCode": "HY2235",
+"moduleTitle": "Environmental History",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "GEK2008",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "GEK2008"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "HY2235", 
+            "children": []
+},
+"moduleDescription": "This module is designed to introduce students to major themes in Environmental History, meaning the historical study of the mutual influence of humans and the environment. After critically evaluating how the discipline of Environmental History has developed, lectures and discussions will focus on topics such as disease, agriculture, gender and modern environmental problems. Lectures will be combined with research assignments that will help students better understand how a historian approaches a topic. Students interested in history, the environment or new approaches to the past will be interested in the course",
+        "CrossModule": "GEK2008", 
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "HISTORY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

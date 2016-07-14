@@ -1,0 +1,45 @@
+{
+"moduleCode": "PC2134",
+"moduleTitle": "Mathematical Methods In Physics 2",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "Overlap: MA2210, MA3248, PC2211 (old code)",
+"prerequisite": "PC1143 or PC1144",
+"preclusionList": [
+            "MA2210",
+            "MA3248",
+            "PC2211"
+        ],
+"parsedPrerequisite": {
+            " or ": [
+                "PC1143", 
+                "PC1144"
+            ]
+},
+"prerequisiteList": ["PC1143","PC1144"],
+"completePrerequisite": {
+            "name": "PC2134", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "PC1143", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "PC1144", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "Vector analysis, line and surface integrals, divergence theorem and Stokes' theorem, applications to the electromagnetic field. Fourier series and Fourier transform, applications to waves and oscillations. Differential equations for simple physical systems. Ordinary and partial differential equations. Green functions. Special functions associated to physical systems.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCIENCE",
+"department": "PHYSICS",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,0,3,4,]]
+}

@@ -1,0 +1,26 @@
+{
+"moduleCode": "HR2002",
+"moduleTitle": "Human Capital in Organizations",
+"moduleCredit": "3",
+"lockedModules":[
+],
+"preclusion": "Students who have passed or are reading HR2001 or HR2101 or HR3111 are not allowed to take HR2002",
+"prerequisite": "For Engineering students only",
+"preclusionList": [
+            "HR2101",
+            "HR2001",
+            "HR3111"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "HR2002", 
+            "children": []
+},
+"moduleDescription": "This multi-disciplinary module, specially designed for students from the Faculty of Engineering, invites students to examine, from different perspectives, some major themes pertaining to the management of human capital in a knowledge-intensive world of industry today. Departing from the more conventional approaches, students will examine the dynamics of and constraints to individual and organisational behaviours in the context of the challenges posed by an increasingly competitive global landscape. In this module, students would be encouraged to critically evaluate how multiple \u2018intelligences\u2019 \u2013 emotional, social and professional \u2013 can be developed and tapped upon to help them effectively carry out the multi-faceted roles that they are oftentimes called upon to fulfil.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF BUSINESS",
+"department": "HUMAN RESOURCE MANAGEMENT UNIT",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

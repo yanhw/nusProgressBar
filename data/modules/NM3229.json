@@ -1,0 +1,22 @@
+{
+"moduleCode": "NM3229",
+"moduleTitle": "Data visualization",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "NM3229", 
+            "children": []
+},
+"moduleDescription": "This module will explore the challenges, issues, methods and theories surrounding the fast developing field of data visualization and data journalism. Through the activities and projects in this course, students will learn to gather data from public websites/databases, use appropriate tools to shape and analyze that data, and develop appropriate visualizations of that data. The module focuses on discussions of information and data visualization, visual analytics and communications as well as supports dynamic, real time interactivity. The main goal of the module is to develop data literacy and the ability to use data to communicate to disparate audiences.",
+"crossModule": "-1",
+"corequisite": "Nil",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "COMMUNICATIONS AND NEW MEDIA",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

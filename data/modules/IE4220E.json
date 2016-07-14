@@ -1,0 +1,22 @@
+{
+"moduleCode": "IE4220E",
+"moduleTitle": "Supply Chain Modelling",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "IE4220E", 
+            "children": []
+},
+"moduleDescription": "This course introduces the fundamentals of supply chain concepts. It covers issues and basic techniques of distribution strategies, transportation logistics and supply chain network optimisation models. Students are equipped with fundamental concepts and quantitative tools that are essential to solving logistics and supply chain problems.",
+"crossModule": "-1",
+"corequisite": "IE2100E & IE2110E",
+"faculty": "ENGINEERING",
+"department": "BACHELOR OF TECHNOLOGY PROGRAMME",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

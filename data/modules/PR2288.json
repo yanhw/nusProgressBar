@@ -1,0 +1,31 @@
+{
+"moduleCode": "PR2288",
+"moduleTitle": "Basic UROPS in Pharmacy I",
+"moduleCredit": "4",
+"lockedModules":[
+            "PR3289",
+            "PR3288"
+        ],
+"preclusion": "NIL",
+"prerequisite": "PR1110 and Departmental Approval",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["PR1110"]
+},
+"prerequisiteList": ["PR1110"],
+"completePrerequisite": {
+            "name": "PR2288", 
+            "children": [
+                {
+                    "name": "PR1110", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "Please see section 4.4.3. Target students: Pharmacy Year Two or Year Three and Science",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCIENCE",
+"department": "PHARMACY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,3,4,]]
+}

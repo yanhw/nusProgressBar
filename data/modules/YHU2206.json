@@ -1,0 +1,22 @@
+{
+"moduleCode": "YHU2206",
+"moduleTitle": "Introduction to Mathematical Logic",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "YHU2206", 
+            "children": []
+},
+"moduleDescription": "This is a first course in formal logic. Formal logic has had a tremendous success and influence since it was developed in its present form. It is the inspiration for many artificial languages, including programming languages, and it has been successfully used in mathematics. Formal logic is also very important in the study of natural languages and in the analysis of valid or invalid forms of argument and reasoning. We will cover a fairly substantial introduction to these issues.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "YALE-NUS COLLEGE",
+"department": "YALE-NUS COLLEGE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

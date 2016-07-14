@@ -1,0 +1,22 @@
+{
+"moduleCode": "YSC4200",
+"moduleTitle": "Special Project in Science",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "Unusually strong preparation in science, and prior approval of the Director of the Science Division.",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "YSC4200", 
+            "children": []
+},
+"moduleDescription": "This course provides academic credit of major research projects conducted by students prior to the Capstone project. The scope and depth of the research should be at the level of a Capstone project, and thus requires unusually strong preparation in science. All projects must be approved by the Director of the Science Division before the course is selected.",
+"crossModule": "-1",
+"corequisite": "Nil",
+"faculty": "YALE-NUS COLLEGE",
+"department": "YALE-NUS COLLEGE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

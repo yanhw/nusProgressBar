@@ -1,0 +1,22 @@
+{
+"moduleCode": "SPH2105",
+"moduleTitle": "Introduction to Global Health",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "SPH2105", 
+            "children": []
+},
+"moduleDescription": "Over the past decade global health has evolved from buzzword to discipline, attracting interest from governments, academic institutions and funding organizations. But, what is \u201cglobal health\u201d? Although we have made enormous progress in improving health status over the past 50 years, the progress has been uneven. Why? By examining major global health challenges, programs and policies, students will analyze current and emerging global health priorities, including communicable and noncommunicable diseases, health inequity, health systems, and major global initiatives for disease prevention.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SAW SWEE HOCK SCHOOL OF PUBLIC HEALTH",
+"department": "SAW SWEE HOCK SCHOOL OF PUBLIC HEALTH",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

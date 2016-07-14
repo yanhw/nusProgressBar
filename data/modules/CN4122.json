@@ -1,0 +1,106 @@
+{
+"moduleCode": "CN4122",
+"moduleTitle": "Process Synthesis and Simulation",
+"moduleCredit": "3",
+"lockedModules":[
+            "CN4123"
+        ],
+"preclusion": "NIL",
+"prerequisite": "CN2116 Chemical Kinetics and Reactor Design CN2121 Chemical Engineering Thermodynamics CN3124 Particle Technology CN3132 Separation Processes",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " and ": [
+                "CN3124", 
+                "CN3132"
+            ]
+},
+"prerequisiteList": ["CN3124","CN3132","CN1111F","CN1111","CN1111X","CN2125","CN2122","MA1505","MA1506","MA1102R","MA1521"],
+"completePrerequisite": {
+            "name": "CN4122", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "CN3124", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "CN3132", 
+                            "children": [
+                                {
+                                    "name": "and", 
+                                    "children": [
+                                        {
+                                            "name": "or", 
+                                            "children": [
+                                                {
+                                                    "name": "CN1111F", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "CN1111", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "CN1111X", 
+                                                    "children": []
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "CN2125", 
+                                            "children": [
+                                                {
+                                                    "name": "CN2122", 
+                                                    "children": [
+                                                        {
+                                                            "name": "and", 
+                                                            "children": [
+                                                                {
+                                                                    "name": "MA1505", 
+                                                                    "children": []
+                                                                }, 
+                                                                {
+                                                                    "name": "MA1506", 
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "or", 
+                                                                            "children": [
+                                                                                {
+                                                                                    "name": "MA1102R", 
+                                                                                    "children": []
+                                                                                }, 
+                                                                                {
+                                                                                    "name": "MA1505", 
+                                                                                    "children": []
+                                                                                }, 
+                                                                                {
+                                                                                    "name": "MA1521", 
+                                                                                    "children": []
+                                                                                }
+                                                                            ]
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module aims to provide fundamentals and methods of of process synthesis and simulation, which are required for design of chemical processes/plants. Students learn a heuristic method for process development, simulation strategies, main steps in process design and rigorous process simulation using a commercial simulator through both lectures and many hands-on exercises. They will also learn detailed mechanical design of process equipment, cost estimation and profitability analysis of chemical processes.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "CHEMICAL & BIOMOLECULAR ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

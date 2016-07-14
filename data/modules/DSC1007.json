@@ -1,0 +1,27 @@
+{
+"moduleCode": "DSC1007",
+"moduleTitle": "Business Analytics - Models & Decisions",
+"moduleCredit": "4",
+"lockedModules":[
+            "DSC3224",
+            "DSC4213",
+            "DSC3215",
+            "DSC3214",
+            "EC3303"
+        ],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "DSC1007", 
+            "children": []
+},
+"moduleDescription": "Globalization is forcing firms to make smarter and timelier decisions to stay competitive. Increased accountability also requires Managers to rely less on their intuition and more on \u201cSystem 2 thinking\u201d i.e. facts and scientifically-tested methods to gain insights in complex business problems and thereby substantiate the decision-making process. Many managerial decisions, regardless of the functional orientation, are increasingly being based on analysis using quantitative models and tools such as Decision Analysis, Simulation Modelling and Mathematical Optimization. The use of these business analytics for modelling and decisions represents the future of best practices for tomorrow\u2019s success companies.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "SCHOOL OF BUSINESS",
+"department": "DECISION SCIENCES",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

@@ -1,0 +1,41 @@
+{
+"moduleCode": "IS3242",
+"moduleTitle": "Software Quality Management",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "Pass 60 MCs and [CS2250 or IS1105]",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " or ": [
+                "CS2250", 
+                "IS1105"
+            ]
+},
+"prerequisiteList": ["CS2250","IS1105"],
+"completePrerequisite": {
+            "name": "IS3242", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "CS2250", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "IS1105", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "As more business operations are dependent on information systems today, the importance of software quality is ever growing. It is also imperative for IT vendors to meet the increasing demand for high quality IT service and software products by customers. This module focuses on how to apply quality management concepts and practices to development and maintenance of software. Particularly, students will learn about various quality metrics, models, and standards specific to the software domain.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "SCHOOL OF COMPUTING",
+"department": "INFORMATION SYSTEMS",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

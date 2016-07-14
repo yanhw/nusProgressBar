@@ -1,0 +1,39 @@
+{
+"moduleCode": "JS3229",
+"moduleTitle": "Field Studies in Japan",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "LAJ2202 or pass in JLPT level 3 or equivalent",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["LAJ2202"]
+},
+"prerequisiteList": ["LAJ2202","LAJ2201","LAJ1201"],
+"completePrerequisite": {
+            "name": "JS3229", 
+            "children": [
+                {
+                    "name": "LAJ2202", 
+                    "children": [
+                        {
+                            "name": "LAJ2201", 
+                            "children": [
+                                {
+                                    "name": "LAJ1201", 
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "The module enables students to build upon and test knowledge learned at NUS through field study in Japan. The module combines a period of intensive coursework and/or independent research on the NUS campus with a 10-20 day field study experience in Japan. The focus will differ based on the expertise of the faculty member teaching the module. The module may centre on the environment, tourism, urban and rural development, traditional performance or popular culture.",
+"crossModule": "-1",
+"corequisite": "Nil",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "JAPANESE STUDIES",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,0,3,0,]]
+}

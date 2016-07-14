@@ -1,0 +1,51 @@
+{
+"moduleCode": "FE5116",
+"moduleTitle": "Programming and Advanced Numerical Methods",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "FE5101, FE5101D Derivatives and Fixed Income and FE5112, FE5112D Stochastic Calculus and Quantitative Methods",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " and ": [
+                "FE5101", 
+                "FE5101D", 
+                "FE5112", 
+                "FE5112D"
+            ]
+},
+"prerequisiteList": ["FE5101","FE5101D","FE5112","FE5112D"],
+"completePrerequisite": {
+            "name": "FE5116", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "FE5101", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "FE5101D", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "FE5112", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "FE5112D", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module will cover both computer programming and numerical methods. On the programming side, this module will cover Excel based VBA and R language. The emphasis will be given to programming to solve financial engineering problems. On the numerical methods side, this module will cover finite difference, discretization and Monte Carlo simulation methods.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SPECIALITY RESEARCH INSTITUTES/CENTRES",
+"department": "RISK MANAGEMENT INSTITUTE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,4,]]
+}

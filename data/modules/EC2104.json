@@ -1,0 +1,31 @@
+{
+"moduleCode": "EC2104",
+"moduleTitle": "Quantitative Methods for Economic Analysis",
+"moduleCredit": "4",
+"lockedModules":[
+            "EC3314"
+        ],
+"preclusion": "EC3311, ANY MA MODULE THAT IS NOT MA1301 OR MA1301FC OR MA1301X OR MA1311 OR MA1312 OR MA1421.",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "MA1301F",
+            "MA1312",
+            "MA1311",
+            "MA1301",
+            "EC3311",
+            "MA1421",
+            "MA1301X"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "EC2104", 
+            "children": []
+},
+"moduleDescription": "This module seeks to enable students to integrate relevant basic mathematical knowhow with economic analysis. The main objective is to develop in the students the process skills for formulating and solving economic problems mathematically. Topics include equilibrium analysis, understanding and use of matrix algebra and differential and integral calculus in formulating and solving economic problems, comparative-static analysis, and selected optimization problems in economics.",
+"crossModule": "-1",
+"corequisite": "Nil",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "ECONOMICS",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

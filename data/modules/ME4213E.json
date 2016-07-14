@@ -1,0 +1,31 @@
+{
+"moduleCode": "ME4213E",
+"moduleTitle": "Vibration Theory & Applications",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "TM3213",
+"prerequisite": "ME3112E",
+"preclusionList": [
+            "TM3213"
+        ],
+"parsedPrerequisite": {
+" and ": ["ME3112E"]
+},
+"prerequisiteList": ["ME3112E"],
+"completePrerequisite": {
+            "name": "ME4213E", 
+            "children": [
+                {
+                    "name": "ME3112E", 
+                    "children": []
+                }
+            ]
+},
+
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "ENGINEERING",
+"department": "BACHELOR OF TECHNOLOGY PROGRAMME",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

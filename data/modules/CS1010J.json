@@ -1,0 +1,24 @@
+{
+"moduleCode": "CS1010J",
+"moduleTitle": "Programming Methodology",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "CS1010 and its equivalents",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "CS1010"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "CS1010J", 
+            "children": []
+},
+"moduleDescription": "This module introduces the fundamental concepts of problem solving by computing and programming using an imperative programming language. It is the first and foremost introductory course to computing. It is also the first part of a three-part series on introductory programming and problem solving by computing, which also includes CS1020E and CS2010. Topics covered include problem solving by computing, writing pseudo-codes, basic problem formulation and problem solving, program development, coding, testing and debugging, fundamental programming constructs (variables, types, expressions, assignments, functions, control structures, etc.), fundamental data structures: arrays, strings and structures, simple file processing, and basic recursion. This module is appropriate for B.Comp.(IS) and B.Comp.(EC) students.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF COMPUTING",
+"department": "COMPUTER SCIENCE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

@@ -1,0 +1,44 @@
+{
+"moduleCode": "CE3166",
+"moduleTitle": "Structural Steel Design and System",
+"moduleCredit": "4",
+"lockedModules":[
+            "CE5509"
+        ],
+"preclusion": "NIL",
+"prerequisite": "CE2155 Structural Mechanics and Materials",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["CE2155"]
+},
+"prerequisiteList": ["CE2155","EG1109F","EG1109"],
+"completePrerequisite": {
+            "name": "CE3166", 
+            "children": [
+                {
+                    "name": "CE2155", 
+                    "children": [
+                        {
+                            "name": "or", 
+                            "children": [
+                                {
+                                    "name": "EG1109F", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "EG1109", 
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "The primary objective of this module is to equip undergraduate civil engineering students with sufficient design knowledge and skills on steel structures both for their further education and for their future engineering career. This module provides students with fundamental approaches (based on BS 5950-1:2000) in designing structural steel components and steel buildings. The scope of this module aligns with the fundamental requirement outlined by the Board of Singapore Professional Engineers on the design of steel structures. The students will acquire fundamental knowledge and approaches to perform structural design for steel beams, axially loaded members, connections, portal/industrial buildings, multi-storey frames, and plated structures. This enables the students to conceive a safe and economical structural steel system. The module is targeted at third year civil engineering students and those with a keen interest on steel structural design.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "CIVIL & ENVIRONMENTAL ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

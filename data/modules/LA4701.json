@@ -1,0 +1,41 @@
+{
+"moduleCode": "LA4701",
+"moduleTitle": "MLA Studio: Quarter",
+"moduleCredit": "8",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "Min C in AR3101a and AR3102a",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " and ": [
+                "AR3101", 
+                "AR3102"
+            ]
+},
+"prerequisiteList": ["AR3101","AR3102"],
+"completePrerequisite": {
+            "name": "LA4701", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "AR3101", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "AR3102", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This studio-based module develops higher level skills in landscape design and marks the first of four subsequent master-level core studios in landscape design. Projects of city quarter scale are undertaken to explore issues of context, programme and socio-economic considerations. Projects will cover sites with different functions, e.g. residential, commercial, industrial, educational, health and recreation. Civic spaces like roadsides, highways, plazas, parks and city squares will also be tackled. There is an emphasis on sustainability and tropical design.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF DESIGN AND ENVIRONMENT",
+"department": "ARCHITECTURE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

@@ -1,0 +1,48 @@
+{
+"moduleCode": "CE5510",
+"moduleTitle": "Advanced Structural Concrete Design",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "CE3165 or CE4 standing or higher",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["CE3165"]
+},
+"prerequisiteList": ["CE3165","CE2155","EG1109F","EG1109"],
+"completePrerequisite": {
+            "name": "CE5510", 
+            "children": [
+                {
+                    "name": "CE3165", 
+                    "children": [
+                        {
+                            "name": "CE2155", 
+                            "children": [
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "EG1109F", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "EG1109", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module provides students with an advanced knowledge on the design methodology for structural concrete. It also provides a learning experience on the key concepts and engineering concerns of concrete structures. The topics include advanced design philosophies and methods such as collapse load methods, limit design method and strut-and-tie method, design of openings in flexural members, seismic design, and design of various structural systems. The students are expected to demonstrate their proficiency in structural concrete design through term paper projects. The target students include both undergraduate and graduate students who are involved in research or engineering practice related to structural concrete.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "CIVIL & ENVIRONMENTAL ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

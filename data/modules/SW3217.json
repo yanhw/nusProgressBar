@@ -1,0 +1,24 @@
+{
+"moduleCode": "SW3217",
+"moduleTitle": "Mental Health and Illness",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "PL3236 Abnormal Psychology",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "PL3236"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "SW3217", 
+            "children": []
+},
+"moduleDescription": "This module explores the nature of mental health and human dysfunction throughout the lifespan. Within an ecological-systems framework, a model of stress-coping-adaptation to modern living is examined. Theories of etiology and treatment of common human disorders in children and adults are also examined.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "SOCIAL WORK",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

@@ -1,0 +1,22 @@
+{
+"moduleCode": "ID3123",
+"moduleTitle": "Interaction Design",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "ID3123", 
+            "children": []
+},
+"moduleDescription": "This course is an introduction into the use of electronics and programming within the context of the interaction design. We will focus on acquiring basic knowledge and understanding of building interactive prototypes using the Arduino platform. Major topics include physical computing, sensor data acquisition and visualization ,kinetic object, user interface and user experience design, programming with Arduino and Processing.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF DESIGN AND ENVIRONMENT",
+"department": "DIVISION OF INDUSTRIAL DESIGN",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

@@ -1,0 +1,29 @@
+{
+"moduleCode": "PF3305",
+"moduleTitle": "Facilities Planning and Design",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "PF2501 Structural Systems",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["PF2501"]
+},
+"prerequisiteList": ["PF2501"],
+"completePrerequisite": {
+            "name": "PF3305", 
+            "children": [
+                {
+                    "name": "PF2501", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "This module covers the fundamental principles of planning and designing of facilities such as space allocation, planning and implementation. The topics include: space projections, date inventories, space allocation; computer-aided facilities design and drafting; selection of systems, phased implementation, and facilities management organisation; and computer-aided facilities management including planning, implementation and vendor evaluation.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF DESIGN AND ENVIRONMENT",
+"department": "BUILDING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

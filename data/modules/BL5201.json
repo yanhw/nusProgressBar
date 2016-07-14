@@ -1,0 +1,22 @@
+{
+"moduleCode": "BL5201",
+"moduleTitle": "Structural Biology And Proteomics",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "Students should have completed any two of the following undergraduate courses or their equivalent: Biochemical Techniques; Proteins and Enzymes; Physical Chemistry; and Organic Chemistry.",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "BL5201", 
+            "children": []
+},
+"moduleDescription": "The module will focus on recent advances in topics related to structural biology and proteomics. The topics to be discussed will include structure-function relationships, protein-protein interactions, protein folding, protein design and engineering and proteomics. Students will be required to participate actively in the form of presentations/discussion as well as analyses of recent research articles in the area.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "SCIENCE",
+"department": "BIOLOGICAL SCIENCES",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

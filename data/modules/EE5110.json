@@ -1,0 +1,24 @@
+{
+"moduleCode": "EE5110",
+"moduleTitle": "Special Topics in Automation and Control",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "EE6110 Special Topics in Automation and Control (Advanced)",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "EE6110"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "EE5110", 
+            "children": []
+},
+"moduleDescription": "The module offers students timely and updated coverage of a wide range of topics relevant to automation and control engineering tapping on the latest and diverse range of developments in the repertoire of the control group, such as the delivery of a measured collation of automation and control system designs applied to real problems of a diverse nature and which are not easily and directly available from standard literature.The nature of the module allows the flexibility for recent topics, problems and solutions to be shared with the students.",
+"crossModule": "-1",
+"corequisite": "EE5101 / EE5101R Linear Systems (cross-listedwith ME5401) OR EE5103 / EE5103R Computer Control Systems (cross-listed with ME5403) OR EE4302 Advanced Control Systems",
+"faculty": "ENGINEERING",
+"department": "ELECTRICAL & COMPUTER ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

@@ -1,0 +1,22 @@
+{
+"moduleCode": "SH5105",
+"moduleTitle": "Noise and Other Physical Hazards",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "SH5105", 
+            "children": []
+},
+"moduleDescription": "This course will cover the health effects, measurements methods, regulations, and control technologies related to common physical health hazards encountered in occupational settings. The emphasis of the course will be placed on the identification, evaluation and management of the hazards of noise, temperature extremes, extreme pressures, vibration and lighting in the industry. The hierarch of control will be used to demonstrate the strategy of reducing the risk to the level of as low as reasonably practice.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "ENGINEERING",
+"department": "CHEMICAL & BIOMOLECULAR ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

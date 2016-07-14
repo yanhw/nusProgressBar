@@ -1,0 +1,22 @@
+{
+"moduleCode": "RE6006",
+"moduleTitle": "Real Estate Finance Seminar",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "RE6006", 
+            "children": []
+},
+"moduleDescription": "This module is arranged primarily for research students to discuss advanced topics in real estate finance and review selected research papers. Students in this module will have to be active in the process of learning. The module will consists of paper critiques, topical and conceptual debates on contemporary issues in real estate finance research. Students are expected to carry out comprehensive review of literature and critical thinking. Guided contemporary research topics covered include corporate real estate, real estate securitisation, real options, asset pricing, capital structure, and real estate portfolio analysis.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF DESIGN AND ENVIRONMENT",
+"department": "REAL ESTATE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

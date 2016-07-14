@@ -1,0 +1,29 @@
+{
+"moduleCode": "ST5208",
+"moduleTitle": "Statistics For Quality And Productivity Improvements",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "ST3235 or Departmental approval",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["ST3235"]
+},
+"prerequisiteList": ["ST3235"],
+"completePrerequisite": {
+            "name": "ST5208", 
+            "children": [
+                {
+                    "name": "ST3235", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "Statistical process and quality control, response surface, reliability analysis, design of experiments, Taguchi method. This module is targeted at students who are interested in Statistics and are able to meet the pre-requisites.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCIENCE",
+"department": "STATISTICS & APPLIED PROBABILITY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

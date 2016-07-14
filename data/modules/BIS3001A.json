@@ -1,0 +1,22 @@
+{
+"moduleCode": "BIS3001A",
+"moduleTitle": "Independent Study Module in Business",
+"moduleCredit": "2",
+"lockedModules":[
+],
+"preclusion": "This will vary according to specific topics.",
+"prerequisite": "This will vary according to specific topics.",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "BIS3001A", 
+            "children": []
+},
+"moduleDescription": "The Independent Study Module in Business provides the opportunity for student to pursue an in-depth study of a Business topic or issue independently, but under the close supervision and guidance of an instructor. Through such a learning experience, not only will the student gain an indepth knowledge of the topic of interest, the skills acquired through such a process of independent knowledge acquisition will be invaluable for a career in the Business world. The personalized interaction with the instructor will also facilitate mentorship.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "SCHOOL OF BUSINESS",
+"department": "DEAN'S OFFICE (BIZ)",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

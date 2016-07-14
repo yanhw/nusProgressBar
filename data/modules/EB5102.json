@@ -1,0 +1,29 @@
+{
+"moduleCode": "EB5102",
+"moduleTitle": "Data Analytics",
+"moduleCredit": "8",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "EB5001 Foundations of Business Analytics",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["EB5001"]
+},
+"prerequisiteList": ["EB5001"],
+"completePrerequisite": {
+            "name": "EB5102", 
+            "children": [
+                {
+                    "name": "EB5001", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "This course introduces key data analytic algorithms and techniques used in data\u2013rich business analytics projects. It covers comprehensive analytic techniques including basic statistical and quantitative analysis, querying and reporting techniques, and extensive data mining techniques. It is designed with a practical focus of applying these techniques to answer business questions. Participants will learn the skills to successfully implement analytic solutions using various data analytic techniques, and develop a critical awareness of a wide range of commercial and open source business intelligence/analytics tools through the lectures and workshops.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "NON-FACULTY-BASED DEPARTMENTS",
+"department": "INSTITUTE OF SYSTEMS SCIENCE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

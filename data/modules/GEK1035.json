@@ -1,0 +1,24 @@
+{
+"moduleCode": "GEK1035",
+"moduleTitle": "Nations & Nationalisms in South Asia",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "GEH1008",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "GEH1008"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "GEK1035", 
+            "children": []
+},
+"moduleDescription": "This module examines the role which nationalism has played in the formation and political development of the nations and states of South Asia. It examines nationalist forces in anti-colonial struggles, in post-colonial state formation and in contemporary political developments. It will be of relevance to students with an interest in political developments in Asia, with particular reference to forms of nationalism and nation-building",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "SOUTH ASIAN STUDIES PROGRAMME",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,0,3,0,]]
+}

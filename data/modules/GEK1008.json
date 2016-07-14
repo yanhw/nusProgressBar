@@ -1,0 +1,27 @@
+{
+"moduleCode": "GEK1008",
+"moduleTitle": "Southeast Asia: A Changing Region",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "SE1101E, SSA1202, SS1203SE and GEM1008K. Not for students majoring, or intend to major in SE.",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "SS1203S",
+            "SSA1202",
+            "GEM1008K",
+            "SE1101E"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "GEK1008", 
+            "children": []
+},
+"moduleDescription": "Description Southeast Asia has been described as one of the 'crossroads of the world' - a place where people from many cultural, ethnic and religious backgrounds meet. The intermingling of people, the exchange of ideas and international commerce have been part of Southeast Asian life for centuries. This module surveys the broad currents of conflict, change and continuity across the region from a multidisciplinary perspective. It looks at how Southeast Asian societies and political systems have changed over time in response to the pressures of ecology, colonialism, nationalism, urbanization and globalization. The module also looks at the way ethnic, religious, national and regional identities have been constructed, used and altered over time. The overall objective is to provide students with an introduction to different ways of exploring Southeast Asia and different experiences of living in the region.",
+        "CrossModule": "SE1101E", 
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "SOUTHEAST ASIAN STUDIES",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

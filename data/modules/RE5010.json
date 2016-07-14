@@ -1,0 +1,22 @@
+{
+"moduleCode": "RE5010",
+"moduleTitle": "Special Seminar",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "RE5010", 
+            "children": []
+},
+"moduleDescription": "This seminar elective examines the latest trends and issues that impact the local and international real estate markets. Staff and guest lecturers including overseas Visiting Professors would be invited for focused discussion.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF DESIGN AND ENVIRONMENT",
+"department": "REAL ESTATE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

@@ -1,0 +1,48 @@
+{
+"moduleCode": "NUR2118",
+"moduleTitle": "Pathophysiology and Pharmacology II",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "NUR2117 Pathophysiology and Pharmacology I",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["NUR2117"]
+},
+"prerequisiteList": ["NUR2117","NUR1117","NUR1118"],
+"completePrerequisite": {
+            "name": "NUR2118", 
+            "children": [
+                {
+                    "name": "NUR2117", 
+                    "children": [
+                        {
+                            "name": "and", 
+                            "children": [
+                                {
+                                    "name": "NUR1117", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "NUR1118", 
+                                    "children": [
+                                        {
+                                            "name": "NUR1117", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module will focus on developing knowledge in both pathophysiology and pharmacology relevant for nursing practice. Students will gain an understanding of the etiology, pathogenesis, clinical manifestations, diagnosis and management of some major disease states or ndisturbances in homeostasis. Students will gain a comprehensive understanding of drugs used to treat disorders addressed within this module.",
+"crossModule": "-1",
+"corequisite": "Nil",
+"faculty": "YONG LOO LIN SCHOOL OF MEDICINE",
+"department": "NURSING/ALICE LEE CTR FOR NURSING STUD",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

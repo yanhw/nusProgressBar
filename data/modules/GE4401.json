@@ -1,0 +1,24 @@
+{
+"moduleCode": "GE4401",
+"moduleTitle": "Honours Thesis",
+"moduleCredit": "15",
+"lockedModules":[
+],
+"preclusion": "GE4660",
+"prerequisite": "Cohort 2012 and before To read and pass GE3240. Completed 110 MCs including 60 MCs of GE requirements with a minimum CAP of 3.50. Cohort 2013 onwards To read and pass GE3240. Completed 110 MCs including 60 MCs of GE requirements with a minimum SJAP of 4.00 and CAP of 3.50. Students may seek a waiver of the SJAP pre-requisite from the department if they have a minimum CAP of 4.25 after completing 110 MCs. Cohort 2012 onwards: (BES NVG students) To read and pass GE3240. Completed 80 MCs of NUS modules before they can read any level-4000 GE modules. Do not need to complete 28 MCs of GE modules before they can read any level-4000 GE modules. Do not need a minimum CAP of 3.20 before they can read any level-4000 GE modules.",
+"preclusionList": [
+            "GE4660"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "GE4401", 
+            "children": []
+},
+"moduleDescription": "Equivalent to 8 MCs (applies to students entering Arts 1 in 1999/2000 or earlier). Equivalent to 10 MCs (applies to students entering Arts 1 in 2000/2001). Equivalent to 12 MCs (applies to students entering Arts 1 in 2001/2002 and later). Word limit to be advised. Please check with the Honours Year Coordinator. The Honours Thesis may be on either: (a) an aspect of the geography of Singapore or Malaysia; or (b) any other approved geography topic. The subject for the thesis is to be chosen in consultation with the staff of the Department.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "GEOGRAPHY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

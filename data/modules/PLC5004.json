@@ -1,0 +1,22 @@
+{
+"moduleCode": "PLC5004",
+"moduleTitle": "Psychological Intervention And Therapy",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "PLC5004", 
+            "children": []
+},
+"moduleDescription": "This module provides students with fundamental skills that are the foundation of clinical psychological interventions, including interviewing and counselling, basic interventions and theoretical concepts, processes and techniques which underlie cognitive-behaviour therapy. Students will begin to develop core practical skills in the use of these techniques for therapeutic management of a range of problems and disorders across settings. Content includes basic behavioural change strategies, brief intervention techniques, critical case analysis, assessment and case formulation, and cognitive behavioural therapeutic techniques. Students will also explore the role of the psychologist and the boundaries and responsibilities of this role in different cultural contexts.",
+"crossModule": "-1",
+"corequisite": "Nil",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "PSYCHOLOGY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

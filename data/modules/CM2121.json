@@ -1,0 +1,37 @@
+{
+"moduleCode": "CM2121",
+"moduleTitle": "Organic Chemistry 2",
+"moduleCredit": "4",
+"lockedModules":[
+            "CM3252",
+            "CM4269",
+            "CM4271",
+            "CM4228",
+            "CM3222",
+            "CM3221",
+            "CM3225",
+            "CM3291"
+        ],
+"preclusion": "NIL",
+"prerequisite": "CM1121 or by department approval",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["CM1121"]
+},
+"prerequisiteList": ["CM1121"],
+"completePrerequisite": {
+            "name": "CM2121", 
+            "children": [
+                {
+                    "name": "CM1121", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "Functional group transformation; disconnection approach to synthesis; synthesis of polyfunctional organic molecules, stereochemistry and reaction mechanisms.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCIENCE",
+"department": "CHEMISTRY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

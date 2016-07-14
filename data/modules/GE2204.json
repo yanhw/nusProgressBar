@@ -1,0 +1,22 @@
+{
+"moduleCode": "GE2204",
+"moduleTitle": "Cities in Transition",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "GE2204", 
+            "children": []
+},
+"moduleDescription": "This module is concerned with the changing roles of cities in an age of globalisation. The first part examines cities as part of urban networks at the national, regional and international levels, and focuses on the implications arising from the rise of mega-cities and global cities. The second half of the module investigates the challenges facing cities on the ground, including issues of the revitalisation and re-imaging of city cores, changing retail landscapes, and the impact of telecommunications on the location of urban activities and peoples' mobility. The module is targeted at students with an interest in urban issues.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "GEOGRAPHY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

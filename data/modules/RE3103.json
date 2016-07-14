@@ -1,0 +1,38 @@
+{
+"moduleCode": "RE3103",
+"moduleTitle": "Real Estate Development",
+"moduleCredit": "4",
+"lockedModules":[
+            "RE3107",
+            "RE3105"
+        ],
+"preclusion": "RE3381 Real Estate Development I",
+"prerequisite": "RE2101 Real Estate Market Analysis, RE2102 Real Estate Economics",
+"preclusionList": [
+            "RE3381"
+        ],
+"parsedPrerequisite": {
+" and ": ["RE2102"]
+},
+"prerequisiteList": ["RE2102","EC1301"],
+"completePrerequisite": {
+            "name": "RE3103", 
+            "children": [
+                {
+                    "name": "RE2102", 
+                    "children": [
+                        {
+                            "name": "EC1301", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module examines the entire development process for the different types of property development and redevelopment projects. Discussions will cover a broad range of topics including the property development cycle, conception of the development project, feasibility study, project financing, project construction, real estate marketing, project completion, management of the completed development and exit strategies. Students are expected to conduct an integrated project as part of the requirement of this module.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF DESIGN AND ENVIRONMENT",
+"department": "REAL ESTATE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

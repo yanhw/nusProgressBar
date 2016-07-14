@@ -1,0 +1,23 @@
+{
+"moduleCode": "CO5203",
+"moduleTitle": "Lifestyle And Behavior In Health And Disease",
+"moduleCredit": "4",
+"lockedModules":[
+            "CO5226"
+        ],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "CO5203", 
+            "children": []
+},
+"moduleDescription": "This module provides an overview of social and behavioural theories that are commonly used to understand health behaviour and to guide the development of interventions designed to prevent, reduce or eliminate major public health problems. It provides students with the principles and skills to address factors influencing behaviour and behaviour change at the individual, interpersonal, organizational, community and policy levels. Upon completion of this module, students will be able to apply theories and models of behavioural change to inform the design of health promotion interventions.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "SAW SWEE HOCK SCHOOL OF PUBLIC HEALTH",
+"department": "SAW SWEE HOCK SCHOOL OF PUBLIC HEALTH",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

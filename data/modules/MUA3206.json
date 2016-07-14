@@ -1,0 +1,49 @@
+{
+"moduleCode": "MUA3206",
+"moduleTitle": "Materials of Jazz Music 2",
+"moduleCredit": "3",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "MUA3205 Materials of Jazz Music 1",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["MUA3205"]
+},
+"prerequisiteList": ["MUA3205","MUT2118","MUT2117","MUT1122","MUT1121"],
+"completePrerequisite": {
+            "name": "MUA3206", 
+            "children": [
+                {
+                    "name": "MUA3205", 
+                    "children": [
+                        {
+                            "name": "MUT2118", 
+                            "children": [
+                                {
+                                    "name": "MUT2117", 
+                                    "children": [
+                                        {
+                                            "name": "MUT1122", 
+                                            "children": [
+                                                {
+                                                    "name": "MUT1121", 
+                                                    "children": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "YONG SIEW TOH CONSERVATORY OF MUSIC",
+"department": "YONG SIEW TOH CONSERVATORY OF MUSIC",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

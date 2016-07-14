@@ -1,0 +1,70 @@
+{
+"moduleCode": "YSC3201",
+"moduleTitle": "Genetics",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "Integrated Science Or Foundations of Science and one additional Life Science course Yale-NUS Registry Remarks : YCC1132 Integrated Science OR (YCC2131 Foundations of Science 1 and YCC2132 Foundations of Science 2) and (YSC2202 Biology Lab or YSC1201 Human Biology or YSC3202 Promise and Perils of Genetic Information)",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " and ": [
+                "YCC2131", 
+                "YCC2132", 
+                {
+                    " or ": [
+                        "YSC2202", 
+                        "YSC1201", 
+                        "YSC3202"
+                    ]
+                }
+            ]
+},
+"prerequisiteList": ["YCC2131","YCC2132","YSC2202","YSC1201","YSC3202"],
+"completePrerequisite": {
+            "name": "YSC3201", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "YCC2131", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "YCC2132", 
+                            "children": [
+                                {
+                                    "name": "YCC2131", 
+                                    "children": []
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "or", 
+                            "children": [
+                                {
+                                    "name": "YSC2202", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "YSC1201", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "YSC3202", 
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This course illustrates basic principles of genetics using examples from prokaryote and eukaryote organisms. It emphasizes classical genetic techniques and how genetics is used to gain understanding of whole organisms. The gene, its context and the genome are the primary concepts covered. The focus will be on Drosophila developmental genetics, yeast cell biology and human disease.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "YALE-NUS COLLEGE",
+"department": "YALE-NUS COLLEGE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

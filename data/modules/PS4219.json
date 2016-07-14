@@ -1,0 +1,25 @@
+{
+"moduleCode": "PS4219",
+"moduleTitle": "Comparative Political Thought",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "PS3201B, PS3231",
+"prerequisite": "Cohort 2011 and before: Completed 80 MCs, including 28 MCs in PS or 28 MCs in SC with a minimum CAP of 3.50 or be on the Honours track. Cohort 2012 onwards: Completed 80 MCs, including 28 MCs in PS or 28 MCs in SC with a minimum CAP of 3.20 or be on the Honours track",
+"preclusionList": [
+            "PS3201B",
+            "PS3231"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "PS4219", 
+            "children": []
+},
+"moduleDescription": "This course will explore the emerging field of comparative political theory by considering to what extent it stands as a coherent, independent subfield, and what if any are the questions it is specifically poised to answer. Our treatment will be both topical and methodological. We will begin by reading the work of contemporary scholars who explicitly situate themselves within \u201ccomparative\u201d as opposed to mainstream canonical political theory, and/or who use comparison as a tool for elucidating particular political problems. In the second part of the course, we will read primary sources that undertake comparative or synthetic perspectives on formulating theory in the modern world, but from selfconsciously \u201cindigenous\u201d perspectives.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "POLITICAL SCIENCE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

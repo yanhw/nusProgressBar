@@ -1,0 +1,41 @@
+{
+"moduleCode": "ST2289",
+"moduleTitle": "Basic UROPS in Statistics and Applied Probability II",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "ST1131 or ST1232; and Departmental Approval",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " or ": [
+                "ST1131", 
+                "ST1232"
+            ]
+},
+"prerequisiteList": ["ST1131","ST1232"],
+"completePrerequisite": {
+            "name": "ST2289", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "ST1131", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "ST1232", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCIENCE",
+"department": "STATISTICS & APPLIED PROBABILITY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,3,4,]]
+}

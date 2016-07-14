@@ -1,0 +1,34 @@
+{
+"moduleCode": "LSM1103",
+"moduleTitle": "Biodiversity",
+"moduleCredit": "4",
+"lockedModules":[
+            "LSM4254",
+            "LSM2251",
+            "LSM3256",
+            "LSM4266",
+            "FST3102",
+            "LSM2289",
+            "LSM3266",
+            "FST2108",
+            "LSM2288",
+            "LSM2291",
+            "LSM3252",
+            "LSM3272"
+        ],
+"preclusion": "NIL",
+"prerequisite": "GCE \u2018A\u2019 LEVEL OR H2 BIOLOGY OR EQUIVALENT, OR LSM1301 OR LSM1301FC OR LSM1301X",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "LSM1103", 
+            "children": []
+},
+"moduleDescription": "The course aims to inculcate in students an understanding for the need of a diverse and intricate balance of nature and the morality of conservation. It involves an introduction to the diversity of major groups of living organisms, and the importance of maintaining diversity in natural ecosystems. Emphasis is on the need for conservation of biodiversity to maintain a balance of nature. The course will highlight to the students the biodiversity in the major habitats and vegetation types in and around Singapore.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCIENCE",
+"department": "BIOLOGICAL SCIENCES",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

@@ -1,0 +1,24 @@
+{
+"moduleCode": "HY4401",
+"moduleTitle": "Honours Thesis",
+"moduleCredit": "15",
+"lockedModules":[
+],
+"preclusion": "HY4660",
+"prerequisite": "Cohort 2012 and before: Completed 110MCs including 60 MCs of HY major requirements with a minimum CAP of 3.50. Cohort 2013 onwards Completed 110 MCs including 60 MCs of HY major requirements with a minimum SJAP of 4.00 and a CAP of 3.50. Students may seek a waiver of the SJAP pre-requisite from the department if they have a minimum CAP of 4.25 after completing 110 MCs.",
+"preclusionList": [
+            "HY4660"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "HY4401", 
+            "children": []
+},
+"moduleDescription": "Honours students in History are required to prepare an Honours thesis of 10,000 to 12,000 words through which they are taught to do an original piece of historical research based on primary and secondary sources. Students select research topics with the guidance and approval of the History Department, and are assigned supervisors who provide guidance in conducting research and writing up research materials.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "HISTORY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

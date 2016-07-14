@@ -1,0 +1,22 @@
+{
+"moduleCode": "CE6006",
+"moduleTitle": "Advanced Finite Element Analysis",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "CE6006", 
+            "children": []
+},
+"moduleDescription": "This module extends further the fundamentals and applications of finite element method to solve complex engineering problems. Topics covered include weak formulation and finite element concepts, degenerated beam and plate elements, time-dependent finite element procedure, nonlinear finite element procedures and meshless finite element method. Student should be able to analyse advanced problems in structural and geotechnical disciplines using finite element methods.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "CIVIL & ENVIRONMENTAL ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

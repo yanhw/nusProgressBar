@@ -1,0 +1,22 @@
+{
+"moduleCode": "LA5301",
+"moduleTitle": "Geo Design",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "LA5301", 
+            "children": []
+},
+"moduleDescription": "The module focuses on developing the knowledge and techniques of site analysis and planning, which are essential for sustainable landscape architecture. The module is named as \u201cGeo design\u201d because it emphasizes on the systematic thinking of site and site alternatives in broad context, in which the analysis is supported by contemporary theories and methodologies in landscape and urban ecology. The tool of geographic information system (GIS) is provided for the development of advanced techniques in analyzing, evaluating, managing, and modeling.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF DESIGN AND ENVIRONMENT",
+"department": "ARCHITECTURE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

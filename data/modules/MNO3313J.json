@@ -1,0 +1,29 @@
+{
+"moduleCode": "MNO3313J",
+"moduleTitle": "TIHMC: Employee and Organizational Misbehaviors",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "MNO1001: Management and Organisation",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["MNO1001"]
+},
+"prerequisiteList": ["MNO1001"],
+"completePrerequisite": {
+            "name": "MNO3313J", 
+            "children": [
+                {
+                    "name": "MNO1001", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "This module examines deviant behaviors at the workplace, corporate misconduct and organizational ethics. Both the employee and organization will be the focus of our analysis. Topics examined include the role of personality and situation in explaining employee and organizational deviance, employee theft, deceit, lying and whistle-blowing among others.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "SCHOOL OF BUSINESS",
+"department": "MANAGEMENT AND ORGANISATION",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

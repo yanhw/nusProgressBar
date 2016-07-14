@@ -1,0 +1,91 @@
+{
+"moduleCode": "ACC3615",
+"moduleTitle": "Accounting Theory",
+"moduleCredit": "4",
+"lockedModules":[
+            "ACC4612D"
+        ],
+"preclusion": "Students who have passed FNA3129 are not allowed to take ACC3615.",
+"prerequisite": "FNA3111/ACC3601 Co-requisite: FNA3123/ACC3606",
+"preclusionList": [
+            "FNA3129"
+        ],
+"parsedPrerequisite": {
+            " or ": [
+                "ACC3601", 
+                "FNA3123", 
+                "ACC3606"
+            ]
+},
+"prerequisiteList": ["ACC3601","FNA1002","ACC1002","FNA3123","ACC3606","FNA3111"],
+"completePrerequisite": {
+            "name": "ACC3615", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "ACC3601", 
+                            "children": [
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "FNA1002", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "ACC1002", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "FNA3123", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "ACC3606", 
+                            "children": [
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "FNA3111", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "ACC3601", 
+                                            "children": [
+                                                {
+                                                    "name": "or", 
+                                                    "children": [
+                                                        {
+                                                            "name": "FNA1002", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "ACC1002", 
+                                                            "children": []
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "Accounting theory is a body of rules and theories which governs the practice of financial accounting. Many of the rules and theories are well reasoned economic rationales and tested over time. On the other hand, the state of accounting theory also changes as new accounting and financial transactions are created in the new economy. This module seeks to examine some of the core theories that underpin financial accounting. This is essential to a proper theoretical understanding of the discipline of financial accounting.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF BUSINESS",
+"department": "ACCOUNTING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

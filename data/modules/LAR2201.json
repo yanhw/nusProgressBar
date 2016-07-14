@@ -1,0 +1,30 @@
+{
+"moduleCode": "LAR2201",
+"moduleTitle": "Arabic 2",
+"moduleCredit": "4",
+"lockedModules":[
+            "LAR3201"
+        ],
+"preclusion": "NIL",
+"prerequisite": "\"LAR1201 Arabic 1, or by placement test.\"",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["LAR1201"]
+},
+"prerequisiteList": ["LAR1201"],
+"completePrerequisite": {
+            "name": "LAR2201", 
+            "children": [
+                {
+                    "name": "LAR1201", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "Arabic 2 is a beginners\u2019 module, and is a continuation of Arabic 1. It is an integrated course which will help students gain higher basic proficiency in the four skills (listening, speaking, reading, and writing), grammar, vocabulary (including the Arabic alphabet), for personal interaction and communication in authentic situations.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "CENTRE FOR LANGUAGE STUDIES",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

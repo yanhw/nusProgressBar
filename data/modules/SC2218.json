@@ -1,0 +1,22 @@
+{
+"moduleCode": "SC2218",
+"moduleTitle": "Anthropology and the Human Condition",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "SC2218", 
+            "children": []
+},
+"moduleDescription": "What does it mean to be human? Why are humans such social animals? How have human societies become what they are today? How did globalization begin, and where will it end? This course introduces you to the anthropological perspective within the social sciences. We examine cultural variation in many aspects of social life within Singapore, Asia, and around the world. We help you understand processes of change that have affected your own life in Singapore, as well as other parts of the world, by putting them into historical and comparative context. For sociology students and anyone with a general interest in understanding themselves better.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "SOCIOLOGY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

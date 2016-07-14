@@ -1,0 +1,22 @@
+{
+"moduleCode": "IS6000",
+"moduleTitle": "Qualifying Examination in IS",
+"moduleCredit": "6",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "IS6000", 
+            "children": []
+},
+"moduleDescription": "This module evaluates students on essential knowledge of IS research methodologies and application domains of management information systems. Students will be tested on their ability to integrate method (e.g., survey, experiment, qualitative, technical, or econometrics) and domain (e.g., knowledge management, electronic commerce) knowledge towards designing studies to investigate current phenomena in IS.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "SCHOOL OF COMPUTING",
+"department": "INFORMATION SYSTEMS",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

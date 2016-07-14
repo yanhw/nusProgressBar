@@ -1,0 +1,55 @@
+{
+"moduleCode": "MLE4208",
+"moduleTitle": "Photovoltaics Materials",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "MLE2105 or EE3406 or equivalent",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " or ": [
+                "MLE2105", 
+                "EE3406"
+            ]
+},
+"prerequisiteList": ["MLE2105","MLE1101","MLE2101","EE3406"],
+"completePrerequisite": {
+            "name": "MLE4208", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "MLE2105", 
+                            "children": [
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "MLE1101", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "MLE2101", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "EE3406", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module teaches materials aspects for a wide variety of photovoltaic devices covering conventional p-n junction cells based on Si wafers, amorphous or nanocrystalline Si, bulk heterojunction solar cells, nanostructured solar cells including dye-sensitised solar cells, organic solar cells and quantum structured solar cells, etc. emphasising the materials science and engineering aspects of advanced photovoltaic devices. Therefore students will gain an understanding of the role of materials development and characterisation for current and emerging photovoltaic technologies. Specific objectives include understanding of the physics of photovoltaics, general working principles of individual photovoltaic devices, the roles of photovoltaic materials and how they are incorporated in various photovoltaic devices; attain an informed view on the current aspects of photovoltaic technologies and photovoltaic materials, ability to select materials for device application based on their optical, electrical properties.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "MATERIALS SCIENCE AND ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

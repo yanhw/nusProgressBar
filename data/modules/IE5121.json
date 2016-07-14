@@ -1,0 +1,22 @@
+{
+"moduleCode": "IE5121",
+"moduleTitle": "Quality Planning And Management",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "IE5121", 
+            "children": []
+},
+"moduleDescription": "This module focuses on the planning, organizational and human dimensions of quality management. It begins with an overview of the fundamental nature of quality, followed by a coverage of the strategic importance of quality in industry and the implementation of total quality management. The organizational and human dimensions include the application of basic management theories to the planning, management and improvement of quality. The measurement techniques, unique to assessing human performance and their role in quality improvement, will also be discussed.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "INDUSTRIAL & SYSTEMS ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

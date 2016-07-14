@@ -1,0 +1,57 @@
+{
+"moduleCode": "CE5205",
+"moduleTitle": "Transportation Planning",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "CE3121 or CE4 standing or higher",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["CE3121"]
+},
+"prerequisiteList": ["CE3121","CE2407","MA1506","MA1102R","MA1505","MA1521"],
+"completePrerequisite": {
+            "name": "CE5205", 
+            "children": [
+                {
+                    "name": "CE3121", 
+                    "children": [
+                        {
+                            "name": "CE2407", 
+                            "children": [
+                                {
+                                    "name": "MA1506", 
+                                    "children": [
+                                        {
+                                            "name": "or", 
+                                            "children": [
+                                                {
+                                                    "name": "MA1102R", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MA1505", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MA1521", 
+                                                    "children": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module will provide the student with an intermediate course in the theory and practice of urban transportation planning, programming, and modeling of supply and demand components of transportation systems; to acquaint the student with the state of transportation planning practice as contrasted with analytical models, and familiarize the student with the history and status of transportation planning activities. At the end of this course, the student is expected to understand the \"4-step\"process, harness methodologies and tools used for transportation planning, and be capable of observing, analyzing, modeling, and inferring real-world transportation planning problems through tools learned.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "CIVIL & ENVIRONMENTAL ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

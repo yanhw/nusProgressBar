@@ -1,0 +1,41 @@
+{
+"moduleCode": "NUR2116",
+"moduleTitle": "Medical-Surgical Nursing II",
+"moduleCredit": "4",
+"lockedModules":[
+            "NUR2107",
+            "NUR3103"
+        ],
+"preclusion": "NIL",
+"prerequisite": "NUR2106 Clinical practicum 2.1",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["NUR2106"]
+},
+"prerequisiteList": ["NUR2106","NUR2114","NUR1108"],
+"completePrerequisite": {
+            "name": "NUR2116", 
+            "children": [
+                {
+                    "name": "NUR2106", 
+                    "children": [
+                        {
+                            "name": "NUR2114", 
+                            "children": [
+                                {
+                                    "name": "NUR1108", 
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module will promote and develop knowledge, skills and attitudes necessary for the provision of nursing care and management for patients with alteration in gastrointestinal, musculoskeletal, renal and urinary, and immunological function. The module also includes management of patients in pain and patients in the operating room.",
+"crossModule": "-1",
+"corequisite": "NUR2118 Pathophysiology & Pharmacology II, NUR2107 Clinical Practicum 2.2",
+"faculty": "YONG LOO LIN SCHOOL OF MEDICINE",
+"department": "NURSING/ALICE LEE CTR FOR NURSING STUD",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

@@ -1,0 +1,24 @@
+{
+"moduleCode": "GEK1542",
+"moduleTitle": "Forensic Science",
+"moduleCredit": "4",
+"lockedModules":[
+            "CM3301",
+            "SP3202"
+        ],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "GEK1542", 
+            "children": []
+},
+"moduleDescription": "The module is designed to provide students with general knowledge of a special branch of scientific inquiry and application to questions which are of interest to the legal system as well as social sciences such as archaeology. Experts from law, pharmacy, statistics, Health Sciences Authority and the Police will cover related topics to forensic science. The main topics covered include the introduction to the laboratory set up of the Centre for Forensic Science which handles DNA profiling, testing of body fluids and blood, paternity testing and database information; death investigation by the Centre for Forensic Medicine; hand writing analysis and questioned documents, toxicology and identification of illegal drugs.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCIENCE",
+"department": "BIOLOGICAL SCIENCES",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

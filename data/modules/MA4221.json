@@ -1,0 +1,208 @@
+{
+"moduleCode": "MA4221",
+"moduleTitle": "Partial Differential Equations",
+"moduleCredit": "4",
+"lockedModules":[
+            "MA5252",
+            "MA5213"
+        ],
+"preclusion": "NIL",
+"prerequisite": "MA3220",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["MA3220"]
+},
+"prerequisiteList": ["MA3220","MA1104","MA1102","MA1102R","MA1505","MA1505C","MA1521","EE1401","EE1461","EG1402","MA1507","MA1101R","MA1311","MA1506","MA1508","MA2108","MA2108S"],
+"completePrerequisite": {
+            "name": "MA4221", 
+            "children": [
+                {
+                    "name": "MA3220", 
+                    "children": [
+                        {
+                            "name": "and", 
+                            "children": [
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "MA1104", 
+                                            "children": [
+                                                {
+                                                    "name": "or", 
+                                                    "children": [
+                                                        {
+                                                            "name": "MA1102", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "MA1102R", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "MA1505", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "MA1505C", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "MA1521", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "EE1401", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "EE1461", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "EG1402", 
+                                                            "children": []
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "MA1505", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "MA1507", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "MA1521", 
+                                            "children": []
+                                        }
+                                    ]
+                                }, 
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "MA1101R", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "MA1311", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "MA1506", 
+                                            "children": [
+                                                {
+                                                    "name": "or", 
+                                                    "children": [
+                                                        {
+                                                            "name": "MA1102R", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "MA1505", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "MA1521", 
+                                                            "children": []
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "MA1508", 
+                                            "children": []
+                                        }
+                                    ]
+                                }, 
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "MA2108", 
+                                            "children": [
+                                                {
+                                                    "name": "or", 
+                                                    "children": [
+                                                        {
+                                                            "name": "MA1102", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "MA1102R", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "MA1505", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "MA1505C", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "MA1507", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "MA1521", 
+                                                            "children": []
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "MA2108S", 
+                                            "children": [
+                                                {
+                                                    "name": "or", 
+                                                    "children": [
+                                                        {
+                                                            "name": "MA1102", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "MA1102R", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "MA1505", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "MA1505C", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "MA1507", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "MA1521", 
+                                                            "children": []
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "The objective of this introductory course is to provide the basic properties of partial differential equations as well as the techniques to solve some partial differential equations. Partial differential equations are the important tools for understanding the physical world and mathematics itself. This course will cover three types of partial differential equations and will provide a broad perspective on the subject, illustrate the rich variety of phenomena and impart a working knowledge of the most important techniques of analysis of the equations and their solutions. Major topics: First-order equations. Quasi-linear equations. General first-order equation for a function of two variables. Cauchy problem. Wave equation. Wave equation in two independent variables. Cauchy problem for hyperbolic equations in two independent variables. Heat equation. The weak maximum principle for parabolic equations. Cauchy problem for heat equation. Regularity of solutions to heat equation. Laplace equation. Green's formulas. Harmonic functions. Maximum principle for Laplace equation. Dirichlet problem. Green's function and Poisson's formula.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCIENCE",
+"department": "MATHEMATICS",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

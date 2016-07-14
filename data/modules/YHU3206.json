@@ -1,0 +1,29 @@
+{
+"moduleCode": "YHU3206",
+"moduleTitle": "Advanced Creative Nonfiction",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "YHU2202 Introduction to Creative Nonfiction Or A student may submit a portfolio of personal essays in lieu of the prerequisite.",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["YHU2202"]
+},
+"prerequisiteList": ["YHU2202"],
+"completePrerequisite": {
+            "name": "YHU3206", 
+            "children": [
+                {
+                    "name": "YHU2202", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "This course is designed for students who have previously taken the Introduction to Creative Nonfiction course. The course is designed to hone the writing skills of students who are particularly interested in the personal essay form.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "YALE-NUS COLLEGE",
+"department": "YALE-NUS COLLEGE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

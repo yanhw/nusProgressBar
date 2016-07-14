@@ -1,0 +1,25 @@
+{
+"moduleCode": "EU2214",
+"moduleTitle": "Introduction to Continental Philosophy",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "PH2212, GEK2030",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "PH2212",
+            "GEK2030"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "EU2214", 
+            "children": []
+},
+"moduleDescription": "An introduction to some of the main figures and movements of Continental European Philosophy. The purpose is to provide a broad synoptic view of the Continental tradition with special attention paid to historical development. Topics to be discussed include phenomenology, existentialism, structuralism, hermeneutics, Critical Theory, and post-structuralism/post-modernism. Thinkers to be discussed include Husserl, Heidegger, Sartre, Levi-Strauss, Derrida, Gadamer, Habermas, Lyotard and Levinas. The main objective is to familiarize the student with the key concepts, ideas and arguments in the Continental tradition.",
+        "CrossModule": "PH2212", 
+"corequisite": "NIL",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "PHILOSOPHY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

@@ -1,0 +1,22 @@
+{
+"moduleCode": "QT5201K",
+"moduleTitle": "Quantum Information Processing",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "This module is open to all students at CQT, and those in Computer Science, Mathematics, and in Physics. Students from other departments and faculties are welcome, but it is advisable that they discuss their background with one of the lecturers before registering.",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "QT5201K", 
+            "children": []
+},
+"moduleDescription": "This module aims to introduce modern concepts and methods Quantum Information Processing, which provides broad, solid foundations in modern topics of quantum information science. Subjects covered include - Entanglement, tensor networks, matrix product states - Topological quantum computation - Coding and error correction - Quantum algorithms - Physical implementations of quantum computation and information processing - Majorana physics.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SPECIALITY RESEARCH INSTITUTES/CENTRES",
+"department": "CENTRE FOR QUANTUM TECHNOLOGIES",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

@@ -1,0 +1,22 @@
+{
+"moduleCode": "YSC2212",
+"moduleTitle": "Instrumental Analysis",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "YSC2212", 
+            "children": []
+},
+"moduleDescription": "This course is an introduction to the laboratory techniques in analytical and organic chemistry with an emphasis on the fundamental principles and utilisation of state-of-the-art instruments.",
+"crossModule": "-1",
+"corequisite": "None.",
+"faculty": "YALE-NUS COLLEGE",
+"department": "YALE-NUS COLLEGE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

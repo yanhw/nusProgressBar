@@ -1,0 +1,32 @@
+{
+"moduleCode": "RE2102",
+"moduleTitle": "Real Estate Economics",
+"moduleCredit": "4",
+"lockedModules":[
+            "RE3103"
+        ],
+"preclusion": "RE2280 Real Estate Space Market I",
+"prerequisite": "EC1301 Principles of Economics",
+"preclusionList": [
+            "RE2280"
+        ],
+"parsedPrerequisite": {
+" and ": ["EC1301"]
+},
+"prerequisiteList": ["EC1301"],
+"completePrerequisite": {
+            "name": "RE2102", 
+            "children": [
+                {
+                    "name": "EC1301", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "This foundation course employs economic analysis, especially microeconomic principles, to provide a big-picture view of the urbanization process and real estate markets. The topics include economic factors driving city formation; market forces shaping urban spatial structure; determinants influencing metropolitan and regional growth; the linkages among location, land use, and land value; suburbanization and sub centres; urban transportation; and land-use policies.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF DESIGN AND ENVIRONMENT",
+"department": "REAL ESTATE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

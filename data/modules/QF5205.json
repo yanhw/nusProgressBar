@@ -1,0 +1,22 @@
+{
+"moduleCode": "QF5205",
+"moduleTitle": "Topics in Quantitative Finance I",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "Departmental approval",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "QF5205", 
+            "children": []
+},
+"moduleDescription": "This module is designed for graduate students in quantitative finance. The 0bjective of this module is to introduce students to some selected topics in quantitative finance not covered by other modules in the quantitative finance programme. The lectures will demonstrate how various mathematical instruments, such as stochastic analysis, stochastic control, partial differential equations, numerical methods, etc, can be used to solve practical problems in quantitative finance. Modeling, numerical implementation and the interplay between theoretical and modeling approaches will be emphasized. In particular, examples from current and/or past developments in financial markets will be chosen for illustrations of applications of theory and modeling techniques introduced. The actual topics covered may vary from year to year, and will be decided by the lecturers.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "SCIENCE",
+"department": "MATHEMATICS",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

@@ -1,0 +1,24 @@
+{
+"moduleCode": "ME3242E",
+"moduleTitle": "Automation",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "TM3242",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "TM3242"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "ME3242E", 
+            "children": []
+},
+
+"crossModule": "-1",
+"corequisite": "ME2143E",
+"faculty": "ENGINEERING",
+"department": "BACHELOR OF TECHNOLOGY PROGRAMME",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

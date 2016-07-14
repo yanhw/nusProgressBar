@@ -1,0 +1,36 @@
+{
+"moduleCode": "EE6437",
+"moduleTitle": "Advanced Semiconductor Devices",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "EE6505 CMOS Nanotechnology",
+"prerequisite": "EE5433R Functional Devices.",
+"preclusionList": [
+            "EE6505"
+        ],
+"parsedPrerequisite": {
+" and ": ["EE5433R"]
+},
+"prerequisiteList": ["EE5433R","EE3431C"],
+"completePrerequisite": {
+            "name": "EE6437", 
+            "children": [
+                {
+                    "name": "EE5433R", 
+                    "children": [
+                        {
+                            "name": "EE3431C", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "Building on the semiconductor fundamentals and device physics knowledge, this module teaches the latest development and advancement in CMOS devices and process technologies, specifically relating to logic devices. Major topics to be covered in this module include (i) CMOS transistor historical scaling trends and physical limitations, (ii) module building blocks (materials and processes) including high permittivity or high-k gate dielectric, metal gate, ultra-shallow junction, metal contacts and advanced doping techniques, (iii) high mobility channel materials beyond silicon, (iv) alternative nanoscale transistor architectures, and (v) more-than-Moore technological trends.",
+"crossModule": "-1",
+"corequisite": "Nil",
+"faculty": "ENGINEERING",
+"department": "ELECTRICAL & COMPUTER ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

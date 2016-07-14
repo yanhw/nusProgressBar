@@ -1,0 +1,59 @@
+{
+"moduleCode": "EE6436",
+"moduleTitle": "Advanced Characterization of Materials and Devices",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "EE6503 Characterization of Materials & Devices",
+"prerequisite": "EE5432R Microelectronic Processes & Characterization",
+"preclusionList": [
+            "EE6503"
+        ],
+"parsedPrerequisite": {
+" and ": ["EE5432R"]
+},
+"prerequisiteList": ["EE5432R","EE4411","EE2021","EE1002","EG1108","CG1108"],
+"completePrerequisite": {
+            "name": "EE6436", 
+            "children": [
+                {
+                    "name": "EE5432R", 
+                    "children": [
+                        {
+                            "name": "EE4411", 
+                            "children": [
+                                {
+                                    "name": "EE2021", 
+                                    "children": [
+                                        {
+                                            "name": "or", 
+                                            "children": [
+                                                {
+                                                    "name": "EE1002", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "EG1108", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "CG1108", 
+                                                    "children": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This is an elective module for postgraduate research students on advanced characterization techniques applied to advanced and emerging research materials and devices. The emphasis of this course is on advanced measurement and characterization principles, instrumentation, data acquisition, models for data analysis, and data interpretation applied to characterization problems encountered in the research and development of advanced and emerging research materials and devices. The characterization methods covered are advanced application modes or techniques of the basic characterization methods discussed in the EE5432R module and new techniques which are not discussed in the aforementioned core module.",
+"crossModule": "-1",
+"corequisite": "Nil",
+"faculty": "ENGINEERING",
+"department": "ELECTRICAL & COMPUTER ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

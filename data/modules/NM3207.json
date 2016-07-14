@@ -1,0 +1,22 @@
+{
+"moduleCode": "NM3207",
+"moduleTitle": "Philosophy in Communications and New Media",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "NM3207", 
+            "children": []
+},
+"moduleDescription": "This module presents a number of foundational philosophical theories, concepts, and perspectives on communications and new media. It will explore some of the historical philosophical precedents regarding the ideas of communication, vision, and representation as such, as well as provide several key philosophies of modern technology. Finally, the module will explore the trajectory of these philosophical ideas into the following areas: conceptions of writing and language, film and television studies, and studies of cybernetics, network, and the Internet.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "COMMUNICATIONS AND NEW MEDIA",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

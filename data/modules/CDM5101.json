@@ -1,0 +1,23 @@
+{
+"moduleCode": "CDM5101",
+"moduleTitle": "Fundamentals of Cancer Biology",
+"moduleCredit": "4",
+"lockedModules":[
+            "CDM5102"
+        ],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "CDM5101", 
+            "children": []
+},
+"moduleDescription": "This module provides students with a comprehensive overview of the aberrant cell growth control mechanisms that lead to neoplasia. Following an introduction and a brief history of the major advances in cancer research, the major topics that will be covered include oncogenes, tumor suppressor genes, epigenetics, transcription factors, angiogenesis, metastasis, tumor immunology, cancer stem cells, animal models of cancer, DNA repair mechanisms and regulation of the cell cycle, cell death and cell signaling.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "YONG LOO LIN SCHOOL OF MEDICINE",
+"department": "DEAN'S OFFICE (MEDICINE)",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

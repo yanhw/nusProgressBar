@@ -1,0 +1,31 @@
+{
+"moduleCode": "ESE4406",
+"moduleTitle": "Energy and the Environment",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "CN4248",
+"prerequisite": "ESE3101 and ESE 3201",
+"preclusionList": [
+            "CN4248"
+        ],
+"parsedPrerequisite": {
+" and ": ["ESE3101"]
+},
+"prerequisiteList": ["ESE3101"],
+"completePrerequisite": {
+            "name": "ESE4406", 
+            "children": [
+                {
+                    "name": "ESE3101", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "This module describes the technology and scientific understanding by which the world\u2019s nations could ameliorate the growing urban, regional, and global environmental problems associated with energy use while still providing sufficient energy to meet the needs of populations for a human existence. Topics include a general introduction to the subject of energy, its use and its environmental effects; the world\u2019s energy reserves and resources; electrical energy generation, transmission and storage; fossilfuelled and nuclear-fuelled power plants; environmental effects of fossil and nuclear fuel use; renewable energy; transportation.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "ENGINEERING",
+"department": "CIVIL & ENVIRONMENTAL ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

@@ -1,0 +1,22 @@
+{
+"moduleCode": "EC4341",
+"moduleTitle": "International Economics II",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "Cohort 2011 and before: Completed 80 MCs, including 28 MCs in EC with a minimum CAP of 3.50 or be on the Honours track. EC3101, EC3102, EC3303, and EC3341. Cohort 2012 onwards: Completed 80 MCs, including 28 MCs in EC or 28MCs in GL/GL recognised non-language modules, with a minimum CAP of 3.20 or be on the Honours track. EC3101, EC3102, EC3303, and (EC3341 or EC3342 or EC3343).",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "EC4341", 
+            "children": []
+},
+"moduleDescription": "This course applies some of the 'core' theory from the pure theory of trade and international finance to some topics of interest in the international arena. Topics might include: the gains from trade revisited, endogenous growth and trade policy, the 'new' protectionism, multinational corporations and the transfer of technology, the 'new' regionalism, reforming the international financial architecture, predicting exchange rates movements, coping with international capital flows, the prospects for monetary integration in Asia, international money, the euro, and the internationalisation of the Singapore dollar, the international debt problem.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "ECONOMICS",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

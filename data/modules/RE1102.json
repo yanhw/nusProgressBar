@@ -1,0 +1,25 @@
+{
+"moduleCode": "RE1102",
+"moduleTitle": "Urban Land Use & Development",
+"moduleCredit": "4",
+"lockedModules":[
+            "RE2103"
+        ],
+"preclusion": "RE1180 Urban Land Use and Development",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "RE1180"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "RE1102", 
+            "children": []
+},
+"moduleDescription": "This is an introductory module providing students with theories, concepts and components of the urban built environment. Discussions will cover the urbanisation process, development of urban forms and structures, land policy and development constraints, national development and the land use planning process, the role of government in the planning process, the property development process, and the roles and functions of parties involved as well as real estate in urban development.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF DESIGN AND ENVIRONMENT",
+"department": "REAL ESTATE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

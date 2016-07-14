@@ -1,0 +1,29 @@
+{
+"moduleCode": "LSM3266",
+"moduleTitle": "Avian Biology and Evolution",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "LSM1103 Biodiversity",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["LSM1103"]
+},
+"prerequisiteList": ["LSM1103"],
+"completePrerequisite": {
+            "name": "LSM3266", 
+            "children": [
+                {
+                    "name": "LSM1103", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "Birds are widely studied and constitute a model for many scientific disciplines from genetics to ecology. This module explores bird biology from an evolutionary perspective. Topics include: (1) birds\u2019 dinosaur origins; (2) present-day diversity with emphasis on Asian bird families; (3) evolutionary processes that may have led to avian flight, small genome size and other avian traits; and (4) challenges birds face in Earth\u2019s modern extinction crisis. This module is suitable for students passionate about biological processes ranging from organismic evolution at the molecular level to broad ecological and biogeographic contexts.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCIENCE",
+"department": "BIOLOGICAL SCIENCES",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

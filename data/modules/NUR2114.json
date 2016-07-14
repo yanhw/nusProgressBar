@@ -1,0 +1,30 @@
+{
+"moduleCode": "NUR2114",
+"moduleTitle": "Medical-Surgical Nursing I",
+"moduleCredit": "4",
+"lockedModules":[
+            "NUR2106"
+        ],
+"preclusion": "NIL",
+"prerequisite": "NUR1108 Clinical Practicum 1.2",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["NUR1108"]
+},
+"prerequisiteList": ["NUR1108"],
+"completePrerequisite": {
+            "name": "NUR2114", 
+            "children": [
+                {
+                    "name": "NUR1108", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "This module focuses on the therapeutic management of patients with alterations in cardiovascular, respiratory, hematological, endocrine, visual and dermatological function. It equips students with knowledge and skills to provide safe care to meet the needs of patients in medical and surgical settings.",
+"crossModule": "-1",
+"corequisite": "NUR2117 Pathophysiology & Pharmacology I, NUR2106 Clinical Practicum 2.1",
+"faculty": "YONG LOO LIN SCHOOL OF MEDICINE",
+"department": "NURSING/ALICE LEE CTR FOR NURSING STUD",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

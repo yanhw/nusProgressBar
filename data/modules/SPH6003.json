@@ -1,0 +1,41 @@
+{
+"moduleCode": "SPH6003",
+"moduleTitle": "Nutritional Epidemiology",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "CO5102 Principles of Epidemiology/ Basic Epidemiology CO5103 Quantitative Epidemiologic Methods /Basic Biostatistics",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " or ": [
+                "CO5102", 
+                "CO5103"
+            ]
+},
+"prerequisiteList": ["CO5102","CO5103"],
+"completePrerequisite": {
+            "name": "SPH6003", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "CO5102", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "CO5103", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "Dietary exposures have an important impact on health, but are highly complex and difficult to assess. This module covers methods for the assessment of diet, nutritional status, and body composition including novel developments such as the use of metabolomics and genetics. It also covers the design, conduct, analysis, and interpretation of epidemiological studies on diet and health. Students will be trained in the interpretation of published studies, the design of studies, and the analysis of data on diet and health. The emphasis of this course will be on the application of methods to the research projects of the students.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SAW SWEE HOCK SCHOOL OF PUBLIC HEALTH",
+"department": "SAW SWEE HOCK SCHOOL OF PUBLIC HEALTH",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

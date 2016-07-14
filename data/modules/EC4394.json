@@ -1,0 +1,22 @@
+{
+"moduleCode": "EC4394",
+"moduleTitle": "Behavioural Economics",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "Cohort 2011 and before: Completed 80 MCs, including 28 MCs in EC, with a minimum CAP of 3.50 or be on the Honours track. EC3101, EC3102, and (EC3303 or ST3131). Cohort 2012 onwards: Completed 80 MCs, including 28 MCs in EC, with a minimum CAP of 3.20 or be on the Honours track. EC3101, EC3102, and (EC3303 or ST3131).",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "EC4394", 
+            "children": []
+},
+"moduleDescription": "This course introduces students to Behavioural Economics, a relatively new field of economics. It is based on the belief that economists should aspire to making assumptions about humans that are as realistic as possible. Specifically, it tries to incorporate into economics the insights of other social sciences, especially psychology and sociology. In this course, we will be looking at models with precisely formulated assumptions and thinking about the careful empirical testing of both the assumptions and the conclusions. The course will be weighted more towards the empirical parts.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "ECONOMICS",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

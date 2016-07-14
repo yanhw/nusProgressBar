@@ -1,0 +1,40 @@
+{
+"moduleCode": "MA1100",
+"moduleTitle": "Fundamental Concepts of Mathematics",
+"moduleCredit": "4",
+"lockedModules":[
+            "CS2309",
+            "CS5232",
+            "MA2214",
+            "MA2219",
+            "MA2202S",
+            "MA2202",
+            "CS2102R",
+            "CS2102",
+            "CS3243",
+            "CS3230",
+            "CS3234",
+            "MA3205"
+        ],
+"preclusion": "MA1100S, GM1308, CS1231, CS1231S, CS1301, EEE students, CEG students, CPE students, MPE students, COM students, CEC students, FASS students from 2003-2006 cohort who major in Mathematics (for breadth requirement).",
+"prerequisite": "A' LEVEL OR H2 MATHEMATICS OR EQUIV OR [GM1101 AND GM1102] OR MA1301 OR MA1301FC or MA1301X",
+"preclusionList": [
+            "CS1301",
+            "MA1100S",
+            "CS1231",
+            "GM1308",
+            "CS1231S"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "MA1100", 
+            "children": []
+},
+"moduleDescription": "This module introduces the language, notions, and methods upon which a sound education in mathematics at the university level is built. Students are exposed to the language of mathematical logic, the idea of rigorous mathematical proofs and fundamental mathematical concepts such as sets, relations and functions. Major topics: Elementary logic, mathematical statements, set operations, relations and functions, equivalence relations, elementary number theory.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCIENCE",
+"department": "MATHEMATICS",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

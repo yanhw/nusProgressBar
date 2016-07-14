@@ -1,0 +1,22 @@
+{
+"moduleCode": "SC3230",
+"moduleTitle": "Civil Society and Civic Engagement",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "SC3230", 
+            "children": []
+},
+"moduleDescription": "Civil society is not possible without voluntarily engaging citizens and the culture of civic engagement in the form of volunteerism is hard to grow in a milieu that lacks a tradition of democratic civil society. Given that civic engagement and volunteerism are perceived as a crucial indicator of liveable society, it has been a concern of many countries including Singapore to increase voluntary associations and promote volunteering among citizens. This module thus pursues three main themes: (1) the relationship between civil society and civic engagement, (2) the precursors of volunteers (i.e., what makes people volunteer?), and (3) the outcomes of volunteerism (e.g., life satisfaction, health, or status attainment).",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "SOCIOLOGY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

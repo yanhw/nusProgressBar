@@ -1,0 +1,24 @@
+{
+"moduleCode": "NM3202",
+"moduleTitle": "Governance and New Media",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NM2202",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "NM2202"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "NM3202", 
+            "children": []
+},
+"moduleDescription": "New media governance involves collective action by governments, international organizations, nongovernmental organizations, the private sector and civil society to establish agreements about standards, policies, rules, enforcement mechanisms and dispute resolution procedures. This module examines the process of governance of new media technologies and the challenges it presents to the stakeholders involved. It also examines the legal and regulatory constraints affecting new media technologies and the implications these constraints have on the nature and quality of governance.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "COMMUNICATIONS AND NEW MEDIA",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

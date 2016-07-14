@@ -1,0 +1,26 @@
+{
+"moduleCode": "IS1112X",
+"moduleTitle": "E-Business Essentials",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "IS1112 E-Business Essentials IS1112FC E-Business Essentials IT1004 Introduction to Electronic Commerce",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "IS1112",
+            "IS1112F",
+            "IT1004"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "IS1112X", 
+            "children": []
+},
+"moduleDescription": "This foundation course aims to provide a broad introduction to the nature of e-business activities from practical, technical, business and strategic perspectives. It will provide students with a comprehensive understanding of the technical elements that facilitate the development of the Internet and e-commerce, and the principles and concepts underlying the use of these technologies to facilitate e-business operations. Topics covered include: the evolution of e-business from operational, technical and strategic perspectives, basic computer networking and database concepts, website architecture and multimedia on the Internet, internet technologies, services and applications (e.g. social networking, telephony, P2P, etc), and emerging standards in e-business.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF COMPUTING",
+"department": "INFORMATION SYSTEMS",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,3,0,]]
+}

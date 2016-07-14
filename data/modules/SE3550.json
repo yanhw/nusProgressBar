@@ -1,0 +1,35 @@
+{
+"moduleCode": "SE3550",
+"moduleTitle": "Southeast Asian Studies Internship",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "Any other XX3550 module. [Note: Students who change major may not do a second internship in their new major)",
+"prerequisite": "Students should: have completed a minimum of 24 MC in Southeast Asian Studies; and have declared Southeast Asian Studies as their Major.",
+"preclusionList": [
+            "MS3550",
+            "SE3550",
+            "IEU3550",
+            "JS3550",
+            "SW3550",
+            "GE3550B",
+            "GE3550A",
+            "PS3550",
+            "NM3550",
+            "EU3550",
+            "ISE3550",
+            "INM3550"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "SE3550", 
+            "children": []
+},
+"moduleDescription": "Internships vary in length and take place within organisations or companies located in Singapore or Southeast Asian countries. Internships with organisations or companies in Southeast Asian countries will occur during the semester-in-SEA programme at the SEASP. All internships are vetted and approved by the SEASP, have relevance to the major in Southeast Asian Studies, involve the application of subject knowledge and theory in reflection upon the work, and are assessed. Available credited internships will be advertised at the beginning of each semester. Internships proposed by students will require the approval of the department.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "SOUTHEAST ASIAN STUDIES",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

@@ -1,0 +1,22 @@
+{
+"moduleCode": "GS5105",
+"moduleTitle": "NGS Graduate Seminar Series",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "GS5105", 
+            "children": []
+},
+"moduleDescription": "This is an optional module. The main purpose of this module is to give graduate students the opportunity to participate in scientific seminars/exchanges in a professional manner and it is also to hone their presentation and communication skills. It will also serve as a platform for exchange of idea and update of nformation which important for advancement in research. It is also an avenue for students who wish to participate in seminars organized by the Research Institutes which will held over one year period. After each seminar attended, student has to prepare learning journals/logs for all the seminars attended, including the seminar he presents. Student\u2019s presentation slides will have to be submitted and together, these will be assessed/graded by a representative from the NGS curriculum committee as well as the RI coordinator (for students who take the seminars organized by RI) A \u2018Satisfactory/Unsatisfactory\u2019 grade is awarded on the basis of attendance, presentation and document submission.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "NUS GRAD SCH FOR INTEGRATIVE SCI & ENGG",
+"department": "NUS GRAD SCH FOR INTEGRATIVE SCI & ENGG",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

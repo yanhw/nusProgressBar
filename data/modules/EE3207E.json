@@ -1,0 +1,29 @@
+{
+"moduleCode": "EE3207E",
+"moduleTitle": "Computer Architecture",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "EE2007E",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["EE2007E"]
+},
+"prerequisiteList": ["EE2007E"],
+"completePrerequisite": {
+            "name": "EE3207E", 
+            "children": [
+                {
+                    "name": "EE2007E", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "This course teaches students the basics in the design of the various classes of microprocessors. Contents include design of simple micro-controllers, high performance CPU design using parallel techniques, memory organization and parallel processing systems. Topics also include the development of support tools to enable efficient usage of the developed microprocessor. The course emphasizes practical design and students are expected to be able to synthesize microprocessors at the gate level at the end of this course.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "BACHELOR OF TECHNOLOGY PROGRAMME",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

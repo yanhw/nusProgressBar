@@ -1,0 +1,56 @@
+{
+"moduleCode": "MKT3402A",
+"moduleTitle": "Consumer Behaviour",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "BH3402 or BZ3602 or BK3201 or MKT3402A or MKT3402B",
+"prerequisite": "MKT1003 or BH1003 or BZ1003 or BK2003",
+"preclusionList": [
+            "BK3201",
+            "BH3402",
+            "MKT3402B",
+            "BZ3602"
+        ],
+"parsedPrerequisite": {
+            " or ": [
+                "MKT1003", 
+                "BH1003", 
+                "BZ1003", 
+                "BK2003"
+            ]
+},
+"prerequisiteList": ["MKT1003","BH1003","BZ1003","BK2003"],
+"completePrerequisite": {
+            "name": "MKT3402A", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "MKT1003", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "BH1003", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "BZ1003", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "BK2003", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "Consumers make decisions regarding the acquisition, use and disposal of a variety of products, services and experiences. In this course, we seek to understand and appreciate consumers as unique individuals and as members of their social and cultural groups. We will examine the many facets of consumer behavior (e.g., from the experiential perspective, incorporating insights from sociology and anthropology), with an emphasis on symbolic forms of consumption, and the use of qualitative research methods.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF BUSINESS",
+"department": "MARKETING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

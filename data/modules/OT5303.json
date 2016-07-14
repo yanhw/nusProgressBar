@@ -1,0 +1,22 @@
+{
+"moduleCode": "OT5303",
+"moduleTitle": "Subsea Control",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "OT5303", 
+            "children": []
+},
+"moduleDescription": "Subsea Control is an essential and integral part of all subsea systems. This module introduces the fundamentals and principles of subsea control used in subsea systems for oil & gas production. Subsea data communication systems as well as various subsea protocols used are also addressed in this module.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "ENGINEERING",
+"department": "MECHANICAL ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

@@ -1,0 +1,29 @@
+{
+"moduleCode": "BMA5326",
+"moduleTitle": "Selected Topics in Finance: China\u2019s Capital Markets",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "BMA5008",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["BMA5008"]
+},
+"prerequisiteList": ["BMA5008"],
+"completePrerequisite": {
+            "name": "BMA5326", 
+            "children": [
+                {
+                    "name": "BMA5008", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "This is an introductory course on China\u2019s Capital Markets that will examine China\u2019s listed equity, private equity, bond and derivative markets from a development perspective and its convergence towards international standards. The course will use a combination of cases, professional and academic articles to provide an understanding of the concepts, issues and investors involved in China\u2019s capital markets. An underlying theme of this course is how China\u2019s capital markets have developed and improved, despite the grievances and misgivings widely espoused by the investment community.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF BUSINESS",
+"department": "DEAN'S OFFICE (BIZ)",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,0,3,0,]]
+}

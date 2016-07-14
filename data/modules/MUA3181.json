@@ -1,0 +1,45 @@
+{
+"moduleCode": "MUA3181",
+"moduleTitle": "Advanced Concepts in Orchestral Repertoire I",
+"moduleCredit": "2",
+"lockedModules":[
+            "MUA4181"
+        ],
+"preclusion": "NIL",
+"prerequisite": "MUA2181 Orchestral Repertoire for Brass 2B",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["MUA2181"]
+},
+"prerequisiteList": ["MUA2181","MUA2180","MUA1181","MUA1180"],
+"completePrerequisite": {
+            "name": "MUA3181", 
+            "children": [
+                {
+                    "name": "MUA2181", 
+                    "children": [
+                        {
+                            "name": "MUA2180", 
+                            "children": [
+                                {
+                                    "name": "MUA1181", 
+                                    "children": [
+                                        {
+                                            "name": "MUA1180", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "Advanced Concepts in Orchestral Repertoire I (ACOR) for brass is a group seminar designed for third year orchestral brass players, in order to prepare them for professionallevel orchestral auditions. It is intended to build on their experiences in previous brass orchestral repertoire modules and Conservatory Orchestra, and focus their knowledge on how to prepare and execute professional orchestral auditions. In this module, each ACOR student will prepare ten standard orchestral excerpts for their instrument to a professional performance level. In preparing each excerpt, the student is also expected to research supporting materials in order to gain a broader technical and musicological understanding of their chosen repertoire.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "YONG SIEW TOH CONSERVATORY OF MUSIC",
+"department": "YONG SIEW TOH CONSERVATORY OF MUSIC",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

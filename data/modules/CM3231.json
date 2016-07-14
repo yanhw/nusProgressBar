@@ -1,0 +1,43 @@
+{
+"moduleCode": "CM3231",
+"moduleTitle": "Quantum Chem & Molecular Thermodynamics",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "CM2101",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["CM2101"]
+},
+"prerequisiteList": ["CM2101","CM1131","CM1401"],
+"completePrerequisite": {
+            "name": "CM3231", 
+            "children": [
+                {
+                    "name": "CM2101", 
+                    "children": [
+                        {
+                            "name": "or", 
+                            "children": [
+                                {
+                                    "name": "CM1131", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "CM1401", 
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "Duality of matter and the Heisenberg principle; Schrodinger equation of simple systems; postulates of quantum mechanics; symmetry elements and operators; probability; order and disorder; statistical interpretation of entropy and the Boltzmann equation; Boltzmann distribution and the partition function for an ideal gas; thermodynamic functions for ideal gases.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCIENCE",
+"department": "CHEMISTRY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

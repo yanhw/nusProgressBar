@@ -1,0 +1,29 @@
+{
+"moduleCode": "YSS3220",
+"moduleTitle": "Political Economy",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "YSS2203 Intermediate Microeconomics YSS2211 Econometrics",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["YSS2211"]
+},
+"prerequisiteList": ["YSS2211"],
+"completePrerequisite": {
+            "name": "YSS3220", 
+            "children": [
+                {
+                    "name": "YSS2211", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "This course focuses on understanding how interactions between political actors influence decisions and outcomes.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "YALE-NUS COLLEGE",
+"department": "YALE-NUS COLLEGE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

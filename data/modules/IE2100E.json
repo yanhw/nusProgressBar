@@ -1,0 +1,24 @@
+{
+"moduleCode": "IE2100E",
+"moduleTitle": "Probability Models with Applications",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "DSC3215",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "DSC3215"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "IE2100E", 
+            "children": []
+},
+
+"crossModule": "-1",
+"corequisite": "ST2131 or TS2120 or IE2120E",
+"faculty": "ENGINEERING",
+"department": "BACHELOR OF TECHNOLOGY PROGRAMME",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

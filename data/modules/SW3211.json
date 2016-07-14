@@ -1,0 +1,34 @@
+{
+"moduleCode": "SW3211",
+"moduleTitle": "Community-Based Family Services",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "SW2101",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["SW2101"]
+},
+"prerequisiteList": ["SW2101","SW1101E"],
+"completePrerequisite": {
+            "name": "SW3211", 
+            "children": [
+                {
+                    "name": "SW2101", 
+                    "children": [
+                        {
+                            "name": "SW1101E", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module will use an ecological approach to introduce the principles of community-based social work practice, focusing specifically on the family. Within the framework of family needs at different stages, the module will examine variations in intervention methods and strategies implemented at different levels. The levels will include individual, family, group, programme, organization, and policy. A comparative approach of the different models of family services will also be adopted. The module will cover the principles and processes of networking, needs assessment, programme planning and development, utilising volunteers, and management of resources. An additional purpose of the course is to prepare social work students in community-based social services such as family service centres.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "SOCIAL WORK",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

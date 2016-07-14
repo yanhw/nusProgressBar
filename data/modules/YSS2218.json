@@ -1,0 +1,29 @@
+{
+"moduleCode": "YSS2218",
+"moduleTitle": "International Political Economy",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "YCC1121 Comparative Social Institutions",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["YCC1121"]
+},
+"prerequisiteList": ["YCC1121"],
+"completePrerequisite": {
+            "name": "YSS2218", 
+            "children": [
+                {
+                    "name": "YCC1121", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "This class introduces students to the study of international political economy. Students will examine the structure of the global political economy, the drivers and implications of globalization, and the role of international economic institutions in driving political and economic outcomes. Among others, this class will cover topics such as international financial institutions, trade, financial crises, foreign aid, economic development, energy politics, and illicit trade.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "YALE-NUS COLLEGE",
+"department": "YALE-NUS COLLEGE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

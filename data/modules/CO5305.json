@@ -1,0 +1,22 @@
+{
+"moduleCode": "CO5305",
+"moduleTitle": "Industrial Hygiene",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "CO5305", 
+            "children": []
+},
+"moduleDescription": "This module offers an overview and scope of industrial hygiene, in particular the practical aspects of recognition, identification and control of chemical, physical and biological agents at the workplace. The health effects of exposure to these agents and their biological monitoring would also be discussed and the process of risk assessment would also be covered. Workplace evaluations will also be conducted.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "SAW SWEE HOCK SCHOOL OF PUBLIC HEALTH",
+"department": "SAW SWEE HOCK SCHOOL OF PUBLIC HEALTH",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

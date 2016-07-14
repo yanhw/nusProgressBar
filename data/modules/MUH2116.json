@@ -1,0 +1,30 @@
+{
+"moduleCode": "MUH2116",
+"moduleTitle": "Music and Context: After 1800",
+"moduleCredit": "4",
+"lockedModules":[
+            "MUH3205"
+        ],
+"preclusion": "NIL",
+"prerequisite": "MUH2115 Music and Context: Before 1830",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["MUH2115"]
+},
+"prerequisiteList": ["MUH2115"],
+"completePrerequisite": {
+            "name": "MUH2116", 
+            "children": [
+                {
+                    "name": "MUH2115", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "This subject explores musical figures, genres, styles, and representative works from 1800 to the present in terms of the socio-cultural circumstances from which they emerged. 19th-century Romanticism, the early twentieth century\u2019s exciting innovations, and the more recent pluralism of postmodernism are considered in terms of 5 central themes that span these two centuries. Students will learn to aurally identify musical characteristics of a range of styles and acquire the skills, knowledge, and confidence necessary for their own critical appraisal of, and independent research into the repertoire that they listen to and play.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "YONG SIEW TOH CONSERVATORY OF MUSIC",
+"department": "YONG SIEW TOH CONSERVATORY OF MUSIC",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

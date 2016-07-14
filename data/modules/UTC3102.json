@@ -1,0 +1,24 @@
+{
+"moduleCode": "UTC3102",
+"moduleTitle": "Tembusu Undergraduate Research Opportunity (UROP)",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "GEM3901",
+"prerequisite": "Ideally, a student should have completed the University Town College Programme of five modules before pursuing Independent Study. However, due to the diverse student population at Tembusu, the prerequisite is that students should have completed at least one Senior Seminar. This ensures that a student has gained some familiarity with the exploration of topics in an inter-disciplinary, multi-disciplinary or trans-disciplinary fashion. The student should approach a College Fellow to work out an agreed topic, readings, and assignments for the module. Part of this conversation should be to specify in what sense the topic and/or approach are interdisciplinary, multi-disciplinary or trans-disciplinary in character. A formal ISM contract is to be submitted to the Director of Studies for approval. Evaluation is based on 100% Continuous Assessment and must be worked out between the student and the supervisor prior to seeking the College\u2019s approval. In the course of the semester, between 4 and 6 meetings between student and supervisor are expected. The student is expected to play an active role in setting the agenda and preparing for these meetings.",
+"preclusionList": [
+            "GEM3901"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "UTC3102", 
+            "children": []
+},
+"moduleDescription": "A UROP involves the student working with a supervisor, and sometimes in a team, on an existing research project. A Tembusu UROP may focus on research related to a particular aspect of life, education or organization at Tembusu College. Alternatively, students may participate in research led by a College Fellow or other academic, as long as the project gives the student exposure to forms of expertise and/or interests that go beyond any particular discipline. The aim of the UROP is to help support a student\u2019s academic and professional development through a meaningful research apprenticeship. The UROP is a graded module.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "NON-FACULTY-BASED DEPARTMENTS",
+"department": "TEMBUSU COLLEGE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

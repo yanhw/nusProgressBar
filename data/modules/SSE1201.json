@@ -1,0 +1,24 @@
+{
+"moduleCode": "SSE1201",
+"moduleTitle": "Building a Dynamic Singapore - Role of Engineers",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "GES1017",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "GES1017"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "SSE1201", 
+            "children": []
+},
+"moduleDescription": "The focus of the module is to highlight how engineering and technology have contributed to the development of Singapore. The module is structured around case studies such as the creation of Jurong island, one-north, the water story etc. In these case studies, the constraints faced by Singapore (e.g. scarcity of land, lack of water) are overcome through technological, organizational and other forms of innovation. Simple diagrams that can be understood by layman are used to explain some of the innovations (e.g. the water loop).",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "DIVISION OF ENGINEERING AND TECH MGT",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

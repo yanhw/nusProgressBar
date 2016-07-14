@@ -1,0 +1,76 @@
+{
+"moduleCode": "LSM4215",
+"moduleTitle": "Extreme Physiology",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "LSM3212 Human Physiology: Cardiopulmonary System AND LSM3214 Human Physiology \u2013 Hormones and Health",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["LSM3214"]
+},
+"prerequisiteList": ["LSM3214","LSM2101","LSM1101","LSM1401","LSM3212"],
+"completePrerequisite": {
+            "name": "LSM4215", 
+            "children": [
+                {
+                    "name": "LSM3214", 
+                    "children": [
+                        {
+                            "name": "and", 
+                            "children": [
+                                {
+                                    "name": "LSM2101", 
+                                    "children": [
+                                        {
+                                            "name": "or", 
+                                            "children": [
+                                                {
+                                                    "name": "LSM1101", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "LSM1401", 
+                                                    "children": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }, 
+                                {
+                                    "name": "LSM3212", 
+                                    "children": [
+                                        {
+                                            "name": "LSM2101", 
+                                            "children": [
+                                                {
+                                                    "name": "or", 
+                                                    "children": [
+                                                        {
+                                                            "name": "LSM1101", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "LSM1401", 
+                                                            "children": []
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module describes how the human body responds to exposure and exercise in environmental extremes such as hypoxic and hyperbaric conditions, thermal stressors, microgravity and trauma. Latest research findings, including some of the controversial topics, will be presented and discussed. Students will understand what the physiological changes are under extreme conditions and how acute and chronic adaptations occur in response to these stresses. This will allow students to appreciate how the human body adapts to changing environments.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "YONG LOO LIN SCHOOL OF MEDICINE",
+"department": "PHYSIOLOGY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

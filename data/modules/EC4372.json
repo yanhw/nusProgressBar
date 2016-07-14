@@ -1,0 +1,22 @@
+{
+"moduleCode": "EC4372",
+"moduleTitle": "Technology and Innovation",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "Cohort 2011 and before: Completed 80 MCs, including 28 MCs in EC with a minimum CAP of 3.50 or be on the Honours track. EC3101, EC3102, and EC3303. Cohort 2012 onwards: Completed 80 MCs, including 28 MCs in EC or 28MCs in GL/GL recognised non-language modules, with a minimum CAP of 3.20 or be on the Honours track. EC3101, EC3102, and EC3303.",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "EC4372", 
+            "children": []
+},
+"moduleDescription": "This module aims to equip students with comprehensive understanding of the nexus between technology, innovation and economy. It deals with major theories of 'technology economics' and attempts to synthesise them with historical and comparative perspective. An emphasis is placed on methodology due to the interdisciplinary characteristics of the subject. Some questions to be explored include: (1) major characteristics of technological change, (2) impacts of technical changes on the economy, (3) competitive strategies of firms and nations in coping with technological changes, (4) globalisation of production and R&D networks, (5) comparison of national innovation systems of East Asian countries, (6) Singapore's future in technological development.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "ECONOMICS",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

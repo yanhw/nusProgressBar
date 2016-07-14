@@ -1,0 +1,97 @@
+{
+"moduleCode": "CS4236",
+"moduleTitle": "Cryptography Theory and Practice",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "CS2107 Introduction to Information & System Security and CS3230 Design and Analysis of Algorithm.",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " and ": [
+                "CS2107", 
+                "CS3230"
+            ]
+},
+"prerequisiteList": ["CS2107","CS1010","CS3230","CS2010","CS1020","CS1020E","CS1010E","CG1103","CS1231","MA1100"],
+"completePrerequisite": {
+            "name": "CS4236", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "CS2107", 
+                            "children": [
+                                {
+                                    "name": "CS1010", 
+                                    "children": []
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "CS3230", 
+                            "children": [
+                                {
+                                    "name": "and", 
+                                    "children": [
+                                        {
+                                            "name": "CS2010", 
+                                            "children": [
+                                                {
+                                                    "name": "or", 
+                                                    "children": [
+                                                        {
+                                                            "name": "CS1020", 
+                                                            "children": [
+                                                                {
+                                                                    "name": "CS1010", 
+                                                                    "children": []
+                                                                }
+                                                            ]
+                                                        }, 
+                                                        {
+                                                            "name": "CS1020E", 
+                                                            "children": [
+                                                                {
+                                                                    "name": "CS1010E", 
+                                                                    "children": []
+                                                                }
+                                                            ]
+                                                        }, 
+                                                        {
+                                                            "name": "CG1103", 
+                                                            "children": []
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "or", 
+                                            "children": [
+                                                {
+                                                    "name": "CS1231", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MA1100", 
+                                                    "children": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module aims to introduce the foundation, principles and concepts behind cryptology and the design of secure communication systems. The emphasis is on the formulation and techniques of various cryptographic primitives, and on the secure usage of such primitives to achieve the goals of confidentially, integrity, and authenticity in both theoretical settings and practical scenarios. Basic topics include pseudorandom functions, symmetric key encryption, public key encryption, message authentication codes, hash functions, digital signatures, key exchange and PKI. Selected topics may include: secret sharing, TCP/IP security, Kerberos, SSL, trusted computing, side-channel attacks.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF COMPUTING",
+"department": "COMPUTER SCIENCE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

@@ -1,0 +1,26 @@
+{
+"moduleCode": "CN3421E",
+"moduleTitle": "Process Modeling & Numerical Simulation",
+"moduleCredit": "4",
+"lockedModules":[
+            "CN4205E",
+            "CN4242E",
+            "CN4118E",
+            "CN4123E"
+        ],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "CN3421E", 
+            "children": []
+},
+
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "BACHELOR OF TECHNOLOGY PROGRAMME",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

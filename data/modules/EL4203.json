@@ -1,0 +1,22 @@
+{
+"moduleCode": "EL4203",
+"moduleTitle": "Semantics",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "Cohort 2011 and before: Completed 80 MCs, including 28 MCs in EL and EL3201, with a minimum CAP of 3.50 or be on the Honours track. Cohort 2012 onwards: Completed 80 MCs, including 28 MCs in EL and EL3201, with a minimum CAP of 3.20 or be on the Honours track.",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "EL4203", 
+            "children": []
+},
+"moduleDescription": "The goal of this module is to develop a concrete, compositional mapping between the syntactic structure of linguistic expressions and their interpreted meanings, based primarily on the study of English data. Emphasis will be placed on precise, formal descriptions of meanings as truth conditions and their computation. The contribution of the conversational context will also be discussed. Basic knowledge of English syntactic structure will be assumed.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "ENGLISH LANGUAGE & LITERATURE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

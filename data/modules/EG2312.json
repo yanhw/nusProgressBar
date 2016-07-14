@@ -1,0 +1,59 @@
+{
+"moduleCode": "EG2312",
+"moduleTitle": "Radar Theory and Techniques",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "MA1505 and MA1506",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " and ": [
+                "MA1505", 
+                "MA1506"
+            ]
+},
+"prerequisiteList": ["MA1505","MA1506","MA1102R","MA1521"],
+"completePrerequisite": {
+            "name": "EG2312", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "MA1505", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "MA1506", 
+                            "children": [
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "MA1102R", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "MA1505", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "MA1521", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "The module introduces basic radar theory and techniques. The objective is to provide a good understanding of radar principles, supported by weekly MATLAB sessions in which key concepts are worked out into computational examples. Groups of students also work together to develop the signal processing of an actual Frequency Modulated Continuous Wave (FMCW) radar. At the end of the module students will have a good understanding of radar principles as well as the ability to implement several functions in MATLAB.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "DEAN'S OFFICE (ENGINEERING)",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

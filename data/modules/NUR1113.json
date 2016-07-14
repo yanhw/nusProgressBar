@@ -1,0 +1,22 @@
+{
+"moduleCode": "NUR1113",
+"moduleTitle": "Health and Wellness for Older Adults",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "NUR1113", 
+            "children": []
+},
+"moduleDescription": "This module aims to provide students the opportunity to focus on the holistic needs of the older adults\u2019 population and explore means to support them to achieve optimal level of functioning and quality of life. Students will examine theories and concepts of ageing, normal physiologic and psychosocial changes and the bio-psychosocial issues associated with these processes. By developing an understanding of the specific needs of older adults, students will be able to promote health and wellness for this population. Ethical and legal aspects of caring for older adults are addressed.",
+"crossModule": "-1",
+"corequisite": "Nil",
+"faculty": "YONG LOO LIN SCHOOL OF MEDICINE",
+"department": "NURSING/ALICE LEE CTR FOR NURSING STUD",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

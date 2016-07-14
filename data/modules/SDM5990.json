@@ -1,0 +1,25 @@
+{
+"moduleCode": "SDM5990",
+"moduleTitle": "Sdm Research Project",
+"moduleCredit": "8",
+"lockedModules":[
+],
+"preclusion": "MT5910 LaunchPad: Experiential Entrepreneurship & MT5900 MOT Research Project",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "MT5900",
+            "MT5910"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "SDM5990", 
+            "children": []
+},
+
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "DIVISION OF ENGINEERING AND TECH MGT",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

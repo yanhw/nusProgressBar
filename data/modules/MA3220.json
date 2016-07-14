@@ -1,0 +1,230 @@
+{
+"moduleCode": "MA3220",
+"moduleTitle": "Ordinary Differential Equations",
+"moduleCredit": "4",
+"lockedModules":[
+            "MA4221",
+            "MA4233",
+            "MA4255"
+        ],
+"preclusion": "MA2312, PC2174.",
+"prerequisite": "(MA1104 or MA1505 or MA1507 or MA1521) and (MA1101R or MA1311 or MA1506 or MA1508) and (MA2108 or MA2108S)",
+"preclusionList": [
+            "MA2312",
+            "PC2174"
+        ],
+"parsedPrerequisite": {
+            " and ": [
+                {
+                    " or ": [
+                        "MA1104", 
+                        "MA1505", 
+                        "MA1507", 
+                        "MA1521"
+                    ]
+                }, 
+                {
+                    " or ": [
+                        "MA1101R", 
+                        "MA1311", 
+                        "MA1506", 
+                        "MA1508"
+                    ]
+                }, 
+                {
+                    " or ": [
+                        "MA2108", 
+                        "MA2108S"
+                    ]
+                }
+            ]
+},
+"prerequisiteList": ["MA1104","MA1102","MA1102R","MA1505","MA1505C","MA1521","EE1401","EE1461","EG1402","MA1507","MA1101R","MA1311","MA1506","MA1508","MA2108","MA2108S"],
+"completePrerequisite": {
+            "name": "MA3220", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "or", 
+                            "children": [
+                                {
+                                    "name": "MA1104", 
+                                    "children": [
+                                        {
+                                            "name": "or", 
+                                            "children": [
+                                                {
+                                                    "name": "MA1102", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MA1102R", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MA1505", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MA1505C", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MA1521", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "EE1401", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "EE1461", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "EG1402", 
+                                                    "children": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }, 
+                                {
+                                    "name": "MA1505", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "MA1507", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "MA1521", 
+                                    "children": []
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "or", 
+                            "children": [
+                                {
+                                    "name": "MA1101R", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "MA1311", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "MA1506", 
+                                    "children": [
+                                        {
+                                            "name": "or", 
+                                            "children": [
+                                                {
+                                                    "name": "MA1102R", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MA1505", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MA1521", 
+                                                    "children": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }, 
+                                {
+                                    "name": "MA1508", 
+                                    "children": []
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "or", 
+                            "children": [
+                                {
+                                    "name": "MA2108", 
+                                    "children": [
+                                        {
+                                            "name": "or", 
+                                            "children": [
+                                                {
+                                                    "name": "MA1102", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MA1102R", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MA1505", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MA1505C", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MA1507", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MA1521", 
+                                                    "children": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }, 
+                                {
+                                    "name": "MA2108S", 
+                                    "children": [
+                                        {
+                                            "name": "or", 
+                                            "children": [
+                                                {
+                                                    "name": "MA1102", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MA1102R", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MA1505", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MA1505C", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MA1507", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MA1521", 
+                                                    "children": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "The study of ordinary differential equations (ODEs) has been a centerpiece in both pure and applied mathematics, such as in mathematical analysis, dynamical systems and mathematical modeling. The aim of this module is to give a thorough treatment on the fundamental theory of ODEs and the methods of solving ODEs. Major topics: Review of first order equations, Basic theory of linear differential equations, Variation of parameters, Principle of superposition, Wronskian, Abel's formula, Adjoint and self-adjoint equations, Lagrange and Green's identities, Sturm's separation and comparison theorems, Linear differential systems, Series solutions of second order linear differential equations, Method of Frobenius, Initial value problems, Lipschitz condition, Picard's method of successive approximations, Existence and uniqueness of solution, Gronwall\u2019s inequality, Continuous dependence on initial value.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCIENCE",
+"department": "MATHEMATICS",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

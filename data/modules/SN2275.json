@@ -1,0 +1,24 @@
+{
+"moduleCode": "SN2275",
+"moduleTitle": "Tamil Studies I",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "SN2291",
+"prerequisite": "Pass in 'AO' Level Tamil",
+"preclusionList": [
+            "SN2291"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "SN2275", 
+            "children": []
+},
+"moduleDescription": "This module seeks to enhance the student's ability to comprehend texts on various subjects as well as to communicate effectively their views on complex issues. Various kinds of text types will be used, including commentaries and abstract discourses.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "SOUTH ASIAN STUDIES PROGRAMME",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

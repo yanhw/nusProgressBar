@@ -1,0 +1,28 @@
+{
+"moduleCode": "YCC1121",
+"moduleTitle": "Comparative Social Institutions",
+"moduleCredit": "5",
+"lockedModules":[
+            "YSS2213",
+            "YSS2209",
+            "YSS2218",
+            "YSS3216",
+            "YSS3237",
+            "YSS3234"
+        ],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "YCC1121", 
+            "children": []
+},
+"moduleDescription": "This module explores a range of social institutions from the perspective of a variety of disciplines in the social sciences. Quantitative and qualitative methods are explored, with examples chosen from societies around the world.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "YALE-NUS COLLEGE",
+"department": "YALE-NUS COLLEGE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

@@ -1,0 +1,31 @@
+{
+"moduleCode": "EE5433R",
+"moduleTitle": "Functional Devices",
+"moduleCredit": "4",
+"lockedModules":[
+            "EE6437",
+            "EE6438"
+        ],
+"preclusion": "NIL",
+"prerequisite": "EE3431C or equivalent",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["EE3431C"]
+},
+"prerequisiteList": ["EE3431C"],
+"completePrerequisite": {
+            "name": "EE5433R", 
+            "children": [
+                {
+                    "name": "EE3431C", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "The module is designed to expose the students with a wide range of functional devices and to equip the students with capability of analyzing new emerging devices. Various devices making use of electrical, optical, and magnetic properties of different materials will be covered. For each kind of device, a brief history, background knowledge, device structure and characteristics, as well as device applications and outlook will be included.",
+"crossModule": "-1",
+"corequisite": "EE5431R or EE5508",
+"faculty": "ENGINEERING",
+"department": "ELECTRICAL & COMPUTER ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

@@ -1,0 +1,22 @@
+{
+"moduleCode": "NM2302",
+"moduleTitle": "Mobility and New Media",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "NM2302", 
+            "children": []
+},
+"moduleDescription": "This module examines the relationship between mobile communications and new media. The first half covers the socio-cultural, political, spatial and economic forms of mobility facilitated and enhanced by new media: the rise of the information economy, digital divides, political mobilisation, cultural globalisation and migration. The second half concentrates on media platforms and devices that give rise to emergent forms of mobile communication and social connection: issues of privacy/publicness, surveillance, immersiveness and information overload that have arisen with the intensifying use of locative media; and possibilities for sociability/intimacy, disembodiment and virtual mobility via identity experimentation.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "COMMUNICATIONS AND NEW MEDIA",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

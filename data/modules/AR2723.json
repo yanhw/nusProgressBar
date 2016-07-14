@@ -1,0 +1,23 @@
+{
+"moduleCode": "AR2723",
+"moduleTitle": "Strategies for Sustainable Architecture",
+"moduleCredit": "4",
+"lockedModules":[
+            "AR3721"
+        ],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "AR2723", 
+            "children": []
+},
+"moduleDescription": "This module deals with topics in ecological and sustainable architecture, focusing on environmental issues as they apply to design. Basic technical knowledge on energy, water, materials, etc are covered in the context of how buildings operate. The module enables students to operationalize the principles when generating design solutions.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF DESIGN AND ENVIRONMENT",
+"department": "ARCHITECTURE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

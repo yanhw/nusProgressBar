@@ -1,0 +1,30 @@
+{
+"moduleCode": "PLC5005",
+"moduleTitle": "Child Psychopathology",
+"moduleCredit": "4",
+"lockedModules":[
+            "PLC5012"
+        ],
+"preclusion": "NIL",
+"prerequisite": "PLC5002 Introduction to Psychological Disorders",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["PLC5002"]
+},
+"prerequisiteList": ["PLC5002"],
+"completePrerequisite": {
+            "name": "PLC5005", 
+            "children": [
+                {
+                    "name": "PLC5002", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "This module offers an advanced critical understanding of various theories of aetiology and maintenance of disorders of childhood and adolescence. Students will also acquire an understanding in the appropriate use of diagnostic classification systems and critical appraisal of such systems. The module has a strong emphasis on linking theory to applied clinical practice.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "PSYCHOLOGY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

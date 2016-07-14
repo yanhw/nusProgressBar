@@ -1,0 +1,22 @@
+{
+"moduleCode": "CM5141",
+"moduleTitle": "Graduate Analytical Chemistry",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "CM5141", 
+            "children": []
+},
+"moduleDescription": "This is an analytical chemistry module which addresses the basics in the latest analytical techniques and those which are just emerging. It is aimed at the beginning to middle level M.Sc. student to acquaint and provide them with the background for more advanced and specialised modules on these subjects. Coverage is aimed more at breadth rather than depth but without sacrificing the fundamental rigour.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCIENCE",
+"department": "CHEMISTRY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

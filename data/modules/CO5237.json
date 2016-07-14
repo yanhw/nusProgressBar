@@ -1,0 +1,29 @@
+{
+"moduleCode": "CO5237",
+"moduleTitle": "Healthcare Analytics",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "CO5103 Quantitative Epidemiologic Methods or equivalent",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["CO5103"]
+},
+"prerequisiteList": ["CO5103"],
+"completePrerequisite": {
+            "name": "CO5237", 
+            "children": [
+                {
+                    "name": "CO5103", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "This module will cover major topics in healthcare analytics, including clinical related analytics (diseases, medication, laboratory test, etc.) and healthcare operations related analytics (resource planning/scheduling, care process analytics and improvement, admission and readmission, etc.). Students will learn the insights of these different healthcare analytics areas, and how to select the right analytics techniques for these healthcare analytics problems.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SAW SWEE HOCK SCHOOL OF PUBLIC HEALTH",
+"department": "SAW SWEE HOCK SCHOOL OF PUBLIC HEALTH",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

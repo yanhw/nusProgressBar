@@ -1,0 +1,22 @@
+{
+"moduleCode": "FST3181",
+"moduleTitle": "Professional Placement",
+"moduleCredit": "8",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "Food Science & Technology Major",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "FST3181", 
+            "children": []
+},
+"moduleDescription": "This essential requirement for the FST major involves the student working in an industrial/governmental or similar institutions for a minimum period of 16 weeks. The aim is to introduce the student to the world of work and to improve their interpersonal skills.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCIENCE",
+"department": "CHEMISTRY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

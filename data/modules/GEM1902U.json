@@ -1,0 +1,24 @@
+{
+"moduleCode": "GEM1902U",
+"moduleTitle": "Junior Seminar: Disasters",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "UTC1102U GEM1902UX",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "UTC1102U"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "GEM1902U", 
+            "children": []
+},
+"moduleDescription": "Disasters are catastrophic breakdowns in the relations between nature, technology, and society. They reveal aspects of these relations not normally visible. In this Junior Seminar, we explore questions such as: what are disasters, what causes them, and how do we know when they begin or end? What kinds of knowledge count when communities prepare for disasters or make recovery plans? By examining the historical, environmental, and cultural contexts of specific catastrophes and their aftermaths, such as Fukushima or the 2004 Indian Ocean tsunami, we ponder what disasters can teach us about how to (re-)construct more just, resilient and sustainable societies.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "NON-FACULTY-BASED DEPARTMENTS",
+"department": "TEMBUSU COLLEGE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

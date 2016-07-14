@@ -1,0 +1,22 @@
+{
+"moduleCode": "MS3211",
+"moduleTitle": "Political Culture of the Malays",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "MS3211", 
+            "children": []
+},
+"moduleDescription": "This module will examine the nature and origins of the current day Malay political behaviour as observed. It will focus on the Malay concepts regarding government (kerajaan); consensus building (musyawarah) authority/power; dissent; patronage; territoriality, loyalty; and leadership. Close attention will be given to the role of the traditional and modern political elites in the shaping of Malay political culture. Relevant theoretical perspectives will also be provided. This module is targeted for FASS students.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "MALAY STUDIES",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

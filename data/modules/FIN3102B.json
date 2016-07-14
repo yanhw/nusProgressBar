@@ -1,0 +1,122 @@
+{
+"moduleCode": "FIN3102B",
+"moduleTitle": "Investment Analysis and Portfolio Management",
+"moduleCredit": "4",
+"lockedModules":[
+            "FIN3116",
+            "FIN3115",
+            "FIN3131",
+            "FIN4111"
+        ],
+"preclusion": "BH3102 or BZ3302 or BK3101 or FNA3102 or FNA3102A/C or FIN3102 or FIN3102A/C or FE5108 or EC3333 or CF3101/QF3101",
+"prerequisite": "FNA2004 or FIN2004 or BH2004 or BZ2004 or BK2004",
+"preclusionList": [
+            "CF3101",
+            "EC3333",
+            "FE5108",
+            "BK3101",
+            "BH3102",
+            "BZ3302",
+            "FNA3102A",
+            "FIN3102",
+            "FNA3102",
+            "FIN3102A",
+            "QF3101"
+        ],
+"parsedPrerequisite": {
+            " or ": [
+                "FNA2004", 
+                "FIN2004", 
+                "BH2004", 
+                "BZ2004", 
+                "BK2004"
+            ]
+},
+"prerequisiteList": ["FNA2004","FIN2004","BK1003","BZ1002","BH1002","FNA1002","ACC1002","FNA1002X","ACC1002X","FNA1002E","BH1002E","EC3212","EG1422","BH2004","BZ2004","BK2004"],
+"completePrerequisite": {
+            "name": "FIN3102B", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "FNA2004", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "FIN2004", 
+                            "children": [
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "BK1003", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "BZ1002", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "BH1002", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "FNA1002", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "ACC1002", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "FNA1002X", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "ACC1002X", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "FNA1002E", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "BH1002E", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "EC3212", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "EG1422", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "BH2004", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "BZ2004", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "BK2004", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This is an introductory course in investments. It provides a comprehensive coverage of basic concepts, theories, applications and decision-making rules in financial investment. Topics to be covered include fundamental security analysis on stocks, bonds, options and futures as well as modern portfolio management. On completion, candidates should be conversant in investment management in preparation for careers in financial analysis and financial planning, investment banking, and corporate finance. Candidates should also be equipped to write the Chartered Financial Analysts (CFA) Level 1 examinations in quantitative analysis, equity securities analysis and portfolio management.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF BUSINESS",
+"department": "FINANCE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

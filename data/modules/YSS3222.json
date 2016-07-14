@@ -1,0 +1,22 @@
+{
+"moduleCode": "YSS3222",
+"moduleTitle": "Urban Theory",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "YSS3222", 
+            "children": []
+},
+"moduleDescription": "This course introduces students to key approaches to understanding urbanization. Each week, we will read selections from a single text in urban studies, examining the text for its methodological techniques, disciplinary perspectives, central urban questions, and key arguments. The course takes an interdisciplinary approach and is divided into three main units: architectural, Marxist, and sociological.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "YALE-NUS COLLEGE",
+"department": "YALE-NUS COLLEGE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

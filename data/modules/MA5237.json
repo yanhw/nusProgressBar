@@ -1,0 +1,29 @@
+{
+"moduleCode": "MA5237",
+"moduleTitle": "Homotopy Theory",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "MA5236",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["MA5236"]
+},
+"prerequisiteList": ["MA5236"],
+"completePrerequisite": {
+            "name": "MA5237", 
+            "children": [
+                {
+                    "name": "MA5236", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "This module is designed for graduate students in mathematics. It covers the following major topics: Homotopy theory: homotopy groups, fibrations, Hurewicz Theorem, Whitehead Theorem, Postnikov systems and Eilenberg-MacLane spaces, simplicial homotopy theory, simplicial groups, James construction, Hopf invariants, Whitehead products, Hilton-Milnor Theorem, cohomology operations and the Steenrod algebra. Homology theory: homology of fibre spaces and Leray-Serre spectral sequences. Geometry: homotopy and homology of Lie groups and Grassmann manifolds, fibre bundles.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "SCIENCE",
+"department": "MATHEMATICS",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

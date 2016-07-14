@@ -1,0 +1,29 @@
+{
+"moduleCode": "IS2102",
+"moduleTitle": "Requirements Analysis and Design",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "CS1010 or its equivalents",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["CS1010"]
+},
+"prerequisiteList": ["CS1010"],
+"completePrerequisite": {
+            "name": "IS2102", 
+            "children": [
+                {
+                    "name": "CS1010", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "Business requirements analysis is the process of discovering requirements, analyzing requirements for incompleteness, inconsistency, relevance and practicality and negotiating the final requirements for the systems. Whether the computer systems developed are what users want depends on how well requirements are captured at the earlier stage of system development. This module teaches Business Requirements Analysis in the Unified Process, particularly, the process of requirements elicitation, analyses, documentation, and communication. This module also teaches transition from business requirement analysis to design, UML (Unified Modelling Language) and Use Case Modelling.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "SCHOOL OF COMPUTING",
+"department": "INFORMATION SYSTEMS",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

@@ -1,0 +1,23 @@
+{
+"moduleCode": "NM3221",
+"moduleTitle": "Mobile Interaction Design",
+"moduleCredit": "4",
+"lockedModules":[
+            "CS3283"
+        ],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "NM3221", 
+            "children": []
+},
+"moduleDescription": "This module addresses the growth of mobile computing and the move of computing away from the desktop and into everyday lives, activities, and environments. This change poses a challenge for existing desktop-oriented evaluation methodologies and design practices. Students in this course will explore the theory and practice of such relevant concepts as situatedness, context, and mobile media in the context of designing for mobile platforms. At the end of this course, students will be able to participate in the research agenda of designing for mobile interaction.",
+"crossModule": "-1",
+"corequisite": "Nil",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "COMMUNICATIONS AND NEW MEDIA",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

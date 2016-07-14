@@ -1,0 +1,22 @@
+{
+"moduleCode": "SG4205",
+"moduleTitle": "Information Systems Security",
+"moduleCredit": "3",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "SG4205", 
+            "children": []
+},
+"moduleDescription": "The objectives of this course is to provide learners with a holistic foundation in information systems security. An organization?s security is only as strong as its weakest link. Without a holistic approach to security that takes into account people, processes and technology, an organization may lull itself into a false sense of security. This e-learning course seeks to teach various IS security issues, including security management practices, cryptography, network security, application development security, security architecture, access control, operations security, physical security, security incident investigation and business continuity planning. There will be an assignment on IS security issues. This course is intended for IT professionals who need to ensure the security of their IT systems.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "NON-FACULTY-BASED DEPARTMENTS",
+"department": "INSTITUTE OF SYSTEMS SCIENCE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

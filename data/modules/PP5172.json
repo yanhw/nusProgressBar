@@ -1,0 +1,46 @@
+{
+"moduleCode": "PP5172",
+"moduleTitle": "Applications of Statistical Methods to Public Policy",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "PP5404 Policy Analysis (6MC) or PP6706 Research Methods in Public Policy II or equivalent. Good knowledge of statistical methods in theory and knowledge of at least one computer package for statistical analysis, for example STATA.",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " or ": [
+                "PP5404", 
+                "PP6706"
+            ]
+},
+"prerequisiteList": ["PP5404","PP6706","PP6701"],
+"completePrerequisite": {
+            "name": "PP5172", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "PP5404", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "PP6706", 
+                            "children": [
+                                {
+                                    "name": "PP6701", 
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "Students will be expected to learn how to devise a feasible, policy relevant, research question, and to address they question using statistical methods. They will undertake a literature review of the topic and find an appropriate data set. They will formulate a theory and devise and method of estimation and hypothesis test for their question and undertake robustness checks of their results. They will make presentations based on their project and write up a final project paper.",
+"crossModule": "-1",
+"corequisite": "None",
+"faculty": "LEE KUAN YEW SCHOOL OF PUBLIC POLICY",
+"department": "LEE KUAN YEW SCHOOL OF PUBLIC POLICY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

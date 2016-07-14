@@ -1,0 +1,22 @@
+{
+"moduleCode": "YHU1209",
+"moduleTitle": "Introduction to the Arts",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "YHU1209", 
+            "children": []
+},
+"moduleDescription": "Students in the Art and Humanities major must take Introduction to the arts. The course will give students the opportunity to engage with arts practice in several different media (e.g. visual, creative writing, musical arts, architecture, film, etc.) while digging into big questions about art and artistic expression such as: What is art? Who is an artist? What are the distinctions between high and low art and are they useful? What is the relationship between art, politics, and ideology? How does a city express itself? What is a creative city? In 2015-16 the theme is \u201cUrban Spaces-Urban Sounds.\u201d",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "YALE-NUS COLLEGE",
+"department": "YALE-NUS COLLEGE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

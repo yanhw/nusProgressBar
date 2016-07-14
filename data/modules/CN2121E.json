@@ -1,0 +1,34 @@
+{
+"moduleCode": "CN2121E",
+"moduleTitle": "Chemical Engineering Thermodynamics",
+"moduleCredit": "4",
+"lockedModules":[
+            "CN3135E",
+            "CN3132E",
+            "CN4118E"
+        ],
+"preclusion": "TC2111",
+"prerequisite": "CN1111E",
+"preclusionList": [
+            "TC2111"
+        ],
+"parsedPrerequisite": {
+" and ": ["CN1111E"]
+},
+"prerequisiteList": ["CN1111E"],
+"completePrerequisite": {
+            "name": "CN2121E", 
+            "children": [
+                {
+                    "name": "CN1111E", 
+                    "children": []
+                }
+            ]
+},
+
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "BACHELOR OF TECHNOLOGY PROGRAMME",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

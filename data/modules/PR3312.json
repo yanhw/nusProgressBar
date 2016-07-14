@@ -1,0 +1,69 @@
+{
+"moduleCode": "PR3312",
+"moduleTitle": "Extended Undergraduate Professional Internship",
+"moduleCredit": "8",
+"lockedModules":[
+],
+"preclusion": "Applied Science degree of which Professional Placement is already within the curriculum; any other XX3311 or XX3312 modules offered in Science, where XX stands for the subject prefix for the respective major.",
+"prerequisite": "SP1001 Career Planning & Preparation or NCC1001 Headstart Module (A Career Development Programme) or NCC1000 Stepup Module (A Career Development Programme) or CFG1001 Headstart Module or CFG1000 StepUp Module; students must have completed 3 regular semesters of study, have declared Pharmacy as first major and have completed a minimum of 32 MCs in Pharmacy major at time of application.",
+"preclusionList": [
+            "ST3312",
+            "LSM3311",
+            "CM3312",
+            "CM3311",
+            "QF3312",
+            "QF3311",
+            "ZB3311",
+            "ST3311",
+            "MA3311",
+            "PC3311",
+            "PC3312",
+            "MA3312"
+        ],
+"parsedPrerequisite": {
+            " or ": [
+                "SP1001", 
+                "NCC1001", 
+                "NCC1000", 
+                "CFG1001", 
+                "CFG1000"
+            ]
+},
+"prerequisiteList": ["SP1001","NCC1001","NCC1000","CFG1001","CFG1000"],
+"completePrerequisite": {
+            "name": "PR3312", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "SP1001", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "NCC1001", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "NCC1000", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "CFG1001", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "CFG1000", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "In addition to having a good academic record and technical foundation, students with good soft skills and some industrial attachment or internship experiences often stand a better chance when seeking for jobs. This module gives non-Applied Science students the opportunity to embark on internships during their undergraduate study. The module requires students to compete for position and perform a structured internship in a company/institution for 16-20 weeks during regular semester. Through regular meetings with the Academic Advisor and internship Supervisor, students explore how knowledge learnt in the curriculum can be transferred to perform technical assignments in an actual working environment.",
+"crossModule": "-1",
+"corequisite": "Nil",
+"faculty": "SCIENCE",
+"department": "PHARMACY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,3,4,]]
+}

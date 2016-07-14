@@ -1,0 +1,29 @@
+{
+"moduleCode": "GE3227",
+"moduleTitle": "Urban Climates",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "GE2228 or permission from lecturer",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["GE2228"]
+},
+"prerequisiteList": ["GE2228"],
+"completePrerequisite": {
+            "name": "GE3227", 
+            "children": [
+                {
+                    "name": "GE2228", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "Modifications made by humans to the surface of the Earth during urbanization alter just about every element of climate and weather in the atmosphere above the city. This module examines how these changes affect environmental variables such as solar radiation, surface and air temperature, evaporation, storage of heat, wind climates, emissions of pollutants and greenhouse gases and the wider implications for air quality and environmental change. Students are expected to read widely and conduct an empirical research project. This module is suited for students reading geography, climatology, ecology, engineering and planning.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "GEOGRAPHY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

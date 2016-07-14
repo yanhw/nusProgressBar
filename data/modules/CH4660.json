@@ -1,0 +1,25 @@
+{
+"moduleCode": "CH4660",
+"moduleTitle": "Independent Study",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "CH4401, CH4401S",
+"prerequisite": "Cohort 2011 and before: To be offered subject to the agreement of the Supervisor and Department. Completed 100 MCs, including 60 MCs in CH or CL, with a minimum CAP of 3.50. Cohort 2012 onwards: To be offered subject to the agreement of the Supervisor and Department. Completed 100 MCs, including 60 MCs in CH or CL, with a minimum CAP of 3.20.",
+"preclusionList": [
+            "CH4401S",
+            "CH4401"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "CH4660", 
+            "children": []
+},
+"moduleDescription": "The Independent Study Module is designed to enable the student to explore an approved topic within the discipline in depth. The student should approach a lecturer to work out an agreed topic, readings, and assignments for the module. A formal, written agreement is to be drawn up, giving a clear account of the topic, programme of study, assignments, evaluation, and other pertinent details. Head's and/or Honours Coordinator's approval of the written agreement is required. Regular meetings and reports are expected. Evaluation is based on 100% Continuous Assessment and must be worked out between the student and the lecturer prior to seeking departmental approval.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "CHINESE STUDIES",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

@@ -1,0 +1,22 @@
+{
+"moduleCode": "BME5003",
+"moduleTitle": "Business Analytics for Decision Makers",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "BME5003", 
+            "children": []
+},
+"moduleDescription": "This module provides for an appreciation of the basic tools of statistical and quantitative methods of business decision-making from the perspectives of senior executives as requesters and users of such analyses. The emphasis is on problem-formulation and model building, providing conceptual input for - and evaluating the output of - the more detailed work carried out by decision analysts. The module will also provide for familiarization with standard computer packages as tools for arriving at solutions to problems as means for communicating analyses and decisions within and outside the organisation.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF BUSINESS",
+"department": "DEAN'S OFFICE (BIZ)",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

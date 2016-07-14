@@ -1,0 +1,58 @@
+{
+"moduleCode": "ACC3606",
+"moduleTitle": "Advanced Corporate Accounting and Reporting",
+"moduleCredit": "4",
+"lockedModules":[
+            "ACC3615"
+        ],
+"preclusion": "Students who have passed FNA3123 are not allowed to take ACC3606.",
+"prerequisite": "FNA3111 or ACC3601",
+"preclusionList": [
+            "FNA3123"
+        ],
+"parsedPrerequisite": {
+            " or ": [
+                "FNA3111", 
+                "ACC3601"
+            ]
+},
+"prerequisiteList": ["FNA3111","ACC3601","FNA1002","ACC1002"],
+"completePrerequisite": {
+            "name": "ACC3606", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "FNA3111", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "ACC3601", 
+                            "children": [
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "FNA1002", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "ACC1002", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This course explores in greater depth complex financial reporting topics introduced in ACC1002 Financial Accounting and ACC3601 Corporate Accounting and Reporting, and it also examines issues relating to fair value accounting. The viewpoint is that of the preparer of financial statements. The discussion centres on the financial reporting issues affecting a firm's profitability and risk. This course is for students who expect to become CPAs.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF BUSINESS",
+"department": "ACCOUNTING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

@@ -1,0 +1,41 @@
+{
+"moduleCode": "RE4222",
+"moduleTitle": "Public Policy and Real Estate Markets",
+"moduleCredit": "4",
+"lockedModules":[
+            "RE4220",
+            "RE4223"
+        ],
+"preclusion": "NIL",
+"prerequisite": "RE3103 Real Estate Development, RE3104 Real Estate Investment Analysis",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["RE3104"]
+},
+"prerequisiteList": ["RE3104","RE2104","RE1101"],
+"completePrerequisite": {
+            "name": "RE4222", 
+            "children": [
+                {
+                    "name": "RE3104", 
+                    "children": [
+                        {
+                            "name": "RE2104", 
+                            "children": [
+                                {
+                                    "name": "RE1101", 
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module introduces students to a systematic framework for examining public polices and their impact on real estate markets. A key learning objective is that students can analyze different policy options for solving urban problems and project the likely consequences for real estate variables. Topics covered may include policies on aging population; zoning and land supply policies that control type of land use; transportation policies to reduce congestion; affordable housing policies, and fiscal policies, and the policy effects on real estate markets.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF DESIGN AND ENVIRONMENT",
+"department": "REAL ESTATE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

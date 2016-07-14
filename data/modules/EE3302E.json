@@ -1,0 +1,51 @@
+{
+"moduleCode": "EE3302E",
+"moduleTitle": "Industrial Control Systems",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "EE2010E or EE3331E",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " or ": [
+                "EE2010E", 
+                "EE3331E"
+            ]
+},
+"prerequisiteList": ["EE2010E","EE3331E","EE2023E","TG1401"],
+"completePrerequisite": {
+            "name": "EE3302E", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "EE2010E", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "EE3331E", 
+                            "children": [
+                                {
+                                    "name": "EE2023E", 
+                                    "children": [
+                                        {
+                                            "name": "TG1401", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module will cover sensors, instrumentation and control systems commonly used in the industry. The sensor and instrumentation part includes topics such as signal processing and conversion, transducers and actuators, instrumentation amplifiers, non-linear amplifiers, issues pertaining to grounds, shields and power supplies. The control portion covers the evolution and types of control systems, centralized control, direct digital control (DDC), distributed control systems (DCS), fieldbuses, PID control: tuning methods and refinements, auto-tuning principles and implementation, available industrial PID controllers and their operation. It will include other common control systems such as feed-forward, cascade, ratio, selective, split range, time-delay compensation, sequence control and PLC.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "BACHELOR OF TECHNOLOGY PROGRAMME",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

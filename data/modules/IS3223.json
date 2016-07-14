@@ -1,0 +1,57 @@
+{
+"moduleCode": "IS3223",
+"moduleTitle": "IT and Supply Chain Management",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "CS4267",
+"prerequisite": "Pass 60 MCs and [CS2250 or (IS1103 and IS1105)]",
+"preclusionList": [
+            "CS4267"
+        ],
+"parsedPrerequisite": {
+            " or ": [
+                "CS2250", 
+                {
+                    " and ": [
+                        "IS1103", 
+                        "IS1105"
+                    ]
+                }
+            ]
+},
+"prerequisiteList": ["CS2250","IS1103","IS1105"],
+"completePrerequisite": {
+            "name": "IS3223", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "CS2250", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "and", 
+                            "children": [
+                                {
+                                    "name": "IS1103", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "IS1105", 
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This course focuses on the understanding of the role of IT in enabling effective supply chain strategies in the global economy. Particularly, it focuses on the how to plan the integration of supply chain components into a coordinated system using IT. Besides the basic concepts, students will be exposed to the role of IT in risk pooling and inventory placement, integrated planning and collaboration, and information sharing in supply chain management.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF COMPUTING",
+"department": "INFORMATION SYSTEMS",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

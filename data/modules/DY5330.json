@@ -1,0 +1,22 @@
+{
+"moduleCode": "DY5330",
+"moduleTitle": "Orthodontics",
+"moduleCredit": "0",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "DY5330", 
+            "children": []
+},
+"moduleDescription": "The Orthodontic Residency Training Programme is accredited by the Royal College of Surgeons of Edinburgh to enable candidates who successfully complete the course to sit for the Membership in Orthodontics (MOrthRCS Edinburgh). This enables the acquisition, by assessment, of the Fellowship of the College of Surgeons (FDSRCS Edinburgh) after 5 further years of clinical practice as a specialist. The curriculum follows the recommended content by the Erasmus Committee which has been accepted by the European Commissioners in Brussels as satisfying the requirements for specialist practice in Europe.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "DENTISTRY",
+"department": "DIVISION OF GRADUATE DENTAL STUDIES",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

@@ -1,0 +1,29 @@
+{
+"moduleCode": "ZB3289",
+"moduleTitle": "Advanced UROPS in Computational Biology II",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "ZB3288",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["ZB3288"]
+},
+"prerequisiteList": ["ZB3288"],
+"completePrerequisite": {
+            "name": "ZB3289", 
+            "children": [
+                {
+                    "name": "ZB3288", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "This module is intended for students to conduct mini-research projects as a continuation of their work completed in ZB3288. These projects make use of computational methods and informatics tools to solve specific biological problems or develop bioinformatics databases and software. In principle, each project is to be supervised by an academic staff from any department in the Faculty of Science. Upon approval by the programme committee, a project can also be co-supervised by an academic staff at the School of Computing.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCIENCE",
+"department": "DEAN'S OFFICE (SCIENCE)",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,3,4,]]
+}

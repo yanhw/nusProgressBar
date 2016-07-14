@@ -1,0 +1,22 @@
+{
+"moduleCode": "LSM4199",
+"moduleTitle": "Honours Project in Life Sciences",
+"moduleCredit": "16",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "For Life Sciences major students with overall CAP of 3.50 or more are eligible to enrol for this module (for Cohort 2011 and before). For Life Sciences major students with overall CAP of 3.20 or more are eligible to enrol for this module (for Cohort 2012 and after).",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "LSM4199", 
+            "children": []
+},
+"moduleDescription": "Undertake a year-long research project and submit a written thesis for examination.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCIENCE",
+"department": "BIOLOGICAL SCIENCES",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

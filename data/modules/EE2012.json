@@ -1,0 +1,65 @@
+{
+"moduleCode": "EE2012",
+"moduleTitle": "Analytical Methods In ECE",
+"moduleCredit": "4",
+"lockedModules":[
+            "EE5907R",
+            "EE5310",
+            "EE5139R",
+            "EE4113",
+            "EE6310",
+            "EE3731C"
+        ],
+"preclusion": "NIL",
+"prerequisite": "MA1505 and MA1506",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " and ": [
+                "MA1505", 
+                "MA1506"
+            ]
+},
+"prerequisiteList": ["MA1505","MA1506","MA1102R","MA1521"],
+"completePrerequisite": {
+            "name": "EE2012", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "MA1505", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "MA1506", 
+                            "children": [
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "MA1102R", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "MA1505", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "MA1521", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module exposes students to the mathematical foundational concepts that are necessary in the field of electrical engineering such as electrical circuit analysis, signal processing, communications, computer networks, information processing, energy and control systems. The topics include the following: probability, applied statistics \u2013 parameter estimation, applied statistics \u2013 hypothesis testing, and random processes with a strong emphasis on the applicability of these concepts to various electrical and computer engineering systems. It provides the required mathematical foundation for the analyses of applications involving integrated circuits, communication, control systems, signal processing, and new media.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "ELECTRICAL & COMPUTER ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

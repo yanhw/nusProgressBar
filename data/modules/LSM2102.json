@@ -1,0 +1,53 @@
+{
+"moduleCode": "LSM2102",
+"moduleTitle": "Molecular Biology",
+"moduleCredit": "4",
+"lockedModules":[
+            "LSM4225",
+            "LSM3232",
+            "LSM4234",
+            "LSM4235",
+            "LSM3225",
+            "LSM4210",
+            "LSM3241",
+            "LSM3242",
+            "LSM3246",
+            "LSM3245",
+            "LSM4227",
+            "LSM4245"
+        ],
+"preclusion": "NIL",
+"prerequisite": "LSM1101 (or LSM1401) and LSM1102",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " and ": [
+                "LSM1401", 
+                "LSM1102"
+            ]
+},
+"prerequisiteList": ["LSM1401","LSM1102"],
+"completePrerequisite": {
+            "name": "LSM2102", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "LSM1401", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "LSM1102", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module teaches the structure, organization and function of genes and genomes in both prokaryotes and eukaryotes (e.g.: DNA topology, hierarchy of packaging of DNA in chromosomes and relationship to gene activity and genome dynamics). The functional roles of DNA regulatory ciselements and transcription factors involved in gene expression will be examined extensively. The molecular events of transcription; post-transcriptional modifications and RNA processing; temporal and spatial gene expression, control and regulation, signals of gene expression will be dealt with in detail. The cause and/or effect of dysfunction of gene expression and diseases will be discussed.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCIENCE",
+"department": "BIOLOGICAL SCIENCES",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

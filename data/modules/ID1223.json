@@ -1,0 +1,22 @@
+{
+"moduleCode": "ID1223",
+"moduleTitle": "History & Theory Of Industrial Design",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "ID1223", 
+            "children": []
+},
+"moduleDescription": "This module serves to introduce students to the development of thoughts and ideas in industrial and product design. It will enable students to relate recent history in technological advancement and product development to current trends in design. The module will concentrate on the design innovations from the period of the industrial revolution in the 19th century. This was the transitional period from the Arts and Craft movement to the current design and production methods that are dominated by industrial processes.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF DESIGN AND ENVIRONMENT",
+"department": "DIVISION OF INDUSTRIAL DESIGN",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

@@ -1,0 +1,48 @@
+{
+"moduleCode": "PH3241",
+"moduleTitle": "Consciousness",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "PH3212",
+"prerequisite": "PH2241 or PH2242 or PH3210",
+"preclusionList": [
+            "PH3212"
+        ],
+"parsedPrerequisite": {
+            " or ": [
+                "PH2241", 
+                "PH2242", 
+                "PH3210"
+            ]
+},
+"prerequisiteList": ["PH2241","PH2242","PH3210"],
+"completePrerequisite": {
+            "name": "PH3241", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "PH2241", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "PH2242", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "PH3210", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "One of the main problems of consciousness concerns whether consciousness can be explained solely in terms of brain activity and the like. Some philosophers think so. After all, science has successfully explained various cognitive functions in such terms, and it\u2019s natural to think that its success will eventually extend to consciousness. Other philosophers disagree, finding it hard to fathom how consciousness can arise from the purely physical. To help us decide which answer is correct, we shall examine various important positions on the nature of consciousness including physicalism, dualism, eliminativism, and idealism.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "PHILOSOPHY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

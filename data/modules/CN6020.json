@@ -1,0 +1,22 @@
+{
+"moduleCode": "CN6020",
+"moduleTitle": "Advanced Reaction Engineering",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "CN6020", 
+            "children": []
+},
+"moduleDescription": "The primary aim of the module is to provide graduate students with a strong foundation in the engineering of chemical reactions and reactors. The module will cover a variety of topics, including molecular basis of chemical phenomena, theories to estimate kinetic rate coefficients, complex gas phase kinetics, heterogeneous catalysis, analysis of reactors for single and multi-phase chemical reactions, and multi-scale coupling of transport phenomena with chemical reactions. A semester-long multi-scale reactor design project will help consolidate and reinforce the material taught in classes. Strong links to current research in several fields will be established, with an emphasis on the generality of the underlying conceptual foundation and its utility in the research pursued by the enrolled students.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "ENGINEERING",
+"department": "CHEMICAL & BIOMOLECULAR ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

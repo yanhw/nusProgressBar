@@ -1,0 +1,62 @@
+{
+"moduleCode": "BT2101",
+"moduleTitle": "IT and Decision Making",
+"moduleCredit": "4",
+"lockedModules":[
+            "IS4010",
+            "CP3880"
+        ],
+"preclusion": "NIL",
+"prerequisite": "(CS1010 or its equivalents) and IS1112 and (MA1521 or MA1102R)",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " and ": [
+                "CS1010", 
+                "IS1112", 
+                {
+                    " or ": [
+                        "MA1521", 
+                        "MA1102R"
+                    ]
+                }
+            ]
+},
+"prerequisiteList": ["CS1010","IS1112","MA1521","MA1102R"],
+"completePrerequisite": {
+            "name": "BT2101", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "CS1010", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "IS1112", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "or", 
+                            "children": [
+                                {
+                                    "name": "MA1521", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "MA1102R", 
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module provides a general introduction to using various IT-driven tools, software and techniques for decision making support. The module will start off by describing the decision-making process in businesses today, including the hierarchy of decision making responsibilities. It will then move on to the cognitive aspects of decision making such as the problem solving, role of logic, and probability. Algorithms and software for multi-criteria decision analysis (MCDA) and its varieties, e.g., analytic hierarchy process (AHP), multi-attribute utility theory (MAUT), pair-wise rankings of all possible alternatives will be discussed. Introduction will be provided to intelligent techniques for decision making, e.g., expert systems, neural networks, genetic algorithms, and support vector machines. Examples will be drawn from various industry domains and applications.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "SCHOOL OF COMPUTING",
+"department": "INFORMATION SYSTEMS",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

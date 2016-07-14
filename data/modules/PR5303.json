@@ -1,0 +1,84 @@
+{
+"moduleCode": "PR5303",
+"moduleTitle": "Good Regulatory Practices",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "(PR2101, PR3102 and PR4106) or PR3301",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " or ": [
+                {
+                    " and ": [
+                        "PR2101", 
+                        "PR3102", 
+                        "PR4106"
+                    ]
+                }, 
+                "PR3301"
+            ]
+},
+"prerequisiteList": ["PR2101","PR1102","PR3102","PR2105","PR4106","PR3301"],
+"completePrerequisite": {
+            "name": "PR5303", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "and", 
+                            "children": [
+                                {
+                                    "name": "PR2101", 
+                                    "children": [
+                                        {
+                                            "name": "PR1102", 
+                                            "children": []
+                                        }
+                                    ]
+                                }, 
+                                {
+                                    "name": "PR3102", 
+                                    "children": [
+                                        {
+                                            "name": "and", 
+                                            "children": [
+                                                {
+                                                    "name": "PR1102", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "PR2105", 
+                                                    "children": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }, 
+                                {
+                                    "name": "PR4106", 
+                                    "children": [
+                                        {
+                                            "name": "PR1102", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "PR3301", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module will provide an overview of the FDA and ICH regulations on good manufacturing, good laboratory and good clinical practices. The meaning of these regulations, the globalisation of the practices and the roles and responsibilities of the various professionals implementing these regulations are addressed. Target students: Enrolment in M.Sc. (Pharmaceutical Sciences & Technology) programme.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCIENCE",
+"department": "PHARMACY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

@@ -1,0 +1,22 @@
+{
+"moduleCode": "LL4155",
+"moduleTitle": "Topics in Law and Economics",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "NUS Compulsory Core Law Curriculum or equivalent.",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "LL4155", 
+            "children": []
+},
+"moduleDescription": "This seminar will explore several key topics at the intersection of law and economics. It will commence with an exploration of the concept of rationality as employed in (positive) micro-economic theory. It will also explore the Coase theorem as a means of understanding the importance of legal rules and institutions. These theoretical tools will then be used as a lens for examining, amongst other topics, tort, contract and insolvency law; company law; financial regulation, and the role of law and legal institutions in economic development.",
+"crossModule": "-1",
+"corequisite": "Nil",
+"faculty": "LAW",
+"department": "LAW",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

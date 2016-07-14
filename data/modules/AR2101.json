@@ -1,0 +1,22 @@
+{
+"moduleCode": "AR2101",
+"moduleTitle": "Design 3",
+"moduleCredit": "8",
+"lockedModules":[
+],
+"preclusion": "All non-architecture students",
+"prerequisite": "AR1101 Design 1 Grade 'C' or Grade \u201cS\u201d; AR1102 Design 2 Grade 'C' or Grade \u201cS\u201d;",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "AR2101", 
+            "children": []
+},
+"moduleDescription": "This module will emphasize design in response to environment and site. It will enable students to learn to design small-scale buildings within the context of hot humid tropical environments. Topics - The module will deal with issues related to climate, the tropical environment and sustainability as generators of design. It will also focus on design with an understanding of spatial and functional relationships of spaces such as small and big spaces, private and public spaces.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF DESIGN AND ENVIRONMENT",
+"department": "ARCHITECTURE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

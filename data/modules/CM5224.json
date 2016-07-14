@@ -1,0 +1,22 @@
+{
+"moduleCode": "CM5224",
+"moduleTitle": "Emerging Concepts in Drug Discovery",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "CM5224", 
+            "children": []
+},
+"moduleDescription": "This module introduces several contemporary topics and emerging concepts in medicinal chemistry and the drug discovery process. The latest ideas in lead discovery, lead optimization and assay development will be discussed. Industry case studies will be presented by guest lecturers from the pharmaceutical industry.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCIENCE",
+"department": "CHEMISTRY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

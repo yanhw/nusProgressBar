@@ -1,0 +1,63 @@
+{
+"moduleCode": "MKT3420",
+"moduleTitle": "Promotional Management",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "BH3420 or BZ3605 or BK3203 or MKT3420A/B or IF3215 or NM3215",
+"prerequisite": "MKT1003 or BH1003 or BZ1003 or BK2003 or TR2201",
+"preclusionList": [
+            "NM3215",
+            "BH3420",
+            "IF3215",
+            "MKT3420A",
+            "BZ3605",
+            "BK3203"
+        ],
+"parsedPrerequisite": {
+            " or ": [
+                "MKT1003", 
+                "BH1003", 
+                "BZ1003", 
+                "BK2003", 
+                "TR2201"
+            ]
+},
+"prerequisiteList": ["MKT1003","BH1003","BZ1003","BK2003","TR2201"],
+"completePrerequisite": {
+            "name": "MKT3420", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "MKT1003", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "BH1003", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "BZ1003", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "BK2003", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "TR2201", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module focuses on the use of communication to influence consumer decision making. The module will address the principles and practice of advertising, sales promotion, personal selling and public relations. Possible materials to be covered include setting promotional objectives; copy development and execution; media decisions; consumer and trade promotion; and sales force management. In addition to lectures, students will also be exposed to published research in promotion. Case studies as well as group projects involving the development and execution of a promotional campaign may also be used to allow students apply their knowledge and skill.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF BUSINESS",
+"department": "MARKETING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

@@ -1,0 +1,66 @@
+{
+"moduleCode": "EE4112",
+"moduleTitle": "HF Techniques",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "EE3104C",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["EE3104C"]
+},
+"prerequisiteList": ["EE3104C","EE2011","MA1505","MA1506","MA1102R","MA1521"],
+"completePrerequisite": {
+            "name": "EE4112", 
+            "children": [
+                {
+                    "name": "EE3104C", 
+                    "children": [
+                        {
+                            "name": "EE2011", 
+                            "children": [
+                                {
+                                    "name": "and", 
+                                    "children": [
+                                        {
+                                            "name": "MA1505", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "MA1506", 
+                                            "children": [
+                                                {
+                                                    "name": "or", 
+                                                    "children": [
+                                                        {
+                                                            "name": "MA1102R", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "MA1505", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "MA1521", 
+                                                            "children": []
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "Radio and microwave systems rely on efficient transmission and distribution of electromagnetic (EM) energy. Radio and microwave systems need to be immune from external EM interference and need to ensure that they do not cause interference of their own. To achieve these requirements, microwave and radio engineers need to be able to specify and design wave-guiding systems, shielding and antennas. Topics covered: Guided waves: guiding elements and cavities. Scattering parameters. Directional couplers and hybrids. Circulators and isolators. Antenna parameters. Wire antennas. Electromagnetic interference and shielding.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "ELECTRICAL & COMPUTER ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

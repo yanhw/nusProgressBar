@@ -1,0 +1,22 @@
+{
+"moduleCode": "USP3506",
+"moduleTitle": "Religious Issues in the Contemporary World",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "USP3506", 
+            "children": []
+},
+"moduleDescription": "This module develops a nuanced understanding of multifaceted expressions of religiosity in the contemporary global context, appropriately grounded in a historical perspective. It explores various socio-cultural, political, economic and technological forces and processes that impact the manifold expressions and manifestations of religion in different societies, and vice-versa. Beginning with problematizing the category \u201creligion\u201d and tracing its emergence historically and contextually as an analytical domain, the material is organized to introduce the multiple, complex and sometimes opposing strands and arguments in many social science studies of religion. This multidisciplinary module emphasises both the empirical and the theoretical.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "-1",
+"department": "-1",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,]]
+}

@@ -1,0 +1,57 @@
+{
+"moduleCode": "IS4225",
+"moduleTitle": "Strategic IS Planning",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "CS4251; Arts and social sciences students reading CNM as a subjec/concentration are not allowed to read this module as CFM/ULR-Breadth",
+"prerequisite": "Pass 80 MCs and [CS2250 or (IS1103 and IS1105)]",
+"preclusionList": [
+            "CS4251"
+        ],
+"parsedPrerequisite": {
+            " or ": [
+                "CS2250", 
+                {
+                    " and ": [
+                        "IS1103", 
+                        "IS1105"
+                    ]
+                }
+            ]
+},
+"prerequisiteList": ["CS2250","IS1103","IS1105"],
+"completePrerequisite": {
+            "name": "IS4225", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "CS2250", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "and", 
+                            "children": [
+                                {
+                                    "name": "IS1103", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "IS1105", 
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module covers strategic planning to link information needs and technology support to organisational objectives. The module content includes: IT effects on industries, markets, and organisations; how organisations can use IT to gain competitive advantage; evaluation of business strategy (plans) and IS strategy (plans); and management of aligning business strategy (plans) and IS strategy (plans). The module will focus on organisational performance (efficiency, effectiveness, and competitiveness), the use of IT as a means to enhance organisational performance (not an end in itself) and creative and analytical frameworks and methodologies.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF COMPUTING",
+"department": "INFORMATION SYSTEMS",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

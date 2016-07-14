@@ -1,0 +1,29 @@
+{
+"moduleCode": "NUR3114",
+"moduleTitle": "Leadership and Management",
+"moduleCredit": "3",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "NUR1104 Professional Issues and Practice",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["NUR1104"]
+},
+"prerequisiteList": ["NUR1104"],
+"completePrerequisite": {
+            "name": "NUR3114", 
+            "children": [
+                {
+                    "name": "NUR1104", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "The module focuses on the management of hospitals and health care organisations using principles of effective leadership and management. The module prepares students to make decisions, minimise and manage risks to ensure patient safety within the health care environment.",
+"crossModule": "-1",
+"corequisite": "Nil",
+"faculty": "YONG LOO LIN SCHOOL OF MEDICINE",
+"department": "NURSING/ALICE LEE CTR FOR NURSING STUD",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

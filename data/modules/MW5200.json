@@ -1,0 +1,22 @@
+{
+"moduleCode": "MW5200",
+"moduleTitle": "MSc Science Communication Project",
+"moduleCredit": "12",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "MW5200", 
+            "children": []
+},
+"moduleDescription": "The students will complete a project related to a topic in science communication. The project may be a combination of a written thesis, material for teaching/outreach, and IT components. The project will be assessed (when applicable) on scientific accuracy, quality of teaching/outreach material and presentation of findings.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "SCIENCE",
+"department": "DEAN'S OFFICE (SCIENCE)",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

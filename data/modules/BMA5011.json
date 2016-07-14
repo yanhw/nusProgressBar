@@ -1,0 +1,23 @@
+{
+"moduleCode": "BMA5011",
+"moduleTitle": "Macroeconomics in the Global Economy",
+"moduleCredit": "4",
+"lockedModules":[
+            "BMA5122"
+        ],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "BMA5011", 
+            "children": []
+},
+"moduleDescription": "This module provides the tools and techniques of macro- and international economic thinking as applied to business. It provides a foundation for international management, particularly country risk analysis, finance, and other business disciplines. Specific learning outcomes are understanding of (i) Tracking the macro-economy; (ii) Sources of growth; (iii) Short-term fluctuations -- business cycle; (iv) Government policy; and (v) International trade and finance.\u201d",
+"crossModule": "-1",
+"corequisite": "BMA 5001 â€œManagerial Economicsâ€?",
+"faculty": "SCHOOL OF BUSINESS",
+"department": "DEAN'S OFFICE (BIZ)",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

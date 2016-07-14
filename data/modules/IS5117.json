@@ -1,0 +1,55 @@
+{
+"moduleCode": "IS5117",
+"moduleTitle": "Electronic Government",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "CS3251 or IS3243",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " or ": [
+                "CS3251", 
+                "IS3243"
+            ]
+},
+"prerequisiteList": ["CS3251","IS3243","CS2250","IS1105"],
+"completePrerequisite": {
+            "name": "IS5117", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "CS3251", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "IS3243", 
+                            "children": [
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "CS2250", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "IS1105", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This course provides current and future public managers with the requisite background to successfully manage e-government projects and government information. The use of information and communication technologies is becoming an indispensable part of government. The goal of the course is to enhance a broad understanding of e-government and information policy. These issues include e-citizenry, e-governance, strategic planning, change management, business process reengineering, design and implementation of information systems, relevant technologies, accessibility, information assurance, and knowledge management with respect to government organizations. Both external applications such as citizen services and internal processes such as automating document-processing and hiring procedure will be covered.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF COMPUTING",
+"department": "INFORMATION SYSTEMS",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

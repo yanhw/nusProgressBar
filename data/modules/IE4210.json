@@ -1,0 +1,87 @@
+{
+"moduleCode": "IE4210",
+"moduleTitle": "Operations Research II",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "IE2110",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["IE2110"]
+},
+"prerequisiteList": ["IE2110","MA1102R","MA1505","MA1521","MA1101R","MA1311","MA1506"],
+"completePrerequisite": {
+            "name": "IE4210", 
+            "children": [
+                {
+                    "name": "IE2110", 
+                    "children": [
+                        {
+                            "name": "and", 
+                            "children": [
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "MA1102R", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "MA1505", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "MA1521", 
+                                            "children": []
+                                        }
+                                    ]
+                                }, 
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "MA1101R", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "MA1311", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "MA1506", 
+                                            "children": [
+                                                {
+                                                    "name": "or", 
+                                                    "children": [
+                                                        {
+                                                            "name": "MA1102R", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "MA1505", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "MA1521", 
+                                                            "children": []
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module builds upon IE2110 to introduce students to more basic concepts of operations research. Topics include integer programming, mixed integer programming, dynamic programming, and heuristic methods. Besides the basic concepts, students will also learn how to use commercial software such as CPLEX to solve large-scale integer and mixed integer programmes encountered in complex real-world problems.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "INDUSTRIAL & SYSTEMS ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

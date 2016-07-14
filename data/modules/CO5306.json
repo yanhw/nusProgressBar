@@ -1,0 +1,22 @@
+{
+"moduleCode": "CO5306",
+"moduleTitle": "Public Health Toxicology",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "CO5306", 
+            "children": []
+},
+"moduleDescription": "This module introduces the fundamental principles of toxicology and demonstrates its relationship to public health practice. Emphasis will be on environmental and occupational hazards and the underlying molecular mechanisms. Examples and case studies will be presented to illustrate the basic concepts and health effects of exposure to toxins and toxicants commonly encountered. Detailed discussions will be conducted on the toxicity of some important heavy metals, industrial solvents, pesticides and carcinogenic compounds.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "SAW SWEE HOCK SCHOOL OF PUBLIC HEALTH",
+"department": "SAW SWEE HOCK SCHOOL OF PUBLIC HEALTH",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

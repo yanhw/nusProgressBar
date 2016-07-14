@@ -1,0 +1,37 @@
+{
+"moduleCode": "MUT2117",
+"moduleTitle": "Musical Concepts and Materials III",
+"moduleCredit": "4",
+"lockedModules":[
+            "MUT3202",
+            "MUT2118",
+            "MUT3211"
+        ],
+"preclusion": "NIL",
+"prerequisite": "Students would need to fully acquire the concepts in MUT1122 and pass the module before they go on to take MUT2117.",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["MUT1122"]
+},
+"prerequisiteList": ["MUT1122","MUT1121"],
+"completePrerequisite": {
+            "name": "MUT2117", 
+            "children": [
+                {
+                    "name": "MUT1122", 
+                    "children": [
+                        {
+                            "name": "MUT1121", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "Continuation in counterpoint studies. The module includes analysis and composition of two- and three-voice Baroque-style pieces, including fugue.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "YONG SIEW TOH CONSERVATORY OF MUSIC",
+"department": "YONG SIEW TOH CONSERVATORY OF MUSIC",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

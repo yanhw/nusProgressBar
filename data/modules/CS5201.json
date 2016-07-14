@@ -1,0 +1,22 @@
+{
+"moduleCode": "CS5201",
+"moduleTitle": "Foundation in Theoretical CS",
+"moduleCredit": "0",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "CS5201", 
+            "children": []
+},
+"moduleDescription": "The purpose of this module is to test the students on basic concepts in theoretical computer science. In particular, the students will be tested on the following areas. A. Design and Analysis of Algorithms B. Theory of Computation C. Programming Languages D. Logic and Formal Systems The respective undergraduate modules: CS3230, CS3231, CS3212, CS3234",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF COMPUTING",
+"department": "COMPUTER SCIENCE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

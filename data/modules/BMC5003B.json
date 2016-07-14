@@ -1,0 +1,22 @@
+{
+"moduleCode": "BMC5003B",
+"moduleTitle": "Information Management",
+"moduleCredit": "3",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "BMC5003B", 
+            "children": []
+},
+"moduleDescription": "This module provides for an appreciation of the quantitative aspects of business decision-making from the perspective of senior executives as requesters and users of such analyses. The module will familiarize students with tools for arriving at solutions to problems and as means for communicating analyses and decisions within and outside the organization. This is not a course in number-crunching. Focus is on understanding the concepts and how these can be gainfully applied.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF BUSINESS",
+"department": "DEAN'S OFFICE (BIZ)",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

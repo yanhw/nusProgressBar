@@ -1,0 +1,30 @@
+{
+"moduleCode": "LAH2201",
+"moduleTitle": "Hindi 2",
+"moduleCredit": "4",
+"lockedModules":[
+            "LAH3201"
+        ],
+"preclusion": "NIL",
+"prerequisite": "Passed LAH1201 Hindi 1, or its equivalence, or by placement test.",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["LAH1201"]
+},
+"prerequisiteList": ["LAH1201"],
+"completePrerequisite": {
+            "name": "LAH2201", 
+            "children": [
+                {
+                    "name": "LAH1201", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "Hindi 2 is a beginners\u2019 module, and is a continuation of Hindi 1. It is an integrated course which will help students gain higher basic proficiency in the four skills (listening, speaking, reading, and writing), grammar, vocabulary (including Devanagari, the Hindi alphabet), for personal interaction and communication in authentic situations.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "CENTRE FOR LANGUAGE STUDIES",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

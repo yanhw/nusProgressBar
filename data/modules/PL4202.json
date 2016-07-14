@@ -1,0 +1,22 @@
+{
+"moduleCode": "PL4202",
+"moduleTitle": "History and Systems of Psychology",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "Cohort 2011 and before: Completed 80 MCs of which student must have passed PL1101E, PL2131, PL2132 and 4 out of the 5 core modules (PL3232 - PL3236), with a minimum CAP of 3.50 or be on the Honours track. Cohort 2012 onwards: Completed 80 MCs of which student must have passed PL1101E, PL2131, PL2132 and 4 out of the 5 core modules (PL3232 - PL3236), with a minimum CAP of 3.20 or be on the Honours track.",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "PL4202", 
+            "children": []
+},
+"moduleDescription": "The course aims to provide students with an integrated overview of the development of modern psychology since around 1850. Special attention will be given to the emergence of biological, behavioural, cognitive and social theoretical approaches. The intention is to help students appreciate the paradigm changes that have taken place in the last 150 years, and thus also appreciate the strengths and weaknesses of current paradigms.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "PSYCHOLOGY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

@@ -1,0 +1,32 @@
+{
+"moduleCode": "UTW2001T",
+"moduleTitle": "Nobodiness: The Self as Story",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "IEM2201%, UTW2001%",
+"prerequisite": "IEM1201%, UTW1001%",
+"preclusionList": [
+            "IEM2201",
+            "UTW2001"
+        ],
+"parsedPrerequisite": {
+" and ": ["UTW1001"]
+},
+"prerequisiteList": ["UTW1001"],
+"completePrerequisite": {
+            "name": "UTW2001T", 
+            "children": [
+                {
+                    "name": "UTW1001", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "The sense of having a self pervades everyday experience as well as the stories we encounter in fiction, film, television, and video games. On the other hand, the self has been called into question from various scientific, religious, and philosophical perspectives. This module examines the concept of selfhood, considering the possibility that it may be a fabrication, and examines the positive and negative aspects of positing the existence of selfhood. The module culminates in student research projects that apply critiques of the self from cognitive psychology, Eastern religion, and/or continental and analytic philosophy to a text of their choosing.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "NON-FACULTY-BASED DEPARTMENTS",
+"department": "CTR FOR ENGLISH LANGUAGE COMMUNICATION",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

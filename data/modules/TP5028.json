@@ -1,0 +1,22 @@
+{
+"moduleCode": "TP5028",
+"moduleTitle": "Intermodal Transportation Operations",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "CE4 standing or higher",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "TP5028", 
+            "children": []
+},
+"moduleDescription": "The module will critically examine the dimensions of an integrated inter-modal transport system in relation to the changing logistics and supply chain practices of procurement, production and distribution. Themes and issues studied include the analysis of inter-modal choices using the total cost concepts in distribution, the international-domestic interface, advanced technologies in inter-modalism, the role of government in inter-modal integration. The module will also introduce simulation analysis for multi-modal operations, including building, calibration and validating models, output analysis and application programming interface.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "CIVIL & ENVIRONMENTAL ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

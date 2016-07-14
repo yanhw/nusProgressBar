@@ -1,0 +1,24 @@
+{
+"moduleCode": "NUR5601",
+"moduleTitle": "Advanced Health Assessment (Paediatrics)",
+"moduleCredit": "6",
+"lockedModules":[
+            "NUR5611",
+            "NUR5603"
+        ],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "NUR5601", 
+            "children": []
+},
+"moduleDescription": "This module aims to provide a thorough understanding of paediatric health assessment and to develop competent skills in performing physical examination. These skills are essential for diagnostic reasoning and clinical decision making. Principles and techniques from the physical and behavioral sciences are utilised to obtain assessment data and make differential diagnoses and subsequently, the final diagnosis.",
+"crossModule": "-1",
+"corequisite": "NUR5602",
+"faculty": "YONG LOO LIN SCHOOL OF MEDICINE",
+"department": "NURSING/ALICE LEE CTR FOR NURSING STUD",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

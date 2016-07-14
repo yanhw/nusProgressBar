@@ -1,0 +1,57 @@
+{
+"moduleCode": "MA2202",
+"moduleTitle": "Algebra I",
+"moduleCredit": "4",
+"lockedModules":[
+            "MA3265",
+            "MA3201"
+        ],
+"preclusion": "MA2202S, MA3250, MQ3201,CVE students.",
+"prerequisite": "MA1100 or MA1100S or CS1231 or CS1231S",
+"preclusionList": [
+            "MA3250",
+            "MA2202S",
+            "MQ3201"
+        ],
+"parsedPrerequisite": {
+            " or ": [
+                "MA1100", 
+                "MA1100S", 
+                "CS1231", 
+                "CS1231S"
+            ]
+},
+"prerequisiteList": ["MA1100","MA1100S","CS1231","CS1231S"],
+"completePrerequisite": {
+            "name": "MA2202", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "MA1100", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "MA1100S", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "CS1231", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "CS1231S", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This course introduces basic concepts in group theory such as the notion of subgroups, permutation groups, cyclic groups, cosets, Lagrange\u2019s theorem, quotient groups and isomorphism theorems. Major topics: Divisibility, congruences. Permutations. Binary operations. Groups. Examples of groups including finite abelian groups from the study of integers and finite non-abelian groups constructed from permutations. Subgroups. Cyclic groups. Cosets. Theorem of Lagrange. Fermat\u2019s Little Theorem and Euler's Theorem. Direct products of groups. Normal subgroups. Quotient groups. Isomorphism Theorems",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCIENCE",
+"department": "MATHEMATICS",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

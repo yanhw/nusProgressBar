@@ -1,0 +1,105 @@
+{
+"moduleCode": "FIN4118",
+"moduleTitle": "Equity Research Seminar",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "FIN3101",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["FIN3101"]
+},
+"prerequisiteList": ["FIN3101","FNA2004","FIN2004","BK1003","BZ1002","BH1002","FNA1002","ACC1002","FNA1002X","ACC1002X","FNA1002E","BH1002E","EC3212","EG1422","BH2004","BZ2004","BK2004"],
+"completePrerequisite": {
+            "name": "FIN4118", 
+            "children": [
+                {
+                    "name": "FIN3101", 
+                    "children": [
+                        {
+                            "name": "or", 
+                            "children": [
+                                {
+                                    "name": "FNA2004", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "FIN2004", 
+                                    "children": [
+                                        {
+                                            "name": "or", 
+                                            "children": [
+                                                {
+                                                    "name": "BK1003", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "BZ1002", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "BH1002", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "FNA1002", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "ACC1002", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "FNA1002X", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "ACC1002X", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "FNA1002E", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "BH1002E", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "EC3212", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "EG1422", 
+                                                    "children": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }, 
+                                {
+                                    "name": "BH2004", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "BZ2004", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "BK2004", 
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This course seeks to highlight & provide the rigour and skills needed for stock selection using a fundamental research approach. Moreover it provides the understanding needed to know how these qualitative skills are applied to portfolio management in the investment management industry. In addition to the above, this course also introduces students to the top down approach of portfolio management and how portfolios with multiple countries can be constructed.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF BUSINESS",
+"department": "FINANCE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

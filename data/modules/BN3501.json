@@ -1,0 +1,165 @@
+{
+"moduleCode": "BN3501",
+"moduleTitle": "Equilibrium and Kinetic Bioprocesses",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "MA1506, PC1432, CN2122, ME2134 or BN2202",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " and ": [
+                "MA1506", 
+                "PC1432", 
+                "CN2122", 
+                {
+                    " or ": [
+                        "ME2134", 
+                        "BN2202"
+                    ]
+                }
+            ]
+},
+"prerequisiteList": ["MA1506","MA1102R","MA1505","MA1521","PC1432","CN2122","ME2134","PC1431","PC1431F","PC1431X","BN2202"],
+"completePrerequisite": {
+            "name": "BN3501", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "MA1506", 
+                            "children": [
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "MA1102R", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "MA1505", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "MA1521", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "PC1432", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "CN2122", 
+                            "children": [
+                                {
+                                    "name": "and", 
+                                    "children": [
+                                        {
+                                            "name": "MA1505", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "MA1506", 
+                                            "children": [
+                                                {
+                                                    "name": "or", 
+                                                    "children": [
+                                                        {
+                                                            "name": "MA1102R", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "MA1505", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "MA1521", 
+                                                            "children": []
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "or", 
+                            "children": [
+                                {
+                                    "name": "ME2134", 
+                                    "children": [
+                                        {
+                                            "name": "or", 
+                                            "children": [
+                                                {
+                                                    "name": "PC1431", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "PC1431F", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "PC1431X", 
+                                                    "children": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }, 
+                                {
+                                    "name": "BN2202", 
+                                    "children": [
+                                        {
+                                            "name": "and", 
+                                            "children": [
+                                                {
+                                                    "name": "MA1505", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MA1506", 
+                                                    "children": [
+                                                        {
+                                                            "name": "or", 
+                                                            "children": [
+                                                                {
+                                                                    "name": "MA1102R", 
+                                                                    "children": []
+                                                                }, 
+                                                                {
+                                                                    "name": "MA1505", 
+                                                                    "children": []
+                                                                }, 
+                                                                {
+                                                                    "name": "MA1521", 
+                                                                    "children": []
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module is designed to impart fundamental concepts of equilibrium thermodynamics and reaction kinetics that may be applied to the study of biological systems. The student is expected to acquire an understanding of the role of thermodynamic reasoning and kinetic analysis in providing a deeper insight into many biochemical and biophysical problems. The topics covered will include thermodynamic functions, chemical potential, chemical reaction and phase equilibria, multicomponent systems, electrochemical potential, solubility, ligand binding equilibria, calorimetry, enzyme kinetics, microbial fermentation, ligand binding kinetics.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "BIOMEDICAL ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

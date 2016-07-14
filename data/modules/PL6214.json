@@ -1,0 +1,22 @@
+{
+"moduleCode": "PL6214",
+"moduleTitle": "Visual-Spatial Cognition",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "Admission to the NUS psychology graduate program or approval by the lecturer",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "PL6214", 
+            "children": []
+},
+"moduleDescription": "The ability to perceive our spatial surroundings is critical to tasks ranging from grasping nearby objects to complex navigation through an unfamiliar environment. This seminar will cover both the basic cognitive psychology and neuroscience research on visual/spatial cognition (e.g., visual imagery, perception, and visual/spatial working memory) as well as applied research on the role of visual/spatial information processing in complex activities, such as spatial navigation, human-computer interaction, design of 3D immersive virtual technologies, and learning and problem solving.",
+"crossModule": "-1",
+"corequisite": "Nil",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "PSYCHOLOGY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

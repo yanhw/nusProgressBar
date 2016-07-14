@@ -1,0 +1,22 @@
+{
+"moduleCode": "SC2211",
+"moduleTitle": "Medical Sociology",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "SC2211", 
+            "children": []
+},
+"moduleDescription": "This module will examine the relationship between society and health-related issues. The differing notions of \"illness\"and \"wellness,\"and how societies influence the type, definition and distribution of disease and illness will be examined. The social organization of medicine, the social functions of health-care institutions in society will also be explored. Special emphasis will also be given to the role of the state in providing health-care as well as the relationship between the state and the health industry. This course is mounted for students throughout NUS with interest in society and health-related issues.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "SOCIOLOGY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

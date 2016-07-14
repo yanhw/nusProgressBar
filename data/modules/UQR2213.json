@@ -1,0 +1,22 @@
+{
+"moduleCode": "UQR2213",
+"moduleTitle": "The Science and Art of Business Analytics",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "Not applicable to USP modules",
+"prerequisite": "Not applicable to USP First-Tier modules",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "UQR2213", 
+            "children": []
+},
+"moduleDescription": "Business analytics is a scientific and data-driven approach to help organisations solve problems, make better decisions, and increase productivity. Despite its business origins, analytics has been applied in governments, hospitals, and museums, spurning a $125 billion market. However, a significant number of analytics projects fail due, in part, to poor science (techniques), art (e.g., communication, implementation, change management) or both. Against this background, this module covers the critical success factors that span these topics: Epistemology of analytics, data collection, sample size considerations, psychometrics, statistical and predictive modelling, text analytics, and agile project management. It also discusses applications in human capital management, and healthcare through case studies from the likes of Google.",
+"crossModule": "-1",
+"corequisite": "Not applicable to USP modules",
+"faculty": "UNIVERSITY SCHOLARS PROGRAMME",
+"department": "UNIVERSITY SCHOLARS PROGRAMME",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

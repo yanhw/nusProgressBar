@@ -1,0 +1,22 @@
+{
+"moduleCode": "YSC1209",
+"moduleTitle": "Accelerated Calculus with Applications",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "YSC1209", 
+            "children": []
+},
+"moduleDescription": "A comprehensive first course on calculus at the collegiate level, including a concise review of the theory and techniques of differential and integral calculus in one variable and an introduction to infinite series, differential equations, and calculus in several variables.",
+"crossModule": "-1",
+"corequisite": "None.",
+"faculty": "YALE-NUS COLLEGE",
+"department": "YALE-NUS COLLEGE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

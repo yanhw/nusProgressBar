@@ -1,0 +1,30 @@
+{
+"moduleCode": "SW2105",
+"moduleTitle": "Values & Skills for Helping Relationships",
+"moduleCredit": "4",
+"lockedModules":[
+            "SW3103A"
+        ],
+"preclusion": "NIL",
+"prerequisite": "Only for students majoring in Social Work, SW1101E",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["SW1101E"]
+},
+"prerequisiteList": ["SW1101E"],
+"completePrerequisite": {
+            "name": "SW2105", 
+            "children": [
+                {
+                    "name": "SW1101E", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "This module concentrates on developing foundational skills for professional helping relationships in direct social work practice. It focuses on values and skills for interpersonal communication, relationship building, problem solving and intervention at the various stages of the helping relationship. Experiential learning involving role playing, case studies and the development of self-awareness are employed.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "SOCIAL WORK",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

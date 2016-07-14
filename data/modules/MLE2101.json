@@ -1,0 +1,29 @@
+{
+"moduleCode": "MLE2101",
+"moduleTitle": "Introduction to Structure of Materials",
+"moduleCredit": "4",
+"lockedModules":[
+            "MLE3101",
+            "MLE4205",
+            "MLE4207",
+            "MLE2104",
+            "MLE2105",
+            "MLE2106",
+            "MLE2107"
+        ],
+"preclusion": "NIL",
+"prerequisite": "A Level Physics or H1 Physics or H2 Physics or [PC1221 and PC1222]",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "MLE2101", 
+            "children": []
+},
+"moduleDescription": "Overview: symmetry, bonding, coordination number, packing fraction, order and disorder; Noncrystalline state: short-range order (SRO), pair distribution function, random walk, network and fractal models; Crystalline state: basic crystallography and structures, reciprocal lattice, quasicrystals, liquid crystalline state; Crystal vibrations, Brillouin zone; free electron model, energy bands; Structural effects on phase transformation.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "MATERIALS SCIENCE AND ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

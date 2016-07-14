@@ -1,0 +1,35 @@
+{
+"moduleCode": "PC1431",
+"moduleTitle": "Physics IE",
+"moduleCredit": "4",
+"lockedModules":[
+            "PC2132",
+            "ME3122",
+            "ME3112",
+            "ME2143",
+            "ME2134",
+            "ME2121E",
+            "ME2121"
+        ],
+"preclusion": "Students majoring in Physics or students who have passed in PC1141 or PC1142 or PC1433 or PC1431FC or PC1431X are not allowed to take this module.",
+"prerequisite": "STUDENTS FROM FOE (I.E. CIVIL ENG, ENVIRONMENTAL ENG, COMMON ENGINEERING, MECHANICAL ENG, BIOENGINEERING, INDUSTRIAL & SYSTEMS ENG AND MATERIAL SCIENCE & ENG) WITH \u2018A\u2019 LEVEL OR H2 PASS IN PHYSICS; OR 'A' LEVEL OR H2 PASS IN PHYSICS; OR PC1221/PC1221FC/ PC1221X & PC1222",
+"preclusionList": [
+            "PC1433",
+            "PC1142",
+            "PC1141",
+            "PC1431X",
+            "PC1431F"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "PC1431", 
+            "children": []
+},
+"moduleDescription": "The module is designed to provide a clear and logical introduction to the concepts and principles of mechanics and thermodynamics, with illustrations based on applications to the real world. Topics covered include motion in one dimension; curvilinear motion; circular motion; relative motion; Newton's laws; friction; work and energy; conservative forces, conservation of energy; linear momentum and conservation, collisions; rotational kinematics; moment of inertia and torque; rotational dynamics; conservation of angular momentum; gravitational force, field and potential energy; planetary motion; temperature and the zeroth law, temperature scales; thermal expansion of solids and liquids; heat and internal energy, specific heat capacities, enthalpy and latent heat, work for ideal gases, first law of thermodynamics; equipartition of energy, mean free path; entropy and the second law, heat engines; entropy changes for reversible and irreversible processes. The module is targeted essentially at Engineering students.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCIENCE",
+"department": "PHYSICS",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

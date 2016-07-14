@@ -1,0 +1,26 @@
+{
+"moduleCode": "RE2106",
+"moduleTitle": "Real Estate Marketing & Negotiation",
+"moduleCredit": "4",
+"lockedModules":[
+            "RE3106",
+            "RE4204"
+        ],
+"preclusion": "RE3190 Real Estate Marketing",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "RE3190"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "RE2106", 
+            "children": []
+},
+"moduleDescription": "This module introduces students to the fundamentals of real estate marketing and negotiation. The first half of the module focuses on the concepts, principles, and practices in marketing and leasing of various types of real estate developments. The second half of the module emphasises the nature of real estate conflicts and disputes, negotiation theory and principles, negotiation skills, negotiation practice and applications. Case studies in Singapore and the Asia Pacific region will be used extensively in the discussions.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF DESIGN AND ENVIRONMENT",
+"department": "REAL ESTATE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

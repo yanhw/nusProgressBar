@@ -1,0 +1,22 @@
+{
+"moduleCode": "IE4100E",
+"moduleTitle": "BTech Dissertation",
+"moduleCredit": "12",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "Level 4 Standing",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "IE4100E", 
+            "children": []
+},
+
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "ENGINEERING",
+"department": "BACHELOR OF TECHNOLOGY PROGRAMME",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,3,0,]]
+}

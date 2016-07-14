@@ -1,0 +1,76 @@
+{
+"moduleCode": "PR4102",
+"moduleTitle": "Pharmacotherapy III",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "PR4101",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["PR4101"]
+},
+"prerequisiteList": ["PR4101","PR3105","PX3108","PY1106","PR1908","PP2107","PA2107","PP2106"],
+"completePrerequisite": {
+            "name": "PR4102", 
+            "children": [
+                {
+                    "name": "PR4101", 
+                    "children": [
+                        {
+                            "name": "PR3105", 
+                            "children": [
+                                {
+                                    "name": "and", 
+                                    "children": [
+                                        {
+                                            "name": "PX3108", 
+                                            "children": [
+                                                {
+                                                    "name": "and", 
+                                                    "children": [
+                                                        {
+                                                            "name": "PY1106", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "PR1908", 
+                                                            "children": []
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "or", 
+                                            "children": [
+                                                {
+                                                    "name": "PP2107", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "PA2107", 
+                                                    "children": [
+                                                        {
+                                                            "name": "PP2106", 
+                                                            "children": []
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "Learning objectives: To introduce to the pharmacotherapeutic management of some of the commonly encountered disease states in the practice of clinical pharmacy. Major topics: Parameters which affect drug therapy decisions in selected diseases/conditions: oncology, nutritional support, rheumatology, psychiatry. Target students: Pharmacy Final Year",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCIENCE",
+"department": "PHARMACY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,4,]]
+}

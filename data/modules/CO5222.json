@@ -1,0 +1,22 @@
+{
+"moduleCode": "CO5222",
+"moduleTitle": "Program Evaluation",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "CO5222", 
+            "children": []
+},
+"moduleDescription": "This course provides an introduction to the fundamentals of monitoring and evaluation (M&E). Emphasizing the project lifecycle, the course will focus primarily on the basic purposes and scope of M&E. Utilizing case studies, students will develop essential components of an M&E plan as well as offer critiques of different evaluation plans. Students will make informal presentations of their group work during the last 30 minutes of most class periods.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SAW SWEE HOCK SCHOOL OF PUBLIC HEALTH",
+"department": "SAW SWEE HOCK SCHOOL OF PUBLIC HEALTH",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

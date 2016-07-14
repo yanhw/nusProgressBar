@@ -1,0 +1,25 @@
+{
+"moduleCode": "BMK5005",
+"moduleTitle": "Competitive Marketing Strategy",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "BMA5501 Competitive Marketing Strategy MKT4411 Marketing Strategy",
+"prerequisite": "Principles of Marketing or Marketing Management, or their equivalents.",
+"preclusionList": [
+            "BMA5501",
+            "MKT4411"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "BMK5005", 
+            "children": []
+},
+"moduleDescription": "This is an advanced course in marketing strategy that focuses on competitive strategy analysis and formulation. Students are introduced to both the Art and the Science of \u201cStrategic Thinking\u201d in devising competitive strategies. This course aims to: - Enhance student\u2019s ability to think and to act strategically in marketing and in business. - Introduce students to Principles of Strategy from Sun Zi\u2019s \u201cArt of War\u201d to assist them in making business strategy decisions. - Introduce students to fundamental Game Theoretic tools and models for analysing and understanding problems involving strategic interactions. - Provide students with some advanced strategy concepts and theories to gain a deeper understanding of competitive strategy formulation. Students are expected to apply both the Art and Science of strategy discussed in class to solve marketing and business problems, through case analyses, critiques, and presentations. There will be a case research project requirement, which requires students to identify and analyse an actual problem or case faced by a firm, and to make recommendations as to how the problem can be resolved, based on concepts taught in class.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "SCHOOL OF BUSINESS",
+"department": "MARKETING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

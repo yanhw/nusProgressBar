@@ -1,0 +1,22 @@
+{
+"moduleCode": "SH5101",
+"moduleTitle": "Industrial Toxicology",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "SH5101", 
+            "children": []
+},
+"moduleDescription": "The course covers the absorption of chemicals into human bodies, their bio-transformation, excretion and adverse effects on the target organs. Other topics cover including toxicological studies and the application of toxicological information in the prevention of occupational diseases in the workplace.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "CHEMICAL & BIOMOLECULAR ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

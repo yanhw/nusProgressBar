@@ -1,0 +1,35 @@
+{
+"moduleCode": "LAB3201",
+"moduleTitle": "Bahasa Indonesia 3",
+"moduleCredit": "4",
+"lockedModules":[
+            "LAB3202"
+        ],
+"preclusion": "NIL",
+"prerequisite": "Passed LAB2201 or placement test",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["LAB2201"]
+},
+"prerequisiteList": ["LAB2201","LAB1201"],
+"completePrerequisite": {
+            "name": "LAB3201", 
+            "children": [
+                {
+                    "name": "LAB2201", 
+                    "children": [
+                        {
+                            "name": "LAB1201", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module is a continuation of Bahasa Indonesia 2. Emphasis continues to be on proficiency in all four skills, within selected range of vocabulary and grammar. Students will master language relating to a wider range of daily life situations and will gain flexibility in their language use. Reading will no longer be strictly limited to what is contained in the textbook specially prepared for the class. Gradually, short selection from media and literature sources such as short stories, poems, announcements, reports and other short, topic-specific pieces will be introduced to begin to familiarize students with actual usage while not overwhelming them with new vocabulary and grammatical forms.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "CENTRE FOR LANGUAGE STUDIES",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

@@ -1,0 +1,24 @@
+{
+"moduleCode": "PL4214",
+"moduleTitle": "Evolutionary Psychology",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "UAS3006",
+"prerequisite": "Cohort 2011 and before: Completed 80 MCs of which student must have passed PL1101E, PL2131, PL2132 and 4 out of the 5 core modules (PL3232 - PL3236), with a minimum CAP of 3.50 or be on the Honours track. Cohort 2012 onwards: Completed 80 MCs of which student must have passed PL1101E, PL2131, PL2132 and 4 out of the 5 core modules (PL3232 - PL3236), with a minimum CAP of 3.20 or be on the Honours track.",
+"preclusionList": [
+            "UAS3006"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "PL4214", 
+            "children": []
+},
+"moduleDescription": "The aim of this course is to give students an understanding of evolutionary theory and its implications for psychological theory. The idea that behaviour, like physical structure, is evolved in response to selection pressures carries implications for understanding phenomena in a range of diverse fields such as logical reasoning, altruism, competition, mate selection, aggressive behaviour, attachment and child maltreatment. Pitfalls and limitations in the speculative use of evolutionary explanations will be considered, and the way in which such explanations complement those couched in terms of psychological processes or mechanisms will be explored.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "PSYCHOLOGY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

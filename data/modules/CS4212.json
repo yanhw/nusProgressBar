@@ -1,0 +1,42 @@
+{
+"moduleCode": "CS4212",
+"moduleTitle": "Compiler Design",
+"moduleCredit": "4",
+"lockedModules":[
+            "CS6202",
+            "CS5218",
+            "CS5214"
+        ],
+"preclusion": "NIL",
+"prerequisite": "CS2104 Programming Language",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["CS2104"]
+},
+"prerequisiteList": ["CS2104","CS1020","CS1010"],
+"completePrerequisite": {
+            "name": "CS4212", 
+            "children": [
+                {
+                    "name": "CS2104", 
+                    "children": [
+                        {
+                            "name": "CS1020", 
+                            "children": [
+                                {
+                                    "name": "CS1010", 
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "The objective of this module is to introduce the principal ideas behind program compilation, and discusses various techniques for program parsing, program analysis, program optimisation, and run-time organisation required for program execution. Topics covered include regular expressions, context-free grammars, lexical analysis, syntax analysis; different algorithms for parsing codes, such as top-down parsing, bottom-up parsing; translation to abstract syntax using modern parser generator technology, intermediate representation, semantics analysis, type system, un-optimised code generation, code optimisation, data-flow analysis, instruction scheduling.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF COMPUTING",
+"department": "COMPUTER SCIENCE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

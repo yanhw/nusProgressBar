@@ -1,0 +1,22 @@
+{
+"moduleCode": "IS5126",
+"moduleTitle": "Hands-On with Business Analytics",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "IS5126", 
+            "children": []
+},
+"moduleDescription": "Business Analytics is the growing, inter-disciplinary field of bringing data to build business insights and support decisions. The goal of the course is to bridge the divide between technical skills and business know-how. Through learning-by-doing, students will engage in a series of business case study discussions, guided group projects, and a final semester project of their own design. Lectures will cover practical skills using the latest tools and techniques, as well as discuss business cases and applications. Applications will cover areas such as retailing, customer relationship management (CRM), social media, and marketing.",
+"crossModule": "-1",
+"corequisite": "Nil",
+"faculty": "SCHOOL OF COMPUTING",
+"department": "INFORMATION SYSTEMS",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

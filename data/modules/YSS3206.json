@@ -1,0 +1,29 @@
+{
+"moduleCode": "YSS3206",
+"moduleTitle": "Law and Economics",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "YSS2203 Intermediate Microeconomics",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["YSS2203"]
+},
+"prerequisiteList": ["YSS2203"],
+"completePrerequisite": {
+            "name": "YSS3206", 
+            "children": [
+                {
+                    "name": "YSS2203", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "An introduction to the relationship between law and economics, including the practical application of microeconomics to several common legal issues: torts, contracts, property, and crime.",
+"crossModule": "-1",
+"corequisite": "YSS2203 Intermediate Microeconomics",
+"faculty": "YALE-NUS COLLEGE",
+"department": "YALE-NUS COLLEGE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

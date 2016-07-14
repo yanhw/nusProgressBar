@@ -1,0 +1,44 @@
+{
+"moduleCode": "NUR3103",
+"moduleTitle": "Clinical Decision Making",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "NUR2116 Medical/Surgical Nursing II",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["NUR2116"]
+},
+"prerequisiteList": ["NUR2116","NUR2106","NUR2114","NUR1108"],
+"completePrerequisite": {
+            "name": "NUR3103", 
+            "children": [
+                {
+                    "name": "NUR2116", 
+                    "children": [
+                        {
+                            "name": "NUR2106", 
+                            "children": [
+                                {
+                                    "name": "NUR2114", 
+                                    "children": [
+                                        {
+                                            "name": "NUR1108", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "The module provides students an opportunity to consolidate knowledge on anatomy, physiology, pathophysiology, pharmacology, medical and nursing knowledge in the care of patients with common conditions e.g. top ten causes of hospitalisation, mortality and common conditions seen in primary health care clinics. The learning will take place in a simulated learning environment using a problem-based learning approach.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "YONG LOO LIN SCHOOL OF MEDICINE",
+"department": "NURSING/ALICE LEE CTR FOR NURSING STUD",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

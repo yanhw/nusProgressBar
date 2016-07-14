@@ -1,0 +1,29 @@
+{
+"moduleCode": "MUH1116",
+"moduleTitle": "Communicating About Music II",
+"moduleCredit": "2",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "MUH1115 Communicating About Music 1",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["MUH1115"]
+},
+"prerequisiteList": ["MUH1115"],
+"completePrerequisite": {
+            "name": "MUH1116", 
+            "children": [
+                {
+                    "name": "MUH1115", 
+                    "children": []
+                }
+            ]
+},
+
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "YONG SIEW TOH CONSERVATORY OF MUSIC",
+"department": "YONG SIEW TOH CONSERVATORY OF MUSIC",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

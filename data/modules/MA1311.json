@@ -1,0 +1,38 @@
+{
+"moduleCode": "MA1311",
+"moduleTitle": "Matrix Algebra",
+"moduleCredit": "4",
+"lockedModules":[
+            "MA2213",
+            "MA2214",
+            "MA3252",
+            "DSC3214",
+            "IE2110",
+            "EC3312",
+            "EC3371",
+            "EC3361",
+            "MA3238",
+            "ST3236",
+            "MA3220",
+            "EC3102"
+        ],
+"preclusion": "MA1101R, MA1506, MA1508, FoE students.",
+"prerequisite": "AO-LEVEL MATHEMATICS OR H1 MATHEMATICS OR MA1301 OR MA1301FC or MA1301X",
+"preclusionList": [
+            "MA1508",
+            "MA1506",
+            "MA1101R"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "MA1311", 
+            "children": []
+},
+"moduleDescription": "This module introduces the basic concepts in matrix algebra which has applications in science, engineering, statistics, economics and operations research. The main objective is to equip students with the basic skills in computing with real vectors and matrices. Specially designed for students not majoring in mathematics, in particular those who read a minor in mathematics, it is also suitable for students who are keen to pick up mathematical skills that will be useful in their own areas of studies. Major topics: Gaussian elimination, solutions to simultaneous equations, matrices, vectors, special matrices, matrix inverses, linear independence, rank, determinants, vectors in geometry, and cross product, introduction to eigenvalues and eigenvectors.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCIENCE",
+"department": "MATHEMATICS",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

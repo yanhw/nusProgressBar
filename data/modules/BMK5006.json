@@ -1,0 +1,24 @@
+{
+"moduleCode": "BMK5006",
+"moduleTitle": "Consumer Culture Theory",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "MKT3423 Consumer Culture Theory",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "MKT3423"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "BMK5006", 
+            "children": []
+},
+"moduleDescription": "Consumer Culture Theory (CCT) is a synthesizing framework that examines the sociocultural, experiential, symbolic and ideological aspects of consumption. The tenets of CCT research are aligned with consumer identity projects, marketplace cultures, the sociohistorical patterning of consumption, and mass-mediated marketplace ideologies and consumers\u2019 interpretive strategies. In this course, we will explore the dynamic relationships among consumer actions, the marketplaces and cultural meanings.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF BUSINESS",
+"department": "MARKETING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

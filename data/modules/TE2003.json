@@ -1,0 +1,46 @@
+{
+"moduleCode": "TE2003",
+"moduleTitle": "Advanced Mathematics for Engineers",
+"moduleCredit": "4",
+"lockedModules":[
+            "TE3801"
+        ],
+"preclusion": "TE2401",
+"prerequisite": "TE2002",
+"preclusionList": [
+            "TE2401"
+        ],
+"parsedPrerequisite": {
+" and ": ["TE2002"]
+},
+"prerequisiteList": ["TE2002","TE2102","TG1401"],
+"completePrerequisite": {
+            "name": "TE2003", 
+            "children": [
+                {
+                    "name": "TE2002", 
+                    "children": [
+                        {
+                            "name": "or", 
+                            "children": [
+                                {
+                                    "name": "TE2102", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "TG1401", 
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This is a follow up module for TE2002. The topics include the following: complex functions, complex differentiation, Cauchy-Riemann equations, singularities and zeros, contour integration, conformal mapping; probability, random variables, probability density function, distributions, applied statistics, random process, responses of linear systems to random inputs.",
+"crossModule": "-1",
+"corequisite": "Nil",
+"faculty": "ENGINEERING",
+"department": "BACHELOR OF TECHNOLOGY PROGRAMME",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

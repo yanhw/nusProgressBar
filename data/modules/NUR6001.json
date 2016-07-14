@@ -1,0 +1,22 @@
+{
+"moduleCode": "NUR6001",
+"moduleTitle": "Graduate Research Seminar",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "NUR6001", 
+            "children": []
+},
+"moduleDescription": "This module provides students with opportunities to gain and apply the knowledge and skills needed to understand the research process, prepare for the written components of a PhD thesis, and present research findings in a professional forum. Content is broad and provides students with independent elements of study (attendance at a series of seminars of the students choosing) as well as structured sessions and guidance to produce a PhD research proposal and obtain ethical approval, and opportunities to present preliminary work.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "YONG LOO LIN SCHOOL OF MEDICINE",
+"department": "NURSING/ALICE LEE CTR FOR NURSING STUD",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

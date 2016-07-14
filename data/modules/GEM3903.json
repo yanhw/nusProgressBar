@@ -1,0 +1,22 @@
+{
+"moduleCode": "GEM3903",
+"moduleTitle": "CAPT Undergraduate Research Opportunity (UROP)",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "This module is currently open only to students of the College of Alice & Peter Tan, University Town",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "GEM3903", 
+            "children": []
+},
+"moduleDescription": "A UROP involves the student working with a supervisor, and sometimes in a team, on an existing research project. A CAPT UROP may focus on research related to a particular aspect of life, education or organization at the College. Alternatively, students may participate in research led by a College Fellow or other academic, as long as the project gives the student exposure to forms of expertise and/or interests that go beyond any particular discipline. The aim of the UROP is to help support a student\u2019s academic and professional development through a meaningful research apprenticeship. The UROP is a graded module.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "NON-FACULTY-BASED DEPARTMENTS",
+"department": "COLLEGE OF ALICE & PETER TAN",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

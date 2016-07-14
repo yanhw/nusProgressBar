@@ -1,0 +1,31 @@
+{
+"moduleCode": "ME2142E",
+"moduleTitle": "Feedback Control Systems",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "TM3142",
+"prerequisite": "TM2401",
+"preclusionList": [
+            "TM3142"
+        ],
+"parsedPrerequisite": {
+" and ": ["TM2401"]
+},
+"prerequisiteList": ["TM2401"],
+"completePrerequisite": {
+            "name": "ME2142E", 
+            "children": [
+                {
+                    "name": "TM2401", 
+                    "children": []
+                }
+            ]
+},
+
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "ENGINEERING",
+"department": "BACHELOR OF TECHNOLOGY PROGRAMME",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

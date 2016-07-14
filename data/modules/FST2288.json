@@ -1,0 +1,29 @@
+{
+"moduleCode": "FST2288",
+"moduleTitle": "Basic UROPS in Food Science & Technology I",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "FST1101 and Departmental Approval",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["FST1101"]
+},
+"prerequisiteList": ["FST1101"],
+"completePrerequisite": {
+            "name": "FST2288", 
+            "children": [
+                {
+                    "name": "FST1101", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "This module is designed to give level 2 students an introduction to research. The student will undertake a laboratory based investigation on a topic proposed by the supervisor. Students work independently but under the close supervision of the supervisor.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCIENCE",
+"department": "CHEMISTRY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,3,4,]]
+}

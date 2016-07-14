@@ -1,0 +1,24 @@
+{
+"moduleCode": "LL5013V",
+"moduleTitle": "Comparative Environmental Law",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "Students who are taking or have taken LL5013",
+"prerequisite": "NUS Compulsory Core Curriculum or its equivalent",
+"preclusionList": [
+            "LL5013"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "LL5013V", 
+            "children": []
+},
+"moduleDescription": "Environmental Law is emerging as a distinct field of law in every nation and region. Legislatures establish environmental laws based upon the need to address perceived environmental problems in their territory or in a region of shared resources such as a river basin or coastal marine regions or the habitats for migratory species. In some instances, national legislation is stimulated by the negotiation and adherence to multilateral environmental agreements.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "LAW",
+"department": "LAW",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

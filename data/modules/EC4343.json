@@ -1,0 +1,22 @@
+{
+"moduleCode": "EC4343",
+"moduleTitle": "International Finance II",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "Cohort 2011 and before: Completed 80 MCs, including 28 MCs in EC with a minimum CAP of 3.50 or be on the Honours track. EC3101, EC3102, EC3303, and EC3341. Cohort 2012 onwards: Completed 80 MCs, including 28 MCs in EC, with a minimum CAP of 3.20 or be on the Honours track. EC3101, EC3102, EC3303, and (EC3341 or EC3343).",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "EC4343", 
+            "children": []
+},
+"moduleDescription": "The International Monetary System is the worldwide framework that facilitates cross-border flows of financial capital to finance investment and trade. Today\u2019s system traces its roots to the late 19th century. Before World War I, major currencies were tied to gold, implying a system of fixed exchange rates without room for independent monetary policy. Today no major currency is tied to gold, and monetary policy is independent. Employing the tools presented in International Finance I, the course discusses how the system has operated throughout time and why it changed. The discussions are embedded in the economic context of the times.",
+"crossModule": "-1",
+"corequisite": "Nil",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "ECONOMICS",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

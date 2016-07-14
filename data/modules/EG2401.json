@@ -1,0 +1,66 @@
+{
+"moduleCode": "EG2401",
+"moduleTitle": "Engineering Professionalism",
+"moduleCredit": "3",
+"lockedModules":[
+            "CN4123"
+        ],
+"preclusion": "NIL",
+"prerequisite": "ES1501A, ES1501B, ES1501C, EG1413/ES1531 and Year 2 status",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " and ": [
+                "ES1501A", 
+                "ES1501B", 
+                "ES1501C", 
+                {
+                    " or ": [
+                        "EG1413", 
+                        "ES1531"
+                    ]
+                }
+            ]
+},
+"prerequisiteList": ["ES1501A","ES1501B","ES1501C","EG1413","ES1531"],
+"completePrerequisite": {
+            "name": "EG2401", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "ES1501A", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "ES1501B", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "ES1501C", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "or", 
+                            "children": [
+                                {
+                                    "name": "EG1413", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "ES1531", 
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module aims to alert and sensitise students on the kinds of situations that may arise in his professional career and teaches students to improve his/her skills in appreciating and dealing with the moral challenges posed by such situations. Students will acquire skills in dealing with ethical issues, learn about the 'codes of ethics' set by professional bodies and intellectual property rights and protection.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "DEAN'S OFFICE (ENGINEERING)",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

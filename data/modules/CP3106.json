@@ -1,0 +1,327 @@
+{
+"moduleCode": "CP3106",
+"moduleTitle": "Independent Project",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "[(CS2102 or CS2102S) and CS2105 and read (CS3214 or CS3215)] or IS3102 or IS4102 or CS3201 or CS3281 or CS4201 or CS4203",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " or ": [
+                {
+                    " and ": [
+                        {
+                            " or ": [
+                                "CS2102", 
+                                "CS2102S"
+                            ]
+                        }, 
+                        "CS2105", 
+                        {
+                            " or ": [
+                                "CS3214", 
+                                "CS3215"
+                            ]
+                        }
+                    ]
+                }, 
+                "IS3102", 
+                "IS4102", 
+                "CS3201", 
+                "CS3281", 
+                "CS4201", 
+                "CS4203"
+            ]
+},
+"prerequisiteList": ["CS2102","CS1020","CS1010","CS1231","MA1100","CS2102S","CS2105","CS3214","CS3215","IS3102","IS2103","CS1102","CS1102C","CS1102S","IS2101","ES1000","ES1102","IS4102","CS3240","NM2217","NM3209","IS2150","IS1112","IS3230","IS3150","IS1105","CS3201","CS2103","CS3281","CS4201","CS4203"],
+"completePrerequisite": {
+            "name": "CP3106", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "and", 
+                            "children": [
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "CS2102", 
+                                            "children": [
+                                                {
+                                                    "name": "and", 
+                                                    "children": [
+                                                        {
+                                                            "name": "CS1020", 
+                                                            "children": [
+                                                                {
+                                                                    "name": "CS1010", 
+                                                                    "children": []
+                                                                }
+                                                            ]
+                                                        }, 
+                                                        {
+                                                            "name": "or", 
+                                                            "children": [
+                                                                {
+                                                                    "name": "CS1231", 
+                                                                    "children": []
+                                                                }, 
+                                                                {
+                                                                    "name": "MA1100", 
+                                                                    "children": []
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "CS2102S", 
+                                            "children": []
+                                        }
+                                    ]
+                                }, 
+                                {
+                                    "name": "CS2105", 
+                                    "children": [
+                                        {
+                                            "name": "CS1020", 
+                                            "children": [
+                                                {
+                                                    "name": "CS1010", 
+                                                    "children": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }, 
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "CS3214", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "CS3215", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "IS3102", 
+                            "children": [
+                                {
+                                    "name": "and", 
+                                    "children": [
+                                        {
+                                            "name": "IS2103", 
+                                            "children": [
+                                                {
+                                                    "name": "or", 
+                                                    "children": [
+                                                        {
+                                                            "name": "CS1020", 
+                                                            "children": [
+                                                                {
+                                                                    "name": "CS1010", 
+                                                                    "children": []
+                                                                }
+                                                            ]
+                                                        }, 
+                                                        {
+                                                            "name": "CS1102", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "CS1102C", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "CS1102S", 
+                                                            "children": []
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "IS2101", 
+                                            "children": [
+                                                {
+                                                    "name": "or", 
+                                                    "children": [
+                                                        {
+                                                            "name": "ES1000", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "ES1102", 
+                                                            "children": []
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "IS4102", 
+                            "children": [
+                                {
+                                    "name": "and", 
+                                    "children": [
+                                        {
+                                            "name": "CS3240", 
+                                            "children": [
+                                                {
+                                                    "name": "or", 
+                                                    "children": [
+                                                        {
+                                                            "name": "CS1020", 
+                                                            "children": [
+                                                                {
+                                                                    "name": "CS1010", 
+                                                                    "children": []
+                                                                }
+                                                            ]
+                                                        }, 
+                                                        {
+                                                            "name": "NM2217", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "NM3209", 
+                                                            "children": []
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "IS2150", 
+                                            "children": [
+                                                {
+                                                    "name": "and", 
+                                                    "children": [
+                                                        {
+                                                            "name": "or", 
+                                                            "children": [
+                                                                {
+                                                                    "name": "CS1020", 
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "CS1010", 
+                                                                            "children": []
+                                                                        }
+                                                                    ]
+                                                                }, 
+                                                                {
+                                                                    "name": "CS1102", 
+                                                                    "children": []
+                                                                }, 
+                                                                {
+                                                                    "name": "CS1102S", 
+                                                                    "children": []
+                                                                }
+                                                            ]
+                                                        }, 
+                                                        {
+                                                            "name": "IS1112", 
+                                                            "children": []
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "IS3230", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "IS3150", 
+                                            "children": [
+                                                {
+                                                    "name": "and", 
+                                                    "children": [
+                                                        {
+                                                            "name": "IS1105", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "IS1112", 
+                                                            "children": []
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "CS3201", 
+                            "children": [
+                                {
+                                    "name": "CS2103", 
+                                    "children": [
+                                        {
+                                            "name": "CS1020", 
+                                            "children": [
+                                                {
+                                                    "name": "CS1010", 
+                                                    "children": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "CS3281", 
+                            "children": [
+                                {
+                                    "name": "CS2103", 
+                                    "children": [
+                                        {
+                                            "name": "CS1020", 
+                                            "children": [
+                                                {
+                                                    "name": "CS1010", 
+                                                    "children": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "CS4201", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "CS4203", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "SCHOOL OF COMPUTING",
+"department": "DEAN'S OFFICE (SCHOOL OF COMPUTING)",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

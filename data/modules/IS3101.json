@@ -1,0 +1,57 @@
+{
+"moduleCode": "IS3101",
+"moduleTitle": "Management of Information Systems",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "CS3253",
+"prerequisite": "CS2250 or (IS1103 and IS1105)",
+"preclusionList": [
+            "CS3253"
+        ],
+"parsedPrerequisite": {
+            " or ": [
+                "CS2250", 
+                {
+                    " and ": [
+                        "IS1103", 
+                        "IS1105"
+                    ]
+                }
+            ]
+},
+"prerequisiteList": ["CS2250","IS1103","IS1105"],
+"completePrerequisite": {
+            "name": "IS3101", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "CS2250", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "and", 
+                            "children": [
+                                {
+                                    "name": "IS1103", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "IS1105", 
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "The course covers the essentials in management of information systems in an organisational setting. Students will gain an understanding of the managerial issues in the development and operation of information systems. The main topics include: information systems planning, management of systems development and maintenance, implementation management, end-user computing, data centre operations, information systems control and evaluation, acquisition of IS resources and management of IS personnel. Case studies will be used to illustrate the issues and solutions.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF COMPUTING",
+"department": "INFORMATION SYSTEMS",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

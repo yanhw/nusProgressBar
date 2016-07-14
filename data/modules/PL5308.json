@@ -1,0 +1,24 @@
+{
+"moduleCode": "PL5308",
+"moduleTitle": "Advanced Cognitive Neuroscience",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "PL6204",
+"prerequisite": "Admission to the NUS psychology graduate program or approval by the lecturer",
+"preclusionList": [
+            "PL6204"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "PL5308", 
+            "children": []
+},
+"moduleDescription": "Over the last decades, the study of human cognition has extended its focus to include neuroimaging techniques such as electroencephalography (EEG), functional magnetic resonance imaging (fMRI), and transcranial magnetic stimulation (TMS) among others. This allowed researchers to investigate cognitive processes as they unfold in time and to relate these processes to neuronal structures and networks. In this module, students will review this research and critically evaluate whether and how it advanced our understanding of human cognition.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "PSYCHOLOGY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

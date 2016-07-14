@@ -1,0 +1,210 @@
+{
+"moduleCode": "MA3264",
+"moduleTitle": "Mathematical Modelling",
+"moduleCredit": "4",
+"lockedModules":[
+            "MA4272"
+        ],
+"preclusion": "MPE students.",
+"prerequisite": "MA1104 or MA1104S or MA1506 or MA2108 or MA2108S or MA2221 or MA1505 or MA2311",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " or ": [
+                "MA1104", 
+                "MA1104S", 
+                "MA1506", 
+                "MA2108", 
+                "MA2108S", 
+                "MA2221", 
+                "MA1505", 
+                "MA2311"
+            ]
+},
+"prerequisiteList": ["MA1104","MA1102","MA1102R","MA1505","MA1505C","MA1521","EE1401","EE1461","EG1402","MA1104S","MA1506","MA2108","MA1507","MA2108S","MA2221","MA2311","MA1312","MA1421"],
+"completePrerequisite": {
+            "name": "MA3264", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "MA1104", 
+                            "children": [
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "MA1102", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "MA1102R", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "MA1505", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "MA1505C", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "MA1521", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "EE1401", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "EE1461", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "EG1402", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "MA1104S", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "MA1506", 
+                            "children": [
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "MA1102R", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "MA1505", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "MA1521", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "MA2108", 
+                            "children": [
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "MA1102", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "MA1102R", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "MA1505", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "MA1505C", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "MA1507", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "MA1521", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "MA2108S", 
+                            "children": [
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "MA1102", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "MA1102R", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "MA1505", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "MA1505C", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "MA1507", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "MA1521", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "MA2221", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "MA1505", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "MA2311", 
+                            "children": [
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "MA1102R", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "MA1312", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "MA1421", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "MA1521", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "The objective of this course is to introduce the use of mathematics as an effective tool in solving real-world problems through mathematical modelling and analytical and/or numerical computations. By using examples in physical, engineering, biological and social sciences, we show how to convert real-world problems into mathematical equations through proper assumptions and physical laws. Qualitative analysis and analytical solutions for some models will be provided to interpret and explain qualitative and quantitative phenomena of the real-world problems. Major topics: Introduction of modelling; dynamic (or ODE) models: population models, pendulum motion; electrical networks, chemical reaction, etc; optimization and discrete models: profit of company, annuity, etc; probability models: president election poll, random walk, etc; Model analysis: dimensional analysis, equilibrium and stability, bifurcation, etc; and some typical applications.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCIENCE",
+"department": "MATHEMATICS",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

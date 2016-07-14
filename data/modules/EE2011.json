@@ -1,0 +1,64 @@
+{
+"moduleCode": "EE2011",
+"moduleTitle": "Engineering Electromagnetics",
+"moduleCredit": "4",
+"lockedModules":[
+            "EE3104C",
+            "PC2232",
+            "EE2032",
+            "ESP4302",
+            "PC3267"
+        ],
+"preclusion": "NIL",
+"prerequisite": "MA1505 and MA1506",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " and ": [
+                "MA1505", 
+                "MA1506"
+            ]
+},
+"prerequisiteList": ["MA1505","MA1506","MA1102R","MA1521"],
+"completePrerequisite": {
+            "name": "EE2011", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "MA1505", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "MA1506", 
+                            "children": [
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "MA1102R", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "MA1505", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "MA1521", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "Electromagnetic (EM) and transmission line theory is essential in all disciplines of electrical and computer engineering. EM theory is the fundamental basis for understanding transmission lines and electrical energy transmission. To understand and solve EM and transmission line problems encountered in electrical and computer engineering, rigorous analytical methods are required. At the end of this module, in addition to being able to solve EM and transmission line problems, the student will be able to design transmission line circuits, design electrical elements with lumped behaviour, and mitigate EM interference. To enhance understanding, case studies and computer visualisation tools will be used. Topics covered: Static electric and magnetic fields. Maxwell's equations. Electromagnetic waves: plane-wave propagation, behaviour at interface between media, shielding, electromagnetic compatability. Transmission lines. Impedance matching. Radiation. Case studies.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "ELECTRICAL & COMPUTER ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

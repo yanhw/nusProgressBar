@@ -1,0 +1,22 @@
+{
+"moduleCode": "LSM4255",
+"moduleTitle": "Methods in Mathematical Biology",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "GCE 'A' LEVEL OR H2 MATHEMATICS OR EQUIVALENT, OR MA1301 OR MA1301FC OR MA1301X",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "LSM4255", 
+            "children": []
+},
+"moduleDescription": "The use of mathematics has a long history in life sciences and familiarity with basic, relevant mathematical techniques is becoming increasingly important for biologists. This course will focus on both current and classical themes in mathematical biology and will emphasise the acquisition of mathematical skills of relevance to current problems in ecology, evolution and epidemiology.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCIENCE",
+"department": "BIOLOGICAL SCIENCES",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

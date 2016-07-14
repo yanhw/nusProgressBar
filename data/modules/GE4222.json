@@ -1,0 +1,22 @@
+{
+"moduleCode": "GE4222",
+"moduleTitle": "Advanced Geomorphology",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "Cohort 2011 and before: Completed 80 MCs, including 28 MCs in GE, with a minimum CAP of 3.50 or be on the Honours track. Cohort 2012 onwards: Completed 80 MCs, including 28 MCs in GE, with a minimum CAP of 3.20 or be on the Honours track.",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "GE4222", 
+            "children": []
+},
+"moduleDescription": "This course addresses the interactions between surface processes and landforms and landscapes. These interactions lead to physical, chemical and biological changes, which in turn create the current landscapes and the geological record of past landscapes. This focus is core to both physical geographical and geological communities, and also the wider geosciences.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "GEOGRAPHY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

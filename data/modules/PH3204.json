@@ -1,0 +1,24 @@
+{
+"moduleCode": "PH3204",
+"moduleTitle": "Issues in Indian Philosophy",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "SN3272",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "SN3272"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "PH3204", 
+            "children": []
+},
+"moduleDescription": "ISSUES IN INDIAN PHILOSOPHY",
+        "CrossModule": "SN3272", 
+"corequisite": "NIL",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "PHILOSOPHY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

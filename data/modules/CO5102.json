@@ -1,0 +1,26 @@
+{
+"moduleCode": "CO5102",
+"moduleTitle": "Principles Of Epidemiology",
+"moduleCredit": "4",
+"lockedModules":[
+            "SPH6003",
+            "CO5210",
+            "CO5214",
+            "CO5215"
+        ],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "CO5102", 
+            "children": []
+},
+"moduleDescription": "This module introduces students to the tools for describing the occurrence of disease, evaluating the cause of disease, and monitoring interventions to prevent or treat disease. Through didactic sessions, discussions and workshops, students learn how to measure health and its determinants, and acquire basic skills in the interpretation and design of observational and interventional studies. Practitioner-led seminars provide examples of the application of epidemiology to needs assessment, disease prevention and to health policy.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "SAW SWEE HOCK SCHOOL OF PUBLIC HEALTH",
+"department": "SAW SWEE HOCK SCHOOL OF PUBLIC HEALTH",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

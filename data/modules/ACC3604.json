@@ -1,0 +1,32 @@
+{
+"moduleCode": "ACC3604",
+"moduleTitle": "Corporate and Securities Law",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "Students who have passed FNA3122 or LL4055 are not allowed to take ACC3604.",
+"prerequisite": "BSP1004",
+"preclusionList": [
+            "LL4055",
+            "FNA3122"
+        ],
+"parsedPrerequisite": {
+" and ": ["BSP1004"]
+},
+"prerequisiteList": ["BSP1004"],
+"completePrerequisite": {
+            "name": "ACC3604", 
+            "children": [
+                {
+                    "name": "BSP1004", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "The primary aim of this course is to develop a solid understanding of the legal framework required in the operations of business entities especially companies. It covers the entire life-span of a business entity, namely from the formation of the entity to its liquidation. It also includes the various legal obligations and implications in operating the business entity. A secondary objective is to introduce the pertinent provisions of securities legislation such as the Securities &amp; Futures Act and the Takeover Code.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF BUSINESS",
+"department": "ACCOUNTING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

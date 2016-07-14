@@ -1,0 +1,713 @@
+{
+"moduleCode": "FIN4111",
+"moduleTitle": "Research Methods in Finance",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "Students who have passed FNA4111 are not allowed to take FIN4111. Not for students who have passed FE5209.",
+"prerequisite": "FNA3101/FIN3101/FIN3101A/FIN3101B/FIN3101C and FNA3102/FIN3102/FIN3102A/FIN3102B/FIN3102C and ST1131A/ST1131/ST1232/MA2216/ST2131/ST2334/EE2003/ME2491",
+"preclusionList": [
+            "FNA4111",
+            "FE5209"
+        ],
+"parsedPrerequisite": {
+            " and ": [
+                {
+                    " or ": [
+                        "FNA3101", 
+                        "FIN3101", 
+                        "FIN3101A", 
+                        "FIN3101B", 
+                        "FIN3101C"
+                    ]
+                }, 
+                {
+                    " or ": [
+                        "FNA3102", 
+                        "FIN3102", 
+                        "FIN3102A", 
+                        "FIN3102B", 
+                        "FIN3102C"
+                    ]
+                }, 
+                {
+                    " or ": [
+                        "ST1131A", 
+                        "ST1131", 
+                        "ST1232", 
+                        "MA2216", 
+                        "ST2131", 
+                        "ST2334", 
+                        "EE2003", 
+                        "ME2491"
+                    ]
+                }
+            ]
+},
+"prerequisiteList": ["FNA3101","FIN3101","FNA2004","FIN2004","BK1003","BZ1002","BH1002","FNA1002","ACC1002","FNA1002X","ACC1002X","FNA1002E","BH1002E","EC3212","EG1422","BH2004","BZ2004","BK2004","FIN3101A","FIN3101B","FIN3101C","FNA3102","FIN3102","FIN3102A","FIN3102B","FIN3102C","ST1131A","ST1131","ST1232","MA2216","MA1102","MA1102R","MA1312","MA1507","MA1505","MA1505C","MA1521","ST2131","ST2334","MA1306","EE2003","ME2491"],
+"completePrerequisite": {
+            "name": "FIN4111", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "or", 
+                            "children": [
+                                {
+                                    "name": "FNA3101", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "FIN3101", 
+                                    "children": [
+                                        {
+                                            "name": "or", 
+                                            "children": [
+                                                {
+                                                    "name": "FNA2004", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "FIN2004", 
+                                                    "children": [
+                                                        {
+                                                            "name": "or", 
+                                                            "children": [
+                                                                {
+                                                                    "name": "BK1003", 
+                                                                    "children": []
+                                                                }, 
+                                                                {
+                                                                    "name": "BZ1002", 
+                                                                    "children": []
+                                                                }, 
+                                                                {
+                                                                    "name": "BH1002", 
+                                                                    "children": []
+                                                                }, 
+                                                                {
+                                                                    "name": "FNA1002", 
+                                                                    "children": []
+                                                                }, 
+                                                                {
+                                                                    "name": "ACC1002", 
+                                                                    "children": []
+                                                                }, 
+                                                                {
+                                                                    "name": "FNA1002X", 
+                                                                    "children": []
+                                                                }, 
+                                                                {
+                                                                    "name": "ACC1002X", 
+                                                                    "children": []
+                                                                }, 
+                                                                {
+                                                                    "name": "FNA1002E", 
+                                                                    "children": []
+                                                                }, 
+                                                                {
+                                                                    "name": "BH1002E", 
+                                                                    "children": []
+                                                                }, 
+                                                                {
+                                                                    "name": "EC3212", 
+                                                                    "children": []
+                                                                }, 
+                                                                {
+                                                                    "name": "EG1422", 
+                                                                    "children": []
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }, 
+                                                {
+                                                    "name": "BH2004", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "BZ2004", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "BK2004", 
+                                                    "children": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }, 
+                                {
+                                    "name": "FIN3101A", 
+                                    "children": [
+                                        {
+                                            "name": "or", 
+                                            "children": [
+                                                {
+                                                    "name": "FNA2004", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "FIN2004", 
+                                                    "children": [
+                                                        {
+                                                            "name": "or", 
+                                                            "children": [
+                                                                {
+                                                                    "name": "BK1003", 
+                                                                    "children": []
+                                                                }, 
+                                                                {
+                                                                    "name": "BZ1002", 
+                                                                    "children": []
+                                                                }, 
+                                                                {
+                                                                    "name": "BH1002", 
+                                                                    "children": []
+                                                                }, 
+                                                                {
+                                                                    "name": "FNA1002", 
+                                                                    "children": []
+                                                                }, 
+                                                                {
+                                                                    "name": "ACC1002", 
+                                                                    "children": []
+                                                                }, 
+                                                                {
+                                                                    "name": "FNA1002X", 
+                                                                    "children": []
+                                                                }, 
+                                                                {
+                                                                    "name": "ACC1002X", 
+                                                                    "children": []
+                                                                }, 
+                                                                {
+                                                                    "name": "FNA1002E", 
+                                                                    "children": []
+                                                                }, 
+                                                                {
+                                                                    "name": "BH1002E", 
+                                                                    "children": []
+                                                                }, 
+                                                                {
+                                                                    "name": "EC3212", 
+                                                                    "children": []
+                                                                }, 
+                                                                {
+                                                                    "name": "EG1422", 
+                                                                    "children": []
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }, 
+                                                {
+                                                    "name": "BH2004", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "BZ2004", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "BK2004", 
+                                                    "children": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }, 
+                                {
+                                    "name": "FIN3101B", 
+                                    "children": [
+                                        {
+                                            "name": "or", 
+                                            "children": [
+                                                {
+                                                    "name": "FNA2004", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "FIN2004", 
+                                                    "children": [
+                                                        {
+                                                            "name": "or", 
+                                                            "children": [
+                                                                {
+                                                                    "name": "BK1003", 
+                                                                    "children": []
+                                                                }, 
+                                                                {
+                                                                    "name": "BZ1002", 
+                                                                    "children": []
+                                                                }, 
+                                                                {
+                                                                    "name": "BH1002", 
+                                                                    "children": []
+                                                                }, 
+                                                                {
+                                                                    "name": "FNA1002", 
+                                                                    "children": []
+                                                                }, 
+                                                                {
+                                                                    "name": "ACC1002", 
+                                                                    "children": []
+                                                                }, 
+                                                                {
+                                                                    "name": "FNA1002X", 
+                                                                    "children": []
+                                                                }, 
+                                                                {
+                                                                    "name": "ACC1002X", 
+                                                                    "children": []
+                                                                }, 
+                                                                {
+                                                                    "name": "FNA1002E", 
+                                                                    "children": []
+                                                                }, 
+                                                                {
+                                                                    "name": "BH1002E", 
+                                                                    "children": []
+                                                                }, 
+                                                                {
+                                                                    "name": "EC3212", 
+                                                                    "children": []
+                                                                }, 
+                                                                {
+                                                                    "name": "EG1422", 
+                                                                    "children": []
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }, 
+                                                {
+                                                    "name": "BH2004", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "BZ2004", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "BK2004", 
+                                                    "children": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }, 
+                                {
+                                    "name": "FIN3101C", 
+                                    "children": []
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "or", 
+                            "children": [
+                                {
+                                    "name": "FNA3102", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "FIN3102", 
+                                    "children": [
+                                        {
+                                            "name": "or", 
+                                            "children": [
+                                                {
+                                                    "name": "FNA2004", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "FIN2004", 
+                                                    "children": [
+                                                        {
+                                                            "name": "or", 
+                                                            "children": [
+                                                                {
+                                                                    "name": "BK1003", 
+                                                                    "children": []
+                                                                }, 
+                                                                {
+                                                                    "name": "BZ1002", 
+                                                                    "children": []
+                                                                }, 
+                                                                {
+                                                                    "name": "BH1002", 
+                                                                    "children": []
+                                                                }, 
+                                                                {
+                                                                    "name": "FNA1002", 
+                                                                    "children": []
+                                                                }, 
+                                                                {
+                                                                    "name": "ACC1002", 
+                                                                    "children": []
+                                                                }, 
+                                                                {
+                                                                    "name": "FNA1002X", 
+                                                                    "children": []
+                                                                }, 
+                                                                {
+                                                                    "name": "ACC1002X", 
+                                                                    "children": []
+                                                                }, 
+                                                                {
+                                                                    "name": "FNA1002E", 
+                                                                    "children": []
+                                                                }, 
+                                                                {
+                                                                    "name": "BH1002E", 
+                                                                    "children": []
+                                                                }, 
+                                                                {
+                                                                    "name": "EC3212", 
+                                                                    "children": []
+                                                                }, 
+                                                                {
+                                                                    "name": "EG1422", 
+                                                                    "children": []
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }, 
+                                                {
+                                                    "name": "BH2004", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "BZ2004", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "BK2004", 
+                                                    "children": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }, 
+                                {
+                                    "name": "FIN3102A", 
+                                    "children": [
+                                        {
+                                            "name": "or", 
+                                            "children": [
+                                                {
+                                                    "name": "FNA2004", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "FIN2004", 
+                                                    "children": [
+                                                        {
+                                                            "name": "or", 
+                                                            "children": [
+                                                                {
+                                                                    "name": "BK1003", 
+                                                                    "children": []
+                                                                }, 
+                                                                {
+                                                                    "name": "BZ1002", 
+                                                                    "children": []
+                                                                }, 
+                                                                {
+                                                                    "name": "BH1002", 
+                                                                    "children": []
+                                                                }, 
+                                                                {
+                                                                    "name": "FNA1002", 
+                                                                    "children": []
+                                                                }, 
+                                                                {
+                                                                    "name": "ACC1002", 
+                                                                    "children": []
+                                                                }, 
+                                                                {
+                                                                    "name": "FNA1002X", 
+                                                                    "children": []
+                                                                }, 
+                                                                {
+                                                                    "name": "ACC1002X", 
+                                                                    "children": []
+                                                                }, 
+                                                                {
+                                                                    "name": "FNA1002E", 
+                                                                    "children": []
+                                                                }, 
+                                                                {
+                                                                    "name": "BH1002E", 
+                                                                    "children": []
+                                                                }, 
+                                                                {
+                                                                    "name": "EC3212", 
+                                                                    "children": []
+                                                                }, 
+                                                                {
+                                                                    "name": "EG1422", 
+                                                                    "children": []
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }, 
+                                                {
+                                                    "name": "BH2004", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "BZ2004", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "BK2004", 
+                                                    "children": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }, 
+                                {
+                                    "name": "FIN3102B", 
+                                    "children": [
+                                        {
+                                            "name": "or", 
+                                            "children": [
+                                                {
+                                                    "name": "FNA2004", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "FIN2004", 
+                                                    "children": [
+                                                        {
+                                                            "name": "or", 
+                                                            "children": [
+                                                                {
+                                                                    "name": "BK1003", 
+                                                                    "children": []
+                                                                }, 
+                                                                {
+                                                                    "name": "BZ1002", 
+                                                                    "children": []
+                                                                }, 
+                                                                {
+                                                                    "name": "BH1002", 
+                                                                    "children": []
+                                                                }, 
+                                                                {
+                                                                    "name": "FNA1002", 
+                                                                    "children": []
+                                                                }, 
+                                                                {
+                                                                    "name": "ACC1002", 
+                                                                    "children": []
+                                                                }, 
+                                                                {
+                                                                    "name": "FNA1002X", 
+                                                                    "children": []
+                                                                }, 
+                                                                {
+                                                                    "name": "ACC1002X", 
+                                                                    "children": []
+                                                                }, 
+                                                                {
+                                                                    "name": "FNA1002E", 
+                                                                    "children": []
+                                                                }, 
+                                                                {
+                                                                    "name": "BH1002E", 
+                                                                    "children": []
+                                                                }, 
+                                                                {
+                                                                    "name": "EC3212", 
+                                                                    "children": []
+                                                                }, 
+                                                                {
+                                                                    "name": "EG1422", 
+                                                                    "children": []
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }, 
+                                                {
+                                                    "name": "BH2004", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "BZ2004", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "BK2004", 
+                                                    "children": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }, 
+                                {
+                                    "name": "FIN3102C", 
+                                    "children": []
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "or", 
+                            "children": [
+                                {
+                                    "name": "ST1131A", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "ST1131", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "ST1232", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "MA2216", 
+                                    "children": [
+                                        {
+                                            "name": "or", 
+                                            "children": [
+                                                {
+                                                    "name": "MA1102", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MA1102R", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MA1312", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MA1507", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MA1505", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MA1505C", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MA1521", 
+                                                    "children": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }, 
+                                {
+                                    "name": "ST2131", 
+                                    "children": [
+                                        {
+                                            "name": "or", 
+                                            "children": [
+                                                {
+                                                    "name": "MA1102", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MA1102R", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MA1312", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MA1507", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MA1505", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MA1505C", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MA1521", 
+                                                    "children": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }, 
+                                {
+                                    "name": "ST2334", 
+                                    "children": [
+                                        {
+                                            "name": "or", 
+                                            "children": [
+                                                {
+                                                    "name": "MA1306", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MA1102", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MA1102R", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MA1505", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MA1505C", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MA1521", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MA1312", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MA1507", 
+                                                    "children": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }, 
+                                {
+                                    "name": "EE2003", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "ME2491", 
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This is a research methodology course for BBA (Hons.) students majoring in Finance. The purpose of the course is to introduce students to empirical methods of research in Finance. Topics covered include Multivariate Regression Analysis, Univariate Time Series Models, Vector Autoregressive Models, Generalized Autoregressive Conditional Heteroskedasticity, Cointegration, Regime Switching, and Generalized Methods of Moments Estimation. The course examines some applications of these methods to various research areas in finance namely, the Statistical Properties of Prices and Asset Returns, the Efficient Market Hypothesis, Predictability of Returns, Stock Market Volatility, International Stock Markets, Models of Volatility, and Asset Pricing Tests.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF BUSINESS",
+"department": "FINANCE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

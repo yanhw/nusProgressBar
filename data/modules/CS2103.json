@@ -1,0 +1,48 @@
+{
+"moduleCode": "CS2103",
+"moduleTitle": "Software Engineering",
+"moduleCredit": "4",
+"lockedModules":[
+            "CP3101A",
+            "CS3219",
+            "CS3216",
+            "CS3217",
+            "CS5232",
+            "CS3201",
+            "CS4211",
+            "CS3283",
+            "CS4239",
+            "CP3880",
+            "CS3281",
+            "CS3202",
+            "CS3249",
+            "CG3002"
+        ],
+"preclusion": "Science students majoring in Computational Finance, are not allowed to read it as CFM/Breadth. EEE and CPE students can only take this module as a technical elective to satisfy the program requirements or UEM but not CFM/ULR-Breadth.",
+"prerequisite": "(CS1020 or its equivalent)",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["CS1020"]
+},
+"prerequisiteList": ["CS1020","CS1010"],
+"completePrerequisite": {
+            "name": "CS2103", 
+            "children": [
+                {
+                    "name": "CS1020", 
+                    "children": [
+                        {
+                            "name": "CS1010", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module introduces the necessary conceptual and analytical tools for systematic and rigorous development of software systems. It covers four main areas of software development, namely object-oriented system analysis, object-oriented system modelling and design, implementation, and testing, with emphasis on system modelling and design and implementation of software modules that work cooperatively to fulfill the requirements of the system. Tools and techniques for software development, such as Unified Modelling Language (UML), program specification, and testing methods, will be taught. Major software engineering issues such as modularisation criteria, program correctness, and software quality will also be covered.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF COMPUTING",
+"department": "COMPUTER SCIENCE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

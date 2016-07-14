@@ -1,0 +1,89 @@
+{
+"moduleCode": "PL3248",
+"moduleTitle": "Learning and Conditioning",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "PL1101E, PL2131, PL2132, and PL3232 or PL3233",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " and ": [
+                "PL1101E", 
+                "PL2131", 
+                "PL2132", 
+                {
+                    " or ": [
+                        "PL3232", 
+                        "PL3233"
+                    ]
+                }
+            ]
+},
+"prerequisiteList": ["PL1101E","PL2131","PL2132","PL3232","PL3233"],
+"completePrerequisite": {
+            "name": "PL3248", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "PL1101E", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "PL2131", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "PL2132", 
+                            "children": [
+                                {
+                                    "name": "and", 
+                                    "children": [
+                                        {
+                                            "name": "PL1101E", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "PL2131", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "or", 
+                            "children": [
+                                {
+                                    "name": "PL3232", 
+                                    "children": [
+                                        {
+                                            "name": "PL1101E", 
+                                            "children": []
+                                        }
+                                    ]
+                                }, 
+                                {
+                                    "name": "PL3233", 
+                                    "children": [
+                                        {
+                                            "name": "PL1101E", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "Learning is a fundamental area of psychology and everyday life. This module focuses on how humans and other animals learn information, for example associations between different stimuli in their environment, or between their actions and the outcomes of those actions. The concepts of classical (Pavlovian) conditioning and instrumental (operant) conditioning will be introduced, alongside various learning phenomena (e.g. acquisition, extinction, spontaneous recovery, overshadowing, blocking, sensory preconditioning, latent inhibition). While some mathematical learning theories such as the Rescorla-Wagner model will be discussed, an effort will be made to relate these more abstract concepts to adaptive everyday life functioning as well as clinical issues such as anxiety disorders, addiction and behavioural therapy.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "PSYCHOLOGY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

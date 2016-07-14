@@ -1,0 +1,97 @@
+{
+"moduleCode": "ME4245",
+"moduleTitle": "Robot Mechanics and Control",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "MA1506/ME2142 for ME students EE2010 / EE3331C for ECE students",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " or ": [
+                "ME2142", 
+                "EE2010", 
+                "EE3331C"
+            ]
+},
+"prerequisiteList": ["ME2142","MA1506","MA1102R","MA1505","MA1521","EE2010","EE3331C","EE2023"],
+"completePrerequisite": {
+            "name": "ME4245", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "ME2142", 
+                            "children": [
+                                {
+                                    "name": "MA1506", 
+                                    "children": [
+                                        {
+                                            "name": "or", 
+                                            "children": [
+                                                {
+                                                    "name": "MA1102R", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MA1505", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MA1521", 
+                                                    "children": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "EE2010", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "EE3331C", 
+                            "children": [
+                                {
+                                    "name": "EE2023", 
+                                    "children": [
+                                        {
+                                            "name": "MA1506", 
+                                            "children": [
+                                                {
+                                                    "name": "or", 
+                                                    "children": [
+                                                        {
+                                                            "name": "MA1102R", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "MA1505", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "MA1521", 
+                                                            "children": []
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "The module facilitates the learning of the fundamentals of robotic manipulators for students to appreciate and understand their design and applications. Successful completion allows student to formulate the kinematics and dynamics of robotic manipulators consisting of a serial chain of rigid bodies and implement control algorithms with sensory feedback. The module is targeted at upper level undergraduates who have completed fundamental mathematics, mechanics, and control modules. Students will also gain a basic appreciation of the complexity in the control architecture and manipulator structure typical to new-generation robots.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "MECHANICAL ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

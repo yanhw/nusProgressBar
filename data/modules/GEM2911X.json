@@ -1,0 +1,25 @@
+{
+"moduleCode": "GEM2911X",
+"moduleTitle": "Committed to Changing Our World: Dana Meadows\u2019 Legacy",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "GEM2911 UTC2706",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "UTC2706",
+            "GEM2911"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "GEM2911X", 
+            "children": []
+},
+"moduleDescription": "For those seeking mastery of systems thinking and system dynamics modeling, to serve our human species, Donella (Dana) Meadows\u2019 life and work seem uniquely suited to inspire and guide. Her work sets disciplined high standards in multiple areas: systems modeling, systems thinking, modeling methodologies and environmental journalism. She created resilient communities that embodied her values. Mastering skills and practices her work exemplifies will empower students to become proficient disciplined, humane systems citizens, capable of envisioning and traversing life paths that make a difference.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "NON-FACULTY-BASED DEPARTMENTS",
+"department": "RESIDENTIAL COLLEGE 4",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

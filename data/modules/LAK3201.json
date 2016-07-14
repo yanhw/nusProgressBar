@@ -1,0 +1,36 @@
+{
+"moduleCode": "LAK3201",
+"moduleTitle": "Korean 3",
+"moduleCredit": "4",
+"lockedModules":[
+            "LAK3202",
+            "LAK3203"
+        ],
+"preclusion": "NIL",
+"prerequisite": "Passed LAK2201 Korea 2 or by placement test.",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["LAK2201"]
+},
+"prerequisiteList": ["LAK2201","LAK1201"],
+"completePrerequisite": {
+            "name": "LAK3201", 
+            "children": [
+                {
+                    "name": "LAK2201", 
+                    "children": [
+                        {
+                            "name": "LAK1201", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "Korean 3 is a continuation of Korean 2. It is an integrated module which will help students gain intermediate proficiency in the four skills (listening, speaking, reading, and writing), grammar, and vocabulary, for personal interaction and communication in authentic situations.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "CENTRE FOR LANGUAGE STUDIES",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

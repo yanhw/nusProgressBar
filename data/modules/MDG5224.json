@@ -1,0 +1,22 @@
+{
+"moduleCode": "MDG5224",
+"moduleTitle": "Animal Models of Human Diseases",
+"moduleCredit": "2",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "MDG5224", 
+            "children": []
+},
+"moduleDescription": "This 2MC module is designed to introduce students to commonly-used animal replica of key human diseases including cancer, muscular diseases, neurological and immune disorders. Major topics to be covered include nonmammalian models as well as rodent and non-human primate models of human diseases, with an emphasis of mammalian disease models. The final lecture will be conducted by a representative from the Pharmaceutical industry (e.g. GSK-Singapore) on how animal disease models are used in drug discovery.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "YONG LOO LIN SCHOOL OF MEDICINE",
+"department": "DEAN'S OFFICE (MEDICINE)",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

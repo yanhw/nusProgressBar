@@ -1,0 +1,94 @@
+{
+"moduleCode": "LSM3225",
+"moduleTitle": "Molecular Microbiology in Human Diseases",
+"moduleCredit": "4",
+"lockedModules":[
+            "LSM4223",
+            "LSM4226"
+        ],
+"preclusion": "NIL",
+"prerequisite": "LSM2101 or LSM2102 or LSM2103",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " or ": [
+                "LSM2101", 
+                "LSM2102", 
+                "LSM2103"
+            ]
+},
+"prerequisiteList": ["LSM2101","LSM1101","LSM1401","LSM2102","LSM1102","LSM2103"],
+"completePrerequisite": {
+            "name": "LSM3225", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "LSM2101", 
+                            "children": [
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "LSM1101", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "LSM1401", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "LSM2102", 
+                            "children": [
+                                {
+                                    "name": "and", 
+                                    "children": [
+                                        {
+                                            "name": "LSM1401", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "LSM1102", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "LSM2103", 
+                            "children": [
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "LSM1101", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "LSM1401", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "LSM1102", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "With the application of advanced technologies in molecular biology to the study of microorganisms, there are many implications on how we can identify and detect microbes, as well as treat and prevent diseases caused by both existing and newly emerged pathogens. In this course, the students will be taught the molecular principles of the physiological processes involved in the life cycle of different types of microbes and how these affect human health and disease.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "YONG LOO LIN SCHOOL OF MEDICINE",
+"department": "MICROBIOLOGY & IMMUNOLOGY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

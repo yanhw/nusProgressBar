@@ -1,0 +1,23 @@
+{
+"moduleCode": "YLC1201",
+"moduleTitle": "Beginning Chinese 1",
+"moduleCredit": "5",
+"lockedModules":[
+            "YLC2201"
+        ],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "YLC1201", 
+            "children": []
+},
+"moduleDescription": "A Beginning Chinese course in listening, speaking, reading, and writing in Modern Standard Chinese. The student will learn pinyin, basic grammar, and a limited set of characters to understand basic everyday conversations and elementary readings. The course is designed for the absolute beginners and intended primarily for non-heritage students with no previous exposure to Chinese.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "YALE-NUS COLLEGE",
+"department": "YALE-NUS COLLEGE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

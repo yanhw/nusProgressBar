@@ -1,0 +1,34 @@
+{
+"moduleCode": "CE3115",
+"moduleTitle": "Geotechnical Engineering",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "CE2112",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["CE2112"]
+},
+"prerequisiteList": ["CE2112","EG1109"],
+"completePrerequisite": {
+            "name": "CE3115", 
+            "children": [
+                {
+                    "name": "CE2112", 
+                    "children": [
+                        {
+                            "name": "EG1109", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This is an introductory module in slope stability and earth retaining structures. The topics covered include slopes and embankments, earth pressure and retaining structures, and deep excavations. Students will learn how to check ultimate limit states using limit equilibrium methods and appreciate that such checks are necessary but not sufficient (serviceability to be discussed in advanced modules). The goal is to teach an assessment of force and/or moment equilibrium for slopes, calculation of active and passive earth pressures, and appreciation of various important design considerations pertaining to deep excavations.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "CIVIL & ENVIRONMENTAL ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

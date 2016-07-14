@@ -1,0 +1,24 @@
+{
+"moduleCode": "EN2203",
+"moduleTitle": "Introduction to Film Studies",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "EN2113",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "EN2113"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "EN2203", 
+            "children": []
+},
+"moduleDescription": "This module introduces the critical terms and methods required for reading and writing about films, performances, advertising, and other related cultural texts. It seeks to develop skills in the close reading of such texts, and in writing considered critical responses to them.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "ENGLISH LANGUAGE & LITERATURE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

@@ -1,0 +1,25 @@
+{
+"moduleCode": "GEH1011",
+"moduleTitle": "Film and History",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "HY2243 and GEM2005",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "HY2243",
+            "GEM2005"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "GEH1011", 
+            "children": []
+},
+"moduleDescription": "Through a study of film this module will examine the interpretation of history in film, and contrast filmic representation of history with printed sources. Students will critically evaluate a set of issues regarding film and history such as: What light do films shed on the past? How reliable are films as the grounds for making inferences about the past? What are the similarities and differences in the criteria for the critical evaluation of historical films and the historian's accounts of the past? The module is for students with an interest in film as a form of social expression.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "HISTORY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

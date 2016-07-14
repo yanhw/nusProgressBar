@@ -1,0 +1,46 @@
+{
+"moduleCode": "EE3701",
+"moduleTitle": "Digital Media Technologies",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "CS1010FC/CS1010E/CG1101",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " or ": [
+                "CS1010F", 
+                "CS1010E", 
+                "CG1101"
+            ]
+},
+"prerequisiteList": ["CS1010F","CS1010E","CG1101"],
+"completePrerequisite": {
+            "name": "EE3701", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "CS1010F", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "CS1010E", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "CG1101", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module provides a broad view of the state-of-the-art in digital media technologies. The major topics covered are: business &amp; market environment, film production technologies, TV technology, audio production, mobile media technologies, human-computer interaction and user interface design, virtual reality, mixed reality, and tangible media.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "ENGINEERING",
+"department": "ELECTRICAL & COMPUTER ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,0,3,0,]]
+}

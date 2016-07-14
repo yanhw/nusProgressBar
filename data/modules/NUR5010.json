@@ -1,0 +1,22 @@
+{
+"moduleCode": "NUR5010",
+"moduleTitle": "Principles and Practice of Case Management",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "NUR5010", 
+            "children": []
+},
+"moduleDescription": "This module is designed to provide an understanding of case management process and grounding skills needed to facilitate all aspects of case planning, ranging from the initial client assessment through to case closure protocols. It is also designed to equip the students with the skills needed for leadership in casework practice.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "YONG LOO LIN SCHOOL OF MEDICINE",
+"department": "NURSING/ALICE LEE CTR FOR NURSING STUD",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

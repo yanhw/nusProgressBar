@@ -1,0 +1,22 @@
+{
+"moduleCode": "BMA5407",
+"moduleTitle": "Managing Human Capital",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "BMA5407", 
+            "children": []
+},
+"moduleDescription": "This module discusses basic theories, concepts, practices and current issues in the management of huma capital in organizations. Topics include attracting, retaining, motivating and rewarding human capital. It will also discuss the impact of globalization on human capital, global flow and cross-cultural management of human capital",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF BUSINESS",
+"department": "DEAN'S OFFICE (BIZ)",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

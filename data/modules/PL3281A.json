@@ -1,0 +1,70 @@
+{
+"moduleCode": "PL3281A",
+"moduleTitle": "Lab in Perception and Attention",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "PL1101E, PL2131, PL2132 and PL3233",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " and ": [
+                "PL1101E", 
+                "PL2131", 
+                "PL2132", 
+                "PL3233"
+            ]
+},
+"prerequisiteList": ["PL1101E","PL2131","PL2132","PL3233"],
+"completePrerequisite": {
+            "name": "PL3281A", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "PL1101E", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "PL2131", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "PL2132", 
+                            "children": [
+                                {
+                                    "name": "and", 
+                                    "children": [
+                                        {
+                                            "name": "PL1101E", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "PL2131", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "PL3233", 
+                            "children": [
+                                {
+                                    "name": "PL1101E", 
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "The focus of this lab will be perception and attention. Students will be introduced to the different methodologies used in cognitive research such as classical psychophysics, signal detection theory, and reaction time paradigms. Selected topics on perception and attention will be used to illustrate these methods.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "PSYCHOLOGY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

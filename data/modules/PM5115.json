@@ -1,0 +1,23 @@
+{
+"moduleCode": "PM5115",
+"moduleTitle": "Project Finance Contracts and Agreements",
+"moduleCredit": "4",
+"lockedModules":[
+            "PM5116"
+        ],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "PM5115", 
+            "children": []
+},
+"moduleDescription": "This module provides an understanding of aspects of different project finance contracts and agreements. It covers the issues of risk management through contractual terms, duties and liabilities of lenders and borrowers, dispute management and contractual remedies, and issues relating to international contracts.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF DESIGN AND ENVIRONMENT",
+"department": "BUILDING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

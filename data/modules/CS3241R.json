@@ -1,0 +1,22 @@
+{
+"moduleCode": "CS3241R",
+"moduleTitle": "Computer Graphics",
+"moduleCredit": "1",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "Co-read with host module in current semester or pass host module in previous semester. Student selection process is enforced.",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "CS3241R", 
+            "children": []
+},
+"moduleDescription": "This module teaches some graphics hardware devices, reviews the mathematics related to the understanding, and discusses the fundamental areas of computer graphics. After completing the course, students are expected to understand the basic computer graphics terminology and concepts, and to be able to design and implement simple 2D and 3D interactive computer graphics related programs. As an enrichment part of the course, students are introduced the state-of-the-art development in computer graphics by viewing interesting video clips and experimenting with demo program made available in the course web.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "SCHOOL OF COMPUTING",
+"department": "COMPUTER SCIENCE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

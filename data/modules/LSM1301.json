@@ -1,0 +1,30 @@
+{
+"moduleCode": "LSM1301",
+"moduleTitle": "General Biology",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "MUST NOT HAVE GCE \u2018A\u2019 LEVEL OR H2 BIOLOGY OR EQUIVALENT. CANNOT READ CONCURRENTLY WITH LSM1101, LSM1102, LSM1103, LSM1104 AND LSM1202. STUDENT MUST NOT HAVE PASSED LSM1301FC or LSM1301X.",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "LSM1301X",
+            "LSM1202",
+            "LSM1301F",
+            "LSM1104",
+            "LSM1101",
+            "LSM1103",
+            "LSM1102"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "LSM1301", 
+            "children": []
+},
+"moduleDescription": "This is an introductory module that explores what a living thing is, the basics of life, and the science behind it. The course will introduce the chemistry of life and the unit of life. The question of how traits are inherited will be discussed and the field of biotechnology, including its applications and the ethical issues involved be will introduced. The diversity of life on earth will be explored, with discussions how life on earth possibly came about and how biologists try to classify and make sense of the diversity. The course will also introduce the concept of life functions from cells to tissues and from organs to systems. The concept of how organisms maintain their internal constancy and organisation of major organ systems will be discussed. The focus will be to introduce the unifying concepts in biology and how they play a role in everyday life.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCIENCE",
+"department": "BIOLOGICAL SCIENCES",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

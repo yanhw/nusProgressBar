@@ -1,0 +1,22 @@
+{
+"moduleCode": "NM3222",
+"moduleTitle": "Interactive Storytelling",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "NM3222", 
+            "children": []
+},
+"moduleDescription": "Interactive storytelling is a new field of research and experimentation with great potential for changing the face of game and new media industries in entertainment and education. The objective of the course is to discuss, in theoretical and abstract terms, basic concepts of interactive storytelling, and explore new perspectives on narrative and narrativity as a \"conversation\"between the interactive story environment and the user. The course will consider the creative and technical challenges to implementing interactive storytelling within virtual story worlds.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "COMMUNICATIONS AND NEW MEDIA",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

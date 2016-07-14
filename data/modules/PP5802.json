@@ -1,0 +1,22 @@
+{
+"moduleCode": "PP5802",
+"moduleTitle": "Policy Analysis",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "PP5802", 
+            "children": []
+},
+"moduleDescription": "Public sector managers are frequently confronted with decisions about whether or not to initiate, continue, modify, or terminate policies or programs, and the knowledge and skills in policy analysis and program evaluation are essential for them to make intelligent choices. The module will cover important considerations in conducting policy analysis and evaluation, such as identifying policy problems, establishing criteria, assessing policy alternatives, choosing among policies, and evaluating policy impacts.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "LEE KUAN YEW SCHOOL OF PUBLIC POLICY",
+"department": "LEE KUAN YEW SCHOOL OF PUBLIC POLICY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

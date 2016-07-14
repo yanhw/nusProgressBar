@@ -1,0 +1,46 @@
+{
+"moduleCode": "CE3165",
+"moduleTitle": "Structural Concrete Design",
+"moduleCredit": "4",
+"lockedModules":[
+            "CE5510",
+            "CE5610",
+            "CE5611"
+        ],
+"preclusion": "NIL",
+"prerequisite": "CE2155 Structural Mechanics and Materials",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["CE2155"]
+},
+"prerequisiteList": ["CE2155","EG1109F","EG1109"],
+"completePrerequisite": {
+            "name": "CE3165", 
+            "children": [
+                {
+                    "name": "CE2155", 
+                    "children": [
+                        {
+                            "name": "or", 
+                            "children": [
+                                {
+                                    "name": "EG1109F", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "EG1109", 
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module equips students with knowledge and skills in the design of structural concrete members and systems. The topics cover basic design for action effects as well as the serviceability and ultimate limit state design of real-life structures. The module is compulsory for civil engineering undergraduate students without which he will not be qualified to practise as a professional civil engineer.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "CIVIL & ENVIRONMENTAL ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

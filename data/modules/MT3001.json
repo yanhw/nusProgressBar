@@ -1,0 +1,22 @@
+{
+"moduleCode": "MT3001",
+"moduleTitle": "Systems Thinking and Engineering",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "MT3001", 
+            "children": []
+},
+"moduleDescription": "This module offers students a foundation for analysing diverse elements of a complex problem as a coherent, interacting system. The major topics covered include comparison of reductionist to systems thinking, characteristics of systems thinking, frameworks and tools of Systems Thinking and Systems Engineering, applied in the context of Engineering and Technology Management.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "DIVISION OF ENGINEERING AND TECH MGT",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

@@ -1,0 +1,66 @@
+{
+"moduleCode": "PC4241",
+"moduleTitle": "Statistical Mechanics",
+"moduleCredit": "4",
+"lockedModules":[
+            "PC5202"
+        ],
+"preclusion": "NIL",
+"prerequisite": "PC2230 or Departmental Approval",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["PC2230"]
+},
+"prerequisiteList": ["PC2230","PC1431F","PC1431X","PC1433","MA1505","MA1507"],
+"completePrerequisite": {
+            "name": "PC4241", 
+            "children": [
+                {
+                    "name": "PC2230", 
+                    "children": [
+                        {
+                            "name": "and", 
+                            "children": [
+                                {
+                                    "name": "PC1431F", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "PC1431X", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "PC1433", 
+                                            "children": []
+                                        }
+                                    ]
+                                }, 
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "MA1505", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "MA1507", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module presents the fundamentals of statistical mechanics. Starting with the classical and quantum postulates, the three ensembles of Gibbs are derived. The statistical interpretation of thermodynamics then follows. The thermodynamic quantities are obtained in terms of the number of states, partition and grand partition functions. Applications to independent electron systems, with and without magnetic field, and Bose-Einstein condensation are given. The course ends with a brief introduction to phase transitions. This module is targeted at physics students with at least one year of thermal physics.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCIENCE",
+"department": "PHYSICS",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

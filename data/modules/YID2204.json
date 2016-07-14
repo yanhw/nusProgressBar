@@ -1,0 +1,29 @@
+{
+"moduleCode": "YID2204",
+"moduleTitle": "Ecological Economics",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "YID1201 Introduction to Environmental Studies",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["YID1201"]
+},
+"prerequisiteList": ["YID1201"],
+"completePrerequisite": {
+            "name": "YID2204", 
+            "children": [
+                {
+                    "name": "YID1201", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "An introduction to the interdisciplinary field of ecological economics, which integrates ecological principles into traditional economic theory. We will examine the historical development of economics as a discipline, explore the differences between ecological and environmental economics, and investigate a set of cases using principles in ecological economics. This course will include concepts from other fields, especially physics, philosophy, ecology, and public policy.",
+"crossModule": "-1",
+"corequisite": "YID1201  Introduction to Environmental Studies",
+"faculty": "YALE-NUS COLLEGE",
+"department": "YALE-NUS COLLEGE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

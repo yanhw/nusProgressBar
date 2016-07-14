@@ -1,0 +1,62 @@
+{
+"moduleCode": "PC4274",
+"moduleTitle": "Mathematical Methods in Physics III",
+"moduleCredit": "4",
+"lockedModules":[
+            "PC5204B"
+        ],
+"preclusion": "NIL",
+"prerequisite": "Students who have passed PC3274",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["PC3274"]
+},
+"prerequisiteList": ["PC3274","MA1505","MA1506","MA1102R","MA1521"],
+"completePrerequisite": {
+            "name": "PC4274", 
+            "children": [
+                {
+                    "name": "PC3274", 
+                    "children": [
+                        {
+                            "name": "and", 
+                            "children": [
+                                {
+                                    "name": "MA1505", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "MA1506", 
+                                    "children": [
+                                        {
+                                            "name": "or", 
+                                            "children": [
+                                                {
+                                                    "name": "MA1102R", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MA1505", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MA1521", 
+                                                    "children": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module introduces advanced mathematical methods that are essential in many areas of theoretical physics. The topics covered are: tensor analysis, applications to classical mechanics, electrodynamics, and relativity; differentiable manifolds, curved manifolds, tangent and dual spaces, calculus of differential forms, Stokes' theorem, and applications to electromagnetic theory; symmetries of manifolds, Lie derivatives and Lie groups, and their physical applications. The module is targeted at students who wish to study theoretical physics.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCIENCE",
+"department": "PHYSICS",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,4,]]
+}

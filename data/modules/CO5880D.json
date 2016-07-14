@@ -1,0 +1,25 @@
+{
+"moduleCode": "CO5880D",
+"moduleTitle": "Special Topics in Health Policy and Systems",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "CO5224, PP5111",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "PP5111",
+            "CO5224"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "CO5880D", 
+            "children": []
+},
+"moduleDescription": "This module will provide an opportunity for students to learn about current and emerging topics in one of seven key areas in public health: (a) Epidemiology and Disease Control, (b) Quantitative Methods, (c) Environmental / Occupational Health, (d) Health Policy and Systems, (e) Health Services Research, (f) Health Promotion and (g) Global Health. Specific topics will be selected and offered according to learning needs and relevance, and will be taught by faculty members or visiting experts. Modules on topics within the relevant specializations [(c) and (g)] may be considered as fulfillment of requirements for that specialization.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "SAW SWEE HOCK SCHOOL OF PUBLIC HEALTH",
+"department": "SAW SWEE HOCK SCHOOL OF PUBLIC HEALTH",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,2,0,0,]]
+}

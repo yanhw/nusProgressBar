@@ -1,0 +1,22 @@
+{
+"moduleCode": "SG5017",
+"moduleTitle": "Software Product Line Engineering",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "SG5017", 
+            "children": []
+},
+"moduleDescription": "This course teaches participants to transform the processes, methods and techniques employed by their software development organization so that they can move from developing customer-oriented systems to market driven products. The key motivation is to provide the means to significantly improve the productivity and product quality. This is achieved through software reuse at a large scale, beyond the levels achievable using the traditional reuse strategies based on object-oriented mechanisms, design patterns and frameworks. The course covers the processes, methods and techniques required to instrument and harvest from reuse. It also highlights the necessary transformations required in the management of the organization.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "NON-FACULTY-BASED DEPARTMENTS",
+"department": "INSTITUTE OF SYSTEMS SCIENCE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

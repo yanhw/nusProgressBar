@@ -1,0 +1,22 @@
+{
+"moduleCode": "CS6282",
+"moduleTitle": "Topics in Computer Science III",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "Variable, depend on the choice of topics or departmental approval.",
+"prerequisite": "Variable, depend on the choice of topics or departmental approval.",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "CS6282", 
+            "children": []
+},
+"moduleDescription": "Topics will be of an advanced computer science nature and will be selected by the Department. Refer to the course web-site for detail.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF COMPUTING",
+"department": "COMPUTER SCIENCE",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

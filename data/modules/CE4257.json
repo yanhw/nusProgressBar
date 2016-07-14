@@ -1,0 +1,48 @@
+{
+"moduleCode": "CE4257",
+"moduleTitle": "Linear Finite Element Analysis",
+"moduleCredit": "4",
+"lockedModules":[
+            "OT5208"
+        ],
+"preclusion": "NIL",
+"prerequisite": "CE3155",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["CE3155"]
+},
+"prerequisiteList": ["CE3155","EG1109F","EG1109","CE1109X"],
+"completePrerequisite": {
+            "name": "CE4257", 
+            "children": [
+                {
+                    "name": "CE3155", 
+                    "children": [
+                        {
+                            "name": "or", 
+                            "children": [
+                                {
+                                    "name": "EG1109F", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "EG1109", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "CE1109X", 
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module equips students with the fundamentals of finite element principles to enable them to understand the behaviour of various finite elements and to be able to select appropriate elements to solve physical and engineering problems with emphasis on structural and geotechnical engineering applications. It covers weak formulation, element shape function, isoparametric concepts, 1-D, 2-D, 3-D and axisymmetric elements, field problems, modelling and practical considerations, and special topics. The module is targeted at undergraduate and graduate students involved in research or application of the finite element method in civil engineering problems.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "CIVIL & ENVIRONMENTAL ENGINEERING",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}

@@ -1,0 +1,39 @@
+{
+"moduleCode": "CM5225",
+"moduleTitle": "Asymmetric Catalysis",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "CM4228 Catalysis or by permission",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["CM4228"]
+},
+"prerequisiteList": ["CM4228","CM2121","CM1121"],
+"completePrerequisite": {
+            "name": "CM5225", 
+            "children": [
+                {
+                    "name": "CM4228", 
+                    "children": [
+                        {
+                            "name": "CM2121", 
+                            "children": [
+                                {
+                                    "name": "CM1121", 
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module builds on the principles and concepts introduced in CM4228. It addresses the major concepts in asymmetric catalysis. To module will introduce students to enantiomeric purity, absolute stereochemistry and resolution. In addition, it will concentrate on chiral pool and chiral auxilaries, chiral reagents and chiral catalysis, substrate control and asymmetric synthesis.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCIENCE",
+"department": "CHEMISTRY",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,0,2,0,0,]]
+}

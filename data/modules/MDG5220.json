@@ -1,0 +1,24 @@
+{
+"moduleCode": "MDG5220",
+"moduleTitle": "Array and Omics",
+"moduleCredit": "2",
+"lockedModules":[
+],
+"preclusion": "MDG5214",
+"prerequisite": "Students should have basic knowledge of protein biochemistry and DNA biology",
+"preclusionList": [
+            "MDG5214"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "MDG5220", 
+            "children": []
+},
+"moduleDescription": "The dawn of the human genome project in the 1990s has fuelled advances in 2 key technologies. They are the microarray technology for genomics and mass spectrometry for proteomics. From these platforms, many other specialty fields have emerged including array comparative genomic hybridization, microRNA array, phosphoproteomics, protein arrays and metabolomics, etc. These tools have propelled discoveries in basic and translational research. The module will educate students on these tools and their diverse applications of \u201carray and omics\u201d in this era of functional genomics.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "YONG LOO LIN SCHOOL OF MEDICINE",
+"department": "DEAN'S OFFICE (MEDICINE)",
+"history": [[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[0,0,0,0,0,],[2015,1,0,0,0,]]
+}
