@@ -49,6 +49,9 @@ var ChooseProgramme = {
 			var programme = opt.value;
 			console.log(programme);
 			AppBody.request("saveProgramme", null, programme);
+
+			//close window when click "Save Changes"
+        	$('button-area').fadeOut(350);
 		});
 	}
 };
