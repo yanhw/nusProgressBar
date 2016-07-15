@@ -320,3 +320,33 @@
     overflow-x: hidden;
 
 }
+/*Footer*/
+.container-fluid{
+   min-height:100%;
+}
+
+.footer-container {
+  position: relative;
+  top:100px;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background-color: #9ed1ff;
+  height:200px;
+  padding-top: 20px;
+  padding-bottom: 15px;
+}
+
+#copyright{
+    text-align:center;
+}
+
+#footer-link{
+    padding-left: 70px;
+    text-decoration: none;
+}
+
+ul li a {
+    color: #000000;
+    text-decoration:none;
+}
