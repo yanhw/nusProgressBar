@@ -10,9 +10,13 @@
 var count;		//Number of modules counted towards programme requirement
 var updatePackage;	//Update package for output
 
+var moduleArray;
+
 var checkProgress = {
 	check: function (modules, programme) {
 		
+		moduleArray = modules;
+
 		count = 0;
 		updatePackage = {};
 
@@ -26,6 +30,8 @@ var checkProgress = {
 		for (var i = 0; i < programme.mainList.length; i++) {
 			buildTreeRecur(programmeTreeNodes, programme.mainList[i].list);
 		}
+
+		var UE = [];
 
 		//Step 1
 		for (var i = 0; i < programmeTreeNodes.length; i++) {
@@ -60,9 +66,28 @@ var checkProgress = {
 			status.push(traceTreeRecur(programme.mainList[i].list));
 		}
 		
+		console.log(programmeTreeNodes[20]);
+		console.log(programme.mainList[0].list.and[4].fulfilled);
+
 		//Step 4
 		updatePackage.count = count;
 		updatePackage.status = status;
+
+		updatePackage.nonRepeatList = [];
+		updatePackage.chosenList = [];
+		for (var i = 0; i < programme.mainList.length; i++) {
+			updatePackage.nonRepeatList.push([]);
+			updatePackage.chosenList.push([]);
+		}
+
+		for (var i = 0; i < programme.mainList.length; i++) {
+			chosenListRecur(programme.mainList[i].list, i)
+			nonRepeatListRecur(programme.mainList[i].list, i);
+		}
+
+		console.log(updatePackage.chosenList);
+		console.log(updatePackage.nonRepeatList);
+
 		return updatePackage;
 	}
 };
@@ -91,19 +116,20 @@ function traceTreeRecur(list) {
 }
 
 function traceTreeAnd(list) {
-	console.log("and");
+	var flag = true;
 	for (var i = 0; i < list.and.length; i++) {
 		if (!traceTreeRecur(list.and[i]))
-			return false;
+			flag = false;
 	}
-	list.fulfilled = true;
-	return true;
+	if (flag === true)
+		list.fulfilled = true;
+	return flag;
 }
 
 function traceTreeOr(list) {
 	for (var i = 0; i < list.or.length; i++) {
 		if (traceTreeRecur(list.or[i])) {
-			console.log("fulfilled");
+			console.log("fulfilled or");
 			list.fulfilled = true;
 			return true;
 		}
@@ -113,12 +139,94 @@ function traceTreeOr(list) {
 
 function traceTreeModule(list) {
 	if (list.flag === true) {
-		console.log("found true flag");
+		console.log("found true flag  " + list.code);
 		count++;
 		return true;
 	}
 	else
 		return false;
+}
+
+function chosenListRecur(list, index) {
+	if (list.hasOwnProperty("and"))
+		chosenListAnd(list, index);
+	else if (list.hasOwnProperty("or"))
+		chosenListOr(list, index);
+	else
+		chosenListModule(list, index);
+}
+
+function chosenListAnd(list, index) {
+	for (var i = 0; i < list.and.length; i++) {
+		chosenListRecur(list.and[i], index);
+	}
+}
+
+function chosenListOr(list, index) {
+	if (!list.fulfilled)
+		return;
+	else
+		for (var i = 0; i < list.or.length; i++) {
+			chosenListRecur(list.or[i], index);
+		}
+}
+
+function chosenListModule(list, index) {
+	if (list.flag === true)
+		updatePackage.chosenList[index].push(list.code);
+}
+
+function nonRepeatListRecur(list, index) {
+	if (list.hasOwnProperty("and"))
+		nonRepeatListAnd(list, index);
+	else if (list.hasOwnProperty("or"))
+		nonRepeatListOr(list, index);
+	else
+		nonRepeatListModule(list, index);
+}
+
+function nonRepeatListAnd(list, index) {
+	if (list.fulfilled)
+		return;
+	else
+		for (var i = 0; i < list.and.length; i++){
+			nonRepeatListRecur(list.and[i], index)
+		}
+}
+
+function nonRepeatListOr(list, index) {
+	if (list.fulfilled)
+		return;
+	for (var i = 0; i < list.or.length; i++) {
+		nonRepeatListRecur(list.or[i], index);
+	}
+}
+
+function nonRepeatListModule(list, index) {
+	if ((list.flag === false) && (!(search(list.code)))) {
+		if (nonRepeat(list.code, index)) {
+			updatePackage.nonRepeatList[index].push(list.code);
+		}
+	}
+
+}
+
+function search(moduleCode) {
+	for (var i = 0; i < moduleArray.length; i++) {
+		if (moduleArray[i] === moduleCode) {
+			return true;
+		}
+	}
+	return false;
+}
+
+function nonRepeat(moduleCode, index) {
+	for (var i = 0; i < updatePackage.nonRepeatList[index].length; i++) {
+		if (updatePackage.nonRepeatList[index][i] === moduleCode) {
+			return false;
+		}
+	}
+	return true;
 }
 
 module.exports = checkProgress;
