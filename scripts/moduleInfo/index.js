@@ -19,12 +19,31 @@ var moduleInfo = {
 		//Module search bar button
 		$("#module-info").on("click", '#module-search-bar-select', function(){
 			var AppBody = require("../common/index.js");
-		    var moduleCode =  $('#module-search-bar-box').val();
+		    var moduleCode =  $('#module-search-bar-box').val().toUpperCase();
+	       	console.log("select button triggered! " + moduleCode);
+            //$('.typeahead').typeahead('close');
+	       	AppBody.request("moduleSearchBox", "select", moduleCode);
+		});
+        
+        //Button on the options in dropdown window
+		$("#module-info").on("click", '.tt-suggestion', function(){
+			var AppBody = require("../common/index.js");
+		    var moduleCode =  $('#module-search-bar-box').val().toUpperCase();
 	       	console.log("select button triggered! " + moduleCode);
 
 	       	AppBody.request("moduleSearchBox", "select", moduleCode);
 		});
-
+        
+        //Module search bar button triggered by Enter key
+        $("#module-info").on("keydown","#module-search-bar-box",function(event){
+		   if(event.keyCode == 13){
+	           var AppBody = require("../common/index.js");
+	           var moduleCode =  $('#module-search-bar-box').val().toUpperCase();
+	       	   $('#module-search-bar-box').typeahead('close');
+	       	   console.log("select button triggered! " + moduleCode);
+	    	   AppBody.request("moduleSearchBox", "select", moduleCode);
+        	}
+       });
 
 		//Add module button
 		$("#module-info").on("click", "#add-module-button", function(){
@@ -80,9 +99,9 @@ var moduleInfo = {
 		}
 
 		selectedModule = moduleCode;
-		$(".module-info-head").text(modules[index].moduleCode);
-		$(".MC").text(modules[index].moduleCredit + " MCs");
-		$(".module-title").text("Title: " + modules[index].moduleTitle);
+		$(".module-info-head").html("<STRONG>"+modules[index].moduleCode+"</STRONG>");
+		$(".MC").html("<STRONG>" + modules[index].moduleCredit + "</STRONG> MCs");
+		$(".module-title").html("<STRONG>Title:</STRONG> " + modules[index].moduleTitle);
 		descriptionText = modules[index].moduleDescription;
 		var displayedText = descriptionText.substring(0,100);
 		var index2 = 100;
@@ -90,9 +109,9 @@ var moduleInfo = {
 			displayedText += descriptionText.substring(index2, index2+1);
 			index2++;
 		}
-		$(".description").text("Description: " + displayedText);
-		$(".pre-requisites").text("Prerequisites: " + modules[index].prerequisite);
-		$(".preclusion").text("Preclusion: " + modules[index].preclusion);
+		$(".description").html("<STRONG>Description:</STRONG> " + displayedText);
+		$(".pre-requisites").html("<STRONG>Prerequisites:</STRONG> " + modules[index].prerequisite);
+		$(".preclusion").html("<STRONG>Preclusion:</STRONG> " + modules[index].preclusion);
 		return true;
 	},
 

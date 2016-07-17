@@ -51,7 +51,8 @@ var ChooseProgramme = {
 			AppBody.request("saveProgramme", null, programme);
 
 			//close window when click "Save Changes"
-        	$('button-area').fadeOut(350);
+			var targeted_popup_class = jQuery($("#hide-programme-button")).attr('data-popup-close');
+        	$('[data-popup="' + targeted_popup_class + '"]').fadeOut(350);
 		});
 	}
 };
