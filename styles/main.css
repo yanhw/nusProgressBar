@@ -99,36 +99,39 @@
     right:0;
 }
 
-.pre-requisite-tree {
-	border-style: double;
-	height: 200px;
-	text-orientation: center;
-}
 
 #message-area {
     
 }
 
 .selected-module-tile {
-	background-color: red;
+	border-color: gold;
 }
 
 .pre-requisite-module-tile {
-	border-color: red;
+	border-color: gold;
+}
+
+.chosen-locked-module-tile {
+    border-color: gold;
+}
+
+.unrelated-module-tile {
+    border-color: black;
 }
 
 .free-to-swap-module-tile {
 	border-color: gold;
-	background-color: brown;   /*The same as .occupied-module-tile */
+	/*background-color: brown;   The same as .occupied-module-tile */
 }
 
 .occupied-module-tile {
-	background-color: tomato;
+	/*background-color: tomato;*/
 	border-color: lightgray;
 }
 
 .active-module-tile {
-	background-color: green;
+	/*background-color: green;*/
 }
 
 /*This should be the same as .active-module-tile  */
