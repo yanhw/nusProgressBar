@@ -65,9 +65,6 @@ var checkProgress = {
 		for (var i = 0; i < programme.mainList.length; i++) {
 			status.push(traceTreeRecur(programme.mainList[i].list));
 		}
-		
-		console.log(programmeTreeNodes[20]);
-		console.log(programme.mainList[0].list.and[4].fulfilled);
 
 		//Step 4
 		updatePackage.count = count;
@@ -84,9 +81,6 @@ var checkProgress = {
 			chosenListRecur(programme.mainList[i].list, i)
 			nonRepeatListRecur(programme.mainList[i].list, i);
 		}
-
-		console.log(updatePackage.chosenList);
-		console.log(updatePackage.nonRepeatList);
 
 		return updatePackage;
 	}
@@ -129,7 +123,6 @@ function traceTreeAnd(list) {
 function traceTreeOr(list) {
 	for (var i = 0; i < list.or.length; i++) {
 		if (traceTreeRecur(list.or[i])) {
-			console.log("fulfilled or");
 			list.fulfilled = true;
 			return true;
 		}
@@ -139,7 +132,6 @@ function traceTreeOr(list) {
 
 function traceTreeModule(list) {
 	if (list.flag === true) {
-		console.log("found true flag  " + list.code);
 		count++;
 		return true;
 	}
