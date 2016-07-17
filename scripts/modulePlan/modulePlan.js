@@ -48,7 +48,7 @@ var modulePlan = {
 		numOfModules++;
 		console.log(numOfModules);
 
-		var moduleArray = getCodeArray(20);
+		var moduleArray = getCodeArray(0, 20);
 		var update = CheckProgress.check(moduleArray, myProgramme);
 
 		$("#the-progress-bar").val(update.count*100/40);
@@ -58,7 +58,21 @@ var modulePlan = {
 	//Return other modules that are related to selected module
 	getRelatives: function(moduleCode) {
 		var targetModule = getModuleByCode(moduleCode);
+		var moduleCodeList = getCodeArray(getModuleUnitByCode(moduleCode).getSemester(), 20);
 		var relatives = new Relatives(targetModule);
+
+		var chosenChildrenList = [];
+		for (var i = 0; i < moduleCodeList.length; i++) {
+			var tempModule = getModuleByCode(moduleCodeList[i]);
+			for (var j = 0; j < tempModule.prerequisiteList.length; j++) {
+				if (tempModule.prerequisiteList[j] === moduleCode) {
+					chosenChildrenList.push(moduleCodeList[i]);
+					console.log(moduleCodeList[i]);
+					break;
+				}
+			}
+		}
+		relatives.setChosenChildrenList(chosenChildrenList);
 		return relatives;
 	},
 
@@ -91,7 +105,7 @@ var modulePlan = {
 	//Check if preprequisite of this module is fullfilled
 	checkPrerequisiteStatus: function (moduleCode, semester) {
 		var requirement = getModuleByCode(moduleCode).parsedPrerequisite;
-		var moduleCodeList = getCodeArray(semester);
+		var moduleCodeList = getCodeArray(0, semester);
 		var result = CheckPrerequisite.check(requirement, moduleCodeList);
 		if (result === true)
 			return result;
@@ -140,11 +154,11 @@ function getModuleUnitByCode (code) {
 	return targetModule;
 }
 
-//Creaate an array of module codes
-function getCodeArray (semester) {
+//Creaate an array of module codes, exclusive beginSemester and endSemester
+function getCodeArray (beginSemester, endSemester) {
 	var moduleCodeArray = [];
 	for (var i = 0; i < numOfModules; i++) {
-		if (myModules[i].getSemester() < semester)
+		if ((myModules[i].getSemester() > beginSemester) && (myModules[i].getSemester() < endSemester))
 			moduleCodeArray.push(myModules[i].getModuleCode());
 	}
 
