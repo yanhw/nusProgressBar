@@ -138,10 +138,18 @@ var moduleTable = {
 	buildChildrenBlock: function(relatives) {
 		var targetSem = $(selectedTile).parent(".semester");
 		targetSem.after("<div class='children-block'></div>");
-		var lockedModules = relatives.getLockedModules();
-		$(".children-block").css("height", (lockedModules/7+1)*60);
+	    var lockedModules = relatives.getLockedModules();
+		var MyPlan = require("../modulePlan/modulePlan.js");
+		var countAlrAdded = 0;
+		for (var i = 0; i < lockedModules.length; i++){
+			if(MyPlan.isInsidePlan(lockedModules[i]))
+				countAlrAdded++;
+		}
+		$(".children-block").css("height", ((lockedModules.length-countAlrAdded)/7+1)*60);
 		for (var i = 0; i < lockedModules.length; i++) {
-			$(".children-block").append("<div class='locked-module-tile'>" + lockedModules[i] + "</div>");
+			if(!MyPlan.isInsidePlan(lockedModules[i])){
+			    $(".children-block").append("<div class='locked-module-tile'>" + lockedModules[i] + "</div>");
+			}
 		}
 	},
 
