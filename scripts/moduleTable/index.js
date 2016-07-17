@@ -134,6 +134,7 @@ var moduleTable = {
 	},
 
 	//Attach children block for a selected module
+	//See scripts/modulePlan/relatives.js
 	buildChildrenBlock: function(relatives) {
 		var targetSem = $(selectedTile).parent(".semester");
 		targetSem.after("<div class='children-block'></div>");
