@@ -4,6 +4,7 @@
 
 var progressBar = {
 	setup: function(programme) {
+		//Click on module-item to display module info. select the module if the module is inside module table
 		$("#progress-bar").on("click", '.module-item', function(){
 			var AppBody = require("../common/index.js");
 		    var moduleCode =  $(this).html();

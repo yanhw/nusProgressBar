@@ -2,12 +2,20 @@
 
 var ProgrammeList = require("../../data/ProgrammeList.json");
 
+var hasAY = false;
+var hasFaculty = false;
+var AY;
+
 var ChooseProgramme = {
 	//Add event listeners
 	setup : function() {
 
 		//Load year of admission
-		
+		for (var i = 2012; i < 2017; i++) {
+			var string = "<option class='AY-option' value='" + i.toString() + "'>" + i.toString() + "</option>";
+			$("#AY-choice").append(string);
+		}
+		$("#AY-choice").prop("selectedIndex", -1);
 
 		//Load faculty choices
 		var facultyList = [];
@@ -18,6 +26,7 @@ var ChooseProgramme = {
 			var string = "<option value='" + facultyList[i] + "'>" + facultyList[i] + "</option>";
 			$("#faculty-choice").append(string);
 		}
+		$("#faculty-choice").prop("selectedIndex", -1);
 
 		//Open popup
 		$("#button-area").on("click", "#programme-selecter", function(e){
@@ -31,6 +40,12 @@ var ChooseProgramme = {
 		$("#button-area").on("click", ".hide-programme", function(e){
 			var targeted_popup_class = jQuery($("#hide-programme-button")).attr('data-popup-close');
         	$('[data-popup="' + targeted_popup_class + '"]').fadeOut(350);
+		});
+
+		//Choose AY
+		$("#button-area").on("click", ".AY-option", function() {
+			AY = $(this).html();
+			hasAY = true;
 		});
 
 		//Choose your faculty

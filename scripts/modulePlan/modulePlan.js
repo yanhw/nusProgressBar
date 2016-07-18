@@ -48,10 +48,12 @@ var modulePlan = {
 		numOfModules++;
 		console.log(numOfModules);
 
+	},
+
+	getUpdate: function() {
 		var moduleArray = getCodeArray(0, 20);
 		var update = CheckProgress.check(moduleArray, myProgramme);
 
-		//$("#the-progress-bar").val(update.count*100/40);
 		return update;
 	},
 
