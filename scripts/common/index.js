@@ -122,7 +122,7 @@ var AppBody = {
 				if (fulfilledPrerequisite !== true) {
 					MessageArea.add(fulfilledPrerequisite);
 				}
-				//Progressbar.update(updatePackage)
+				ProgressBar.update(updatePackage);
 				break;
 
 			//type = module tile, data = module code
