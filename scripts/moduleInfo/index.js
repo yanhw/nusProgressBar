@@ -5,7 +5,7 @@ var anuglar = require("angular");
 
 //For controller, need to shift with the controller
 var moduleList = require("../../data/moduleList.json");
-var modules = require("../../data/modules.json");
+// var modules = require("../../data/modules.json");
 var index = -1;
 var descriptionText;
 
@@ -86,7 +86,7 @@ var moduleInfo = {
 	//Display information for selected module (hard coded!)
 	display : function(moduleCode) {
 		var isValidCode = false;
-		for (var i = 0; i < modules.length; i++) {
+		for (var i = 0; i < moduleList.length; i++) {
 			if (moduleCode === moduleList[i]){
 				index = i;
 				isValidCode = true;
@@ -99,10 +99,15 @@ var moduleInfo = {
 		}
 
 		selectedModule = moduleCode;
-		$(".module-info-head").html("<STRONG>"+modules[index].moduleCode+"</STRONG>");
-		$(".MC").html("<STRONG>" + modules[index].moduleCredit + "</STRONG> MCs");
-		$(".module-title").html("<STRONG>Title:</STRONG> " + modules[index].moduleTitle);
-		descriptionText = modules[index].moduleDescription;
+		var xhr = new XMLHttpRequest();
+		xhr.open("GET", "/data/modules/"+moduleCode+".json", false);
+		xhr.send();
+		var moduleObject = JSON.parse(xhr.responseText);
+
+		$(".module-info-head").html("<STRONG>"+moduleObject.moduleCode+"</STRONG>");
+		$(".MC").html("<STRONG>" + moduleObject.moduleCredit + "</STRONG> MCs");
+		$(".module-title").html("<STRONG>Title:</STRONG> " + moduleObject.moduleTitle);
+		descriptionText = moduleObject.moduleDescription;
 		var displayedText = descriptionText.substring(0,100);
 		var index2 = 100;
 		while ((index2 < 115) && (displayedText.charAt(displayedText.length-1) != ' ')) {
@@ -110,8 +115,8 @@ var moduleInfo = {
 			index2++;
 		}
 		$(".description").html("<STRONG>Description:</STRONG> " + displayedText);
-		$(".pre-requisites").html("<STRONG>Prerequisites:</STRONG> " + modules[index].prerequisite);
-		$(".preclusion").html("<STRONG>Preclusion:</STRONG> " + modules[index].preclusion);
+		$(".pre-requisites").html("<STRONG>Prerequisites:</STRONG> " + moduleObject.prerequisite);
+		$(".preclusion").html("<STRONG>Preclusion:</STRONG> " + moduleObject.preclusion);
 		return true;
 	},
 
