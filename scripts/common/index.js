@@ -10,6 +10,7 @@ var MyPlan = require("../modulePlan/modulePlan.js");
 var AppliedMath = require("../../data/2015Bachelor of Science (Applied Mathematics).json");
 
 var blocked = false;		//blocked is true when there is pop up windows in display
+var hasProgramme = false;
 
 var AppBody = {
 
@@ -36,6 +37,7 @@ var AppBody = {
 				}
 				var editedProgramme = MyPlan.saveAndEditProgramme(programme);
 				ProgressBar.setup(editedProgramme);
+				hasProgramme = true;
 				break;
 
 			//type = "select", data = moduleCode
@@ -114,15 +116,18 @@ var AppBody = {
 					return;			
 				ModuleTable.removeStandby();
 				var semester = ModuleTable.getSemesterByTile(type);
-				var updatePackage = MyPlan.add(data,semester);
-				ModuleTable.addModule(type, data);
+				MyPlan.add(data,semester);
+				ModuleTable.addModule(type, data); 
 				ModuleTable.refresh();
 				ModuleInfo.setButton("Remove");
 				var fulfilledPrerequisite = MyPlan.checkPrerequisiteStatus(data, semester);
 				if (fulfilledPrerequisite !== true) {
 					MessageArea.add(fulfilledPrerequisite);
 				}
-				ProgressBar.update(updatePackage);
+				if (hasProgramme) {
+					var updatePackage = MyPlan.getUpdate()
+					ProgressBar.update(updatePackage);
+				}
 				break;
 
 			//type = module tile, data = module code
