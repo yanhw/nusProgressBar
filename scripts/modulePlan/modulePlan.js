@@ -3,7 +3,7 @@
 var ModuleUnit = require("./moduleUnit.js");
 var CheckPrerequisite = require("./checkPrerequisite.js");
 var Relatives = require("./relative.js");
-var modules = require("../../data/modules.json");
+// var modules = require("../../data/modules.json");
 var moduleList = require("../../data/moduleList.json");
 var Message = require("../common/message.js");
 var EditProgramme = require("./editProgramme.js");
@@ -135,14 +135,11 @@ var modulePlan = {
 	}
 };
 
-//We need to change to binary search!
 function getModuleByCode (code) {
-	var index;
-	for (var i = 0; i < moduleList.length; i++) {
-		if (code === moduleList[i])
-			index = i;
-	}
-	return modules[index];
+	var xhr = new XMLHttpRequest();
+	xhr.open("GET", "/data/modules/"+code+".json", false);
+	xhr.send();
+	return JSON.parse(xhr.responseText);
 }
 
 function getModuleUnitByCode (code) {

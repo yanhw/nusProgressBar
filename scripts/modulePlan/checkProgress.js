@@ -7,7 +7,7 @@
 // Step 3: Trace the programme tree to mark fulfilled flag;
 // Step 4: Generate outputs such as non-repeat list
 
-var count;		//Number of modules counted towards programme requirement
+var count;			//Number of modules counted towards programme requirement
 var updatePackage;	//Update package for output
 
 var moduleArray;
