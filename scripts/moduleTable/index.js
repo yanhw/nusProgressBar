@@ -193,11 +193,11 @@ var moduleTable = {
 	},
 	
 	//This adds a module to target tile
-	addModule: function(target, moduleCode, tileClass) {
+	addModule: function(target, moduleCode) {
 		$(target).addClass("occupied-module-tile");
 		$(target).removeClass("empty-module-tile");
 		$(target).text(moduleCode);
-
+		
 	},
 
 	//This removes a module from target tile

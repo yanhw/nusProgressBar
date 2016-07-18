@@ -51,8 +51,8 @@ var modulePlan = {
 		var moduleArray = getCodeArray(0, 20);
 		var update = CheckProgress.check(moduleArray, myProgramme);
 
-		$("#the-progress-bar").val(update.count*100/40);
-		return "module-list-1";
+		//$("#the-progress-bar").val(update.count*100/40);
+		return update;
 	},
 
 	//Return other modules that are related to selected module

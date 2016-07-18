@@ -10,22 +10,27 @@ var addedModuleList2 =[];
 var addedModuleList3 =[];
 var addedModuleList4 =[];
 
+var checkProgress = require("../modulePlan/checkProgress.js")
 
 var progressBar = {
 	setup: function(programme) {
-		moduleList1 = programme.mainList[0].nonRepeatList;
+		moduleList1 = programme.mainList[1].nonRepeatList;
 		moduleList2 = programme.mainList[2].nonRepeatList;
 		moduleList3 = programme.mainList[3].nonRepeatList;
 		moduleList4 = programme.mainList[4].nonRepeatList;
+        console.log('progressbar initialised');
+        console.log(programme);
+        $("#avaliable-1").append("hello");
 
 		for (var i = 0; i < moduleList1.length; i++)
-			$("#avaliable-1").append("<a class='dropdown-item module-item' href='#'>" + moduleList1[i] + "</a>");
+			console.log(moduleList1[i])
+			$("#avaliable-1").append(moduleList1[i]);
 		for (var i = 0; i < moduleList2.length; i++)
-			$("#avaliable-2").append("<a class='dropdown-item module-item' href='#'>" + moduleList2[i] + "</a>");
+			$("#avaliable-2").append(moduleList2[i]);
 		for (var i = 0; i < moduleList3.length; i++)
-			$("#avaliable-3").append("<a class='dropdown-item module-item' href='#'>" + moduleList3[i] + "</a>");
+			$("#avaliable-3").append(moduleList3[i]);
 		for (var i = 0; i < moduleList4.length; i++)
-			$("#avaliable-4").append("<a class='dropdown-item module-item' href='#'>" + moduleList4[i] + "</a>");
+			$("#avaliable-4").append(moduleList4[i]);
 
 		$("#progress-bar").on("click", '.module-item', function(){
 			var code = $(this).html();
@@ -35,7 +40,7 @@ var progressBar = {
 		});
 	},
 
-	update: function(moduleCode, listNumber) {
+	update: function(updatePackage) {
 		var targetList;
 		var targetAddedList;
 		switch (listNumber) {
@@ -56,6 +61,8 @@ var progressBar = {
 				targetAddedList = addedModuleList4;
 				break;
 		}
+
+		$("#the-progress-bar").val(update.count*100/40);
 
 		var found = false;
 	}

@@ -69,7 +69,7 @@ var checkProgress = {
 		//Step 4
 		updatePackage.count = count;
 		updatePackage.status = status;
-
+        //2D array: each row is each div(1000,2000),each row has modules for that div
 		updatePackage.nonRepeatList = [];
 		updatePackage.chosenList = [];
 		for (var i = 0; i < programme.mainList.length; i++) {

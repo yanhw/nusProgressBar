@@ -18,7 +18,7 @@ var AppBody = {
 		ModuleInfo.setup();
 		ModuleTable.setup();
 		ChooseProgramme.setup();
-		// ProgressBar.setup(programme);
+		//ProgressBar.setup(programme);
 	},
 
 	//Handle request from listeners.
@@ -35,7 +35,7 @@ var AppBody = {
 					// 	programme = AppliedMath.specialisations[i].lists;
 				}
 				var editedProgramme = MyPlan.saveAndEditProgramme(programme);
-				// ProgressBar.setup(editedProgramme);
+				ProgressBar.setup(editedProgramme);
 				break;
 
 			//type = "select", data = moduleCode
@@ -114,14 +114,15 @@ var AppBody = {
 					return;			
 				ModuleTable.removeStandby();
 				var semester = ModuleTable.getSemesterByTile(type);
-				var tileClass = MyPlan.add(data,semester);
-				ModuleTable.addModule(type, data, tileClass);
+				var updatePackage = MyPlan.add(data,semester);
+				ModuleTable.addModule(type, data);
 				ModuleTable.refresh();
 				ModuleInfo.setButton("Remove");
 				var fulfilledPrerequisite = MyPlan.checkPrerequisiteStatus(data, semester);
 				if (fulfilledPrerequisite !== true) {
 					MessageArea.add(fulfilledPrerequisite);
 				}
+				//Progressbar.update(updatePackage)
 				break;
 
 			//type = module tile, data = module code
