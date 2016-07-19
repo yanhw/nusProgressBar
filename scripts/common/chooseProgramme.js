@@ -164,7 +164,6 @@ function update(triger) {
 
 			$("#specialisation-choice").append("<option class='programme-option' value='nil'>nil</option>");
 			for (var i = 0; i < programmeObject.specialisations.length; i++) {
-				console.log("aaa");
 				var string = "<option class='specialisation-option' value='" + programmeObject.specialisations[i].name + "'>" + programmeObject.specialisations[i].name + "</option>";
 				$("#specialisation-choice").append(string);
 			}
