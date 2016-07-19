@@ -26,15 +26,9 @@ var AppBody = {
 	request: function(origin, type, data) {
 		switch(origin) {
 
-			//type = null, data = programme name
+			//type = programmeObject, data = specialisation name
 			case "saveProgramme" :
-				var programme = AppliedMath;
-				for (var i = 0; i < 3; i++) {				
-				// for (var i = 0; i < AppliedMath.specialisations.size(); i++) {
-
-					// if (AppliedMath.specialisations[i].specialisationName === data)
-					// 	programme = AppliedMath.specialisations[i].lists;
-				}
+				var programme = type;
 				var editedProgramme = MyPlan.saveAndEditProgramme(programme);
 				ProgressBar.setup(editedProgramme);
 				hasProgramme = true;
