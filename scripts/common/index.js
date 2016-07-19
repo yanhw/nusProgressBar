@@ -121,6 +121,7 @@ var AppBody = {
 				if (hasProgramme) {
 					var updatePackage = MyPlan.getUpdate()
 					ProgressBar.update(updatePackage);
+					ModuleTable.refreshColour(updatePackage);
 				}
 				break;
 

@@ -239,6 +239,36 @@ var moduleTable = {
 			if (!isFilled)
 				removeCol();
 		}
+	},
+
+	refreshColour: function(updatePackage) {
+		//Remove existing colours
+		for (var i = 0; i < 8; i++) {
+			var string = ".module-list-" + i.toString();
+			$(string).each(function() {
+				if ($(this).hasClass("module-tile"))
+					$(this).removeClass(string.substring(1));
+			});
+		}
+
+		//Add new colours
+		$(".occupied-module-tile").each(function() {
+			var code = $(this).html();
+			var targetClass = "module-list-";
+			var flag = false;
+			for (var i = 0; i < updatePackage.chosenList.length; i++) {
+				for (var j = 0; j < updatePackage.chosenList[i].length; j++) {
+					if (updatePackage.chosenList[i][j] === code) {
+						targetClass += (i+1).toString();
+						flag = true;
+						break;
+					}
+				}
+				if (flag)
+					break;
+			}
+			$(this).addClass(targetClass);
+		});
 	}
 };
 

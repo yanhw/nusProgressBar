@@ -15,6 +15,9 @@ var progressBar = {
 
 
 	update: function(updatePackage) {
+		$(".module-item").each(function() {
+			$(this).remove();
+		})
 
 		for(var i = 0; i < updatePackage.nonRepeatList.length; i++) {
 			var chosenList = "#chosen-" + (i+1).toString();
