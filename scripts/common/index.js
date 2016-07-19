@@ -84,6 +84,11 @@ var AppBody = {
 					ModuleTable.removeModule(target);
 					ModuleTable.refresh();
 					ModuleInfo.setButton("Add");
+					if (hasProgramme) {
+						var updatePackage = MyPlan.getUpdate()
+						ProgressBar.update(updatePackage);
+						ModuleTable.refreshColour(updatePackage);
+					}
 				}
 				break;
 
@@ -157,6 +162,11 @@ var AppBody = {
 				if (fulfilledPrerequisite !== true) {
 					alert("You have not fulfilled the prerequisite of " + moduleCode + "!");
 				}
+				if (hasProgramme) {
+					var updatePackage = MyPlan.getUpdate()
+					ProgressBar.update(updatePackage);
+					ModuleTable.refreshColour(updatePackage);
+				}
 				break;
 
 			//type = selected module tile, data = target module tile
@@ -179,6 +189,11 @@ var AppBody = {
 				var fulfilledPrerequisite2 = MyPlan.checkPrerequisiteStatus(secondModuleCode, firstSemester);
 				if (!fulfilledPrerequisite2) {
 					alert("You have not fulfilled the prerequisite of " + secondModuleCode + "!");
+				}
+				if (hasProgramme) {
+					var updatePackage = MyPlan.getUpdate()
+					ProgressBar.update(updatePackage);
+					ModuleTable.refreshColour(updatePackage);
 				}
 				break;
 

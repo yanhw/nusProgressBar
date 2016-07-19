@@ -146,7 +146,6 @@ function update(triger) {
 			for (var i = 0; i < departmentObject.programmes.length; i++) {
 				var string = "<option class='programme-option' value='" + departmentObject.programmes[i].name + "'>" + departmentObject.programmes[i].name + "</option>";
 				$("#programme-choice").append(string);
-				console.log(string);
 			}
 			$("#programme-choice").prop("selectedIndex", -1);
 			$("#specialisation-choice").prop("selectedIndex", -1);
