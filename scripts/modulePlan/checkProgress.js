@@ -9,6 +9,7 @@
 
 var count;			//Number of modules counted towards programme requirement
 var updatePackage;	//Update package for output
+var fulfilledExclusive;
 
 var moduleArray;
 
@@ -19,6 +20,9 @@ var checkProgress = {
 
 		count = 0;
 		updatePackage = {};
+
+		fulfilledExclusive = [];
+		
 
 		var moduleNodes = [];	//In step 1 it is 2D array to match tree nodes with modules, then it becomes 1D array as flag for modules
 		var length = modules.length;
@@ -87,10 +91,14 @@ var checkProgress = {
 };
 
 function buildTreeRecur(programmeTreeNodes, list) {
-	if (list.hasOwnProperty("and"))
+	if (list.hasOwnProperty("and")) {
+		list.fulfilled = false;
 		var array = list.and;
-	if (list.hasOwnProperty("or"))
+	} 
+	if (list.hasOwnProperty("or")) {
+		list.fulfilled = false;
 		var array = list.or;
+	}
 	for (var i = 0; i < array.length; i++) {
 		if ((array[i].hasOwnProperty("and")) || (array[i].hasOwnProperty("or")))
 			buildTreeRecur(programmeTreeNodes,array[i]);
@@ -104,8 +112,18 @@ function buildTreeRecur(programmeTreeNodes, list) {
 function traceTreeRecur(list) {
 	if (list.hasOwnProperty("and"))
 		return traceTreeAnd(list);
-	else if (list.hasOwnProperty("or"))
-		return traceTreeOr(list);
+	else if (list.hasOwnProperty("or")) {
+		for (var i = 0; i < fulfilledExclusive.length; i++) {
+			if (fulfilledExclusive[i] === list.id)
+				return false;
+		}
+		var result = traceTreeOr(list);
+		if (result === true) {
+			console.log(list.id);
+			fulfilledExclusive.push(list.id);
+		}
+		return result;
+	}
 	else return traceTreeModule(list);
 }
 
@@ -155,7 +173,7 @@ function chosenListAnd(list, index) {
 }
 
 function chosenListOr(list, index) {
-	if (!list.fulfilled)
+	if (list.fulfilled === false)
 		return;
 	else
 		for (var i = 0; i < list.or.length; i++) {
@@ -178,7 +196,7 @@ function nonRepeatListRecur(list, index) {
 }
 
 function nonRepeatListAnd(list, index) {
-	if (list.fulfilled)
+	if (list.fulfilled === true)
 		return;
 	else
 		for (var i = 0; i < list.and.length; i++){
@@ -187,7 +205,7 @@ function nonRepeatListAnd(list, index) {
 }
 
 function nonRepeatListOr(list, index) {
-	if (list.fulfilled)
+	if (list.fulfilled === true)
 		return;
 	for (var i = 0; i < list.or.length; i++) {
 		nonRepeatListRecur(list.or[i], index);
