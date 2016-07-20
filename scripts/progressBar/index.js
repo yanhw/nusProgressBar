@@ -1,10 +1,31 @@
 'use strict';
 
-
+// <li class="nav-item dropdown visible-list module-list-1">
+//     <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Lvl 1000</a>
+//     <div class="dropdown-menu scrollable-menu" role="menu">
+//       	<a class="dropdown-item fixed-item" id="chosen-1" href="#">Chosen Modules:</a>
+//       	<div class="dropdown-divider"></div>
+//       	<a class="dropdown-item fixed-item" id="avaliable-1" href="#">Avaliable Modules:</a>
+//     </div>
+// </li>
 
 var progressBar = {
 	setup: function(programme) {
 		//Click on module-item to display module info. select the module if the module is inside module table
+
+		for (var i = 0; i < programme.mainList.length; i++) {
+			var string = "<li class='nav-item dropdown visible-list module-list-" + (i+1).toString() + "'>";
+			string += "<a class='nav-link dropdown-toggle' data-toggle='dropdown' href='#' role='button' aria-haspopup='true' aria-expanded='false'>" + programme.mainList[i].listName +"</a>";
+			string += "<div class='dropdown-menu scrollable-menu' role='menu'>";
+			string += "<a class='dropdown-item fixed-item' id='chosen-" + (i+1).toString() + "' href='#'>Chosen Modules:</a>";
+			string += "<div class='dropdown-divider'></div>";
+			string += "<a class='dropdown-item fixed-item' id='avaliable-" + (i+1).toString() +"' href='#'>Avaliable Modules:</a>";
+			string += "</div>";
+			string += "</li>";
+			$("#module-lists").append(string);
+		}
+
+
 		$("#progress-bar").on("click", '.module-item', function(){
 			var AppBody = require("../common/index.js");
 		    var moduleCode =  $(this).html();
