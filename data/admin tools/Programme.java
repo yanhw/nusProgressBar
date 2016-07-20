@@ -104,27 +104,27 @@ public class Programme {
 				output += listContent;			
 				output +="]";
 				output += ",\"fulfilled\":false";
-				output += "},";
+				output += "}";
 				
-				String tempString = "\"nonRepeatList\":[";
-				LinkedList<String>tempList = new LinkedList<String>();
-				String[] moduleArray = listContent.split("\"");
-				for (int x = 0; x < moduleArray.length; x++)
-					if (isModule(moduleArray[x])) {
-						boolean isRepeated = false;
-						for (int k = 0; k < tempList.size(); k++)
-							if (moduleArray[x].equals(tempList.get(k)))
-								isRepeated = true;
-						if (!isRepeated)
-							tempList.add(moduleArray[x]);
-					}
-				for (int y = 0; y < tempList.size(); y++) {
-					tempString += "\"" + tempList.get(y) + "\"";
-					if (y < tempList.size()-1)
-						tempString += ",";
-				}
-				tempString += "]";
-				output += tempString;
+//				String tempString = "\"nonRepeatList\":[";
+//				LinkedList<String>tempList = new LinkedList<String>();
+//				String[] moduleArray = listContent.split("\"");
+//				for (int x = 0; x < moduleArray.length; x++)
+//					if (isModule(moduleArray[x])) {
+//						boolean isRepeated = false;
+//						for (int k = 0; k < tempList.size(); k++)
+//							if (moduleArray[x].equals(tempList.get(k)))
+//								isRepeated = true;
+//						if (!isRepeated)
+//							tempList.add(moduleArray[x]);
+//					}
+//				for (int y = 0; y < tempList.size(); y++) {
+//					tempString += "\"" + tempList.get(y) + "\"";
+//					if (y < tempList.size()-1)
+//						tempString += ",";
+//				}
+//				tempString += "]";
+//				output += tempString;
 				
 				output += "}";
 				count++;
@@ -164,6 +164,9 @@ public class Programme {
 //					String listname = list.getName();
 					temp += "{\"name\":\"";
 					temp += targetName;
+					temp += "\",";
+					temp += "\"listName\":\"";
+					temp += target;
 					temp += "\",";
 					temp += "\"requirement\":" + list.getRequirement() + ",";
 					temp += "\"list\":{";
@@ -217,16 +220,26 @@ public class Programme {
 				target = list;
 		}
 		boolean isCorrect = false;
+//		boolean isExclusive = false;
 		System.out.println(input);
 		LinkedList<String> listType = target.getTypes();
 		for (int i = 0; i < listType.size(); i++) {
 			if (listType.get(i).equals(specialisation) || specialisation.equals("true"))
 				isCorrect = true;
+//			if (listType.get(i).equals("exclusive"))
+//				isExclusive = true;
 		}
 		if (!isCorrect)
 			return "NIL";
 		output += createList(target, specialisation, 3);		
 		output += "],";
+		
+//		
+//		if (isExclusive)
+//			output += "\"exclusive\" : \"true\",";
+//		else
+//			output += "\"exclusive\" : \"false\",";
+		output += "\"id\":\"" + input + "\",";
 		output += "\"fulfilled\" :false";
 		output += "}";
 		return output;
@@ -274,14 +287,14 @@ public class Programme {
 		return output;
 	}
 	
-	private boolean isModule(String input) {
-		if (input.length() == 0)
-			return false;
-		for (int i = 0; i < input.length(); i++)
-			if (!(Character.isUpperCase(input.charAt(i))||Character.isDigit(input.charAt(i))))
-				return false;
-		return true;
-	}
+//	private boolean isModule(String input) {
+//		if (input.length() == 0)
+//			return false;
+//		for (int i = 0; i < input.length(); i++)
+//			if (!(Character.isUpperCase(input.charAt(i))||Character.isDigit(input.charAt(i))))
+//				return false;
+//		return true;
+//	}
 	
 	public void generateJSON() {
 		String filename = Integer.toString(AY) + name + ".json";;

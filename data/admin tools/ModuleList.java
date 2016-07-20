@@ -8,7 +8,7 @@ public class ModuleList {
 	private int listSize;
 	private int listRequirement;
 	private LinkedList<Pair> listContent;
-	private String exclusion;
+	private Exclusion exclusion;
 	
 	public ModuleList(BufferedReader in) {
 		String input;
@@ -48,7 +48,7 @@ public class ModuleList {
 			
 			//Read exclusion
 			if (input.charAt(input.length()-1) == '+')
-				exclusion = in.readLine();
+				exclusion = new Exclusion(in.readLine());
 		} catch (IOException e) {
 	        System.out.println("File read error for list! ");
 	        e.printStackTrace();
@@ -73,5 +73,9 @@ public class ModuleList {
 	
 	public int getRequirement() {
 		return listRequirement;
+	}
+	
+	public Exclusion getExclusion() {
+		return exclusion;
 	}
 }

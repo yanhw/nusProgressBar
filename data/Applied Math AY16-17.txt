@@ -1,10 +1,10 @@
 title: Bachelor of Science (Applied Mathematics)
-faculty: SCIENCE
+faculty: Science
 type: degree programme
-AY: 2013
-Updated: 02/07/2015
-Link: abc
-specialization-list: nil, default;
+AY: 2016
+Updated: 19/07/2016
+Link: http://ww1.math.nus.edu.sg/course%20structure/am1617.htm
+specialization-list: nil, default; Mathematical Modelling and Data Analytics, MMDA; Operations Research and Financial Mathematics, ORFM
 restriction: {cap,1,[MA2288,MA2289,MA3288,MA3289];}
 +
 list-type: default, visible
@@ -25,7 +25,7 @@ list-size: 6
 list-requirement: 6
 list-content: {L3_sub1,3;L3_sub2,3;List AM3,3;List AM3,3;L3_sub3,3;L3_sub3,3;}
 +
-list-type: default, visible
+list-type: default,visible
 list-name: Level 4000
 list-size: 7
 list-requirement: 7
@@ -37,31 +37,31 @@ list-size:4
 list-requirement: 1
 list-content: {listI_sub1,3; MA1101R,1;MA1102R,1;MA1104,1;}
 +
-list-type: default
+list-type: default, exclusive
 list-name: listI_sub1
 list-size: 2
 list-requirement: 1
 list-content: {MA1100,2;CS1231,2;}
 +
-list-type: default
+list-type: default, exclusive
 list-name: L1_sub2 
 list-size: 4
 list-requirement: 1
-list-content: {CS1010,2;CS1010E,2;CS1010S,2;CS1010FC,2;}
+list-content: {CS1010,2;CS1010E,2;CS1010S,2;CS1010X,2;}
 +
-list-type: default
+list-type: default, exclusive
 list-name: L2_sub1
 list-size: 2
 list-requirement: 1
 list-content: {MA2101,2;MA2101S,2;}
 +
-list-type: default
+list-type: default, exclusive
 list-name: L2_sub2
 list-size: 2
 list-requirement: 1
 list-content: {MA2108,2;MA2108S,2;}
 +
-list-type: default
+list-type: default, exclusive
 list-name: L2_sub3
 list-size: 2
 list-requirement: 1
@@ -73,13 +73,13 @@ list-size: 3
 list-requirement: 1
 list-content: {List II,3;List III,3;List IV,3;} 
 +
-list-type: default
+list-type: default, exclusive
 list-name: L3_sub1
 list-size: 2
 list-requirement: 1
 list-content: {MA3110, 2;MA3110S,2;}
 +
-list-type: default
+list-type: default, exclusive
 list-name: L3_sub2
 list-size: 2
 list-requirement:1
@@ -93,9 +93,9 @@ list-content: {List III,3;List IV,3;}
 +
 list-type: default
 list-name: List II
-list-size: 4
+list-size: 5
 list-requirement: 1
-list-content: {MA2***,4;PC2130,2;PC2132,2;ST2132,2;}+
+list-content: {MA2***,4;PC2130,2;PC2132,2;ST2132,2;EC2101;2}+
 exclude: {MA2***,MA23**,4;}
 +
 list-type: default
@@ -107,23 +107,69 @@ exclude: {MA3***,MA3311,1;MA3***,MA3312,1;}
 +
 list-type: default
 list-name: List IV
-list-size: 9
-list-requirement: 9
-list-content: {MA4***,5;CS4236,2;CS5230,2;CS5237,2;EC4301,2;EC5104,2;PC4248,2;PC4274,2;ST4238,2;}
+list-size: 10
+list-requirement: 10
+list-content: {MA4***,5;CS4236,2;CS5230,2;CS5237,2;EC4301,2;EC5104,2;PC4248,2;PC4274,2;ST4238,2;ST4245,2;}
 +
 list-type: default
 list-name: List AM3
-list-size: 8
-list-requirement: 2
-list-content: {MA3209,2;MA3220,2;MA3227,2;MA3233,2;MA3264,2;MA3236,2;MA3252,2;MA3269,2;}
+list-size: 3
+list-requirement: 1
+list-content: {AM3-General,3;AM3-MMDA,3;AM3-ORFM,3;}
++
+list-type: default
+list-name: AM3-General
+list-size: 3
+list-requirement: 1
+list-content: {MA3209,2;MA3218,2;MA3220,2;}
++
+list-type: default
+list-name: AM3-MMDA
+list-size: 4
+list-requirement: 1
+list-content: {MA3227,2;MA3233,2;MA3264,2;ST3131,2;}
++
+list-type: default
+list-name: AM3-ORFM
+list-size: 4
+list-requirement: 1
+list-content: {MA3236,2;MA3252,2;MA3269,2;ST3131,2;}
 +
 list-type: default
 list-name: List AM4
-list-size: 8
-list-requirement: 4
-list-content: {MA4211,2; MA4221,2; MA4235,2; MA4230,2; MA4255,2; MA4268,2;MA4254,2;  MA4269,2;}
-
-
+list-size: 3
+list-requirement: 1
+list-content: {AM4-General,3;AM4-MMDA,3;AM4-ORFM,3;}
++
+list-type: default
+list-name: AM4-General
+list-size: 4
+list-requirement:1
+list-content: {MA4211,2; MA4221,2; MA4235,2; MA4261,2;}
++
+list-type: default
+list-name: AM4-MMDA
+list-size: 6
+list-requirement:1
+list-content: {MA4229,2; MA4230,2; MA4255,2; MA4268,2; MA4270,2; MA4272,2;}
++
+list-type: default
+list-name: AM4-ORFM
+list-size: 5
+list-requirement:1
+list-content: {MA4254,2; MA4260,2; MA4264,2; MA4269,2; ST4245,2;}
++
+list-type: MMDA
+list-name: mmda list
+list-size: 6
+list-requirement: 6
+list-content: {AM3-MMDA,3;AM3-MMDA,3;AM4-MMDA,3;AM4-MMDA,3;AM4-MMDA,3;AM4-MMDA,3;}
++
+list-type: ORFM
+list-name: orfm list
+list-size: 6
+list-requirement: 6
+list-content: {AM3-ORFM,3;AM3-ORFM,3;AM4-ORFM,3;AM4-ORFM,3;AM4-ORFM,3;AM4-ORFM,3;}
 
 
 Type:
