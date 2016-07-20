@@ -1,9 +1,9 @@
-title: ULR
+title: ULR Science
 faculty: NUS
 type: university level requirement
-AY: 2015
-Updated: 18/7/2016 
-Link: http://www.nus.edu.sg/registrar/education-at-nus/undergraduate-education/curriculum-structure.html
+AY: 2014
+Updated: 18/7/2016
+Link: http://www.nus.edu.sg//registrar/general-education/pre2015/important-information-for-students.html
 specialization-list: nil, default;
 restriction: {}
 +
@@ -11,14 +11,19 @@ list-type: default, visible
 list-name: ULR
 list-size: 5
 list-requirement: 5
-list-content: {GER1000,1;GES1***,5;GET1***,5;GEH1***,5;sublist,3;}
+list-content: {}
 +
 list-type: default
-list-name: sublist
+list-name: ulrA
 list-size: 3
 list-requirement: 1
-list-content: {GES1***,5;GET1***,5;GEH1***,5;}
-
+list-content: {}
++
+list-type: default
+list-name: ulrA
+list-size: 3
+list-requirement: 1
+list-content: {}
 
 
 Type:
@@ -27,4 +32,5 @@ Type:
 3.	List
 4.	All modules in the level e.g. MA3***, CS21**
 5.	All modules in the level or higher
-
+6.	All modules from
+7.	All modules not from e.g. SCIENCE,7;

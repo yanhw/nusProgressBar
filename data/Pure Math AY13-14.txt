@@ -1,35 +1,35 @@
-title: Bachelor of Science (Applied Mathematics)
+title: Bachelor of Science (Mathematics)
 faculty: SCIENCE
 type: degree programme
 AY: 2013
-Updated: 02/07/2015
-Link: abc
+Updated: 20/07/2015
+Link: http://ww1.math.nus.edu.sg/course%20structure/ma13-14.htm
 specialization-list: nil, default;
 restriction: {cap,1,[MA2288,MA2289,MA3288,MA3289];}
 +
 list-type: default, visible
 list-name: Level 1000
-list-size: 5
-list-requirement: 5
-list-content: {List I,3;List I,3;List I,3;List I,3;L1_sub2,3;}
+list-size: 4
+list-requirement: 4
+list-content: {List I,3;List I,3;List I,3;List I,3;}
 +
 list-type: default, visible
 list-name: Level 2000
 list-size: 5
 list-requirement: 5
-list-content: {L2_sub1,3;L2_sub2,3;L2_sub3,3;MA2213,1;L2_sub4,3;}
+list-content: {L2_sub1,3;L2_sub2,3;L2_sub3,3;L2_sub5,3;L2_sub4,3;}
 +
 list-type: default, visible
 list-name: Level 3000
 list-size: 6
 list-requirement: 6
-list-content: {L3_sub1,3;L3_sub2,3;List AM3,3;List AM3,3;L3_sub3,3;L3_sub3,3;}
+list-content: {L3_sub1,3;L3_sub2,3;List MA3,3;List MA3,3;L3_sub3,3;L3_sub3,3;}
 +
 list-type: default, visible
 list-name: Level 4000
 list-size: 7
 list-requirement: 7
-list-content: {MA4199,1;List AM4,3;List AM4,3;List AM4,3;List AM4,3;List IV,3;List IV,3;}
+list-content: {MA4199,1;List MA4,3;List MA4,3;List MA4,3;List MA4,3;List IV,3;List IV,3;}
 +
 list-type: default
 list-name: List I
@@ -37,17 +37,11 @@ list-size:4
 list-requirement: 1
 list-content: {listI_sub1,3; MA1101R,1;MA1102R,1;MA1104,1;}
 +
-list-type: default
+list-type: default, 
 list-name: listI_sub1
 list-size: 2
 list-requirement: 1
 list-content: {MA1100,2;CS1231,2;}
-+
-list-type: default
-list-name: L1_sub2 
-list-size: 4
-list-requirement: 1
-list-content: {CS1010,2;CS1010E,2;CS1010S,2;CS1010FC,2;}
 +
 list-type: default
 list-name: L2_sub1
@@ -71,7 +65,13 @@ list-type: default
 list-name: L2_sub4
 list-size: 3
 list-requirement: 1
-list-content: {List II,3;List III,3;List IV,3;} 
+list-content: {List II,3;List III,3;List IV,3;}
++
+list-type: default
+list-name: L2_sub5
+list-size: 2
+list-requirement: 1
+list-content: {MA2202,2;MA2202S,2;} 
 +
 list-type: default
 list-name: L3_sub1
@@ -112,16 +112,17 @@ list-requirement: 9
 list-content: {MA4***,5;CS4236,2;CS5230,2;CS5237,2;EC4301,2;EC5104,2;PC4248,2;PC4274,2;ST4238,2;}
 +
 list-type: default
-list-name: List AM3
-list-size: 8
+list-name: List MA3
+list-size: 6
 list-requirement: 2
-list-content: {MA3209,2;MA3220,2;MA3227,2;MA3233,2;MA3264,2;MA3236,2;MA3252,2;MA3269,2;}
+list-content: {MA3201,2;MA3205,2;MA3209,2;MA3220,2;MA3265,2;MA3266,2;}
 +
 list-type: default
-list-name: List AM4
+list-name: List MA4
 list-size: 8
 list-requirement: 4
-list-content: {MA4211,2; MA4221,2; MA4235,2; MA4230,2; MA4255,2; MA4268,2;MA4254,2;  MA4269,2;}
+list-content: {MA4203,2;MA4207,2;MA4211,2;MA4221,2;MA4247,2;MA4262,2;MA4266,2;MA4271,2;}
+
 
 
 

@@ -1,0 +1,132 @@
+title: Bachelor of Science (Statistics)
+faculty: Science
+type: degree programme,
+AY: 2016
+Updated: 20/7/2016
+Link: http://www.stat.nus.edu.sg/opencms/currentstudents/prog_ugradstruct_FOS.html#BSc2007
+specialization-list: nil, default; Biostatistics, biostatistics; Finance and Business statistics, FBS
+restriction: {}
++
+list-type: default, visible
+list-name: Level 1000
+list-size: 4
+list-requirement: 4
+list-content: {L1_sub1,3;MA1101R,1;MA1102R,1;L1_sub2,3;}
++
+list-type: default, visible
+list-name: Level 2000
+list-size: 4
+list-requirement: 4
+list-content: {L2_sub1,3;ST2132,1;ST2137,1;L2_sub2,3;}
++
+list-type: default, visible
+list-name: Level 3000
+list-size: 7
+list-requirement: 7
+list-content: {ST3131,1;L3_sub1,3;ST3241,1;L3_sub2,3;L3_sub2,3;L3_sub3,3; L3_sub3, 3;}
++
+list-type: default, visible
+list-name: Level 4000
+list-size: 7
+list-requirement: 7
+list-content: {ST4199,1;ST4***,4;ST4***,4;ST4***,4;ST4***,4;L4_sub1,3; L4_sub1, 3;}
++
+list-type: biostatistics
+list-name: list1
+list-size: 9
+list-requirement: 6
+list-content: {ST3232,2;ST3242,2;ST3243,2;ST3245,2;MA3259,2;ST4232,2;ST4241,2;ST4242,2;ST4243,2;}
++
+list-type: FBS
+list-name: list2
+list-size: 6
+list-requirement: 6
+list-content: {fbs1,3;fbs1,3;fbs2,3;fbs2,3;fbs3,3;fbs3,3;}
++
+list-type: aaaa
+list-name: fbs1
+list-size: 6
+list-requirement: 1
+list-content: {ST3233,2;ST3234,2;ST3246,2;MA3245,2;ST4245,2;MA4257,2;}
++
+list-type: aaaa
+list-name: fbs2
+list-size: 5
+list-requirement: 1
+list-content: {ST3239,2;ST3240,2;ST4233,2;ST4238,2;ST4240,2;}
++
+list-type: aaaa
+list-name: fbs3
+list-size: 2
+list-requirement:1
+list-content: {fbs1,3;fbs2,3;}
++
+list-type: default
+list-name: listA
+list-size: 17
+list-requirement:1
+list-content: {MA3209,2; MA3218,2; MA3227,2;MA3229,2;MA3233,2;MA3236,2;MA3245,2;MA3252,2;MA3256,2;MA3259,2;QF3101,2;CS3230,2;CS3223,2;CS3233,2;CS3243,2;CS3244,2;CS3304,2;}
++
+list-type: default
+list-name: listB
+list-size: 12
+list-requirement: 1
+list-content: {MA4211,2;MA4229,2;MA4230,2;MA4233,2;MA4254,2;MA4257,2;MA4260,2;MA4261,2;MA4262,2;CS4231,2;CS4220,2;EC4303,2;}
++
+list-type: default
+list-name: L1_sub1
+list-size: 2
+list-requirement: 1
+list-content: {ST1131,2;ST1232,2;}
++
+list-type: default
+list-name: L1_sub2
+list-size: 4
+list-requirement: 1
+list-content: {CS1010,2;CS1010E,2;CS1010S,2;CS1010FC,2;}
++
+list-type: default
+list-name: L2_sub1
+list-size: 3
+list-requirement: 1
+list-content: {MA2311,2;MA2108,2;MA2108S,2;}
++
+list-type: default
+list-name: L2_sub2
+list-size: 2
+list-requirement: 1
+list-content: {ST2131,2;MA2216,2;}
++
+list-type: default
+list-name: L3_sub1
+list-size: 2
+list-requirement: 1
+list-content: {MA3236,2;MA3238,2;}
++
+list-type: default
+list-name: L3_sub2
+list-size: 2
+list-requirement: 1
+list-content: {ST32**,4;ST4***,4;}
++
+list-type: default
+list-name: L3_sub3
+list-size: 4
+list-requirement: 1
+list-content: {ST32**,4;ST4***,4,listA,3;listB,3;}
++
+list-type: default
+list-name: L4_sub1
+list-size: 3
+list-requirement: 1
+list-content: {ST4***,4;ST5***,4; listB,3;}
+ 
+
+Type:
+1.	Essential
+2.	Optional
+3.	List
+4.	All modules in the level e.g. MA3***, CS21**
+5.	All modules in the level or higher
+
+
