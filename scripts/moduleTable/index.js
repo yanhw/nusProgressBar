@@ -59,6 +59,7 @@ var moduleTable = {
 			var AppBody = require("../common/index.js");
 			AppBody.request("recoverLockedModule", $(selectedTile).html(), this);
 		});
+		
 	},
 
 	//Stand by to add a given module
