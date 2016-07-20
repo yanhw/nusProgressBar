@@ -14,6 +14,8 @@ var myModules = [];			//List of modules inside module table
 var year;					//Year of matric
 var programmes = [];		//List of programmes chosen
 var numOfModules = 0;		//Number of modules inside module table
+var precludedArray = [];	//Array of module code of precluded modules
+var numOfPreclusions = 0;	//Number of modules inside preclusion array
 
 var modulePlan = {
 
@@ -46,13 +48,14 @@ var modulePlan = {
 		else
 			myModules.push(moduleToAdd);
 		numOfModules++;
+		updatePreclusionArray("add", moduleCode);
 		console.log(numOfModules);
 
 	},
 
 	getUpdate: function() {
 		var moduleArray = getCodeArray(0, 20);
-		var update = CheckProgress.check(moduleArray, myProgramme);
+		var update = CheckProgress.check(moduleArray, myProgramme, precludedArray);
 
 		return update;
 	},
@@ -80,13 +83,14 @@ var modulePlan = {
 
 	//Remove a module from module plan. This should be the only point that removes module!
 	removeModule: function(moduleCode) {
+		updatePreclusionArray("remove", moduleCode);
 		for (var i = 0; i < numOfModules; i++) {
 			if (myModules[i].getModuleCode() === moduleCode) {
 				myModules.splice(i, 1);
 				break;
 			}
 		}
-		numOfModules--;
+		numOfModules--;		
 		console.log(numOfModules);
 	},
 
@@ -153,7 +157,7 @@ function getModuleUnitByCode (code) {
 	return targetModule;
 }
 
-//Creaate an array of module codes, exclusive beginSemester and endSemester
+//Create an array of module codes, exclusive beginSemester and endSemester
 function getCodeArray (beginSemester, endSemester) {
 	var moduleCodeArray = [];
 	for (var i = 0; i < numOfModules; i++) {
@@ -162,6 +166,30 @@ function getCodeArray (beginSemester, endSemester) {
 	}
 
 	return moduleCodeArray;
+}
+
+//Update an array of module code of precluded modules
+function updatePreclusionArray (type, code) {
+	var preclusions = getModuleUnitByCode(code).getPreclusionList();
+	if (type === "add") {
+		for (var i = 0; i < preclusions.length; i++) {
+			if (precludedArray.length > numOfPreclusions)
+				precludedArray[numOfPreclusions] = preclusions[i];
+			else
+				precludedArray.push(preclusions[i]);
+			numOfPreclusions++;
+		}
+	}
+	else {
+		for (var i = 0; i < preclusions.length; i++) {
+			for (var j = 0; j < numOfPreclusions; j++) {
+				if (preclusions[i] === precludedArray[j]) {
+					precludedArray.splice(j, 1);
+					numOfPreclusions--;
+				}
+			}
+		}
+	}
 }
 
 module.exports = modulePlan;

@@ -24,6 +24,10 @@ function ModuleUnit(module, semester) {
 	this.setSemester = function (sem) {
 		this.semester = sem;
 	}
+
+	this.getPreclusionList = function () {
+		return this.module.preclusionList;
+	}
 	
 	// //Check if preprequisite of this module is fullfilled
 	// this.checkPrerequisiteStatus = function () {

@@ -9,19 +9,21 @@
 
 var count;			//Number of modules counted towards programme requirement
 var updatePackage;	//Update package for output
-var fulfilledExclusive;
+// var fulfilledExclusive;
 
 var moduleArray;
+var preclusionArray;
 
 var checkProgress = {
-	check: function (modules, programme) {
+	check: function (modules, programme, preclusions) {
 		
 		moduleArray = modules;
+		preclusionArray = preclusions;
 
 		count = 0;
 		updatePackage = {};
 
-		fulfilledExclusive = [];
+		// fulfilledExclusive = [];
 		
 
 		var moduleNodes = [];	//In step 1 it is 2D array to match tree nodes with modules, then it becomes 1D array as flag for modules
@@ -46,7 +48,7 @@ var checkProgress = {
 				}
 			}
 		}
-
+		
 		//Step 2
 		for (var r = 0; r <= 5; r++) {
 			for (var i = 0; i < modules.length; i++) {
@@ -55,11 +57,13 @@ var checkProgress = {
 				for (var j = 0; j < moduleNodes[i].length; j++) {
 					if (moduleNodes[i][j].rank === r) {
 						moduleNodes[i][j].flag = true;
-						moduleNodes[i] === true;
+						moduleNodes[i] = true;
 						break;
 					}
 				}
 			}
+			// console.log("r = " + r);
+			// console.log(moduleNodes);
 		}
 
 		// console.log("flag for ma1100: " + programme.mainList[0].list.and[0].or[0].or[0].flag);
@@ -113,16 +117,7 @@ function traceTreeRecur(list) {
 	if (list.hasOwnProperty("and"))
 		return traceTreeAnd(list);
 	else if (list.hasOwnProperty("or")) {
-		for (var i = 0; i < fulfilledExclusive.length; i++) {
-			if (fulfilledExclusive[i] === list.id)
-				return false;
-		}
-		var result = traceTreeOr(list);
-		if (result === true) {
-			console.log(list.id);
-			fulfilledExclusive.push(list.id);
-		}
-		return result;
+		return traceTreeOr(list);
 	}
 	else return traceTreeModule(list);
 }
@@ -175,10 +170,12 @@ function chosenListAnd(list, index) {
 function chosenListOr(list, index) {
 	if (list.fulfilled === false)
 		return;
-	else
+	else {
+		console.log(list.id);
 		for (var i = 0; i < list.or.length; i++) {
 			chosenListRecur(list.or[i], index);
 		}
+	}
 }
 
 function chosenListModule(list, index) {
@@ -213,7 +210,7 @@ function nonRepeatListOr(list, index) {
 }
 
 function nonRepeatListModule(list, index) {
-	if ((list.flag === false) && (!(search(list.code)))) {
+	if ((list.flag === false) && (!(search(list.code))) && (notPrecluded(list.code))) {
 		if (nonRepeat(list.code, index)) {
 			updatePackage.nonRepeatList[index].push(list.code);
 		}
@@ -235,6 +232,14 @@ function nonRepeat(moduleCode, index) {
 		if (updatePackage.nonRepeatList[index][i] === moduleCode) {
 			return false;
 		}
+	}
+	return true;
+}
+
+function notPrecluded(moduleCode) {
+	for (var i = 0; i < preclusionArray.length; i++) {
+		if (preclusionArray[i] === moduleCode)
+			return false;
 	}
 	return true;
 }
