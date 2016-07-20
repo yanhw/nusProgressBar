@@ -20,12 +20,17 @@ public class ProgrammeJSONGenerator {
 	        e.printStackTrace();
 	    }
 		
-		Scanner sc = new Scanner(System.in);
-		System.out.println("Enter file name");
-		String filename = sc.nextLine();
-		Programme myProgramme = new Programme(filename, modules);
-		myProgramme.edit();
-		myProgramme.generateJSON();
-		sc.close();
+//		while (true) {
+			Scanner sc = new Scanner(System.in);
+			System.out.println("Enter file name");
+			sc.reset();
+			String filename = sc.nextLine();
+//			if (filename.equals("-1"))
+//				break;
+			Programme myProgramme = new Programme(filename, modules);
+			myProgramme.edit();
+			myProgramme.generateJSON();
+			sc.close();
+//		}
 	}
 }
