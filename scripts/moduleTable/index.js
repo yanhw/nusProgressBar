@@ -8,6 +8,7 @@ var selectedLockedTile = null;			//tile for selected locked module
 var numCol = 5;							//number of module tiles displaced per semester
 
 var SelectedModule = require("./view/selectedModule.js");
+var keepData = require("../localStorage.js");
 
 var moduleTable = {
 	setup: function() {
@@ -16,6 +17,7 @@ var moduleTable = {
 			if (isStandingBy) {
 				var AppBody = require("../common/index.js");
 				AppBody.request("addModuleToTile", this, standingByModule);
+
 			}
 			else{		//This should not happen, debug if you see this!
 				alert("active-module-tile is present without isStandingBy!");
@@ -33,12 +35,14 @@ var moduleTable = {
 		$("#module-table").on("click", ".selected-module-tile", function() {
 			var AppBody = require("../common/index.js");
 			AppBody.request("removeSelection", null, this);
+
 		});
 
 		//Click on an empty tile that is able to swap with current tile
 		$("#module-table").on("click", ".avaliable-to-replace-module-tile", function() {
-			var AppBody = require("../common/index.js");
+		    var AppBody = require("../common/index.js");
 			AppBody.request("swapToEmptyTile", selectedTile, this);
+			
 		});
 
 		//Click on another occupied module tile that is able to swap with current tile
@@ -59,6 +63,7 @@ var moduleTable = {
 			var AppBody = require("../common/index.js");
 			AppBody.request("recoverLockedModule", $(selectedTile).html(), this);
 		});
+
 		
 	},
 
@@ -186,6 +191,21 @@ var moduleTable = {
 		return target;
 	},
 
+	getTileByHtml: function(elements){
+		var target;
+		console.log("executed");
+		$(".module-tile").each(function () {
+			console.log("outerHTML");
+			console.log($(this).outerHTML);
+			console.log(elements);
+			if ($(this).outerHTML === elements) {
+				target = this;
+			}
+		});
+		return target;
+	},
+
+							    
 	//Return semester that the tile is in
 	getSemesterByTile: function(target) {
 		var targetSem = $(target).parent(".semester");
@@ -195,19 +215,24 @@ var moduleTable = {
 	
 	//This adds a module to target tile
 	addModule: function(target, moduleCode) {
-		$(target).addClass("occupied-module-tile");
+		
+        keepData.saveModuleToLocalStorage(moduleCode, target);
+        $(target).addClass("occupied-module-tile");
 		$(target).removeClass("empty-module-tile");
 		$(target).text(moduleCode);
-		
+		console.log("target");
+		console.log(target);
+	
 	},
 
 	//This removes a module from target tile
 	removeModule: function(target) {
-		console.log($(target).html());
+		//console.log($(target).html());
+		var mod = moduleTable.getCodeByTile(target);
 		$(target).addClass("empty-module-tile");
 		$(target).removeClass("occupied-module-tile");
 		$(target).text("");
-
+		keepData.removeModuleFrLocalStorage(mod);
 	},
 
 	refresh: function () {

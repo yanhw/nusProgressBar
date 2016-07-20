@@ -9,6 +9,8 @@ var MyPlan = require("../modulePlan/modulePlan.js");
 
 var AppliedMath = require("../../data/2015Bachelor of Science (Applied Mathematics).json");
 
+var keepData = require("../localStorage.js");
+
 var blocked = false;		//blocked is true when there is pop up windows in display
 var hasProgramme = false;
 
@@ -20,6 +22,8 @@ var AppBody = {
 		ModuleTable.setup();
 		ChooseProgramme.setup();
 		//ProgressBar.setup(programme);
+		keepData.retreiveModules();
+
 	},
 
 	//Handle request from listeners.
@@ -114,6 +118,8 @@ var AppBody = {
 				if (blocked)
 					return;			
 				ModuleTable.removeStandby();
+				console.log('type');
+				console.log(type);
 				var semester = ModuleTable.getSemesterByTile(type);
 				MyPlan.add(data,semester);
 				ModuleTable.addModule(type, data); 
