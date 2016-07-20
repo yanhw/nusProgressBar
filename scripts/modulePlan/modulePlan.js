@@ -136,7 +136,7 @@ var modulePlan = {
 
 	//Saves the programme
 	saveAndEditProgramme: function(programme) {
-		myProgramme = EditProgramme.edit(programme);
+		myProgramme = EditProgramme.edit(programme, "nil");
 		return myProgramme;
 	}
 };
