@@ -9,6 +9,7 @@ public class ModuleList {
 	private int listRequirement;
 	private LinkedList<Pair> listContent;
 	private Exclusion exclusion;
+	private boolean hasExclusion;
 	
 	public ModuleList(BufferedReader in) {
 		String input;
@@ -47,12 +48,26 @@ public class ModuleList {
 			}
 			
 			//Read exclusion
-			if (input.charAt(input.length()-1) == '+')
+			hasExclusion = false;
+			if (input.charAt(input.length()-1) == '+') {
 				exclusion = new Exclusion(in.readLine());
+				hasExclusion = true;
+			}
 		} catch (IOException e) {
 	        System.out.println("File read error for list! ");
 	        e.printStackTrace();
 	    } 
+	}
+	
+	public ModuleList(String name, String type) {
+		listType = new LinkedList<String>();
+		listType.add("exclusion");
+		listName = name+ " excluded";
+		listSize = 1;
+		listRequirement = 1;
+		listContent = new LinkedList<Pair>();
+		listContent.add(new Pair(name, Integer.parseInt(type)));
+		hasExclusion = false;
 	}
 	
 	public LinkedList<String> getTypes() {
@@ -77,5 +92,9 @@ public class ModuleList {
 	
 	public Exclusion getExclusion() {
 		return exclusion;
+	}
+	
+	public boolean hasExclusion() {
+		return hasExclusion;
 	}
 }
