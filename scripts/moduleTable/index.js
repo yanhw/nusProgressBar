@@ -8,7 +8,7 @@ var selectedLockedTile = null;			//tile for selected locked module
 var numCol = 5;							//number of module tiles displaced per semester
 
 var SelectedModule = require("./view/selectedModule.js");
-var keepData = require("../localStorage.js");
+var KeepData = require("../localStorage.js");
 
 var moduleTable = {
 	setup: function() {
@@ -16,7 +16,7 @@ var moduleTable = {
 		$("#module-table").on("click", '.active-module-tile', function() {
 			if (isStandingBy) {
 				var AppBody = require("../common/index.js");
-				AppBody.request("addModuleToTile", this, standingByModule);
+				AppBody.request("addModuleToTile", "#"+$(this).attr("id"), standingByModule);
 
 			}
 			else{		//This should not happen, debug if you see this!
@@ -26,29 +26,33 @@ var moduleTable = {
 
 		//Click on occupied module tile
 		$("#module-table").on("click", ".occupied-module-tile", function() {
+			// $("#message-area").append("<div class='messageBox'>Here we say something very important!</div> ");
+			// setTimeout(function() {  
+			// 	$('.messageBox').fadeOut('fast');  
+			// }, 1000);
 			var moduleCode = $(this).html();
 			var AppBody = require("../common/index.js");
-			AppBody.request("selectThisModule", this, moduleCode);
+			AppBody.request("selectThisModule", "#"+$(this).attr("id"), moduleCode);
 		});
 
 		//Click on selected module tile
 		$("#module-table").on("click", ".selected-module-tile", function() {
 			var AppBody = require("../common/index.js");
-			AppBody.request("removeSelection", null, this);
+			AppBody.request("removeSelection", null, "#"+$(this).attr("id"));
 
 		});
 
 		//Click on an empty tile that is able to swap with current tile
 		$("#module-table").on("click", ".avaliable-to-replace-module-tile", function() {
 		    var AppBody = require("../common/index.js");
-			AppBody.request("swapToEmptyTile", selectedTile, this);
+			AppBody.request("swapToEmptyTile", selectedTile, "#"+$(this).attr("id"));
 			
 		});
 
 		//Click on another occupied module tile that is able to swap with current tile
 		$("#module-table").on("click", ".free-to-swap-module-tile", function() {
 			var AppBody = require("../common/index.js");
-			AppBody.request("swapToOccupiedTile", selectedTile, this);
+			AppBody.request("swapToOccupiedTile", selectedTile, "#"+$(this).attr("id"));
 		});
 
 		//Click on locked module tile
@@ -87,15 +91,15 @@ var moduleTable = {
 	},
 
 	//Select a module tile
-	select: function(targetTile, relatives) {
+	select: function(id, relatives) {
 		// SelectedModule.select(targetTile, relatives);
 		if (isSelected) {
 			alert("some other tile is selected");  		//This should not happen
 		}
 		else {
-			$(targetTile).addClass("selected-module-tile");
-			$(targetTile).removeClass("occupied-module-tile");
-			selectedTile = targetTile;
+			$(id).addClass("selected-module-tile");
+			$(id).removeClass("occupied-module-tile");
+			selectedTile = id;
 			moduleTable.buildChildrenBlock(relatives);
 			$(".empty-module-tile").each(function () {
 				$(this).addClass("avaliable-to-replace-module-tile");
@@ -191,24 +195,15 @@ var moduleTable = {
 		return target;
 	},
 
-	getTileByHtml: function(elements){
-		var target;
-		console.log("executed");
-		$(".module-tile").each(function () {
-			console.log("outerHTML");
-			console.log($(this).outerHTML);
-			console.log(elements);
-			if ($(this).outerHTML === elements) {
-				target = this;
-			}
-		});
-		return target;
+	//Return module-tile with id
+	getTileById: function(id){
+		return $(id);
 	},
 
 							    
 	//Return semester that the tile is in
-	getSemesterByTile: function(target) {
-		var targetSem = $(target).parent(".semester");
+	getSemesterByTileId: function(id) {
+		var targetSem = $(id).parent(".semester");
 		var sem = targetSem.attr("id");
 		return parseInt(sem.substring(1));
 	},
@@ -216,7 +211,7 @@ var moduleTable = {
 	//This adds a module to target tile
 	addModule: function(target, moduleCode) {
 		
-        keepData.saveModuleToLocalStorage(moduleCode, target);
+        // KeepData.saveModuleToLocalStorage(moduleCode, target);
         $(target).addClass("occupied-module-tile");
 		$(target).removeClass("empty-module-tile");
 		$(target).text(moduleCode);
@@ -232,7 +227,7 @@ var moduleTable = {
 		$(target).addClass("empty-module-tile");
 		$(target).removeClass("occupied-module-tile");
 		$(target).text("");
-		keepData.removeModuleFrLocalStorage(mod);
+		// KeepData.removeModuleFrLocalStorage(mod);
 	},
 
 	refresh: function () {
@@ -310,8 +305,14 @@ function addCol() {
 		// $(this).addClass("second-last-tile");
 	});
 	$(".semester").append("<div class='module-tile last-tile empty-module-tile'>");
-	// });
 	numCol++;
+	var i = 1;
+	$(".last-tile").each(function() {
+		$(this).attr("id", "s"+i+"t"+numCol);
+		i++;
+	})
+	// });
+	
 }
 
 function removeCol() {

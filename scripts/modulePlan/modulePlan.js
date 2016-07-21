@@ -53,11 +53,20 @@ var modulePlan = {
 
 	},
 
+	//Generate and return update package
 	getUpdate: function() {
 		var moduleArray = getCodeArray(0, 20);
 		var update = CheckProgress.check(moduleArray, myProgramme, precludedArray);
 
 		return update;
+	},
+
+	//Generate and return messate package
+	getMessages: function() {
+		var messagePackage = [];
+		messagePackage = messagePackage.concat(checkAllPreclusionStatus());
+		messagePackage = messagePackage.concat(checkAllPrerequisiteStatus());
+		return messagePackage;
 	},
 
 	//Return other modules that are related to selected module
@@ -94,40 +103,6 @@ var modulePlan = {
 		console.log(numOfModules);
 	},
 
-	//Check if a given module is precluded by any existing modules
-	checkPreclusion: function(moduleCode) {
-		var targetModule = getModuleByCode(moduleCode);
-		var notPrecluded = true;
-		for (var i = 0; i < targetModule.preclusionList.length; i++) {
-			for (var j = 0; j < numOfModules; j++) {
-				if (targetModule.preclusionList[i] === myModules[j].getModuleCode())
-					notPrecluded = new Message("warning", "You cannot add this module because it is precluded by " + myModules[j].getModuleCode(), moduleCode);
-			}
-		}
-
-		return notPrecluded;
-	},
-
-	//Check if preprequisite of this module is fullfilled
-	checkPrerequisiteStatus: function (moduleCode, semester) {
-		var requirement = getModuleByCode(moduleCode).parsedPrerequisite;
-		var moduleCodeList = getCodeArray(0, semester);
-		var result = CheckPrerequisite.check(requirement, moduleCodeList);
-		if (result === true)
-			return result;
-		else 
-			return new Message("error", "You have not fullfilled prerequisite of" + moduleCode);
-	},
-
-	//Check prerequisite status for all modules in the module table
-	checkAllPrerequisiteStatus: function() {
-		for (var i = 0; i < numOfModules; i++) {
-			var requirement = myModules[i].getParsedPrerequisite();
-			var semester = myModules[i].getSemester();
-			checkPrerequisiteStatus(requirement, semester);
-		}
-	},
-
 	//Change semester of this module
 	changeSemester: function(moduleCode, semester) {
 		var thisModule = getModuleUnitByCode(moduleCode);
@@ -135,11 +110,60 @@ var modulePlan = {
 	},
 
 	//Saves the programme
-	saveAndEditProgramme: function(programme) {
-		myProgramme = EditProgramme.edit(programme, "nil");
+	saveAndEditProgramme: function(programme, specialisation) {
+		myProgramme = EditProgramme.edit(programme, specialisation);
 		return myProgramme;
 	}
 };
+
+//Check if a given module is precluded by any existing modules
+function checkPreclusion(module, semester) {
+	var targetModule = module.getModule();
+	var notPrecluded = true;
+	var scanningArray = getCodeArray(0, semester+1);
+	for (var i = 0; i < targetModule.preclusionList.length; i++) {
+		for (var j = 0; j < scanningArray.length; j++) {
+			if (targetModule.preclusionList[i] === scanningArray[j])
+				notPrecluded = new Message("preclusion", [module.getModuleCode(), scanningArray[j]]);
+		}
+	}
+	return notPrecluded;
+}
+
+//Check preclusion status for all modules in the module table
+function checkAllPreclusionStatus() {
+	var resultArray = [];
+	for (var i = 0; i < numOfModules; i++) {
+		var semester = myModules[i].getSemester();
+		var result = checkPreclusion(myModules[i], semester);
+		if (result !== true)
+			resultArray.push(result);
+	}
+	return resultArray;
+}
+
+//Check if preprequisite of this module is fullfilled
+function checkPrerequisiteStatus(module, semester) {
+	var requirement = module.getModule().parsedPrerequisite;
+	var moduleCodeList = getCodeArray(0, semester);
+	var result = CheckPrerequisite.check(requirement, moduleCodeList);
+	if (result === true)
+		return result;
+	else 
+		return new Message("prerequisite", module.getModuleCode());
+}
+
+//Check prerequisite status for all modules in the module table
+function checkAllPrerequisiteStatus() {
+	var resultArray = [];
+	for (var i = 0; i < numOfModules; i++) {
+		var semester = myModules[i].getSemester();
+		var result = checkPrerequisiteStatus(myModules[i], semester);
+		if (result !== true)
+			resultArray.push(result);
+	}
+	return resultArray;
+}
 
 function getModuleByCode (code) {
 	var xhr = new XMLHttpRequest();

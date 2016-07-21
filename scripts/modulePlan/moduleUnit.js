@@ -10,6 +10,11 @@ function ModuleUnit(module, semester) {
 		return this.module.moduleCode;
 	}
 
+	//Return module
+	this.getModule = function getModule() {
+		return this.module;
+	}
+
 	//Return semester
 	this.getSemester = function () {
 		return this.semester;

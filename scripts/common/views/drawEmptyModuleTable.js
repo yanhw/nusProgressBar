@@ -16,7 +16,10 @@ var drawEmptyModuleTable = {
 			$(semId).append("<div class='semester-head'><p>Year " + (i + flag)/2 + "</p><p>Sem " + (2-flag) + "</p></div>");
 			flag = 1-flag;
 			for (var j = 1; j <= numCol; j++) {
-				$(semId).append("<div class='module-tile empty-module-tile' id='s" + i + "t" + j +"'></div>");
+				if ((j === numCol) && (j>5))
+					$(semId).append("<div class='module-tile empty-module-tile last-tile' id='s" + i + "t" + j +"'></div>");
+				else
+					$(semId).append("<div class='module-tile empty-module-tile' id='s" + i + "t" + j +"'></div>");
 			}
 			$(semId).append("<div class= 'semester-mc'>0 MCs</div>")
 		}

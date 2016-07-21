@@ -13,6 +13,7 @@ var keepData = require("../localStorage.js");
 
 var blocked = false;		//blocked is true when there is pop up windows in display
 var hasProgramme = false;
+var updatePackage = false;
 
 var AppBody = {
 
@@ -32,10 +33,14 @@ var AppBody = {
 
 			//type = programmeObject, data = specialisation name
 			case "saveProgramme" :
-				var programme = type;
-				var editedProgramme = MyPlan.saveAndEditProgramme(programme);
+				var editedProgramme = MyPlan.saveAndEditProgramme(type, data);
 				ProgressBar.setup(editedProgramme);
 				hasProgramme = true;
+				if (hasProgramme) {
+					updatePackage = MyPlan.getUpdate();
+					ProgressBar.update(updatePackage);
+					ModuleTable.refreshColour(updatePackage);
+				}
 				break;
 
 			//type = "select", data = moduleCode
@@ -71,13 +76,12 @@ var AppBody = {
 							ModuleTable.removeSelection(selected);
 						}
 						var isInsidePlan = MyPlan.isInsidePlan(data);
-						var notPrecluded = MyPlan.checkPreclusion(data);
-						if ((!isInsidePlan) && (notPrecluded === true)) {     		//isInsidePlan should always be false, to be removed in the future
+						if ((!isInsidePlan)) {     		//isInsidePlan should always be false, to be removed in the future
 							ModuleTable.standby(data);
 						}
-						if (notPrecluded !== true) {
-							MessageArea.add(notPrecluded);
-						}
+						// if (notPrecluded !== true) {
+						// 	MessageArea.add(notPrecluded);
+						// }
 					}	
 				}
 				else {
@@ -89,10 +93,13 @@ var AppBody = {
 					ModuleTable.refresh();
 					ModuleInfo.setButton("Add");
 					if (hasProgramme) {
-						var updatePackage = MyPlan.getUpdate()
+						updatePackage = MyPlan.getUpdate();
 						ProgressBar.update(updatePackage);
 						ModuleTable.refreshColour(updatePackage);
 					}
+
+					var messagePackage = MyPlan.getMessages();
+					MessageArea.display(messagePackage);
 				}
 				break;
 
@@ -113,30 +120,30 @@ var AppBody = {
 				blocked = false;
 				break;
 
-			//type = clicked tile, data = module code of standing by module
+			//type = id of clicked tile, data = module code of standing by module
 			case "addModuleToTile" :	
 				if (blocked)
 					return;			
 				ModuleTable.removeStandby();
 				console.log('type');
 				console.log(type);
-				var semester = ModuleTable.getSemesterByTile(type);
+				var semester = ModuleTable.getSemesterByTileId(type);
 				MyPlan.add(data,semester);
 				ModuleTable.addModule(type, data); 
 				ModuleTable.refresh();
 				ModuleInfo.setButton("Remove");
-				var fulfilledPrerequisite = MyPlan.checkPrerequisiteStatus(data, semester);
-				if (fulfilledPrerequisite !== true) {
-					MessageArea.add(fulfilledPrerequisite);
-				}
+				
 				if (hasProgramme) {
-					var updatePackage = MyPlan.getUpdate()
+					updatePackage = MyPlan.getUpdate();
 					ProgressBar.update(updatePackage);
 					ModuleTable.refreshColour(updatePackage);
 				}
+
+				var messagePackage = MyPlan.getMessages();
+				MessageArea.display(messagePackage);
 				break;
 
-			//type = module tile, data = module code
+			//type = id of module tile, data = module code
 			case "selectThisModule" :
 				if (blocked)
 					return;
@@ -153,7 +160,7 @@ var AppBody = {
 				ModuleTable.removeSelection(data);
 				break;
 
-			//type = selected module tile, data = target empty tile
+			//type = selected module tile, data = id of target empty tile
 			case "swapToEmptyTile" :
 				if (blocked)
 					return;
@@ -162,45 +169,41 @@ var AppBody = {
 				ModuleTable.removeModule(type);
 				ModuleTable.addModule(data, moduleCode);		
 				ModuleTable.refresh();		
-				var semester = ModuleTable.getSemesterByTile(data);
+				var semester = ModuleTable.getSemesterByTileId(data);
 				MyPlan.changeSemester(moduleCode, semester);
-				var fulfilledPrerequisite = MyPlan.checkPrerequisiteStatus(moduleCode, semester);
-				if (fulfilledPrerequisite !== true) {
-					alert("You have not fulfilled the prerequisite of " + moduleCode + "!");
-				}
+				
 				if (hasProgramme) {
-					var updatePackage = MyPlan.getUpdate()
-					ProgressBar.update(updatePackage);
+					if (updatePackage === false)
+						updatePackage = MyPlan.getUpdate();
 					ModuleTable.refreshColour(updatePackage);
 				}
+
+				var messagePackage = MyPlan.getMessages();
+				MessageArea.display(messagePackage);
 				break;
 
-			//type = selected module tile, data = target module tile
+			//type = selected module tile, data = id of target module tile
 			case "swapToOccupiedTile" :
 				if (blocked)
 					return;
 				var firstModuleCode = ModuleTable.getCodeByTile(type);
 				var secondModuleCode = ModuleTable.getCodeByTile(data);
-				var firstSemester = ModuleTable.getSemesterByTile(type);
-				var secondSemester = ModuleTable.getSemesterByTile(data);
+				var firstSemester = ModuleTable.getSemesterByTileId(type);
+				var secondSemester = ModuleTable.getSemesterByTileId(data);
 				ModuleTable.removeSelection(type);
 				ModuleTable.addModule(type, secondModuleCode);
 				ModuleTable.addModule(data, firstModuleCode);
 				MyPlan.changeSemester(firstModuleCode, secondSemester);
 				MyPlan.changeSemester(secondModuleCode, firstSemester);
-				var fulfilledPrerequisite = MyPlan.checkPrerequisiteStatus(firstModuleCode, secondSemester);
-				if (!fulfilledPrerequisite) {
-					alert("You have not fulfilled the prerequisite of " + firstModuleCode + "!");
-				}
-				var fulfilledPrerequisite2 = MyPlan.checkPrerequisiteStatus(secondModuleCode, firstSemester);
-				if (!fulfilledPrerequisite2) {
-					alert("You have not fulfilled the prerequisite of " + secondModuleCode + "!");
-				}
+				
 				if (hasProgramme) {
-					var updatePackage = MyPlan.getUpdate()
-					ProgressBar.update(updatePackage);
+					if (updatePackage === false)
+						updatePackage = MyPlan.getUpdate();
 					ModuleTable.refreshColour(updatePackage);
 				}
+
+				var messagePackage = MyPlan.getMessages();
+				MessageArea.display(messagePackage);
 				break;
 
 			//type = module code, data = locked module tile
