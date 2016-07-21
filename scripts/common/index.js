@@ -22,7 +22,7 @@ var AppBody = {
 		ModuleTable.setup();
 		ChooseProgramme.setup();
 		//ProgressBar.setup(programme);
-		keepData.retreiveModules();
+		// keepData.retreiveModules();
 
 	},
 

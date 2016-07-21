@@ -46,7 +46,6 @@ var drawDefaultModuleInfo = {
 			  source: substringMatcher(moduleList)
 			});
 
-
 		});
 
 		//This block will be shifted to another js file
