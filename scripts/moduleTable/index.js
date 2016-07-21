@@ -211,7 +211,7 @@ var moduleTable = {
 	//This adds a module to target tile
 	addModule: function(target, moduleCode) {
 		
-        // KeepData.saveModuleToLocalStorage(moduleCode, target);
+        KeepData.saveModuleToLocalStorage(moduleCode, target);
         $(target).addClass("occupied-module-tile");
 		$(target).removeClass("empty-module-tile");
 		$(target).text(moduleCode);
@@ -227,7 +227,7 @@ var moduleTable = {
 		$(target).addClass("empty-module-tile");
 		$(target).removeClass("occupied-module-tile");
 		$(target).text("");
-		// KeepData.removeModuleFrLocalStorage(mod);
+		KeepData.removeModuleFrLocalStorage(mod);
 	},
 
 	refresh: function () {

@@ -1,5 +1,7 @@
 'use strict';
 
+var recovering = false;
+
 var keepData = {
 /*
 	Storage.prototype.setObj: function(key, obj) {
@@ -11,7 +13,13 @@ var keepData = {
     },
 */
 	saveModuleToLocalStorage: function(mod, tile) {
-		var tiles = tile.outerHTML;
+		if (recovering === true)
+			return;
+		var tiles;
+		if (tile.charAt(0) === '#')
+			tiles = tile;
+		else
+			tiles = "#"+tile;
 		var modObj = {"mod": mod, "tile": tiles};
 		//console.log("tile");
 		//console.log(tile);
@@ -21,14 +29,15 @@ var keepData = {
 		if(localStorage.getItem('modules')!=null){
 		    modules = JSON.parse(localStorage.getItem('modules'));
 		    //console.log("stored modules");
-		    //console.log(modules);
+		    
 		    
 		}
 		modules.push(modObj);
+		// console.log(modules);
 		localStorage.setItem('modules',JSON.stringify(modules));
 		var nowMod = JSON.parse(localStorage.getItem('modules'));
-		console.log("saved");
-		console.log(nowMod);
+		// console.log("saved");
+		// console.log(nowMod);
 	},
 
 
@@ -38,38 +47,41 @@ var keepData = {
 	    for (var i=0; i< modules.length; i++){
 	    	rem = modules[i];
 	        if (rem.mod == data) {
-	        	console.log("removed!");
+	        	// console.log("removed!");
 	        	modules.splice(i,1);
 	        	break;
 	        }
 	    }
 	    localStorage["modules"] = JSON.stringify(modules);
-	    console.log('module removed');
-	    console.log(modules);
+	    // console.log('module removed');
+	    // console.log(modules);
 	},
 
 	retreiveModules: function(){
 		//localStorage.clear();
+		recovering = true;
 		console.log("retriving last moduleTable");
 		var modules = [];
 		if(localStorage.length!=0){
 	        modules = JSON.parse(localStorage.getItem('modules'));
-	        console.log(modules);
+	        // console.log(modules);
             var AppBody = require("./common/index.js");
-            var ModuleTable = require("./moduleTable/index.js");
 
 	        for(var i=0; i<modules.length; i++){
 	        	var moduleCode = modules[i].mod;
-	        	console.log(moduleCode + "retreived");
-	        	var elements = modules[i].tile;
+	        	// console.log(moduleCode + "retreived");
+	        	// console.log(modules[i].tile);
+	        	// var elements = modules[i].tile;
                 
-	        	var target = ModuleTable.getTileByHtml(elements);
-	        	console.log("tile retreived");
-                console.log(elements);
+	        	// var target = ModuleTable.getTileById(elements);
+	        	// console.log("tile retreived");
+          //       console.log(elements);
                 //AppBody.request("addModuleToTile", elements, moduleCode);
-				AppBody.request("addModuleToTile", target, moduleCode);
+				AppBody.request("addModuleToTile", modules[i].tile, moduleCode);
 			}
 	    }
+
+	    recovering = false;
 	}
 
 }

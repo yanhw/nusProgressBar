@@ -22,8 +22,10 @@ var AppBody = {
 		ModuleInfo.setup();
 		ModuleTable.setup();
 		ChooseProgramme.setup();
-		//ProgressBar.setup(programme);
-		// keepData.retreiveModules();
+
+		//Use the line below if you want to refresh bowser history
+		// localStorage.setItem('modules', "[]");
+		keepData.retreiveModules();
 
 	},
 
