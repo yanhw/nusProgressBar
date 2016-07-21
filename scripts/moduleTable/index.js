@@ -30,7 +30,7 @@ var moduleTable = {
 			// setTimeout(function() {  
 			// 	$('.messageBox').fadeOut('fast');  
 			// }, 1000);
-			var moduleCode = $(this).html();
+			var moduleCode = $(this).children(".tile-code").html();
 			var AppBody = require("../common/index.js");
 			AppBody.request("selectThisModule", "#"+$(this).attr("id"), moduleCode);
 		});
@@ -57,7 +57,7 @@ var moduleTable = {
 
 		//Click on locked module tile
 		$("#module-table").on("click", ".locked-module-tile", function() {
-			var moduleCode = $(this).html();
+			var moduleCode = $(this).children(".tile-class").html();
 			var AppBody = require("../common/index.js");
 			AppBody.request("selectLockedModule", moduleCode, this);
 		});
@@ -65,7 +65,7 @@ var moduleTable = {
 		//Click on selected locked module tile
 		$("#module-table").on("click", ".selected-locked-module-tile", function() {
 			var AppBody = require("../common/index.js");
-			AppBody.request("recoverLockedModule", $(selectedTile).html(), this);
+			AppBody.request("recoverLockedModule", $(selectedTile).children(".tile-class").html(), this);
 		});
 
 		
@@ -180,14 +180,14 @@ var moduleTable = {
 
 	//Return module code of required tile
 	getCodeByTile: function(target) {
-		return $(target).html();
+		return $(target).children(".tile-code").html();
 	},
 
 	//Return module-tile that holds the module
 	getTileByCode: function(moduleCode) {
 		var target;
 		$(".module-tile").each(function () {
-			if ($(this).html() === moduleCode) {
+			if ($(this).children(".tile-code").html() === moduleCode) {
 				target = this;
 				// return this;			This should works but it does not and I have no idea why
 			}
@@ -214,9 +214,7 @@ var moduleTable = {
         KeepData.saveModuleToLocalStorage(moduleCode, target);
         $(target).addClass("occupied-module-tile");
 		$(target).removeClass("empty-module-tile");
-		$(target).text(moduleCode);
-		console.log("target");
-		console.log(target);
+		$(target).append("<div class='tile-code'>"+moduleCode+"</div>");
 	
 	},
 
@@ -226,7 +224,7 @@ var moduleTable = {
 		var mod = moduleTable.getCodeByTile(target);
 		$(target).addClass("empty-module-tile");
 		$(target).removeClass("occupied-module-tile");
-		$(target).text("");
+		$(target).children(".tile-code").remove();		
 		KeepData.removeModuleFrLocalStorage(mod);
 	},
 

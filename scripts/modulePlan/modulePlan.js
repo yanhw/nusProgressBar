@@ -40,6 +40,7 @@ var modulePlan = {
 
 	//Add a module to module plan. This should be the only point that adds module!
 	add: function(moduleCode, semester) {
+		console.log("adding " + moduleCode + " to plan");
 		var moduleToAdd = new ModuleUnit(getModuleByCode(moduleCode), semester);
 //		console.log(getModuleByCode(moduleCode).moduleCode);
 //		console.log(moduleToAdd.getModuleCode());
