@@ -127,8 +127,8 @@ var AppBody = {
 				if (blocked)
 					return;			
 				ModuleTable.removeStandby();
-				console.log('type');
-				console.log(type);
+				// console.log('type');
+				// console.log(type);
 				var semester = ModuleTable.getSemesterByTileId(type);
 				MyPlan.add(data,semester);
 				ModuleTable.addModule(type, data); 
@@ -193,6 +193,8 @@ var AppBody = {
 				var firstSemester = ModuleTable.getSemesterByTileId(type);
 				var secondSemester = ModuleTable.getSemesterByTileId(data);
 				ModuleTable.removeSelection(type);
+				ModuleTable.removeModule(type);
+				ModuleTable.removeModule(data);
 				ModuleTable.addModule(type, secondModuleCode);
 				ModuleTable.addModule(data, firstModuleCode);
 				MyPlan.changeSemester(firstModuleCode, secondSemester);

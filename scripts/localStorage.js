@@ -25,7 +25,7 @@ var keepData = {
 		//console.log(tile);
 		//console.log(tiles);
 		var modules = [];
-		console.log(localStorage.getItem('modules'));
+		// console.log(localStorage.getItem('modules'));
 		if(localStorage.getItem('modules')!=null){
 		    modules = JSON.parse(localStorage.getItem('modules'));
 		    //console.log("stored modules");
