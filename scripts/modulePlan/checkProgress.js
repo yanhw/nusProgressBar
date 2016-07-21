@@ -13,6 +13,9 @@ var updatePackage;	//Update package for output
 
 var moduleArray;
 var preclusionArray;
+var limitedArray;
+var limitSize;
+var limitCount;
 
 var checkProgress = {
 	check: function (modules, programme, preclusions) {
@@ -22,6 +25,14 @@ var checkProgress = {
 
 		count = 0;
 		updatePackage = {};
+
+		limitedArray = [];
+		limitCount = 0;
+		limitSize = 0;
+		if (programme.restriction.type === "cap") {
+			limitedArray = programme.restriction.list;
+			limitSize = programme.restriction.limit;
+		}
 
 		// fulfilledExclusive = [];
 		
@@ -55,7 +66,7 @@ var checkProgress = {
 				if (moduleNodes[i] === true)
 					continue;
 				for (var j = 0; j < moduleNodes[i].length; j++) {
-					if (moduleNodes[i][j].rank === r) {
+					if ((moduleNodes[i][j].rank === r) && (checkAndUpdateRestriction(modules[j]))) {
 						moduleNodes[i][j].flag = true;
 						moduleNodes[i] = true;
 						break;
@@ -242,6 +253,19 @@ function notPrecluded(moduleCode) {
 			return false;
 	}
 	return true;
+}
+
+function checkAndUpdateRestriction(moduleCode) {
+	var isInside = false;
+	for (var i = 0; i < limitedArray.length; i++) {
+		if (moduleCode === limitedArray[i])
+			isInside = true;
+	}
+	if ((isInside) && (limitCount < limitSize)) {
+		limitCount++;
+		return true;
+	}
+	return false;
 }
 
 module.exports = checkProgress;

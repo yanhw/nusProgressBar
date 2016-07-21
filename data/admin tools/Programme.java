@@ -16,6 +16,7 @@ public class Programme {
 	private String link;
 	private int AY;
 	private LinkedList<ModuleList> lists;
+	private String restrictions;
 	
 	private LinkedList<String> specialisations;
 	private LinkedList<String> specialisationStrings;
@@ -59,7 +60,7 @@ public class Programme {
 	        	specialisations.add(tokens[i].trim());
 	        }
 	        
-	        in.readLine();
+	        restrictions = in.readLine();
 	        
 	        //Read lists
 	        lists = new LinkedList<ModuleList>();
@@ -186,6 +187,12 @@ public class Programme {
 	private String createList(ModuleList list, String target, int rank) {
 		String output = "";
 		LinkedList<String> listString = new LinkedList<String>();
+		
+		Exclusion exclusion = null;
+		if (list.hasExclusion()) {
+			exclusion = list.getExclusion();
+		}
+		
 		for (int i = 0; i < list.getListSize(); i++) {
 			if ((list.getItem(i).getType() == 1) || (list.getItem(i).getType() == 2)) {
 				if (rank < 3)
@@ -198,7 +205,7 @@ public class Programme {
 					listString.add(value);
 			}
 			else if (list.getItem(i).getType() == 4) {
-				listString.add(createType4(list.getItem(i).getName()));
+				listString.add(createType4(list.getItem(i).getName(), exclusion));
 			}
 			else if (list.getItem(i).getType() == 5) {
 				listString.add(createType5(list.getItem(i).getName()));
@@ -245,17 +252,49 @@ public class Programme {
 		return output;
 	}
 	
-	private String createType4(String input) {
+	private String createType4(String input, Exclusion exclusion) {
 		String output = "";
 		String target = "";
 		for (int i = 0; i < input.length(); i++)
 			if (input.charAt(i) != '*')
 				target += input.charAt(i);
 //		CharSequence sequence = target;
+		
+		LinkedList<String> excludedList = null;
+		if (exclusion != null) {
+			excludedList = new LinkedList<String>();
+			for (Triple temp : exclusion.getExclusionList()) {
+				if ((temp.getFirst().equals(input))) {
+					if (Integer.parseInt(temp.getThird()) == 1)
+						excludedList.add(temp.getSecond());
+					else if (Integer.parseInt(temp.getThird()) == 4) {
+						String excludedTarget = "";
+						for (int i = 0; i < temp.getSecond().length(); i++)
+							if (temp.getSecond().charAt(i) != '*')
+								excludedTarget += temp.getSecond().charAt(i);
+						for (int i = 0; i < modules.size(); i++)
+							if (modules.get(i).substring(0,excludedTarget.length()).equals(excludedTarget))
+								excludedList.add(modules.get(i));
+					}
+				}
+			}
+		}
+		
 		LinkedList<String> temp = new LinkedList<String>();
 		for (int i = 0; i < modules.size(); i++)
-			if (modules.get(i).substring(0,target.length()).equals(target))
-				temp.add(modules.get(i));
+			if (modules.get(i).substring(0,target.length()).equals(target)) {
+				boolean isExcluded = false;
+				if (exclusion != null) {
+					for (String code : excludedList) {
+						if (code.equals(modules.get(i))) {
+							isExcluded = true;
+							break;
+						}
+					}
+				}
+				if (!isExcluded)
+					temp.add(modules.get(i));
+			}
 		for (int i = 0; i < temp.size(); i++) {
 			output += "{\"code\":\"" + temp.get(i) + "\",\"rank\":" + 4 + ",\"flag\":false}";
 			if (i < temp.size()-1)
@@ -320,6 +359,8 @@ public class Programme {
 			
 			//print link
 			writer.println("\"link\":\"" + link + "\",");
+			
+			writer.println(restrictions);
 			
 			//print mainoutput
 			writer.println(mainOutput + ",");
