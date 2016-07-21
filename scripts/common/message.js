@@ -1,26 +1,16 @@
 'use strict';
 
 //Constructor for message
-function Message (type, text, module) {
+function Message (type, content) {
 	this.type = type;
-	this.text = text;
-	this.module = module;
-
-	this.getHTML = function getHTML () {
-		var output = "<div class='message-tile once-off-message'>" + text;
-		return output;
-	}
+	this.content = content;
 
 	this.getType = function getType () {
 		return type;
 	}
 
-	this.getText = function getText () {
-		return getText;
-	}
-
-	this.getModule = function getModule () {
-		return getModule;
+	this.getContent = function getContent () {
+		return content;
 	}
 }
 

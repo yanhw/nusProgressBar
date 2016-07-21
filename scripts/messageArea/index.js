@@ -1,20 +1,38 @@
 'use strict';
 
-var messgaeList = [];
+var messageList = [];
 
 var messageArea = {
 	setup: function() {
 
 	},
 
-	add: function(message) {
-		removeOnceOff();
-		console.log("add message");
-		$("#message-area").append(message.getHTML());
-	},
+	// add: function(message) {
+	// 	removeOnceOff();
+	// 	console.log("add message");
+	// 	$("#message-area").append(message.getHTML());
+	// },
 
 	display: function(messages) {
-
+		$(".message-item").remove();
+		messageList = messages;
+		for (var i = 0; i < messageList.length; i++) {
+			var string = "";
+			switch (messageList[i].type) {
+				case "prerequisite" :
+					string = "<div class='message-item prerequisite-item' id='m"+i+"'>You have not fulfilled prerequisites of " + messageList[i].content + "</div>";
+					break;
+				case "preclusion" :
+					string = "<div class='message-item preclusion-item' id='m"+i+"'>You cannot take "+messageList[i].content[0]+"because it is precluded by "+messageList[i].content[0]+"</div>";
+					break;
+				case "fulfillment" :
+					break;
+				case "specialisation" :
+					break;
+				case "heavyOverload" :
+			}
+			$("#message-area").append(string);
+		}
 	}
 };
 

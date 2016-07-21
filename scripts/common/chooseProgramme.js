@@ -79,19 +79,14 @@ var ChooseProgramme = {
 		});
 
 		//Choose your specialisation
-		$("#specialisation--option").change(function() {
+		$("#specialisation-choice").change(function() {
 			specialisation = $(this).children(":selected").html();
-			update("specialisation");
 		});
 
 		//Save your programme
 		$("#save-programme").on("click", function(){
 			var AppBody = require("./index.js");			
 			AppBody.request("saveProgramme", programmeObject, specialisation);
-
-			//close window when click "Save Changes"
-			var targeted_popup_class = jQuery($("#hide-programme-button")).attr('data-popup-close');
-        	$('[data-popup="' + targeted_popup_class + '"]').fadeOut(350);
 		});
 	}
 };
@@ -127,6 +122,7 @@ function update(triger) {
 				$("#department-choice").prop("selectedIndex", -1);
 				$("#programme-choice").prop("selectedIndex", -1);
 				$("#specialisation-choice").prop("selectedIndex", -1);
+				specialisation = "";
 			}
 			break;
 
@@ -149,6 +145,7 @@ function update(triger) {
 			}
 			$("#programme-choice").prop("selectedIndex", -1);
 			$("#specialisation-choice").prop("selectedIndex", -1);
+			specialisation = "";
 			break;
 
 		case "programme" :
@@ -166,6 +163,8 @@ function update(triger) {
 				var string = "<option class='specialisation-option' value='" + programmeObject.specialisations[i].name + "'>" + programmeObject.specialisations[i].name + "</option>";
 				$("#specialisation-choice").append(string);
 			}
+			$("#specialisation-choice").prop("selectedIndex", -1);
+			specialisation = "";
 	}
 }
 

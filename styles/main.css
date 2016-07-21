@@ -353,3 +353,17 @@ ul li a {
     color: #000000;
     text-decoration:none;
 }
+
+/*End of footer*/
+
+/*flash message box*/
+/*http://web.enavu.com/tutorials/create-a-disappearing-jquery-dialog-message-growl-like/*/
+.messageBox {  
+width:150px;  
+padding:10px;  
+border:1px solid #666;  
+position:fixed; rightright:2%;  
+top:2%;  
+z-index:999;  
+-webkit-border-radius: 6px; -moz-border-radius: 6px;}
+/*End of flash message box*/
