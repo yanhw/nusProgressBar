@@ -1,6 +1,7 @@
 'use strict';
 
 var ProgrammeList = require("../../data/ProgrammeList.json");
+var keepData = require("../localStorage.js");
 var facultyObject;
 var departmentObject;
 var programmeObject;
@@ -52,6 +53,7 @@ var ChooseProgramme = {
 		$("#AY-choice").change(function(){
     		AY = parseInt($(this).children(":selected").html());
     		hasAY = true;
+            keepData.saveProgrammeToLocalStorage('AY', AY);
     		update("AY");
     		block = false;
 		});
@@ -60,6 +62,7 @@ var ChooseProgramme = {
 		$("#faculty-choice").change(function() {
 			faculty = $(this).children(":selected").html();
 			hasFaculty = true;
+            keepData.saveProgrammeToLocalStorage('faculty', faculty);
 			update("faculty");
 			block = false;
 		});
@@ -67,6 +70,7 @@ var ChooseProgramme = {
 		//Choose your department
 		$("#department-choice").change(function() {
 			department = $(this).children(":selected").html();
+            keepData.saveProgrammeToLocalStorage('department', department);
 			update("department");
 			block = false;
 		});
@@ -74,6 +78,7 @@ var ChooseProgramme = {
 		//Choose your programme
 		$("#programme-choice").change(function() {
 			programme = $(this).children(":selected").html();
+            keepData.saveProgrammeToLocalStorage('programme', programme);
 			update("programme");
 			block = false;
 		});
@@ -81,6 +86,7 @@ var ChooseProgramme = {
 		//Choose your specialisation
 		$("#specialisation-choice").change(function() {
 			specialisation = $(this).children(":selected").html();
+            keepData.saveProgrammeToLocalStorage('specialisation', specialisation);
 		});
 
 		//Save your programme
@@ -88,6 +94,36 @@ var ChooseProgramme = {
 			var AppBody = require("./index.js");			
 			AppBody.request("saveProgramme", programmeObject, specialisation);
 		});
+
+		$('#memory').on("click",function(){
+			localStorage.clear();
+			console.log("cleared localStorage");
+		});
+	},
+
+	updateFrLocalStorage: function(year, fac, dept, prog, spec){
+		AY = year;
+		document.getElementById('AY-choice').value = AY;
+		hasAY = true;
+		block = false;
+		update('AY');
+		faculty = fac;
+		document.getElementById('faculty-choice').value = faculty;
+		hasFaculty = true;
+		block = false;
+		update('faculty');
+		department = dept;
+		document.getElementById('department-choice').value = department;
+		block = false;
+		update('department');
+		programme = prog;
+		document.getElementById('programme-choice').value = programme;
+		block = false;
+		update('programme');
+		specialisation = spec;
+		document.getElementById('specialisation-choice').value = specialisation;
+		var AppBody = require("./index.js");			
+		AppBody.request("saveProgramme", programmeObject, specialisation);
 	}
 };
 
@@ -165,8 +201,11 @@ function update(triger) {
 			}
 			$("#specialisation-choice").prop("selectedIndex", -1);
 			specialisation = "";
+		
 	}
-}
+};
+
+
 
 
 module.exports = ChooseProgramme;
