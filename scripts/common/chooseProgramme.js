@@ -103,6 +103,7 @@ var ChooseProgramme = {
 
 	updateFrLocalStorage: function(year, fac, dept, prog, spec){
 		AY = year;
+		console.log(AY);
 		document.getElementById('AY-choice').value = AY;
 		hasAY = true;
 		block = false;
@@ -144,6 +145,7 @@ function update(triger) {
 				$(".specialisation-option").each(function() {
 					$(this).remove();
 				});
+				console.log(AY);
 				for (var i = 0; i < ProgrammeList[AY-2012].length; i++) {
 					if (ProgrammeList[AY-2012][i].facultyName === faculty) {
 						facultyObject = ProgrammeList[AY-2012][i];

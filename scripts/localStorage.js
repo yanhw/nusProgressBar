@@ -93,6 +93,7 @@ var keepData = {
 		switch(option){
 			case "AY" :
                 localStorage.setItem('AY', data);
+			    console.log(localStorage.getItem('AY'));
 			    break;
 			case "faculty" :
 				localStorage.setItem('faculty', data);
@@ -126,9 +127,10 @@ var keepData = {
 		var programme;
 		var specialisation;
 
+		console.log(localStorage.getItem('AY'));
+
 		if(localStorage.getItem('AY')){
 	        AY = localStorage.getItem('AY');
-	        // console.log(AY);
 
 	    }
 	    
@@ -153,6 +155,7 @@ var keepData = {
 	    }
         
         var ChooseProgramme = require("./common/ChooseProgramme.js");
+        console.log(faculty);
         ChooseProgramme.updateFrLocalStorage(AY, faculty, department, programme, specialisation);
 	    recovering = false;
 	},

@@ -58,7 +58,9 @@ var modulePlan = {
 	getUpdate: function() {
 		var moduleArray = getCodeArray(0, 20);
 		var update = CheckProgress.check(moduleArray, myProgramme, precludedArray);
-
+		// console.log(moduleArray);
+		console.log(update);
+		// console.log(myProgramme);
 		return update;
 	},
 
@@ -112,6 +114,7 @@ var modulePlan = {
 
 	//Saves the programme
 	saveAndEditProgramme: function(programme, specialisation) {
+		myProgramme = {};
 		myProgramme = EditProgramme.edit(programme, specialisation);
 		return myProgramme;
 	}

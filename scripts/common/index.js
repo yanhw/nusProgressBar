@@ -26,7 +26,7 @@ var AppBody = {
 		//Use the line below if you want to refresh bowser history
 		//localStorage.setItem('modules', "[]");
 		
-		keepData.retreiveProgramme();
+		// keepData.retreiveProgramme();
 		keepData.retreiveModules();
 
 	},
@@ -136,7 +136,6 @@ var AppBody = {
 				ModuleTable.addModule(type, data); 
 				ModuleTable.refresh();
 				ModuleInfo.setButton("Remove");
-				
 				if (hasProgramme) {
 					updatePackage = MyPlan.getUpdate();
 					ProgressBar.update(updatePackage);

@@ -57,7 +57,7 @@ var moduleTable = {
 
 		//Click on locked module tile
 		$("#module-table").on("click", ".locked-module-tile", function() {
-			var moduleCode = $(this).children(".tile-class").html();
+			var moduleCode = $(this).children(".tile-code").html();
 			var AppBody = require("../common/index.js");
 			AppBody.request("selectLockedModule", moduleCode, this);
 		});
@@ -65,7 +65,7 @@ var moduleTable = {
 		//Click on selected locked module tile
 		$("#module-table").on("click", ".selected-locked-module-tile", function() {
 			var AppBody = require("../common/index.js");
-			AppBody.request("recoverLockedModule", $(selectedTile).children(".tile-class").html(), this);
+			AppBody.request("recoverLockedModule", $(selectedTile).children(".tile-code").html(), this);
 		});
 
 		
@@ -272,7 +272,7 @@ var moduleTable = {
 
 		//Add new colours
 		$(".occupied-module-tile").each(function() {
-			var code = $(this).html();
+			var code = $(this).children(".tile-code").html();
 			var targetClass = "module-list-";
 			var flag = false;
 			for (var i = 0; i < updatePackage.chosenList.length; i++) {

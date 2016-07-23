@@ -77,7 +77,7 @@ var checkProgress = {
 			// console.log(moduleNodes);
 		}
 
-		// console.log("flag for ma1100: " + programme.mainList[0].list.and[0].or[0].or[0].flag);
+		 // console.log("flag for ma1100: " + programme.mainList[0].list.and[0].or[0].or[0].flag);
 
 		//Step 3
 		var status = []
@@ -182,7 +182,7 @@ function chosenListOr(list, index) {
 	if (list.fulfilled === false)
 		return;
 	else {
-		console.log(list.id);
+		// console.log(list.id);
 		for (var i = 0; i < list.or.length; i++) {
 			chosenListRecur(list.or[i], index);
 		}
@@ -265,7 +265,10 @@ function checkAndUpdateRestriction(moduleCode) {
 		limitCount++;
 		return true;
 	}
-	return false;
+	if ((isInside) && (limitCount >= limitSize)) {
+		return false;
+	}
+	return true;
 }
 
 module.exports = checkProgress;
