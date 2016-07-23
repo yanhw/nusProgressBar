@@ -59,7 +59,7 @@ var modulePlan = {
 		var moduleArray = getCodeArray(0, 20);
 		var update = CheckProgress.check(moduleArray, myProgramme, precludedArray);
 		// console.log(moduleArray);
-		console.log(update);
+		// console.log(update);
 		// console.log(myProgramme);
 		return update;
 	},

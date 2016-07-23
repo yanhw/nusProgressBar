@@ -122,6 +122,7 @@ var ChooseProgramme = {
 		block = false;
 		update('programme');
 		specialisation = spec;
+		block = false;
 		document.getElementById('specialisation-choice').value = specialisation;
 		var AppBody = require("./index.js");			
 		AppBody.request("saveProgramme", programmeObject, specialisation);
@@ -145,7 +146,7 @@ function update(triger) {
 				$(".specialisation-option").each(function() {
 					$(this).remove();
 				});
-				console.log(AY);
+				// console.log(AY);
 				for (var i = 0; i < ProgrammeList[AY-2012].length; i++) {
 					if (ProgrammeList[AY-2012][i].facultyName === faculty) {
 						facultyObject = ProgrammeList[AY-2012][i];
@@ -195,7 +196,7 @@ function update(triger) {
 			xhr.open("GET", address, false);
 			xhr.send();
 			programmeObject = JSON.parse(xhr.responseText);
-
+			console.log(programmeObject);
 			$("#specialisation-choice").append("<option class='programme-option' value='nil'>nil</option>");
 			for (var i = 0; i < programmeObject.specialisations.length; i++) {
 				var string = "<option class='specialisation-option' value='" + programmeObject.specialisations[i].name + "'>" + programmeObject.specialisations[i].name + "</option>";
