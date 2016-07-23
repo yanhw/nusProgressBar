@@ -23,7 +23,7 @@ var AppBody = {
 		ModuleTable.setup();
 		ChooseProgramme.setup();
 
-		//Use the line below if you want to refresh bowser history
+		//Use the line below if you want to refresh browser history
 		//localStorage.setItem('modules', "[]");
 		
 		keepData.retreiveProgramme();

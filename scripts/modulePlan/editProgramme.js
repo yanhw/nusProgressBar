@@ -3,6 +3,17 @@
 var editProgramme = {
 	edit: function(programme, specialisation) {
 
+		//I have no idea why this part is needed...
+		for (var i = 0; i < programme.specialisations.length; i++) {
+			for (var j = 0; j < programme.mainList.length; j++) {
+				if (programme.visibleLists[j] === programme.specialisations[i].listName) {
+					programme.visibleLists.splice(j, 1);
+					programme.mainList.splice(j, 1);
+					break;
+				}
+			}
+		}
+
 		//Build specialisation to mainList
 		if (specialisation !== "nil") {
 			// console.log(specialisation);
