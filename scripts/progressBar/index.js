@@ -11,6 +11,9 @@
 
 var progressBar = {
 	setup: function(programme) {
+		$(".visible-list").remove();
+
+
 		//Click on module-item to display module info. select the module if the module is inside module table
 
 		for (var i = 0; i < programme.mainList.length; i++) {
