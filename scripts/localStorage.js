@@ -126,16 +126,16 @@ var keepData = {
 		var department;
 		var programme;
 		var specialisation;
-
-		console.log(localStorage.getItem('AY'));
-
-		if(localStorage.getItem('AY')){
-	        AY = localStorage.getItem('AY');
-
-	    }
+        
+        //console.log("which is AY:");
+		//console.log(localStorage.getItem('AY'));
 	    
-	    if(AY === null) return;
-
+	    AY = localStorage.getItem('AY');
+	    if(AY === null) {
+	    	console.log("no localStorage");
+	    	return;
+        }
+        console.log("only see this when there is localStorage");
 	    if(localStorage.getItem('faculty')){
 	        faculty = localStorage.getItem('faculty');
 	        // console.log(faculty);

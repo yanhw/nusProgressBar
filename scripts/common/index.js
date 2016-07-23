@@ -26,7 +26,7 @@ var AppBody = {
 		//Use the line below if you want to refresh bowser history
 		//localStorage.setItem('modules', "[]");
 		
-		// keepData.retreiveProgramme();
+		keepData.retreiveProgramme();
 		keepData.retreiveModules();
 
 	},
