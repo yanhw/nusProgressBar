@@ -1,0 +1,32 @@
+{
+"moduleCode": "LL6310V",
+"moduleTitle": "International Organisations in International Law",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "LL4310/LL5310/LL6310 International Organisations in International Law; LL4275/LL5275/LL6275 International Institutional Law; LL4275V/LL5275V/LL6275V International Institutional Law",
+"prerequisite": "NUS Compulsory Core Law Curriculum or equivalent.",
+"preclusionList": [
+            "LL6275V",
+            "LL4310",
+            "LL5275",
+            "LL4275",
+            "LL6275",
+            "LL4275V",
+            "LL5310",
+            "LL5275V",
+            "LL6310"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "LL6310V", 
+            "children": []
+},
+"moduleDescription": "This seminar-style module critically examines the impact of international organisations on the formal structures of international law. Do international organisations create and enforce international law? What type of norm-creating activity takes place inside and across international organisations? Does the reality of global governance give rise to concerns about legitimacy or accountability? What are the legal and policy responses to such concerns? Case studies used will range from traditional institutions such as the UN and its specialised agencies, to newer institutions such as the Financial Action Task Force and the Global Fund to Fight AIDS, Tuberculosis and Malaria.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "LAW",
+"department": "LAW",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2016,0,2,0,0]]
+}

@@ -1,0 +1,24 @@
+{
+"moduleCode": "SE3233",
+"moduleTitle": "Martial Arts in Southeast Asia",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "SE3880B",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "SE3880B"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "SE3233", 
+            "children": []
+},
+"moduleDescription": "This module introduces students to the study of martial arts in Southeast Asia from an academic and experiential perspective. Students analyse journal articles, books and materials from the social media in order to understand how various social, political, economic and historical forces impacted on the production and performance of martial arts in the region. Student\u2019s learning will be complemented with hands-on sessions that further their understanding of complex historical, sociological and cultural dimensions of various combat genres. Student assignments such as essays and group video projects will reveal new ways in how Southeast Asia can be understood from multi-disciplinary perspectives.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "SOUTHEAST ASIAN STUDIES",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2016,1,0,0,0]]
+}

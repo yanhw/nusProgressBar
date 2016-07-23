@@ -10,41 +10,13 @@
 "parsedPrerequisite": {
 " and ": ["FST3104"]
 },
-"prerequisiteList": ["FST3104","FST2102A","FST2106","FST1101","LSM1101"],
+"prerequisiteList": ["FST3104"],
 "completePrerequisite": {
             "name": "FST4101", 
             "children": [
                 {
                     "name": "FST3104", 
-                    "children": [
-                        {
-                            "name": "and", 
-                            "children": [
-                                {
-                                    "name": "FST2102A", 
-                                    "children": []
-                                }, 
-                                {
-                                    "name": "FST2106", 
-                                    "children": [
-                                        {
-                                            "name": "and", 
-                                            "children": [
-                                                {
-                                                    "name": "FST1101", 
-                                                    "children": []
-                                                }, 
-                                                {
-                                                    "name": "LSM1101", 
-                                                    "children": []
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
+                    "children": []
                 }
             ]
 },
@@ -53,5 +25,5 @@
 "corequisite": "-1",
 "faculty": "SCIENCE",
 "department": "CHEMISTRY",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,1,0,0,0]]
+"history": [[0,0,0,0,0],[2012,1,0,0,0],[2013,1,0,0,0],[2014,1,0,0,0],[2015,1,0,0,0],[2016,1,0,0,0]]
 }

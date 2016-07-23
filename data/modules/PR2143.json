@@ -4,9 +4,12 @@
 "moduleCredit": "4",
 "lockedModules":[
 ],
-"preclusion": "NIL",
+"preclusion": "CN4233E and CN4233R",
 "prerequisite": "PR1110",
-"preclusionList": [],
+"preclusionList": [
+            "CN4233E",
+            "CN4233R"
+        ],
 "parsedPrerequisite": {
 " and ": ["PR1110"]
 },
@@ -25,5 +28,5 @@
 "corequisite": "-1",
 "faculty": "SCIENCE",
 "department": "PHARMACY",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,0,2,0,0]]
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,0,2,0,0],[2016,0,2,0,0]]
 }

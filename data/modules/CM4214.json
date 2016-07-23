@@ -14,7 +14,7 @@
                 "CM3212"
             ]
 },
-"prerequisiteList": ["CM3211","CM2111","CM1111","CM3212"],
+"prerequisiteList": ["CM3211","CM3212","CM2111","CM1111"],
 "completePrerequisite": {
             "name": "CM4214", 
             "children": [
@@ -23,17 +23,7 @@
                     "children": [
                         {
                             "name": "CM3211", 
-                            "children": [
-                                {
-                                    "name": "CM2111", 
-                                    "children": [
-                                        {
-                                            "name": "CM1111", 
-                                            "children": []
-                                        }
-                                    ]
-                                }
-                            ]
+                            "children": []
                         }, 
                         {
                             "name": "CM3212", 
@@ -58,5 +48,5 @@
 "corequisite": "-1",
 "faculty": "SCIENCE",
 "department": "CHEMISTRY",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,0,2,0,0]]
+"history": [[0,0,0,0,0],[2012,1,0,0,0],[2013,0,2,0,0],[2014,0,2,0,0],[2015,0,2,0,0],[2016,0,2,0,0]]
 }

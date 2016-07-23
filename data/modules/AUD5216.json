@@ -1,0 +1,41 @@
+{
+"moduleCode": "AUD5216",
+"moduleTitle": "Vestibular Assessment and Management B",
+"moduleCredit": "3",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "AUD5102: Anatomy & Physiology AUD5103: Pathologies of Auditory System AUD5110: Vestibular Assessment and Management A",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " and ": [
+                "AUD5103", 
+                "AUD5110"
+            ]
+},
+"prerequisiteList": ["AUD5103","AUD5110"],
+"completePrerequisite": {
+            "name": "AUD5216", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "AUD5103", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "AUD5110", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module provides an advanced knowledge about the assessment and management of central vestibular disorders, neuro-otological disorders due to migraine and the psychological problems of dizzy patient. This module also describes various rehabilitative management options for patients with vestibular disorders.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "YONG LOO LIN SCHOOL OF MEDICINE",
+"department": "DIVISION OF GRADUATE MEDICAL STUDIES",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2014,1,0,0,0],[0,0,0,0,0],[2016,1,0,0,0]]
+}

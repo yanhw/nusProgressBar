@@ -1,0 +1,55 @@
+{
+"moduleCode": "YSS4209",
+"moduleTitle": "Signs and the State",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "Not open to freshman or sophomores. Preference should be given to year 4 students majoring in Anthropology or PPE.",
+"prerequisite": "YCC2121 Modern Social Thought",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["YCC2121"]
+},
+"prerequisiteList": ["YCC2121","YCC1111","YCC1112","YCC1113","YCC1114","YCC1121"],
+"completePrerequisite": {
+            "name": "YSS4209", 
+            "children": [
+                {
+                    "name": "YCC2121", 
+                    "children": [
+                        {
+                            "name": "and", 
+                            "children": [
+                                {
+                                    "name": "YCC1111", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "YCC1112", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "YCC1113", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "YCC1114", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "YCC1121", 
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "Science and Technology Studies have led us to new questions about knowledge and power. This course reconsiders the history of semiotic technologies, from Sanskrit to iphones, with special attention to changing conditions of possibility for the state. Which semiotic technologies enable new kinds of state institutions (such as Weber\u2019s \u201clegal/rational order\u201d) and which can undermine state monopolies and hegemonies? Following Weber to study means and forces of coercion and of communication as well as means and forces of production, this course is intended to complement study of \u201clanguage ideology\u201d and to pose new questions about the politics of sign circulation.",
+"crossModule": "-1",
+"corequisite": "None",
+"faculty": "YALE-NUS COLLEGE",
+"department": "YALE-NUS COLLEGE",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2016,1,0,0,0]]
+}

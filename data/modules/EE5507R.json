@@ -3,7 +3,8 @@
 "moduleTitle": "Analog Integrated Circuits Design",
 "moduleCredit": "4",
 "lockedModules":[
-],
+            "EE6506"
+        ],
 "preclusion": "NIL",
 "prerequisite": "EE3408 or equivalent",
 "preclusionList": [],
@@ -25,5 +26,5 @@
 "corequisite": "-1",
 "faculty": "ENGINEERING",
 "department": "ELECTRICAL & COMPUTER ENGINEERING",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,0,2,0,0]]
+"history": [[0,0,0,0,0],[0,0,0,0,0],[2013,0,2,0,0],[2014,0,2,0,0],[2015,0,2,0,0],[2016,0,2,0,0]]
 }

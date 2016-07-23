@@ -1,0 +1,22 @@
+{
+"moduleCode": "BMO6016A",
+"moduleTitle": "Human Resource Management Seminar: Foundations",
+"moduleCredit": "2",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "BMO6016A", 
+            "children": []
+},
+"moduleDescription": "The current module will survey fundamental topics in Human Resource Management such as recruitment, selection, training, performance appraisal, and employment relation.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF BUSINESS",
+"department": "MANAGEMENT AND ORGANISATION",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2014,1,0,0,0],[0,0,0,0,0],[2016,1,0,0,0]]
+}

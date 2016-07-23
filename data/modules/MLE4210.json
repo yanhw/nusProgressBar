@@ -13,7 +13,7 @@
                 "MLE2105"
             ]
 },
-"prerequisiteList": ["MLE2107","MLE1101","MLE2101","MLE2105"],
+"prerequisiteList": ["MLE2107","MLE1101","MLE2101","MLE2105","MLE1111"],
 "completePrerequisite": {
             "name": "MLE4210", 
             "children": [
@@ -51,6 +51,10 @@
                                         {
                                             "name": "MLE2101", 
                                             "children": []
+                                        }, 
+                                        {
+                                            "name": "MLE1111", 
+                                            "children": []
                                         }
                                     ]
                                 }
@@ -65,5 +69,5 @@
 "corequisite": "-1",
 "faculty": "ENGINEERING",
 "department": "MATERIALS SCIENCE AND ENGINEERING",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,0,2,0,0]]
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,0,2,0,0],[2016,0,2,0,0]]
 }

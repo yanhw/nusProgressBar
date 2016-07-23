@@ -1,0 +1,24 @@
+{
+"moduleCode": "EC6342",
+"moduleTitle": "Advanced International Trade",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "EC6265",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "EC6265"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "EC6342", 
+            "children": []
+},
+"moduleDescription": "This course provides an in-depth study of the trade theories and models that are important in the analysis of policy issues relating to international trade. Some contemporary issues in the field of international trade will also be discussed. At the end of the course, the student should be able to master the basic theoretical framework and analytical tools necessary for the study of contemporary trade issues. Other than theory, the course also emphasizes the analysis of recent issues such as the new developments in the WTO, and the controversy of regional trade liberalisation.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "ECONOMICS",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2014,0,2,0,0],[0,0,0,0,0],[2016,1,0,0,0]]
+}

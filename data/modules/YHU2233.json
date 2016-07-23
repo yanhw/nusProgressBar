@@ -13,27 +13,13 @@
                 "YCC1112"
             ]
 },
-"prerequisiteList": ["YCC1111","YCC1112"],
+"prerequisiteList": ["YHU2205"],
 "completePrerequisite": {
-            "name": "YHU2233", 
+            "name": "YHU2234", 
             "children": [
                 {
-                    "name": "and", 
-                    "children": [
-                        {
-                            "name": "YCC1111", 
-                            "children": []
-                        }, 
-                        {
-                            "name": "YCC1112", 
-                            "children": [
-                                {
-                                    "name": "YCC1111", 
-                                    "children": []
-                                }
-                            ]
-                        }
-                    ]
+                    "name": "YHU2205", 
+                    "children": []
                 }
             ]
 },
@@ -42,5 +28,5 @@
 "corequisite": "-1",
 "faculty": "YALE-NUS COLLEGE",
 "department": "YALE-NUS COLLEGE",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,1,0,0,0]]
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,1,0,0,0],[0,0,0,0,0]]
 }

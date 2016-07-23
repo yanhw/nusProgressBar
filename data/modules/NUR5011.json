@@ -1,0 +1,41 @@
+{
+"moduleCode": "NUR5011",
+"moduleTitle": "Clinical Pharmacology I",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "NUR5102 Applied Pathophysiology or NUR5602 Advanced Pathophysiology (Paed)",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " or ": [
+                "NUR5102", 
+                "NUR5602"
+            ]
+},
+"prerequisiteList": ["NUR5102","NUR5602"],
+"completePrerequisite": {
+            "name": "NUR5011", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "NUR5102", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "NUR5602", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module aims to prepare master of nursing students with the general principles and concepts of pharmacokinetics (body\u2019s handling of drug) and pharmacodynamics (principles/mechanism of drug action) in humans. A sound understanding of these foundation principles, which constitute the scientific basis of therapeutics, will promote the safe and rational use of drugs in disease conditions. The module will then progress to the study of the pharmacological properties of various classes of clinically useful drugs, starting with autonomic and central nervous systems, pain management and followed by gastrointestinal system. These topics will be covered by faculties in Department of Pharmacology. In addition, it will cover legal and ethical principles underpinning the advanced practice nurse\u2019s role in administration of drugs and will be covered by ALCNS faculty.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "YONG LOO LIN SCHOOL OF MEDICINE",
+"department": "NURSING/ALICE LEE CTR FOR NURSING STUD",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2016,0,2,0,0]]
+}

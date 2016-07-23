@@ -1,0 +1,29 @@
+{
+"moduleCode": "YHU2252",
+"moduleTitle": "Ancient Greek Philosophy",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "YCC1113 Philosophy and Political Thought 1",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["YCC1113"]
+},
+"prerequisiteList": ["YCC1113"],
+"completePrerequisite": {
+            "name": "YHU2252", 
+            "children": [
+                {
+                    "name": "YCC1113", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "An overview of how philosophy\u2014as both a mode of inquiry and a way of life\u2014developed in Western antiquity. We will begin with the pre-Socratics, focus on Plato and Aristotle, and conclude with a brief look at later schools (such as the Epicureans, Stoics, and Sceptics). Topics include the nature of being, knowledge, the soul, virtue and happiness, and the city.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "YALE-NUS COLLEGE",
+"department": "YALE-NUS COLLEGE",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2016,1,0,0,0]]
+}

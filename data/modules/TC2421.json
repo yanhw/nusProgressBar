@@ -17,19 +17,19 @@
                 "TC2401"
             ]
 },
-"prerequisiteList": ["TC1402","TC2401"],
+"prerequisiteList": ["TE2102","TG1401"],
 "completePrerequisite": {
-            "name": "TC2421", 
+            "name": "TE2002", 
             "children": [
                 {
                     "name": "or", 
                     "children": [
                         {
-                            "name": "TC1402", 
+                            "name": "TE2102", 
                             "children": []
                         }, 
                         {
-                            "name": "TC2401", 
+                            "name": "TG1401", 
                             "children": []
                         }
                     ]
@@ -41,5 +41,5 @@
 "corequisite": "-1",
 "faculty": "ENGINEERING",
 "department": "BACHELOR OF TECHNOLOGY PROGRAMME",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,1,0,0,0]]
+"history": [[0,0,0,0,0],[2012,1,0,0,0],[2013,1,0,0,0],[2014,1,0,0,0],[2015,1,0,0,0],[0,0,0,0,0]]
 }

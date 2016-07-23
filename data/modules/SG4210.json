@@ -10,7 +10,7 @@
 "parsedPrerequisite" : "nil",
 "prerequisiteList": [],
 "completePrerequisite": {
-            "name": "SG4210", 
+            "name": "SG4211", 
             "children": []
 },
 "moduleDescription": "The module aims to equip students with the knowledge and skills to design and develop Enterprise Applications using state-of-the-art computing principles and practices. The module teaches important software engineering patterns with an emphasis on the critical analysis of their applicability to large enterprise systems under specific platforms. By exploring the various challenges in real-life enterprise situations, the module would prepare students to devise novel approaches of problem solving for implementing reusable software components. The module would use a sequence of practical business cases to train students in implementing a wellengineered web-based, component-oriented application on the .NET platform.",
@@ -18,5 +18,5 @@
 "corequisite": "NIL",
 "faculty": "NON-FACULTY-BASED DEPARTMENTS",
 "department": "INSTITUTE OF SYSTEMS SCIENCE",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,0,2,0,0]]
+"history": [[0,0,0,0,0],[0,0,0,0,0],[2013,0,2,0,0],[2014,0,2,0,0],[2015,0,2,0,0],[0,0,0,0,0]]
 }

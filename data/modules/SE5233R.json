@@ -1,19 +1,16 @@
 {
 "moduleCode": "SE5233R",
 "moduleTitle": "Economies of Southeast Asia",
-"moduleCredit": "5",
+"moduleCredit": "4",
 "lockedModules":[
 ],
-"preclusion": "IZ5103, SE6233",
+"preclusion": "NIL",
 "prerequisite": "For SE Honours students with a minimum CAP of 3.20",
-"preclusionList": [
-            "SE6233",
-            "IZ5103"
-        ],
+"preclusionList": [],
 "parsedPrerequisite" : "nil",
 "prerequisiteList": [],
 "completePrerequisite": {
-            "name": "SE5233R", 
+            "name": "SE5242", 
             "children": []
 },
 
@@ -21,5 +18,5 @@
 "corequisite": "-1",
 "faculty": "ARTS & SOCIAL SCIENCES",
 "department": "SOUTHEAST ASIAN STUDIES",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,1,0,0,0]]
+"history": [[0,0,0,0,0],[0,0,0,0,0],[2013,0,2,0,0],[0,0,0,0,0],[2015,1,0,0,0],[0,0,0,0,0]]
 }

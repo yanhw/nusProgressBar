@@ -1,0 +1,22 @@
+{
+"moduleCode": "LSM2234",
+"moduleTitle": "Physical Concepts in Biology",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "GCE `A\u2019 Level H2 Biology or equivalent, or LSM1301 or LSM1301X",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "LSM2234", 
+            "children": []
+},
+"moduleDescription": "This module introduces important basic physical concepts in cell and developmental biology. It aims at providing students with quantitative biophysical skill set to apply to biological processes, and is suitable for all Life Sciences students regardless of background in the physical sciences.",
+"crossModule": "-1",
+"corequisite": "Nil",
+"faculty": "SCIENCE",
+"department": "BIOLOGICAL SCIENCES",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2016,0,2,0,0]]
+}

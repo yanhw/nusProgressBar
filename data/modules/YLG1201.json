@@ -11,15 +11,29 @@
             "YLG2201"
         ],
 "parsedPrerequisite" : "nil",
-"prerequisiteList": [],
+"prerequisiteList": ["YLG1201","YLG2201"],
 "completePrerequisite": {
-            "name": "YLG1201", 
-            "children": []
+            "name": "YLG2202", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "YLG1201", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "YLG2201", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
 },
 "moduleDescription": "This is an introductory course of language instruction in ancient Attic Greek for beginners, designed to give students a decent reading level by the end of the semester. It offers four days a week instruction. As well as gaining an introductory familiarity with the syntax and vocabulary of ancient Greek texts, students will develop an associated cultural knowledge in ancient Greek society and literary/ dramatic production.",
 "crossModule": "-1",
 "corequisite": "Nil",
 "faculty": "YALE-NUS COLLEGE",
 "department": "YALE-NUS COLLEGE",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,0,2,0,0]]
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,0,2,0,0],[0,0,0,0,0]]
 }

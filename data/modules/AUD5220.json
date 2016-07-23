@@ -1,0 +1,29 @@
+{
+"moduleCode": "AUD5220",
+"moduleTitle": "Independent Studies in Audiology (Research project - part 1)",
+"moduleCredit": "8",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "AUD5115: Experimental Design and Statistics",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["AUD5115"]
+},
+"prerequisiteList": ["AUD5115"],
+"completePrerequisite": {
+            "name": "AUD5220", 
+            "children": [
+                {
+                    "name": "AUD5115", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "This module is designed to prepare student for the applied research project that must be submitted in Semester 4. This module builds on the knowledge obtained in AUD5115 Experimental Design and Statistics. Students will be asked to identify a client a research topic, and two supervisors, develop a research design and appropriate testing tools, make a class presentation to teaching staff and students and then submit a written proposal (max 5000 words) before obtaining ethics clearance and conducting a pilot study.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "YONG LOO LIN SCHOOL OF MEDICINE",
+"department": "DIVISION OF GRADUATE MEDICAL STUDIES",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2014,1,0,0,0],[0,0,0,0,0],[2016,1,0,0,0]]
+}

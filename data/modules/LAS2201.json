@@ -3,7 +3,8 @@
 "moduleTitle": "Spanish 2",
 "moduleCredit": "4",
 "lockedModules":[
-],
+            "LAS3201"
+        ],
 "preclusion": "YLS1202 Introductory Spanish",
 "prerequisite": "LAS1201 Spanish 1 or YLS1201 Introductory Spanish I, or placement test",
 "preclusionList": [
@@ -39,5 +40,5 @@
 "corequisite": "-1",
 "faculty": "ARTS & SOCIAL SCIENCES",
 "department": "CENTRE FOR LANGUAGE STUDIES",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,1,2,0,0]]
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,1,2,0,0],[2016,1,2,0,0]]
 }

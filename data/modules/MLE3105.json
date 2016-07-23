@@ -3,8 +3,7 @@
 "moduleTitle": "Dielectric and Magnetic Materials",
 "moduleCredit": "3",
 "lockedModules":[
-            "MLE4209"
-        ],
+],
 "preclusion": "NIL",
 "prerequisite": "MLE1101 or MLE2105",
 "preclusionList": [],
@@ -14,7 +13,7 @@
                 "MLE2105"
             ]
 },
-"prerequisiteList": ["MLE1101","MLE2105","MLE2101"],
+"prerequisiteList": ["MLE1101","MLE2105","MLE2101","MLE1111"],
 "completePrerequisite": {
             "name": "MLE3105", 
             "children": [
@@ -38,6 +37,10 @@
                                         {
                                             "name": "MLE2101", 
                                             "children": []
+                                        }, 
+                                        {
+                                            "name": "MLE1111", 
+                                            "children": []
                                         }
                                     ]
                                 }
@@ -52,5 +55,5 @@
 "corequisite": "NIL",
 "faculty": "ENGINEERING",
 "department": "MATERIALS SCIENCE AND ENGINEERING",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,1,0,0,0]]
+"history": [[0,0,0,0,0],[2012,1,0,0,0],[2013,1,0,0,0],[2014,1,0,0,0],[2015,1,0,0,0],[2016,1,2,0,0]]
 }

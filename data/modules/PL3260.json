@@ -1,0 +1,70 @@
+{
+"moduleCode": "PL3260",
+"moduleTitle": "Moral Development",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "PL1101E, PL2131, PL2132 and PL3234",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " and ": [
+                "PL1101E", 
+                "PL2131", 
+                "PL2132", 
+                "PL3234"
+            ]
+},
+"prerequisiteList": ["PL1101E","PL2131","PL2132","PL3234"],
+"completePrerequisite": {
+            "name": "PL3260", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "PL1101E", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "PL2131", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "PL2132", 
+                            "children": [
+                                {
+                                    "name": "and", 
+                                    "children": [
+                                        {
+                                            "name": "PL1101E", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "PL2131", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "PL3234", 
+                            "children": [
+                                {
+                                    "name": "PL1101E", 
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module will introduce students to the study of the origins, development and cognitive processing of morality. The module will cover the beginnings of moral psychology, the early theories of moral development, the contemporary developmental research on infants\u2019 and children\u2019s moral decision-making, and the influence of society (e.g., media, law, parenting) on children\u2019s moral development. Through lectures, discussions, course readings, and essay writing we will analyse and debate whether morality is innate, adaptive, and unique from other aspects of cognitive development.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "PSYCHOLOGY",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2016,0,2,0,0]]
+}

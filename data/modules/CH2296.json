@@ -1,0 +1,24 @@
+{
+"moduleCode": "CH2296",
+"moduleTitle": "Chinese in SE Asia (in English)",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "CH2243 Chinese in Southeast Asia",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "CH2243"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "CH2296", 
+            "children": []
+},
+"moduleDescription": "This module offers a multidisciplinary and topical approach to understanding key issues pertaining to the Chinese communities in Southeast Asia. Students will learn about the the social and cultural experiences of the various Chinese communities in different parts of the region and their transformations over time through official records, newspaper reports, literary writings, films, music, art, and so on. This module is designed for students who are interested in appreciating the shifting meanings of \u201cChineseness\u201d within the specific political, social, economic and cultural contexts of Southeast Asia, past and present.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "CHINESE STUDIES",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2016,0,2,0,0]]
+}

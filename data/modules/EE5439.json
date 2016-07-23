@@ -16,7 +16,7 @@
                 "CN4217"
             ]
 },
-"prerequisiteList": ["EE4411","EE2021","EE1002","EG1108","CG1108","CN4217"],
+"prerequisiteList": ["EE4411","CN4217"],
 "completePrerequisite": {
             "name": "EE5439", 
             "children": [
@@ -25,30 +25,7 @@
                     "children": [
                         {
                             "name": "EE4411", 
-                            "children": [
-                                {
-                                    "name": "EE2021", 
-                                    "children": [
-                                        {
-                                            "name": "or", 
-                                            "children": [
-                                                {
-                                                    "name": "EE1002", 
-                                                    "children": []
-                                                }, 
-                                                {
-                                                    "name": "EG1108", 
-                                                    "children": []
-                                                }, 
-                                                {
-                                                    "name": "CG1108", 
-                                                    "children": []
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
+                            "children": []
                         }, 
                         {
                             "name": "CN4217", 
@@ -63,5 +40,5 @@
 "corequisite": "Nil",
 "faculty": "ENGINEERING",
 "department": "ELECTRICAL & COMPUTER ENGINEERING",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,0,2,0,0]]
+"history": [[0,0,0,0,0],[0,0,0,0,0],[2013,0,2,0,0],[2014,1,0,0,0],[2015,0,2,0,0],[2016,1,0,0,0]]
 }

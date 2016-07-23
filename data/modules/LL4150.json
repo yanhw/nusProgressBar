@@ -1,0 +1,25 @@
+{
+"moduleCode": "LL4150",
+"moduleTitle": "Arbitration of Investment Disputes",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "International Investment Law (LL4032/LL5032/6032)",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "LL4032",
+            "LL5032"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "LL4150", 
+            "children": []
+},
+
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "LAW",
+"department": "LAW",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[2013,1,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2016,1,0,0,0]]
+}

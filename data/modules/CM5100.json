@@ -1,22 +1,24 @@
 {
 "moduleCode": "CM5100",
-"moduleTitle": "M.sc. Project (For M.sc. Coursework Students Only)",
+"moduleTitle": "M.sc. Project",
 "moduleCredit": "8",
 "lockedModules":[
 ],
-"preclusion": "NIL",
-"prerequisite": "For M.Sc. Coursework students only",
-"preclusionList": [],
+"preclusion": "CM5100A",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "CM5100A"
+        ],
 "parsedPrerequisite" : "nil",
 "prerequisiteList": [],
 "completePrerequisite": {
             "name": "CM5100", 
             "children": []
 },
-"moduleDescription": "Students will have a chance to work with the department staff on a project proposed by the staff on a particular area. Part-time student will be allowed more time to complete the project.",
+"moduleDescription": "This is a project-based module. The student will undertake a one year course of independent research on an advanced topic in chemistry under the direction of an academic staff member. In addition, the student is required to perform any preparatory course in laboratory techniques which the Department deems necessary.",
 "crossModule": "-1",
 "corequisite": "-1",
 "faculty": "SCIENCE",
 "department": "CHEMISTRY",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,1,2,0,0]]
+"history": [[0,0,0,0,0],[0,0,0,0,0],[2013,1,2,0,0],[2014,1,2,0,0],[2015,1,2,0,0],[2016,1,2,0,0]]
 }

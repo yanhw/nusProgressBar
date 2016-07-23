@@ -1,0 +1,22 @@
+{
+"moduleCode": "NM2208",
+"moduleTitle": "Principles of Visual Communication",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "NM2208", 
+            "children": []
+},
+"moduleDescription": "This module introduces students to the basic principles of digital graphics and trains students to understand the functions of visual design for effective communication Students will learn the techniques and methodologies for solving visual communication problems, to develop visual literacy, concepts and techniques. Students will gain hands-on experience in conceptualizing, drafting, and creating various forms of digital visual works throughout the module.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "COMMUNICATIONS AND NEW MEDIA",
+"history": [[0,0,0,0,0],[2012,1,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2016,1,0,0,0]]
+}

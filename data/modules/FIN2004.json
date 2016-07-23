@@ -3,24 +3,26 @@
 "moduleTitle": "Finance",
 "moduleCredit": "4",
 "lockedModules":[
-            "FIN3101B",
             "FIN3117",
             "FIN3119",
-            "FIN3103A",
+            "FIN3101",
             "FIN3102",
             "FIN3103",
+            "FIN4116",
             "FIN2004X",
-            "FIN3101",
             "FIN4112M",
             "FIN3103B",
             "FIN3120C",
-            "FIN3120E",
             "FIN3120D",
+            "FIN3102C",
             "FIN3102B",
             "FIN3102A",
+            "BMS5302",
             "FIN3101A",
             "ACC3614",
-            "ACC3612"
+            "ACC3616",
+            "ACC3612",
+            "FIN3103A"
         ],
 "preclusion": "Students who have taken CS2251 or EC3209 or EC3333 or BK2004 or BZ2004 or BH2004 or FNA2004 are not allowed to take FIN2004. 1st Year BSc(PFM), all BSc (RE) and Computational Finance are not allowed to take FIN2004.",
 "prerequisite": "Students must have completed BK1003 or BZ1002 or BH1002 or FNA1002/ACC1002 or FNA1002X/ACC1002X or FNA1002E or BH1002E or EC3212 or EG1422 before they are allowed to take FIN2004.",
@@ -109,5 +111,5 @@
 "corequisite": "-1",
 "faculty": "SCHOOL OF BUSINESS",
 "department": "FINANCE",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,1,2,0,0]]
+"history": [[0,0,0,0,0],[2012,1,2,0,0],[2013,1,2,0,0],[2014,1,2,0,0],[2015,1,2,0,0],[2016,1,2,0,0]]
 }

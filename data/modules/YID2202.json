@@ -10,20 +10,15 @@
 "parsedPrerequisite": {
 " and ": ["YID1201"]
 },
-"prerequisiteList": ["YID1201"],
+"prerequisiteList": [],
 "completePrerequisite": {
-            "name": "YID2202", 
-            "children": [
-                {
-                    "name": "YID1201", 
-                    "children": []
-                }
-            ]
+            "name": "YID2203", 
+            "children": []
 },
 "moduleDescription": "This course draws upon new research across the arts, humanities and social sciences to help students better understand the cultural and social dimensions of our currents patterns of energy use, their environmental impacts, and the possibility of new energy futures. More generally, the course introduces students to the field of environmental humanities, and models the contributions of the humanities to a deeper understanding of environmental issues.",
 "crossModule": "-1",
 "corequisite": "YID1201 Introduction to Environmental Studies",
 "faculty": "YALE-NUS COLLEGE",
 "department": "YALE-NUS COLLEGE",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,1,0,0,0]]
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,1,0,0,0],[0,0,0,0,0]]
 }

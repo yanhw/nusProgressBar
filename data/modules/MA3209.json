@@ -3,9 +3,10 @@
 "moduleTitle": "Mathematical Analysis III",
 "moduleCredit": "4",
 "lockedModules":[
-            "MA4262",
             "MA4211",
-            "MA4266"
+            "MA4262",
+            "MA4266",
+            "MA5210"
         ],
 "preclusion": "MA3213, MA3251.",
 "prerequisite": "(MA3110 or MA3110S) and (MA1104 or MA1507)",
@@ -257,5 +258,5 @@
 "corequisite": "-1",
 "faculty": "SCIENCE",
 "department": "MATHEMATICS",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,1,0,0,0]]
+"history": [[0,0,0,0,0],[2012,1,0,0,0],[2013,1,0,0,0],[2014,1,0,0,0],[2015,1,0,0,0],[2016,1,0,0,0]]
 }

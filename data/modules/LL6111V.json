@@ -1,0 +1,24 @@
+{
+"moduleCode": "LL6111V",
+"moduleTitle": "International Copyright Law and Policy",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "Students who are taking or have taken LL6111.",
+"prerequisite": "NUS Compulsory Core Curriculum or its equivalent.",
+"preclusionList": [
+            "LL6111"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "LL6111V", 
+            "children": []
+},
+
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "LAW",
+"department": "LAW",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2016,0,2,0,0]]
+}

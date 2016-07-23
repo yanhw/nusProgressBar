@@ -4,14 +4,16 @@
 "moduleCredit": "4",
 "lockedModules":[
             "DSC3224",
-            "DSC4213",
             "DSC3215",
             "DSC3214",
-            "EC3303"
+            "EC3303",
+            "DSC4213"
         ],
-"preclusion": "NIL",
+"preclusion": "DSC1007X",
 "prerequisite" : "NIL",
-"preclusionList": [],
+"preclusionList": [
+            "DSC1007X"
+        ],
 "parsedPrerequisite" : "nil",
 "prerequisiteList": [],
 "completePrerequisite": {
@@ -23,5 +25,5 @@
 "corequisite": "NIL",
 "faculty": "SCHOOL OF BUSINESS",
 "department": "DECISION SCIENCES",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,1,2,0,0]]
+"history": [[0,0,0,0,0],[0,0,0,0,0],[2013,1,2,0,0],[2014,1,2,0,0],[2015,1,2,0,0],[2016,1,2,0,0]]
 }

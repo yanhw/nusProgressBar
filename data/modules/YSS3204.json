@@ -10,12 +10,12 @@
 "parsedPrerequisite": {
 " and ": ["YSS2211"]
 },
-"prerequisiteList": ["YSS2211"],
+"prerequisiteList": ["YSS2203"],
 "completePrerequisite": {
-            "name": "YSS3204", 
+            "name": "YSS3206", 
             "children": [
                 {
-                    "name": "YSS2211", 
+                    "name": "YSS2203", 
                     "children": []
                 }
             ]

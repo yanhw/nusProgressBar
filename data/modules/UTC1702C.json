@@ -1,0 +1,32 @@
+{
+"moduleCode": "UTC1702C",
+"moduleTitle": "Thinking in Systems: Sustainability and Us",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "GEM-coded GEM1914 Jnr Sem: Systems Systems Everywhere GEM1915% Towards an Understanding of the Complex World GEM1918 Thinking in Systems: Ecosystems and Natural Resources GEM1919 Thinking in Systems: Diseases and Healthcare GE Reform GET1011 Towards an Understanding of the Complex World UTC-coded UTC1411 Jnr Sem: Systems Systems Everywhere UTC1700 Thinking in Systems: Ecosystems and Natural UTC1701 Thinking in Systems: Diseases and Healthcare To be precluded with: all other topics offered under the UTC1702 parent module",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "GEM1915",
+            "GEM1914",
+            "UTC1701",
+            "UTC1700",
+            "UTC1702",
+            "GEM1919",
+            "GEM1918",
+            "UTC1411",
+            "GET1011"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "UTC1702C", 
+            "children": []
+},
+"moduleDescription": "How does our day-to-day actions and living habits affect our environment? How effectively can we engage the public, government and other stakeholders to shape a sustainable environment for humanity? Students will analyze these questions from a systems perspective by developing qualitative and quantitative models that can map the interconnections and interdependencies between stakeholders involved in current sustainability challenges facing humanity (examples: energy consumption, zero waste and recycling). In this module, students will not only develop a good understanding on sustainability challenges, but also on how actions of individuals can add up to cause such challenges.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "NON-FACULTY-BASED DEPARTMENTS",
+"department": "RESIDENTIAL COLLEGE 4",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2016,1,0,0,0]]
+}

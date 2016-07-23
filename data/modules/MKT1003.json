@@ -3,22 +3,23 @@
 "moduleTitle": "Marketing",
 "moduleCredit": "4",
 "lockedModules":[
+            "MKT3418",
             "MKT2401B",
-            "MKT3420",
-            "MKT3424",
             "MKT2411",
             "MKT3415",
             "MKT3413",
             "MKT3412",
-            "MKT3418",
+            "MKT3402D",
             "MKT3402A",
+            "MKT3402C",
             "MKT3402B",
             "MKT3422A",
-            "MKT3417",
-            "MKT3402C",
+            "MKT2401C",
+            "MKT3420",
             "MKT2412",
             "MKT2413",
-            "MKT2401A"
+            "MKT2401A",
+            "MKT3417"
         ],
 "preclusion": "Students who have taken EC3230/(EC2210) or CS3261/(IC3243) or PR4201 or BK2003 or BZ1003 or BH1003 are not allowed to take MKT1003. All BSc(Real Estate) students are not allowed to take MKT1003.",
 "prerequisite" : "NIL",
@@ -44,5 +45,5 @@
 "corequisite": "-1",
 "faculty": "SCHOOL OF BUSINESS",
 "department": "MARKETING",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,1,2,0,0]]
+"history": [[0,0,0,0,0],[0,0,0,0,0],[2013,1,2,0,0],[2014,1,2,0,0],[2015,1,2,0,0],[2016,1,2,0,0]]
 }

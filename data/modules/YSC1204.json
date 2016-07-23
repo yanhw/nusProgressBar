@@ -1,7 +1,7 @@
 {
 "moduleCode": "YSC1204",
 "moduleTitle": "Statistical Inference",
-"moduleCredit": "5",
+"moduleCredit": "2",
 "lockedModules":[
 ],
 "preclusion": "NIL",
@@ -10,7 +10,7 @@
 "parsedPrerequisite" : "nil",
 "prerequisiteList": [],
 "completePrerequisite": {
-            "name": "YSC1204", 
+            "name": "YSC1206", 
             "children": []
 },
 "moduleDescription": "This module is a key bridging module for those specialising in statistics in the Mathematics and Computer Science (including statistics) Major, which will give the requisite knowledge to be able to take any of the subsequent modules, as well as elective modules in Statistics or Biostatistics taught in NUS proper. Topics will include the likelihood function, Bayesian inference, the central limit theorem, likelihood ratio tests, model comparison and frequentist desiderata. The course will be organized in the lecture plus tutorial/computer lab format.",
@@ -18,5 +18,5 @@
 "corequisite": "-1",
 "faculty": "YALE-NUS COLLEGE",
 "department": "YALE-NUS COLLEGE",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,0,2,0,0]]
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2014,0,2,0,0],[2015,0,2,0,0],[0,0,0,0,0]]
 }

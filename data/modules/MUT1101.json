@@ -1,0 +1,25 @@
+{
+"moduleCode": "MUT1101",
+"moduleTitle": "Introduction to Musical Concepts and Materials",
+"moduleCredit": "4",
+"lockedModules":[
+            "MUT2201",
+            "MUT3214",
+            "MUT2204"
+        ],
+"preclusion": "NIL",
+"prerequisite": "Entrance into YSTCM BMus programme or satisfactory grade on the YSTCM theory skills exam",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "MUT1101", 
+            "children": []
+},
+"moduleDescription": "This module broadly covers essential musical concepts and their application in music of different eras and genres. It examines how expression is achieved through melodic, harmonic, rhythmic, timbral, and formal dimensions of music as well as text setting. Major assessment is in the form of music compositions that are performed in class and/or public concerts. The module is mandatory for all BMus students at the Yong Siew Toh Conservatory taken during the first semester of study.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "YONG SIEW TOH CONSERVATORY OF MUSIC",
+"department": "YONG SIEW TOH CONSERVATORY OF MUSIC",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2016,1,0,0,0]]
+}

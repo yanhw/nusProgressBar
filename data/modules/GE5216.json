@@ -1,0 +1,22 @@
+{
+"moduleCode": "GE5216",
+"moduleTitle": "Geography And Social Theory",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "GE5216", 
+            "children": []
+},
+"moduleDescription": "This module situates geography within the field of knowledge constituted by the social and natural sciences. It focuses on the way that geographic thought has developed through a dialogue with other disciplines. Students will learn about some key social theorists and how geography may be enriched through careful engagement with their works. This module is targeted at all interested in thinking critically about the spatiality of everyday life.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "GEOGRAPHY",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2014,0,2,0,0],[0,0,0,0,0],[2016,1,0,0,0]]
+}

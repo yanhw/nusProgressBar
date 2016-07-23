@@ -15,7 +15,7 @@
                 "CN3121E"
             ]
 },
-"prerequisiteList": ["TC3111","CN3121E","TC2421","TC1402","TC2401"],
+"prerequisiteList": ["TC3111","CN3121E","TC2421"],
 "completePrerequisite": {
             "name": "CN4227E", 
             "children": [
@@ -31,21 +31,7 @@
                             "children": [
                                 {
                                     "name": "TC2421", 
-                                    "children": [
-                                        {
-                                            "name": "or", 
-                                            "children": [
-                                                {
-                                                    "name": "TC1402", 
-                                                    "children": []
-                                                }, 
-                                                {
-                                                    "name": "TC2401", 
-                                                    "children": []
-                                                }
-                                            ]
-                                        }
-                                    ]
+                                    "children": []
                                 }
                             ]
                         }
@@ -58,5 +44,5 @@
 "corequisite": "NIL",
 "faculty": "ENGINEERING",
 "department": "BACHELOR OF TECHNOLOGY PROGRAMME",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,0,2,0,0]]
+"history": [[0,0,0,0,0],[2012,0,2,0,0],[2013,0,2,0,0],[2014,0,2,0,0],[2015,0,2,0,0],[2016,0,2,0,0]]
 }

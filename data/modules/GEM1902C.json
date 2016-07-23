@@ -1,0 +1,24 @@
+{
+"moduleCode": "GEM1902C",
+"moduleTitle": "Junior Seminar: Fakes",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "UTC1102C GEM1902CX",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "UTC1102C"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "GEM1902C", 
+            "children": []
+},
+"moduleDescription": "In this junior seminar, students will examine the significance of various kinds of false appearances such as counterfeits, forgeries, hoaxes, and liars, together with attempts to expose them \u2013 sometimes with the help of sophisticated technologies. By critically examining what it means to designate an object, practice or person as \u2018fake\u2019, and how different kinds of fakes are judged as more or less problematic, students will develop the capacity to think critically and relationally about deep-seated human desires for \u2018truth\u2019 and \u2018value\u2019.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "NON-FACULTY-BASED DEPARTMENTS",
+"department": "TEMBUSU COLLEGE",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[2013,1,0,0,0],[2014,0,2,0,0],[0,0,0,0,0],[2016,1,0,0,0]]
+}

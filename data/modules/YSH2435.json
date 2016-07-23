@@ -1,0 +1,22 @@
+{
+"moduleCode": "YSH2435",
+"moduleTitle": "The Structure of Language",
+"moduleCredit": "1",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "YSH2435", 
+            "children": []
+},
+"moduleDescription": "Languages are at the same time very different from one another and yet also very similar. How is that possible? To answer this question, we need to think of language not only as a set of words and their associated sounds, but also as a more abstract object: a set of mental principles that govern how we put together the various components of a complex grammatical system. This course explores the general principles that underlie how we combine words to form sentences, focusing on similarities and differences across languages.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "YALE-NUS COLLEGE",
+"department": "YALE-NUS COLLEGE",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2016,1,0,0,0]]
+}

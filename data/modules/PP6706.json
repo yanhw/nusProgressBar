@@ -11,20 +11,15 @@
 "parsedPrerequisite": {
 " and ": ["PP6701"]
 },
-"prerequisiteList": ["PP6701"],
+"prerequisiteList": [],
 "completePrerequisite": {
-            "name": "PP6706", 
-            "children": [
-                {
-                    "name": "PP6701", 
-                    "children": []
-                }
-            ]
+            "name": "PP6770", 
+            "children": []
 },
 "moduleDescription": "This is the second in a two-module series in research methods in public policy. This module provides a more in-depth understanding of the theory and practice of empirical methods, both quantitative and qualitative, used to study the causal effects of policy on observed outcomes. It focuses on the applications of econometric techniques to policy research with real world data sets. Students apply these techniques to real-life case studies and present analyses in class.",
 "crossModule": "-1",
 "corequisite": "NA",
 "faculty": "LEE KUAN YEW SCHOOL OF PUBLIC POLICY",
 "department": "LEE KUAN YEW SCHOOL OF PUBLIC POLICY",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,0,2,0,0]]
+"history": [[0,0,0,0,0],[0,0,0,0,0],[2013,0,2,0,0],[2014,0,2,0,0],[2015,0,2,0,0],[0,0,0,0,0]]
 }

@@ -3,7 +3,10 @@
 "moduleTitle": "Fundamentals of Programming",
 "moduleCredit": "5",
 "lockedModules":[
-            "YSC3203"
+            "YSC3207",
+            "YSC3203",
+            "YSC3225",
+            "YSC4204"
         ],
 "preclusion": "NIL",
 "prerequisite": "YCC2133 Integrated Science 2 (Computer Science Track)",
@@ -11,18 +14,13 @@
 "parsedPrerequisite": {
 " and ": ["YCC2133"]
 },
-"prerequisiteList": ["YCC2133","YCC1132"],
+"prerequisiteList": ["YCC2133"],
 "completePrerequisite": {
             "name": "YSC2204", 
             "children": [
                 {
                     "name": "YCC2133", 
-                    "children": [
-                        {
-                            "name": "YCC1132", 
-                            "children": []
-                        }
-                    ]
+                    "children": []
                 }
             ]
 },
@@ -31,5 +29,5 @@
 "corequisite": "-1",
 "faculty": "YALE-NUS COLLEGE",
 "department": "YALE-NUS COLLEGE",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,0,2,0,0]]
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2014,0,2,0,0],[2015,0,2,0,0],[2016,1,0,0,0]]
 }

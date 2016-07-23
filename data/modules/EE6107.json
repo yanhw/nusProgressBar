@@ -5,18 +5,18 @@
 "lockedModules":[
 ],
 "preclusion": "EE5107 Optimal Control Systems, EE5105 Optimal Control Systems (old code for EE5107)",
-"prerequisite": "EE5101 / EE5101R Linear Systems (Cross-listed ME5401) OR EE5103 / EE5103R Computer Controls Systems (Crosslisted ME5403)",
+"prerequisite": "EE5101 / EE5101R Linear Systems (Cross-listed ME5401)",
 "preclusionList": [
             "EE5107",
             "EE5105"
         ],
 "parsedPrerequisite": {
             " or ": [
-                "EE5103R", 
-                "ME5403"
+                "EE5101R", 
+                "ME5401"
             ]
 },
-"prerequisiteList": ["EE5103R","ME5403"],
+"prerequisiteList": ["EE5101R","ME5401","EE4302","EE3331C","EE2023","MA1506","MA1102R","MA1505","MA1521","ME4246","ME2142"],
 "completePrerequisite": {
             "name": "EE6107", 
             "children": [
@@ -24,12 +24,87 @@
                     "name": "or", 
                     "children": [
                         {
-                            "name": "EE5103R", 
+                            "name": "EE5101R", 
                             "children": []
                         }, 
                         {
-                            "name": "ME5403", 
-                            "children": []
+                            "name": "ME5401", 
+                            "children": [
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "EE4302", 
+                                            "children": [
+                                                {
+                                                    "name": "EE3331C", 
+                                                    "children": [
+                                                        {
+                                                            "name": "EE2023", 
+                                                            "children": [
+                                                                {
+                                                                    "name": "MA1506", 
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "or", 
+                                                                            "children": [
+                                                                                {
+                                                                                    "name": "MA1102R", 
+                                                                                    "children": []
+                                                                                }, 
+                                                                                {
+                                                                                    "name": "MA1505", 
+                                                                                    "children": []
+                                                                                }, 
+                                                                                {
+                                                                                    "name": "MA1521", 
+                                                                                    "children": []
+                                                                                }
+                                                                            ]
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "ME4246", 
+                                            "children": [
+                                                {
+                                                    "name": "ME2142", 
+                                                    "children": [
+                                                        {
+                                                            "name": "MA1506", 
+                                                            "children": [
+                                                                {
+                                                                    "name": "or", 
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "MA1102R", 
+                                                                            "children": []
+                                                                        }, 
+                                                                        {
+                                                                            "name": "MA1505", 
+                                                                            "children": []
+                                                                        }, 
+                                                                        {
+                                                                            "name": "MA1521", 
+                                                                            "children": []
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
                         }
                     ]
                 }
@@ -40,5 +115,5 @@
 "corequisite": "-1",
 "faculty": "ENGINEERING",
 "department": "ELECTRICAL & COMPUTER ENGINEERING",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,1,0,0,0]]
+"history": [[0,0,0,0,0],[0,0,0,0,0],[2013,1,0,0,0],[2014,1,0,0,0],[2015,1,0,0,0],[2016,1,0,0,0]]
 }

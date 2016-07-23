@@ -1,0 +1,23 @@
+{
+"moduleCode": "GMS6901",
+"moduleTitle": "Molecules to Medicines",
+"moduleCredit": "4",
+"lockedModules":[
+            "GMS6904"
+        ],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "GMS6901", 
+            "children": []
+},
+
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "DUKE-NUS MEDICAL SCHOOL",
+"department": "DUKE-NUS MEDICAL SCHOOL",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2016,1,0,0,0]]
+}

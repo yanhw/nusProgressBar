@@ -1,0 +1,22 @@
+{
+"moduleCode": "CHC5301",
+"moduleTitle": "History and Civilizations of the Tang Empire",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "CHC5301", 
+            "children": []
+},
+"moduleDescription": "This is an in-depth study of the Tang period (618-907 AD) of imperial China. It includes an introduction to research methodology and literature review, followed by a critical review of the Tang empire history and analysis of its various political, economic, cultural and foreign policies as well as social development. Case studies with reference to selected political and social issues will be included. Key historical figures will also be appraised.",
+"crossModule": "-1",
+"corequisite": "NA",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "CHINESE STUDIES",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2016,1,0,0,0]]
+}

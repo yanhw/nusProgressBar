@@ -8,15 +8,29 @@
 "prerequisite" : "NIL",
 "preclusionList": [],
 "parsedPrerequisite" : "nil",
-"prerequisiteList": [],
+"prerequisiteList": ["PF2102","PF2501"],
 "completePrerequisite": {
-            "name": "PF3204", 
-            "children": []
+            "name": "PF3205", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "PF2102", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "PF2501", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
 },
 "moduleDescription": "The module provides students with knowledge of the principles of risk management which include the common analysis techniques, and their application to projects. The major topics are: types and sources of project risks; risks affecting budgeting decisions and cost estimates; risk management cycle; risk analysis techniques; and risk allocation arrangements.",
 "crossModule": "-1",
 "corequisite": "-1",
 "faculty": "SCHOOL OF DESIGN AND ENVIRONMENT",
 "department": "BUILDING",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,0,2,0,0]]
+"history": [[0,0,0,0,0],[2012,0,2,0,0],[2013,0,2,0,0],[2014,0,2,0,0],[2015,0,2,0,0],[0,0,0,0,0]]
 }

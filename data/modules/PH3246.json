@@ -13,19 +13,23 @@
                 "GEM2006"
             ]
 },
-"prerequisiteList": ["PH2110","GEM2006"],
+"prerequisiteList": ["PH2111","GEK2048","PH2243"],
 "completePrerequisite": {
-            "name": "PH3246", 
+            "name": "PH3248", 
             "children": [
                 {
                     "name": "or", 
                     "children": [
                         {
-                            "name": "PH2110", 
+                            "name": "PH2111", 
                             "children": []
                         }, 
                         {
-                            "name": "GEM2006", 
+                            "name": "GEK2048", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "PH2243", 
                             "children": []
                         }
                     ]
@@ -37,5 +41,5 @@
 "corequisite": "-1",
 "faculty": "ARTS & SOCIAL SCIENCES",
 "department": "PHILOSOPHY",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,1,0,0,0]]
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,1,0,0,0],[0,0,0,0,0]]
 }

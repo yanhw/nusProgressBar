@@ -10,7 +10,7 @@
 "parsedPrerequisite": {
 " and ": ["NUR2116"]
 },
-"prerequisiteList": ["NUR2116","NUR2106","NUR2114","NUR1108"],
+"prerequisiteList": ["NUR2116","NUR1108A"],
 "completePrerequisite": {
             "name": "NUR3103", 
             "children": [
@@ -18,18 +18,8 @@
                     "name": "NUR2116", 
                     "children": [
                         {
-                            "name": "NUR2106", 
-                            "children": [
-                                {
-                                    "name": "NUR2114", 
-                                    "children": [
-                                        {
-                                            "name": "NUR1108", 
-                                            "children": []
-                                        }
-                                    ]
-                                }
-                            ]
+                            "name": "NUR1108A", 
+                            "children": []
                         }
                     ]
                 }
@@ -40,5 +30,5 @@
 "corequisite": "NIL",
 "faculty": "YONG LOO LIN SCHOOL OF MEDICINE",
 "department": "NURSING/ALICE LEE CTR FOR NURSING STUD",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,1,0,0,0]]
+"history": [[0,0,0,0,0],[0,0,0,0,0],[2013,1,0,0,0],[2014,1,0,0,0],[2015,1,0,0,0],[2016,1,0,0,0]]
 }

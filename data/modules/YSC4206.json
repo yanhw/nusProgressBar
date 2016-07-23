@@ -1,0 +1,29 @@
+{
+"moduleCode": "YSC4206",
+"moduleTitle": "Harmonic Analysis",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "YSC2209 Proof, YSC3206 One Real Variable (Recommended: YSC3205 Linear Algebra)",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["YSC3205"]
+},
+"prerequisiteList": ["YSC3205"],
+"completePrerequisite": {
+            "name": "YSC4206", 
+            "children": [
+                {
+                    "name": "YSC3205", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "Harmonic Analysis is a classical field of mathematics with roots in solving partial differential equations and also playing a major role in quantum physics. \u201cBig Data\u201d has made applied harmonic analysis a major field of current mathematical research. Applications range from medical to astronomical imaging, from X-ray crystallography to data compression or machine learning. This module is an introduction to basic techniques of harmonic analysis (convolution, approximation, Fourier analysis) and applications in physics or data science (frames wavelets, sparsity). The choice of topics will depend on the instructor.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "YALE-NUS COLLEGE",
+"department": "YALE-NUS COLLEGE",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2016,1,0,0,0]]
+}

@@ -1,0 +1,22 @@
+{
+"moduleCode": "YSC1210A",
+"moduleTitle": "Modern Physics",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "YSC1210A", 
+            "children": []
+},
+"moduleDescription": "Modern Physics aims to introduce students to the main ideas of physics that has driven its progress in the last century. The topics covered may differ from year to year, depending on the instructor, but can include some aspects of quantum mechanics, special relativity, condensed matter and solid-state physics, particle physics, and cosmology. The course targets students with a strong interest in physics. The content will be pitched at an introductory level, focused on conceptual understanding, without the formal mathematical rigor typical of a higher-level Physical Science major course on similar topics.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "YALE-NUS COLLEGE",
+"department": "YALE-NUS COLLEGE",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2016,1,0,0,0]]
+}

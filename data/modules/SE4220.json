@@ -1,0 +1,22 @@
+{
+"moduleCode": "SE4220",
+"moduleTitle": "Special Studies on Southeast Asia",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "Cohort 2011 and before: Completed 80MCs, including 28MCs in SE, with a minimum CAP of 3.50 or be on Honours track. Cohort 2012 onwards: Completed 80 MCs, including 28 MCs in SE, with a minimum CAP of 3.20 or be on the Honours track.",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "SE4220", 
+            "children": []
+},
+"moduleDescription": "This module is intended to enable students to pursue in-depth readings on a particular topic of interest to them which is relevant to the mission of the Southeast Asian Studies Programme but is not covered in the normal curriculum. It enables students to devise their own means of delving into an inquiry on a particular highly-specialized topic. The onus is on the student to compose a detailed list of readings on a topic which they themselves define, and to find a lecturer willing to supervise the student in completing and absorbing the reading material. The mode of assessment for this module is project work and examinations.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "SOUTHEAST ASIAN STUDIES",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[2013,1,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2016,0,2,0,0]]
+}

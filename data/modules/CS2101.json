@@ -6,7 +6,7 @@
             "CP3880"
         ],
 "preclusion": "CS2103 Software Engineering, IS2101 Business Technical Communication or its equivalent, ES2002, ES2007S, ES2007D, CG1413, EG1413 and ES1601.",
-"prerequisite": "Students have to complete ES1000 and/or ES1102 (if required to take the module/s) before reading this module.",
+"prerequisite": "Students have to complete ES1000 and/or ES1102/ES1103 (if required to take the module/s) before reading this module.",
 "preclusionList": [
             "IS2101",
             "EG1413",
@@ -20,10 +20,11 @@
 "parsedPrerequisite": {
             " or ": [
                 "ES1000", 
-                "ES1102"
+                "ES1102", 
+                "ES1103"
             ]
 },
-"prerequisiteList": ["ES1000","ES1102"],
+"prerequisiteList": ["ES1000","ES1102","ES1103"],
 "completePrerequisite": {
             "name": "CS2101", 
             "children": [
@@ -37,6 +38,10 @@
                         {
                             "name": "ES1102", 
                             "children": []
+                        }, 
+                        {
+                            "name": "ES1103", 
+                            "children": []
                         }
                     ]
                 }
@@ -47,5 +52,5 @@
 "corequisite": "Students have to read CS2103T Software Engineering at the same time as this module.",
 "faculty": "NON-FACULTY-BASED DEPARTMENTS",
 "department": "CTR FOR ENGLISH LANGUAGE COMMUNICATION",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,1,2,0,0]]
+"history": [[0,0,0,0,0],[2012,1,2,0,0],[2013,1,2,0,0],[2014,1,2,0,0],[2015,1,2,0,0],[2016,1,2,0,0]]
 }

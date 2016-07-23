@@ -1,0 +1,22 @@
+{
+"moduleCode": "GES1031",
+"moduleTitle": "Culture and Communication in Singapore",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "GES1031", 
+            "children": []
+},
+"moduleDescription": "This module introduces students to essential concepts in communication within and across different cultures and prepares them to meet the needs and challenges living and communicating in Singapore\u2019s multiracial and multicultural environment. It covers a broad range of topics that include cultural perception, cultural relativism, cultural patterns and worldviews, and verbal and nonverbal communication. Applied topics in intercultural communication to business and organization, media and technology, and computermediated communication are also covered against the backdrop of Singapore\u2019s digitally-networked and globalized economy. Students will learn to be interculturally sensitive and competent communicators as global citizens and citizens in a global city-state. (100 words)",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "COMMUNICATIONS AND NEW MEDIA",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2016,1,0,0,0]]
+}

@@ -1,7 +1,7 @@
 {
 "moduleCode": "SX3995",
 "moduleTitle": "Exchange Enrichment Level 3000 Module",
-"moduleCredit": "4",
+"moduleCredit": "2",
 "lockedModules":[
 ],
 "preclusion": "NIL",
@@ -10,7 +10,7 @@
 "parsedPrerequisite" : "nil",
 "prerequisiteList": [],
 "completePrerequisite": {
-            "name": "SX3995", 
+            "name": "SX3996", 
             "children": []
 },
 

@@ -1,9 +1,10 @@
 {
 "moduleCode": "NUR5603",
-"moduleTitle": "Advanced Practice Nursing I (Paediatrics)",
+"moduleTitle": "Advanced Paediatric Nursing I",
 "moduleCredit": "6",
 "lockedModules":[
-            "NUR5611"
+            "NUR5605",
+            "NUR5612"
         ],
 "preclusion": "NIL",
 "prerequisite": "NUR5601, NUR5602",
@@ -38,5 +39,5 @@
 "corequisite": "Nil",
 "faculty": "YONG LOO LIN SCHOOL OF MEDICINE",
 "department": "NURSING/ALICE LEE CTR FOR NURSING STUD",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,0,2,0,0]]
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,0,2,0,0],[2016,0,2,0,0]]
 }

@@ -15,7 +15,7 @@
                 "TG2415"
             ]
 },
-"prerequisiteList": ["CN3135E","CN2121E","CN1111E","CN2122E","TC1402","TC2401","CN3421E","CN4122E","CN3124E","TC2112","CN3132E","CN2125E","TG2415"],
+"prerequisiteList": ["CN3135E","CN3421E","CN4122E","CN3124E","TC2112","CN2122E","TC1402","TC2401","CN3132E","CN1111E","CN2121E","CN2125E","TG2415"],
 "completePrerequisite": {
             "name": "CN4123E", 
             "children": [
@@ -24,40 +24,7 @@
                     "children": [
                         {
                             "name": "CN3135E", 
-                            "children": [
-                                {
-                                    "name": "and", 
-                                    "children": [
-                                        {
-                                            "name": "CN2121E", 
-                                            "children": [
-                                                {
-                                                    "name": "CN1111E", 
-                                                    "children": []
-                                                }
-                                            ]
-                                        }, 
-                                        {
-                                            "name": "CN2122E", 
-                                            "children": [
-                                                {
-                                                    "name": "or", 
-                                                    "children": [
-                                                        {
-                                                            "name": "TC1402", 
-                                                            "children": []
-                                                        }, 
-                                                        {
-                                                            "name": "TC2401", 
-                                                            "children": []
-                                                        }
-                                                    ]
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
+                            "children": []
                         }, 
                         {
                             "name": "CN3421E", 
@@ -173,5 +140,5 @@
 "corequisite": "-1",
 "faculty": "ENGINEERING",
 "department": "BACHELOR OF TECHNOLOGY PROGRAMME",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,0,2,3,0]]
+"history": [[0,0,0,0,0],[0,0,0,0,0],[2013,0,2,3,0],[2014,0,2,3,0],[2015,0,2,3,0],[2016,0,2,0,0]]
 }

@@ -1,0 +1,46 @@
+{
+"moduleCode": "TS2239",
+"moduleTitle": "Major Playwrights of the 20th Century",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "TS1101E or EN1101E or GEM1003",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " or ": [
+                "TS1101E", 
+                "EN1101E", 
+                "GEM1003"
+            ]
+},
+"prerequisiteList": ["TS1101E","EN1101E","GEM1003"],
+"completePrerequisite": {
+            "name": "TS2239", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "TS1101E", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "EN1101E", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "GEM1003", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module focuses on the close reading of dramatic texts in order to study the dynamic relationship between text &amp; performance. Through the examination of 4 major modern playwrights working in different historical, geographical and cultural contexts, this course will explore the development of modern drama in the 20th century, the significance of text as the basis of theatrical realization, the variety of staging possibilities engendered by the dramaturgy of the play-text, and the synergistic partnership of word and action in creating the huge variety of text-based theatre in the 20th century.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "ENGLISH LANGUAGE & LITERATURE",
+"history": [[0,0,0,0,0],[2012,1,0,0,0],[2013,1,0,0,0],[2014,1,0,0,0],[0,0,0,0,0],[2016,1,0,0,0]]
+}

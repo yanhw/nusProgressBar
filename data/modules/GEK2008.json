@@ -4,15 +4,18 @@
 "moduleCredit": "4",
 "lockedModules":[
 ],
-"preclusion": "HY2235. GEK2008 is not for students majoring in HY.",
+"preclusion": "PS2206, GEM2012K, PS2211B, PS2241. Not for students majoring in PS",
 "prerequisite" : "NIL",
 "preclusionList": [
-            "HY2235"
+            "PS2241",
+            "GEM2012K",
+            "PS2206",
+            "PS2211B"
         ],
 "parsedPrerequisite" : "nil",
 "prerequisiteList": [],
 "completePrerequisite": {
-            "name": "GEK2008", 
+            "name": "GEK2012", 
             "children": []
 },
 "moduleDescription": "This module is designed to introduce students to major themes in Environmental History, meaning the historical study of the mutual influence of humans and the environment. After critically evaluating how the discipline of Environmental History has developed, lectures and discussions will focus on topics such as disease, agriculture, gender and modern environmental problems. Lectures will be combined with research assignments that will help students better understand how a historian approaches a topic. Students interested in history, the environment or new approaches to the past will be interested in the course",
@@ -20,5 +23,5 @@
 "corequisite": "NIL",
 "faculty": "ARTS & SOCIAL SCIENCES",
 "department": "HISTORY",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,1,0,0,0]]
+"history": [[0,0,0,0,0],[2012,1,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,1,0,0,0],[0,0,0,0,0]]
 }

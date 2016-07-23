@@ -1,0 +1,29 @@
+{
+"moduleCode": "YIL1202R",
+"moduleTitle": "Directed Language Study: Beginning Russian 2",
+"moduleCredit": "2",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "YIL1201R Directed Language Study: Beginning Russian 1 or permission of the Language Coordinator.",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["YIL1201R"]
+},
+"prerequisiteList": ["YIL1201R"],
+"completePrerequisite": {
+            "name": "YIL1202R", 
+            "children": [
+                {
+                    "name": "YIL1201R", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "Students taking this module will study a foreign language of special interest to them and not available at Yale-NUS or CLS (Russian in this case). This module provides the continuation for the beginning 1 module. In most instances, instruction will be done via Skype or similar videoconferencing technology, or similar videoconferencing technology.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "YALE-NUS COLLEGE",
+"department": "YALE-NUS COLLEGE",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2016,1,0,0,0]]
+}

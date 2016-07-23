@@ -1,7 +1,7 @@
 {
 "moduleCode": "ST3992",
 "moduleTitle": "Exchange Enrichment Module",
-"moduleCredit": "4",
+"moduleCredit": "12",
 "lockedModules":[
 ],
 "preclusion": "NIL",
@@ -10,7 +10,7 @@
 "parsedPrerequisite" : "nil",
 "prerequisiteList": [],
 "completePrerequisite": {
-            "name": "ST3992", 
+            "name": "ST4199", 
             "children": []
 },
 

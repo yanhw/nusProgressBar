@@ -8,15 +8,34 @@
 "prerequisite" : "NIL",
 "preclusionList": [],
 "parsedPrerequisite" : "nil",
-"prerequisiteList": [],
+"prerequisiteList": ["YCC1111","YCC1112"],
 "completePrerequisite": {
-            "name": "YHU2229", 
-            "children": []
+            "name": "YHU2230", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "YCC1111", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "YCC1112", 
+                            "children": [
+                                {
+                                    "name": "YCC1111", 
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
 },
 "moduleDescription": "It is often assumed that drug trades occur on the margins of societies. This course provocatively suggests that drug trades occupy a central place in the development and underdevelopment of many modern societies. We explore that part of globalization normally hidden from view. Drugs are defined broadly to include food and beverages with varying degrees of addictiveness, such as tea, coffee, chocolate, alcohol, sugar, tobacco, spices, and also opium. We will go back in time to examine comparatively the production, distribution, and consumption of these highly addictive goods from the sixteenth through nineteenth centuries.",
 "crossModule": "-1",
 "corequisite": "-1",
 "faculty": "YALE-NUS COLLEGE",
 "department": "YALE-NUS COLLEGE",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,1,0,0,0]]
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,1,0,0,0],[0,0,0,0,0]]
 }

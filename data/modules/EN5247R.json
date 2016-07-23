@@ -1,7 +1,7 @@
 {
 "moduleCode": "EN5247R",
 "moduleTitle": "Victorian Literature: History, Politics, Culture",
-"moduleCredit": "5",
+"moduleCredit": "4",
 "lockedModules":[
 ],
 "preclusion": "NIL",
@@ -10,7 +10,7 @@
 "parsedPrerequisite" : "nil",
 "prerequisiteList": [],
 "completePrerequisite": {
-            "name": "EN5247R", 
+            "name": "EN5252", 
             "children": []
 },
 "moduleDescription": "The module will examine Victorian literature with an emphasis on its historical, political, and cultural context. Topics addressed may include significant literary genres and movements (e.g. The Industrial Novel, Aestheticism and Decadence), major authors (e.g. George Eliot, Oscar Wilde), or broader thematic explorations of the diverse literary productions of nineteenth-century Britain (e.g. Gender and Sexuality in the Nineteenth Century, Imperialism and Victorian Writing). This module will also familiarise students with contemporary critical approaches to the study of Victorian literature and culture.",
@@ -18,5 +18,5 @@
 "corequisite": "-1",
 "faculty": "ARTS & SOCIAL SCIENCES",
 "department": "ENGLISH LANGUAGE & LITERATURE",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,0,2,0,0]]
+"history": [[0,0,0,0,0],[0,0,0,0,0],[2013,0,2,0,0],[2014,0,2,0,0],[2015,0,2,0,0],[0,0,0,0,0]]
 }

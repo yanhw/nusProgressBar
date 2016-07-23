@@ -1,0 +1,53 @@
+{
+"moduleCode": "YLS3202",
+"moduleTitle": "Advanced Spanish: Latin America, borders and identities",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "Successful completion of YLS2202 Intermediate Spanish 2 or instructor\u2019s permission. A placement exam may be required. High intermediate proficiency level as shown via placement exam or through interview with instructor.",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["YLS2202"]
+},
+"prerequisiteList": ["YLS2202","YLS2201","YLS1201","YLS1202"],
+"completePrerequisite": {
+            "name": "YLS3202", 
+            "children": [
+                {
+                    "name": "YLS2202", 
+                    "children": [
+                        {
+                            "name": "YLS2201", 
+                            "children": [
+                                {
+                                    "name": "and", 
+                                    "children": [
+                                        {
+                                            "name": "YLS1201", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "YLS1202", 
+                                            "children": [
+                                                {
+                                                    "name": "YLS1201", 
+                                                    "children": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "Students taking this module will build upon the material and topics covered in the introductory and intermediate sequences to expand their command of written and spoken Spanish while honing their literary analysis skills. The course will focus on a representative selection of texts (e.g., short stories, novellas, films) from several Latin American countries. Students will analyze and contextualize these works via in-class discussions and presentations on the history, traditions, and ideas embedded within them. This module will emphasize students\u2019 engagement with the ideas in the texts paying attention to stylistics, genre, and voice in their work.",
+"crossModule": "-1",
+"corequisite": "N/A",
+"faculty": "YALE-NUS COLLEGE",
+"department": "YALE-NUS COLLEGE",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2016,1,0,0,0]]
+}

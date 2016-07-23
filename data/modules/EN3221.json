@@ -1,0 +1,22 @@
+{
+"moduleCode": "EN3221",
+"moduleTitle": "The English Renaissance",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "Cohort 2011 and before: EN1101E or GEK1000. Cohort 2012 onwards: (i) EN1101E or GEK1000, AND (ii) at least one of the following modules (EN2201, EN2202, EN2203, EN2204, EN2205, EN2207)",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "EN3221", 
+            "children": []
+},
+"moduleDescription": "This module offers an introductory survey of the period referred to as \u201cthe English Renaissance\u201d (in traditional usage) and as \u201cearly modern England\u201d (in more recent usage). It considers the distinctive features of this period by looking at the different genres and literary forms in currency at the time: tragedy, comedy, love lyric, devotional lyric, epic, etc. These genres and forms are then read in relation to their significance for Renaissance/early modern England\u2019s original readership and audience. This is a period of intense conflict, and that conflict is far from over, being still reassessed and played out between differing critical positions.",
+"crossModule": "-1",
+"corequisite": "So long as students have fulfilled EN1101E/GEK1000, they may take this EN level-3000 module in the same semester as they are taking one of the following modules (EN2201, EN2202, EN2203, EN2204, EN2205, EN2207).",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "ENGLISH LANGUAGE & LITERATURE",
+"history": [[0,0,0,0,0],[2012,1,0,0,0],[0,0,0,0,0],[2014,0,2,0,0],[0,0,0,0,0],[2016,0,2,0,0]]
+}

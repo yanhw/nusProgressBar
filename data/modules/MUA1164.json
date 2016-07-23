@@ -1,0 +1,22 @@
+{
+"moduleCode": "MUA1164",
+"moduleTitle": "Recording as Creative Practice",
+"moduleCredit": "2",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "MUA1164", 
+            "children": []
+},
+"moduleDescription": "This module introduces practical and creative uses of sound recording - covering microphone types, stereo recording, signal routing, basic signal processing, and MIDI mockup with virtual instruments. The module takes a blended learning approach, with online materials preparing students for in-class activities. Assessment is project based. The module is mandatory for all BMus students majoring in composition at the Yong Siew Toh Conservatory. For those students, it should be taken during the first semester of study.",
+"crossModule": "-1",
+"corequisite": "n/a",
+"faculty": "YONG SIEW TOH CONSERVATORY OF MUSIC",
+"department": "YONG SIEW TOH CONSERVATORY OF MUSIC",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2016,1,0,0,0]]
+}

@@ -1,0 +1,25 @@
+{
+"moduleCode": "SSA2203",
+"moduleTitle": "Chinese Businesses in Singapore & Beyond",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "HY2239, GES1009",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "GES1009",
+            "HY2239"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "SSA2203", 
+            "children": []
+},
+"moduleDescription": "This module provides a broad survey of Chinese business development in Singapore from the pre-modern era (pre 1819) through to current times. It traces the evolution of the Chinese business community and examines the growth and expansion of their networks in East and Southeast Asia. It also examines the roles played by colonial authorities and the 'China connection' in the development of these business networks. Specific case studies are drawn on to allow a closer understanding of the way Chinese businesses were established and how they developed. The social, economic and cultural aspects closely associated with the Chinese business community of Singapore, such as early Chinese migration, dialect organisations, guilds, occupational structure, Chinese merchant culture, as well as the transformation and globalisation of Chinese businesses will also be discussed. This module is open to all students in NUS interested in Singapore history/studies.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "HISTORY",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[2013,0,2,0,0],[0,0,0,0,0],[0,0,0,0,0],[2016,0,2,0,0]]
+}

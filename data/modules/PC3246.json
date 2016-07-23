@@ -1,6 +1,6 @@
 {
 "moduleCode": "PC3246",
-"moduleTitle": "Nuclear Astrophysics",
+"moduleTitle": "Astrophysics I",
 "moduleCredit": "4",
 "lockedModules":[
             "PC4232"
@@ -14,7 +14,7 @@
                 "PC2132"
             ]
 },
-"prerequisiteList": ["PC2130","PC1144","PC1432","MA1505","MA1506","MA1102R","MA1521","MA1101R","PC2132","PC1141","PC1431"],
+"prerequisiteList": ["PC2130","PC1144","PC1432","PC1432X","MA1505","MA1506","MA1102R","MA1521","MA1101R","PC2132","PC1141","PC1431"],
 "completePrerequisite": {
             "name": "PC3246", 
             "children": [
@@ -36,6 +36,10 @@
                                                 }, 
                                                 {
                                                     "name": "PC1432", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "PC1432X", 
                                                     "children": []
                                                 }
                                             ]
@@ -169,10 +173,10 @@
                 }
             ]
 },
-"moduleDescription": "This module introduces students to the physics of stars and the closely related processes of nucleosynthesis. A brief review of basic astronomy and an introduction to the relevant nuclear physics is given, followed by a discussion of the big bang cosmology. Then important elements of the structure of stars are discussed, including: heat transfer in stars, thermo-nuclear fusion in stars, stellar structures and star life-cycles. We will discuss nucleosynthesis via quiescent burning, and the various processes that lead to the production of heavy (A&gt;60) elements. The module ends with an introduction to very recent developments, e.g. gamma and neutrino astronomy.",
+"moduleDescription": "This module introduces the application of physics to astronomy. The students will be introduced to some astronomical phenomena, and they will learn to understand these fascinating phenomena by using basic physics. The module allows the physics students to review, and to extend their knowledge. The module cover two basic classes of celestial objects: the stars and planets. The topics include Kepler\u2019s laws, telescopes, binary stars, stellar spectra, stellar interiors, stellar formation and evolution, solar magnetic field, planetary tidal forces, planetary atmospheres, and Newtonian cosmology.",
 "crossModule": "-1",
 "corequisite": "-1",
 "faculty": "SCIENCE",
 "department": "PHYSICS",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,0,2,0,0]]
+"history": [[0,0,0,0,0],[2012,0,2,0,0],[2013,0,2,0,0],[2014,0,2,0,0],[2015,0,2,0,0],[2016,0,2,0,0]]
 }

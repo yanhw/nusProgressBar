@@ -1,0 +1,59 @@
+{
+"moduleCode": "EE4308",
+"moduleTitle": "Advances in Intelligent Systems and Robotics",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "EE4306 Distributed Autonomous Robotic Systems",
+"prerequisite": "EE3331C Feedback Control Systems",
+"preclusionList": [
+            "EE4306"
+        ],
+"parsedPrerequisite": {
+" and ": ["EE3331C"]
+},
+"prerequisiteList": ["EE3331C","EE2023","MA1506","MA1102R","MA1505","MA1521"],
+"completePrerequisite": {
+            "name": "EE4308", 
+            "children": [
+                {
+                    "name": "EE3331C", 
+                    "children": [
+                        {
+                            "name": "EE2023", 
+                            "children": [
+                                {
+                                    "name": "MA1506", 
+                                    "children": [
+                                        {
+                                            "name": "or", 
+                                            "children": [
+                                                {
+                                                    "name": "MA1102R", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MA1505", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MA1521", 
+                                                    "children": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "The module \u2018Advances in Intelligent Systems and Robotics\u2019 will cover topics such as mobile robots, autonomous robotic systems, multiple mobile robotic systems, unmanned aerial vehicles and cyber physical security. Applications to multiple mobile robot path planning, multi-sensor fusion, obstacle avoidance and learning in robotic systems will be presented. An animated virtual-robot learning platform will be used for gaining hands on experience in designing autonomous robots, terrain building, path planning, obstacle avoidance and robot control.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "ELECTRICAL & COMPUTER ENGINEERING",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2016,0,2,0,0]]
+}

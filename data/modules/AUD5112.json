@@ -15,32 +15,33 @@
                 "AUD5102"
             ]
 },
-"prerequisiteList": ["AUD5103","AUD5104","AUD5105","AUD5102"],
+"prerequisiteList": ["AUD5106","AUD5103","AUD5104","AUD5107"],
 "completePrerequisite": {
-            "name": "AUD5112", 
+            "name": "AUD5113", 
             "children": [
                 {
                     "name": "and", 
                     "children": [
                         {
-                            "name": "AUD5103", 
-                            "children": []
-                        }, 
-                        {
-                            "name": "AUD5104", 
-                            "children": []
-                        }, 
-                        {
-                            "name": "AUD5105", 
+                            "name": "AUD5106", 
                             "children": [
                                 {
-                                    "name": "AUD5104", 
-                                    "children": []
+                                    "name": "and", 
+                                    "children": [
+                                        {
+                                            "name": "AUD5103", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "AUD5104", 
+                                            "children": []
+                                        }
+                                    ]
                                 }
                             ]
                         }, 
                         {
-                            "name": "AUD5102", 
+                            "name": "AUD5107", 
                             "children": []
                         }
                     ]
@@ -52,5 +53,5 @@
 "corequisite": "AUD5108: Electrophysiology Assessment A; AUD5111: Hearing Devices & Rehabilitation A (Part 2)",
 "faculty": "YONG LOO LIN SCHOOL OF MEDICINE",
 "department": "DIVISION OF GRADUATE MEDICAL STUDIES",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,0,2,0,0]]
+"history": [[0,0,0,0,0],[0,0,0,0,0],[2013,0,2,0,0],[0,0,0,0,0],[2015,0,2,0,0],[0,0,0,0,0]]
 }

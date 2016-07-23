@@ -1,7 +1,7 @@
 {
 "moduleCode": "SX4881",
 "moduleTitle": "Exchange Enrichment 4000 Module",
-"moduleCredit": "4",
+"moduleCredit": "1",
 "lockedModules":[
 ],
 "preclusion": "NIL",
@@ -10,7 +10,7 @@
 "parsedPrerequisite" : "nil",
 "prerequisiteList": [],
 "completePrerequisite": {
-            "name": "SX4881", 
+            "name": "SX4882", 
             "children": []
 },
 

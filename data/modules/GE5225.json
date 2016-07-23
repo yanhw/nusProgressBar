@@ -1,0 +1,22 @@
+{
+"moduleCode": "GE5225",
+"moduleTitle": "Thesis Planning and Implementation",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "GE5225", 
+            "children": []
+},
+"moduleDescription": "This module aims to guide students in the selection and development of an appropriate MSc thesis topic. The importance of a thorough evaluation of relevant literature to the process of identifying live research problems and of effective project management will be stressed. Students will obtain the necessary training to plan and implement a research thesis and evaluate the various available research approaches. The primary output of this module will be a detailed research proposal, presented in written and oral forms as a prelude to GE6225 Research Thesis.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "GEOGRAPHY",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2016,0,2,0,0]]
+}

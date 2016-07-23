@@ -3,7 +3,8 @@
 "moduleTitle": "Introduction to Applied GIS",
 "moduleCredit": "4",
 "lockedModules":[
-],
+            "GE5219"
+        ],
 "preclusion": "Students with prior GIS training should consult with the lecturer in charge to decide if the module is suitable.",
 "prerequisite" : "NIL",
 "preclusionList": [],
@@ -18,5 +19,5 @@
 "corequisite": "-1",
 "faculty": "ARTS & SOCIAL SCIENCES",
 "department": "GEOGRAPHY",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,0,2,0,0]]
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2014,0,2,0,0],[2015,0,2,0,0],[2016,1,0,0,0]]
 }

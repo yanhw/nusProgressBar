@@ -1,0 +1,41 @@
+{
+"moduleCode": "SC6780",
+"moduleTitle": "Professional Writing in Sociology and Anthropology",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "SC5101 Graduate Research Methods SC5102 Quantitative Data Analysis SC5103 Qualitative Data Analysis SC6102 Sociological Theory and Social Reality SC6770 Graduate Research Seminar Completed and passed Comprehensive Exams",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " and ": [
+                "SC6102", 
+                "SC6770"
+            ]
+},
+"prerequisiteList": ["SC6102","SC6770"],
+"completePrerequisite": {
+            "name": "SC6780", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "SC6102", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "SC6770", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This advanced module offers intensive and practical training of postgraduate students in professional writing in the disciplines of sociology and anthropology. Students will learn the intricacies of writing to publish in different types of academic publication. They will learn the different types of research writing involving qualitative inquiry, quantitative argumentation, ethnographic understanding, and theoretical reasoning. Students will have the opportunity to critically reflect on their own writing in the midst of completing their dissertation. Students will also learn how to present their writing in professional settings such as conferences and seminars.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "SOCIOLOGY",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2016,1,0,0,0]]
+}

@@ -10,7 +10,7 @@
 "parsedPrerequisite": {
 " and ": ["PC3241"]
 },
-"prerequisiteList": ["PC3241","PC2131","PC1143","PC1432","MA1505","MA1506","MA1102R","MA1521","MA1101R","PC2231","PC3235","PC2130","PC1144","PC2130B","PC1432X","PC1433","MLE2104","EG1109F","EG1109","CE1109X","MLE1101","MLE2101","PC2133","EE2005"],
+"prerequisiteList": ["PC3241","PC2131","PC1143","PC1432","PC1432X","MA1505","MA1506","MA1102R","MA1521","MA1101R","PC2231","PC3235","PC2130","PC1144","PC2130B","PC1433","MLE2104","EG1109F","EG1109","MLE1101","MLE2101","MLE1111","PC2133","EE2005"],
 "completePrerequisite": {
             "name": "PC4264", 
             "children": [
@@ -35,6 +35,10 @@
                                                         }, 
                                                         {
                                                             "name": "PC1432", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "PC1432X", 
                                                             "children": []
                                                         }
                                                     ]
@@ -117,6 +121,10 @@
                                                                         }, 
                                                                         {
                                                                             "name": "PC1432", 
+                                                                            "children": []
+                                                                        }, 
+                                                                        {
+                                                                            "name": "PC1432X", 
                                                                             "children": []
                                                                         }
                                                                     ]
@@ -219,15 +227,15 @@
                                                     "children": []
                                                 }, 
                                                 {
-                                                    "name": "CE1109X", 
-                                                    "children": []
-                                                }, 
-                                                {
                                                     "name": "MLE1101", 
                                                     "children": []
                                                 }, 
                                                 {
                                                     "name": "MLE2101", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MLE1111", 
                                                     "children": []
                                                 }
                                             ]
@@ -267,5 +275,5 @@
 "corequisite": "-1",
 "faculty": "SCIENCE",
 "department": "PHYSICS",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,0,2,0,0]]
+"history": [[0,0,0,0,0],[0,0,0,0,0],[2013,0,2,0,0],[2014,0,2,0,0],[2015,0,2,0,0],[2016,0,2,0,0]]
 }

@@ -1,0 +1,30 @@
+{
+"moduleCode": "NUR5604",
+"moduleTitle": "Advanced Practice Nursing II (Paediatrics)",
+"moduleCredit": "6",
+"lockedModules":[
+            "NUR5612"
+        ],
+"preclusion": "NIL",
+"prerequisite": "NUR5601 Advanced Health Assessment (Paediatrics) NUR5602 Advanced Pathophysiology (Paediatrics) NUR5603 Advanced Practice Nursing I (Paediatrics) PA2106A Pharmacology I",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["PA2106A"]
+},
+"prerequisiteList": ["PA2106A"],
+"completePrerequisite": {
+            "name": "NUR5604", 
+            "children": [
+                {
+                    "name": "PA2106A", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "This module aims to provide students with an in-depth study of the theoretical knowledge and evidence-based skills needed by the paediatric advanced practice nurse in diagnosing and managing physiology alterations involving the neuro-development, gastroenterology, nutrition, infectious diseases and endo-crinology in the paediatric population. It focuses on pathologies that may involve these systems of the body. Through continuous didactic learning sessions reinforced by a \u2018Team-Lead approach\u2019, the students will share learned knowledge and debate viable therapeutic answers to apply principles into practice. This will enhance their competency in planning, implementing and evaluating care for complex paediatric conditions.",
+"crossModule": "-1",
+"corequisite": "Nil",
+"faculty": "YONG LOO LIN SCHOOL OF MEDICINE",
+"department": "NURSING/ALICE LEE CTR FOR NURSING STUD",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[2013,1,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2016,1,0,0,0]]
+}

@@ -4,13 +4,16 @@
 "moduleCredit": "4",
 "lockedModules":[
 ],
-"preclusion": "Not for Life Sciences major/minor or Food Sciences & Technology or Pharmacy majors or Bioengineering programs.",
+"preclusion": "GEH1019 and GEM1908",
 "prerequisite" : "NIL",
-"preclusionList": [],
+"preclusionList": [
+            "GEM1908",
+            "GEH1019"
+        ],
 "parsedPrerequisite" : "nil",
 "prerequisiteList": [],
 "completePrerequisite": {
-            "name": "GEK1527", 
+            "name": "GEK1529", 
             "children": []
 },
 "moduleDescription": "The primary aim of this module is to introduce students to the modern concepts in biology and to enable them to evaluate independently the potential benefits and risks of thebiotechnological revolution and its implications for society. The topics taught will cover an understanding of the nature of the genetic material and the passage of information from DNA to protein, as well as the major technologies currently used for genetic engineering. Examples of genetic engineering of micro-organisms, plants and animals will be given in detail, and cloning will also be discussed. The students will become aware of the impact of the various genome projects on their own lives and will also able to recognise difficulties associated with deciding which kinds of genetic engineering are ethically and morally acceptable.",
@@ -18,5 +21,5 @@
 "corequisite": "NIL",
 "faculty": "SCIENCE",
 "department": "BIOLOGICAL SCIENCES",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,0,2,0,0]]
+"history": [[0,0,0,0,0],[2012,1,2,0,4],[2013,1,2,0,4],[2014,1,2,0,4],[2015,0,2,0,0],[0,0,0,0,0]]
 }

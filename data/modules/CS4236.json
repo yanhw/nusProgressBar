@@ -3,17 +3,24 @@
 "moduleTitle": "Cryptography Theory and Practice",
 "moduleCredit": "4",
 "lockedModules":[
-],
+            "CS6231"
+        ],
 "preclusion": "NIL",
-"prerequisite": "CS2107 Introduction to Information & System Security and CS3230 Design and Analysis of Algorithm.",
+"prerequisite": "CS1231 Discrete Structures and (CS2010 Data Structure and Algorithms II or CS2020 Data Structure and Algorithms (Accelerated)) and CS2107 Introduction to Information Security .",
 "preclusionList": [],
 "parsedPrerequisite": {
             " and ": [
-                "CS2107", 
-                "CS3230"
+                "CS1231", 
+                {
+                    " or ": [
+                        "CS2010", 
+                        "CS2020"
+                    ]
+                }, 
+                "CS2107"
             ]
 },
-"prerequisiteList": ["CS2107","CS1010","CS3230","CS2010","CS1020","CS1020E","CS1010E","CG1103","CS1231","MA1100"],
+"prerequisiteList": ["CS1231","CS2010","CS1020","CS1010","CS1020E","CS1010E","CG1103","CS2020","CS2107"],
 "completePrerequisite": {
             "name": "CS4236", 
             "children": [
@@ -21,66 +28,56 @@
                     "name": "and", 
                     "children": [
                         {
-                            "name": "CS2107", 
-                            "children": [
-                                {
-                                    "name": "CS1010", 
-                                    "children": []
-                                }
-                            ]
+                            "name": "CS1231", 
+                            "children": []
                         }, 
                         {
-                            "name": "CS3230", 
+                            "name": "or", 
                             "children": [
                                 {
-                                    "name": "and", 
+                                    "name": "CS2010", 
                                     "children": [
-                                        {
-                                            "name": "CS2010", 
-                                            "children": [
-                                                {
-                                                    "name": "or", 
-                                                    "children": [
-                                                        {
-                                                            "name": "CS1020", 
-                                                            "children": [
-                                                                {
-                                                                    "name": "CS1010", 
-                                                                    "children": []
-                                                                }
-                                                            ]
-                                                        }, 
-                                                        {
-                                                            "name": "CS1020E", 
-                                                            "children": [
-                                                                {
-                                                                    "name": "CS1010E", 
-                                                                    "children": []
-                                                                }
-                                                            ]
-                                                        }, 
-                                                        {
-                                                            "name": "CG1103", 
-                                                            "children": []
-                                                        }
-                                                    ]
-                                                }
-                                            ]
-                                        }, 
                                         {
                                             "name": "or", 
                                             "children": [
                                                 {
-                                                    "name": "CS1231", 
-                                                    "children": []
+                                                    "name": "CS1020", 
+                                                    "children": [
+                                                        {
+                                                            "name": "CS1010", 
+                                                            "children": []
+                                                        }
+                                                    ]
                                                 }, 
                                                 {
-                                                    "name": "MA1100", 
+                                                    "name": "CS1020E", 
+                                                    "children": [
+                                                        {
+                                                            "name": "CS1010E", 
+                                                            "children": []
+                                                        }
+                                                    ]
+                                                }, 
+                                                {
+                                                    "name": "CG1103", 
                                                     "children": []
                                                 }
                                             ]
                                         }
                                     ]
+                                }, 
+                                {
+                                    "name": "CS2020", 
+                                    "children": []
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "CS2107", 
+                            "children": [
+                                {
+                                    "name": "CS1010", 
+                                    "children": []
                                 }
                             ]
                         }
@@ -93,5 +90,5 @@
 "corequisite": "-1",
 "faculty": "SCHOOL OF COMPUTING",
 "department": "COMPUTER SCIENCE",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,1,0,0,0]]
+"history": [[0,0,0,0,0],[2012,0,2,0,0],[2013,0,2,0,0],[2014,1,0,0,0],[2015,1,0,0,0],[2016,1,0,0,0]]
 }

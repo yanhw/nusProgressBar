@@ -3,27 +3,59 @@
 "moduleTitle": "Modern Social Thought",
 "moduleCredit": "5",
 "lockedModules":[
-            "YHU2245",
             "YSS2209",
-            "YSS3216",
-            "YSS3223",
-            "YSS3231",
-            "YSS3202",
-            "YHU2239"
+            "YHU3237",
+            "YHU3233",
+            "YSS4209",
+            "YSS4208A"
         ],
 "preclusion": "Not Applicable",
-"prerequisite" : "NIL",
+"prerequisite": "YCC1111 Literature and Humanities 1, YCC1112 Literature and Humanities 2, YCC1113 Philosophy and Political Thought 1, YCC1114 Philosophy and Political Thought 2, YCC1121 Comparative Social Institutions, OR permission of instructor",
 "preclusionList": [],
-"parsedPrerequisite" : "nil",
-"prerequisiteList": [],
+"parsedPrerequisite": {
+            " and ": [
+                "YCC1111", 
+                "YCC1112", 
+                "YCC1113", 
+                "YCC1114", 
+                "YCC1121"
+            ]
+},
+"prerequisiteList": ["YCC1111","YCC1112","YCC1113","YCC1114","YCC1121"],
 "completePrerequisite": {
             "name": "YCC2121", 
-            "children": []
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "YCC1111", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "YCC1112", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "YCC1113", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "YCC1114", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "YCC1121", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
 },
 "moduleDescription": "This module will introduce students to foundational figures of modern social thought and explore the ways in which their writings have been taken up in contemporary social analysis and political practice in different parts of the world.",
 "crossModule": "-1",
 "corequisite": "Not Applicable",
 "faculty": "YALE-NUS COLLEGE",
 "department": "YALE-NUS COLLEGE",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,1,0,0,0]]
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2014,1,0,0,0],[2015,1,0,0,0],[2016,1,0,0,0]]
 }

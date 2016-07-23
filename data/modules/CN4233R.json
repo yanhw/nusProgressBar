@@ -4,9 +4,13 @@
 "moduleCredit": "4",
 "lockedModules":[
 ],
-"preclusion": "NIL",
+"preclusion": "PR2143 Pharmaceutical Analysis for Quality Assurance PR3145 Compliance & Good Practices in Pharmacy PR4206 Industrial Pharmacy",
 "prerequisite": "LSM1401 Fundamentals of Biochemistry CN2108 Chemical Engineering Laboratory I",
-"preclusionList": [],
+"preclusionList": [
+            "PR3145",
+            "PR4206",
+            "PR2143"
+        ],
 "parsedPrerequisite": {
 " and ": ["CN2108"]
 },
@@ -102,5 +106,5 @@
 "corequisite": "-1",
 "faculty": "ENGINEERING",
 "department": "CHEMICAL & BIOMOLECULAR ENGINEERING",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,0,2,0,0]]
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,0,2,0,0],[2016,1,0,0,0]]
 }

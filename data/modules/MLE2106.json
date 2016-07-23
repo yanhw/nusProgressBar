@@ -14,7 +14,7 @@
                 "MLE2104"
             ]
 },
-"prerequisiteList": ["MLE1101","MLE2101","MLE2104","EG1109F","EG1109","CE1109X"],
+"prerequisiteList": ["MLE1101","MLE2101","MLE2104","EG1109F","EG1109","MLE1111"],
 "completePrerequisite": {
             "name": "MLE2106", 
             "children": [
@@ -44,15 +44,15 @@
                                             "children": []
                                         }, 
                                         {
-                                            "name": "CE1109X", 
-                                            "children": []
-                                        }, 
-                                        {
                                             "name": "MLE1101", 
                                             "children": []
                                         }, 
                                         {
                                             "name": "MLE2101", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "MLE1111", 
                                             "children": []
                                         }
                                     ]
@@ -68,5 +68,5 @@
 "corequisite": "NIL",
 "faculty": "ENGINEERING",
 "department": "MATERIALS SCIENCE AND ENGINEERING",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,1,0,0,0]]
+"history": [[0,0,0,0,0],[2012,1,0,0,0],[2013,1,0,0,0],[2014,1,0,0,0],[2015,1,0,0,0],[2016,1,2,0,0]]
 }

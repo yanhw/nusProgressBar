@@ -10,13 +10,27 @@
 "parsedPrerequisite": {
 " and ": ["YSC1202"]
 },
-"prerequisiteList": ["YSC1202"],
+"prerequisiteList": ["YSC2209","YSC3204"],
 "completePrerequisite": {
-            "name": "YSC3219", 
+            "name": "YSC3220", 
             "children": [
                 {
-                    "name": "YSC1202", 
-                    "children": []
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "YSC2209", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "YSC3204", 
+                            "children": [
+                                {
+                                    "name": "YSC2209", 
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
                 }
             ]
 },
@@ -25,5 +39,5 @@
 "corequisite": "If you haven’t taken math courses in which you have to do proofs, then YSC2209 Proof is strongly recommended.",
 "faculty": "YALE-NUS COLLEGE",
 "department": "YALE-NUS COLLEGE",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,0,2,0,0]]
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,0,2,0,0],[0,0,0,0,0]]
 }

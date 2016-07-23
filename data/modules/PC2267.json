@@ -6,16 +6,17 @@
             "PC3267"
         ],
 "preclusion": "NIL",
-"prerequisite": "PC1143 or PC1432 or PC1421 or departmental approval",
+"prerequisite": "PC1143 or PC1432/PC1432X or PC1421 or Departmental approval",
 "preclusionList": [],
 "parsedPrerequisite": {
             " or ": [
                 "PC1143", 
                 "PC1432", 
+                "PC1432X", 
                 "PC1421"
             ]
 },
-"prerequisiteList": ["PC1143","PC1432","PC1421"],
+"prerequisiteList": ["PC1143","PC1432","PC1432X","PC1421"],
 "completePrerequisite": {
             "name": "PC2267", 
             "children": [
@@ -31,6 +32,10 @@
                             "children": []
                         }, 
                         {
+                            "name": "PC1432X", 
+                            "children": []
+                        }, 
+                        {
                             "name": "PC1421", 
                             "children": []
                         }
@@ -43,5 +48,5 @@
 "corequisite": "-1",
 "faculty": "SCIENCE",
 "department": "PHYSICS",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,1,0,0,0]]
+"history": [[0,0,0,0,0],[2012,1,0,0,0],[2013,1,0,0,0],[2014,1,0,0,0],[2015,1,0,0,0],[2016,1,0,0,0]]
 }

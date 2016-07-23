@@ -10,20 +10,15 @@
 "parsedPrerequisite": {
 " and ": ["YSS2211"]
 },
-"prerequisiteList": ["YSS2211"],
+"prerequisiteList": [],
 "completePrerequisite": {
-            "name": "YSS3220", 
-            "children": [
-                {
-                    "name": "YSS2211", 
-                    "children": []
-                }
-            ]
+            "name": "YSS3221", 
+            "children": []
 },
 "moduleDescription": "This course focuses on understanding how interactions between political actors influence decisions and outcomes.",
 "crossModule": "-1",
 "corequisite": "-1",
 "faculty": "YALE-NUS COLLEGE",
 "department": "YALE-NUS COLLEGE",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,1,0,0,0]]
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,1,0,0,0],[0,0,0,0,0]]
 }

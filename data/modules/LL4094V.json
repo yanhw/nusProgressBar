@@ -1,24 +1,22 @@
 {
 "moduleCode": "LL4094V",
-"moduleTitle": "The Law Clinic",
+"moduleTitle": "Law & Practice - The Law Clinic",
 "moduleCredit": "5",
 "lockedModules":[
 ],
-"preclusion": "Students who are taking or have taken LL4094.",
-"prerequisite": "NUS Compulsory Core Curriculum or its equivalent.",
-"preclusionList": [
-            "LL4094"
-        ],
+"preclusion": "Students who have been in practice as qualified lawyers in the local or other jurisdictions are precluded.",
+"prerequisite": "NUS Compulsory Core Curriculum or its equivalent. NUS Legal Skills Programme or equivalent, in particular, Legal Analysis, Research and Communication or its equivalent. Singapore Legal System or its equivalent.",
+"preclusionList": [],
 "parsedPrerequisite" : "nil",
 "prerequisiteList": [],
 "completePrerequisite": {
             "name": "LL4094V", 
             "children": []
 },
-"moduleDescription": "The clinical legal education programme at the NUS Faculty of Law has a strong pro bono emphasis. Built as a natural extension to the Legal Skills Programme, this module provides students with an opportuity to further develop their legal skills in context, to acquire new skills for legal practice, and to make significant contributions to enhancing the provision of legal services to the community. Students will work under the close supervision of lawyers to assist in live cases.",
+"moduleDescription": "Clinical Legal Education (CLE) is the acquisition and development of legal skills through working on live cases under the supervision of qualified lawyers. Developed as an extension to the NUS Legal Skills Programme, the NUS CLE programme has a strong pro bono emphasis. Students will undertake legal work including civil and family litigation through the Legal Aid Bureau; criminal defence; and transactional, structuring, and governance advice for social service organisations, charities and NGOs. Clinical staff with teaching and practice experience supervise students individually. This course is offered through the year in tranches, including during university vacation.",
 "crossModule": "-1",
 "corequisite": "-1",
 "faculty": "LAW",
 "department": "LAW",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,1,2,0,0]]
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2014,1,2,0,0],[2015,1,2,0,0],[2016,1,2,0,0]]
 }

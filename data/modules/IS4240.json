@@ -32,7 +32,7 @@
                 }
             ]
 },
-"prerequisiteList": ["IS1112","IS1112F","CS2102","CS1020","CS1010","CS1231","MA1100","IS1103","IS1103F","IS1105","ST1131","ST2334","MA1306","MA1102","MA1102R","MA1505","MA1505C","MA1521","MA1312","MA1507","ST2132","MA2216","ST2131"],
+"prerequisiteList": ["IS1112","IS1112F","CS2102","CS1020","CS1010","CS1231","MA1100","IS1103","IS1103F","IS1105","ST1131","ST2334","MA1102R","MA1312","MA1505","MA1507","MA1521","ST2132","MA2216","MA1102","MA1505C","ST2131"],
 "completePrerequisite": {
             "name": "IS4240", 
             "children": [
@@ -115,27 +115,7 @@
                                             "name": "or", 
                                             "children": [
                                                 {
-                                                    "name": "MA1306", 
-                                                    "children": []
-                                                }, 
-                                                {
-                                                    "name": "MA1102", 
-                                                    "children": []
-                                                }, 
-                                                {
                                                     "name": "MA1102R", 
-                                                    "children": []
-                                                }, 
-                                                {
-                                                    "name": "MA1505", 
-                                                    "children": []
-                                                }, 
-                                                {
-                                                    "name": "MA1505C", 
-                                                    "children": []
-                                                }, 
-                                                {
-                                                    "name": "MA1521", 
                                                     "children": []
                                                 }, 
                                                 {
@@ -143,7 +123,15 @@
                                                     "children": []
                                                 }, 
                                                 {
+                                                    "name": "MA1505", 
+                                                    "children": []
+                                                }, 
+                                                {
                                                     "name": "MA1507", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MA1521", 
                                                     "children": []
                                                 }
                                             ]
@@ -239,27 +227,7 @@
                                                             "name": "or", 
                                                             "children": [
                                                                 {
-                                                                    "name": "MA1306", 
-                                                                    "children": []
-                                                                }, 
-                                                                {
-                                                                    "name": "MA1102", 
-                                                                    "children": []
-                                                                }, 
-                                                                {
                                                                     "name": "MA1102R", 
-                                                                    "children": []
-                                                                }, 
-                                                                {
-                                                                    "name": "MA1505", 
-                                                                    "children": []
-                                                                }, 
-                                                                {
-                                                                    "name": "MA1505C", 
-                                                                    "children": []
-                                                                }, 
-                                                                {
-                                                                    "name": "MA1521", 
                                                                     "children": []
                                                                 }, 
                                                                 {
@@ -267,7 +235,15 @@
                                                                     "children": []
                                                                 }, 
                                                                 {
+                                                                    "name": "MA1505", 
+                                                                    "children": []
+                                                                }, 
+                                                                {
                                                                     "name": "MA1507", 
+                                                                    "children": []
+                                                                }, 
+                                                                {
+                                                                    "name": "MA1521", 
                                                                     "children": []
                                                                 }
                                                             ]
@@ -289,5 +265,5 @@
 "corequisite": "-1",
 "faculty": "SCHOOL OF COMPUTING",
 "department": "INFORMATION SYSTEMS",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,1,0,0,0]]
+"history": [[0,0,0,0,0],[2012,1,0,0,0],[2013,0,2,0,0],[2014,0,2,0,0],[2015,1,0,0,0],[2016,1,0,0,0]]
 }

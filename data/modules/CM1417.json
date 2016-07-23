@@ -4,9 +4,11 @@
 "moduleCredit": "4",
 "lockedModules":[
 ],
-"preclusion": "A level or H2 Chemistry or equivalent",
+"preclusion": "A level or H2 Chemistry or equivalent or CM1417X",
 "prerequisite": "'O' Level pass in Chemistry or equivalent",
-"preclusionList": [],
+"preclusionList": [
+            "CM1417X"
+        ],
 "parsedPrerequisite" : "nil",
 "prerequisiteList": [],
 "completePrerequisite": {
@@ -18,5 +20,5 @@
 "corequisite": "-1",
 "faculty": "SCIENCE",
 "department": "CHEMISTRY",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,1,0,0,0]]
+"history": [[0,0,0,0,0],[2012,1,2,0,0],[2013,1,0,0,0],[2014,1,0,0,0],[2015,1,0,0,0],[2016,1,0,0,0]]
 }

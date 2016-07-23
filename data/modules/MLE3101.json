@@ -1,11 +1,11 @@
 {
 "moduleCode": "MLE3101",
-"moduleTitle": "Materials Characterization",
+"moduleTitle": "Materials Characterization Laboratory",
 "moduleCredit": "4",
 "lockedModules":[
             "MLE4101R",
-            "MLE4201",
-            "MLE4101"
+            "MLE4101",
+            "MLE4201"
         ],
 "preclusion": "NIL",
 "prerequisite": "MLE1101 or MLE2101",
@@ -40,5 +40,5 @@
 "corequisite": "NIL",
 "faculty": "ENGINEERING",
 "department": "MATERIALS SCIENCE AND ENGINEERING",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,0,2,0,0]]
+"history": [[0,0,0,0,0],[2012,0,2,0,0],[2013,0,2,0,0],[2014,0,2,0,0],[2015,0,2,0,0],[2016,0,2,0,0]]
 }

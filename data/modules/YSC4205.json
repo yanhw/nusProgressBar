@@ -1,0 +1,29 @@
+{
+"moduleCode": "YSC4205",
+"moduleTitle": "Organometallic Chemistry",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "YSC2206 Principles of Organic Chemistry",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["YSC2206"]
+},
+"prerequisiteList": ["YSC2206"],
+"completePrerequisite": {
+            "name": "YSC4205", 
+            "children": [
+                {
+                    "name": "YSC2206", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "Principles of structure and reactivity of transition metal containing organometallic compounds. Homogeneous catalytic chemistry, synthesis of organometallic compounds, mechanisms of organometallic reaction chemistry.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "YALE-NUS COLLEGE",
+"department": "YALE-NUS COLLEGE",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2016,1,0,0,0]]
+}

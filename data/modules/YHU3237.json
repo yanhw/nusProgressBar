@@ -1,0 +1,72 @@
+{
+"moduleCode": "YHU3237",
+"moduleTitle": "Cold War Aesthetics in East Asia",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "YCC1111 Literature and Humanities 1, YCC1112 Literature and Humanities 2, and YCC2121 Modern Social Thought",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " and ": [
+                "YCC1111", 
+                "YCC1112", 
+                "YCC2121"
+            ]
+},
+"prerequisiteList": ["YCC1111","YCC1112","YCC2121","YCC1113","YCC1114","YCC1121"],
+"completePrerequisite": {
+            "name": "YHU3237", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "YCC1111", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "YCC1112", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "YCC2121", 
+                            "children": [
+                                {
+                                    "name": "and", 
+                                    "children": [
+                                        {
+                                            "name": "YCC1111", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "YCC1112", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "YCC1113", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "YCC1114", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "YCC1121", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This course explores the literature, music, film and popular culture of the Cold War in East Asia-the \u201cpartitioning\u201d of China, Japan and Korea into mutually hostile and temporally de-synchronized \u201czones\u201d in the post-WWII era. How do aesthetic works engage this historical trauma and ideological rift? Beginning with the major historical and social scientific writings on the formation of \u201cEast Asia\u201d as a region, we will study the shifting relations between U.S. and East Asia through a comparison of two case studies: the creation of North Korea/South Korea and the division/unification debates of Taiwan/China.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "YALE-NUS COLLEGE",
+"department": "YALE-NUS COLLEGE",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2016,1,0,0,0]]
+}

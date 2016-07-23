@@ -1,0 +1,22 @@
+{
+"moduleCode": "YHU2253",
+"moduleTitle": "Asian Religions",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "YHU2253", 
+            "children": []
+},
+"moduleDescription": "This is historical survey from ancient times to the present of Hinduism, Buddhism, and Chinese religions. It is intended to offer students a general orientation to the main philosophical developments, key texts, and key thinkers that will be set within a broader historical perspective. The emphasis will be on the history of ideas rather than institutions although these are, of course, relevant. There will be also be some discussion of practices (asceticism, ritual, meditation) in relation to worldview and philosophy. There is a comparative element to the course through the categories of understanding we use.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "YALE-NUS COLLEGE",
+"department": "YALE-NUS COLLEGE",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2016,1,0,0,0]]
+}

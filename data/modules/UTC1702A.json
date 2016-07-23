@@ -1,0 +1,41 @@
+{
+"moduleCode": "UTC1702A",
+"moduleTitle": "Thinking in Systems: Ecosystems and Natural Resources",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "FOR GEM1918 GEM-coded GEM1914 Jnr Sem: Systems Systems Everywhere GEM1915% Towards an Understanding of the Complex World GEM1919 Thinking in Systems: Diseases and Healthcare GE Reform GET1011 Towards an Understanding of the Complex World UTC-coded UTC1411 Jnr Sem: Systems Systems Everywhere UTC1701 Thinking in Systems: Diseases and Healthcare UTC1700 Thinking in Systems: Ecosystems and Natural Resources FOR UTC1700 GEM-coded GEM1914 Jnr Sem: Systems Systems Everywhere GEM1915% Towards an Understanding of the Complex World GEM1918 Thinking in Systems: Ecosystems and Natural Resources GEM1919 Thinking in Systems: Diseases and Healthcare GE Reform GET1011 Towards an Understanding of the Complex World UTC-coded UTC1411 Jnr Sem: Systems Systems Everywhere UTC1701 Thinking in Systems: Diseases and Healthcare",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " and ": [
+                "UTC1411", 
+                "UTC1701"
+            ]
+},
+"prerequisiteList": ["UTC1411","UTC1701"],
+"completePrerequisite": {
+            "name": "UTC1702A", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "UTC1411", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "UTC1701", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module will serve to prepare systems citizens with thinking and quantitative skills that thought leaders across the world consider critical for functioning in the 21st century. Comprising qualitative and quantitative elements, this module will hone students\u2019 ability to engage in Systems Thinking: understanding parts of a system, seeing interconnections, asking \u2018what-if\u2019 questions, quantifying the effects of specific interventions and using such understanding to propose operational/structural policies courageously and creatively. Interactive discussions and hands-on computer modelling using examples from several ecological and natural resource systems will serve as the primary learning mechanisms.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "NON-FACULTY-BASED DEPARTMENTS",
+"department": "RESIDENTIAL COLLEGE 4",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2016,1,0,0,0]]
+}

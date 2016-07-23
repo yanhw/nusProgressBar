@@ -3,10 +3,14 @@
 "moduleTitle": "Introduction to Business Analytics",
 "moduleCredit": "4",
 "lockedModules":[
-],
-"preclusion": "NIL",
+            "BT2102"
+        ],
+"preclusion": "DSC1007 or DSC1007X",
 "prerequisite" : "NIL",
-"preclusionList": [],
+"preclusionList": [
+            "DSC1007",
+            "DSC1007X"
+        ],
 "parsedPrerequisite" : "nil",
 "prerequisiteList": [],
 "completePrerequisite": {
@@ -18,5 +22,5 @@
 "corequisite": "NIL",
 "faculty": "SCHOOL OF COMPUTING",
 "department": "INFORMATION SYSTEMS",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,1,0,0,0]]
+"history": [[0,0,0,0,0],[0,0,0,0,0],[2013,1,0,0,0],[2014,1,0,0,0],[2015,1,0,0,0],[2016,1,0,0,0]]
 }

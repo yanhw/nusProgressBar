@@ -1,0 +1,51 @@
+{
+"moduleCode": "EE4436",
+"moduleTitle": "Fabrication Process Technology",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "EE4411/EE4411E Silicon Processing Technology EE4436E Fabrication Process Technology",
+"prerequisite": "Pre-requisite: EE2021 Devices and Circuits",
+"preclusionList": [
+            "EE4436E",
+            "EE4411",
+            "EE4411E"
+        ],
+"parsedPrerequisite": {
+" and ": ["EE2021"]
+},
+"prerequisiteList": ["EE2021","EE1002","EG1108","CG1108"],
+"completePrerequisite": {
+            "name": "EE4436", 
+            "children": [
+                {
+                    "name": "EE2021", 
+                    "children": [
+                        {
+                            "name": "or", 
+                            "children": [
+                                {
+                                    "name": "EE1002", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "EG1108", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "CG1108", 
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "In the new information age, fabrication process technology continues to be employed in the manufacturing of ultrahigh density integrated circuits such as microprocessor devices in computers. This module focuses on the major process technologies and basic building blocks used in the fabrication of integrated circuits and other microelectronic devices (e.g., solar cells). Understanding of fabrication processes is essential for undergraduate students who wish to develop their professional career in the microelectronics industry such as in wafer fabrication plants, foundries and design houses.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "ELECTRICAL & COMPUTER ENGINEERING",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2016,1,0,0,0]]
+}

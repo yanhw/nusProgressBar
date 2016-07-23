@@ -1,0 +1,24 @@
+{
+"moduleCode": "HY3209",
+"moduleTitle": "Cold War in Europe, 1945-1991",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "EU3230",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "EU3230"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "HY3209", 
+            "children": []
+},
+"moduleDescription": "This module will trace the historical development of the major Western and Central European Powers from the late 1930s up to the fall of the Berlin Wall in November 1989 and the reunification of Germany in October 1990. Apart from the international challenges posed by the Second World War and the subsequent Cold War, the European states were also beset by numerous acute domestic crises that required remedial treatment by their governments. Some received it and prospered, others did not and languished.",
+        "CrossModule": "EU3230", 
+"corequisite": "NIL",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "HISTORY",
+"history": [[0,0,0,0,0],[2012,0,2,0,0],[2013,0,2,0,0],[0,0,0,0,0],[0,0,0,0,0],[2016,0,2,0,0]]
+}

@@ -3,10 +3,8 @@
 "moduleTitle": "Introduction to Bioimaging",
 "moduleCredit": "2",
 "lockedModules":[
-            "BL5235",
             "BL5232C",
-            "BL5232B",
-            "BL5232A"
+            "BL5232B"
         ],
 "preclusion": "NIL",
 "prerequisite" : "NIL",
@@ -22,5 +20,5 @@
 "corequisite": "-1",
 "faculty": "SCIENCE",
 "department": "BIOLOGICAL SCIENCES",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,1,0,0,0]]
+"history": [[0,0,0,0,0],[0,0,0,0,0],[2013,1,0,0,0],[2014,1,0,0,0],[2015,1,0,0,0],[2016,1,0,0,0]]
 }

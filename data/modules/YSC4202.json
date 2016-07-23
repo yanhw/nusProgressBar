@@ -1,0 +1,46 @@
+{
+"moduleCode": "YSC4202",
+"moduleTitle": "Galois Theory",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "YSC3205 Linear Algebra, or permission of instructor. A course in YSC3204 group theory is strongly recommended.",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " or ": [
+                "YSC3205", 
+                "YSC3204"
+            ]
+},
+"prerequisiteList": ["YSC3205","YSC3204"],
+"completePrerequisite": {
+            "name": "YSC4202", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "YSC3205", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "YSC3204", 
+                            "children": [
+                                {
+                                    "name": "YSC3205", 
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "Galois theory connects the symmetries of algebraic equations with their solubility. A triumph of 19th century algebra, Galois theory still plays a central role in modern arithmetic and geometry. Reviewing group theory, fields, and linear algebra along the way, this course will proceed through the main theorems of Galois theory. Highlights will include a modern treatment of the constructible numbers (e.g., the impossibility of trisecting angles with a rule and compass, the construction of the 17-gon) and the solubility of polynomials (e.g. solubility of the cubic and quartic, insolubility of the quintic).",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "YALE-NUS COLLEGE",
+"department": "YALE-NUS COLLEGE",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2016,1,0,0,0]]
+}

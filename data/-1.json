@@ -1,0 +1,1191 @@
+{
+"moduleCode": "-1",
+"moduleTitle": "-1",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "HY2237, GEK2000",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "HY2237",
+            "GEK2000"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "AS2237", 
+            "children": []
+},
+
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "-1",
+"department": "-1",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0]]
+}
+{
+"moduleCode": "-1",
+"moduleTitle": "-1",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "HY4219",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "HY4219"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "AS4219", 
+            "children": []
+},
+
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "-1",
+"department": "-1",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0]]
+}
+{
+"moduleCode": "-1",
+"moduleTitle": "-1",
+"moduleCredit": "4",
+"lockedModules":[
+            "CH2162",
+            "CH2161"
+        ],
+"preclusion": "CL2121",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "CL2121"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "CH2121", 
+            "children": []
+},
+
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "-1",
+"department": "-1",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0]]
+}
+{
+"moduleCode": "-1",
+"moduleTitle": "-1",
+"moduleCredit": "4",
+"lockedModules":[
+            "CH2162",
+            "CH2161"
+        ],
+"preclusion": "CH2121",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "CH2121"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "CL2121", 
+            "children": []
+},
+
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "-1",
+"department": "-1",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0]]
+}
+{
+"moduleCode": "-1",
+"moduleTitle": "-1",
+"moduleCredit": "4",
+"lockedModules":[
+            "EL3254",
+            "EL3258",
+            "EN2271",
+            "EL3208",
+            "EL3209",
+            "EL3203",
+            "EL3206",
+            "EL2102",
+            "EL2101",
+            "EL3211",
+            "EL3212",
+            "EL2111",
+            "EL2151",
+            "EL3880F"
+        ],
+"preclusion": "GEK1011",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "GEK1011"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "EL1101E", 
+            "children": []
+},
+
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "-1",
+"department": "-1",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0]]
+}
+{
+"moduleCode": "-1",
+"moduleTitle": "-1",
+"moduleCredit": "4",
+"preclusion": "GEK1000",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "GEK1000"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "EN1101E", 
+            "children": []
+},
+
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "-1",
+"department": "-1",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0]]
+}
+{
+"moduleCode": "-1",
+"moduleTitle": "-1",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "AS3231",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "AS3231"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "EN3231", 
+            "children": []
+},
+
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "-1",
+"department": "-1",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0]]
+}
+{
+"moduleCode": "-1",
+"moduleTitle": "-1",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "PS2203, PS2231, EU2218, PS2201B, PS2218",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "PS2231",
+            "PS2201B",
+            "PS2218",
+            "PS2203",
+            "EU2218"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "EU2203", 
+            "children": []
+},
+
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "-1",
+"department": "-1",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0]]
+}
+{
+"moduleCode": "-1",
+"moduleTitle": "-1",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "PH2212, GEK2030",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "PH2212",
+            "GEK2030"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "EU2214", 
+            "children": []
+},
+
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "-1",
+"department": "-1",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0]]
+}
+{
+"moduleCode": "-1",
+"moduleTitle": "-1",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "SE5294",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "SE5294"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "GE5215", 
+            "children": []
+},
+
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "-1",
+"department": "-1",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0]]
+}
+{
+"moduleCode": "-1",
+"moduleTitle": "-1",
+"moduleCredit": "4",
+"preclusion": "EN1101E. Students who are majoring in EN, or intend to major in EN should not take GEK1000.",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "EN1101E"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "GEK1000", 
+            "children": []
+},
+
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "-1",
+"department": "-1",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0]]
+}
+{
+"moduleCode": "-1",
+"moduleTitle": "-1",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "GE1101E. Not for students majoring or intend to major in GE.",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "GE1101E"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "GEK1001", 
+            "children": []
+},
+
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "-1",
+"department": "-1",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0]]
+}
+{
+"moduleCode": "-1",
+"moduleTitle": "-1",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "PLB1201 and PL1101E.",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "PLB1201",
+            "PL1101E"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "GEK1064", 
+            "children": []
+},
+
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "-1",
+"department": "-1",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0]]
+}
+{
+"moduleCode": "-1",
+"moduleTitle": "-1",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "HY2235. GEK2008 is not for students majoring in HY.",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "HY2235"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "GEK2008", 
+            "children": []
+},
+
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "-1",
+"department": "-1",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0]]
+}
+{
+"moduleCode": "-1",
+"moduleTitle": "-1",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "PH2206",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "PH2206"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "GEK2028", 
+            "children": []
+},
+
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "-1",
+"department": "-1",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0]]
+}
+{
+"moduleCode": "-1",
+"moduleTitle": "-1",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "PS3260",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "PS3260"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "GEK3005", 
+            "children": []
+},
+
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "-1",
+"department": "-1",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0]]
+}
+{
+"moduleCode": "-1",
+"moduleTitle": "-1",
+"moduleCredit": "4",
+"preclusion": "TS2232",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "TS2232"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "GEM2001", 
+            "children": []
+},
+
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "-1",
+"department": "-1",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0]]
+}
+{
+"moduleCode": "-1",
+"moduleTitle": "-1",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "PH2201",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "PH2201"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "GEM2025", 
+            "children": []
+},
+
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "-1",
+"department": "-1",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0]]
+}
+{
+"moduleCode": "-1",
+"moduleTitle": "-1",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "GEK2008",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "GEK2008"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "HY2235", 
+            "children": []
+},
+
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "-1",
+"department": "-1",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0]]
+}
+{
+"moduleCode": "-1",
+"moduleTitle": "-1",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "EU2221",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "EU2221"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "HY2245", 
+            "children": []
+},
+
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "-1",
+"department": "-1",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0]]
+}
+{
+"moduleCode": "-1",
+"moduleTitle": "-1",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "AS3239",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "AS3239"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "HY3239", 
+            "children": []
+},
+
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "-1",
+"department": "-1",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0]]
+}
+{
+"moduleCode": "-1",
+"moduleTitle": "-1",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "EU4224",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "EU4224"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "HY4205", 
+            "children": []
+},
+
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "-1",
+"department": "-1",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0]]
+}
+{
+"moduleCode": "-1",
+"moduleTitle": "-1",
+"moduleCredit": "4",
+"lockedModules":[
+            "JS2101"
+        ],
+"preclusion": "GEK1002",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "GEK1002"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "JS1101E", 
+            "children": []
+},
+
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "-1",
+"department": "-1",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0]]
+}
+{
+"moduleCode": "-1",
+"moduleTitle": "-1",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "Not for Life Sciences major/minor or Food Sciences & Technology or Pharmacy majors or Bioengineering programmes.",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "LSM1302", 
+            "children": []
+},
+
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "-1",
+"department": "-1",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0]]
+}
+{
+"moduleCode": "-1",
+"moduleTitle": "-1",
+"moduleCredit": "4",
+"lockedModules":[
+            "MA5259",
+            "MA3269",
+            "ST3243",
+            "DSC3216",
+            "MA3259",
+            "ST2132",
+            "ST3239",
+            "FIN4111",
+            "ST2137",
+            "EC3303",
+            "MA4260",
+            "MA4264",
+            "MA3238",
+            "ST3131",
+            "ST3236",
+            "MA3227",
+            "CS4246",
+            "ST3247"
+        ],
+"preclusion": "ST2131, ST2334, CE2407",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "CE2407",
+            "ST2131",
+            "ST2334"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": ["MA1102","MA1102R","MA1312","MA1507","MA1505","MA1505C","MA1521"],
+"completePrerequisite": {
+            "name": "MA2216", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "MA1102", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "MA1102R", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "MA1312", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "MA1507", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "MA1505", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "MA1505C", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "MA1521", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "-1",
+"department": "-1",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0]]
+}
+{
+"moduleCode": "-1",
+"moduleTitle": "-1",
+"moduleCredit": "4",
+"preclusion": "SSA3203",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "SSA3203"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "MS3209", 
+            "children": []
+},
+
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "-1",
+"department": "-1",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0]]
+}
+{
+"moduleCode": "-1",
+"moduleTitle": "-1",
+"moduleCredit": "4",
+"lockedModules":[
+            "GEK2508"
+        ],
+"preclusion": "GEH1031. Students majoring in Physics are not allowed to take this module.",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "GEH1031"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "PC1322", 
+            "children": []
+},
+
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "-1",
+"department": "-1",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0]]
+}
+{
+"moduleCode": "-1",
+"moduleTitle": "-1",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "GEM2025",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "GEM2025"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "PH2201", 
+            "children": []
+},
+
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "-1",
+"department": "-1",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0]]
+}
+{
+"moduleCode": "-1",
+"moduleTitle": "-1",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "GEK1064 and PL1101E. Students who take PLB1201 and subsequently go on to major in Psychology will not be able to count PLB1201 towards their graduation requirements.",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "GEK1064",
+            "PLB1201",
+            "PL1101E"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "PLB1201", 
+            "children": []
+},
+
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "-1",
+"department": "-1",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0]]
+}
+{
+"moduleCode": "-1",
+"moduleTitle": "-1",
+"moduleCredit": "4",
+"lockedModules":[
+            "PS3251",
+            "PS3265"
+        ],
+"preclusion": "GEM1003K, GEK1003, PS1101",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "GEM1003K",
+            "GEK1003",
+            "PS1101"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "PS1101E", 
+            "children": []
+},
+
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "-1",
+"department": "-1",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0]]
+}
+{
+"moduleCode": "-1",
+"moduleTitle": "-1",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "GEK2012, GEM2012K, PS2206, PS2211B",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "GEM2012K",
+            "GEK2012",
+            "PS2211B",
+            "PS2206"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "PS2241", 
+            "children": []
+},
+
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "-1",
+"department": "-1",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0]]
+}
+{
+"moduleCode": "-1",
+"moduleTitle": "-1",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "PS3219B, SSA3205, SS3205PS",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "SSA3205",
+            "SS3205P",
+            "PS3219B"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "PS3249", 
+            "children": []
+},
+
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "-1",
+"department": "-1",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0]]
+}
+{
+"moduleCode": "-1",
+"moduleTitle": "-1",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "EU3224",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "EU3224"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "SC3101", 
+            "children": []
+},
+
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "-1",
+"department": "-1",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0]]
+}
+{
+"moduleCode": "-1",
+"moduleTitle": "-1",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "GEK1008, GEM1008K, SSA1202, SS1203SE",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "SS1203S",
+            "SSA1202",
+            "GEM1008K",
+            "GEK1008"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "SE1101E", 
+            "children": []
+},
+
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "-1",
+"department": "-1",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0]]
+}
+{
+"moduleCode": "-1",
+"moduleTitle": "-1",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "GE5215",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "GE5215"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "SE5294", 
+            "children": []
+},
+
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "-1",
+"department": "-1",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0]]
+}
+{
+"moduleCode": "-1",
+"moduleTitle": "-1",
+"moduleCredit": "4",
+"preclusion": "HY2228, HY3236, SN2261",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "HY2228",
+            "SN2261",
+            "HY3236"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "SN3262", 
+            "children": []
+},
+
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "-1",
+"department": "-1",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0]]
+}
+{
+"moduleCode": "-1",
+"moduleTitle": "-1",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "PH3204",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "PH3204"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "SN3272", 
+            "children": []
+},
+
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "-1",
+"department": "-1",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0]]
+}
+{
+"moduleCode": "-1",
+"moduleTitle": "-1",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "GEK2001, GES1003",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "GES1003",
+            "GEK2001"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "SSA2202", 
+            "children": []
+},
+
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "-1",
+"department": "-1",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0]]
+}
+{
+"moduleCode": "-1",
+"moduleTitle": "-1",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "GEK2003, GEM2003K, PS1102, PS2101B, PS2101, PS2249, SS2209PS. Students majoring in PS are precluded from taking this module.",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "GEK2003",
+            "PS2101B",
+            "PS2101",
+            "PS2249",
+            "SS2209P",
+            "GEM2003K",
+            "PS1102"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "SSA2209", 
+            "children": []
+},
+
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "-1",
+"department": "-1",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0]]
+}
+{
+"moduleCode": "-1",
+"moduleTitle": "-1",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "PS3219B, SS3205PS, PS3249. Students majoring in PS are precluded from taking this module.",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "SS3205P",
+            "PS3249",
+            "PS3219B"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "SSA3205", 
+            "children": []
+},
+
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "-1",
+"department": "-1",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0]]
+}
+{
+"moduleCode": "-1",
+"moduleTitle": "-1",
+"moduleCredit": "4",
+"lockedModules":[
+            "CS5233",
+            "IE3101",
+            "MA5259",
+            "MA3269",
+            "CS5228",
+            "ST3243",
+            "DSC3215",
+            "DSC3216",
+            "MA3259",
+            "CS5240",
+            "IE2100",
+            "ST5215",
+            "CS4226",
+            "CS4222",
+            "ST5214",
+            "ST2132",
+            "ST3239",
+            "FIN4111",
+            "ST2137",
+            "MA4260",
+            "MA4264",
+            "CS5340",
+            "ST5225",
+            "MA3238",
+            "ST3131",
+            "CS3244",
+            "ST3236",
+            "MA3227",
+            "CS4246",
+            "CS4243",
+            "CS4248",
+            "ST3247"
+        ],
+"preclusion": "MA2216, ST2334, CE2407",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "CE2407",
+            "MA2216",
+            "ST2334"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": ["MA1102","MA1102R","MA1312","MA1507","MA1505","MA1505C","MA1521"],
+"completePrerequisite": {
+            "name": "ST2131", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "MA1102", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "MA1102R", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "MA1312", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "MA1507", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "MA1505", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "MA1505C", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "MA1521", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "-1",
+"department": "-1",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0]]
+}
+{
+"moduleCode": "-1",
+"moduleTitle": "-1",
+"moduleCredit": "4",
+"lockedModules":[
+            "TS2240",
+            "TS2880A",
+            "TS2217",
+            "EN2271",
+            "TS2234",
+            "TS2236",
+            "TS3237",
+            "TS2233",
+            "TS3234",
+            "TS3239",
+            "TS2237",
+            "TS3233",
+            "TS3232",
+            "TS3231",
+            "TS3240",
+            "TS3246",
+            "TS3247",
+            "TS3235",
+            "TS3243",
+            "TS3245",
+            "TS3222"
+        ],
+"preclusion": "GEM1003",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "GEM1003"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "TS1101E", 
+            "children": []
+},
+
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "-1",
+"department": "-1",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0]]
+}

@@ -1,0 +1,43 @@
+{
+"moduleCode": "CS5236",
+"moduleTitle": "Advanced Automata Theory",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "CS4232 Theory of Computation",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["CS4232"]
+},
+"prerequisiteList": ["CS4232","CS1231","CS1231S"],
+"completePrerequisite": {
+            "name": "CS5236", 
+            "children": [
+                {
+                    "name": "CS4232", 
+                    "children": [
+                        {
+                            "name": "or", 
+                            "children": [
+                                {
+                                    "name": "CS1231", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "CS1231S", 
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "In computer science, automata are an important tool for many theoretical investigations. Various types of automata have been used to characterise complexity classes. This module covers automata theory in depth, describes the Chomsky hierarchy, and introduces various advanced topics including automata structures, automata on infinite words, automata on trees and the learnability of classes of regular languages from queries and positive data.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF COMPUTING",
+"department": "COMPUTER SCIENCE",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2014,1,0,0,0],[0,0,0,0,0],[2016,1,0,0,0]]
+}

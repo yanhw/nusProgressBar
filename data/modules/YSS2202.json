@@ -1,10 +1,9 @@
 {
 "moduleCode": "YSS2202",
-"moduleTitle": "Introduction to International Relations",
+"moduleTitle": "International Relations",
 "moduleCredit": "5",
 "lockedModules":[
-            "YSS3227",
-            "YSS3225"
+            "YSS4205"
         ],
 "preclusion": "NIL",
 "prerequisite" : "NIL",
@@ -20,5 +19,5 @@
 "corequisite": "-1",
 "faculty": "YALE-NUS COLLEGE",
 "department": "YALE-NUS COLLEGE",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,1,2,0,0]]
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2014,1,2,0,0],[2015,1,2,0,0],[2016,1,0,0,0]]
 }

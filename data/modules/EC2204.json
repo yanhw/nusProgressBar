@@ -1,0 +1,49 @@
+{
+"moduleCode": "EC2204",
+"moduleTitle": "Financial Accounting for Economists",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "ACC1002 and ACC1002X",
+"prerequisite": "EC1101E or EC1301 or GET1023",
+"preclusionList": [
+            "ACC1002",
+            "ACC1002X"
+        ],
+"parsedPrerequisite": {
+            " or ": [
+                "EC1101E", 
+                "EC1301", 
+                "GET1023"
+            ]
+},
+"prerequisiteList": ["EC1101E","EC1301","GET1023"],
+"completePrerequisite": {
+            "name": "EC2204", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "EC1101E", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "EC1301", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "GET1023", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This course helps to let students appreciate the use of accounting in measuring the efficiency and performance of firms, and its relevance in the study of Economics. Students would be able to critically evaluate financial statements and interpret key financial ratios in the study of firms. Consequently, students would be equipped with the necessary tools to analyze and project the performance of firms in economic models.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "ECONOMICS",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2016,0,2,0,0]]
+}

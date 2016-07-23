@@ -3,13 +3,13 @@
 "moduleTitle": "Operations Research I",
 "moduleCredit": "4",
 "lockedModules":[
+            "IE3100R",
             "DSC3224",
-            "DSC4213",
             "IE4210",
             "IE4220",
+            "IE4221",
             "IE4229",
-            "IE4299",
-            "IE3100R"
+            "DSC4213"
         ],
 "preclusion": "DSC3214, MA2215, MA3236",
 "prerequisite": "(MA1102R or MA1505 or MA1521) and (MA1101R or MA1311 or MA1506)",
@@ -104,5 +104,5 @@
 "corequisite": "-1",
 "faculty": "ENGINEERING",
 "department": "INDUSTRIAL & SYSTEMS ENGINEERING",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,1,0,0,0]]
+"history": [[0,0,0,0,0],[2012,1,0,0,0],[2013,1,0,0,0],[2014,1,0,0,0],[2015,1,0,0,0],[2016,1,0,0,0]]
 }

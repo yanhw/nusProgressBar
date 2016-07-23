@@ -1,7 +1,7 @@
 {
 "moduleCode": "YHU3228",
 "moduleTitle": "The Speaking Body 2",
-"moduleCredit": "2",
+"moduleCredit": "5",
 "lockedModules":[
 ],
 "preclusion": "NIL",
@@ -10,20 +10,15 @@
 "parsedPrerequisite": {
 " and ": ["YHU2246"]
 },
-"prerequisiteList": ["YHU2246"],
+"prerequisiteList": [],
 "completePrerequisite": {
-            "name": "YHU3228", 
-            "children": [
-                {
-                    "name": "YHU2246", 
-                    "children": []
-                }
-            ]
+            "name": "YHU3229", 
+            "children": []
 },
 "moduleDescription": "The Speaking Body 2: Developing on the basic understanding of compositional skills, students will experience and be required to utilize a number of choreographic devices and apply these devices to form short choreographic studies.",
 "crossModule": "-1",
 "corequisite": "-1",
 "faculty": "YALE-NUS COLLEGE",
 "department": "YALE-NUS COLLEGE",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,0,2,0,0]]
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,0,2,0,0],[0,0,0,0,0]]
 }

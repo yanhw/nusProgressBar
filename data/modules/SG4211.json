@@ -1,7 +1,7 @@
 {
 "moduleCode": "SG4211",
 "moduleTitle": "Cloud Computing",
-"moduleCredit": "3",
+"moduleCredit": "4",
 "lockedModules":[
 ],
 "preclusion": "NIL",
@@ -10,7 +10,7 @@
 "parsedPrerequisite" : "nil",
 "prerequisiteList": [],
 "completePrerequisite": {
-            "name": "SG4211", 
+            "name": "SG5012", 
             "children": []
 },
 "moduleDescription": "Cloud computing are pools of virtualized computing resources that can be dynamically re-configured to accommodate variable load, optimize resource utilization and support pay-per-use business model. The module teaches the practical aspects of cloud computing and emphasizes on the critical analysis of the various platforms and their applicability to large enterprises such as: o Various business models available o Typical Stakeholder concerns o The Cloud computing architecture o Different cloud computing platforms. o Software Engineering aspects. By exploring the various challenges of cloud computing, the module would prepare students to assess and understand the business drivers and implement cloud computing solutions.",
@@ -18,5 +18,5 @@
 "corequisite": "NIL",
 "faculty": "NON-FACULTY-BASED DEPARTMENTS",
 "department": "INSTITUTE OF SYSTEMS SCIENCE",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,0,2,0,0]]
+"history": [[0,0,0,0,0],[0,0,0,0,0],[2013,0,2,0,0],[2014,0,2,0,0],[2015,0,2,0,0],[0,0,0,0,0]]
 }

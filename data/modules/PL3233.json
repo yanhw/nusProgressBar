@@ -4,13 +4,12 @@
 "moduleCredit": "4",
 "lockedModules":[
             "PL3250",
-            "PL5303",
-            "PL3243",
-            "PL3249",
             "PL3281",
+            "PL3243",
+            "PL3281D",
             "PL3281A",
-            "PL3248",
-            "PL5303R"
+            "PL3281C",
+            "PL3248"
         ],
 "preclusion": "NIL",
 "prerequisite": "PL1101E",
@@ -33,5 +32,5 @@
 "corequisite": "-1",
 "faculty": "ARTS & SOCIAL SCIENCES",
 "department": "PSYCHOLOGY",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,1,2,0,0]]
+"history": [[0,0,0,0,0],[2012,1,2,0,0],[2013,1,2,0,0],[2014,1,2,0,0],[2015,1,2,0,0],[2016,1,2,0,0]]
 }

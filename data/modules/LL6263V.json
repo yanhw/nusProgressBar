@@ -1,0 +1,29 @@
+{
+"moduleCode": "LL6263V",
+"moduleTitle": "Intellectual Property Rights and Competition Policy",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "IP and Competition Law (LL4075V/LL5075V/LL6075V; LL4075/LL5075/LL6075)",
+"prerequisite": "NUS Compulsory Core Curriculum or its equivalent",
+"preclusionList": [
+            "LL5075",
+            "LL6075V",
+            "LL4075V",
+            "LL6075",
+            "LL4075",
+            "LL5075V"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "LL6263V", 
+            "children": []
+},
+"moduleDescription": "This module examines in interaction between IPRs and competition policy from two broad perspectives: the endogenous operation of competition policy from within IPR frameworks (copyright, designs, trade marks and patents), and the exogenous limitations placed by competition law rules on an IP holder\u2019s freedom to exploit his IPRs. Students enrolled in this module are expected to have completed a basic intellectual property module \u2013 an understanding of what IPRs protect, the nature of the exclusive rights they confer and how they may be exploited will be presumed.",
+"crossModule": "-1",
+"corequisite": "Law of Intellectual Property A (LL4405A/LL5405A/LL6405A/LC5405A)  Law of Intellectual Property B (LL4405B/LL5405B/LL6405B/LC5405B)  Foundations of IP Law (LL4070V/LL5070V/LL6070V/LC5070V; LL4070/LL5070/LL6070/LC5070]",
+"faculty": "LAW",
+"department": "LAW",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2016,0,2,0,0]]
+}

@@ -1,7 +1,7 @@
 {
 "moduleCode": "CH3882A",
 "moduleTitle": "Chinese Temples Across Southeast Asia (taught in English)",
-"moduleCredit": "4",
+"moduleCredit": "-1",
 "lockedModules":[
 ],
 "preclusion": "NIL",
@@ -9,14 +9,10 @@
 "preclusionList": [],
 "parsedPrerequisite" : "nil",
 "prerequisiteList": [],
-"completePrerequisite": {
-            "name": "CH3882A", 
-            "children": []
-},
 "moduleDescription": "Chinese Temples are important religious and social sites in overseas Chinese communities. The networks that many of these temples forged are also major channels of flow for resources, ideas, and information in Southeast Asia. By studying these temples, students will gain a deeper appreciation of Chinese religious activities, as well as new perspectives in understanding overseas Chinese communities.",
 "crossModule": "-1",
 "corequisite": "Nil",
 "faculty": "ARTS & SOCIAL SCIENCES",
 "department": "CHINESE STUDIES",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,1,0,0,0]]
+"history": [[0,0,0,0,0],[2012,0,0,0,4],[0,0,0,0,0],[2014,0,2,0,0],[2015,1,0,0,0],[0,0,0,0,0]]
 }

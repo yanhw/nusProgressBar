@@ -1,0 +1,24 @@
+{
+"moduleCode": "HY2236",
+"moduleTitle": "US Media in the 20th Century & Beyond",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "AS2236",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "AS2236"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "HY2236", 
+            "children": []
+},
+"moduleDescription": "This module examines the part of the U.S. media in shaping American society and culture beginning with the New York Journal's advocacy of the Spanish-American War of 1898 through to the role played by CNN in the 1990s. The module will review the growth of mass circulated newspapers, magazines, radio and television and examine how new media forms, such as the Internet, shape and are shaped by society. Students will learn to critically evaluate media forms and media content in a historical context. This module is well suited for students interested in the USA or media.",
+        "CrossModule": "AS2236", 
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "HISTORY",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2016,0,2,0,0]]
+}

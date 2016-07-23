@@ -1,0 +1,34 @@
+{
+"moduleCode": "CS5239",
+"moduleTitle": "Computer System Performance Analysis",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "CS1020 or its equivalent",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["CS1020"]
+},
+"prerequisiteList": ["CS1020","CS1010"],
+"completePrerequisite": {
+            "name": "CS5239", 
+            "children": [
+                {
+                    "name": "CS1020", 
+                    "children": [
+                        {
+                            "name": "CS1010", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "The objective of this module is to provide students a working knowledge of computer performance evaluation and capacity planning. They will be able to identify performance bottlenecks, to predict when performance limits of a system will be exceeded, and to characterise present and future workload to perform capacity planning activities. Topics include: performance analysis overview; measurement techniques and tools including workload characterisation, instrumentation, benchmarking, analytical modelling techniques including operational analysis, stochastic queuing network analysis; performance of client-server architectures; capacity planning; case studies.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF COMPUTING",
+"department": "COMPUTER SCIENCE",
+"history": [[0,0,0,0,0],[2012,0,2,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2016,1,0,0,0]]
+}

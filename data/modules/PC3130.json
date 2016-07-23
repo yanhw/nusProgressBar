@@ -10,7 +10,7 @@
             "PC4259"
         ],
 "preclusion": "NIL",
-"prerequisite": "Students who have passed both (PC2130 or PC2130B) and (MA1505 and MA1506), or students who have passed both PC2130 and PC2174.",
+"prerequisite": "Students who have passed both (PC2130 or PC2130B) and (MA1505 and MA1506), or students who have passed both PC2130 and PC2134.",
 "preclusionList": [],
 "parsedPrerequisite": {
             " and ": [
@@ -27,10 +27,10 @@
                     ]
                 }, 
                 "PC2130", 
-                "PC2174"
+                "PC2134"
             ]
 },
-"prerequisiteList": ["PC2130","PC1144","PC1432","MA1505","MA1506","MA1102R","MA1521","MA1101R","PC2130B","PC1432X","PC1433","PC2174"],
+"prerequisiteList": ["PC2130","PC1144","PC1432","PC1432X","MA1505","MA1506","MA1102R","MA1521","MA1101R","PC2130B","PC1433","PC2134"],
 "completePrerequisite": {
             "name": "PC3130", 
             "children": [
@@ -55,6 +55,10 @@
                                                         }, 
                                                         {
                                                             "name": "PC1432", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "PC1432X", 
                                                             "children": []
                                                         }
                                                     ]
@@ -187,6 +191,10 @@
                                                 {
                                                     "name": "PC1432", 
                                                     "children": []
+                                                }, 
+                                                {
+                                                    "name": "PC1432X", 
+                                                    "children": []
                                                 }
                                             ]
                                         }, 
@@ -244,17 +252,31 @@
                             ]
                         }, 
                         {
-                            "name": "PC2174", 
-                            "children": []
+                            "name": "PC2134", 
+                            "children": [
+                                {
+                                    "name": "and", 
+                                    "children": [
+                                        {
+                                            "name": "MA1101R", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "MA1102R", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
                         }
                     ]
                 }
             ]
 },
-"moduleDescription": "This module continues from PC2130 and prepares the student for PC4130. The general algebraic formalism of quantum mechanics is presented (Dirac's bra-ket notation). The ladder-operator treatment of harmonic oscillators is developed. After discussing the algebra of orbital angular momentum and the properties of spherical harmonics, the bound states of the hydrogen atom are studied. The algebraic structure of angular momentum is developed with emphasis on the addition of angular momentum. The properties of systems consisting of identical particles, including permutation symmetry, are studied.",
+"moduleDescription": "This module continues from PC2130 and completes the basic formation of the student in quantum mechanics. Description of composite systems: tensor product, two-particle entanglement; systems of N identical particles. Perturbation theory: time-independent, both non-degenerate and degenerate; example: Zeeman effect. Time-dependent: Fermi golden rule; example: atom in a classical e-m field. Discussion of stimulated and spontaneous emission. Other approximation schemes: the variational principle; the WKB approximation and the \u201cclassical\u201d region, tunneling and the connecting formula; the adiabatic approximation. Scattering: partial wave analysis and the Born approximation.",
 "crossModule": "-1",
 "corequisite": "-1",
 "faculty": "SCIENCE",
 "department": "PHYSICS",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,1,2,0,0]]
+"history": [[0,0,0,0,0],[2012,0,2,0,0],[2013,0,2,0,0],[2014,0,2,0,0],[2015,1,2,0,0],[2016,1,2,0,0]]
 }

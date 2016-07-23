@@ -1,0 +1,67 @@
+{
+"moduleCode": "CS3236",
+"moduleTitle": "Introduction to Information Theory",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "MA1521 Calculus for Computing and ST2334 Probability and Statistics and their equivalents",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " and ": [
+                "MA1521", 
+                "ST2334"
+            ]
+},
+"prerequisiteList": ["MA1521","ST2334","MA1102R","MA1312","MA1505","MA1507"],
+"completePrerequisite": {
+            "name": "CS3236", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "MA1521", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "ST2334", 
+                            "children": [
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "MA1102R", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "MA1312", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "MA1505", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "MA1507", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "MA1521", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module introduces the basics of modern information theory. It covers how information can be quantified, and what this quantification tells us about how well we can compress and transmit information without error. It discusses basic error correcting techniques, and information-theoretic cryptography. Topics covered include: mathematical techniques, entropy measures, fundamental limits to data compression and noisy-channel coding, examples of error-correcting codes, examples of information theoretic cryptography (commitments, secure computation, key distribution, randomness extraction).",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF COMPUTING",
+"department": "COMPUTER SCIENCE",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[2013,1,0,0,0],[2014,1,0,0,0],[0,0,0,0,0],[2016,0,2,0,0]]
+}

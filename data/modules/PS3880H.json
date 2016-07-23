@@ -1,7 +1,7 @@
 {
 "moduleCode": "PS3880H",
 "moduleTitle": "The Politics of European Integration",
-"moduleCredit": "4",
+"moduleCredit": "5",
 "lockedModules":[
 ],
 "preclusion": "NIL",
@@ -10,7 +10,7 @@
 "parsedPrerequisite" : "nil",
 "prerequisiteList": [],
 "completePrerequisite": {
-            "name": "PS3880H", 
+            "name": "PS4201", 
             "children": []
 },
 "moduleDescription": "This module considers European integration as an advanced experiment in supranational governance. It examines the main theories of European and regional integration, including neofunctionalism, liberal intergovernmentalism, and Europeanization theory, and applies these theories to understand debates about the EU\u2019s identity, its imagined \u2018end point\u2019, arrangements for sharing power between member states and central institutions, and possible futures.",
@@ -18,5 +18,5 @@
 "corequisite": "-1",
 "faculty": "ARTS & SOCIAL SCIENCES",
 "department": "POLITICAL SCIENCE",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,0,2,0,0]]
+"history": [[0,0,0,0,0],[0,0,0,0,0],[2013,0,2,0,0],[2014,0,2,0,0],[2015,0,2,0,0],[0,0,0,0,0]]
 }

@@ -3,13 +3,13 @@
 "moduleTitle": "Business and Technical Communication",
 "moduleCredit": "4",
 "lockedModules":[
-            "IS4010",
             "BT3101",
+            "IS4010",
             "CP3880",
             "IS3102"
         ],
 "preclusion": "ES2002, ES2007D, ES2007S, CS2101, CG1413, CS2103T and ES1601.",
-"prerequisite": "Students who are required to read ES1000 and/or ES1102 must pass it/them before taking IS2101.",
+"prerequisite": "Students who are required to read ES1000 and/or ES1102/ES1103 must pass it/them before taking IS2101.",
 "preclusionList": [
             "ES1601",
             "CS2101",
@@ -22,10 +22,11 @@
 "parsedPrerequisite": {
             " or ": [
                 "ES1000", 
-                "ES1102"
+                "ES1102", 
+                "ES1103"
             ]
 },
-"prerequisiteList": ["ES1000","ES1102"],
+"prerequisiteList": ["ES1000","ES1102","ES1103"],
 "completePrerequisite": {
             "name": "IS2101", 
             "children": [
@@ -39,6 +40,10 @@
                         {
                             "name": "ES1102", 
                             "children": []
+                        }, 
+                        {
+                            "name": "ES1103", 
+                            "children": []
                         }
                     ]
                 }
@@ -49,5 +54,5 @@
 "corequisite": "-1",
 "faculty": "NON-FACULTY-BASED DEPARTMENTS",
 "department": "CTR FOR ENGLISH LANGUAGE COMMUNICATION",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,1,2,0,0]]
+"history": [[0,0,0,0,0],[2012,1,2,0,0],[2013,1,2,0,0],[2014,1,2,0,0],[2015,1,2,0,0],[2016,1,2,0,0]]
 }

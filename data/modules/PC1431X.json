@@ -3,13 +3,14 @@
 "moduleTitle": "Physics IE",
 "moduleCredit": "4",
 "lockedModules":[
+            "ME2121",
+            "ME2134",
             "ME3122",
             "PC2230",
             "ME3112",
+            "PC2193",
             "ME2143",
-            "ME2134",
-            "ME2121E",
-            "ME2121"
+            "ME2121E"
         ],
 "preclusion": "Students majoring in Physics. Students must not have passed PC1431 or PC1431FC.",
 "prerequisite": "Students from FOE (i.e. Civil Eng, Environmental Eng, Common Engineering, Mechanical Eng, Bioengineering, Industrial & Systems Eng and Material Science & Eng) with \u2018A\u2019 level or H2 pass in Physics; or 'A' level or H2 pass in Physics",
@@ -28,5 +29,5 @@
 "corequisite": "-1",
 "faculty": "SCIENCE",
 "department": "PHYSICS",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,0,2,3,0]]
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,0,2,3,0],[2016,0,2,3,0]]
 }

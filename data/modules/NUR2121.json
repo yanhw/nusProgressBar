@@ -1,0 +1,31 @@
+{
+"moduleCode": "NUR2121",
+"moduleTitle": "Maternal and Child Health Nursing",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NUR1115 Maternal and Child Health Nursing",
+"prerequisite": "NUR1114 Fundamentals of Nursing",
+"preclusionList": [
+            "NUR1115"
+        ],
+"parsedPrerequisite": {
+" and ": ["NUR1114"]
+},
+"prerequisiteList": ["NUR1114"],
+"completePrerequisite": {
+            "name": "NUR2121", 
+            "children": [
+                {
+                    "name": "NUR1114", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "This module focuses on normal pregnancy and childbirth; and normal growth and development of infants, children and adolescents. It also includes collaborative medical and nursing management for patients with alteration in reproductive function; and infants, children and adolescents with alterations in health status. It also introduces students to medication administration.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "YONG LOO LIN SCHOOL OF MEDICINE",
+"department": "NURSING/ALICE LEE CTR FOR NURSING STUD",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2016,0,2,0,0]]
+}

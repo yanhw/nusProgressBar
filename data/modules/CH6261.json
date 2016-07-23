@@ -1,0 +1,22 @@
+{
+"moduleCode": "CH6261",
+"moduleTitle": "Chinese Studies In The West",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "CH6261", 
+            "children": []
+},
+"moduleDescription": "This module is designed to introduce students to Western scholarship on Chinese studies by way of examining representative works from various disciplines within Chinese studies, including literary studies, historical studies, philosophy and religion. Emphasis is placed on critiquing the methodological assumptions, the handling of primary and secondary sources, interpretive strategies as well as the writing style in the chosen samples. The course may be team-taught by instructors from a variety of disciplines in Chinese studies.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "CHINESE STUDIES",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2016,1,0,0,0]]
+}

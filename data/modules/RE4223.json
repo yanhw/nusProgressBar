@@ -5,29 +5,24 @@
 "lockedModules":[
 ],
 "preclusion": "NIL",
-"prerequisite": "RE3102 ADVANCED TOPICS IN URBAN PLANNING RE4221 ADVANCED URBAN PLANNING THEORIES RE4222 PUBLIC POLICY AND REAL ESTATE MARKET",
+"prerequisite": "RE3102 ADVANCED TOPICS IN URBAN PLANNING",
 "preclusionList": [],
 "parsedPrerequisite": {
-" and ": ["RE4222"]
+" and ": ["RE3102"]
 },
-"prerequisiteList": ["RE4222","RE3104","RE2104","RE1101"],
+"prerequisiteList": ["RE3102","RE2103","RE1102"],
 "completePrerequisite": {
             "name": "RE4223", 
             "children": [
                 {
-                    "name": "RE4222", 
+                    "name": "RE3102", 
                     "children": [
                         {
-                            "name": "RE3104", 
+                            "name": "RE2103", 
                             "children": [
                                 {
-                                    "name": "RE2104", 
-                                    "children": [
-                                        {
-                                            "name": "RE1101", 
-                                            "children": []
-                                        }
-                                    ]
+                                    "name": "RE1102", 
+                                    "children": []
                                 }
                             ]
                         }
@@ -40,5 +35,5 @@
 "corequisite": "-1",
 "faculty": "SCHOOL OF DESIGN AND ENVIRONMENT",
 "department": "REAL ESTATE",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,0,2,0,0]]
+"history": [[0,0,0,0,0],[2012,0,2,0,0],[2013,0,2,0,0],[2014,0,2,0,0],[2015,0,2,0,0],[2016,0,2,0,0]]
 }

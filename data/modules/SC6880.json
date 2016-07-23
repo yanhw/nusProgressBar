@@ -1,0 +1,24 @@
+{
+"moduleCode": "SC6880",
+"moduleTitle": "Topics In Social Organization",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "SC5880 (to preclude current students who have done the module)",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "SC5880"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "SC6880", 
+            "children": []
+},
+"moduleDescription": "This module deals with specialised topics in Sociology. The topics covered reflect the expertise of visiting academics on emerging issues in Sociology which have practical implications for social research and/or social policy. Such topics include Demographic Transition: Facts and Theory. Major topics include: 1. Education Research & Policy Issues 2. Demographic Transition: Facts & Theory 3. Family Structure & Change 4. Civil Society & Governance 5. Culture & Institutions 6. Economic Change & Social Consequences",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "SOCIOLOGY",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[2013,1,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2016,0,2,0,0]]
+}

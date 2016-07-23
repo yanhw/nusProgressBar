@@ -3,6 +3,7 @@
 "moduleTitle": "Air Quality Management",
 "moduleCredit": "4",
 "lockedModules":[
+            "ESE4408",
             "ESE4407"
         ],
 "preclusion": "NIL",
@@ -19,5 +20,5 @@
 "corequisite": "-1",
 "faculty": "ENGINEERING",
 "department": "CIVIL & ENVIRONMENTAL ENGINEERING",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,1,0,0,0]]
+"history": [[0,0,0,0,0],[2012,1,0,0,0],[2013,1,0,0,0],[2014,1,0,0,0],[2015,1,0,0,0],[2016,1,0,0,0]]
 }

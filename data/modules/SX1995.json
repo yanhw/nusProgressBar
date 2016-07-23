@@ -1,7 +1,7 @@
 {
 "moduleCode": "SX1995",
 "moduleTitle": "Exchange Enrichment 1000 Module",
-"moduleCredit": "3",
+"moduleCredit": "2",
 "lockedModules":[
 ],
 "preclusion": "NIL",
@@ -10,7 +10,7 @@
 "parsedPrerequisite" : "nil",
 "prerequisiteList": [],
 "completePrerequisite": {
-            "name": "SX1995", 
+            "name": "SX1996", 
             "children": []
 },
 

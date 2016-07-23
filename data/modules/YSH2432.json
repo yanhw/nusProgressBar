@@ -1,0 +1,22 @@
+{
+"moduleCode": "YSH2432",
+"moduleTitle": "The American City: History and Architecture",
+"moduleCredit": "1",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "YSH2432", 
+            "children": []
+},
+"moduleDescription": "A seminar on the American city, in historical and architectural perspective. Topics include the development of American from a rural to a predominantly urban society; the evolving architecture and urban form of the American city; the role of the automobile, transportation, and mobility in urban planning and development; cycles of urban growth, neglect, decay, and redevelopment; and the role of heritage and preservation in the contemporary city. The class will also view aspects of the American city in international perspective.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "YALE-NUS COLLEGE",
+"department": "YALE-NUS COLLEGE",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2016,1,0,0,0]]
+}

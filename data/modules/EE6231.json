@@ -1,0 +1,52 @@
+{
+"moduleCode": "EE6231",
+"moduleTitle": "Reconfigurable Computing",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "EE4218 Embedded Hardware System Design or equivalent",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["EE4218"]
+},
+"prerequisiteList": ["EE4218","EE2020","EE1002","CG1108","EG1108"],
+"completePrerequisite": {
+            "name": "EE6231", 
+            "children": [
+                {
+                    "name": "EE4218", 
+                    "children": [
+                        {
+                            "name": "EE2020", 
+                            "children": [
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "EE1002", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "CG1108", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "EG1108", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "The goal of this module is to understand, analyze and research on the architectures, algorithms and applications in the reconfigurable computing. We will introduce the background and recent developments in the field of reconfigurable computing by discussing representative papers from leading journal and conference proceedings. We will introduce the various types of reconfigurable architectures and focus on the most popular fine-grained field programmable gate array (FPGA) architectures from the leading FPGA companies Xilinx and Altera. We will also introduce the electronic design automation algorithms and tools to enable applications to be mapped to FPGAs, and discuss creative applications of FPGAs in different domains.",
+"crossModule": "-1",
+"corequisite": "Nil",
+"faculty": "ENGINEERING",
+"department": "ELECTRICAL & COMPUTER ENGINEERING",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2014,1,0,0,0],[0,0,0,0,0],[2016,1,0,0,0]]
+}

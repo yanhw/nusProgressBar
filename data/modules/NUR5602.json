@@ -1,9 +1,10 @@
 {
 "moduleCode": "NUR5602",
-"moduleTitle": "Advanced Pathophysiology (Paediatrics)",
-"moduleCredit": "6",
+"moduleTitle": "Applied Pathophysiology (Paediatrics)",
+"moduleCredit": "8",
 "lockedModules":[
-            "NUR5611",
+            "NUR5011",
+            "NUR5612",
             "NUR5603"
         ],
 "preclusion": "NIL",
@@ -15,10 +16,10 @@
             "name": "NUR5602", 
             "children": []
 },
-"moduleDescription": "The module aims to provide a comprehensive, scientific basis for the assessment, evaluation and advanced nursing management of processes resulting from the manifestations of paediatric disease. A brief review of normal paediatric anatomy and physiology will be included. Emphasis will be on the pathophysiology of selected paediatric disorders and diseases as examples of alterations of body systems when normal anatomy and physiology are impaired.",
+"moduleDescription": "The module aims to provide a comprehensive, scientific basis for the assessment, evaluation and advanced nursing management of processes resulting from the manifestation of disease. A review of normal anatomy and physiology will be included, however, emphasis will be on the applied pathophysiology adopting an introductory, system-based approach utilising general physiological principles and evaluation of treatment.",
 "crossModule": "-1",
 "corequisite": "NUR5601",
 "faculty": "YONG LOO LIN SCHOOL OF MEDICINE",
 "department": "NURSING/ALICE LEE CTR FOR NURSING STUD",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,1,0,0,0]]
+"history": [[0,0,0,0,0],[0,0,0,0,0],[2013,1,0,0,0],[2014,1,0,0,0],[2015,1,0,0,0],[2016,1,0,0,0]]
 }

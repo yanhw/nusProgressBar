@@ -1,0 +1,29 @@
+{
+"moduleCode": "GE5219",
+"moduleTitle": "Spatial Programming",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "GE5223 Introduction to Applied GIS or with Lecturer\u2019s consent",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["GE5223"]
+},
+"prerequisiteList": ["GE5223"],
+"completePrerequisite": {
+            "name": "GE5219", 
+            "children": [
+                {
+                    "name": "GE5223", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "This module aims to provide students with spatial programming skills necessary for building and implementing customized geoprocessing functions and mapping applications of Geographic Information Systems (GIS). No previous programming experience is assumed, but students are expected to be familiar with basic GIS operations. Topics covered include: 1) basic programming concepts and the Python programming language; 2) geoprocessing in ArcGIS; 3) manipulating Python library in ArcGIS; 4) implementing GIS functions; and 5) spatial analysis with Python scripts. Upon completion of the module, students will be able to develop customized GIS tools and models directly applicable to their fields of interest.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "GEOGRAPHY",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2016,0,2,0,0]]
+}

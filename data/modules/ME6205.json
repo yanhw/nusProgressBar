@@ -1,0 +1,24 @@
+{
+"moduleCode": "ME6205",
+"moduleTitle": "Advanced Topics in Heat and Mass Transfer",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "ME5202",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "ME5202"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "ME6205", 
+            "children": []
+},
+"moduleDescription": "Advanced Topics in Heat and Mass Transfer",
+"crossModule": "-1",
+"corequisite": "Nil",
+"faculty": "ENGINEERING",
+"department": "MECHANICAL ENGINEERING",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2016,0,2,0,0]]
+}

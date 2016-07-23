@@ -4,8 +4,8 @@
 "moduleCredit": "4",
 "lockedModules":[
             "LSM2103",
-            "LSM2212",
             "LSM2191",
+            "LSM2212",
             "LSM2289",
             "LSM2102",
             "LSM4245",
@@ -22,10 +22,10 @@
             "name": "LSM1102", 
             "children": []
 },
-"moduleDescription": "The course will cover topics on (i) the patterns of inheritance, (ii) the molecular structure and replication of genetic material, (iii) the molecular properties of genes, and (iv) genetic analysis of individuals and populations. This will include an in-depth understanding of mendelian patterns of inheritance and variations that could occur due to multiple alleles, lethal genes, chromosomal variations, linkage, gene interaction and other genetic phenomena. Emphasis is placed on the understanding of the underlying molecular and biochemical basis of inheritance. Quantitative and population genetics will also be discussed with the emphasis of understanding the processes and forces in nature that promote genetic change.",
+"moduleDescription": "This module covers topics on (i) the patterns of inheritance, (ii) the molecular properties of genes and chromosomes, (iii) transcription and translation, (iv) genetic methods and technology, and (v) genetic analysis of individuals and populations. This will include an in-depth understanding of mendelian patterns of inheritance and variations that could occur due to multiple alleles, lethal genes, chromosomal variations, linkage, gene interaction and other genetic phenomena. Emphasis is placed on the understanding of the underlying molecular and biochemical basis of inheritance. Quantitative and population genetics will also be discussed with the emphasis of understanding the processes and forces in nature that promote genetic changes.",
 "crossModule": "-1",
 "corequisite": "-1",
 "faculty": "SCIENCE",
 "department": "BIOLOGICAL SCIENCES",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,1,2,0,0]]
+"history": [[0,0,0,0,0],[0,0,0,0,0],[2013,1,2,0,0],[2014,1,2,0,0],[2015,1,2,0,0],[2016,1,2,0,0]]
 }

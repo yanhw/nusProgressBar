@@ -1,0 +1,41 @@
+{
+"moduleCode": "CL3285",
+"moduleTitle": "Computer-Assisted Translation Tools",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "CL2280 or CL2281",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " or ": [
+                "CL2280", 
+                "CL2281"
+            ]
+},
+"prerequisiteList": ["CL2280","CL2281"],
+"completePrerequisite": {
+            "name": "CL3285", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "CL2280", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "CL2281", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module aims to introduce knowledge in the relationship between technology and the translation industry. Within the curriculum, students will learn a variety of computer-assisted translation tools and software that is useful for translation, including SDL Trados, SDL Multiterm, memoQ, Wordfast, D\u00e9j\u00e0 Vu, Adobe Fireworks (only for functions that are applicable to translation practice) and Aegisub.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "CHINESE STUDIES",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2016,1,0,0,0]]
+}

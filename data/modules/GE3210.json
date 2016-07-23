@@ -8,15 +8,20 @@
 "prerequisite" : "NIL",
 "preclusionList": [],
 "parsedPrerequisite" : "nil",
-"prerequisiteList": [],
+"prerequisiteList": ["GE2215"],
 "completePrerequisite": {
-            "name": "GE3210", 
-            "children": []
+            "name": "GE3216", 
+            "children": [
+                {
+                    "name": "GE2215", 
+                    "children": []
+                }
+            ]
 },
 "moduleDescription": "Module examines important geographical, ecological and political concepts and approaches to natural resources management. In particular, we focus on ownership regimes, access, exploitation and conservation in different social, economic and cultural contexts. Detailed cases of fisheries, forestry, freshwater and agriculture conflicts and problems are discussed.",
 "crossModule": "-1",
 "corequisite": "-1",
 "faculty": "ARTS & SOCIAL SCIENCES",
 "department": "GEOGRAPHY",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,1,0,0,0]]
+"history": [[0,0,0,0,0],[0,0,0,0,0],[2013,1,0,0,0],[0,0,0,0,0],[2015,1,0,0,0],[0,0,0,0,0]]
 }

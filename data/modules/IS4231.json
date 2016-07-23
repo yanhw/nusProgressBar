@@ -16,7 +16,7 @@
                 "IS3230"
             ]
 },
-"prerequisiteList": ["CS2107","CS1010","IS3230"],
+"prerequisiteList": ["CS2107","CS1010","IS3230","IS1103","IS1105","CS2105","CS1020","IS1112"],
 "completePrerequisite": {
             "name": "IS4231", 
             "children": [
@@ -34,7 +34,44 @@
                         }, 
                         {
                             "name": "IS3230", 
-                            "children": []
+                            "children": [
+                                {
+                                    "name": "and", 
+                                    "children": [
+                                        {
+                                            "name": "IS1103", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "IS1105", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "or", 
+                                            "children": [
+                                                {
+                                                    "name": "CS2105", 
+                                                    "children": [
+                                                        {
+                                                            "name": "CS1020", 
+                                                            "children": [
+                                                                {
+                                                                    "name": "CS1010", 
+                                                                    "children": []
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }, 
+                                                {
+                                                    "name": "IS1112", 
+                                                    "children": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
                         }
                     ]
                 }
@@ -45,5 +82,5 @@
 "corequisite": "NIL",
 "faculty": "SCHOOL OF COMPUTING",
 "department": "INFORMATION SYSTEMS",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,1,0,0,0]]
+"history": [[0,0,0,0,0],[0,0,0,0,0],[2013,1,0,0,0],[2014,1,0,0,0],[2015,1,0,0,0],[2016,1,0,0,0]]
 }

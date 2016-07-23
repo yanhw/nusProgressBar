@@ -10,7 +10,7 @@
 "parsedPrerequisite": {
 " and ": ["PC2193"]
 },
-"prerequisiteList": ["PC2193","PC1432","PC1433"],
+"prerequisiteList": ["PC2193","PC1431F","PC1431X","PC1432","PC1432X","PC1433"],
 "completePrerequisite": {
             "name": "PC3193", 
             "children": [
@@ -21,12 +21,29 @@
                             "name": "and", 
                             "children": [
                                 {
-                                    "name": "PC1432", 
+                                    "name": "PC1431F", 
                                     "children": []
                                 }, 
                                 {
-                                    "name": "PC1433", 
+                                    "name": "PC1431X", 
                                     "children": []
+                                }, 
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "PC1432", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "PC1432X", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "PC1433", 
+                                            "children": []
+                                        }
+                                    ]
                                 }
                             ]
                         }
@@ -39,5 +56,5 @@
 "corequisite": "-1",
 "faculty": "SCIENCE",
 "department": "PHYSICS",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,1,2,0,0]]
+"history": [[0,0,0,0,0],[2012,1,2,0,0],[2013,1,2,0,0],[2014,1,2,0,0],[2015,1,2,0,0],[2016,1,2,0,0]]
 }

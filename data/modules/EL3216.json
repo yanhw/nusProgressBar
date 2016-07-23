@@ -1,0 +1,41 @@
+{
+"moduleCode": "EL3216",
+"moduleTitle": "Language and the Internet",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "EL1101E or GEK1011",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " or ": [
+                "EL1101E", 
+                "GEK1011"
+            ]
+},
+"prerequisiteList": ["EL1101E","GEK1011"],
+"completePrerequisite": {
+            "name": "EL3216", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "EL1101E", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "GEK1011", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "The vast worldwide computer network collectively known as the Internet (and its graphical interface, the World Wide Web) provides a new environment and technologies of communication (e.g. Internet Relay Chat, bulletin board systems etc) that challenge current assumptions regarding the nature of speech, writing, community and society. Since English is the principal language of the Internet, this module aims to examine the ways in which the language is being (re)formulated on the Web, especially in multilingual settings. The module focuses on the study and management of electronic language evidence on the Web.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "ENGLISH LANGUAGE & LITERATURE",
+"history": [[0,0,0,0,0],[2012,1,0,0,0],[2013,1,0,0,0],[2014,1,0,0,0],[0,0,0,0,0],[2016,1,0,0,0]]
+}

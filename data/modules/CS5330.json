@@ -1,0 +1,80 @@
+{
+"moduleCode": "CS5330",
+"moduleTitle": "Randomized Algorithms",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "CS3230",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["CS3230"]
+},
+"prerequisiteList": ["CS3230","CS2010","CS1020","CS1010","CS1020E","CS1010E","CG1103","CS1231","MA1100"],
+"completePrerequisite": {
+            "name": "CS5330", 
+            "children": [
+                {
+                    "name": "CS3230", 
+                    "children": [
+                        {
+                            "name": "and", 
+                            "children": [
+                                {
+                                    "name": "CS2010", 
+                                    "children": [
+                                        {
+                                            "name": "or", 
+                                            "children": [
+                                                {
+                                                    "name": "CS1020", 
+                                                    "children": [
+                                                        {
+                                                            "name": "CS1010", 
+                                                            "children": []
+                                                        }
+                                                    ]
+                                                }, 
+                                                {
+                                                    "name": "CS1020E", 
+                                                    "children": [
+                                                        {
+                                                            "name": "CS1010E", 
+                                                            "children": []
+                                                        }
+                                                    ]
+                                                }, 
+                                                {
+                                                    "name": "CG1103", 
+                                                    "children": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }, 
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "CS1231", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "MA1100", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "The module will cover basic concepts in the design and analysis of randomized algorithms. It will cover both basic techniques, such as Chernoff bounds, random walks, and the probabilistic method, and a variety of practical algorithmic applications, such as load balancing, hash functions, and graph/network algorithms. The focus will be on utilizing randomization to develop algorithms that are more efficient and/or simpler than their deterministic counterparts.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF COMPUTING",
+"department": "COMPUTER SCIENCE",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2014,1,0,0,0],[0,0,0,0,0],[2016,0,2,0,0]]
+}

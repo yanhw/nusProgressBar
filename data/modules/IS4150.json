@@ -10,45 +10,13 @@
 "parsedPrerequisite": {
 " and ": ["IS2150"]
 },
-"prerequisiteList": ["IS2150","CS1020","CS1010","CS1102","CS1102S","IS1112"],
+"prerequisiteList": ["IS2150"],
 "completePrerequisite": {
             "name": "IS4150", 
             "children": [
                 {
                     "name": "IS2150", 
-                    "children": [
-                        {
-                            "name": "and", 
-                            "children": [
-                                {
-                                    "name": "or", 
-                                    "children": [
-                                        {
-                                            "name": "CS1020", 
-                                            "children": [
-                                                {
-                                                    "name": "CS1010", 
-                                                    "children": []
-                                                }
-                                            ]
-                                        }, 
-                                        {
-                                            "name": "CS1102", 
-                                            "children": []
-                                        }, 
-                                        {
-                                            "name": "CS1102S", 
-                                            "children": []
-                                        }
-                                    ]
-                                }, 
-                                {
-                                    "name": "IS1112", 
-                                    "children": []
-                                }
-                            ]
-                        }
-                    ]
+                    "children": []
                 }
             ]
 },
@@ -57,5 +25,5 @@
 "corequisite": "NIL",
 "faculty": "SCHOOL OF COMPUTING",
 "department": "INFORMATION SYSTEMS",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,0,2,0,0]]
+"history": [[0,0,0,0,0],[2012,0,2,0,0],[2013,0,2,0,0],[2014,0,2,0,0],[2015,0,2,0,0],[2016,0,2,0,0]]
 }

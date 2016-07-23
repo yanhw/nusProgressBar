@@ -12,7 +12,7 @@
 "parsedPrerequisite": {
 " and ": ["EE5432R"]
 },
-"prerequisiteList": ["EE5432R","EE4411","EE2021","EE1002","EG1108","CG1108"],
+"prerequisiteList": ["EE5432R","EE4411"],
 "completePrerequisite": {
             "name": "EE6436", 
             "children": [
@@ -21,30 +21,7 @@
                     "children": [
                         {
                             "name": "EE4411", 
-                            "children": [
-                                {
-                                    "name": "EE2021", 
-                                    "children": [
-                                        {
-                                            "name": "or", 
-                                            "children": [
-                                                {
-                                                    "name": "EE1002", 
-                                                    "children": []
-                                                }, 
-                                                {
-                                                    "name": "EG1108", 
-                                                    "children": []
-                                                }, 
-                                                {
-                                                    "name": "CG1108", 
-                                                    "children": []
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
+                            "children": []
                         }
                     ]
                 }
@@ -55,5 +32,5 @@
 "corequisite": "Nil",
 "faculty": "ENGINEERING",
 "department": "ELECTRICAL & COMPUTER ENGINEERING",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,0,2,0,0]]
+"history": [[0,0,0,0,0],[0,0,0,0,0],[2013,0,2,0,0],[2014,0,2,0,0],[2015,0,2,0,0],[2016,0,2,0,0]]
 }

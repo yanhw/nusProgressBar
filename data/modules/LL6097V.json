@@ -1,0 +1,24 @@
+{
+"moduleCode": "LL6097V",
+"moduleTitle": "Islamic Law",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "Students who are taking or have taken LL6097.",
+"prerequisite": "NUS Compulsory Core Curriculum or its equivalent.",
+"preclusionList": [
+            "LL6097"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "LL6097V", 
+            "children": []
+},
+"moduleDescription": "Course will introduce history and basic concepts of traditional Islamic law, followed by an account of reforms during the 19th and 20th centuries. The reform period will be covered topically, beginning with method and philosophical foundations, and moving to a variety of issues of positive and procedural law. Finally, some themes related to law and modernity will be explored.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "LAW",
+"department": "LAW",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2016,1,0,0,0]]
+}

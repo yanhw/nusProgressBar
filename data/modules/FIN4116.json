@@ -1,0 +1,167 @@
+{
+"moduleCode": "FIN4116",
+"moduleTitle": "Valuation and Mergers & Acquisitions",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "FIN2004, FIN3101",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " and ": [
+                "FIN2004", 
+                "FIN3101"
+            ]
+},
+"prerequisiteList": ["FIN2004","BK1003","BZ1002","BH1002","FNA1002","ACC1002","FNA1002X","ACC1002X","FNA1002E","BH1002E","EC3212","EG1422","FIN3101","FNA2004","BH2004","BZ2004","BK2004"],
+"completePrerequisite": {
+            "name": "FIN4116", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "FIN2004", 
+                            "children": [
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "BK1003", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "BZ1002", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "BH1002", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "FNA1002", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "ACC1002", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "FNA1002X", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "ACC1002X", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "FNA1002E", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "BH1002E", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "EC3212", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "EG1422", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "FIN3101", 
+                            "children": [
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "FNA2004", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "FIN2004", 
+                                            "children": [
+                                                {
+                                                    "name": "or", 
+                                                    "children": [
+                                                        {
+                                                            "name": "BK1003", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "BZ1002", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "BH1002", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "FNA1002", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "ACC1002", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "FNA1002X", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "ACC1002X", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "FNA1002E", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "BH1002E", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "EC3212", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "EG1422", 
+                                                            "children": []
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "BH2004", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "BZ2004", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "BK2004", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "The course aims to survey the financial methods used in mergers and acquisitions, buyouts and corporate restructuring. Related legal, strategic, organizational and management issues will also be considered.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF BUSINESS",
+"department": "FINANCE",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[2013,0,2,0,0],[0,0,0,0,0],[0,0,0,0,0],[2016,1,0,0,0]]
+}

@@ -4,13 +4,14 @@
 "moduleCredit": "0",
 "lockedModules":[
 ],
-"preclusion": "AR1000, BE1000, ID1000, ET1000 / NK1001 / EA1101 / EG1471 / ES1301 /ES1101 / ES1102 and EM1101",
+"preclusion": "AR1000, BE1000, ID1000, ET1000 / NK1001 / EA1101 / EG1471 / ES1301 / ES1101 / ES1102 / ES1103 and EM1101",
 "prerequisite": "Open only to students enrolled in the Bachelor of Music programme from AY2009/10 onwards. Students who score Band B in the YSTCM English Placement Test or students who have passed English for Academic Purposes (Music) 1 are required to read this module.",
 "preclusionList": [
             "AR1000",
             "EA1101",
             "ES1101",
             "ES1102",
+            "ES1103",
             "NK1001",
             "ID1000",
             "EM1101",
@@ -30,5 +31,5 @@
 "corequisite": "-1",
 "faculty": "NON-FACULTY-BASED DEPARTMENTS",
 "department": "CTR FOR ENGLISH LANGUAGE COMMUNICATION",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,1,2,0,0]]
+"history": [[0,0,0,0,0],[0,0,0,0,0],[2013,1,2,0,0],[2014,1,2,0,0],[2015,1,2,0,0],[2016,1,0,0,0]]
 }

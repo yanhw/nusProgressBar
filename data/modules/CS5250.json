@@ -1,0 +1,106 @@
+{
+"moduleCode": "CS5250",
+"moduleTitle": "Advanced Operating Systems",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "CS2106 Introduction to Operating Systems or CG2271 Real-Time Operating Systems",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " or ": [
+                "CS2106", 
+                "CG2271"
+            ]
+},
+"prerequisiteList": ["CS2106","CS2100","CS1010","EE2007","EE2024","EE2020","EE1002","CG1108","EG1108","CS1010E","CG2271","CS1020"],
+"completePrerequisite": {
+            "name": "CS5250", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "CS2106", 
+                            "children": [
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "CS2100", 
+                                            "children": [
+                                                {
+                                                    "name": "CS1010", 
+                                                    "children": []
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "EE2007", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "EE2024", 
+                                            "children": [
+                                                {
+                                                    "name": "and", 
+                                                    "children": [
+                                                        {
+                                                            "name": "EE2020", 
+                                                            "children": [
+                                                                {
+                                                                    "name": "or", 
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "EE1002", 
+                                                                            "children": []
+                                                                        }, 
+                                                                        {
+                                                                            "name": "CG1108", 
+                                                                            "children": []
+                                                                        }, 
+                                                                        {
+                                                                            "name": "EG1108", 
+                                                                            "children": []
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }, 
+                                                        {
+                                                            "name": "CS1010E", 
+                                                            "children": []
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "CG2271", 
+                            "children": [
+                                {
+                                    "name": "CS1020", 
+                                    "children": [
+                                        {
+                                            "name": "CS1010", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "The module covers a broad range of issues in the design and implementation of modern advanced operating systems. The topics covered in this module includes OS design strategies (including microkernels, mobile, embedded and real-time operating systems and the component\u2019s interfaces), priority and resource allocation strategies; scheduling algorithms (including for multi-core, multi-processors); naming, protection and security; UI and windowing systems; file system implementations (including network and distributed file systems); failure and recovery; and virtualization and the Internet-ready OS. They extend and provide in-depth coverage of material in earlier prerequisite OS modules.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF COMPUTING",
+"department": "COMPUTER SCIENCE",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2016,0,2,0,0]]
+}

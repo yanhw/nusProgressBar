@@ -1,0 +1,22 @@
+{
+"moduleCode": "BL5214",
+"moduleTitle": "Advanced Proteins Nmr",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "Basic understanding of protein chemistry is essential. Pre-university level physics and mathematics are desired. Students with strong physics or computer background who want to know more on protein NMR are also encouraged.",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "BL5214", 
+            "children": []
+},
+"moduleDescription": "The objective of this module is to enable students to understand the principles behind various protein NMR experiments and allow them to apply those experiments to study protein structural and dynamical properties. The major topics covered includes NMR phenomenon and parameters; multi-dimensional multinuclear NMR experiments; relaxation and dynamics; NMR protein sample preparation; backbone and side chain assignment; and restraints for NMR protein structure calculation. Graduate students who are or will use NMR for biological research are strongly encouraged to take this module. This module will also be useful for students in structural biology and protein engineering. (Alternate with BL5215)",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCIENCE",
+"department": "BIOLOGICAL SCIENCES",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2014,1,0,0,0],[0,0,0,0,0],[2016,1,0,0,0]]
+}

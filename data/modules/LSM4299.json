@@ -1,0 +1,58 @@
+{
+"moduleCode": "LSM4299",
+"moduleTitle": "Applied Project in Life Sciences",
+"moduleCredit": "16",
+"lockedModules":[
+],
+"preclusion": "LSM4199",
+"prerequisite": "Students must be reading the Bachelor of Science degree. Student must have met Honours eligibility requirements for specific major and passed SP1001 Career Planning & Preparation or NCC1001 Headstart Module (A Career Development Programme) or NCC1000 Stepup Module (A Career Development Programme) or CFG1001 Headstart Module or CFG1000 StepUp Module.",
+"preclusionList": [
+            "LSM4199"
+        ],
+"parsedPrerequisite": {
+            " or ": [
+                "SP1001", 
+                "NCC1001", 
+                "NCC1000", 
+                "CFG1001", 
+                "CFG1000"
+            ]
+},
+"prerequisiteList": ["SP1001","NCC1001","NCC1000","CFG1001","CFG1000"],
+"completePrerequisite": {
+            "name": "LSM4299", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "SP1001", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "NCC1001", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "NCC1000", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "CFG1001", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "CFG1000", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "For Bachelor of Science (Honours) students to participate full-time in a six-month-long project in an applied context that culminates in a project presentation and report.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCIENCE",
+"department": "BIOLOGICAL SCIENCES",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2016,1,2,0,0]]
+}

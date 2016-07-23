@@ -1,0 +1,31 @@
+{
+"moduleCode": "LL6300",
+"moduleTitle": "Copyright in the Internet Age",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "(1) LL4076/LL5076/LL6076; LL4076V/LL5076V/LL5076V IT Law I (2) LL4300V/LL5300V/LL6300V Copyright in the Internet Age",
+"prerequisite": "NUS Compulsory Core Law Curriculum or equivalent.",
+"preclusionList": [
+            "LL5076",
+            "LL5076V",
+            "LL5300V",
+            "LL4076",
+            "LL6300V",
+            "LL4076V",
+            "LL6076",
+            "LL4300V"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "LL6300", 
+            "children": []
+},
+"moduleDescription": "This course will consider the particular and unique issues that the ubiquitous use of the internet for commerce, education and communication has created for copyright creators and users. In particular, it will address the increasingly visual medium of social media and how user practices are challenging the boundaries of copyright law. It will consider copyright infringement, fair dealing, personal and professional uses and the interaction between copyright, contract and consent.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "LAW",
+"department": "LAW",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2016,0,2,0,0]]
+}

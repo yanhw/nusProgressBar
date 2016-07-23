@@ -1,0 +1,29 @@
+{
+"moduleCode": "ST5227",
+"moduleTitle": "Applied Data Mining",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "ST5201 Basic Statistical Theory, ST5202 Applied Regression Analysis",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["ST5202"]
+},
+"prerequisiteList": ["ST5202"],
+"completePrerequisite": {
+            "name": "ST5227", 
+            "children": [
+                {
+                    "name": "ST5202", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "Data mining is an interdisciplinary science to discover useful structure, to extract information from large data sets, and to make predictions. This module will focus on the most recent but well accepted methods, especially those in investigating big and complicated data, including Lasso regression, nonparametric smoothing, Neural Networks and machine learning. This module is targeted at students who are interested in handling large and complicated data sets and are able to meet the prerequisites.",
+"crossModule": "-1",
+"corequisite": "ST5201 Basic Statistical Theory",
+"faculty": "SCIENCE",
+"department": "STATISTICS & APPLIED PROBABILITY",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2016,0,2,0,0]]
+}

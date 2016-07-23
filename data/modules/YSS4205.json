@@ -1,0 +1,29 @@
+{
+"moduleCode": "YSS4205",
+"moduleTitle": "Chinese Foreign Policy",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "YSS2202 International Relations",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["YSS2202"]
+},
+"prerequisiteList": ["YSS2202"],
+"completePrerequisite": {
+            "name": "YSS4205", 
+            "children": [
+                {
+                    "name": "YSS2202", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "Students will gain a deeper understanding of the major contours of the debate and discussion on China\u2019s contemporary international relations. The course examines the political, diplomatic, military, and economic challenges facing China under conditions of uncertainty in the regional and international system and the processes through which China responds to and manages these external challenges. The course will analyse how existing theories of international relations and foreign policy analysis apply to China to gain a deeper appreciation of the factors that undergird conflict and cooperation in Chinese foreign policy.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "YALE-NUS COLLEGE",
+"department": "YALE-NUS COLLEGE",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2016,1,0,0,0]]
+}

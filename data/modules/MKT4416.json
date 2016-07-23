@@ -1,0 +1,90 @@
+{
+"moduleCode": "MKT4416",
+"moduleTitle": "Mktg Strategy Simulation & Case Analysis",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "MKT2401 or MKT2401A or MKT2401B",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " or ": [
+                "MKT2401", 
+                "MKT2401A", 
+                "MKT2401B"
+            ]
+},
+"prerequisiteList": ["MKT2401","MKT2401A","MKT1003","BH1003","BZ1003","BK2003","MKT2401B"],
+"completePrerequisite": {
+            "name": "MKT4416", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "MKT2401", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "MKT2401A", 
+                            "children": [
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "MKT1003", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "BH1003", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "BZ1003", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "BK2003", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "MKT2401B", 
+                            "children": [
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "MKT1003", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "BH1003", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "BZ1003", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "BK2003", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "Marketing management is the foundation for building knowledge about the market. It\u2019s an exciting and critical aspect of marketing. It covers a wide range of phenomena and it can help to answer many questions and reduce the uncertainty in decision making. This course is taught with a practice orientation, through simulation and case studies. It is hoped that students will gain a practical and sound understanding of how marketing management is carried out in the real business environment.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF BUSINESS",
+"department": "MARKETING",
+"history": [[0,0,0,0,0],[2012,1,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2016,0,2,0,0]]
+}

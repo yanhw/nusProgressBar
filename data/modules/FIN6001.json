@@ -1,0 +1,22 @@
+{
+"moduleCode": "FIN6001",
+"moduleTitle": "Empirical Corporate Finance and Financial Intermediation",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "FIN6001", 
+            "children": []
+},
+"moduleDescription": "This course deals with the fundamental ideas and issues tackled in empirical research in corporate finance and financial intermediation, the methodologies employed to evaluate corporate finance and financial intermediation models, and classical and recent empirical findings in these areas. The topics include a selection of (i) financial structure, (ii) financing investment, (iii) tax system, (iv) dividend policy, (v) M&A, (vi) bankruptcy and reorganization, and (vii) banking and financial intermediation.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF BUSINESS",
+"department": "FINANCE",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2014,0,0,3,0],[0,0,0,0,0],[2016,0,2,0,0]]
+}

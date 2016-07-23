@@ -3,14 +3,13 @@
 "moduleTitle": "Ecology and Environment",
 "moduleCredit": "4",
 "lockedModules":[
-            "LSM3267",
             "LSM3255",
             "LSM3254",
             "LSM4265",
-            "LSM3273",
             "LSM3263",
             "BL5233",
             "SP3203",
+            "LSM3267",
             "LSM3265",
             "LSM3257"
         ],
@@ -35,5 +34,5 @@
 "corequisite": "-1",
 "faculty": "SCIENCE",
 "department": "BIOLOGICAL SCIENCES",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,1,2,0,0]]
+"history": [[0,0,0,0,0],[2012,1,2,0,0],[2013,1,2,0,0],[2014,1,2,0,0],[2015,1,2,0,0],[2016,1,2,0,0]]
 }

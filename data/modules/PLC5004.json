@@ -3,7 +3,8 @@
 "moduleTitle": "Psychological Intervention And Therapy",
 "moduleCredit": "4",
 "lockedModules":[
-],
+            "PLC5007"
+        ],
 "preclusion": "NIL",
 "prerequisite" : "NIL",
 "preclusionList": [],
@@ -18,5 +19,5 @@
 "corequisite": "Nil",
 "faculty": "ARTS & SOCIAL SCIENCES",
 "department": "PSYCHOLOGY",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,1,0,0,0]]
+"history": [[0,0,0,0,0],[0,0,0,0,0],[2013,0,2,0,0],[2014,0,2,0,0],[2015,1,0,0,0],[2016,1,0,0,0]]
 }

@@ -3,7 +3,8 @@
 "moduleTitle": "Environmental Microbiological Principles",
 "moduleCredit": "4",
 "lockedModules":[
-],
+            "ESE4408"
+        ],
 "preclusion": "NIL",
 "prerequisite" : "NIL",
 "preclusionList": [],
@@ -18,5 +19,5 @@
 "corequisite": "-1",
 "faculty": "ENGINEERING",
 "department": "CIVIL & ENVIRONMENTAL ENGINEERING",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,1,0,0,0]]
+"history": [[0,0,0,0,0],[2012,1,0,0,0],[2013,1,0,0,0],[2014,1,0,0,0],[2015,1,0,0,0],[2016,1,0,0,0]]
 }

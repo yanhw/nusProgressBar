@@ -1,0 +1,52 @@
+{
+"moduleCode": "LSM4217",
+"moduleTitle": "Functional Ageing",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "LSM3217 OR LSM 3224",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["LSM3217"]
+},
+"prerequisiteList": ["LSM3217","LSM2103","LSM1101","LSM1401","LSM1102"],
+"completePrerequisite": {
+            "name": "LSM4217", 
+            "children": [
+                {
+                    "name": "LSM3217", 
+                    "children": [
+                        {
+                            "name": "LSM2103", 
+                            "children": [
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "LSM1101", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "LSM1401", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "LSM1102", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "Populations around the world are rapidly ageing and it is important to understand the functional decline in ageing populations. Functional age is defined as a combination of chronological, biological and psychological ages. Molecular processes governing ageing will be covered during the first half while the second half will be on societal perception, burden of disease, healthy ageing interventions and ageless society. The ageing process will be explained based on the experimental and epidemiological studies. This module will integrate biology and sociology of ageing which will provide avenues for better understanding of ageing in a society.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "YONG LOO LIN SCHOOL OF MEDICINE",
+"department": "PHYSIOLOGY",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2016,0,2,0,0]]
+}

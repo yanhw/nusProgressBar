@@ -13,7 +13,7 @@
                 "PC4130"
             ]
 },
-"prerequisiteList": ["PC3232","PC2130","PC1144","PC1432","MA1505","MA1506","MA1102R","MA1521","MA1101R","PC2130B","PC1432X","PC1433","PC4130","PC3130","PC2174"],
+"prerequisiteList": ["PC3232","PC2130","PC1144","PC1432","PC1432X","MA1505","MA1506","MA1102R","MA1521","MA1101R","PC2130B","PC1433","PC4130","PC3130","PC2134"],
 "completePrerequisite": {
             "name": "PC4245", 
             "children": [
@@ -41,6 +41,10 @@
                                                                 }, 
                                                                 {
                                                                     "name": "PC1432", 
+                                                                    "children": []
+                                                                }, 
+                                                                {
+                                                                    "name": "PC1432X", 
                                                                     "children": []
                                                                 }
                                                             ]
@@ -155,6 +159,10 @@
                                                                                 }, 
                                                                                 {
                                                                                     "name": "PC1432", 
+                                                                                    "children": []
+                                                                                }, 
+                                                                                {
+                                                                                    "name": "PC1432X", 
                                                                                     "children": []
                                                                                 }
                                                                             ]
@@ -287,6 +295,10 @@
                                                                         {
                                                                             "name": "PC1432", 
                                                                             "children": []
+                                                                        }, 
+                                                                        {
+                                                                            "name": "PC1432X", 
+                                                                            "children": []
                                                                         }
                                                                     ]
                                                                 }, 
@@ -344,8 +356,22 @@
                                                     ]
                                                 }, 
                                                 {
-                                                    "name": "PC2174", 
-                                                    "children": []
+                                                    "name": "PC2134", 
+                                                    "children": [
+                                                        {
+                                                            "name": "and", 
+                                                            "children": [
+                                                                {
+                                                                    "name": "MA1101R", 
+                                                                    "children": []
+                                                                }, 
+                                                                {
+                                                                    "name": "MA1102R", 
+                                                                    "children": []
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
                                                 }
                                             ]
                                         }
@@ -362,5 +388,5 @@
 "corequisite": "-1",
 "faculty": "SCIENCE",
 "department": "PHYSICS",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,0,2,3,0]]
+"history": [[0,0,0,0,0],[2012,0,2,0,0],[2013,0,2,0,0],[2014,0,2,0,0],[2015,0,2,3,0],[2016,0,2,0,0]]
 }

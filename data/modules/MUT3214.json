@@ -1,0 +1,29 @@
+{
+"moduleCode": "MUT3214",
+"moduleTitle": "Concerto and Cadenza",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "MUT1101: Introduction to Musical Concepts and Materials 3 Core Compositional Engagement (Theory) Electives and/or permission of the instructor",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["MUT1101"]
+},
+"prerequisiteList": ["MUT1101"],
+"completePrerequisite": {
+            "name": "MUT3214", 
+            "children": [
+                {
+                    "name": "MUT1101", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "This module provides a focused study of the concerto as a genre and how the cadenza evolved from improvisation to being an integral part of a concerto. The chronological setting reinforces the historically-informed approach that encourages musicians to be sensitive to the stylistic differences of each era and composer. The module aims to bridge compositional thinking with performance and interpretative analysis. Hence, analysis, composition and performance are equally represented as modes of learning. Major assessment is in the form of analytical work and music compositions that are performed in class and/or public concerts.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "YONG SIEW TOH CONSERVATORY OF MUSIC",
+"department": "YONG SIEW TOH CONSERVATORY OF MUSIC",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2016,1,0,0,0]]
+}

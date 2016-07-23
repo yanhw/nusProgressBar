@@ -13,34 +13,15 @@
                 "YCC1112"
             ]
 },
-"prerequisiteList": ["YCC1111","YCC1112"],
+"prerequisiteList": [],
 "completePrerequisite": {
-            "name": "YHU3210", 
-            "children": [
-                {
-                    "name": "and", 
-                    "children": [
-                        {
-                            "name": "YCC1111", 
-                            "children": []
-                        }, 
-                        {
-                            "name": "YCC1112", 
-                            "children": [
-                                {
-                                    "name": "YCC1111", 
-                                    "children": []
-                                }
-                            ]
-                        }
-                    ]
-                }
-            ]
+            "name": "YHU3211", 
+            "children": []
 },
 "moduleDescription": "The proseminar in literary studies introduces students to the comparative study of literary form. Students will be introduces to a range of theoretical and literary critical approaches from around the world.",
 "crossModule": "-1",
 "corequisite": "-1",
 "faculty": "YALE-NUS COLLEGE",
 "department": "YALE-NUS COLLEGE",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,1,0,0,0]]
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,1,0,0,0],[0,0,0,0,0]]
 }

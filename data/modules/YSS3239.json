@@ -8,15 +8,34 @@
 "prerequisite" : "NIL",
 "preclusionList": [],
 "parsedPrerequisite" : "nil",
-"prerequisiteList": [],
+"prerequisiteList": ["YSS2201","YSS2216","YCC1122"],
 "completePrerequisite": {
-            "name": "YSS3239", 
-            "children": []
+            "name": "YSS4201", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "YSS2201", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "YSS2216", 
+                            "children": [
+                                {
+                                    "name": "YCC1122", 
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
 },
 "moduleDescription": "This course explores the phenomenon of peri-urbanization\u2014rapid sociospatial transformation occurring at the edges of cities and between urban and rural. We will investigate this phenomenon through the eyes of people who inhabit these areas, examining their experiences of precariousness and hybridity. Most importantly, we will explore the exclusion, marginalization, and inequity that is particularly prominent in peri-urban areas. In doing so, we will also critically examine the definition of urban and rural. The course is global in scope, including suburbs in the US, urban regions in Europe, slums in Latin America and the Middle East, and villages in Asia.",
 "crossModule": "-1",
 "corequisite": "-1",
 "faculty": "YALE-NUS COLLEGE",
 "department": "YALE-NUS COLLEGE",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,0,2,0,0]]
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,0,2,0,0],[0,0,0,0,0]]
 }

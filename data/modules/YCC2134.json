@@ -10,20 +10,15 @@
 "parsedPrerequisite": {
 " and ": ["YCC1132"]
 },
-"prerequisiteList": ["YCC1132"],
+"prerequisiteList": [],
 "completePrerequisite": {
-            "name": "YCC2134", 
-            "children": [
-                {
-                    "name": "YCC1132", 
-                    "children": []
-                }
-            ]
+            "name": "YHU1209", 
+            "children": []
 },
 "moduleDescription": "This 5 MC course explores basic principles, knowledge, and techniques broadly relevant to science through an integrated approach. A number of tracks will be available to choose from, and of these the student will select two. Although each track may have the flavour of a particular field, it will focus on common foundational themes that cut broadly across Science: information and entropy; shape and symmetry; recursion and emergence; equilibrium and stability; conservation laws. The course will lead from these themes to solutions of problems that require multidisciplinary approaches.",
 "crossModule": "-1",
 "corequisite": "-1",
 "faculty": "YALE-NUS COLLEGE",
 "department": "YALE-NUS COLLEGE",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,1,0,0,0]]
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,1,0,0,0],[0,0,0,0,0]]
 }

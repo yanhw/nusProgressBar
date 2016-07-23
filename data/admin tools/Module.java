@@ -4,11 +4,11 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-class Module{
+class Module implements Comparable<Module>{
 	private ArrayList<String> lockedModules=new ArrayList<String>();
 	private String moduleCredit="\"moduleCredit\": \"-1\",";
 	private ArrayList<String> completePrerequisite=new ArrayList<String>();
-	private String prerequisiteList;
+	private String prerequisiteList = "\"prerequisiteList\": [],";
 	private ArrayList<String> parsedPrerequisite=new ArrayList<String>();
 	private ArrayList<String> parsedPreclusion=new ArrayList<String>();
 	private ArrayList<String> preclusion=new ArrayList<String>();
@@ -24,7 +24,14 @@ class Module{
 	private String faculty="\"faculty\": \"-1\",";
 	private String department="\"department\": \"-1\",";
 	private int[][] history=new int[6][5];
-
+	
+	public Module(String creditString) {
+		moduleCredit=moduleCredit.substring(0,moduleCredit.length()-4)+creditString+"\",";
+	}
+	
+	public Module() {
+	}
+	
 	public boolean lockedModules(Scanner sc, String[] input){
 		if(!lockedModules.isEmpty())
 			return false;
@@ -298,10 +305,24 @@ class Module{
 		printContent(name,moduleCredit);
 		for(String s:lockedModules)
 			printContent(name,s);
-		for(String t:preclusion)
-			printContent(name,t);
+		if (preclusion.isEmpty())
+			preclusionText = "\"preclusion\": \"NIL\",";
+	//	for(String t:preclusion)
+			printContent(name,preclusionText);
+		if (parsedPreclusion.isEmpty())
+			parsedPreclusion.add("\"preclusionList\": [],");
+		if (prerequisite.isEmpty())
+			prerequisiteText = "\"prerequisite\" : \"NIL\",";
+		printContent(name,prerequisiteText);
+		
+		
 		for(String w:parsedPreclusion)
 			printContent(name,w);
+		if (parsedPrerequisite.isEmpty())
+			parsedPrerequisite.add("\"parsedPrerequisite\" : \"nil\",");
+		for (String s:parsedPrerequisite)
+			printContent(name, s);
+		printContent(name,prerequisiteList);
 		for(String h:completePrerequisite)
 			printContent(name,h);
 //		for(String y:moduleDescription)
@@ -314,15 +335,16 @@ class Module{
 		for(int i=0;i<6;i++){
 			historyToPrint+="[";
 			for(int j=0;j<5;j++){
-			historyToPrint+=history[i][j];
-			historyToPrint+=",";
-		}
+				historyToPrint+=history[i][j];
+				if (j < 4)
+					historyToPrint+=",";
+			}
 			historyToPrint+="],";
 		}
 		historyToPrint=historyToPrint.substring(0,historyToPrint.length()-1)+"]";
 		printContent(name,historyToPrint);
 		printContent(name,"}");
-		}
+	}
     public void printAll(){
 		String name="allModuleInfo";
 		printContent(name,"{");
@@ -362,7 +384,8 @@ class Module{
 			historyToPrint+="[";
 			for(int j=0;j<5;j++){
 			historyToPrint+=history[i][j];
-			historyToPrint+=",";
+			if (j < 4)
+				historyToPrint+=",";
 		}
 			historyToPrint+="],";
 		}
@@ -400,7 +423,8 @@ class Module{
 //		String input=sc.next();
 //		if(!input.equals(""))
 //		crossModule=crossModule.substring(0,crossModule.length()-4)+sc.next()+"\",";
-		}
+	}
+	
     public void corequisite(Scanner sc){
     	if(!corequisite.equals("\"corequisite\": \"-1\","))
     		return;
@@ -413,9 +437,10 @@ class Module{
 		while(!input.equals("},{")){
 			corequisite=corequisite+input;
 			input=sc.next();
-			}
-		corequisite=corequisite+"\",";
 		}
+		corequisite=corequisite+"\",";
+	}
+    
     public void faculty(Scanner sc){
     	if(!faculty.equals("\"faculty\": \"-1\","))
     		return;
@@ -444,9 +469,17 @@ class Module{
     	department=department+"\",";
     	//System.out.println(department);
     }
+    
+    
     public void history(int year,int sem){
-    	history[year-2010][0]=year;
-    	history[year-2010][sem]=sem;
+    	history[year-2011][0]=year;
+    	history[year-2011][sem]=sem;
     }
+
+	@Override
+	public int compareTo(Module AnotherModule) {
+		// TODO Auto-generated method stub
+		return this.getCode().compareTo(AnotherModule.getCode());
+	}
 	
 }

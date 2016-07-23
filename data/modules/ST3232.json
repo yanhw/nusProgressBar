@@ -3,7 +3,8 @@
 "moduleTitle": "Design & Analysis of Experiments",
 "moduleCredit": "4",
 "lockedModules":[
-],
+            "ST5209"
+        ],
 "preclusion": "NIL",
 "prerequisite": "ST2132 or ST2334",
 "preclusionList": [],
@@ -15,7 +16,7 @@
 },
 "prerequisiteList": ["ST2132","MA2216","MA1102","MA1102R","MA1312","MA1507","MA1505","MA1505C","MA1521","ST2131","ST2334","MA1306"],
 "completePrerequisite": {
-            "name": "ST3232", 
+            "name": "ST3233", 
             "children": [
                 {
                     "name": "or", 
@@ -199,5 +200,5 @@
 "corequisite": "-1",
 "faculty": "SCIENCE",
 "department": "STATISTICS & APPLIED PROBABILITY",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,0,2,0,0]]
+"history": [[0,0,0,0,0],[2012,0,2,0,0],[2013,0,2,0,0],[0,0,0,0,0],[2015,0,2,0,0],[0,0,0,0,0]]
 }

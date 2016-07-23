@@ -1,0 +1,29 @@
+{
+"moduleCode": "BN5208",
+"moduleTitle": "Biomedical Quality and Regulatory Systems",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "Graduate level Physics or BN5401 or consent of instructor",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["BN5401"]
+},
+"prerequisiteList": ["BN5401"],
+"completePrerequisite": {
+            "name": "BN5208", 
+            "children": [
+                {
+                    "name": "BN5401", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "This module covers the aspects of radiation physics necessary for understanding modern radiation therapy. Topics include the physics of radiation producing equipment in oncology (e.g. linear accelerators); photon and electron beams; ionization chambers and calibration protocols; quality assurance and commissioning; methods of modeling and implementing radiation therapy; advanced treatment planning and delivery. The clinical and patient safety considerations will be emphasized.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "BIOMEDICAL ENGINEERING",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2016,1,0,0,0]]
+}

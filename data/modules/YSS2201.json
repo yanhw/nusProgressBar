@@ -1,15 +1,12 @@
 {
 "moduleCode": "YSS2201",
-"moduleTitle": "Understanding Behaviour and Cognition",
+"moduleTitle": "Understanding Behavior and Cognition",
 "moduleCredit": "5",
 "lockedModules":[
-            "YSS3215",
-            "YSS3214",
             "YSS3219",
+            "YSS4206B",
             "YSS2207",
-            "YSS4201",
-            "YSS3228",
-            "YSS4202"
+            "YSS4206A"
         ],
 "preclusion": "NIL",
 "prerequisite" : "NIL",
@@ -25,5 +22,5 @@
 "corequisite": "-1",
 "faculty": "YALE-NUS COLLEGE",
 "department": "YALE-NUS COLLEGE",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,1,2,0,0]]
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2014,1,2,0,0],[2015,1,2,0,0],[2016,1,0,0,0]]
 }

@@ -1,0 +1,29 @@
+{
+"moduleCode": "YSS3243",
+"moduleTitle": "Public Economics",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "YSS2203 Intermediate Microeconomics",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["YSS2203"]
+},
+"prerequisiteList": ["YSS2203"],
+"completePrerequisite": {
+            "name": "YSS3243", 
+            "children": [
+                {
+                    "name": "YSS2203", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "Public economics studies economic policy. We will study the setting of taxes and tariffs, the handling of externalities and the provision of public goods. The course will do so using microeconomic approaches.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "YALE-NUS COLLEGE",
+"department": "YALE-NUS COLLEGE",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2016,1,0,0,0]]
+}

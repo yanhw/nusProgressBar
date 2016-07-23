@@ -1,0 +1,85 @@
+{
+"moduleCode": "LAJ4205",
+"moduleTitle": "Expository Writing & Public Speaking",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "JS4205",
+"prerequisite": "LAJ3202, passed JLPT level 2 or 1 or GCE `AO' level Japanese or placement test.",
+"preclusionList": [
+            "JS4205"
+        ],
+"parsedPrerequisite": {
+" and ": ["LAJ3202"]
+},
+"prerequisiteList": ["LAJ3202","LAJ3201","LAJ2203","LAJ2202","LAJ2201","LAJ1201","LAJ3203"],
+"completePrerequisite": {
+            "name": "LAJ4205", 
+            "children": [
+                {
+                    "name": "LAJ3202", 
+                    "children": [
+                        {
+                            "name": "and", 
+                            "children": [
+                                {
+                                    "name": "LAJ3201", 
+                                    "children": [
+                                        {
+                                            "name": "LAJ2203", 
+                                            "children": [
+                                                {
+                                                    "name": "LAJ2202", 
+                                                    "children": [
+                                                        {
+                                                            "name": "LAJ2201", 
+                                                            "children": [
+                                                                {
+                                                                    "name": "LAJ1201", 
+                                                                    "children": []
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }, 
+                                {
+                                    "name": "LAJ3203", 
+                                    "children": [
+                                        {
+                                            "name": "LAJ2203", 
+                                            "children": [
+                                                {
+                                                    "name": "LAJ2202", 
+                                                    "children": [
+                                                        {
+                                                            "name": "LAJ2201", 
+                                                            "children": [
+                                                                {
+                                                                    "name": "LAJ1201", 
+                                                                    "children": []
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module is designed to assist students' projects so that they can present their ideas effectively in oral and written form. Students are expected to have some data at hand for analysis or at least a concrete project topic. Contrastive analysis of English and Japanese expository writing styles will be carried out by comparing some sections of journal articles. Participants are expected to make progress reports on their projects and to comment actively on each other's presentations. This module is particularly useful for students researching topics that involve quantitative data, in such fields as linguistics, language teaching methodology, anthropology and sociology.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "CENTRE FOR LANGUAGE STUDIES",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2016,1,0,0,0]]
+}

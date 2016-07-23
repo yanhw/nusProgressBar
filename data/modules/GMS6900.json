@@ -1,0 +1,22 @@
+{
+"moduleCode": "GMS6900",
+"moduleTitle": "Student Research Seminars",
+"moduleCredit": "3",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "Only for PhD students in IBM program",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "GMS6900", 
+            "children": []
+},
+"moduleDescription": "Student Research Seminars are weekly seminars in which PhD students in the IBM program present the progress of their research projects to faculty and IBM students. \u201c(Participation for at least 6 semesters is required to qualify for credits.)",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "DUKE-NUS MEDICAL SCHOOL",
+"department": "DUKE-NUS MEDICAL SCHOOL",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2016,1,2,0,0]]
+}

@@ -10,12 +10,12 @@
 "parsedPrerequisite": {
 " and ": ["YCC2121"]
 },
-"prerequisiteList": ["YCC2121"],
+"prerequisiteList": ["YSS2214"],
 "completePrerequisite": {
-            "name": "YSS3223", 
+            "name": "YSS3224", 
             "children": [
                 {
-                    "name": "YCC2121", 
+                    "name": "YSS2214", 
                     "children": []
                 }
             ]
@@ -25,5 +25,5 @@
 "corequisite": "YCC2121 Modern Social Thought",
 "faculty": "YALE-NUS COLLEGE",
 "department": "YALE-NUS COLLEGE",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,0,2,0,0]]
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,0,2,0,0],[0,0,0,0,0]]
 }

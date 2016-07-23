@@ -7,19 +7,19 @@
             "PC3242",
             "PC3241",
             "PC3243",
-            "PC3231",
-            "ESP4302",
-            "PC3267"
+            "PC3267",
+            "PC3231"
         ],
 "preclusion": "NIL",
-"prerequisite": "Students who have either passed (PC1143 or PC1432) and either (MA1505 and MA1506) or (MA1101R and MA1102R) or equivalent.",
+"prerequisite": "Students who have either passed (PC1143 or PC1432/PC1432X) and either (MA1505 and MA1506) or (MA1101R and MA1102R) or equivalent.",
 "preclusionList": [],
 "parsedPrerequisite": {
             " and ": [
                 {
                     " or ": [
                         "PC1143", 
-                        "PC1432"
+                        "PC1432", 
+                        "PC1432X"
                     ]
                 }, 
                 {
@@ -40,7 +40,7 @@
                 }
             ]
 },
-"prerequisiteList": ["PC1143","PC1432","MA1505","MA1506","MA1102R","MA1521","MA1101R"],
+"prerequisiteList": ["PC1143","PC1432","PC1432X","MA1505","MA1506","MA1102R","MA1521","MA1101R"],
 "completePrerequisite": {
             "name": "PC2131", 
             "children": [
@@ -56,6 +56,10 @@
                                 }, 
                                 {
                                     "name": "PC1432", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "PC1432X", 
                                     "children": []
                                 }
                             ]
@@ -118,5 +122,5 @@
 "corequisite": "-1",
 "faculty": "SCIENCE",
 "department": "PHYSICS",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,1,2,0,0]]
+"history": [[0,0,0,0,0],[2012,1,2,0,0],[2013,1,2,0,0],[2014,1,2,0,0],[2015,1,2,0,0],[2016,1,2,0,0]]
 }

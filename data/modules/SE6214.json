@@ -1,0 +1,22 @@
+{
+"moduleCode": "SE6214",
+"moduleTitle": "Studies In Southeast Asian Politics",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "SE6214", 
+            "children": []
+},
+"moduleDescription": "This module offers theoretical and comparative perspectives on contemporary Southeast Asian politics. It explores the specificities as well as transformations of government institutions, political parties, military institutions, electoral systems, interest groups, and civil society in Southeast Asia in the light of domestic, regional, and international forces and examines some of the theoretical and comparative challenges in analyzing contemporary political dynamics and configurations in the region.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "SOUTHEAST ASIAN STUDIES",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2016,1,0,0,0]]
+}

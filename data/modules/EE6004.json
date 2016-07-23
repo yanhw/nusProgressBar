@@ -1,0 +1,41 @@
+{
+"moduleCode": "EE6004",
+"moduleTitle": "Selected Advanced Topics In EM Modelling",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "EE5302 or EE5308. No restriction to MEng and PhD student.",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " or ": [
+                "EE5302", 
+                "EE5308"
+            ]
+},
+"prerequisiteList": ["EE5302","EE5308"],
+"completePrerequisite": {
+            "name": "EE6004", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "EE5302", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "EE5308", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module caters for the needs of research students working in the field of Microwave & RF circuit and system analysis and design, and electromagnetics. The student will gain an understanding of the following topics: the foundation theory of dyadic Green's functions, followed by detailed formulation and computer implementation with real-world case studies of any two of the following computational methods - Moment and Boundary Element, Finite Element, Finite Difference, Transmission Line and Fast method for Large Systems.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "ELECTRICAL & COMPUTER ENGINEERING",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2014,0,2,0,0],[0,0,0,0,0],[2016,1,0,0,0]]
+}

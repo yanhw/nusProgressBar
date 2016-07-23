@@ -1,0 +1,34 @@
+{
+"moduleCode": "CM4225",
+"moduleTitle": "Organic Spectroscopy",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "CM2121",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["CM2121"]
+},
+"prerequisiteList": ["CM2121","CM1121"],
+"completePrerequisite": {
+            "name": "CM4225", 
+            "children": [
+                {
+                    "name": "CM2121", 
+                    "children": [
+                        {
+                            "name": "CM1121", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module covers modern methods used in structure determination of organic compounds. Topics include mass spectroscopy, infrared spectroscopy, and nuclear magnetic resonance (NMR) spectroscopy. The main focuses of this module are two-dimensional NMR techniques and their applications in the determination of stereochemistry.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCIENCE",
+"department": "CHEMISTRY",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2016,1,0,0,0]]
+}

@@ -1,7 +1,7 @@
 {
 "moduleCode": "SG5233",
 "moduleTitle": "Internet of Things Technology",
-"moduleCredit": "3",
+"moduleCredit": "4",
 "lockedModules":[
 ],
 "preclusion": "NIL",
@@ -10,7 +10,7 @@
 "parsedPrerequisite" : "nil",
 "prerequisiteList": [],
 "completePrerequisite": {
-            "name": "SG5233", 
+            "name": "SH5002", 
             "children": []
 },
 "moduleDescription": "The lowered cost of peripherals and System on a Chip (SOC) computer boards over recent years has fuelled the utilisation and increased return on investment (ROI) of Internet of Things (IoT) devices and related mobileenabled applications. This course is geared to meet the increasing interest in building applications using such devices. The aim of this course is to teach the embedding of sensors and switches into enterprise systems via low priced SOC boards such as the Raspberry PI and/or Arduino Uno. The course pre-requisite is knowledge of the Python programming language.",
@@ -18,5 +18,5 @@
 "corequisite": "-1",
 "faculty": "NON-FACULTY-BASED DEPARTMENTS",
 "department": "INSTITUTE OF SYSTEMS SCIENCE",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,0,2,0,0]]
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,0,2,0,0],[0,0,0,0,0]]
 }

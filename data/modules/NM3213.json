@@ -1,0 +1,22 @@
+{
+"moduleCode": "NM3213",
+"moduleTitle": "Digital Humanities",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "NM3213", 
+            "children": []
+},
+"moduleDescription": "This module will introduce and explore the possibilities of critical practices related to the creative uses of data and visualizations. New methodological approaches in digital humanities and internet research, such as cultural analytics and digital methods, but also design trends related to mashups of web applications, reflect the limits of our abilities to represent and understand various aspects of reality. We will look at these practices as new means of understanding our media and information saturated world.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "COMMUNICATIONS AND NEW MEDIA",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[2013,1,0,0,0],[2014,1,0,0,0],[0,0,0,0,0],[2016,1,0,0,0]]
+}

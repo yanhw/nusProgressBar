@@ -3,21 +3,25 @@
 "moduleTitle": "Mechanical Systems Design I",
 "moduleCredit": "4",
 "lockedModules":[
-            "ME3102"
-        ],
+],
 "preclusion": "NIL",
 "prerequisite": "ME2101",
 "preclusionList": [],
 "parsedPrerequisite": {
 " and ": ["ME2101"]
 },
-"prerequisiteList": ["ME2101"],
+"prerequisiteList": ["ME3101","ME2101"],
 "completePrerequisite": {
-            "name": "ME3101", 
+            "name": "ME3102", 
             "children": [
                 {
-                    "name": "ME2101", 
-                    "children": []
+                    "name": "ME3101", 
+                    "children": [
+                        {
+                            "name": "ME2101", 
+                            "children": []
+                        }
+                    ]
                 }
             ]
 },
@@ -26,5 +30,5 @@
 "corequisite": "-1",
 "faculty": "ENGINEERING",
 "department": "MECHANICAL ENGINEERING",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,1,0,0,0]]
+"history": [[0,0,0,0,0],[2012,1,0,0,0],[2013,1,0,0,0],[2014,1,2,0,0],[2015,1,0,0,0],[0,0,0,0,0]]
 }

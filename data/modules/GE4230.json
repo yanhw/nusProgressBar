@@ -1,0 +1,22 @@
+{
+"moduleCode": "GE4230",
+"moduleTitle": "Greater China",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "Cohort 2011 and before: Completed 80 MCs, including 28 MCs in GE, with a minimum CAP of 3.50 or be on the Honours track. Cohort 2012 onwards: Completed 80 MCs, including 28 MCs in GE with a minimum CAP of 3.20 or be on the Honours track.",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "GE4230", 
+            "children": []
+},
+"moduleDescription": "This module focuses on the political economy and contemporary transformation of Greater China (broadly defined to include the mainland China, Hong Kong and Macau SARs, Taiwan and overseas Chinese communities in Asia) in the contemporary period. By adopting an institutional analysis from new economic geographies, it examines the ways in which state formation (and transformation), business systems, organisational structures and socio-cultural factors account for the geographical processes and outcomes of economic and political changes at various spatial scales. Issues covered include economic development and reforms, the financial and banking system, national business systems, financial crises, technology, foreign direct investment and international trade, governmentbusiness relations, mobility and urbanisation, and geopolitics.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "GEOGRAPHY",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2016,0,2,0,0]]
+}

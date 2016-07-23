@@ -3,15 +3,14 @@
 "moduleTitle": "Devices and Circuits",
 "moduleCredit": "4",
 "lockedModules":[
-            "EE4509",
-            "EE4412",
-            "EE4411",
+            "EE3409",
             "EE3407",
-            "EE4432",
+            "EE4435",
             "EE4434",
-            "EE4408",
+            "EE4437",
+            "EE4436",
+            "EE4438",
             "EE3408C",
-            "EE4505",
             "EE2031"
         ],
 "preclusion": "EE2004 and EE2005",
@@ -55,5 +54,5 @@
 "corequisite": "NIL",
 "faculty": "ENGINEERING",
 "department": "ELECTRICAL & COMPUTER ENGINEERING",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,1,2,0,0]]
+"history": [[0,0,0,0,0],[2012,1,2,0,0],[2013,1,2,0,0],[2014,1,2,0,0],[2015,1,2,0,0],[2016,1,2,0,0]]
 }

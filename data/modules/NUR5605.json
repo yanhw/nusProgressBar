@@ -1,0 +1,43 @@
+{
+"moduleCode": "NUR5605",
+"moduleTitle": "Advanced Practice Nursing III (Paediatrics)",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "NUR5603 Advanced Practice Nursing I (Paediatrics)",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["NUR5603"]
+},
+"prerequisiteList": ["NUR5603","NUR5601","NUR5602"],
+"completePrerequisite": {
+            "name": "NUR5605", 
+            "children": [
+                {
+                    "name": "NUR5603", 
+                    "children": [
+                        {
+                            "name": "and", 
+                            "children": [
+                                {
+                                    "name": "NUR5601", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "NUR5602", 
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module aims to provide students with an in-depth study of the theoretical knowledge and evidence-based skills needed by the paediatric advanced practice nurse in diagnosing and managing physiology alterations involving the otolaryngo-logical and, ophthalmology, orthopaedics, musculo-skeletal, renal, genetic and reproductive disorders in the paediatric population in the hospital as well as in primary care setting. It focuses on pathologies that may involve these systems of the body. Through continuous didactic learning sessions reinforced by a \u2018Team-Lead approach\u2019, the students will share learned knowledge and debate viable therapeutic answers to apply principles into practice. This will enhance their competency in planning, implementing and evaluating care for complex paediatric conditions in appropriate settings.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "YONG LOO LIN SCHOOL OF MEDICINE",
+"department": "NURSING/ALICE LEE CTR FOR NURSING STUD",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2016,0,2,0,0]]
+}

@@ -1,0 +1,22 @@
+{
+"moduleCode": "PH2203",
+"moduleTitle": "Major Moral Philosophers",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "PH2203", 
+            "children": []
+},
+"moduleDescription": "This module will introduce students to some of the major moral philosophers in the Western tradition by examining their different approaches to the question of what we should do or how we should be, including deontological, consequentialist and virtue-based approaches. We will critically analyze these philosophers\u2019 approaches using historical and contemporary sources.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "PHILOSOPHY",
+"history": [[0,0,0,0,0],[2012,0,2,0,0],[2013,1,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2016,1,0,0,0]]
+}

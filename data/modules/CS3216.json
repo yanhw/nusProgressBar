@@ -1,6 +1,6 @@
 {
 "moduleCode": "CS3216",
-"moduleTitle": "Software Development on Evolving Platforms",
+"moduleTitle": "Software Product Engineering for Digital Markets",
 "moduleCredit": "5",
 "lockedModules":[
 ],
@@ -52,10 +52,10 @@
                 }
             ]
 },
-"moduleDescription": "This module is a follow-up of CS3217 on the practice of software engineering on modern application platforms such as mobile devices, the Web and cloud systems. Students will work in small project teams to develop well-tested, production-quality software. This module focuses on the design and rapid iterative development of real-world applications. Students will analyse user needs, design and develop applications that meet user needs, and address user feedback of the applications. Students will also learn rapid development using APIs, Open Source tools and other modern tools, and deployment of the applications in the Web or cloud system.",
+"moduleDescription": "In this module, students will practice software product engineering by working in small teams to develop well-tested, user-friendly, production-quality software for the real world. To support this goal, students work closely with users to understand their problems, gather their requirements, and obtain their feedback through a rapid, iterative, application design and development process. Students will also be exposed to practical issues for digital markets such as growing the user base of their application, deployment of the application on the Web or in the cloud system, and validating the UI design and UX of the application.",
 "crossModule": "-1",
 "corequisite": "-1",
 "faculty": "SCHOOL OF COMPUTING",
 "department": "COMPUTER SCIENCE",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,1,0,0,0]]
+"history": [[0,0,0,0,0],[0,0,0,0,0],[2013,1,0,0,0],[2014,1,0,0,0],[2015,1,0,0,0],[2016,1,0,0,0]]
 }

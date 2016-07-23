@@ -1,0 +1,172 @@
+{
+"moduleCode": "CS6280",
+"moduleTitle": "Datacentre Software Dynamics",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "(CS2010 Data Structures and Algorithms II or CS2020 Data Structures and Algorithms (Accelerated)) and CS2100 Computer Organisation and CS3211 Parallel and Concurrent Programming.",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " and ": [
+                {
+                    " or ": [
+                        "CS2010", 
+                        "CS2020"
+                    ]
+                }, 
+                "CS2100", 
+                "CS3211"
+            ]
+},
+"prerequisiteList": ["CS2010","CS1020","CS1010","CS1020E","CS1010E","CG1103","CS2020","CS2100","CS3211","CS2106","EE2007","EE2024","EE2020","EE1002","CG1108","EG1108","CG2271"],
+"completePrerequisite": {
+            "name": "CS6280", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "or", 
+                            "children": [
+                                {
+                                    "name": "CS2010", 
+                                    "children": [
+                                        {
+                                            "name": "or", 
+                                            "children": [
+                                                {
+                                                    "name": "CS1020", 
+                                                    "children": [
+                                                        {
+                                                            "name": "CS1010", 
+                                                            "children": []
+                                                        }
+                                                    ]
+                                                }, 
+                                                {
+                                                    "name": "CS1020E", 
+                                                    "children": [
+                                                        {
+                                                            "name": "CS1010E", 
+                                                            "children": []
+                                                        }
+                                                    ]
+                                                }, 
+                                                {
+                                                    "name": "CG1103", 
+                                                    "children": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }, 
+                                {
+                                    "name": "CS2020", 
+                                    "children": []
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "CS2100", 
+                            "children": [
+                                {
+                                    "name": "CS1010", 
+                                    "children": []
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "CS3211", 
+                            "children": [
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "CS2106", 
+                                            "children": [
+                                                {
+                                                    "name": "or", 
+                                                    "children": [
+                                                        {
+                                                            "name": "CS2100", 
+                                                            "children": [
+                                                                {
+                                                                    "name": "CS1010", 
+                                                                    "children": []
+                                                                }
+                                                            ]
+                                                        }, 
+                                                        {
+                                                            "name": "EE2007", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "EE2024", 
+                                                            "children": [
+                                                                {
+                                                                    "name": "and", 
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "EE2020", 
+                                                                            "children": [
+                                                                                {
+                                                                                    "name": "or", 
+                                                                                    "children": [
+                                                                                        {
+                                                                                            "name": "EE1002", 
+                                                                                            "children": []
+                                                                                        }, 
+                                                                                        {
+                                                                                            "name": "CG1108", 
+                                                                                            "children": []
+                                                                                        }, 
+                                                                                        {
+                                                                                            "name": "EG1108", 
+                                                                                            "children": []
+                                                                                        }
+                                                                                    ]
+                                                                                }
+                                                                            ]
+                                                                        }, 
+                                                                        {
+                                                                            "name": "CS1010E", 
+                                                                            "children": []
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "CG2271", 
+                                            "children": [
+                                                {
+                                                    "name": "CS1020", 
+                                                    "children": [
+                                                        {
+                                                            "name": "CS1010", 
+                                                            "children": []
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "Datacenter computing favors response time over throughput. Controlling slow response times results in more efficient server use, which is worth literally millions of dollars within the datacenter industry. This module focuses on understanding and controlling the sources of latency in a datacentre, especially the long-tail delays that ruin a user experience. The module offers a hands on component where students will perform measurement studies on the latency of various software and hardware subsystems, and investigate the unexpected ways that these layers interact.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF COMPUTING",
+"department": "COMPUTER SCIENCE",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2016,1,0,0,0]]
+}

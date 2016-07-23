@@ -1,0 +1,29 @@
+{
+"moduleCode": "NUR5503",
+"moduleTitle": "Advanced Practice Nursing III (Acute Care)",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "MDN5122 Advanced Practice Nursing I MDN5123 Advanced Practice Nursing II",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["MDN5123"]
+},
+"prerequisiteList": ["MDN5123"],
+"completePrerequisite": {
+            "name": "NUR5503", 
+            "children": [
+                {
+                    "name": "MDN5123", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "This module focuses on the development of theoretical and evidencebased skills and knowledge for advanced nursing practice in the diagnosis and management of alterations in various systems commonly seen in the critically ill patients. Through ongoing clinical practice, students will develop the attitude, skills and knowledge required for planning, implementing and evaluating care for critically ill patients with complex conditions.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "YONG LOO LIN SCHOOL OF MEDICINE",
+"department": "NURSING/ALICE LEE CTR FOR NURSING STUD",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2014,0,2,0,0],[0,0,0,0,0],[2016,0,2,0,0]]
+}

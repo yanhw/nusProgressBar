@@ -1,7 +1,7 @@
 {
 "moduleCode": "MA2992",
 "moduleTitle": "Exchange Enrichment Module",
-"moduleCredit": "4",
+"moduleCredit": "3",
 "lockedModules":[
 ],
 "preclusion": "NIL",
@@ -10,7 +10,7 @@
 "parsedPrerequisite" : "nil",
 "prerequisiteList": [],
 "completePrerequisite": {
-            "name": "MA2992", 
+            "name": "MA2993", 
             "children": []
 },
 

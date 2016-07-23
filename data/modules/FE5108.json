@@ -10,7 +10,7 @@
 "parsedPrerequisite" : "nil",
 "prerequisiteList": [],
 "completePrerequisite": {
-            "name": "FE5108", 
+            "name": "FE5110", 
             "children": []
 },
 "moduleDescription": "This module is a core module for students of MSc in Financial Engineering. The topics include: Portfolio Optimisation Theory. Capital Asset Pricing Models. Arbitrage Pricing Theories. Factor Models. Market Neutral Strategies. Abnormalities and Market Mispricing. Asset Allocation and Dynamic Portfolio Optimization. Portfolio Insurance Problems and Global Funds Management.",
@@ -18,5 +18,5 @@
 "corequisite": "-1",
 "faculty": "SPECIALITY RESEARCH INSTITUTES/CENTRES",
 "department": "RISK MANAGEMENT INSTITUTE",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,1,0,0,0]]
+"history": [[0,0,0,0,0],[0,0,0,0,0],[2013,1,0,0,0],[2014,1,0,0,0],[2015,1,0,0,0],[0,0,0,0,0]]
 }

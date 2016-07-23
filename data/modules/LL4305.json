@@ -1,0 +1,26 @@
+{
+"moduleCode": "LL4305",
+"moduleTitle": "IP and Human Rights",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "LL4305V/LL5305V/LL6305V IP and Human Rights",
+"prerequisite": "NUS Compulsory Core Law Curriculum or equivalent. Students should ideally have taken a module in intellectual property or concurrently enrolled in one.",
+"preclusionList": [
+            "LL5305V",
+            "LL6305V",
+            "LL4305V"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "LL4305", 
+            "children": []
+},
+"moduleDescription": "This course anlayzes connections between human rights and intellectual property. While these bodies of law developed on separate tracks, the relationship between them has now captured the attention of government officials, judges, civil society groups, legal scholars and international agencies, including the World Intellectual Property Organization, the United Nations Human Rights Council, the Committee on Economic, Social and Cultural Rights, and the Food and Agriculture Organization. The course will be of interest to those interested in intellectual property and/or human rights.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "LAW",
+"department": "LAW",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2016,0,2,0,0]]
+}

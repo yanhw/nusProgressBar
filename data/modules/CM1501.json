@@ -3,14 +3,15 @@
 "moduleTitle": "Organic Chemistry for Engineers",
 "moduleCredit": "4",
 "lockedModules":[
-            "MLE3104",
             "FST2102B",
-            "BN3402"
+            "BN3402",
+            "MLE3104"
         ],
-"preclusion": "CM1121, CM1503",
-"prerequisite": "'A' level or H2 pass in Chemistry, or equivalent or CM1417",
+"preclusion": "CM1121, CM1503, CM1401",
+"prerequisite": "'A' level or H2 pass in Chemistry or equivalent or CM1417 /CM1417X",
 "preclusionList": [
             "CM1503",
+            "CM1401",
             "CM1121"
         ],
 "parsedPrerequisite" : "nil",
@@ -24,5 +25,5 @@
 "corequisite": "-1",
 "faculty": "SCIENCE",
 "department": "CHEMISTRY",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,1,0,0,0]]
+"history": [[0,0,0,0,0],[0,0,0,0,0],[2013,1,0,0,0],[2014,1,0,0,0],[2015,1,0,0,0],[2016,1,0,0,0]]
 }

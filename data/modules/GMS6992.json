@@ -1,0 +1,22 @@
+{
+"moduleCode": "GMS6992",
+"moduleTitle": "Thesis (HSSR)",
+"moduleCredit": "19",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "GMS6992", 
+            "children": []
+},
+
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "DUKE-NUS MEDICAL SCHOOL",
+"department": "DUKE-NUS MEDICAL SCHOOL",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2016,1,2,0,0]]
+}

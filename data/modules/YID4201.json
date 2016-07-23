@@ -1,7 +1,7 @@
 {
 "moduleCode": "YID4201",
 "moduleTitle": "Advanced Seminar in Environmental Studies",
-"moduleCredit": "5",
+"moduleCredit": "2",
 "lockedModules":[
 ],
 "preclusion": "NIL",
@@ -10,25 +10,15 @@
 "parsedPrerequisite": {
 " and ": ["YID2201"]
 },
-"prerequisiteList": ["YID2201","YID1201"],
+"prerequisiteList": [],
 "completePrerequisite": {
-            "name": "YID4201", 
-            "children": [
-                {
-                    "name": "YID2201", 
-                    "children": [
-                        {
-                            "name": "YID1201", 
-                            "children": []
-                        }
-                    ]
-                }
-            ]
+            "name": "YIL1201I", 
+            "children": []
 },
 "moduleDescription": "A small-group, intensive seminar in a specific environmental topic or theme of relevance to advanced students in environmental studies. The topics covered within the course will be detailed in the syllabus given to a student in advance of the course. The faculty teaching the course will change and as such topics will change according to their specialisms and interests. For Semester One in 2015/2016, Professor Wargo from the Environmental Science program at Yale College will offer a specialized course on environmental policy and law.",
 "crossModule": "-1",
 "corequisite": "-1",
 "faculty": "YALE-NUS COLLEGE",
 "department": "YALE-NUS COLLEGE",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,1,0,0,0]]
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,1,0,0,0],[0,0,0,0,0]]
 }

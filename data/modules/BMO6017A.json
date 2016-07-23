@@ -1,7 +1,7 @@
 {
 "moduleCode": "BMO6017A",
 "moduleTitle": "Human Resource Management Seminar: Challenges",
-"moduleCredit": "2",
+"moduleCredit": "4",
 "lockedModules":[
 ],
 "preclusion": "NIL",
@@ -10,7 +10,7 @@
 "parsedPrerequisite" : "nil",
 "prerequisiteList": [],
 "completePrerequisite": {
-            "name": "BMO6017A", 
+            "name": "BMP5001", 
             "children": []
 },
 "moduleDescription": "The fast changing technology and economics in the world have put pressure on organizations to adapt their Human Resource (HR) system accordingly. The current module will sample emerging trends in personnel management and try to build practical relevance of Human Resource Management research. We will discuss issues such as different HRIR systems, sustainability, learning organizations, HRM in different types of organizations (government agencies, NGOs, etc.) global human capital management, etc. in the class.",
@@ -18,5 +18,5 @@
 "corequisite": "-1",
 "faculty": "SCHOOL OF BUSINESS",
 "department": "MANAGEMENT AND ORGANISATION",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,1,0,0,0]]
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,1,0,0,0],[0,0,0,0,0]]
 }

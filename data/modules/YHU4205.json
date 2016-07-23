@@ -1,0 +1,29 @@
+{
+"moduleCode": "YHU4205",
+"moduleTitle": "Modern Poetry: Yeats, Eliot, Auden",
+"moduleCredit": "2",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "YCC1112 Literature and Humanities 2",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["YCC1112"]
+},
+"prerequisiteList": ["YCC1112"],
+"completePrerequisite": {
+            "name": "YHU4205", 
+            "children": [
+                {
+                    "name": "YCC1112", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "This course covers a close interpretation of three major poets in the English language of the 20th century. There will be two sessions each on three major poets who reshaped modern English poetry and also influenced poetry in other languages: W. B. Yeats, T. S. Eliot, and W. H. Auden. While a wide range of their poems will be assigned for reading, with some optional biographies and critical works, the bulk of the course will be spent in close reading of a relatively small number of the greatest poems in the English language of the 20th century.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "YALE-NUS COLLEGE",
+"department": "YALE-NUS COLLEGE",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2016,1,0,0,0]]
+}

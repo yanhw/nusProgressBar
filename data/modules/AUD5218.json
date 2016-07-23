@@ -1,0 +1,60 @@
+{
+"moduleCode": "AUD5218",
+"moduleTitle": "Clinical Audiology B (Part 1)",
+"moduleCredit": "3",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "AUD5105 & AUD5111: Hearing Devices and Rehabilitation A AUD5106 & AUD5112: Clinical Audiology A AUD5107 & AUD5113: Paediatric Audiology A AUD5108 & AUD5114: Electrophysiological Assessment A & B",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " and ": [
+                "AUD5113", 
+                "AUD5108", 
+                "AUD5114"
+            ]
+},
+"prerequisiteList": ["AUD5113","AUD5108","AUD5114","AUD5107"],
+"completePrerequisite": {
+            "name": "AUD5218", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "AUD5113", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "AUD5108", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "AUD5114", 
+                            "children": [
+                                {
+                                    "name": "and", 
+                                    "children": [
+                                        {
+                                            "name": "AUD5107", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "AUD5108", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This subject builds on the knowledge obtained in the Clinical Audiology A subject. Students will participate in problem based learning case discussions encompassing the evaluation and management of patients in the areas of advanced diagnostic assessment of hearing and balance disorders and hearing aid fitting and evaluation. This module comprises the following topics: professionalism, ethics and clinical communication, industrial audiology, acoustic shock and the prevention of hearing loss in the music industry; and a review of audiological integration and management.",
+"crossModule": "-1",
+"corequisite": "AUD5217: Hearing Devices and Rehabilitation B (Part 1); AUD5118: Paediatric Audiology B (Part 1)",
+"faculty": "YONG LOO LIN SCHOOL OF MEDICINE",
+"department": "DIVISION OF GRADUATE MEDICAL STUDIES",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2014,1,0,0,0],[0,0,0,0,0],[2016,1,0,0,0]]
+}

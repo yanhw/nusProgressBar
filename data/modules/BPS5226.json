@@ -1,0 +1,22 @@
+{
+"moduleCode": "BPS5226",
+"moduleTitle": "Smart Buildings and Facilities",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "BPS5226", 
+            "children": []
+},
+"moduleDescription": "This module aims to provide the concept and principles of smart buildings and facilities. It discusses the concept of how building performance can be optimized using software and hardware. Students are exposed to building control systems, software, analytics and several case studies are discussed.",
+"crossModule": "-1",
+"corequisite": "None",
+"faculty": "SCHOOL OF DESIGN AND ENVIRONMENT",
+"department": "BUILDING",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2016,0,2,0,0]]
+}

@@ -1,0 +1,24 @@
+{
+"moduleCode": "IE4100R",
+"moduleTitle": "B.Eng.Dissertation",
+"moduleCredit": "8",
+"lockedModules":[
+],
+"preclusion": "IE4102",
+"prerequisite": "ISE B.Eng. 4 standing",
+"preclusionList": [
+            "IE4102"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "IE4100R", 
+            "children": []
+},
+"moduleDescription": "The objective of the module is to give students exposure to research. In this module, each student is assigned to a research project that requires application of industrial and systems engineering concepts. The module provides the opportunity for students to conduct self study by reviewing literature, defining a problem, analyzing the problem critically, conducting design of experiments, and recommending solutions. It also enables students to improve their communication skills through technical report writing and oral presentation.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "INDUSTRIAL & SYSTEMS ENGINEERING",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2016,1,2,0,0]]
+}

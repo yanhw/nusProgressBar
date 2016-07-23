@@ -3,10 +3,7 @@
 "moduleTitle": "Computer Control Systems",
 "moduleCredit": "4",
 "lockedModules":[
-            "EE6201",
-            "EE6107",
-            "EE5201"
-        ],
+],
 "preclusion": "NIL",
 "prerequisite" : "NIL",
 "preclusionList": [],
@@ -21,5 +18,5 @@
 "corequisite": "-1",
 "faculty": "ENGINEERING",
 "department": "ELECTRICAL & COMPUTER ENGINEERING",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,1,0,0,0]]
+"history": [[0,0,0,0,0],[0,0,0,0,0],[2013,1,0,0,0],[2014,1,0,0,0],[2015,1,0,0,0],[2016,1,0,0,0]]
 }

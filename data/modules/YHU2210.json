@@ -11,12 +11,12 @@
 "parsedPrerequisite": {
 " and ": ["YHU2205"]
 },
-"prerequisiteList": ["YHU2205"],
+"prerequisiteList": ["YLC2202"],
 "completePrerequisite": {
-            "name": "YHU2210", 
+            "name": "YHU2212", 
             "children": [
                 {
-                    "name": "YHU2205", 
+                    "name": "YLC2202", 
                     "children": []
                 }
             ]
@@ -26,5 +26,5 @@
 "corequisite": "-1",
 "faculty": "YALE-NUS COLLEGE",
 "department": "YALE-NUS COLLEGE",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,0,2,0,0]]
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,0,2,0,0],[0,0,0,0,0]]
 }

@@ -1,7 +1,7 @@
 {
 "moduleCode": "SX3988",
 "moduleTitle": "Lake Ecosystem Dynamics",
-"moduleCredit": "4",
+"moduleCredit": "6",
 "lockedModules":[
 ],
 "preclusion": "NIL",
@@ -10,7 +10,7 @@
 "parsedPrerequisite" : "nil",
 "prerequisiteList": [],
 "completePrerequisite": {
-            "name": "SX3988", 
+            "name": "SX3991", 
             "children": []
 },
 

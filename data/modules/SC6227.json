@@ -1,0 +1,22 @@
+{
+"moduleCode": "SC6227",
+"moduleTitle": "Economy and Society",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "SC6227", 
+            "children": []
+},
+"moduleDescription": "This module covers all aspects of work, employment, and unemployment and their connections with wider social processes and social structures. The changing nature of work under global restructuring will provide the background context to this module, while the intersection of work and the contemporary family will take the center stage. Understanding of the ongoing changes in work and family in industrial societies contributes to the effective management of change at both the national and individual levels. The module will also discuss the nature of time use in contemporary social life, including the changing patterns of work, leisure and consumption.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "SOCIOLOGY",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2016,0,2,0,0]]
+}

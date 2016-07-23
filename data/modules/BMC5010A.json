@@ -1,0 +1,22 @@
+{
+"moduleCode": "BMC5010A",
+"moduleTitle": "Corporate Finance",
+"moduleCredit": "3",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "BMC5010A", 
+            "children": []
+},
+"moduleDescription": "This module equips students with the frameworks and approaches to diagnose the financial status and health of a company by analyzing its financial statements. Based on the diagnostic, various potential remedies to improve the financial health of a company are discussed. The module will pay particular attentions on the similarities and differences among Singapore, Chinese and other foreign companies, focusing on publicly listed companies. The module will also explore specific issues such as merger and acquisition, and various forms of corporate financing.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF BUSINESS",
+"department": "DEAN'S OFFICE (BIZ)",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2014,0,2,0,0],[0,0,0,0,0],[2016,1,0,0,0]]
+}

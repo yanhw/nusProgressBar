@@ -1,0 +1,55 @@
+{
+"moduleCode": "EL3251",
+"moduleTitle": "Language, Society and Identity",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "EL2151 or EL2251",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " or ": [
+                "EL2151", 
+                "EL2251"
+            ]
+},
+"prerequisiteList": ["EL2151","EL1101E","GEK1011","EL2251"],
+"completePrerequisite": {
+            "name": "EL3251", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "EL2151", 
+                            "children": [
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "EL1101E", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "GEK1011", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "EL2251", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "Each of us occupies a number of different identities at any one time: Singaporean, foreigner, male, female, student, native speaker, etc. These identities are not merely how we categorize ourselves; they are also ways in which OTHERS classify us. Consequently, our identities serve a GATEKEEPING function in society, allowing us selective access to social and economic goods. This introductory module examines how language helps construct identities, and how identities themselves can construct what counts as a language. Students will understand how processes such as group differentiation and the distribution of cultural capital are negotiated, legitimized, and ultimately, ideologized.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "ENGLISH LANGUAGE & LITERATURE",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2016,0,2,0,0]]
+}

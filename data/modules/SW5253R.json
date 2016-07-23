@@ -1,0 +1,22 @@
+{
+"moduleCode": "SW5253R",
+"moduleTitle": "Volunteer Management",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "SW5253R", 
+            "children": []
+},
+"moduleDescription": "The values and principles for volunteer management are outlined in this module. Volunteer training and development including delegation, supervision, recognition, etc are included.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "SOCIAL WORK",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[2013,0,2,0,0],[0,0,0,0,0],[0,0,0,0,0],[2016,0,2,0,0]]
+}

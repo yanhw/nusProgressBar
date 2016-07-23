@@ -1,0 +1,22 @@
+{
+"moduleCode": "DSA1101",
+"moduleTitle": "Introduction to Data Science",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "H2 pass in Mathematics or equivalent This module is offered only to DSA students",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "DSA1101", 
+            "children": []
+},
+"moduleDescription": "This module is designed to provide a basic introduction to data science along with real examples and case studies from both academic and industrial sources, in areas as diverse as finance, biological sciences, physics and pharmacy.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCIENCE",
+"department": "STATISTICS & APPLIED PROBABILITY",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2016,0,2,0,0]]
+}

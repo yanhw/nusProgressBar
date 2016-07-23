@@ -1,0 +1,22 @@
+{
+"moduleCode": "LSM1105",
+"moduleTitle": "Evolutionary Biology",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "GCE \u2018A\u2019 Level or H2 Biology or equivalent, or LSM1301 or LSM1301FC or LSM1301X",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "LSM1105", 
+            "children": []
+},
+"moduleDescription": "Evolutionary biology covers the history of life on our planet and the processes that produced the multiple life forms of Earth. Topics include: the origins of life, the eukaryotic cell, and multicellularity; the generation of genetic variation and the sorting of that variation through random processes and through natural and sexual selection; the origin of new traits, new life histories, and new species; the origins of sex, sociality, and altruism; the evolution of humans; and applications of evolutionary biology to solving modern-day problems.",
+"crossModule": "-1",
+"corequisite": "Nil",
+"faculty": "SCIENCE",
+"department": "BIOLOGICAL SCIENCES",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2016,1,2,0,0]]
+}

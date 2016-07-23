@@ -1,0 +1,24 @@
+{
+"moduleCode": "CH3221",
+"moduleTitle": "Selected Readings in Chinese Verse",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "CL3221",
+"prerequisite": "Must obtain: 1) At least a B4 for (a) Higher Chinese at GCE 'O' Level, or (b) Chinese Language at GCE 'AO' Level (at GCE 'A' Level examination); OR 2) At least a pass for (a) Chinese at GCE 'A' Level, or (b) Higher Chinese at GCE 'A' Level; OR 3) At least C grade for Chinese Language (H1CL) at GCE 'A' Level; OR 4) At least a pass for (a) Chinese Language and Literature (H2CLL) at GCE 'A' Level, or (b) Chinese Language and Literature (H3CLL) at GCE 'A' Level. 5) Equivalent qualifications may be accepted.",
+"preclusionList": [
+            "CL3221"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "CH3221", 
+            "children": []
+},
+"moduleDescription": "This module aims at promoting students' ability in reading and analyzing Chinese poetry. Various Chinese poetic themes, forms, styles and techniques are discussed through the analysis of selected poems of different periods. The course is provided for students who already have basic reading ability in classical Chinese and wish to advance their knowledge in Chinese rhymeprose and poetry.",
+        "CrossModule": "CL3221", 
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "CHINESE STUDIES",
+"history": [[0,0,0,0,0],[2012,1,0,0,0],[0,0,0,0,0],[2014,1,0,0,0],[0,0,0,0,0],[2016,0,2,0,0]]
+}

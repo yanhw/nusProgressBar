@@ -1,0 +1,41 @@
+{
+"moduleCode": "YHU2251",
+"moduleTitle": "Classical Indian Philosophy of Language",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "YCC1113 Philosophy and Political Thought 1 & YCC1114 Philosophy and Political Thought 2, or equivalent.",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " and ": [
+                "YCC1113", 
+                "YCC1114"
+            ]
+},
+"prerequisiteList": ["YCC1113","YCC1114"],
+"completePrerequisite": {
+            "name": "YHU2251", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "YCC1113", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "YCC1114", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "Classical Indian Philosophy introduces students to major topics in linguistic analysis within the traditions of India. This course focuses on two questions: What is linguistic meaning? How do we understand what is meant? As the former question is embedded within the latter for Indian thinkers, the first third of the course will be spent on epistemology of testimony in Nyaya and Mima\u00bfsa. The middle third of the course takes up the question of what meaning(s) are primary, both in terms of words and sentences. In the final third, we address meanings beyond primary: metaphor, bitextuality (punning), and suggested meaning.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "YALE-NUS COLLEGE",
+"department": "YALE-NUS COLLEGE",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2016,1,0,0,0]]
+}

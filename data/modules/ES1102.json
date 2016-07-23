@@ -5,19 +5,18 @@
 "lockedModules":[
             "ES2007D",
             "ES1601",
-            "GEK1901",
             "IS2101",
             "CS2101",
             "ES2331",
-            "GET1006",
             "ENV1202"
         ],
-"preclusion": "AR1000, BE1000, ID1000, ET1000/NK1001/EA1101/EG1471/ES1301/ES1101, EM1101.",
-"prerequisite": "Placement through the Qualifying English Test or a pass in ES1000.",
+"preclusion": "AR1000, BE1000, ID1000, ET1000/NK1001/EA1101/EG1471/ES1301/ES1101, EM1101, ES1103.",
+"prerequisite": "1. Placement through the Qualifying English Test or a pass in ES1000. 2. Only students who matriculated in AY2015/2016 and before are allowed to take ES1102.",
 "preclusionList": [
             "AR1000",
             "EA1101",
             "ES1101",
+            "ES1103",
             "NK1001",
             "ID1000",
             "EM1101",
@@ -37,5 +36,5 @@
 "corequisite": "NIL",
 "faculty": "NON-FACULTY-BASED DEPARTMENTS",
 "department": "CTR FOR ENGLISH LANGUAGE COMMUNICATION",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,1,2,0,0]]
+"history": [[0,0,0,0,0],[2012,1,2,0,0],[2013,1,2,0,0],[2014,1,2,0,0],[2015,1,2,0,0],[2016,1,2,0,0]]
 }

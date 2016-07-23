@@ -1,0 +1,22 @@
+{
+"moduleCode": "BMK6112",
+"moduleTitle": "Dynamic Structural Models in Marketing and Economics",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "BMK6112", 
+            "children": []
+},
+"moduleDescription": "In the recent decade, dynamic structural models start to receive growing attentions in Marketing and Economics. In this module, we extensively discuss the classic examples and the recent advancements of these models. The module comprise two parts: (I) single-agent dynamic models and (II) dynamic games, with empirical applications in economics and marketing.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF BUSINESS",
+"department": "MARKETING",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[2013,0,2,0,0],[2014,0,2,0,0],[0,0,0,0,0],[2016,0,2,0,0]]
+}

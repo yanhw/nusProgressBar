@@ -3,8 +3,7 @@
 "moduleTitle": "Hearing Devices and Rehabilitation A - Part 1",
 "moduleCredit": "3",
 "lockedModules":[
-            "AUD5111",
-            "AUD5112"
+            "AUD5113"
         ],
 "preclusion": "NIL",
 "prerequisite": "AUD5101: Acoustics AUD5104: Perception of Sound and Speech",
@@ -12,13 +11,22 @@
 "parsedPrerequisite": {
 " and ": ["AUD5104"]
 },
-"prerequisiteList": ["AUD5104"],
+"prerequisiteList": ["AUD5103","AUD5104"],
 "completePrerequisite": {
-            "name": "AUD5105", 
+            "name": "AUD5106", 
             "children": [
                 {
-                    "name": "AUD5104", 
-                    "children": []
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "AUD5103", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "AUD5104", 
+                            "children": []
+                        }
+                    ]
                 }
             ]
 },
@@ -27,5 +35,5 @@
 "corequisite": "AUD5106: Clinical Audiology",
 "faculty": "YONG LOO LIN SCHOOL OF MEDICINE",
 "department": "DIVISION OF GRADUATE MEDICAL STUDIES",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,1,0,0,0]]
+"history": [[0,0,0,0,0],[0,0,0,0,0],[2013,1,0,0,0],[0,0,0,0,0],[2015,1,0,0,0],[0,0,0,0,0]]
 }

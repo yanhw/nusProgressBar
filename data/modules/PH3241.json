@@ -4,11 +4,9 @@
 "moduleCredit": "4",
 "lockedModules":[
 ],
-"preclusion": "PH3212",
+"preclusion": "NIL",
 "prerequisite": "PH2241 or PH2242 or PH3210",
-"preclusionList": [
-            "PH3212"
-        ],
+"preclusionList": [],
 "parsedPrerequisite": {
             " or ": [
                 "PH2241", 
@@ -16,23 +14,19 @@
                 "PH3210"
             ]
 },
-"prerequisiteList": ["PH2241","PH2242","PH3210"],
+"prerequisiteList": ["PH2110","GEM2006"],
 "completePrerequisite": {
-            "name": "PH3241", 
+            "name": "PH3246", 
             "children": [
                 {
                     "name": "or", 
                     "children": [
                         {
-                            "name": "PH2241", 
+                            "name": "PH2110", 
                             "children": []
                         }, 
                         {
-                            "name": "PH2242", 
-                            "children": []
-                        }, 
-                        {
-                            "name": "PH3210", 
+                            "name": "GEM2006", 
                             "children": []
                         }
                     ]
@@ -44,5 +38,5 @@
 "corequisite": "-1",
 "faculty": "ARTS & SOCIAL SCIENCES",
 "department": "PHILOSOPHY",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,0,2,0,0]]
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,0,2,0,0],[0,0,0,0,0]]
 }

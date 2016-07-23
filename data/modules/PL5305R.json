@@ -1,0 +1,36 @@
+{
+"moduleCode": "PL5305R",
+"moduleTitle": "Advanced Social Psychology",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "PL6223",
+"prerequisite": "PL3235 or consent of instructor",
+"preclusionList": [
+            "PL6223"
+        ],
+"parsedPrerequisite": {
+" and ": ["PL3235"]
+},
+"prerequisiteList": ["PL3235","PL1101E"],
+"completePrerequisite": {
+            "name": "PL5305R", 
+            "children": [
+                {
+                    "name": "PL3235", 
+                    "children": [
+                        {
+                            "name": "PL1101E", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "The aim of this module is to provide postgraduate students with an in depth knowledge of selected topics in social psychology, such as social influence, interpersonal relationships and applied social psychology. This knowledge is based on both a historical perspective and an overview of the current research and theory in this field. Students will read a sampling of classic articles as well as review current research and theory on selected topics. Classes will consist of lectures, discussion and student presentations.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "PSYCHOLOGY",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2016,1,0,0,0]]
+}

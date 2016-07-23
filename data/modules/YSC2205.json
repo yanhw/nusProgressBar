@@ -13,25 +13,15 @@
 "parsedPrerequisite": {
 " and ": ["YCC2133"]
 },
-"prerequisiteList": ["YCC2133","YCC1132"],
+"prerequisiteList": [],
 "completePrerequisite": {
-            "name": "YSC2205", 
-            "children": [
-                {
-                    "name": "YCC2133", 
-                    "children": [
-                        {
-                            "name": "YCC1132", 
-                            "children": []
-                        }
-                    ]
-                }
-            ]
+            "name": "YSC2206", 
+            "children": []
 },
 "moduleDescription": "Mathematical Methods for Physical Scientists: This module introduces important mathematical methods that are essential for treating a variety of problems in the physical sciences. Topics could include vector calculus, linear algebra, differential equations, complex analysis, integral transforms, curvilinear coordinates, and calculus of variations. The module will focus on aspects of each topic pertinent to the physical sciences.",
 "crossModule": "-1",
 "corequisite": "-1",
 "faculty": "YALE-NUS COLLEGE",
 "department": "YALE-NUS COLLEGE",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,0,2,0,0]]
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2014,0,2,0,0],[2015,0,2,0,0],[0,0,0,0,0]]
 }

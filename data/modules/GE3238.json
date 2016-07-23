@@ -1,0 +1,30 @@
+{
+"moduleCode": "GE3238",
+"moduleTitle": "GIS Design and Practices",
+"moduleCredit": "4",
+"lockedModules":[
+            "GE3550A"
+        ],
+"preclusion": "NIL",
+"prerequisite": "GE2215",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["GE2215"]
+},
+"prerequisiteList": ["GE2215"],
+"completePrerequisite": {
+            "name": "GE3238", 
+            "children": [
+                {
+                    "name": "GE2215", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "This module examines the range of considerations necessary to develop GIS, and is intended for geographers, planners, IT managers and computer scientists who have already acquired an introductory knowledge of the field. The module begins with a formal understanding of data and information and compares spatial data to traditional data processing. Topics covered are representation and storage of spatial data, database design, Internet GIS, and/or basic GIS programming. Students will obtain substantial hands-on GIS skills in support of geographic and environmental analyses.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "GEOGRAPHY",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2014,0,2,0,0],[0,0,0,0,0],[2016,0,2,0,0]]
+}

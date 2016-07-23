@@ -4,11 +4,12 @@
 "moduleCredit": "4",
 "lockedModules":[
 ],
-"preclusion": "'A' level or H2 pass in Physics or PC1143, or PC1144 or PC1432",
+"preclusion": "'A' Level OR H2 Pass in Physics or PC1143, or PC1144 or PC1432/PC1432X",
 "prerequisite": "'O' level pass in Physics or Combined Science (Physics & Chemistry OR Physics & Biology).",
 "preclusionList": [
             "PC1143",
             "PC1432",
+            "PC1432X",
             "PC1144"
         ],
 "parsedPrerequisite" : "nil",
@@ -22,5 +23,5 @@
 "corequisite": "-1",
 "faculty": "SCIENCE",
 "department": "PHYSICS",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,1,2,0,0]]
+"history": [[0,0,0,0,0],[2012,1,2,0,0],[2013,1,2,0,0],[2014,1,2,0,0],[2015,1,2,0,0],[2016,1,2,0,0]]
 }

@@ -3,8 +3,9 @@
 "moduleTitle": "Graduate Algebra I",
 "moduleCredit": "4",
 "lockedModules":[
-            "MA5208",
-            "MA5218"
+            "MA5204",
+            "MA5202",
+            "MA5211"
         ],
 "preclusion": "NIL",
 "prerequisite": "MA3201 and departmental approval",
@@ -199,5 +200,5 @@
 "corequisite": "-1",
 "faculty": "SCIENCE",
 "department": "MATHEMATICS",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,1,0,0,0]]
+"history": [[0,0,0,0,0],[2012,1,0,0,0],[2013,1,0,0,0],[2014,1,0,0,0],[2015,1,0,0,0],[2016,1,0,0,0]]
 }

@@ -1,34 +1,41 @@
 {
 "moduleCode": "PLC5007",
 "moduleTitle": "Advanced Psychological Practice",
-"moduleCredit": "2",
+"moduleCredit": "4",
 "lockedModules":[
 ],
 "preclusion": "NIL",
-"prerequisite": "PLC5011 (Clinical Placement 1)",
+"prerequisite": "PLC5011 (Clinical Placement 1) and PLC5004 (Psychological Intervention and Therapy)",
 "preclusionList": [],
 "parsedPrerequisite": {
-" and ": ["PLC5011"]
+            " and ": [
+                "PLC5011", 
+                "PLC5004"
+            ]
 },
-"prerequisiteList": ["PLC5011","PLC5001"],
+"prerequisiteList": ["PLC5011","PLC5004"],
 "completePrerequisite": {
             "name": "PLC5007", 
             "children": [
                 {
-                    "name": "PLC5011", 
+                    "name": "and", 
                     "children": [
                         {
-                            "name": "PLC5001", 
+                            "name": "PLC5011", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "PLC5004", 
                             "children": []
                         }
                     ]
                 }
             ]
 },
-"moduleDescription": "This module provides training in empirically supported psychological therapies for various psychiatric and personality disorders. It builds on the training in therapeutic skills and techniques provided in module PLC5004 Psychological Intervention and Therapy and prepares students further for clinical practice.",
+"moduleDescription": "This module provides advanced training in empirically supported psychological therapies targeting third wave cognitive behavioural therapies (CBT) for various psychiatric and personality disorders. It builds on the training in therapeutic skills and techniques provided in module PLC5004 Psychological Intervention and Therapy and prepares students further for clinical practice. The emphasis on the training will include Acceptance and Commitment Therapy (ACT), Dialectical Behavioural Therapy (DBT), and Functional Analysis Psychotherapy (FAP) to treat more complex types of psychopathology.",
 "crossModule": "-1",
 "corequisite": "-1",
 "faculty": "ARTS & SOCIAL SCIENCES",
 "department": "PSYCHOLOGY",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,1,0,0,0]]
+"history": [[0,0,0,0,0],[0,0,0,0,0],[2013,1,0,0,0],[2014,1,0,0,0],[2015,1,0,0,0],[2016,1,0,0,0]]
 }

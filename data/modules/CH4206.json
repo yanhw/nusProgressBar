@@ -1,0 +1,22 @@
+{
+"moduleCode": "CH4206",
+"moduleTitle": "Theoretical Issues in Chinese Grammar",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "Cohort 2011 and before: Completed 80 MCs, including 28 MCs in CH or CL; and CL2103, with a minimum CAP of 3.50 or be on the Honours track. Cohort 2012 onwards: Completed 80 MCs, including 28 MCs in CH or CL; and CL2103, with a minimum CAP of 3.20 or be on the Honours track.",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "CH4206", 
+            "children": []
+},
+"moduleDescription": "This module is a theoretical study of Chinese grammar. Topics will include: traditional and modern systems of Chinese grammar, the relationship between Chinese characters and morphemes, 'wordship' in Chinese, the distinction between words and morphemes/phrases, classification of Chinese words and sentences, grammatical units, logical relations and grammatical forms, sentence analysis, grammar-morphology-phonology interface. There will also be a brief introduction of the history of Chinese grammatical studies, and the influence of western linguistic theories in the history. Selected original books and articles important in the development of Chinese grammatical theories will also be discussed.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "CHINESE STUDIES",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2014,0,2,0,0],[0,0,0,0,0],[2016,1,0,0,0]]
+}

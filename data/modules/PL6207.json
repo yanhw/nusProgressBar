@@ -1,0 +1,22 @@
+{
+"moduleCode": "PL6207",
+"moduleTitle": "Personality Psychology",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "PL6207", 
+            "children": []
+},
+"moduleDescription": "This graduate level course is intended as an overview of the contemporary areas of inquiry in personality. Research initiatives in the dispositionaltrait approach (i.e., personality structure) and the social-cognitive approach (i.e., personality processes and dynamics) will be covered. Additional topics include the evolutionary and neuropsychological bases of personality, behavior genetics, the interplay between personality and culture, etc. Given the vitality and breadth of current personality research, this course is intended to be a selective survey of the major theoretical issues being addressed in the field.",
+"crossModule": "-1",
+"corequisite": "Nil",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "PSYCHOLOGY",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2016,1,0,0,0]]
+}

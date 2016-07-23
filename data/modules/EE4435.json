@@ -1,0 +1,63 @@
+{
+"moduleCode": "EE4435",
+"moduleTitle": "Modern Transistors and Memory Devices",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "EE4408 Silicon Device Reliability EE4412 Technology and Modelling of Silicon Transistors EE4435E Modern Transistors and Memory Devices",
+"prerequisite": "Pre-requisite: EE2021 Devices and Circuits Co-requisite: EE3431C Microelectronics Materials and Devices",
+"preclusionList": [
+            "EE4412",
+            "EE4435E",
+            "EE4408"
+        ],
+"parsedPrerequisite": {
+            " and ": [
+                "EE2021", 
+                "EE3431C"
+            ]
+},
+"prerequisiteList": ["EE2021","EE1002","EG1108","CG1108","EE3431C"],
+"completePrerequisite": {
+            "name": "EE4435", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "EE2021", 
+                            "children": [
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "EE1002", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "EG1108", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "CG1108", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "EE3431C", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module is designed to equip students with the physical foundation of metal oxide semiconductor (MOS) device physics and the theoretical background for understanding end applications in modern transistors and memory devices (e.g., Flash, phase change random access memory, etc.). Upon the successful completion of this module, the student is expected to gain an understanding on the principles of operation and physics of modern MOS transistors and memory devices. Such knowledge is useful for careers in the wafer fabrication plants, foundries, design houses and the microelectronics industry.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "ELECTRICAL & COMPUTER ENGINEERING",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2016,1,0,0,0]]
+}

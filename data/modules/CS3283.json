@@ -44,7 +44,7 @@
                 }
             ]
 },
-"prerequisiteList": ["CS2103","CS1020","CS1010","CS2103T","CS3218","MA1521","MA1505","MA1102R","MA1101R","MA1506","CS2108","CS3240","NM2217","NM3209","CS3241","CS3242","PC1221","CS3245","CS2010","CS1020E","CS1010E","CG1103","CS3246","CS3247","CS3249","NM3216","NM3221","NM3226","NM3227","NM3231"],
+"prerequisiteList": ["CS2103","CS1020","CS1010","CS2103T","CS3218","MA1102R","MA1505","MA1521","MA1101R","MA1506","CS2108","EE3206","EE2023","CS3240","NM2217","NM3209","CS3241","CS3242","PC1221","CS3245","CS2010","CS1020E","CS1010E","CG1103","CS3246","CS3247","CS3249","NM3216","NM3221","NM3226","NM3227","NM3231"],
 "completePrerequisite": {
             "name": "CS3283", 
             "children": [
@@ -97,7 +97,7 @@
                                                     "name": "or", 
                                                     "children": [
                                                         {
-                                                            "name": "MA1521", 
+                                                            "name": "MA1102R", 
                                                             "children": []
                                                         }, 
                                                         {
@@ -105,7 +105,7 @@
                                                             "children": []
                                                         }, 
                                                         {
-                                                            "name": "MA1102R", 
+                                                            "name": "MA1521", 
                                                             "children": []
                                                         }
                                                     ]
@@ -142,14 +142,51 @@
                                                     ]
                                                 }, 
                                                 {
-                                                    "name": "CS2108", 
+                                                    "name": "or", 
                                                     "children": [
                                                         {
-                                                            "name": "CS1020", 
+                                                            "name": "CS2108", 
                                                             "children": [
                                                                 {
-                                                                    "name": "CS1010", 
-                                                                    "children": []
+                                                                    "name": "CS1020", 
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "CS1010", 
+                                                                            "children": []
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }, 
+                                                        {
+                                                            "name": "EE3206", 
+                                                            "children": [
+                                                                {
+                                                                    "name": "EE2023", 
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "MA1506", 
+                                                                            "children": [
+                                                                                {
+                                                                                    "name": "or", 
+                                                                                    "children": [
+                                                                                        {
+                                                                                            "name": "MA1102R", 
+                                                                                            "children": []
+                                                                                        }, 
+                                                                                        {
+                                                                                            "name": "MA1505", 
+                                                                                            "children": []
+                                                                                        }, 
+                                                                                        {
+                                                                                            "name": "MA1521", 
+                                                                                            "children": []
+                                                                                        }
+                                                                                    ]
+                                                                                }
+                                                                            ]
+                                                                        }
+                                                                    ]
                                                                 }
                                                             ]
                                                         }
@@ -379,5 +416,5 @@
 "corequisite": "Nil",
 "faculty": "SCHOOL OF COMPUTING",
 "department": "COMPUTER SCIENCE",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,1,0,0,0]]
+"history": [[0,0,0,0,0],[0,0,0,0,0],[2013,1,0,0,0],[2014,1,0,0,0],[2015,1,0,0,0],[2016,0,2,0,0]]
 }

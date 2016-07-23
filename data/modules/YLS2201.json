@@ -3,7 +3,8 @@
 "moduleTitle": "Intermediate Spanish 1",
 "moduleCredit": "5",
 "lockedModules":[
-            "YLS3201"
+            "LAS3202",
+            "YLS2202"
         ],
 "preclusion": "NIL",
 "prerequisite": "YLS1201 Beginning Spanish 1 and YLS1202 Beginning Spanish 2 or permission from instructor. A placement exam may be required.",
@@ -43,5 +44,5 @@
 "corequisite": "-1",
 "faculty": "YALE-NUS COLLEGE",
 "department": "YALE-NUS COLLEGE",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,1,2,0,0]]
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2014,1,2,0,0],[2015,1,2,0,0],[2016,1,0,0,0]]
 }

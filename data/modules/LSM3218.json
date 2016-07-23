@@ -1,0 +1,77 @@
+{
+"moduleCode": "LSM3218",
+"moduleTitle": "Cardiopulmonary Pharmacology",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "LSM3221",
+"prerequisite": "LSM3211",
+"preclusionList": [
+            "LSM3221"
+        ],
+"parsedPrerequisite": {
+" and ": ["LSM3211"]
+},
+"prerequisiteList": ["LSM3211","LSM2101","LSM1101","LSM1401","LSM2103","LSM1102"],
+"completePrerequisite": {
+            "name": "LSM3218", 
+            "children": [
+                {
+                    "name": "LSM3211", 
+                    "children": [
+                        {
+                            "name": "or", 
+                            "children": [
+                                {
+                                    "name": "LSM2101", 
+                                    "children": [
+                                        {
+                                            "name": "or", 
+                                            "children": [
+                                                {
+                                                    "name": "LSM1101", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "LSM1401", 
+                                                    "children": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }, 
+                                {
+                                    "name": "LSM2103", 
+                                    "children": [
+                                        {
+                                            "name": "or", 
+                                            "children": [
+                                                {
+                                                    "name": "LSM1101", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "LSM1401", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "LSM1102", 
+                                                    "children": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module focuses on drugs used to treat cardiovascular and pulmonary diseases. It provides an understanding of the pharmacological basis of cardiovascular therapeutics, and addresses the pharmacological properties of clinically useful drugs for cardiovascular and pulmonary systems. This module demonstrates the scientific basis of the therapeutic applications of these drugs, and these foundation principles will enhance understanding of safe and rational use of drugs in cardiovascular and pulmonary diseases.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "YONG LOO LIN SCHOOL OF MEDICINE",
+"department": "PHARMACOLOGY",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2016,0,2,0,0]]
+}

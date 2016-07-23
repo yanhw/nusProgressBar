@@ -1,0 +1,22 @@
+{
+"moduleCode": "BPS5225",
+"moduleTitle": "Building Energy Audit and Performance Measurement and Verification",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "BPS5225", 
+            "children": []
+},
+"moduleDescription": "This module considers the objectives and methodologies in conducting a detailed building energy audit. The module commences with the evaluation of energy performance indicators and their influence on measurement methodology, and the designing of auditing strategy. The statistical interpretation of results, measurement accuracy and instrumentation strategies are also major topics of the module. Once the energy saving opportunities are identified, work shall commence on the evaluation and recommendation of energy conservation measures, and their ranking through the rates of return on investment (ROI). Different modes of procurement in energy retrofit projects and the fundamental principles of Energy Performance Contracting will be examined. Finally, upon the completion of an energy retrofit programme, the requirements and critical conditions for an accurate performance measurement and verification would also be discussed.",
+"crossModule": "-1",
+"corequisite": "None",
+"faculty": "SCHOOL OF DESIGN AND ENVIRONMENT",
+"department": "BUILDING",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2016,0,2,0,0]]
+}

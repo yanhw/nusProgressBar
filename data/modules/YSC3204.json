@@ -3,20 +3,20 @@
 "moduleTitle": "Group Theory",
 "moduleCredit": "5",
 "lockedModules":[
-            "YSC3220"
+            "YSC4202"
         ],
 "preclusion": "NIL",
-"prerequisite": "YSC2209 Proof or Permission of Instructor (Experience with mathematical proof-writing and set theory, equivalent to that of the pre-requisite Proof course)",
+"prerequisite": "YSC2209 Proof OR YSC3205 Linear Algebra",
 "preclusionList": [],
 "parsedPrerequisite": {
-" and ": ["YSC2209"]
+" and ": ["YSC3205"]
 },
-"prerequisiteList": ["YSC2209"],
+"prerequisiteList": ["YSC3205"],
 "completePrerequisite": {
             "name": "YSC3204", 
             "children": [
                 {
-                    "name": "YSC2209", 
+                    "name": "YSC3205", 
                     "children": []
                 }
             ]
@@ -26,5 +26,5 @@
 "corequisite": "-1",
 "faculty": "YALE-NUS COLLEGE",
 "department": "YALE-NUS COLLEGE",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,1,0,0,0]]
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,1,0,0,0],[2016,1,0,0,0]]
 }

@@ -1,0 +1,24 @@
+{
+"moduleCode": "LSM1306",
+"moduleTitle": "Forensic Science",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "GEK1542",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "GEK1542"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "LSM1306", 
+            "children": []
+},
+"moduleDescription": "Crime is one feature of human behaviour that fascinates our community. How crimes impact our society and how crimes are investigated and solved in the Singapore context is the focus of the module. The module is designed to enable students to appreciate why and how crimes are committed, to understand how crimes are solved in Singapore using investigative, and the latest scientific and forensic techniques, and to learn the role of the major stakeholders in the Criminal Justice System. Experts from law, pharmacy, statistics, the Health Sciences Authority and the Singapore Police Force will cover topics related to forensic science.",
+"crossModule": "-1",
+"corequisite": "None",
+"faculty": "SCIENCE",
+"department": "BIOLOGICAL SCIENCES",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2016,1,0,0,0]]
+}

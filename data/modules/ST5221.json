@@ -1,0 +1,66 @@
+{
+"moduleCode": "ST5221",
+"moduleTitle": "Probability and Stochastic Processes",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "ST5214 Advanced Probability Theory MA5259 Probability Theory 1",
+"prerequisite": "ST2131 or its equivalent",
+"preclusionList": [
+            "ST5214",
+            "MA5259"
+        ],
+"parsedPrerequisite": {
+" and ": ["ST2131"]
+},
+"prerequisiteList": ["ST2131","MA1102","MA1102R","MA1312","MA1507","MA1505","MA1505C","MA1521"],
+"completePrerequisite": {
+            "name": "ST5221", 
+            "children": [
+                {
+                    "name": "ST2131", 
+                    "children": [
+                        {
+                            "name": "or", 
+                            "children": [
+                                {
+                                    "name": "MA1102", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "MA1102R", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "MA1312", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "MA1507", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "MA1505", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "MA1505C", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "MA1521", 
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module aims to provide graduate students in the PhD Biostatistics program a solid background and a good understanding of basic results and methods in probability theory and stochastic models. These skills are relevant for them to take advanced modules in biostatistics, and to apply state-of-the-art Biostatistics research methodologies.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "SCIENCE",
+"department": "STATISTICS & APPLIED PROBABILITY",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[2013,1,0,0,0],[2014,1,0,0,0],[0,0,0,0,0],[2016,1,0,0,0]]
+}

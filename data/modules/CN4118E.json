@@ -71,21 +71,7 @@
                         }, 
                         {
                             "name": "TC2421", 
-                            "children": [
-                                {
-                                    "name": "or", 
-                                    "children": [
-                                        {
-                                            "name": "TC1402", 
-                                            "children": []
-                                        }, 
-                                        {
-                                            "name": "TC2401", 
-                                            "children": []
-                                        }
-                                    ]
-                                }
-                            ]
+                            "children": []
                         }, 
                         {
                             "name": "CN2121E", 
@@ -205,21 +191,7 @@
                             "children": [
                                 {
                                     "name": "TC2421", 
-                                    "children": [
-                                        {
-                                            "name": "or", 
-                                            "children": [
-                                                {
-                                                    "name": "TC1402", 
-                                                    "children": []
-                                                }, 
-                                                {
-                                                    "name": "TC2401", 
-                                                    "children": []
-                                                }
-                                            ]
-                                        }
-                                    ]
+                                    "children": []
                                 }
                             ]
                         }, 
@@ -287,40 +259,7 @@
                                 }, 
                                 {
                                     "name": "CN3135E", 
-                                    "children": [
-                                        {
-                                            "name": "and", 
-                                            "children": [
-                                                {
-                                                    "name": "CN2121E", 
-                                                    "children": [
-                                                        {
-                                                            "name": "CN1111E", 
-                                                            "children": []
-                                                        }
-                                                    ]
-                                                }, 
-                                                {
-                                                    "name": "CN2122E", 
-                                                    "children": [
-                                                        {
-                                                            "name": "or", 
-                                                            "children": [
-                                                                {
-                                                                    "name": "TC1402", 
-                                                                    "children": []
-                                                                }, 
-                                                                {
-                                                                    "name": "TC2401", 
-                                                                    "children": []
-                                                                }
-                                                            ]
-                                                        }
-                                                    ]
-                                                }
-                                            ]
-                                        }
-                                    ]
+                                    "children": []
                                 }
                             ]
                         }
@@ -333,5 +272,5 @@
 "corequisite": "NIL",
 "faculty": "ENGINEERING",
 "department": "BACHELOR OF TECHNOLOGY PROGRAMME",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,1,2,3,0]]
+"history": [[0,0,0,0,0],[2012,1,2,3,0],[2013,1,2,3,0],[2014,1,2,3,0],[2015,1,2,3,0],[2016,1,2,0,0]]
 }

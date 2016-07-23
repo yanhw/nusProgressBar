@@ -1,0 +1,49 @@
+{
+"moduleCode": "YLS2202",
+"moduleTitle": "Intermediate Spanish 2",
+"moduleCredit": "5",
+"lockedModules":[
+            "YLS3202"
+        ],
+"preclusion": "NIL",
+"prerequisite": "YLS2201 Intermediate Spanish 1 or instructor\u2019s approval. A placement exam may be required.",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["YLS2201"]
+},
+"prerequisiteList": ["YLS2201","YLS1201","YLS1202"],
+"completePrerequisite": {
+            "name": "YLS2202", 
+            "children": [
+                {
+                    "name": "YLS2201", 
+                    "children": [
+                        {
+                            "name": "and", 
+                            "children": [
+                                {
+                                    "name": "YLS1201", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "YLS1202", 
+                                    "children": [
+                                        {
+                                            "name": "YLS1201", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module is a continuation of Intermediate Spanish 1. Students taking this module will build upon what was covered in the first half and continue to expand their command of written and spoken Spanish. Spanish 2 pays close attention to aural/oral practice while strengthening more complex grammar skills (e.g., the subjunctive, passive voice),writing, and reading comprehension. The module covers the second half of the eBook used in Intermediate Spanish 1 (M\u00e1s) and prepares students for Study Abroad opportunities via CIPE at Yale-NUS and NUS.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "YALE-NUS COLLEGE",
+"department": "YALE-NUS COLLEGE",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2014,0,2,0,0],[0,0,0,0,0],[2016,1,0,0,0]]
+}

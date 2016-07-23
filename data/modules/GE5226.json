@@ -1,0 +1,22 @@
+{
+"moduleCode": "GE5226",
+"moduleTitle": "GIS Applications",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "GE5226", 
+            "children": []
+},
+"moduleDescription": "This module provides students with an opportunity to gain hands-on experience in GIS applications across a range of different subject areas, including geography, geology, environmental science, ecology, civil engineering, urban planning, real estate, health sciences, social sciences and humanities. Through this module, students are expected to explore different modelling approaches, discuss applications of the models, and work on lab exercises and research projects.",
+"crossModule": "-1",
+"corequisite": "Nil",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "GEOGRAPHY",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2016,1,0,0,0]]
+}

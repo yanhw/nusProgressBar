@@ -1,0 +1,22 @@
+{
+"moduleCode": "MUH1101",
+"moduleTitle": "Foundations for Musical Discovery",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "MUH1101", 
+            "children": []
+},
+"moduleDescription": "An academic introduction to the study of music, necessary for success as a music student and professional musician in the 21st century. Focusing on research, communication and critical thinking, students will acquire a shared vocabulary to talk and write about music, and an understanding of musical concepts, periodicity, and genres. Students will also study music as a cultural and social phenomenon and contrast historical and present performance practice, with emphasis on works currently being performed in the Conservatory. This module is mandatory for all BMus students at the Yong Siew Toh Conservatory during the first semester of study.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "YONG SIEW TOH CONSERVATORY OF MUSIC",
+"department": "YONG SIEW TOH CONSERVATORY OF MUSIC",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2016,1,0,0,0]]
+}

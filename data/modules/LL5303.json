@@ -1,0 +1,26 @@
+{
+"moduleCode": "LL5303",
+"moduleTitle": "Law and Literature",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "LL4303V/LL5303V/LL6303V Law and Literature",
+"prerequisite": "NUS Compulsory Core Law Curriculum or equivalent.",
+"preclusionList": [
+            "LL5303V",
+            "LL4303V",
+            "LL6303V"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "LL5303", 
+            "children": []
+},
+"moduleDescription": "This course explores the complex interactions between literature and the law. Even though the two disciplines may seem distinct, both law and literature are products of language and have overlapped in significant and interesting ways in history. Why do legal themes recur in fiction, and what kinds of literary structures underpin legal argumentation? How do novelists and playwrights imagine the law, and how do lawyers and judges interpret literary works? Could literature have legal subtexts, and could legal documents be re-interpreted as literary texts? We will think through these questions by juxtaposing fiction, drama, legal cases, and critical theory.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "LAW",
+"department": "LAW",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2016,0,2,0,0]]
+}

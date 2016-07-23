@@ -1,7 +1,7 @@
 {
 "moduleCode": "SX2994",
 "moduleTitle": "Exchange Enrichment 2000 Module",
-"moduleCredit": "2",
+"moduleCredit": "3",
 "lockedModules":[
 ],
 "preclusion": "NIL",
@@ -10,7 +10,7 @@
 "parsedPrerequisite" : "nil",
 "prerequisiteList": [],
 "completePrerequisite": {
-            "name": "SX2994", 
+            "name": "SX2995", 
             "children": []
 },
 

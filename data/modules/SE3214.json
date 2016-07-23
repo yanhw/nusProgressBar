@@ -1,0 +1,22 @@
+{
+"moduleCode": "SE3214",
+"moduleTitle": "Marketing Southeast Asia's Heritage",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "SE3214", 
+            "children": []
+},
+"moduleDescription": "The systematic study of cultural resources management is a new but highly strategic field. Students will be exposed to concepts including sociological and anthropological frameworks for recording and analysing stability and change in traditional societies, and their potential to contribute to the development of tourism. Case studies of change in traditional societies consequent upon tourism will be examined, and strategies for alleviating the negative effects explored. The module will also deal with issues concerning the design and development of planned exhibitions such as those in museums. Students will explore research techniques useful in planning tourism activities which are educational, sympathetic to cultural resources, and which contribute to the welfare of Southeast Asians.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "SOUTHEAST ASIAN STUDIES",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2016,1,0,0,0]]
+}

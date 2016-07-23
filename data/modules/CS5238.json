@@ -1,0 +1,80 @@
+{
+"moduleCode": "CS5238",
+"moduleTitle": "Advanced Combinatorial Methods in Bioinformatics",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "CS3230",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["CS3230"]
+},
+"prerequisiteList": ["CS3230","CS2010","CS1020","CS1010","CS1020E","CS1010E","CG1103","CS1231","MA1100"],
+"completePrerequisite": {
+            "name": "CS5238", 
+            "children": [
+                {
+                    "name": "CS3230", 
+                    "children": [
+                        {
+                            "name": "and", 
+                            "children": [
+                                {
+                                    "name": "CS2010", 
+                                    "children": [
+                                        {
+                                            "name": "or", 
+                                            "children": [
+                                                {
+                                                    "name": "CS1020", 
+                                                    "children": [
+                                                        {
+                                                            "name": "CS1010", 
+                                                            "children": []
+                                                        }
+                                                    ]
+                                                }, 
+                                                {
+                                                    "name": "CS1020E", 
+                                                    "children": [
+                                                        {
+                                                            "name": "CS1010E", 
+                                                            "children": []
+                                                        }
+                                                    ]
+                                                }, 
+                                                {
+                                                    "name": "CG1103", 
+                                                    "children": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }, 
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "CS1231", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "MA1100", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "Biology data are too enormous. Handling them using brute-force approaches becomes impossible and efficient algorithms are required. This module has an in-depth study of some of these advanced algorithms. Through the course, students not only are able to understand these algorithms in detail, but are also given chances to solve some research problems in this field. Topics include sequence comparison, structure comparison and prediction, phylogenetic tree reconstruction and comparison, sequencing by hybridisation, Genome rearrangements, gene network, micro-array.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF COMPUTING",
+"department": "COMPUTER SCIENCE",
+"history": [[0,0,0,0,0],[2012,1,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2016,1,0,0,0]]
+}

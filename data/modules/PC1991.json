@@ -3,15 +3,90 @@
 "moduleTitle": "Exchange Enrichment Level 1000 Module",
 "moduleCredit": "4",
 "lockedModules":[
-],
-"preclusion": "NIL",
+            "PC3232",
+            "PC3235",
+            "PC3130",
+            "PC3246",
+            "PC3233"
+        ],
+"preclusion": "Students who have passed PC2130B are not allowed to take this module.",
 "prerequisite" : "NIL",
-"preclusionList": [],
+"preclusionList": [
+            "PC2130B"
+        ],
 "parsedPrerequisite" : "nil",
-"prerequisiteList": [],
+"prerequisiteList": ["PC1144","PC1432","MA1505","MA1506","MA1102R","MA1521","MA1101R"],
 "completePrerequisite": {
-            "name": "PC1991", 
-            "children": []
+            "name": "PC2130", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "or", 
+                            "children": [
+                                {
+                                    "name": "PC1144", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "PC1432", 
+                                    "children": []
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "or", 
+                            "children": [
+                                {
+                                    "name": "and", 
+                                    "children": [
+                                        {
+                                            "name": "MA1505", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "MA1506", 
+                                            "children": [
+                                                {
+                                                    "name": "or", 
+                                                    "children": [
+                                                        {
+                                                            "name": "MA1102R", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "MA1505", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "MA1521", 
+                                                            "children": []
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }, 
+                                {
+                                    "name": "and", 
+                                    "children": [
+                                        {
+                                            "name": "MA1101R", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "MA1102R", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
 },
 
 "crossModule": "-1",

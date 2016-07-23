@@ -1,0 +1,22 @@
+{
+"moduleCode": "YSH2427",
+"moduleTitle": "The Mathematics of Language",
+"moduleCredit": "1",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "YSH2427", 
+            "children": []
+},
+"moduleDescription": "An introduction to the mathematical study of human language. The course presents the tools that form the foundation of theoretical approaches to linguistic structure. Topics will include set theory, algebraic structures, formal language and automata theory. Throughout the course, students will be actively engaged in problem solving, with emphasis on the role the mathematical tools under study have in revealing and explaining patterns in the syntax (sentence structure) and semantics (sentence meaning) of natural language.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "YALE-NUS COLLEGE",
+"department": "YALE-NUS COLLEGE",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2016,1,0,0,0]]
+}

@@ -1,7 +1,7 @@
 {
 "moduleCode": "AUD5113",
 "moduleTitle": "Paediatric Audiology A - Part 2",
-"moduleCredit": "4",
+"moduleCredit": "2",
 "lockedModules":[
 ],
 "preclusion": "NIL",
@@ -13,34 +13,34 @@
                 "AUD5107"
             ]
 },
-"prerequisiteList": ["AUD5106","AUD5103","AUD5104","AUD5107"],
+"prerequisiteList": ["AUD5107","AUD5108","AUD5102","AUD5103"],
 "completePrerequisite": {
-            "name": "AUD5113", 
+            "name": "AUD5114", 
             "children": [
                 {
                     "name": "and", 
                     "children": [
                         {
-                            "name": "AUD5106", 
+                            "name": "AUD5107", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "AUD5108", 
                             "children": [
                                 {
                                     "name": "and", 
                                     "children": [
                                         {
-                                            "name": "AUD5103", 
+                                            "name": "AUD5102", 
                                             "children": []
                                         }, 
                                         {
-                                            "name": "AUD5104", 
+                                            "name": "AUD5103", 
                                             "children": []
                                         }
                                     ]
                                 }
                             ]
-                        }, 
-                        {
-                            "name": "AUD5107", 
-                            "children": []
                         }
                     ]
                 }
@@ -51,5 +51,5 @@
 "corequisite": "AUD5112 Clinical Audiology A (Part 2); AUD5114 Electrophysiology Assessment A",
 "faculty": "YONG LOO LIN SCHOOL OF MEDICINE",
 "department": "DIVISION OF GRADUATE MEDICAL STUDIES",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,0,2,0,0]]
+"history": [[0,0,0,0,0],[0,0,0,0,0],[2013,0,2,0,0],[0,0,0,0,0],[2015,0,2,0,0],[0,0,0,0,0]]
 }

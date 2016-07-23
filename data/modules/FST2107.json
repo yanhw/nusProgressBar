@@ -3,7 +3,8 @@
 "moduleTitle": "Food Analysis Lab",
 "moduleCredit": "4",
 "lockedModules":[
-],
+            "FST3105"
+        ],
 "preclusion": "CM2192, CM2192A, FST2102A",
 "prerequisite": "FST1101 and CM1191",
 "preclusionList": [
@@ -41,5 +42,5 @@
 "corequisite": "-1",
 "faculty": "SCIENCE",
 "department": "CHEMISTRY",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,0,2,0,0]]
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,0,2,0,0],[2016,0,2,0,0]]
 }

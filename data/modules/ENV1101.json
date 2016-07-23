@@ -5,9 +5,11 @@
 "lockedModules":[
             "ENV2101"
         ],
-"preclusion": "NIL",
+"preclusion": "GEM1903",
 "prerequisite": "For students in the Environmental Studies Programme.",
-"preclusionList": [],
+"preclusionList": [
+            "GEM1903"
+        ],
 "parsedPrerequisite" : "nil",
 "prerequisiteList": [],
 "completePrerequisite": {
@@ -19,5 +21,5 @@
 "corequisite": "NIL",
 "faculty": "SCIENCE",
 "department": "DEAN'S OFFICE (SCIENCE)",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,1,0,0,0]]
+"history": [[0,0,0,0,0],[0,0,0,0,0],[2013,1,0,0,0],[2014,1,0,0,0],[2015,1,0,0,0],[2016,1,0,0,0]]
 }

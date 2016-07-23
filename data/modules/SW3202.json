@@ -1,0 +1,29 @@
+{
+"moduleCode": "SW3202",
+"moduleTitle": "Practicing Theories in Social Work",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "Students majoring in Social Work, SW1101E",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["SW1101E"]
+},
+"prerequisiteList": ["SW1101E"],
+"completePrerequisite": {
+            "name": "SW3202", 
+            "children": [
+                {
+                    "name": "SW1101E", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "This module explores social and psychological thoughts and theories relevant to social work practice. Major concepts, principles, ideas and research are discussed utilizing an interdisciplinary perspective.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "SOCIAL WORK",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2014,1,0,0,0],[0,0,0,0,0],[2016,1,0,0,0]]
+}
