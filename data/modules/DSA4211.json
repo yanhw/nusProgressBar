@@ -1,0 +1,141 @@
+{
+"moduleCode": "DSA4211",
+"moduleTitle": "High-Dimensional Statistical Analysis",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "ST3131",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["ST3131"]
+},
+"prerequisiteList": ["ST3131","ST2131","MA1102","MA1102R","MA1312","MA1507","MA1505","MA1505C","MA1521","MA2216","ST2334"],
+"completePrerequisite": {
+            "name": "DSA4211", 
+            "children": [
+                {
+                    "name": "ST3131", 
+                    "children": [
+                        {
+                            "name": "or", 
+                            "children": [
+                                {
+                                    "name": "ST2131", 
+                                    "children": [
+                                        {
+                                            "name": "or", 
+                                            "children": [
+                                                {
+                                                    "name": "MA1102", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MA1102R", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MA1312", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MA1507", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MA1505", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MA1505C", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MA1521", 
+                                                    "children": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }, 
+                                {
+                                    "name": "MA2216", 
+                                    "children": [
+                                        {
+                                            "name": "or", 
+                                            "children": [
+                                                {
+                                                    "name": "MA1102", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MA1102R", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MA1312", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MA1507", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MA1505", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MA1505C", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MA1521", 
+                                                    "children": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }, 
+                                {
+                                    "name": "ST2334", 
+                                    "children": [
+                                        {
+                                            "name": "or", 
+                                            "children": [
+                                                {
+                                                    "name": "MA1102R", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MA1312", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MA1505", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MA1507", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MA1521", 
+                                                    "children": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "Dimensionality is an issue that can arise in many scientific fields such as medicine, genetics, business and finance, among others. The statistical properties of estimation and inference procedures must be carefully established when the number of variables is much larger than the number of observations. This module will discuss several statistical methodologies useful for exploring voluminous data. They include principal component analysis, clustering and classification, tree-structured analysis, neural network, hidden Markov models, sliced inverse regression, multiple testing, sure independent screening (SIS) and penalized estimation for variable selection. Real data will be used for illustration of these methods. Some fundamental theory for high-dimensional learning will be covered.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCIENCE",
+"department": "STATISTICS & APPLIED PROBABILITY",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2016,1,0,0,0]]
+}

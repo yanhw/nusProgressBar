@@ -1,0 +1,22 @@
+{
+"moduleCode": "SE5232R",
+"moduleTitle": "Southeast Asia and Regionalism",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "SE5232R", 
+            "children": []
+},
+
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "SOUTHEAST ASIAN STUDIES",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2014,1,0,0,0],[0,0,0,0,0],[2016,1,0,0,0]]
+}

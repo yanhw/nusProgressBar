@@ -1,7 +1,7 @@
 {
 "moduleCode": "SG3204",
 "moduleTitle": "Human Computer Interface",
-"moduleCredit": "3",
+"moduleCredit": "8",
 "lockedModules":[
 ],
 "preclusion": "NIL",
@@ -10,7 +10,7 @@
 "parsedPrerequisite" : "nil",
 "prerequisiteList": [],
 "completePrerequisite": {
-            "name": "SG3204", 
+            "name": "SG4101", 
             "children": []
 },
 "moduleDescription": "The aim of this course is to teach how to design effective Human-Computer Interfaces (HCI) The course begins by explaining that the success of a software application may be critically dependent upon it?s HCI Topics included in the course are principles of HCI design; interface design process; design criteria; scripting and story boarding; evaluating and testing the interface; Web and mobile interface design and tools for interface design. There are case study workshops using interface tools. There will be a design/prototyping project. This course is appropriate for all software developers who wish to construct effective HCIs for software applications.",
@@ -18,5 +18,5 @@
 "corequisite": "-1",
 "faculty": "NON-FACULTY-BASED DEPARTMENTS",
 "department": "INSTITUTE OF SYSTEMS SCIENCE",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,0,2,0,0]]
+"history": [[0,0,0,0,0],[0,0,0,0,0],[2013,1,0,0,0],[2014,1,2,0,0],[2015,0,2,0,0],[0,0,0,0,0]]
 }

@@ -1,0 +1,24 @@
+{
+"moduleCode": "SC4880",
+"moduleTitle": "Selected Topics in Socio'gy & Anthrop'gy",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "SC4208 Selected Topics in Sociology and Anthropology",
+"prerequisite": "Cohort 2011 and before: Completed 80 MCs, including 28 MCs in SC with a minimum CAP of 3.50 or be on the Honours track. Cohort 2012 onwards: Completed 80 MCs, including 28 MCs in SC with a minimum CAP of 3.20 or be on the Honours track.",
+"preclusionList": [
+            "SC4208"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "SC4880", 
+            "children": []
+},
+"moduleDescription": "This module deals with specialized topics reflecting the expertise of staff members or emerging issues in the field of Sociology and/or Anthropology.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "SOCIOLOGY",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2016,0,2,0,0]]
+}

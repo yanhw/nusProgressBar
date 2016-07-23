@@ -1,7 +1,7 @@
 {
 "moduleCode": "LSM3993",
 "moduleTitle": "Exchange Enrichment Module",
-"moduleCredit": "4",
+"moduleCredit": "16",
 "lockedModules":[
 ],
 "preclusion": "NIL",
@@ -10,7 +10,7 @@
 "parsedPrerequisite" : "nil",
 "prerequisiteList": [],
 "completePrerequisite": {
-            "name": "LSM3993", 
+            "name": "LSM4199", 
             "children": []
 },
 

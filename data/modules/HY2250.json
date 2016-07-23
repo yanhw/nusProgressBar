@@ -1,0 +1,22 @@
+{
+"moduleCode": "HY2250",
+"moduleTitle": "Introduction to Southeast Asian History",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "HY2250", 
+            "children": []
+},
+"moduleDescription": "This module will introduce the highlights of the region?s past with particular emphasis on the past 200 years. The goal of this course is to highlight and examine patterns of transitions ? evolutionary as well as revolutionary ? in the societies and cultures of Southeast Asia, laying particular emphasis on the development of the modern Southeast Asian worldview. Colonialism, both generally and specifically, receives considerable attention, but European activities, viewpoints, and materials are subordinated to Southeast Asian perspectives and sources. This will also hold true for the Japanese Occupation and subsequent period of independence.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "HISTORY",
+"history": [[0,0,0,0,0],[2012,1,0,0,0],[2013,1,0,0,0],[2014,0,2,0,0],[0,0,0,0,0],[2016,0,2,0,0]]
+}

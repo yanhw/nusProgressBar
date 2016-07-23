@@ -1,0 +1,88 @@
+{
+"moduleCode": "CN4233E",
+"moduleTitle": "Good Manufacturing Practices in Pharmaceutical Industry",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "CN4233R Good Manufacturing Practices in Pharmaceutical Industry PR2143 Pharmaceutical Analysis for Quality Assurance PR3145 Compliance & Good Practices in Pharmacy PR4206 Industrial Pharmacy",
+"prerequisite": "CN2122E Fluid Mechanics; CN2125E Heat and Mass Transfer",
+"preclusionList": [
+            "PR2143",
+            "PR4206",
+            "CN4233R",
+            "PR3145"
+        ],
+"parsedPrerequisite": {
+            " and ": [
+                "CN2122E", 
+                "CN2125E"
+            ]
+},
+"prerequisiteList": ["CN2122E","TC1402","TC2401","CN2125E","TC2112"],
+"completePrerequisite": {
+            "name": "CN4233E", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "CN2122E", 
+                            "children": [
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "TC1402", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "TC2401", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "CN2125E", 
+                            "children": [
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "TC2112", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "CN2122E", 
+                                            "children": [
+                                                {
+                                                    "name": "or", 
+                                                    "children": [
+                                                        {
+                                                            "name": "TC1402", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "TC2401", 
+                                                            "children": []
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "The module covers topics pertaining to regulatory and quality issues associated with pharmaceutical production. The two main components of the module are: regulatory aspects of pharmaceutical manufacture and analytical techniques for quality control. The concept of GMP and its components including standard operating procedures, documentation, validation, organization and personnel, premises, equipment, production and quality control are covered in the first half of the module. The second part of the module introduces the students to the various analytical techniques employed in pharmaceutical industry to assess the quality of protein-based biologics.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "BACHELOR OF TECHNOLOGY PROGRAMME",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2016,1,0,0,0]]
+}

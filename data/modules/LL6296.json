@@ -1,0 +1,26 @@
+{
+"moduleCode": "LL6296",
+"moduleTitle": "Imitation, Innovation and Intellectual Property",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "LL4296V/LL5296V/LL6296V Imitation, Innovation and Intellectual Property",
+"prerequisite": "NUS Compulsory Core Law Curriculum or equivalent. Students should ideally have taken a module in intellectual property or concurrently enrolled in one.",
+"preclusionList": [
+            "LL4296V",
+            "LL5296V",
+            "LL6296V"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "LL6296", 
+            "children": []
+},
+"moduleDescription": "Does copying always harm creativity? Can innovation thrive in the face of imitiation? These questions are at the heart of intellectual property theory and doctrine. This course explores these issues via a close look at a range of unusual creative industries, including fashion, cuisine, sports, comedy, and tattoos, as well as more traditional intellectual property topics, such as music and film.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "LAW",
+"department": "LAW",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2016,1,0,0,0]]
+}

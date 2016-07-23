@@ -1,0 +1,24 @@
+{
+"moduleCode": "LL4228V",
+"moduleTitle": "The Use of Force in International Law",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "Students who are taking or have taken LL4228.",
+"prerequisite": "NUS Compulsory Core Curriculum or its equivalent.",
+"preclusionList": [
+            "LL4228"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "LL4228V", 
+            "children": []
+},
+"moduleDescription": "This course introduces students to the rules on the use of force in international law. It does so from an historical perspective with special emphasis on state practice so that students can understand how and why the law on the use of force has evolved in the way it has. The course sets out the general prohibition on the u se of fo rce in the UN Charter, and introduces students to key concepts such as self-defence, humanitarian intervention, and aggression. Students will be introduced to debates on pre-emption, the use of force in pursuit of self-determination, and terrorism.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "LAW",
+"department": "LAW",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2014,1,0,0,0],[0,0,0,0,0],[2016,0,2,0,0]]
+}

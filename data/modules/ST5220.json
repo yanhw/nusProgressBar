@@ -1,0 +1,153 @@
+{
+"moduleCode": "ST5220",
+"moduleTitle": "Statistical Consulting",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "ST3131 Regression Analysis and ST3232 Experimental Design or Department Approval",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " and ": [
+                "ST3131", 
+                "ST3232"
+            ]
+},
+"prerequisiteList": ["ST3131","ST2131","MA1102","MA1102R","MA1312","MA1507","MA1505","MA1505C","MA1521","MA2216","ST2334","ST3232"],
+"completePrerequisite": {
+            "name": "ST5220", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "ST3131", 
+                            "children": [
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "ST2131", 
+                                            "children": [
+                                                {
+                                                    "name": "or", 
+                                                    "children": [
+                                                        {
+                                                            "name": "MA1102", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "MA1102R", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "MA1312", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "MA1507", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "MA1505", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "MA1505C", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "MA1521", 
+                                                            "children": []
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "MA2216", 
+                                            "children": [
+                                                {
+                                                    "name": "or", 
+                                                    "children": [
+                                                        {
+                                                            "name": "MA1102", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "MA1102R", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "MA1312", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "MA1507", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "MA1505", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "MA1505C", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "MA1521", 
+                                                            "children": []
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "ST2334", 
+                                            "children": [
+                                                {
+                                                    "name": "or", 
+                                                    "children": [
+                                                        {
+                                                            "name": "MA1102R", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "MA1312", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "MA1505", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "MA1507", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "MA1521", 
+                                                            "children": []
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "ST3232", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "The goal of this module is to develop the skills needed by a statistical consultant. Emphasized topics include data analysis, problem solving, report writing, oral communication with clients, issues in planning experiments and collecting data, and practical aspects of consulting management.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "SCIENCE",
+"department": "STATISTICS & APPLIED PROBABILITY",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[2013,0,2,0,0],[2014,0,2,0,0],[0,0,0,0,0],[2016,0,2,0,0]]
+}

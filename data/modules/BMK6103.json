@@ -1,0 +1,22 @@
+{
+"moduleCode": "BMK6103",
+"moduleTitle": "Marketing Seminar: Consumer Judgment and Decision Making",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "BMK6103", 
+            "children": []
+},
+
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF BUSINESS",
+"department": "MARKETING",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[2013,0,2,0,0],[2014,0,2,0,0],[0,0,0,0,0],[2016,0,2,0,0]]
+}

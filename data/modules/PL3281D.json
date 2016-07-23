@@ -1,0 +1,70 @@
+{
+"moduleCode": "PL3281D",
+"moduleTitle": "Lab in Music Perception and Cognition",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "PL1101E, PL2131, PL2132 and PL3233",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " and ": [
+                "PL1101E", 
+                "PL2131", 
+                "PL2132", 
+                "PL3233"
+            ]
+},
+"prerequisiteList": ["PL1101E","PL2131","PL2132","PL3233"],
+"completePrerequisite": {
+            "name": "PL3281D", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "PL1101E", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "PL2131", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "PL2132", 
+                            "children": [
+                                {
+                                    "name": "and", 
+                                    "children": [
+                                        {
+                                            "name": "PL1101E", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "PL2131", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "PL3233", 
+                            "children": [
+                                {
+                                    "name": "PL1101E", 
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "Lab in Music Perception and Cognition introduces students to experimental music psychology. Specifically, students will ask research questions, conduct experiments, and write research manuscripts on topics relevant to music perception and cognition. Prior training in cognitive psychology and music will be essential.",
+"crossModule": "-1",
+"corequisite": "Nil",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "PSYCHOLOGY",
+"history": [[0,0,0,0,0],[2012,0,2,0,0],[2013,0,2,0,0],[2014,1,0,0,0],[0,0,0,0,0],[2016,1,0,0,0]]
+}

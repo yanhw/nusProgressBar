@@ -1,0 +1,54 @@
+{
+"moduleCode": "ME5304",
+"moduleTitle": "Experimental Fluid Mechanics",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "ME4234",
+"prerequisite": "ME2135 Fluid Mechanics II",
+"preclusionList": [
+            "ME4234"
+        ],
+"parsedPrerequisite": {
+" and ": ["ME2135"]
+},
+"prerequisiteList": ["ME2135","ME2134","PC1431","PC1431F","PC1431X"],
+"completePrerequisite": {
+            "name": "ME5304", 
+            "children": [
+                {
+                    "name": "ME2135", 
+                    "children": [
+                        {
+                            "name": "ME2134", 
+                            "children": [
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "PC1431", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "PC1431F", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "PC1431X", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module teaches techniques and skills in carrying out fluid mechanics experiments and data analyses. Major topics include: Similitude and modelling; Wind tunnel design; Velocity measurement; Pressure measurement; Shear stress measurement; Volume flow rate measurement; Wind tunnel blockage correction; End plate configurations; Flow visualization; Signal analysis. This module is primarily targeted at graduate students who are conducting experimental fluid mechanics research and those who have interests in experimental fluid mechanics. This module is also appropriate for undergraduate students enrolled in the department\u2019s Aeronautical Engineering Specialization, especially those who are working on experimental fluid mechanics research for their final year projects.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "MECHANICAL ENGINEERING",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2016,1,0,0,0]]
+}

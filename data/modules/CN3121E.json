@@ -14,27 +14,13 @@
 "parsedPrerequisite": {
 " and ": ["TC2421"]
 },
-"prerequisiteList": ["TC2421","TC1402","TC2401"],
+"prerequisiteList": ["TC2421"],
 "completePrerequisite": {
             "name": "CN3121E", 
             "children": [
                 {
                     "name": "TC2421", 
-                    "children": [
-                        {
-                            "name": "or", 
-                            "children": [
-                                {
-                                    "name": "TC1402", 
-                                    "children": []
-                                }, 
-                                {
-                                    "name": "TC2401", 
-                                    "children": []
-                                }
-                            ]
-                        }
-                    ]
+                    "children": []
                 }
             ]
 },
@@ -43,5 +29,5 @@
 "corequisite": "-1",
 "faculty": "ENGINEERING",
 "department": "BACHELOR OF TECHNOLOGY PROGRAMME",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,1,0,0,0]]
+"history": [[0,0,0,0,0],[2012,1,0,0,0],[2013,1,0,0,0],[2014,1,0,0,0],[2015,1,0,0,0],[2016,1,0,0,0]]
 }

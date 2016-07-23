@@ -15,7 +15,7 @@
                 "IE2101"
             ]
 },
-"prerequisiteList": ["IE2100","ST2131","MA1102","MA1102R","MA1312","MA1507","MA1505","MA1505C","MA1521","IE2110","MA1101R","MA1311","MA1506","IE2140","IE2101","ST1131","SA1101","ST1131A","ST1232","ST2334","MA1306"],
+"prerequisiteList": ["IE2100","ST2131","MA1102","MA1102R","MA1312","MA1507","MA1505","MA1505C","MA1521","IE2110","MA1101R","MA1311","MA1506","IE2140","IE2101","ST1131","SA1101","ST1131A","ST1232","ST2334"],
 "completePrerequisite": {
             "name": "IE3100R", 
             "children": [
@@ -191,27 +191,7 @@
                                                     "name": "or", 
                                                     "children": [
                                                         {
-                                                            "name": "MA1306", 
-                                                            "children": []
-                                                        }, 
-                                                        {
-                                                            "name": "MA1102", 
-                                                            "children": []
-                                                        }, 
-                                                        {
                                                             "name": "MA1102R", 
-                                                            "children": []
-                                                        }, 
-                                                        {
-                                                            "name": "MA1505", 
-                                                            "children": []
-                                                        }, 
-                                                        {
-                                                            "name": "MA1505C", 
-                                                            "children": []
-                                                        }, 
-                                                        {
-                                                            "name": "MA1521", 
                                                             "children": []
                                                         }, 
                                                         {
@@ -219,7 +199,15 @@
                                                             "children": []
                                                         }, 
                                                         {
+                                                            "name": "MA1505", 
+                                                            "children": []
+                                                        }, 
+                                                        {
                                                             "name": "MA1507", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "MA1521", 
                                                             "children": []
                                                         }
                                                     ]
@@ -239,5 +227,5 @@
 "corequisite": "-1",
 "faculty": "ENGINEERING",
 "department": "INDUSTRIAL & SYSTEMS ENGINEERING",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,1,2,0,0]]
+"history": [[0,0,0,0,0],[0,0,0,0,0],[2013,1,2,0,0],[2014,1,2,0,0],[2015,1,2,0,0],[2016,1,2,0,0]]
 }

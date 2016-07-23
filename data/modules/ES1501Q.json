@@ -1,0 +1,32 @@
+{
+"moduleCode": "ES1501Q",
+"moduleTitle": "Critical Thinking and Expository Writing: \",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "1. Students who have already read a WP2201%, IEM1201%, UTW1001%, ES1201G, ES1201L, ES1601 or ES1501% module. 2. FOE students will be exempted from ES1531 and ES2331 if they have successfully completed ES1501%.",
+"prerequisite": "1.Students who are required to take ES1000 Basic English and/or ES1102/ES1103 English for Academic Purposes must pass the modules before they are allowed to read this module. 2. FOE students should have sat for one of following examinations and obtained the grade required as indicated below in order to be eligible for ES1501%: a. Singapore-Cambridge GCE \u2018A\u2019 level, General Paper (A grade) b. Singapore-Cambridge GCE \u2018A\u2019 level, Knowledge Inquiry (A grade) c. International Baccalaureate, Theory of Knowledge (A grade) d. NUS High School of Mathematics and Science, EL5102 English for Academic Purposes Critical Reading & Writing (A grade) e. NUS High School of Mathematics and Science, EL5101 Language in Society II and EL6103 Language in Society III (A- grade for both modules). 3. Global Engineering Programme (GEP) and Double Degree Programme (DDP) students who obtained the minimum grade required as indicated below are also eligible to read ES1501%: a. Singapore-Cambridge GCE \u2018A\u2019 level, General Paper (B grade) b. Singapore-Cambridge GCE \u2018A\u2019 level, Knowledge Inquiry (B grade) c. International Baccalaureate, Theory of Knowledge (B grade) d. NUS High School of Mathematics and Science, EL5102 English for Academic Purposes Critical Reading & Writing (B grade) e. NUS High School of Mathematics and Science, EL5101 Language in Society II and EL6103 Language in Society III (B- grade for both modules)",
+"preclusionList": [
+            "ES1531",
+            "ES1601",
+            "ES1201L",
+            "ES2331",
+            "ES1201G",
+            "ES1501",
+            "UTW1001",
+            "IEM1201",
+            "WP2201"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "ES1501Q", 
+            "children": []
+},
+"moduleDescription": "English has culturally the most diverse range of speakers in the world, and to communicate effectively in English, an understanding of cultural differences that affect communication is required. This course engages students in exploring how English is shaped by the Anglo culture in which it was first used, and how its use is in turn shaped by other cultures. We will examine, in particular, Singlish (a variety of Singapore English) and how Singapore\u2019s multiethnic and multicultural heritage has shaped this variety of spoken Singapore English. Through the use of textual and multimodal sources, interactive discussions and critical reflection, students will engage in in-depth analysis and develop an understanding of the cultural literacy issues that affect English communication in Singapore and to showcase this understanding through well-reasoned academic writing.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "NON-FACULTY-BASED DEPARTMENTS",
+"department": "CTR FOR ENGLISH LANGUAGE COMMUNICATION",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2014,0,2,0,0],[0,0,0,0,0],[2016,0,2,0,0]]
+}

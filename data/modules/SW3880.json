@@ -1,7 +1,7 @@
 {
 "moduleCode": "SW3880",
 "moduleTitle": "Special Topics in Social Work",
-"moduleCredit": "4",
+"moduleCredit": "5",
 "lockedModules":[
 ],
 "preclusion": "NIL",
@@ -10,7 +10,7 @@
 "parsedPrerequisite" : "nil",
 "prerequisiteList": [],
 "completePrerequisite": {
-            "name": "SW3880", 
+            "name": "SW4101", 
             "children": []
 },
 "moduleDescription": "Special topics current in social work practice and research such as sexual violence, infertility, substance abuse , problem gambling, cyber gaming addiction, and trauma may be offered in this module.",
@@ -18,5 +18,5 @@
 "corequisite": "-1",
 "faculty": "ARTS & SOCIAL SCIENCES",
 "department": "SOCIAL WORK",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,1,0,0,0]]
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2014,1,0,0,0],[2015,1,0,0,0],[0,0,0,0,0]]
 }

@@ -1,7 +1,7 @@
 {
 "moduleCode": "BMA5532A",
 "moduleTitle": "Topics in Big Picture Marketing",
-"moduleCredit": "2",
+"moduleCredit": "4",
 "lockedModules":[
 ],
 "preclusion": "NIL",
@@ -12,7 +12,7 @@
 },
 "prerequisiteList": ["BMA5009"],
 "completePrerequisite": {
-            "name": "BMA5532A", 
+            "name": "BMA5533", 
             "children": [
                 {
                     "name": "BMA5009", 
@@ -25,5 +25,5 @@
 "corequisite": "-1",
 "faculty": "SCHOOL OF BUSINESS",
 "department": "MARKETING",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,0,2,0,0]]
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,0,2,0,0],[0,0,0,0,0]]
 }

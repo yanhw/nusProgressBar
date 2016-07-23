@@ -8,15 +8,38 @@
 "prerequisite" : "NIL",
 "preclusionList": [],
 "parsedPrerequisite" : "nil",
-"prerequisiteList": [],
+"prerequisiteList": ["YCC1111","YCC1112","YCC2121"],
 "completePrerequisite": {
-            "name": "YHU2238", 
-            "children": []
+            "name": "YHU2239", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "YCC1111", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "YCC1112", 
+                            "children": [
+                                {
+                                    "name": "YCC1111", 
+                                    "children": []
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "YCC2121", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
 },
 "moduleDescription": "This course links a survey of Roman art and material culture to Roman urban life. Using spheres of urban life - from political spaces to cemeteries - as its organizing principle, the course combines archaeological evidence and textual material to chart the development of Roman society from 100 B.C.E - 400 C.E. Urban planning, public monuments, political imagery, and the rich visual world of Roman cities, houses and tombs will be discussed in relationship to the forces of broad political, social and cultural change that shaped their formal development.",
 "crossModule": "-1",
 "corequisite": "-1",
 "faculty": "YALE-NUS COLLEGE",
 "department": "YALE-NUS COLLEGE",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,0,2,0,0]]
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,0,2,0,0],[0,0,0,0,0]]
 }

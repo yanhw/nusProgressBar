@@ -1,0 +1,22 @@
+{
+"moduleCode": "EC5326R",
+"moduleTitle": "Policy Impact Evaluation Methods",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "EC5326R", 
+            "children": []
+},
+"moduleDescription": "This module covers the main policy impact evaluation methods. The aim is to understand how to evaluate the causal impact of a policy and how to choose the best method depending on the type of policy and on the context. This module is suitable for students interested in policy issues.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "ECONOMICS",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[2013,0,2,0,0],[2014,0,2,0,0],[0,0,0,0,0],[2016,0,2,0,0]]
+}

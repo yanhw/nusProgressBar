@@ -3,7 +3,8 @@
 "moduleTitle": "Engineering Visualization & Modeling",
 "moduleCredit": "3",
 "lockedModules":[
-],
+            "ME3103"
+        ],
 "preclusion": "NIL",
 "prerequisite" : "NIL",
 "preclusionList": [],
@@ -18,5 +19,5 @@
 "corequisite": "-1",
 "faculty": "ENGINEERING",
 "department": "MECHANICAL ENGINEERING",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,0,2,0,0]]
+"history": [[0,0,0,0,0],[2012,1,0,0,0],[2013,1,0,0,0],[2014,1,2,0,0],[2015,0,2,0,0],[2016,0,2,0,0]]
 }

@@ -1,16 +1,19 @@
 {
 "moduleCode": "AY1111",
 "moduleTitle": "Anatomy",
-"moduleCredit": "1",
+"moduleCredit": "4",
 "lockedModules":[
-],
+            "PA1113",
+            "PY1131",
+            "PX2108"
+        ],
 "preclusion": "NIL",
 "prerequisite" : "NIL",
 "preclusionList": [],
 "parsedPrerequisite" : "nil",
 "prerequisiteList": [],
 "completePrerequisite": {
-            "name": "AY1111", 
+            "name": "AY1130", 
             "children": []
 },
 

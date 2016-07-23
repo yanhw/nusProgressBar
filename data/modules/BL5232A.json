@@ -12,7 +12,7 @@
 },
 "prerequisiteList": ["BL5232"],
 "completePrerequisite": {
-            "name": "BL5232A", 
+            "name": "BL5232B", 
             "children": [
                 {
                     "name": "BL5232", 
@@ -25,5 +25,5 @@
 "corequisite": "-1",
 "faculty": "SCIENCE",
 "department": "BIOLOGICAL SCIENCES",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,1,0,0,0]]
+"history": [[0,0,0,0,0],[0,0,0,0,0],[2013,1,0,0,0],[2014,1,0,0,0],[2015,1,0,0,0],[0,0,0,0,0]]
 }

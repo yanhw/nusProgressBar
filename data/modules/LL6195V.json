@@ -1,0 +1,24 @@
+{
+"moduleCode": "LL6195V",
+"moduleTitle": "International Economic Law & Relations",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "Students who are taking or have taken LL6195.",
+"prerequisite": "NUS Compulsory Core Curriculum or its equivalent",
+"preclusionList": [
+            "LL6195"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "LL6195V", 
+            "children": []
+},
+"moduleDescription": "This course examines the international law and international relations dimensions of the current international economic systems and discuss the various possibilities for future reforms in light of the past and recent global economic crises. While the discussion will be based on the Bretton Woods System (the GATT/WTO, the IMF, and the World Bank), the course will focus mainly on the international regulatory framework of finance and investment. The purpose of the course is to let the students develop a bird\u2019s eye view of the legal aspects of the international economic architecture as well as the reasons \u2013 or the international political economy \u2013 behind its operation. Students will also be exposed certain fundamentals of international law and international relations concerning global economic affairs. Further, the course will examine the experiences of several countries\u2019 economic development and their use of international economic law to achieve economic growth.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "LAW",
+"department": "LAW",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2016,0,2,0,0]]
+}

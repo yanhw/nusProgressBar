@@ -1,7 +1,7 @@
 {
 "moduleCode": "EN5252",
 "moduleTitle": "Movies, Spectatorship And Subjectivity",
-"moduleCredit": "4",
+"moduleCredit": "5",
 "lockedModules":[
 ],
 "preclusion": "NIL",
@@ -10,7 +10,7 @@
 "parsedPrerequisite" : "nil",
 "prerequisiteList": [],
 "completePrerequisite": {
-            "name": "EN5252", 
+            "name": "EN5252R", 
             "children": []
 },
 "moduleDescription": "This course involves a critical interrogation of key theoretical approaches addressing the study of film spectatorship and the ways in which subjectivity is constructed. This module adopts a specialised emphasis on that tradition of film theory associated with a psychoanalytical-textual-apparatus model and offers graduate students an opportunity to engage in in-depth explorations of the key problems and issues associated with this branch of film theory. In examining the highly complex interaction between spectator and text, students will also gain a greater understanding of the ways in which issues such as gender, identity, and ideology intersect with the cinematic/visual text.",
@@ -18,5 +18,5 @@
 "corequisite": "NIL",
 "faculty": "ARTS & SOCIAL SCIENCES",
 "department": "ENGLISH LANGUAGE & LITERATURE",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,1,0,0,0]]
+"history": [[0,0,0,0,0],[0,0,0,0,0],[2013,1,0,0,0],[2014,1,0,0,0],[2015,1,0,0,0],[0,0,0,0,0]]
 }

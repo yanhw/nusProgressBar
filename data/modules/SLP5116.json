@@ -1,0 +1,22 @@
+{
+"moduleCode": "SLP5116",
+"moduleTitle": "Research Project 2",
+"moduleCredit": "8",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "SLP5116", 
+            "children": []
+},
+
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "YONG LOO LIN SCHOOL OF MEDICINE",
+"department": "DIVISION OF GRADUATE MEDICAL STUDIES",
+"history": [[0,0,0,0,0],[2012,0,0,3,0],[0,0,0,0,0],[2014,1,2,3,4],[0,0,0,0,0],[2016,1,0,0,0]]
+}

@@ -3,10 +3,10 @@
 "moduleTitle": "Algebra II",
 "moduleCredit": "4",
 "lockedModules":[
-            "MA5208",
             "MA5203",
+            "MA4203",
             "MA4261",
-            "MA4203"
+            "MA5211"
         ],
 "preclusion": "NIL",
 "prerequisite": "(MA2202 or MA2202S) and (MA2101 or MA2101S)",
@@ -209,5 +209,5 @@
 "corequisite": "-1",
 "faculty": "SCIENCE",
 "department": "MATHEMATICS",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,0,2,0,0]]
+"history": [[0,0,0,0,0],[2012,0,2,0,0],[2013,0,2,0,0],[2014,0,2,0,0],[2015,0,2,0,0],[2016,0,2,0,0]]
 }

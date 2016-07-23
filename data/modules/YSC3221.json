@@ -5,54 +5,18 @@
 "lockedModules":[
 ],
 "preclusion": "NIL",
-"prerequisite": "YSC3207 Principles and Tools of Software Development YSC3205 Linear Algebra Or permission of instructor",
+"prerequisite": "YSC1202 Introduction to Computation and Programming for All or permission of instructor",
 "preclusionList": [],
 "parsedPrerequisite": {
-            " and ": [
-                "YSC3207", 
-                "YSC3205"
-            ]
+" and ": ["YSC1202"]
 },
-"prerequisiteList": ["YSC3207","YCC2133","YCC1132","YSC1202","YSC3205","YSC2209"],
+"prerequisiteList": ["YSC1202"],
 "completePrerequisite": {
             "name": "YSC3221", 
             "children": [
                 {
-                    "name": "and", 
-                    "children": [
-                        {
-                            "name": "YSC3207", 
-                            "children": [
-                                {
-                                    "name": "or", 
-                                    "children": [
-                                        {
-                                            "name": "YCC2133", 
-                                            "children": [
-                                                {
-                                                    "name": "YCC1132", 
-                                                    "children": []
-                                                }
-                                            ]
-                                        }, 
-                                        {
-                                            "name": "YSC1202", 
-                                            "children": []
-                                        }
-                                    ]
-                                }
-                            ]
-                        }, 
-                        {
-                            "name": "YSC3205", 
-                            "children": [
-                                {
-                                    "name": "YSC2209", 
-                                    "children": []
-                                }
-                            ]
-                        }
-                    ]
+                    "name": "YSC1202", 
+                    "children": []
                 }
             ]
 },
@@ -61,5 +25,5 @@
 "corequisite": "-1",
 "faculty": "YALE-NUS COLLEGE",
 "department": "YALE-NUS COLLEGE",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,0,2,0,0]]
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,0,2,0,0],[2016,1,0,0,0]]
 }

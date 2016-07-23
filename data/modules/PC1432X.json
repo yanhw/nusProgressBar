@@ -4,8 +4,12 @@
 "moduleCredit": "4",
 "lockedModules":[
             "PC2130B",
+            "PC2130",
             "SP2251",
-            "PC3232B"
+            "PC2193",
+            "PC2267",
+            "PC3232B",
+            "PC2131"
         ],
 "preclusion": "Students majoring in Physics or students who have passed in PC1143 or PC1144 or PC1432 are not allowed to take this module.",
 "prerequisite": "Students from FOE ( i.e. Computer Eng, Common Engineering, Bioengineering, Industrial & Systems Eng and Material Science & Eng) with \u2018A\u2019 level or H2 pass in Physics; or 'A' level or H2 pass in Physics; or PC1221/PC1221FC/PC1221X & PC1222/PC1222X",
@@ -25,5 +29,5 @@
 "corequisite": "-1",
 "faculty": "SCIENCE",
 "department": "PHYSICS",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,0,2,3,0]]
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,0,2,3,0],[2016,0,2,3,0]]
 }

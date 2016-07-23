@@ -1,0 +1,22 @@
+{
+"moduleCode": "UTC2703",
+"moduleTitle": "Infectious Diseases: Dynamics, Strategies and Policies",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "UTC2703", 
+            "children": []
+},
+"moduleDescription": "Waves of infectious diseases like Ebola, SARS, and avian flu have shaken countries in recent years. The complex unpredictable nature of infectious diseases has also been a source of fear and threat to humans and other life forms for several centuries. The origin, spread, prevention and control of infectious diseases involve actors including animals, birds, insects, humans, environment, society and economics. This module will explore the interconnections and interdependencies between these actors as models that involve a \u201csystem of systems\u201d. Besides helping to relate model structure to dynamic behaviour, the models will be used to design optimal vaccination and control policies.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "NON-FACULTY-BASED DEPARTMENTS",
+"department": "RESIDENTIAL COLLEGE 4",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2016,1,0,0,0]]
+}

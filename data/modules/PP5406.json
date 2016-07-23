@@ -1,0 +1,22 @@
+{
+"moduleCode": "PP5406",
+"moduleTitle": "Quantitative Research Methods for Public Policy 1",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "PP5406", 
+            "children": []
+},
+"moduleDescription": "To train students to be competent users and producers of quantitative evidence for policy analysis, this module will equip students with foundational quantitative analytic skills. The focus is on basic concepts of multiple regression analysis and its applications to real-world policy problems. Exercises through textbook examples, case studies, and group projects will enable students to identify the strengths and weaknesses of the method. PP5407, provided in sequence in the second semester, will provide students with more in-depth knowledge and skills required to understand and conduct policy evaluation.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "LEE KUAN YEW SCHOOL OF PUBLIC POLICY",
+"department": "LEE KUAN YEW SCHOOL OF PUBLIC POLICY",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2016,1,0,0,0]]
+}

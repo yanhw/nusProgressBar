@@ -3,11 +3,12 @@
 "moduleTitle": "Corporate Finance",
 "moduleCredit": "4",
 "lockedModules":[
+            "FIN3118",
+            "FIN3132",
             "FIN4118",
             "FIN4113",
             "FIN4111",
-            "BMF5002",
-            "FIN3118",
+            "FIN4116",
             "FIN4112M",
             "FIN4112L",
             "FIN3120B"
@@ -119,5 +120,5 @@
 "corequisite": "-1",
 "faculty": "SCHOOL OF BUSINESS",
 "department": "FINANCE",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,0,2,0,0]]
+"history": [[0,0,0,0,0],[2012,1,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,0,2,0,0],[2016,0,2,0,0]]
 }

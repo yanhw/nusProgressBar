@@ -6,15 +6,22 @@
             "PC3193"
         ],
 "preclusion": "NIL",
-"prerequisite": "STUDENTS WHO HAVE PASSED ONE OF THESE MODULES PC1141, PC1142, PC1143, PC1144, PC1431, PC1431FC, PC1431X, PC1432 OR PC1433",
+"prerequisite": "Students who have passed one of these modules PC1141, PC1142, PC1143, PC1144, PC1431, PC1431FC, PC1431X, PC1432/PC1432X or PC1433.",
 "preclusionList": [],
 "parsedPrerequisite": {
             " and ": [
-                "PC1432", 
-                "PC1433"
+                "PC1431F", 
+                "PC1431X", 
+                {
+                    " or ": [
+                        "PC1432", 
+                        "PC1432X", 
+                        "PC1433"
+                    ]
+                }
             ]
 },
-"prerequisiteList": ["PC1432","PC1433"],
+"prerequisiteList": ["PC1431F","PC1431X","PC1432","PC1432X","PC1433"],
 "completePrerequisite": {
             "name": "PC2193", 
             "children": [
@@ -22,12 +29,29 @@
                     "name": "and", 
                     "children": [
                         {
-                            "name": "PC1432", 
+                            "name": "PC1431F", 
                             "children": []
                         }, 
                         {
-                            "name": "PC1433", 
+                            "name": "PC1431X", 
                             "children": []
+                        }, 
+                        {
+                            "name": "or", 
+                            "children": [
+                                {
+                                    "name": "PC1432", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "PC1432X", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "PC1433", 
+                                    "children": []
+                                }
+                            ]
                         }
                     ]
                 }
@@ -38,5 +62,5 @@
 "corequisite": "-1",
 "faculty": "SCIENCE",
 "department": "PHYSICS",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,1,2,0,0]]
+"history": [[0,0,0,0,0],[2012,1,2,0,0],[2013,1,2,0,0],[2014,1,2,0,0],[2015,1,2,0,0],[2016,1,2,0,0]]
 }

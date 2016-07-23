@@ -13,7 +13,7 @@
 },
 "prerequisiteList": ["YID1201"],
 "completePrerequisite": {
-            "name": "YID2201", 
+            "name": "YID2202", 
             "children": [
                 {
                     "name": "YID1201", 
@@ -26,5 +26,5 @@
 "corequisite": "YID1201 (Introduction to Environmental Studies), or permission of instructor",
 "faculty": "YALE-NUS COLLEGE",
 "department": "YALE-NUS COLLEGE",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,0,2,0,0]]
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2014,0,2,0,0],[2015,0,2,0,0],[0,0,0,0,0]]
 }

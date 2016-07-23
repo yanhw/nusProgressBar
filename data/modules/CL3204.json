@@ -1,0 +1,29 @@
+{
+"moduleCode": "CL3204",
+"moduleTitle": "Classical Chinese",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "CL1101E",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["CL1101E"]
+},
+"prerequisiteList": ["CL1101E"],
+"completePrerequisite": {
+            "name": "CL3204", 
+            "children": [
+                {
+                    "name": "CL1101E", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "The course is designed to introduce students to important grammatical features of Classical Chinese. Lexical study and some knowledge of Chinese writing system will also be examined for their contribution to our understanding of Classical Chinese. The course is focused on the analysis of Pre-Qin literature. Classroom activities will include lectures, group discussions and some take-home assignments.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "CHINESE STUDIES",
+"history": [[0,0,0,0,0],[2012,1,0,0,0],[0,0,0,0,0],[2014,1,0,0,0],[0,0,0,0,0],[2016,1,0,0,0]]
+}

@@ -3,12 +3,11 @@
 "moduleTitle": "Data Structures and Algorithms I",
 "moduleCredit": "4",
 "lockedModules":[
-            "IS2150",
-            "CS6244",
             "BT3102",
             "CG2271",
             "CS5240",
             "IS2103",
+            "CS5239",
             "CS2103T",
             "IS4241",
             "CS2102R",
@@ -17,6 +16,7 @@
             "CS2102",
             "CS2104",
             "CS2010",
+            "BT4222",
             "CS3241",
             "CS3240",
             "CS2105",
@@ -53,5 +53,5 @@
 "corequisite": "Nil",
 "faculty": "SCHOOL OF COMPUTING",
 "department": "COMPUTER SCIENCE",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,1,2,0,4]]
+"history": [[0,0,0,0,0],[2012,1,2,0,0],[2013,1,2,0,0],[2014,1,2,0,0],[2015,1,2,0,4],[2016,1,2,0,4]]
 }

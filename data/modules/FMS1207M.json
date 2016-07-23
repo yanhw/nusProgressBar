@@ -92,7 +92,7 @@
 "parsedPrerequisite" : "nil",
 "prerequisiteList": [],
 "completePrerequisite": {
-            "name": "FMS1207M", 
+            "name": "FMS1208B", 
             "children": []
 },
 "moduleDescription": "Mathematics plays an important role in computing: Boolean algebra and basic arithmetic is used for building the basic elements of computers, mathematical logic is used to describe the theoretical foundations of computer science, linear algebra and geometry are used when modelling of physical environments and virtual realities for animated movies and video games; game theory is employed when programming strategic games like chess and go on computers. The seminar gives an overview of the role of mathematics in computer science and the history of the two disciplines.",
@@ -100,5 +100,5 @@
 "corequisite": "-1",
 "faculty": "SCIENCE",
 "department": "MATHEMATICS",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,0,2,0,0]]
+"history": [[0,0,0,0,0],[2012,1,0,0,0],[2013,1,0,0,0],[2014,0,2,0,0],[2015,0,2,0,0],[0,0,0,0,0]]
 }

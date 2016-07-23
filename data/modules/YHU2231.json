@@ -8,10 +8,29 @@
 "prerequisite" : "NIL",
 "preclusionList": [],
 "parsedPrerequisite" : "nil",
-"prerequisiteList": [],
+"prerequisiteList": ["YCC1111","YCC1112"],
 "completePrerequisite": {
-            "name": "YHU2231", 
-            "children": []
+            "name": "YHU2232", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "YCC1111", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "YCC1112", 
+                            "children": [
+                                {
+                                    "name": "YCC1111", 
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
 },
 "moduleDescription": "The literary translation workshop is a seminar-style course in the craft and theory of literary translation. Emphasis is placed on developing the practical skills needed to become a literary translator. Advanced reading abilities in at least one foreign language is required.",
 "crossModule": "-1",

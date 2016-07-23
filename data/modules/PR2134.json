@@ -3,7 +3,8 @@
 "moduleTitle": "Self Care I",
 "moduleCredit": "4",
 "lockedModules":[
-],
+            "PR3122"
+        ],
 "preclusion": "NIL",
 "prerequisite": "PX2108, PA1113, PR1140",
 "preclusionList": [],
@@ -66,5 +67,5 @@
 "corequisite": "-1",
 "faculty": "SCIENCE",
 "department": "PHARMACY",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,0,2,0,0]]
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,0,2,0,0],[2016,0,2,0,0]]
 }

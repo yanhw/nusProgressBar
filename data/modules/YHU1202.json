@@ -1,0 +1,22 @@
+{
+"moduleCode": "YHU1202",
+"moduleTitle": "History and Culture of Southeast Asia",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "YHU1202", 
+            "children": []
+},
+"moduleDescription": "This course will examine Southeast Asia from a historical and anthropological perspective. We will explore such questions as: can we speak of a \u201cSoutheast Asian\u201d history and culture, or is Southeast Asia a product of external influences? How have colonialism and the nationality shaped Southeast Asia? What is the role of Buddhism, Islam, and Catholicism in Southeast Asian cultures? This course will not only chart the past (and future) of the region, but also apply the insights that we gain from studying Southeast Asia to how we understand the rest of the world.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "YALE-NUS COLLEGE",
+"department": "YALE-NUS COLLEGE",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[2013,0,2,0,0],[0,0,0,0,0],[0,0,0,0,0],[2016,1,0,0,0]]
+}

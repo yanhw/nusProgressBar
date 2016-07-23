@@ -16,7 +16,7 @@
                 "IS3150"
             ]
 },
-"prerequisiteList": ["CS3240","CS1020","CS1010","NM2217","NM3209","IS2150","CS1102","CS1102S","IS1112","IS3230","IS3150","IS1105"],
+"prerequisiteList": ["CS3240","CS1020","CS1010","NM2217","NM3209","IS2150","IS3230","IS1103","IS1105","CS2105","IS1112","IS3150"],
 "completePrerequisite": {
             "name": "IS4102", 
             "children": [
@@ -52,43 +52,48 @@
                         }, 
                         {
                             "name": "IS2150", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "IS3230", 
                             "children": [
                                 {
                                     "name": "and", 
                                     "children": [
                                         {
+                                            "name": "IS1103", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "IS1105", 
+                                            "children": []
+                                        }, 
+                                        {
                                             "name": "or", 
                                             "children": [
                                                 {
-                                                    "name": "CS1020", 
+                                                    "name": "CS2105", 
                                                     "children": [
                                                         {
-                                                            "name": "CS1010", 
-                                                            "children": []
+                                                            "name": "CS1020", 
+                                                            "children": [
+                                                                {
+                                                                    "name": "CS1010", 
+                                                                    "children": []
+                                                                }
+                                                            ]
                                                         }
                                                     ]
                                                 }, 
                                                 {
-                                                    "name": "CS1102", 
-                                                    "children": []
-                                                }, 
-                                                {
-                                                    "name": "CS1102S", 
+                                                    "name": "IS1112", 
                                                     "children": []
                                                 }
                                             ]
-                                        }, 
-                                        {
-                                            "name": "IS1112", 
-                                            "children": []
                                         }
                                     ]
                                 }
                             ]
-                        }, 
-                        {
-                            "name": "IS3230", 
-                            "children": []
                         }, 
                         {
                             "name": "IS3150", 
@@ -117,5 +122,5 @@
 "corequisite": "NIL",
 "faculty": "SCHOOL OF COMPUTING",
 "department": "INFORMATION SYSTEMS",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,1,0,0,0]]
+"history": [[0,0,0,0,0],[2012,1,0,0,0],[2013,1,0,0,0],[2014,1,0,0,0],[2015,1,0,0,0],[2016,1,0,0,0]]
 }

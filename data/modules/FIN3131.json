@@ -273,7 +273,83 @@
                         }, 
                         {
                             "name": "FIN3102C", 
-                            "children": []
+                            "children": [
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "FNA2004", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "FIN2004", 
+                                            "children": [
+                                                {
+                                                    "name": "or", 
+                                                    "children": [
+                                                        {
+                                                            "name": "BK1003", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "BZ1002", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "BH1002", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "FNA1002", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "ACC1002", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "FNA1002X", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "ACC1002X", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "FNA1002E", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "BH1002E", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "EC3212", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "EG1422", 
+                                                            "children": []
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "BH2004", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "BZ2004", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "BK2004", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
                         }
                     ]
                 }
@@ -284,5 +360,5 @@
 "corequisite": "-1",
 "faculty": "SCHOOL OF BUSINESS",
 "department": "FINANCE",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,1,2,0,0]]
+"history": [[0,0,0,0,0],[2012,1,0,0,0],[2013,0,2,0,0],[2014,0,2,0,0],[2015,1,2,0,0],[2016,1,2,0,0]]
 }

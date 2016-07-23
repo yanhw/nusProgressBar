@@ -1,7 +1,7 @@
 {
 "moduleCode": "SXP1997",
 "moduleTitle": "Exchange Enrichment Level 1000 Module",
-"moduleCredit": "4",
+"moduleCredit": "2",
 "lockedModules":[
 ],
 "preclusion": "NIL",
@@ -10,7 +10,7 @@
 "parsedPrerequisite" : "nil",
 "prerequisiteList": [],
 "completePrerequisite": {
-            "name": "SXP1997", 
+            "name": "SXP2991", 
             "children": []
 },
 

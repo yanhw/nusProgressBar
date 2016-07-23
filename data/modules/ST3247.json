@@ -5,7 +5,7 @@
 "lockedModules":[
 ],
 "preclusion": "NIL",
-"prerequisite": "{ST2131 or ST2334 or MA2216} and {CS1010 or CS1010E or CS1010S or CS1010FC or CG1101 or IT1002 or IT1006}",
+"prerequisite": "{ST2131 or ST2334 or MA2216} and {CS1010 or CS1010E or CS1010S or CS1010FC or IT1006}",
 "preclusionList": [],
 "parsedPrerequisite": {
             " and ": [
@@ -22,14 +22,12 @@
                         "CS1010E", 
                         "CS1010S", 
                         "CS1010F", 
-                        "CG1101", 
-                        "IT1002", 
                         "IT1006"
                     ]
                 }
             ]
 },
-"prerequisiteList": ["ST2131","MA1102","MA1102R","MA1312","MA1507","MA1505","MA1505C","MA1521","ST2334","MA1306","MA2216","CS1010","CS1010E","CS1010S","CS1010F","CG1101","IT1002","IT1006"],
+"prerequisiteList": ["ST2131","MA1102","MA1102R","MA1312","MA1507","MA1505","MA1505C","MA1521","ST2334","MA2216","CS1010","CS1010E","CS1010S","CS1010F","IT1006"],
 "completePrerequisite": {
             "name": "ST3247", 
             "children": [
@@ -84,27 +82,7 @@
                                             "name": "or", 
                                             "children": [
                                                 {
-                                                    "name": "MA1306", 
-                                                    "children": []
-                                                }, 
-                                                {
-                                                    "name": "MA1102", 
-                                                    "children": []
-                                                }, 
-                                                {
                                                     "name": "MA1102R", 
-                                                    "children": []
-                                                }, 
-                                                {
-                                                    "name": "MA1505", 
-                                                    "children": []
-                                                }, 
-                                                {
-                                                    "name": "MA1505C", 
-                                                    "children": []
-                                                }, 
-                                                {
-                                                    "name": "MA1521", 
                                                     "children": []
                                                 }, 
                                                 {
@@ -112,7 +90,15 @@
                                                     "children": []
                                                 }, 
                                                 {
+                                                    "name": "MA1505", 
+                                                    "children": []
+                                                }, 
+                                                {
                                                     "name": "MA1507", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MA1521", 
                                                     "children": []
                                                 }
                                             ]
@@ -179,14 +165,6 @@
                                     "children": []
                                 }, 
                                 {
-                                    "name": "CG1101", 
-                                    "children": []
-                                }, 
-                                {
-                                    "name": "IT1002", 
-                                    "children": []
-                                }, 
-                                {
                                     "name": "IT1006", 
                                     "children": []
                                 }
@@ -201,5 +179,5 @@
 "corequisite": "-1",
 "faculty": "SCIENCE",
 "department": "STATISTICS & APPLIED PROBABILITY",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,0,2,0,0]]
+"history": [[0,0,0,0,0],[0,0,0,0,0],[2013,0,2,0,0],[2014,0,2,0,0],[2015,0,2,0,0],[2016,0,2,0,0]]
 }

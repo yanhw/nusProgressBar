@@ -1,0 +1,47 @@
+{
+"moduleCode": "EE3409",
+"moduleTitle": "Microelectronic Applications for Modern Life",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "EE2021 Devices and Circuits",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["EE2021"]
+},
+"prerequisiteList": ["EE2021","EE1002","EG1108","CG1108"],
+"completePrerequisite": {
+            "name": "EE3409", 
+            "children": [
+                {
+                    "name": "EE2021", 
+                    "children": [
+                        {
+                            "name": "or", 
+                            "children": [
+                                {
+                                    "name": "EE1002", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "EG1108", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "CG1108", 
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module gives an introduction of microelectronic devices deployed in modern gadgets/equipment, e.g., smartphones, wearable electronics and driverless cars. These gadgets/equipment showcase how advanced microelectronic technology has impacted our lives. The working principles of these microelectronic devices will be described. Specifications and key features of these devices will also be analysed, so that students will learn how to apply these devices for diverse applications in our everyday life.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "ELECTRICAL & COMPUTER ENGINEERING",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2016,0,2,0,0]]
+}

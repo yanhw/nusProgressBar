@@ -1,0 +1,22 @@
+{
+"moduleCode": "BL5229",
+"moduleTitle": "Fundamentals in Biophysical Sciences",
+"moduleCredit": "2",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "Students should have attended advanced undergraduate courses in Biology and with basic concepts in Mathematics and Physics.",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "BL5229", 
+            "children": []
+},
+"moduleDescription": "The module is directed towards graduates who have acquired background knowledge of Biology but are interested in more advance mathematical and physical concepts that are fundamental to Biophysical Sciences. The module will introduce topics like algebra, fourier transformation, quantum mechanics, thermodynamics, optics, microscopy and computational programming and simulation, etc.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCIENCE",
+"department": "BIOLOGICAL SCIENCES",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[2013,0,2,0,0],[2014,0,2,0,0],[0,0,0,0,0],[2016,1,0,0,0]]
+}

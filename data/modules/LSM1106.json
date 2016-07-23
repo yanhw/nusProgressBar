@@ -1,0 +1,25 @@
+{
+"moduleCode": "LSM1106",
+"moduleTitle": "Molecular Cell Biology",
+"moduleCredit": "4",
+"lockedModules":[
+            "FST2201"
+        ],
+"preclusion": "LSM1101",
+"prerequisite": "GCE \u2018A\u2019 Level or H2 Biology or equivalent, or LSM1301 or LSM1301X",
+"preclusionList": [
+            "LSM1101"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "LSM1106", 
+            "children": []
+},
+"moduleDescription": "The objective is to provide the student with a firm and rigorous foundation in current concepts of the structure and functions of biomolecules in molecular cellular biology. These fundamental concepts form the basis of almost all recent advances in biological and the biomedical sciences. The lectures will introduce various cellular organelles as models to gain insights into how structures and functions of classes of biomolecules participating in important cellular processes.",
+"crossModule": "-1",
+"corequisite": "Nil",
+"faculty": "YONG LOO LIN SCHOOL OF MEDICINE",
+"department": "BIOCHEMISTRY",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2016,1,2,0,0]]
+}

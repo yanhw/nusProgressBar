@@ -36,7 +36,7 @@
                 }
             ]
 },
-"prerequisiteList": ["MA2213","MA1102R","MA1312","MA1507","MA1505","MA1521","EG1402","EE1401","EE1461","MA1101R","MA1311","MA1508","MA1506","MA1104","MA1102","MA1505C","MA2311","MA1421","MA2101","MA1101","GM1302","GM1308","MA2101S","MA2216","ST2131","ST2334","MA1306"],
+"prerequisiteList": ["MA2213","MA1102R","MA1312","MA1507","MA1505","MA1521","EG1402","EE1401","EE1461","MA1101R","MA1311","MA1508","MA1506","MA1104","MA1102","MA1505C","MA2311","MA1421","MA2101","MA1101","GM1302","GM1308","MA2101S","MA2216","ST2131","ST2334"],
 "completePrerequisite": {
             "name": "MA3227", 
             "children": [
@@ -427,27 +427,7 @@
                                             "name": "or", 
                                             "children": [
                                                 {
-                                                    "name": "MA1306", 
-                                                    "children": []
-                                                }, 
-                                                {
-                                                    "name": "MA1102", 
-                                                    "children": []
-                                                }, 
-                                                {
                                                     "name": "MA1102R", 
-                                                    "children": []
-                                                }, 
-                                                {
-                                                    "name": "MA1505", 
-                                                    "children": []
-                                                }, 
-                                                {
-                                                    "name": "MA1505C", 
-                                                    "children": []
-                                                }, 
-                                                {
-                                                    "name": "MA1521", 
                                                     "children": []
                                                 }, 
                                                 {
@@ -455,7 +435,15 @@
                                                     "children": []
                                                 }, 
                                                 {
+                                                    "name": "MA1505", 
+                                                    "children": []
+                                                }, 
+                                                {
                                                     "name": "MA1507", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MA1521", 
                                                     "children": []
                                                 }
                                             ]
@@ -473,5 +461,5 @@
 "corequisite": "Nil",
 "faculty": "SCIENCE",
 "department": "MATHEMATICS",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,0,2,0,0]]
+"history": [[0,0,0,0,0],[2012,0,2,0,0],[2013,0,2,0,0],[2014,0,2,0,0],[2015,0,2,0,0],[2016,0,2,0,0]]
 }

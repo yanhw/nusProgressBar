@@ -8,15 +8,56 @@
 "prerequisite": "A basic background in optics is recommended",
 "preclusionList": [],
 "parsedPrerequisite" : "nil",
-"prerequisiteList": [],
+"prerequisiteList": ["PC3236","MA1505","MA1506","MA1102R","MA1521","PC2174"],
 "completePrerequisite": {
-            "name": "PC5214", 
-            "children": []
+            "name": "PC5215", 
+            "children": [
+                {
+                    "name": "PC3236", 
+                    "children": [
+                        {
+                            "name": "and", 
+                            "children": [
+                                {
+                                    "name": "MA1505", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "MA1506", 
+                                    "children": [
+                                        {
+                                            "name": "or", 
+                                            "children": [
+                                                {
+                                                    "name": "MA1102R", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MA1505", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MA1521", 
+                                                    "children": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }, 
+                                {
+                                    "name": "PC2174", 
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
 },
 "moduleDescription": "This module provides experimental knowledge on techniques used in modern optical and atomic physics. The focus is on practical implementation of optical measurement methods, and the corresponding technology. Areas covered are practical photodetection, lock-in signal recovery, simple feedback systems, FPI cavities, optical thin films, basic vacuum systems, manipulation of cold atoms, and aspects of working at low temperatures (below 77K). The module will have a strong focus in practical techniques, targeting students who intend to work in the area of atomic, molecular, ion and optical or cryogenic physics.",
 "crossModule": "-1",
 "corequisite": "-1",
 "faculty": "-1",
 "department": "-1",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0]]
+"history": [[0,0,0,0,0],[0,0,0,0,0],[2013,1,0,0,0],[2014,1,0,0,0],[0,0,0,0,0],[0,0,0,0,0]]
 }

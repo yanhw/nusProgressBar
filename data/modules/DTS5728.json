@@ -1,0 +1,29 @@
+{
+"moduleCode": "DTS5728",
+"moduleTitle": "Robotic Technologies for Unmanned Systems",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "DTS2701",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["DTS2701"]
+},
+"prerequisiteList": ["DTS2701"],
+"completePrerequisite": {
+            "name": "DTS5728", 
+            "children": [
+                {
+                    "name": "DTS2701", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "Unmanned autonomous systems are playing an increasingly important role in a broad range of applications, eg, self-driving cars, unmanned aerial vehicles (UAVs), humanoid, etc. This module gives an overview of core robotic technologies that underlie these systems and selective details for their implementation. The course provides opportunities for students to participate actively and visit robotics laboratories at NUS.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "NON-FACULTY-BASED DEPARTMENTS",
+"department": "TEMASEK DEFENCE SYSTEMS INSTITUTE",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2016,1,0,0,0]]
+}

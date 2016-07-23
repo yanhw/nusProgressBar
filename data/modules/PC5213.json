@@ -13,7 +13,7 @@
                 "PC4268"
             ]
 },
-"prerequisiteList": ["PC4267","PC3267","PC2131","PC1143","PC1432","MA1505","MA1506","MA1102R","MA1521","MA1101R","PC2267","PC1421","EE2011","PC4268"],
+"prerequisiteList": ["PC4267","PC3267","PC2131","PC1143","PC1432","PC1432X","MA1505","MA1506","MA1102R","MA1521","MA1101R","PC2267","PC1421","EE2011","PC4268"],
 "completePrerequisite": {
             "name": "PC5213", 
             "children": [
@@ -44,6 +44,10 @@
                                                                         }, 
                                                                         {
                                                                             "name": "PC1432", 
+                                                                            "children": []
+                                                                        }, 
+                                                                        {
+                                                                            "name": "PC1432X", 
                                                                             "children": []
                                                                         }
                                                                     ]
@@ -116,6 +120,10 @@
                                                                     "children": []
                                                                 }, 
                                                                 {
+                                                                    "name": "PC1432X", 
+                                                                    "children": []
+                                                                }, 
+                                                                {
                                                                     "name": "PC1421", 
                                                                     "children": []
                                                                 }
@@ -178,5 +186,5 @@
 "corequisite": "-1",
 "faculty": "SCIENCE",
 "department": "PHYSICS",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,0,2,0,0]]
+"history": [[0,0,0,0,0],[0,0,0,0,0],[2013,0,2,0,0],[2014,0,2,0,0],[2015,0,2,0,0],[2016,0,2,0,0]]
 }

@@ -3,7 +3,8 @@
 "moduleTitle": "Corporate Strategy",
 "moduleCredit": "4",
 "lockedModules":[
-],
+            "BMA5126"
+        ],
 "preclusion": "NIL",
 "prerequisite": "BMA5003 and BMA5009",
 "preclusionList": [],
@@ -37,5 +38,5 @@
 "corequisite": "-1",
 "faculty": "SCHOOL OF BUSINESS",
 "department": "DEAN'S OFFICE (BIZ)",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,1,2,3,0]]
+"history": [[0,0,0,0,0],[2012,0,0,3,0],[2013,1,2,3,0],[2014,1,2,3,0],[2015,1,2,3,0],[2016,1,2,3,0]]
 }

@@ -1,0 +1,22 @@
+{
+"moduleCode": "NM4210",
+"moduleTitle": "User Experience Design",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "Cohort 2011 and before: (Not applicable to SOC/SDE/ENG students) Completed 80 MCs , including 28 MCs in NM, with a minimum CAP of 3.50 or be on the Honours track. (For SOC/SDE/ENG students) Completed 80 MCs and obtain a minimum CAP of 3.50. Cohort 2012 onwards: (Not applicable to SOC/SDE/ENG students) Completed 80 MCs , including 28 MCs in NM, with a minimum CAP of 3.20 or be on the Honours track. (For SOC/SDE/ENG students) Completed 80 MCs and obtain a minimum CAP of 3.20.",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "NM4210", 
+            "children": []
+},
+"moduleDescription": "This is an interactive media design capstone module that explores \"user experience design\"(UXD), where main concern is design and evaluation of overall quality of the interactive experience a person has when interacting with a product or a system. Students will learn relevant theory and design techniques as well as engage in sustained design and evaluation activities. Concepts introduced include user-centric design, desirability, affordance (real and perceived), emotion design -- as well as related concepts and insights from psychology, computer science, semiotics, and marketing research. The module includes a studio component that involves semester-long design and evaluation of original prototype.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "COMMUNICATIONS AND NEW MEDIA",
+"history": [[0,0,0,0,0],[2012,1,0,0,0],[2013,0,2,0,0],[2014,0,2,0,0],[0,0,0,0,0],[2016,1,0,0,0]]
+}

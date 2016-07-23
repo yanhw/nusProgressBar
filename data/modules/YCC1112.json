@@ -18,20 +18,15 @@
 "parsedPrerequisite": {
 " and ": ["YCC1111"]
 },
-"prerequisiteList": ["YCC1111"],
+"prerequisiteList": [],
 "completePrerequisite": {
-            "name": "YCC1112", 
-            "children": [
-                {
-                    "name": "YCC1111", 
-                    "children": []
-                }
-            ]
+            "name": "YCC1113", 
+            "children": []
 },
 "moduleDescription": "This is the second semester of a two semester sequence on literature and humanities. The sequence explores literature and other arts from cultures around the world throughout history. Special attention is paid to developing skills in written and oral expression.",
 "crossModule": "-1",
 "corequisite": "NIL",
 "faculty": "YALE-NUS COLLEGE",
 "department": "YALE-NUS COLLEGE",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,0,2,0,0]]
+"history": [[0,0,0,0,0],[0,0,0,0,0],[2013,0,2,0,0],[2014,0,2,0,0],[2015,0,2,0,0],[0,0,0,0,0]]
 }

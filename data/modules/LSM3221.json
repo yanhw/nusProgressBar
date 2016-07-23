@@ -3,8 +3,8 @@
 "moduleTitle": "Human Pharmacology",
 "moduleCredit": "4",
 "lockedModules":[
-            "LSM4212",
-            "LSM4211"
+            "LSM4222",
+            "LSM4226"
         ],
 "preclusion": "NIL",
 "prerequisite": "LSM3211",
@@ -12,55 +12,27 @@
 "parsedPrerequisite": {
 " and ": ["LSM3211"]
 },
-"prerequisiteList": ["LSM3211","LSM2101","LSM1101","LSM1401","LSM2103","LSM1102"],
+"prerequisiteList": ["LSM2103","LSM1101","LSM1401","LSM1102"],
 "completePrerequisite": {
-            "name": "LSM3221", 
+            "name": "LSM3223", 
             "children": [
                 {
-                    "name": "LSM3211", 
+                    "name": "LSM2103", 
                     "children": [
                         {
                             "name": "or", 
                             "children": [
                                 {
-                                    "name": "LSM2101", 
-                                    "children": [
-                                        {
-                                            "name": "or", 
-                                            "children": [
-                                                {
-                                                    "name": "LSM1101", 
-                                                    "children": []
-                                                }, 
-                                                {
-                                                    "name": "LSM1401", 
-                                                    "children": []
-                                                }
-                                            ]
-                                        }
-                                    ]
+                                    "name": "LSM1101", 
+                                    "children": []
                                 }, 
                                 {
-                                    "name": "LSM2103", 
-                                    "children": [
-                                        {
-                                            "name": "or", 
-                                            "children": [
-                                                {
-                                                    "name": "LSM1101", 
-                                                    "children": []
-                                                }, 
-                                                {
-                                                    "name": "LSM1401", 
-                                                    "children": []
-                                                }, 
-                                                {
-                                                    "name": "LSM1102", 
-                                                    "children": []
-                                                }
-                                            ]
-                                        }
-                                    ]
+                                    "name": "LSM1401", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "LSM1102", 
+                                    "children": []
                                 }
                             ]
                         }
@@ -73,5 +45,5 @@
 "corequisite": "-1",
 "faculty": "YONG LOO LIN SCHOOL OF MEDICINE",
 "department": "PHARMACOLOGY",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,0,2,0,0]]
+"history": [[0,0,0,0,0],[2012,0,2,0,0],[2013,0,2,0,0],[2014,0,2,0,0],[2015,0,2,0,0],[0,0,0,0,0]]
 }

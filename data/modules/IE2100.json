@@ -3,10 +3,10 @@
 "moduleTitle": "Probability Models With Applications",
 "moduleCredit": "4",
 "lockedModules":[
-            "IE4220",
-            "IE3120",
-            "IE4299",
             "IE3100R",
+            "IE4220",
+            "IE4243",
+            "IE3120",
             "IE3110"
         ],
 "preclusion": "BH3215, DSC3215",
@@ -67,5 +67,5 @@
 "corequisite": "-1",
 "faculty": "ENGINEERING",
 "department": "INDUSTRIAL & SYSTEMS ENGINEERING",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,0,2,0,0]]
+"history": [[0,0,0,0,0],[0,0,0,0,0],[2013,0,2,0,0],[2014,0,2,0,0],[2015,0,2,0,0],[2016,0,2,0,0]]
 }

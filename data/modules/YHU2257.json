@@ -1,0 +1,22 @@
+{
+"moduleCode": "YHU2257",
+"moduleTitle": "Introduction to Recording Arts",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "YHU2257", 
+            "children": []
+},
+"moduleDescription": "An introduction to the basic theory and technology of recording in a studio environment. Covering the physics of sound, engineering theory, music performance recording. Offering a variety of approaches to recording, audio software and post production treatments. It will cover how to record and produce a CD and the different approaches to recording for music and voice.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "YALE-NUS COLLEGE",
+"department": "YALE-NUS COLLEGE",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2016,1,0,0,0]]
+}

@@ -1,0 +1,22 @@
+{
+"moduleCode": "SE5880",
+"moduleTitle": "Topics in Southeast Asian Studies",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "SE5880", 
+            "children": []
+},
+"moduleDescription": "This module is designed to cover specialized topics in Southeast Asian Studies. The topic(s) to be covered will depend on the interest and expertise of regular or visiting staff members.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "SOUTHEAST ASIAN STUDIES",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2014,0,2,0,0],[0,0,0,0,0],[2016,1,0,0,0]]
+}

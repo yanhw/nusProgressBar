@@ -1,0 +1,22 @@
+{
+"moduleCode": "PH4213",
+"moduleTitle": "Comparative Philosophy",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "Cohort 2011 and before: Completed 80 MCs, including 28 MCs in PH or 28 MCs in EU/LA (French/German)/ recognised modules, with a minimum CAP of 3.50 or be on the Honours track. Cohort 2012-2014: Completed 80MCs, including 28 MCs in PH or 28 MCs in EU/LA (French/German)/recognised modules, with a minimum CAP of 3.20 or be on the Honours track. Cohort 2015 onwards: Completed 80MCs, including 28 MCs in PH or 28 MCs in EU/LA (French/German/Spanish)/recognised modules, with a minimum CAP of 3.20 or be on the Honours track.",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "PH4213", 
+            "children": []
+},
+"moduleDescription": "This module identifies and compares the philosophical traditions generally labelled Eastern and Western. Aspects of comparative analysis include philosophical reasoning, linguistic style, logic of arguments, and substantive content. Comparison between traditions is cross-cultural and can result in dialogues across boundaries of space and time, and can also provide a forum to demonstrate the universality of human thought. Possible topics include, for example, Wittgenstein and Daoist philosophy, Nietzsche and Buddhism.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "PHILOSOPHY",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2014,0,2,0,0],[0,0,0,0,0],[2016,1,0,0,0]]
+}

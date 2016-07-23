@@ -1,0 +1,26 @@
+{
+"moduleCode": "LL5289V",
+"moduleTitle": "The Evolution of International Arbitration",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "LL4289/LL5289/LL6289 The Evolution of International Arbitration",
+"prerequisite": "NUS Compulsory Core Law Curriculum or equivalent. At least one prior course in international law or international arbitration, or taken concurrently",
+"preclusionList": [
+            "LL4289",
+            "LL5289",
+            "LL6289"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "LL5289V", 
+            "children": []
+},
+"moduleDescription": "The module has three distinctive features. First, it compares international commercial arbitration (ICA) international investment arbitration (ISA). Second, it focuses on the evolution of arbitration, in particular, on the development of the procedures and substantive law that have gradually enabled arbitration to become a meaningfully autonomous legal system. Third, it surveys a variety of explanations for why the arbitral order has evolved as it has \u2013 into a more \u201cjudicial-like\u201d legal order \u2013 focusing on the role of arbitral centres, state regulatory competition, and the reasoning of tribunals in their awards.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "LAW",
+"department": "LAW",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2016,1,0,0,0]]
+}

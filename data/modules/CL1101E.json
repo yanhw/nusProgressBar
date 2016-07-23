@@ -1,11 +1,12 @@
 {
 "moduleCode": "CL1101E",
-"moduleTitle": "Introduction to Chinese Language",
+"moduleTitle": "Chinese Language: Its Past and Present",
 "moduleCredit": "4",
 "lockedModules":[
-],
+            "CL3204"
+        ],
 "preclusion": "NIL",
-"prerequisite": "Must obtain: 1) At least a B4 for (a) Higher Chinese at GCE 'O' Level, or (b) Chinese Language at GCE 'AO' Level (at GCE 'A' Level examination); OR 2) At least a pass for (a) Chinese at GCE 'A' Level, or (b) Higher Chinese at GCE 'A' Level; OR 3) At least C grade for Chinese Language (H1CL) at GCE 'A' Level; OR 4) At least a pass for (a) Chinese Language and Literature (H2CLL) at GCE 'A' Level, or (b) Chinese Language and Literature (H3CLL) at GCE 'A' Level. 5) Equivalent qualifications may be accepted.",
+"prerequisite": "A pass in GCE \"O\"Level Chinese Language \"B\"syllabus or higher, or equivalent.",
 "preclusionList": [],
 "parsedPrerequisite" : "nil",
 "prerequisiteList": [],
@@ -13,10 +14,10 @@
             "name": "CL1101E", 
             "children": []
 },
-"moduleDescription": "As an essential module for students majoring in Chinese Language, this module is designed to provide students with a general knowledge of the characteristics of the Chinese language, including its phonological system, morphological and syntactical structures, lexical features as well as its writing system. It also examines the international status of this language, which has been widely used or learned in all parts of the world. The course is designed for students across the University with an interest in the Chinese language.",
+"moduleDescription": "This is a bilingual introductory course for undergraduates to learn interesting issues of the Chinese language like the structure of Chinese language, the use and variation of Chinese language in society, changes in Mandarin and Chinese dialects, the comparative and diachronic aspects of Chinese language, and the relationship between Classical Chinese and Modern Chinese dialects. This will give students a new perspective of the Chinese language, making the Chinese language current and relevant in today's world. Classes will be delivered mainly in Chinese, with English as a supplementary tool. Students can choose to do assignments and examinations in either language.",
 "crossModule": "-1",
 "corequisite": "-1",
 "faculty": "ARTS & SOCIAL SCIENCES",
 "department": "CHINESE STUDIES",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,1,2,0,0]]
+"history": [[0,0,0,0,0],[2012,1,2,0,0],[2013,1,2,0,0],[2014,1,2,0,0],[2015,1,2,0,0],[2016,1,2,0,0]]
 }

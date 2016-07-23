@@ -1,0 +1,43 @@
+{
+"moduleCode": "BMA5126",
+"moduleTitle": "Strategy and Big Data",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "BMA5013",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["BMA5013"]
+},
+"prerequisiteList": ["BMA5013","BMA5003","BMA5009"],
+"completePrerequisite": {
+            "name": "BMA5126", 
+            "children": [
+                {
+                    "name": "BMA5013", 
+                    "children": [
+                        {
+                            "name": "and", 
+                            "children": [
+                                {
+                                    "name": "BMA5003", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "BMA5009", 
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "The application of computing power to the collection and analysis of detailed information relating to wide variety of processes and issues \u2013 summarized as big data \u2013 has the potential to change how business problems are evaluated and solved. In turn this has the potential to change how organizations operate and succeed. This module introduces students to big data constructs and uses in strategy and decision making. It will focus on the implications of big data for all aspects of business strategy, focusing primarily on customer interactions, competitive advantage, capabilities development, and how these influence the content and implementation of strategy.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF BUSINESS",
+"department": "DEAN'S OFFICE (BIZ)",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2016,1,0,0,0]]
+}

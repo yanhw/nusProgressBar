@@ -1,0 +1,29 @@
+{
+"moduleCode": "ST5226",
+"moduleTitle": "Spatial Statistics",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "ST5201 Basic Statistical Theory",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["ST5201"]
+},
+"prerequisiteList": ["ST5201"],
+"completePrerequisite": {
+            "name": "ST5226", 
+            "children": [
+                {
+                    "name": "ST5201", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "At present, almost all data that is collected is stamped with a location. This spatial information can help us in our understanding of the patterns in the data. The course is designed to introduce students to methods for handling and analysing such data. Topics covered include basic concepts of spatial data, prediction (kriging) for stationary data, and modeling the three main types of spatial data \u2013 geostatisical, areal and point pattern. R will be extensively used to demonstrate and implement the techniques.",
+"crossModule": "-1",
+"corequisite": "ST5201 Basic Statistical Theory",
+"faculty": "SCIENCE",
+"department": "STATISTICS & APPLIED PROBABILITY",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2016,1,0,0,0]]
+}

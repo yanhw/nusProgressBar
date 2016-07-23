@@ -1,0 +1,26 @@
+{
+"moduleCode": "LL6306",
+"moduleTitle": "Banking Law and Financial Regulation in China",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "LL4306V/LL5306V/LL6306V Banking Law and Financial Regulation in China",
+"prerequisite": "NUS Compulsory Core Law Curriculum or equivalent. Ideally, the students should have some basic knowledge of Chinese law or Chinese legal system. However, this is not the condition precedent to taking this course.",
+"preclusionList": [
+            "LL4306V",
+            "LL6306V",
+            "LL5306V"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "LL6306", 
+            "children": []
+},
+"moduleDescription": "This course involves an examination of the legal framework governing banking and other financial sectors in China. The course begins with a discussion of the central bank, the People\u2019s Bank of China, regarding its role, activities, and regulatory power. The course will cover other main financial regulators such as CBRC, CSRC and CIRC. Entry into the business of banking and regulation of the activities of banking business are examined. The course will focus on Big Four (four major state-owned commercial banks) and their market-oriented reforms. In addition to the regulatory regime, the cross-border transactional aspects of the banking businesses are also treated. The course will also address the causes, systemic risks and potential regulatory instruments in relation to China\u2019s booming shadow banking sector. The course is to help the students appreciate the complexity, dynamics and difficulties in designing appropriate regulatory and policy responses to various economic and financial challenges in the post financial crisis era.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "LAW",
+"department": "LAW",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2016,0,2,0,0]]
+}

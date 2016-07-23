@@ -5,7 +5,7 @@
 "lockedModules":[
 ],
 "preclusion": "Graduate seminar modules by other departments",
-"prerequisite": "Registration as Graduate Student in the Department of Chemistry",
+"prerequisite": "Registered as a Graduate Student in the Department of Chemistry in either one of the following programmes: 1) PhD in Chemistry 2) MSc by Research in Chemistry 3) MSc by Coursework in Chemistry",
 "preclusionList": [],
 "parsedPrerequisite" : "nil",
 "prerequisiteList": [],
@@ -13,10 +13,10 @@
             "name": "CM5198", 
             "children": []
 },
-"moduleDescription": "This is a required module for all research Masters and PhD students admitted fromAY2004/2005. The main purpose of this module is to help graduate students to improve their scientific presentation skills and to participate in scientific seminars/exchanges in a professional manner. The module will be spread over 2 Semesters and be graded \"Satisfactory/Unsatisfactory\"grade on the basis of student presentation and participation.",
+"moduleDescription": "This is a required module for all research Masters and PhD students admitted from AY2016/2017. The main purpose of this module is to help graduate students to improve their scientific communication skills, in the form of writing and presentation, and to participate in scientific seminars/exchanges in a professional manner. Students would be introduced to the different types of scientific communication modalities that chemistry researchers used to communicate scientific ideas. This includes seminar-style presentation, manuscript writing as well as posters.",
 "crossModule": "-1",
 "corequisite": "-1",
 "faculty": "SCIENCE",
 "department": "CHEMISTRY",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,1,2,0,0]]
+"history": [[0,0,0,0,0],[2012,0,0,0,4],[2013,1,2,3,0],[2014,1,2,0,0],[2015,1,2,0,0],[2016,1,2,0,0]]
 }

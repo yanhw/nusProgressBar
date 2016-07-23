@@ -1,0 +1,75 @@
+{
+"moduleCode": "IS3230",
+"moduleTitle": "Principles of Information Security",
+"moduleCredit": "4",
+"lockedModules":[
+            "IS4102",
+            "IS4231",
+            "IFS4101"
+        ],
+"preclusion": "CS3254 Information Security Management",
+"prerequisite": "Pass 60 MCs and [(IS1103 and IS1105) and (CS2105 or IS1112) ]",
+"preclusionList": [
+            "CS3254"
+        ],
+"parsedPrerequisite": {
+            " and ": [
+                "IS1103", 
+                "IS1105", 
+                {
+                    " or ": [
+                        "CS2105", 
+                        "IS1112"
+                    ]
+                }
+            ]
+},
+"prerequisiteList": ["IS1103","IS1105","CS2105","CS1020","CS1010","IS1112"],
+"completePrerequisite": {
+            "name": "IS3230", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "IS1103", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "IS1105", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "or", 
+                            "children": [
+                                {
+                                    "name": "CS2105", 
+                                    "children": [
+                                        {
+                                            "name": "CS1020", 
+                                            "children": [
+                                                {
+                                                    "name": "CS1010", 
+                                                    "children": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }, 
+                                {
+                                    "name": "IS1112", 
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "With the prevalent use of computers and internet in the moderm organization, threats and attacks on information systems are also on the rise. This module introduces the principles of information security, to prepare students for their future roles as IS professionals. Students will understand that protecting organization information requires a holistic approach which includes policy, technology and education. The focus of the module is on principles and concepts, rather than hands-on skills.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "SCHOOL OF COMPUTING",
+"department": "INFORMATION SYSTEMS",
+"history": [[0,0,0,0,0],[2012,0,2,0,0],[2013,0,2,0,0],[2014,0,2,0,0],[0,0,0,0,0],[2016,0,2,0,0]]
+}

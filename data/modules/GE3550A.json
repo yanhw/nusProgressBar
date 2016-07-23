@@ -26,7 +26,7 @@
                 "GE3238"
             ]
 },
-"prerequisiteList": ["GE2227","GE3238"],
+"prerequisiteList": ["GE2227","GE3238","GE2215"],
 "completePrerequisite": {
             "name": "GE3550A", 
             "children": [
@@ -39,7 +39,12 @@
                         }, 
                         {
                             "name": "GE3238", 
-                            "children": []
+                            "children": [
+                                {
+                                    "name": "GE2215", 
+                                    "children": []
+                                }
+                            ]
                         }
                     ]
                 }
@@ -50,5 +55,5 @@
 "corequisite": "-1",
 "faculty": "ARTS & SOCIAL SCIENCES",
 "department": "GEOGRAPHY",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,1,2,0,0]]
+"history": [[0,0,0,0,0],[0,0,0,0,0],[2013,1,2,0,0],[2014,1,2,0,0],[2015,1,2,0,0],[2016,1,2,0,0]]
 }

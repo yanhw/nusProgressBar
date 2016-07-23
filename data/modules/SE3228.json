@@ -1,0 +1,22 @@
+{
+"moduleCode": "SE3228",
+"moduleTitle": "The Universe Unraveling: Narratives of War in Indochina",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "SE3228", 
+            "children": []
+},
+"moduleDescription": "The module takes students from the origins of revolutionary anticolonial movements in Vietnam, Cambodia and Laos in the 1920s, through the years of war in the 1940s, 50s, 60s and 70s to their legacies in today\u2019s diasporic communities. In addition to a core text, students will read a variety of first-person accounts written by anyone from revolutionary leaders to foot soldiers to children to doctors to Buddhist monks. The objective is to see the wars from multiple perspectives and to investigate how first-person accounts may complement, complicate, or even contest orthodox narratives of revolution and war.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "SOUTHEAST ASIAN STUDIES",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2014,1,0,0,0],[0,0,0,0,0],[2016,0,2,0,0]]
+}

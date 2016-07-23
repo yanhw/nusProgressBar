@@ -1,0 +1,56 @@
+{
+"moduleCode": "ESE4401",
+"moduleTitle": "Water & Wastewater Engineering 2",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "ESE2401 and ESE3401",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " and ": [
+                "ESE2401", 
+                "ESE3401"
+            ]
+},
+"prerequisiteList": ["ESE2401","ESE2001","ESE3401"],
+"completePrerequisite": {
+            "name": "ESE4401", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "ESE2401", 
+                            "children": [
+                                {
+                                    "name": "ESE2001", 
+                                    "children": []
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "ESE3401", 
+                            "children": [
+                                {
+                                    "name": "ESE2401", 
+                                    "children": [
+                                        {
+                                            "name": "ESE2001", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module provides the information regarding application of advanced unit operations and processes for enhancing the quality of treated effluent and rendering the product water suitable for reuse applications. The module will enable students to understand the fundamental principles of advanced wastewater treatment. Students are taught to identify and design the appropriate advanced treatment system to enhance the quality of the treated effluent and exploit the option of reuse application.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "CIVIL & ENVIRONMENTAL ENGINEERING",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2014,0,2,0,0],[0,0,0,0,0],[2016,0,2,0,0]]
+}

@@ -10,25 +10,15 @@
 "parsedPrerequisite": {
 " and ": ["YCC1114"]
 },
-"prerequisiteList": ["YCC1114","YCC1113"],
+"prerequisiteList": [],
 "completePrerequisite": {
-            "name": "YHU3214", 
-            "children": [
-                {
-                    "name": "YCC1114", 
-                    "children": [
-                        {
-                            "name": "YCC1113", 
-                            "children": []
-                        }
-                    ]
-                }
-            ]
+            "name": "YHU3215", 
+            "children": []
 },
 "moduleDescription": "This course investigates central debates in ethics, epistemology and metaphysics within Indian Buddhist thought. It seeks to familiarize students in detail with a single, sophisticated body of thought as that developed over 1,000 years, including debates arising both among Buddhists and between Buddhists and their non-Buddhist critics; to give students conceptual tools and vocabulary for participating in the classical Indian philosophical project; to give students the ability to move between the main areas within philosophy systematically and recognizing the connections between them.",
 "crossModule": "-1",
 "corequisite": "-1",
 "faculty": "YALE-NUS COLLEGE",
 "department": "YALE-NUS COLLEGE",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,0,2,0,0]]
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,0,2,0,0],[0,0,0,0,0]]
 }

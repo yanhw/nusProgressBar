@@ -14,7 +14,7 @@
                 "ST2334"
             ]
 },
-"prerequisiteList": ["MA2216","MA1102","MA1102R","MA1312","MA1507","MA1505","MA1505C","MA1521","ST2131","ST2334","MA1306"],
+"prerequisiteList": ["MA2216","MA1102","MA1102R","MA1312","MA1507","MA1505","MA1505C","MA1521","ST2131","ST2334"],
 "completePrerequisite": {
             "name": "ST3239", 
             "children": [
@@ -104,27 +104,7 @@
                                     "name": "or", 
                                     "children": [
                                         {
-                                            "name": "MA1306", 
-                                            "children": []
-                                        }, 
-                                        {
-                                            "name": "MA1102", 
-                                            "children": []
-                                        }, 
-                                        {
                                             "name": "MA1102R", 
-                                            "children": []
-                                        }, 
-                                        {
-                                            "name": "MA1505", 
-                                            "children": []
-                                        }, 
-                                        {
-                                            "name": "MA1505C", 
-                                            "children": []
-                                        }, 
-                                        {
-                                            "name": "MA1521", 
                                             "children": []
                                         }, 
                                         {
@@ -132,7 +112,15 @@
                                             "children": []
                                         }, 
                                         {
+                                            "name": "MA1505", 
+                                            "children": []
+                                        }, 
+                                        {
                                             "name": "MA1507", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "MA1521", 
                                             "children": []
                                         }
                                     ]
@@ -148,5 +136,5 @@
 "corequisite": "-1",
 "faculty": "SCIENCE",
 "department": "STATISTICS & APPLIED PROBABILITY",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,0,2,0,0]]
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2014,0,2,0,0],[2015,0,2,0,0],[2016,0,2,0,0]]
 }

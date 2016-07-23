@@ -1,0 +1,22 @@
+{
+"moduleCode": "UIT2201",
+"moduleTitle": "Computer Science & The I.T. Revolution",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "UIT2201", 
+            "children": []
+},
+"moduleDescription": "We live in a world where technological advances and technology related decisions constantly impact society in many different ways. Being able to critically assess technological claims helps one make better judgments that could significantly affect our world. This module looks at central ideas and major technological advances in the field of computer science, and how these developments have shaped modern society through the IT revolution. Although the specific subject matter deals with computer science and information technology, the module objectives are more general in nature. We aim to develop in students, a balanced perspective of science, technology and their impact on modern society.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "UNIVERSITY SCHOLARS PROGRAMME",
+"department": "UNIVERSITY SCHOLARS PROGRAMME",
+"history": [[0,0,0,0,0],[2012,0,2,0,0],[2013,1,0,0,0],[2014,1,0,0,0],[0,0,0,0,0],[2016,1,0,0,0]]
+}

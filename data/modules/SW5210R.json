@@ -1,0 +1,22 @@
+{
+"moduleCode": "SW5210R",
+"moduleTitle": "Trauma and Mental Health",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "SW5210R", 
+            "children": []
+},
+"moduleDescription": "This module will cover the various types of trauma, assessment tools; treatment modalities and planning; casework and counseling modalities as well as interagency collaboration and case management. Trauma arising from childhood sexual abuse and family violence, disease outbreaks and issues arising from national and global disasters.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "SOCIAL WORK",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[2013,1,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2016,1,0,0,0]]
+}

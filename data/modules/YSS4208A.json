@@ -1,0 +1,55 @@
+{
+"moduleCode": "YSS4208A",
+"moduleTitle": "Adv Topic in Anthropology: Anthropology of Human Rights",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "YCC2121 Modern Social Thought or permission of the instructor",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["YCC2121"]
+},
+"prerequisiteList": ["YCC2121","YCC1111","YCC1112","YCC1113","YCC1114","YCC1121"],
+"completePrerequisite": {
+            "name": "YSS4208A", 
+            "children": [
+                {
+                    "name": "YCC2121", 
+                    "children": [
+                        {
+                            "name": "and", 
+                            "children": [
+                                {
+                                    "name": "YCC1111", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "YCC1112", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "YCC1113", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "YCC1114", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "YCC1121", 
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "The course will expose students to a field of inquiry within anthropology that is close to the heart of the professional work of their professor. It will fulfil one of the advanced seminar requirements within the anthropology major of which students are required to take two. In Semester 1 of AY2016/2017, the topic will be on Anthropology of Human Rights.",
+"crossModule": "-1",
+"corequisite": "YCC2121 Modern Social Thought or permission of the instructor",
+"faculty": "YALE-NUS COLLEGE",
+"department": "YALE-NUS COLLEGE",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2016,1,0,0,0]]
+}

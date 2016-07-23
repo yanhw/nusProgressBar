@@ -1,0 +1,149 @@
+{
+"moduleCode": "FST3105",
+"moduleTitle": "Food Product Development and Packaging",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "FST3104",
+"prerequisite": "FST2102B and FST2107 and FST2108",
+"preclusionList": [
+            "FST3104"
+        ],
+"parsedPrerequisite": {
+            " and ": [
+                "FST2102B", 
+                "FST2107", 
+                "FST2108"
+            ]
+},
+"prerequisiteList": ["FST2102B","FST1101","CM1121","CM1501","FST2107","CM1191","FST2108","LSM1103","LSM2103","LSM1101","LSM1401","LSM1102"],
+"completePrerequisite": {
+            "name": "FST3105", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "FST2102B", 
+                            "children": [
+                                {
+                                    "name": "and", 
+                                    "children": [
+                                        {
+                                            "name": "FST1101", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "or", 
+                                            "children": [
+                                                {
+                                                    "name": "CM1121", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "CM1501", 
+                                                    "children": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "FST2107", 
+                            "children": [
+                                {
+                                    "name": "and", 
+                                    "children": [
+                                        {
+                                            "name": "FST1101", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "CM1191", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "FST2108", 
+                            "children": [
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "FST2102B", 
+                                            "children": [
+                                                {
+                                                    "name": "and", 
+                                                    "children": [
+                                                        {
+                                                            "name": "FST1101", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "or", 
+                                                            "children": [
+                                                                {
+                                                                    "name": "CM1121", 
+                                                                    "children": []
+                                                                }, 
+                                                                {
+                                                                    "name": "CM1501", 
+                                                                    "children": []
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "and", 
+                                            "children": [
+                                                {
+                                                    "name": "LSM1103", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "LSM2103", 
+                                                    "children": [
+                                                        {
+                                                            "name": "or", 
+                                                            "children": [
+                                                                {
+                                                                    "name": "LSM1101", 
+                                                                    "children": []
+                                                                }, 
+                                                                {
+                                                                    "name": "LSM1401", 
+                                                                    "children": []
+                                                                }, 
+                                                                {
+                                                                    "name": "LSM1102", 
+                                                                    "children": []
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module intends to provide students with the opportunity to experience the stages of new product development through a problem-based learning project in collaboration with a food company. Lectures in this modules will cover three main topics: 1. Introduction and essential steps in new food product development. 2. Mechanism of food spoilage and shelf life analysis of foods. 3. Principles and practices of food packaging.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCIENCE",
+"department": "CHEMISTRY",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2016,1,0,0,0]]
+}

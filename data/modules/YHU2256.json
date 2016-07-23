@@ -1,0 +1,29 @@
+{
+"moduleCode": "YHU2256",
+"moduleTitle": "Literary Genres: Ancient Epic and Gangster Film",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "YCC1111 Literature and Humanities 1",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["YCC1111"]
+},
+"prerequisiteList": ["YCC1111"],
+"completePrerequisite": {
+            "name": "YHU2256", 
+            "children": [
+                {
+                    "name": "YCC1111", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "This course explores the limits of epic in different historical contexts and media: Classical epic poetry (Greek and Roman) and gangster film traditions from the US, Europe, and Asia. How do these works define or align themselves with epic as a genre? What are their characteristics, and how do audiences participate in creating them? Primary material will include classical epics (the Iliad, Ovid\u2019s Metamorphoses), drama and literary criticism (Sophocles, Aristotle), and contemporary film and television, with critical and theoretical bibliography.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "YALE-NUS COLLEGE",
+"department": "YALE-NUS COLLEGE",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2016,1,0,0,0]]
+}

@@ -1,0 +1,202 @@
+{
+"moduleCode": "CN4251",
+"moduleTitle": "Troubleshooting with Case Studies for ProcessEngineers",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "CN2116, CN2121, CN2125, CN3124, CN3132.",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " and ": [
+                "CN2116", 
+                "CN2121", 
+                "CN2125", 
+                "CN3124", 
+                "CN3132"
+            ]
+},
+"prerequisiteList": ["CN2116","CN1111","CN1111F","CN1111X","CN2121","CM1502","CN2125","CN2122","MA1505","MA1506","MA1102R","MA1521","CN3124","CN3132"],
+"completePrerequisite": {
+            "name": "CN4251", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "CN2116", 
+                            "children": [
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "CN1111", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "CN1111F", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "CN1111X", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "CN2121", 
+                            "children": [
+                                {
+                                    "name": "and", 
+                                    "children": [
+                                        {
+                                            "name": "or", 
+                                            "children": [
+                                                {
+                                                    "name": "CN1111F", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "CN1111", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "CN1111X", 
+                                                    "children": []
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "CM1502", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "CN2125", 
+                            "children": [
+                                {
+                                    "name": "CN2122", 
+                                    "children": [
+                                        {
+                                            "name": "and", 
+                                            "children": [
+                                                {
+                                                    "name": "MA1505", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MA1506", 
+                                                    "children": [
+                                                        {
+                                                            "name": "or", 
+                                                            "children": [
+                                                                {
+                                                                    "name": "MA1102R", 
+                                                                    "children": []
+                                                                }, 
+                                                                {
+                                                                    "name": "MA1505", 
+                                                                    "children": []
+                                                                }, 
+                                                                {
+                                                                    "name": "MA1521", 
+                                                                    "children": []
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "CN3124", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "CN3132", 
+                            "children": [
+                                {
+                                    "name": "and", 
+                                    "children": [
+                                        {
+                                            "name": "or", 
+                                            "children": [
+                                                {
+                                                    "name": "CN1111F", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "CN1111", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "CN1111X", 
+                                                    "children": []
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "CN2125", 
+                                            "children": [
+                                                {
+                                                    "name": "CN2122", 
+                                                    "children": [
+                                                        {
+                                                            "name": "and", 
+                                                            "children": [
+                                                                {
+                                                                    "name": "MA1505", 
+                                                                    "children": []
+                                                                }, 
+                                                                {
+                                                                    "name": "MA1506", 
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "or", 
+                                                                            "children": [
+                                                                                {
+                                                                                    "name": "MA1102R", 
+                                                                                    "children": []
+                                                                                }, 
+                                                                                {
+                                                                                    "name": "MA1505", 
+                                                                                    "children": []
+                                                                                }, 
+                                                                                {
+                                                                                    "name": "MA1521", 
+                                                                                    "children": []
+                                                                                }
+                                                                            ]
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module aims to produce chemical engineers who can contribute and increase the effectiveness of problem solving in the Chemical Process Industries. It introduces robust heuristics and a systematic approach to problem solving, which combines critical and creative thinking with technical knowledge. The skill development is delivered through the presentation of various problem-solving strategies and techniques, and by applying them to real case studies from a few diverse process industries.",
+"crossModule": "-1",
+"corequisite": "N/A",
+"faculty": "ENGINEERING",
+"department": "CHEMICAL & BIOMOLECULAR ENGINEERING",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2016,0,2,0,0]]
+}

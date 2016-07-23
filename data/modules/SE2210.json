@@ -1,0 +1,24 @@
+{
+"moduleCode": "SE2210",
+"moduleTitle": "Popular Culture in Southeast Asia",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "SE4215",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "SE4215"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "SE2210", 
+            "children": []
+},
+"moduleDescription": "Popular culture - in forms such as music, cinema and magazines - has been seen as a way for non-elite groups to make sense of their common experiences. In the modern era, these pop culture products have also been linked with mass-production and standardised, commercialised commodities which work to entertain and distract. However, more recent scholarship has seen popular culture as a possible means of contesting dominant ideologies. This module examines the debate by considering various forms of popular culture in Southeast Asia.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "SOUTHEAST ASIAN STUDIES",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[2013,0,2,0,0],[2014,0,2,0,0],[0,0,0,0,0],[2016,0,2,0,0]]
+}

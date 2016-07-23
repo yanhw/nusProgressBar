@@ -1,0 +1,83 @@
+{
+"moduleCode": "ACC3616",
+"moduleTitle": "Corporate Governance and Risk Management",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "ACC3611 Corporate Governance and Ethics ACC3612 Risk Management and Internal Control Only available to BBA and BBA(Acc) students from the AY2014-15 intake and later",
+"prerequisite": "ACC1002 Financial Accounting, BSP1004 Legal Environment of Business, FIN2004 Finance",
+"preclusionList": [
+            "ACC3611",
+            "ACC3612",
+            "AY2014"
+        ],
+"parsedPrerequisite": {
+" and ": ["FIN2004"]
+},
+"prerequisiteList": ["FIN2004","BK1003","BZ1002","BH1002","FNA1002","ACC1002","FNA1002X","ACC1002X","FNA1002E","BH1002E","EC3212","EG1422"],
+"completePrerequisite": {
+            "name": "ACC3616", 
+            "children": [
+                {
+                    "name": "FIN2004", 
+                    "children": [
+                        {
+                            "name": "or", 
+                            "children": [
+                                {
+                                    "name": "BK1003", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "BZ1002", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "BH1002", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "FNA1002", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "ACC1002", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "FNA1002X", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "ACC1002X", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "FNA1002E", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "BH1002E", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "EC3212", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "EG1422", 
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "The module covers corporate governance from a multidisciplinary perspective including law, finance, accounting and economics. The module covers enterprise risk management in terms of the Integrated Framework issued by the Committee of Sponsoring Organizations of the Treadway Commission (COSO).",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF BUSINESS",
+"department": "ACCOUNTING",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2016,1,0,0,0]]
+}

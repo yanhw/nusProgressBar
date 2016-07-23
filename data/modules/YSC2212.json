@@ -8,15 +8,51 @@
 "prerequisite" : "NIL",
 "preclusionList": [],
 "parsedPrerequisite" : "nil",
-"prerequisiteList": [],
+"prerequisiteList": ["YCC2131","YCC2132","YSC2202","YSC1201","YSC3202"],
 "completePrerequisite": {
-            "name": "YSC2212", 
-            "children": []
+            "name": "YSC3201", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "YCC2131", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "YCC2132", 
+                            "children": [
+                                {
+                                    "name": "YCC2131", 
+                                    "children": []
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "or", 
+                            "children": [
+                                {
+                                    "name": "YSC2202", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "YSC1201", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "YSC3202", 
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
 },
 "moduleDescription": "This course is an introduction to the laboratory techniques in analytical and organic chemistry with an emphasis on the fundamental principles and utilisation of state-of-the-art instruments.",
 "crossModule": "-1",
 "corequisite": "None.",
 "faculty": "YALE-NUS COLLEGE",
 "department": "YALE-NUS COLLEGE",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,0,2,0,0]]
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,0,2,0,0],[0,0,0,0,0]]
 }

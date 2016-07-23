@@ -5,16 +5,17 @@
 "lockedModules":[
             "CM2288",
             "CM2289",
-            "MLE3104",
             "CM2121",
             "CM4269",
             "FST2102B",
-            "CM4227",
-            "BN3402"
+            "BN3402",
+            "MLE3104",
+            "CM4227"
         ],
-"preclusion": "CM1501 or CM1503",
+"preclusion": "CM1501 or CM1503 or CM1401",
 "prerequisite": "'A' level or H2 pass in Chemistry or equivalent or CM1417/CM1417X",
 "preclusionList": [
+            "CM1401",
             "CM1501",
             "CM1503"
         ],
@@ -29,5 +30,5 @@
 "corequisite": "-1",
 "faculty": "SCIENCE",
 "department": "CHEMISTRY",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,0,2,0,0]]
+"history": [[0,0,0,0,0],[2012,0,2,0,0],[2013,0,2,0,0],[2014,0,2,0,0],[2015,0,2,0,0],[2016,0,2,0,0]]
 }

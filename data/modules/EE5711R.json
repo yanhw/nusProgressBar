@@ -3,9 +3,9 @@
 "moduleTitle": "Power Electronic Systems",
 "moduleCredit": "4",
 "lockedModules":[
-            "EE6531",
+            "EE6704",
             "EE5704",
-            "EE6704"
+            "EE6531"
         ],
 "preclusion": "EE5711",
 "prerequisite": "Undergraduate knowledge in Power Electronics, e.g. EE3501C",
@@ -30,5 +30,5 @@
 "corequisite": "-1",
 "faculty": "ENGINEERING",
 "department": "ELECTRICAL & COMPUTER ENGINEERING",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,0,2,0,0]]
+"history": [[0,0,0,0,0],[0,0,0,0,0],[2013,0,2,0,0],[2014,0,2,0,0],[2015,0,2,0,0],[2016,0,2,0,0]]
 }

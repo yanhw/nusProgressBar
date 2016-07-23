@@ -1,0 +1,29 @@
+{
+"moduleCode": "PP5405",
+"moduleTitle": "Public Administration and Politics",
+"moduleCredit": "2",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "PP5402 Policy Process and Institutions",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["PP5402"]
+},
+"prerequisiteList": ["PP5402"],
+"completePrerequisite": {
+            "name": "PP5405", 
+            "children": [
+                {
+                    "name": "PP5402", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "This MPP core module course covers the key foundational topics of public administration and politics, such as the role of government; public and private sector relations and dynamics; politicaladministrative relations; collaboration and networks; performance management; stakeholder management; and values, ethics, and anti-corruption strategies. It will provide students with knowledge, tools, and best practices of thinking about these administrative, political and managerial problems necessary to effectively continue their studies.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "LEE KUAN YEW SCHOOL OF PUBLIC POLICY",
+"department": "LEE KUAN YEW SCHOOL OF PUBLIC POLICY",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2016,1,0,0,0]]
+}

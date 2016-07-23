@@ -1,0 +1,24 @@
+{
+"moduleCode": "SC5223",
+"moduleTitle": "Social Networks",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "SC6229",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "SC6229"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "SC5223", 
+            "children": []
+},
+"moduleDescription": "We are living in a connected social world. The quest for a mechanism by which social connection is formed and dissolved and the pursuit of the impact of such mechanism on diverse areas such as economy, politics, culture, collective movement, technological development, or medicine have made social networks a popular topic in and beyond sociology. The module is a graduate course of social network theories and methods with three purposes: (1) introducing the theories of social networks, (2) teaching varied methods to measure social networks, and (3) providing practical opportunities to apply the methods to students\u2019 research projects.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "SOCIOLOGY",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2016,1,0,0,0]]
+}

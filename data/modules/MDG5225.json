@@ -1,0 +1,22 @@
+{
+"moduleCode": "MDG5225",
+"moduleTitle": "Fundamentals of Molecular Imaging",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "\u201cA\u201d level understanding on physics, chemistry and biology",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "MDG5225", 
+            "children": []
+},
+"moduleDescription": "Molecular imaging becomes indispensable tool for the biomedical research and modern day clinical management. This module explores principles of molecular imaging, key imaging equipment used for molecular imaging and examples of applications in clinical management and biomedical research. Basics of imaging principles will be introduced. Principles of transmission and emission tomography will be explained. Molecular imaging techniques such as nuclear medicine techniques (single photon emission tomography - SPECT, positron emission tomography - PET), magnetic resonance imaging (MRI), magnetic resonance spectroscopy (MRS), optical imaging and hybrid imaging techniques (SPECT/CT, PET/CT, PET/MR) will be covered for both instrumentation principles and applications. Molecular basis of imaging and molecular imaging probe design will be explained.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "YONG LOO LIN SCHOOL OF MEDICINE",
+"department": "DEAN'S OFFICE (MEDICINE)",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[2013,1,2,0,0],[2014,1,2,0,0],[0,0,0,0,0],[2016,1,2,0,0]]
+}

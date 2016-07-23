@@ -13,7 +13,7 @@
 },
 "prerequisiteList": ["YCC2133","YCC1132"],
 "completePrerequisite": {
-            "name": "YSC2203", 
+            "name": "YSC2204", 
             "children": [
                 {
                     "name": "YCC2133", 
@@ -31,5 +31,5 @@
 "corequisite": "Mathematical Methods for Physical Sciences, or equivalent",
 "faculty": "YALE-NUS COLLEGE",
 "department": "YALE-NUS COLLEGE",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,0,2,0,0]]
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2014,0,2,0,0],[2015,0,2,0,0],[0,0,0,0,0]]
 }

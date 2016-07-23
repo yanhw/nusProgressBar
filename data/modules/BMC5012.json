@@ -1,7 +1,7 @@
 {
 "moduleCode": "BMC5012",
 "moduleTitle": "Advanced Study Project",
-"moduleCredit": "6",
+"moduleCredit": "4",
 "lockedModules":[
 ],
 "preclusion": "NIL",
@@ -10,7 +10,7 @@
 "parsedPrerequisite" : "nil",
 "prerequisiteList": [],
 "completePrerequisite": {
-            "name": "BMC5012", 
+            "name": "BME5001", 
             "children": []
 },
 "moduleDescription": "Student under the APEX EMBA program are required to complete an Advanced Study Project as a reflection and final concluding note to the course. The project is required to meet International Professional standards, and is able to contribute significantly and benefit the enterprises, industries, countries and regional economies. The main objective of this project is to enable students to apply knowledge acquired in their course of study to practical situations and problems they faced in their individual company, whereby they are able to conduct thorough research and analysis.",
@@ -18,5 +18,5 @@
 "corequisite": "-1",
 "faculty": "SCHOOL OF BUSINESS",
 "department": "DEAN'S OFFICE (BIZ)",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,0,2,0,0]]
+"history": [[0,0,0,0,0],[0,0,0,0,0],[2013,0,2,0,0],[2014,0,2,0,0],[2015,0,2,0,0],[0,0,0,0,0]]
 }

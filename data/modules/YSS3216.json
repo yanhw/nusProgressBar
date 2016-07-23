@@ -13,29 +13,15 @@
                 "YCC2121"
             ]
 },
-"prerequisiteList": ["YCC1121","YCC2121"],
+"prerequisiteList": [],
 "completePrerequisite": {
-            "name": "YSS3216", 
-            "children": [
-                {
-                    "name": "and", 
-                    "children": [
-                        {
-                            "name": "YCC1121", 
-                            "children": []
-                        }, 
-                        {
-                            "name": "YCC2121", 
-                            "children": []
-                        }
-                    ]
-                }
-            ]
+            "name": "YSS3217", 
+            "children": []
 },
 "moduleDescription": "This course offers students an opportunity for in-depth immersion into a specialist and current topic in the field of Urban Studies. The topics on offer will vary from year to year, but will generally be related to a specific current issues in the field of urban studies.",
 "crossModule": "-1",
 "corequisite": "-1",
 "faculty": "YALE-NUS COLLEGE",
 "department": "YALE-NUS COLLEGE",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,1,0,0,0]]
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,1,0,0,0],[0,0,0,0,0]]
 }

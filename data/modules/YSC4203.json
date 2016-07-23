@@ -1,0 +1,34 @@
+{
+"moduleCode": "YSC4203",
+"moduleTitle": "Topology",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "YSC3206 One Real Variable.",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["YSC3206"]
+},
+"prerequisiteList": ["YSC3206","YSC3205"],
+"completePrerequisite": {
+            "name": "YSC4203", 
+            "children": [
+                {
+                    "name": "YSC3206", 
+                    "children": [
+                        {
+                            "name": "YSC3205", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "Topology is the study of shapes. It forms a basic framework for geometric reasoning in mathematics and its applications (such as equilibrium theory in economics, cosmology, robotics, stereochemistry and molecular biology). Topics covered include metric spaces and continuity, completeness, topological spaces, separation axioms, connectedness, compactness.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "YALE-NUS COLLEGE",
+"department": "YALE-NUS COLLEGE",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2016,1,0,0,0]]
+}

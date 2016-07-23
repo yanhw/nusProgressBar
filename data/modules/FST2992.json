@@ -3,15 +3,21 @@
 "moduleTitle": "Exchange Enrichment Level 2000 Module",
 "moduleCredit": "4",
 "lockedModules":[
-],
+            "FST5203"
+        ],
 "preclusion": "NIL",
 "prerequisite" : "NIL",
 "preclusionList": [],
 "parsedPrerequisite" : "nil",
-"prerequisiteList": [],
+"prerequisiteList": ["FST2102A"],
 "completePrerequisite": {
-            "name": "FST2992", 
-            "children": []
+            "name": "FST3101", 
+            "children": [
+                {
+                    "name": "FST2102A", 
+                    "children": []
+                }
+            ]
 },
 
 "crossModule": "-1",

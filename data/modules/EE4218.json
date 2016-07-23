@@ -3,7 +3,8 @@
 "moduleTitle": "Embedded Hardware System Design",
 "moduleCredit": "4",
 "lockedModules":[
-],
+            "EE6231"
+        ],
 "preclusion": "NIL",
 "prerequisite": "EE2020",
 "preclusionList": [],
@@ -43,5 +44,5 @@
 "corequisite": "-1",
 "faculty": "ENGINEERING",
 "department": "ELECTRICAL & COMPUTER ENGINEERING",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,1,0,0,0]]
+"history": [[0,0,0,0,0],[2012,0,2,0,0],[2013,0,2,0,0],[2014,1,0,0,0],[2015,1,0,0,0],[2016,1,0,0,0]]
 }

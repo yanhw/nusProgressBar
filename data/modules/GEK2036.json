@@ -1,0 +1,25 @@
+{
+"moduleCode": "GEK2036",
+"moduleTitle": "Greek Philosophy (Socrates and Plato)",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "PH2222, PH3209",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "PH3209",
+            "PH2222"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "GEK2036", 
+            "children": []
+},
+"moduleDescription": "Socrates and Plato stand at the source of the Western Philosophical tradition. Alfred Whitehead said that \u201cthe safest general characterization of the European philosophical tradition is that it consists of a series of footnotes to Plato.\u201d Through a close reading and analysis of several representative Platonic dialogues, this module introduces the student to the philosophy of Plato and Socrates (Plato\u2019s teacher and main interlocutor in his dialogues), and prepares him/her for PH 3222 on Aristotle\u2019s philosophy and the Honours seminar on Greek Thinkers. The module may include material on earlier Philosophy forming the background to Socrates and Plato.",
+        "CrossModule": "PH2222", 
+"corequisite": "NIL",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "PHILOSOPHY",
+"history": [[0,0,0,0,0],[2012,0,2,0,0],[2013,0,2,0,0],[0,0,0,0,0],[0,0,0,0,0],[2016,1,0,0,0]]
+}

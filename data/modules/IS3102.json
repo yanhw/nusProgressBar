@@ -16,7 +16,7 @@
                 "IS2101"
             ]
 },
-"prerequisiteList": ["IS2103","CS1020","CS1010","CS1102","CS1102C","CS1102S","IS2101","ES1000","ES1102"],
+"prerequisiteList": ["IS2103","CS1020","CS1010","CS1102","CS1102C","CS1102S","IS2101","ES1000","ES1102","ES1103"],
 "completePrerequisite": {
             "name": "IS3102", 
             "children": [
@@ -67,6 +67,10 @@
                                         {
                                             "name": "ES1102", 
                                             "children": []
+                                        }, 
+                                        {
+                                            "name": "ES1103", 
+                                            "children": []
                                         }
                                     ]
                                 }
@@ -81,5 +85,5 @@
 "corequisite": "-1",
 "faculty": "SCHOOL OF COMPUTING",
 "department": "INFORMATION SYSTEMS",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,1,2,0,0]]
+"history": [[0,0,0,0,0],[2012,1,0,0,0],[2013,1,0,0,0],[2014,1,0,0,0],[2015,1,2,0,0],[2016,1,2,0,0]]
 }

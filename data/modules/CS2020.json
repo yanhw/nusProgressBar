@@ -3,6 +3,8 @@
 "moduleTitle": "Data Structures and Algorithms Accelerated",
 "moduleCredit": "6",
 "lockedModules":[
+            "CS4236",
+            "CS6280",
             "IS3261"
         ],
 "preclusion": "CG1102, CG1103, CS1020, CS1020E, CS2010, CS1102, CS1102C, CS1102S",
@@ -28,5 +30,5 @@
 "corequisite": "Obtain a grade of at least A- in either CS1010 or  CS1101S Programming Methodology",
 "faculty": "SCHOOL OF COMPUTING",
 "department": "COMPUTER SCIENCE",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,0,2,0,0]]
+"history": [[0,0,0,0,0],[2012,0,2,0,0],[2013,0,2,0,0],[2014,0,2,0,0],[2015,0,2,0,0],[2016,0,2,0,0]]
 }

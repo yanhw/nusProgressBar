@@ -1,0 +1,22 @@
+{
+"moduleCode": "ME6101",
+"moduleTitle": "Research Topics In Applied Mechanics",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "ME6101", 
+            "children": []
+},
+
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "MECHANICAL ENGINEERING",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2014,0,2,0,0],[0,0,0,0,0],[2016,0,2,0,0]]
+}

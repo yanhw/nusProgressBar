@@ -5,17 +5,18 @@
 "lockedModules":[
 ],
 "preclusion": "SP1202",
-"prerequisite": "Students who are required to complete ES1000 Basic English and/or ES1102 English for Academic Purposes must first do so before they are allowed to read this module.",
+"prerequisite": "Students who are required to complete ES1000 Basic English and/or ES1102/ES1103 English for Academic Purposes must first do so before they are allowed to read this module.",
 "preclusionList": [
             "SP1202"
         ],
 "parsedPrerequisite": {
             " or ": [
                 "ES1000", 
-                "ES1102"
+                "ES1102", 
+                "ES1103"
             ]
 },
-"prerequisiteList": ["ES1000","ES1102"],
+"prerequisiteList": ["ES1000","ES1102","ES1103"],
 "completePrerequisite": {
             "name": "ENV1202", 
             "children": [
@@ -29,6 +30,10 @@
                         {
                             "name": "ES1102", 
                             "children": []
+                        }, 
+                        {
+                            "name": "ES1103", 
+                            "children": []
                         }
                     ]
                 }
@@ -39,5 +44,5 @@
 "corequisite": "-1",
 "faculty": "NON-FACULTY-BASED DEPARTMENTS",
 "department": "CTR FOR ENGLISH LANGUAGE COMMUNICATION",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,1,0,0,0]]
+"history": [[0,0,0,0,0],[0,0,0,0,0],[2013,1,0,0,0],[2014,1,0,0,0],[2015,1,0,0,0],[2016,1,0,0,0]]
 }

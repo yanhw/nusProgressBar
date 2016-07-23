@@ -3,7 +3,8 @@
 "moduleTitle": "Food Safety Assurance",
 "moduleCredit": "4",
 "lockedModules":[
-],
+            "FST3105"
+        ],
 "preclusion": "FST3102",
 "prerequisite": "(FST2102B) or (LSM1103 and LSM2103)",
 "preclusionList": [
@@ -94,5 +95,5 @@
 "corequisite": "-1",
 "faculty": "SCIENCE",
 "department": "CHEMISTRY",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,0,2,0,0]]
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,0,2,0,0],[2016,0,2,0,0]]
 }

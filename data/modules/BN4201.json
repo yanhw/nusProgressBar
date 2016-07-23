@@ -10,13 +10,18 @@
 "parsedPrerequisite": {
 " and ": ["BN2204"]
 },
-"prerequisiteList": ["BN2204"],
+"prerequisiteList": ["BN2204","PC1431"],
 "completePrerequisite": {
             "name": "BN4201", 
             "children": [
                 {
                     "name": "BN2204", 
-                    "children": []
+                    "children": [
+                        {
+                            "name": "PC1431", 
+                            "children": []
+                        }
+                    ]
                 }
             ]
 },
@@ -25,5 +30,5 @@
 "corequisite": "-1",
 "faculty": "ENGINEERING",
 "department": "BIOMEDICAL ENGINEERING",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,0,2,0,0]]
+"history": [[0,0,0,0,0],[2012,0,2,0,0],[2013,0,2,0,0],[2014,0,2,0,0],[2015,0,2,0,0],[2016,0,2,0,0]]
 }

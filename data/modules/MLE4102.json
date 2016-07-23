@@ -14,7 +14,7 @@
                 "MLE3103"
             ]
 },
-"prerequisiteList": ["MLE2103","MLE2102","MLE3102","MLE1101","MLE3103","MLE2104","EG1109F","EG1109","CE1109X","MLE2101"],
+"prerequisiteList": ["MLE2103","MLE2102","MLE1111","MLE3102","MLE1101","MLE3103","MLE2104","EG1109F","EG1109","MLE2101"],
 "completePrerequisite": {
             "name": "MLE4102", 
             "children": [
@@ -25,8 +25,17 @@
                             "name": "MLE2103", 
                             "children": [
                                 {
-                                    "name": "MLE2102", 
-                                    "children": []
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "MLE2102", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "MLE1111", 
+                                            "children": []
+                                        }
+                                    ]
                                 }
                             ]
                         }, 
@@ -73,15 +82,15 @@
                                                             "children": []
                                                         }, 
                                                         {
-                                                            "name": "CE1109X", 
-                                                            "children": []
-                                                        }, 
-                                                        {
                                                             "name": "MLE1101", 
                                                             "children": []
                                                         }, 
                                                         {
                                                             "name": "MLE2101", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "MLE1111", 
                                                             "children": []
                                                         }
                                                     ]
@@ -101,5 +110,5 @@
 "corequisite": "-1",
 "faculty": "ENGINEERING",
 "department": "MATERIALS SCIENCE AND ENGINEERING",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,1,0,0,0]]
+"history": [[0,0,0,0,0],[0,0,0,0,0],[2013,1,0,0,0],[2014,1,0,0,0],[2015,1,0,0,0],[2016,1,0,0,0]]
 }

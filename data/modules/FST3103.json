@@ -6,15 +6,15 @@
             "FST4102"
         ],
 "preclusion": "NIL",
-"prerequisite": "FST1101 and CM2161",
+"prerequisite": "FST1101 and FST1103",
 "preclusionList": [],
 "parsedPrerequisite": {
             " and ": [
                 "FST1101", 
-                "CM2161"
+                "FST1103"
             ]
 },
-"prerequisiteList": ["FST1101","CM2161"],
+"prerequisiteList": ["FST1101","FST1103"],
 "completePrerequisite": {
             "name": "FST3103", 
             "children": [
@@ -26,8 +26,13 @@
                             "children": []
                         }, 
                         {
-                            "name": "CM2161", 
-                            "children": []
+                            "name": "FST1103", 
+                            "children": [
+                                {
+                                    "name": "FST1101", 
+                                    "children": []
+                                }
+                            ]
                         }
                     ]
                 }
@@ -38,5 +43,5 @@
 "corequisite": "-1",
 "faculty": "SCIENCE",
 "department": "CHEMISTRY",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,1,0,0,0]]
+"history": [[0,0,0,0,0],[2012,1,0,0,0],[2013,1,0,0,0],[2014,1,0,0,0],[2015,1,0,0,0],[2016,1,0,0,0]]
 }

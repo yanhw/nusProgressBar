@@ -1,0 +1,22 @@
+{
+"moduleCode": "BMK6101",
+"moduleTitle": "Marketing Seminar: Perspectives in Consumer Behavior",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "BMK6101", 
+            "children": []
+},
+"moduleDescription": "This seminar will introduce students to the fundamentals of modeling in marketing. Among the topics we will cover include marketing models and implementation, market segmentation, pricing, market structure, market share, market entry/timing, and distribution channels. We will rely heavily on journal articles in discussing these topics. Students are expected to be fully prepared for all readings. A research proposal on a topic (to be approved by instructor) based on those covered in this seminar is due at the end of the semester.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF BUSINESS",
+"department": "MARKETING",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[2013,1,0,0,0],[2014,0,2,0,0],[0,0,0,0,0],[2016,0,2,0,0]]
+}

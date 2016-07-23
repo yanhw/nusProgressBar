@@ -1,0 +1,29 @@
+{
+"moduleCode": "CM5221",
+"moduleTitle": "Advanced Organic Synthesis",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "CM4222 or by permission",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["CM4222"]
+},
+"prerequisiteList": ["CM4222"],
+"completePrerequisite": {
+            "name": "CM5221", 
+            "children": [
+                {
+                    "name": "CM4222", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "Biomimetic reactions, the application of organometallics to organic synthesis, synthesis of complex molecules, and other emerging areas in organic synthesis. Students will be required to write a proposal and a review on any topic related to organic synthesis.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCIENCE",
+"department": "CHEMISTRY",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[2013,1,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2016,1,0,0,0]]
+}

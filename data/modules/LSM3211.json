@@ -4,10 +4,12 @@
 "moduleCredit": "4",
 "lockedModules":[
             "LSM4221",
+            "LSM4214",
             "LSM4212",
             "LSM4211",
-            "LSM4214",
-            "LSM3221"
+            "PR5222",
+            "LSM3219",
+            "LSM3218"
         ],
 "preclusion": "GEK2501",
 "prerequisite": "LSM2101 or LSM2103",
@@ -76,5 +78,5 @@
 "corequisite": "-1",
 "faculty": "YONG LOO LIN SCHOOL OF MEDICINE",
 "department": "PHARMACOLOGY",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,1,2,0,0]]
+"history": [[0,0,0,0,0],[2012,1,2,0,0],[2013,1,2,0,0],[2014,1,2,0,0],[2015,1,2,0,0],[2016,1,2,0,0]]
 }

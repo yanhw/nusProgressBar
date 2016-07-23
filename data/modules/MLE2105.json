@@ -1,26 +1,27 @@
 {
 "moduleCode": "MLE2105",
 "moduleTitle": "Electronic Properties of Materials",
-"moduleCredit": "4",
+"moduleCredit": "3",
 "lockedModules":[
             "MLE4101R",
+            "MLE4101",
             "MLE3105",
             "MLE4208",
             "MLE4206",
             "MLE4210",
-            "ESP3401",
-            "MLE4101"
+            "ESP3401"
         ],
 "preclusion": "NIL",
-"prerequisite": "MLE1101 or MLE2101",
+"prerequisite": "MLE1101 or MLE2101 or MLE1111",
 "preclusionList": [],
 "parsedPrerequisite": {
             " or ": [
                 "MLE1101", 
-                "MLE2101"
+                "MLE2101", 
+                "MLE1111"
             ]
 },
-"prerequisiteList": ["MLE1101","MLE2101"],
+"prerequisiteList": ["MLE1101","MLE2101","MLE1111"],
 "completePrerequisite": {
             "name": "MLE2105", 
             "children": [
@@ -34,6 +35,10 @@
                         {
                             "name": "MLE2101", 
                             "children": []
+                        }, 
+                        {
+                            "name": "MLE1111", 
+                            "children": []
                         }
                     ]
                 }
@@ -44,5 +49,5 @@
 "corequisite": "NIL",
 "faculty": "ENGINEERING",
 "department": "MATERIALS SCIENCE AND ENGINEERING",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,0,2,0,0]]
+"history": [[0,0,0,0,0],[2012,0,2,0,0],[2013,0,2,0,0],[2014,0,2,0,0],[2015,0,2,0,0],[2016,0,2,0,0]]
 }

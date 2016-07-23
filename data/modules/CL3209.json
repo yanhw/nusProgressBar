@@ -1,0 +1,25 @@
+{
+"moduleCode": "CL3209",
+"moduleTitle": "Chinese Language Acquisition",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "CL2206 & CL2209",
+"prerequisite": "Must obtain: 1) At least a B4 for (a) Higher Chinese at GCE 'O' Level, or (b) Chinese Language at GCE 'AO' Level (at GCE 'A' Level examination); OR 2) At least a pass for (a) Chinese at GCE 'A' Level, or (b) Higher Chinese at GCE 'A' Level; OR 3) At least C grade for Chinese Language (H1CL) at GCE 'A' Level; OR 4) At least a pass for (a) Chinese Language and Literature (H2CLL) at GCE 'A' Level, or (b) Chinese Language and Literature (H3CLL) at GCE 'A' Level. 5) Equivalent qualifications may be accepted.",
+"preclusionList": [
+            "CL2209",
+            "CL2206"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "CL3209", 
+            "children": []
+},
+"moduleDescription": "This module introduces students to the various mechanisms behind how the Chinese language is acquired. Differences as well as similarities in the acquisition process by learners of Chinese as a first and second language are examined. Students will gain an insightful glimpse at learning Chinese as a first language or (to a lesser extent) second language, along with their associated linguistic, developmental and socio-cultural issues. There is a significant practical orientation to this module which include collecting real-life linguistic data (through recordings etc.), transcribing the data and analysing them.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "CHINESE STUDIES",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2014,0,2,0,0],[0,0,0,0,0],[2016,0,2,0,0]]
+}

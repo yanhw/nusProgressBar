@@ -1,0 +1,22 @@
+{
+"moduleCode": "YSC1212",
+"moduleTitle": "Introduction to Computer Science",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "YSC1212", 
+            "children": []
+},
+"moduleDescription": "Computer science has improved human life dramatically in the last 50 years. This course explains how computational tasks are solved and computers are programmed. You will learn how to be a more careful and methodical thinker. Moreover, millions of people around the world enjoy programming and you can too!",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "YALE-NUS COLLEGE",
+"department": "YALE-NUS COLLEGE",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2016,1,0,0,0]]
+}

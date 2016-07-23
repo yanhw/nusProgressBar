@@ -1,0 +1,29 @@
+{
+"moduleCode": "LL6148",
+"moduleTitle": "Secured Transactions Law",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "Credit & Security (LL4019/LL5019/LL6019; LL4019V/LL5019V/LL6019V)",
+"prerequisite": "NUS Compulsory Core Curriculum or its equivalent",
+"preclusionList": [
+            "LL6019",
+            "LL5019",
+            "LL4019V",
+            "LL4019",
+            "LL6019V",
+            "LL5019V"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "LL6148", 
+            "children": []
+},
+"moduleDescription": "This course provides a comparative study of the law of secured transactions across the common law world. The first part covers the English law of security and title financing in depth. The second part looks at the notice filing model originally introduced in UCC Article 9 and now enacted as PPSAs in several other jurisdictions. The third part looks at reform of secured transactions law around the world, and, in particular, the Cape Town Convention and the UNCITRAL Legislative Guide and Model Law. This course will be of interest to anyone interested in the debt side of corporate finance, as well as those interested in transnational commercial law.",
+"crossModule": "-1",
+"corequisite": "Nil",
+"faculty": "LAW",
+"department": "LAW",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2016,1,0,0,0]]
+}

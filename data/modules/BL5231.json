@@ -1,16 +1,20 @@
 {
 "moduleCode": "BL5231",
 "moduleTitle": "Writing in the Biological Sciences",
-"moduleCredit": "4",
+"moduleCredit": "2",
 "lockedModules":[
-],
+            "BL5235",
+            "BL5232C",
+            "BL5232B",
+            "BL5232A"
+        ],
 "preclusion": "NIL",
 "prerequisite" : "NIL",
 "preclusionList": [],
 "parsedPrerequisite" : "nil",
 "prerequisiteList": [],
 "completePrerequisite": {
-            "name": "BL5231", 
+            "name": "BL5232", 
             "children": []
 },
 "moduleDescription": "The module is directed towards graduates who have acquired background knowledge of scientific writing and are interested in developing the skill further. There are 4 components to this course: (1) Scientific rhetoric: understanding the contextual factors that make communication in science effective (2) Scientific thinking: harmonizing the communicative purposes of writing in science with careful formation of claims and use of evidence (3) Scientific style: revising and editing to maximize effective communication, including use of visual displays of information (4) Scientific presentation: effectively communicating in person using visual and written aids",
@@ -18,5 +22,5 @@
 "corequisite": "-1",
 "faculty": "SCIENCE",
 "department": "BIOLOGICAL SCIENCES",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,1,0,0,0]]
+"history": [[0,0,0,0,0],[0,0,0,0,0],[2013,1,0,0,0],[2014,1,0,0,0],[2015,1,0,0,0],[0,0,0,0,0]]
 }

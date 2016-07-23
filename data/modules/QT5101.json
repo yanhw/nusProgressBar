@@ -10,7 +10,7 @@
 "parsedPrerequisite": {
 " and ": ["PC3130"]
 },
-"prerequisiteList": ["PC3130","PC2130","PC1144","PC1432","MA1505","MA1506","MA1102R","MA1521","MA1101R","PC2130B","PC1432X","PC1433","PC2174"],
+"prerequisiteList": ["PC3130","PC2130","PC1144","PC1432","PC1432X","MA1505","MA1506","MA1102R","MA1521","MA1101R","PC2130B","PC1433","PC2134"],
 "completePrerequisite": {
             "name": "QT5101", 
             "children": [
@@ -38,6 +38,10 @@
                                                                 }, 
                                                                 {
                                                                     "name": "PC1432", 
+                                                                    "children": []
+                                                                }, 
+                                                                {
+                                                                    "name": "PC1432X", 
                                                                     "children": []
                                                                 }
                                                             ]
@@ -170,6 +174,10 @@
                                                         {
                                                             "name": "PC1432", 
                                                             "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "PC1432X", 
+                                                            "children": []
                                                         }
                                                     ]
                                                 }, 
@@ -227,8 +235,22 @@
                                     ]
                                 }, 
                                 {
-                                    "name": "PC2174", 
-                                    "children": []
+                                    "name": "PC2134", 
+                                    "children": [
+                                        {
+                                            "name": "and", 
+                                            "children": [
+                                                {
+                                                    "name": "MA1101R", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MA1102R", 
+                                                    "children": []
+                                                }
+                                            ]
+                                        }
+                                    ]
                                 }
                             ]
                         }
@@ -241,5 +263,5 @@
 "corequisite": "-1",
 "faculty": "SPECIALITY RESEARCH INSTITUTES/CENTRES",
 "department": "CENTRE FOR QUANTUM TECHNOLOGIES",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,1,0,0,0]]
+"history": [[0,0,0,0,0],[0,0,0,0,0],[2013,1,0,0,0],[0,0,0,0,0],[2015,1,0,0,0],[2016,1,0,0,0]]
 }

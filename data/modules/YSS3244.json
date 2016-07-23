@@ -1,0 +1,41 @@
+{
+"moduleCode": "YSS3244",
+"moduleTitle": "Labor Economics",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "YSS2203 Intermediate Microeconomics and YSS2211 Econometrics",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " and ": [
+                "YSS2203", 
+                "YSS2211"
+            ]
+},
+"prerequisiteList": ["YSS2203","YSS2211"],
+"completePrerequisite": {
+            "name": "YSS3244", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "YSS2203", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "YSS2211", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "The aim of the module is to equip students with the analytical tools and knowledge to study and understand (i) the behaviour of employees and employers and (ii) government policy towards labour issues. In particular, the course provides a framework to evaluate common labour market policies, such as the minimum wage, welfare reform, or restricting immigration. The module relates recent developments in labour-economics research (including empirical results from developed and developing countries) with policy-relevant issues.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "YALE-NUS COLLEGE",
+"department": "YALE-NUS COLLEGE",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2016,1,0,0,0]]
+}

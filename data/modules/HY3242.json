@@ -1,0 +1,24 @@
+{
+"moduleCode": "HY3242",
+"moduleTitle": "Modern Imperialism",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "EU3231",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "EU3231"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "HY3242", 
+            "children": []
+},
+"moduleDescription": "The module relates the study of modern European imperialism to some topics outside of Europe. It examines a dimension of modern imperialism. Themes will include the economic basis of imperialism, the interaction of cultures (within imperial networks), the migrations of peoples, missionary movements, the management of religion and motives and means of imperial control. Normally one geographical area of imperial experience will be explored in depth.",
+        "CrossModule": "EU3231", 
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "HISTORY",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[2013,0,2,0,0],[0,0,0,0,0],[0,0,0,0,0],[2016,0,2,0,0]]
+}

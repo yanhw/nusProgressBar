@@ -15,7 +15,7 @@
                 "EE3731C"
             ]
 },
-"prerequisiteList": ["EE3206","EE2023","MA1506","MA1102R","MA1505","MA1521","EE3731C","EE2012","ST2334","MA1306","MA1102","MA1505C","MA1312","MA1507"],
+"prerequisiteList": ["EE3206","EE2023","MA1506","MA1102R","MA1505","MA1521","EE3731C","EE2012","ST2334","MA1312","MA1507"],
 "completePrerequisite": {
             "name": "EE4212", 
             "children": [
@@ -106,27 +106,7 @@
                                                             "name": "or", 
                                                             "children": [
                                                                 {
-                                                                    "name": "MA1306", 
-                                                                    "children": []
-                                                                }, 
-                                                                {
-                                                                    "name": "MA1102", 
-                                                                    "children": []
-                                                                }, 
-                                                                {
                                                                     "name": "MA1102R", 
-                                                                    "children": []
-                                                                }, 
-                                                                {
-                                                                    "name": "MA1505", 
-                                                                    "children": []
-                                                                }, 
-                                                                {
-                                                                    "name": "MA1505C", 
-                                                                    "children": []
-                                                                }, 
-                                                                {
-                                                                    "name": "MA1521", 
                                                                     "children": []
                                                                 }, 
                                                                 {
@@ -134,7 +114,15 @@
                                                                     "children": []
                                                                 }, 
                                                                 {
+                                                                    "name": "MA1505", 
+                                                                    "children": []
+                                                                }, 
+                                                                {
                                                                     "name": "MA1507", 
+                                                                    "children": []
+                                                                }, 
+                                                                {
+                                                                    "name": "MA1521", 
                                                                     "children": []
                                                                 }
                                                             ]
@@ -183,5 +171,5 @@
 "corequisite": "-1",
 "faculty": "ENGINEERING",
 "department": "ELECTRICAL & COMPUTER ENGINEERING",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,0,2,0,0]]
+"history": [[0,0,0,0,0],[2012,0,2,0,0],[2013,0,2,0,0],[2014,0,2,0,0],[2015,0,2,0,0],[2016,0,2,0,0]]
 }

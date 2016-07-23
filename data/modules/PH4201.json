@@ -1,0 +1,22 @@
+{
+"moduleCode": "PH4201",
+"moduleTitle": "Philosophy of Science",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "Cohort 2011 and before: Completed 80 MCs, including 28 MCs in PH, with a minimum CAP of 3.50 or be on the Honours track. Cohort 2012 onwards: Completed 80MCs, including 28 MCs in PH, with a minimum CAP of 3.20 or be on the Honours track.",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "PH4201", 
+            "children": []
+},
+"moduleDescription": "This module addresses important issues concerning the structure and development of scientific knowledge. These involve questions regarding the character of scientific method, the demarcation of scientific theories from other types of theories, whether the growth of science can be characterised as cumulative and progressive, the role of socio-cultural factors in shaping the content of scientific theories, the criteria deployed to determine which of a number of competing theories are scientifically acceptable, and the extent to which scientific theories can be said to give a realistic description of the world.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "PHILOSOPHY",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[2013,0,2,0,0],[0,0,0,0,0],[0,0,0,0,0],[2016,0,2,0,0]]
+}

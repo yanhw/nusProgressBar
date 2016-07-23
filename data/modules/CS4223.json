@@ -3,8 +3,7 @@
 "moduleTitle": "Multi-core Architectures",
 "moduleCredit": "4",
 "lockedModules":[
-            "CS5222"
-        ],
+],
 "preclusion": "NIL",
 "prerequisite": "(CS2106 Operating Systems or CG2271 Realtime Operating Systems) and (CS3210 Parallel Computing or CS3220 Computer Architecture or CG3207 Computer Architecture).",
 "preclusionList": [],
@@ -237,5 +236,5 @@
 "corequisite": "-1",
 "faculty": "SCHOOL OF COMPUTING",
 "department": "COMPUTER SCIENCE",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,1,0,0,0]]
+"history": [[0,0,0,0,0],[2012,1,0,0,0],[2013,1,0,0,0],[2014,1,0,0,0],[2015,1,0,0,0],[2016,1,0,0,0]]
 }

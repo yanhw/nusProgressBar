@@ -1,0 +1,98 @@
+{
+"moduleCode": "SW4221",
+"moduleTitle": "Social Work and Rehabilitation of Offenders",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "Completed 80 MCs, including 28 MCs in SW of which student must have passed SW1101E, SW2101, SW2104, SW2105 and SW3103A with a minimum CAP of 3.20 or be on the Honours track.",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " and ": [
+                "SW1101E", 
+                "SW2101", 
+                "SW2104", 
+                "SW2105", 
+                "SW3103A"
+            ]
+},
+"prerequisiteList": ["SW1101E","SW2101","SW2104","SW2105","SW3103A"],
+"completePrerequisite": {
+            "name": "SW4221", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "SW1101E", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "SW2101", 
+                            "children": [
+                                {
+                                    "name": "SW1101E", 
+                                    "children": []
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "SW2104", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "SW2105", 
+                            "children": [
+                                {
+                                    "name": "SW1101E", 
+                                    "children": []
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "SW3103A", 
+                            "children": [
+                                {
+                                    "name": "and", 
+                                    "children": [
+                                        {
+                                            "name": "SW1101E", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "SW2101", 
+                                            "children": [
+                                                {
+                                                    "name": "SW1101E", 
+                                                    "children": []
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "SW2104", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "SW2105", 
+                                            "children": [
+                                                {
+                                                    "name": "SW1101E", 
+                                                    "children": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module (a) provides the theoretical and conceptual underpinnings to understand issues about crime and juvenile delinquency in the local context, and (b) examines social intervention choices in various correctional and rehabilitation settings. Students will learn about, and critique, existing approaches in working with offenders, as well as examine alternative social work perspectives in their care and rehabilitation.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "SOCIAL WORK",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2016,1,0,0,0]]
+}

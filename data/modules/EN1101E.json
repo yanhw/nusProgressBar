@@ -3,9 +3,11 @@
 "moduleTitle": "An Introduction to Literary Studies",
 "moduleCredit": "4",
 "lockedModules":[
+            "EN2205",
             "EN2202",
             "EN2201",
             "EN2271",
+            "TS2239",
             "TS3246"
         ],
 "preclusion": "GEK1000",
@@ -24,5 +26,5 @@
 "corequisite": "-1",
 "faculty": "ARTS & SOCIAL SCIENCES",
 "department": "ENGLISH LANGUAGE & LITERATURE",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,1,2,0,0]]
+"history": [[0,0,0,0,0],[2012,1,2,0,0],[2013,1,2,0,0],[2014,1,2,0,0],[2015,1,2,0,0],[2016,1,2,0,0]]
 }

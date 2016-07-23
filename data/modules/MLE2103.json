@@ -1,25 +1,37 @@
 {
 "moduleCode": "MLE2103",
 "moduleTitle": "Phase Transformation and Kinetics",
-"moduleCredit": "4",
+"moduleCredit": "3",
 "lockedModules":[
             "MLE4101R",
-            "MLE4102",
-            "MLE4101"
+            "MLE4101",
+            "MLE4102"
         ],
 "preclusion": "NIL",
-"prerequisite": "MLE2102",
+"prerequisite": "MLE2102 or MLE1111",
 "preclusionList": [],
 "parsedPrerequisite": {
-" and ": ["MLE2102"]
+            " or ": [
+                "MLE2102", 
+                "MLE1111"
+            ]
 },
-"prerequisiteList": ["MLE2102"],
+"prerequisiteList": ["MLE2102","MLE1111"],
 "completePrerequisite": {
             "name": "MLE2103", 
             "children": [
                 {
-                    "name": "MLE2102", 
-                    "children": []
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "MLE2102", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "MLE1111", 
+                            "children": []
+                        }
+                    ]
                 }
             ]
 },
@@ -28,5 +40,5 @@
 "corequisite": "-1",
 "faculty": "ENGINEERING",
 "department": "MATERIALS SCIENCE AND ENGINEERING",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,0,2,0,0]]
+"history": [[0,0,0,0,0],[2012,0,2,0,0],[2013,0,2,0,0],[2014,0,2,0,0],[2015,0,2,0,0],[2016,0,2,0,0]]
 }

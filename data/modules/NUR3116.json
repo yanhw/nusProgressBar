@@ -10,7 +10,7 @@
 "parsedPrerequisite": {
 " and ": ["NUR3105"]
 },
-"prerequisiteList": ["NUR3105","NUR2107","NUR2116","NUR2106","NUR2114","NUR1108"],
+"prerequisiteList": ["NUR3105","NUR2107"],
 "completePrerequisite": {
             "name": "NUR3116", 
             "children": [
@@ -19,27 +19,7 @@
                     "children": [
                         {
                             "name": "NUR2107", 
-                            "children": [
-                                {
-                                    "name": "NUR2116", 
-                                    "children": [
-                                        {
-                                            "name": "NUR2106", 
-                                            "children": [
-                                                {
-                                                    "name": "NUR2114", 
-                                                    "children": [
-                                                        {
-                                                            "name": "NUR1108", 
-                                                            "children": []
-                                                        }
-                                                    ]
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
+                            "children": []
                         }
                     ]
                 }
@@ -50,5 +30,5 @@
 "corequisite": "NUR3115 Issues for Contemporary Nursing Practice",
 "faculty": "YONG LOO LIN SCHOOL OF MEDICINE",
 "department": "NURSING/ALICE LEE CTR FOR NURSING STUD",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,0,2,0,0]]
+"history": [[0,0,0,0,0],[0,0,0,0,0],[2013,0,2,0,0],[2014,0,2,0,0],[2015,0,2,0,0],[2016,0,2,0,0]]
 }

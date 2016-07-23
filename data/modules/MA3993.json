@@ -1,16 +1,18 @@
 {
 "moduleCode": "MA3993",
 "moduleTitle": "Exchange Enrichment Module",
-"moduleCredit": "4",
+"moduleCredit": "12",
 "lockedModules":[
 ],
-"preclusion": "NIL",
+"preclusion": "XFS4199M",
 "prerequisite" : "NIL",
-"preclusionList": [],
+"preclusionList": [
+            "XFS4199M"
+        ],
 "parsedPrerequisite" : "nil",
 "prerequisiteList": [],
 "completePrerequisite": {
-            "name": "MA3993", 
+            "name": "MA4199", 
             "children": []
 },
 

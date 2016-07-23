@@ -1,0 +1,70 @@
+{
+"moduleCode": "NUR5612",
+"moduleTitle": "Clinical Practicum II (Paediatrics) (8 weeks)",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "NUR5601, NUR5602, NUR5603, NUR5604",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " and ": [
+                "NUR5601", 
+                "NUR5602", 
+                "NUR5603", 
+                "NUR5604"
+            ]
+},
+"prerequisiteList": ["NUR5601","NUR5602","NUR5603","NUR5604","PA2106A"],
+"completePrerequisite": {
+            "name": "NUR5612", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "NUR5601", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "NUR5602", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "NUR5603", 
+                            "children": [
+                                {
+                                    "name": "and", 
+                                    "children": [
+                                        {
+                                            "name": "NUR5601", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "NUR5602", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "NUR5604", 
+                            "children": [
+                                {
+                                    "name": "PA2106A", 
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module focuses on information central to planning, implementing and evaluating therapeutic regimens. Care of paediatric patients with neuro-development, gastroenterology, endocrinology, orthopaedic, musculoskeletal, ophthalmology systems and genetic disorders in the paediatric wards and ambulatory setting. There will be a special focus for students to apply and perform advanced clinical skills in early assessment, interventions, resuscitation and stabilization of the critically ill patients. Aspects of health promotion and maintenance appropriate to these patients and families will also be emphasised.",
+"crossModule": "-1",
+"corequisite": "Nil",
+"faculty": "YONG LOO LIN SCHOOL OF MEDICINE",
+"department": "NURSING/ALICE LEE CTR FOR NURSING STUD",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[2013,1,2,0,0],[0,0,0,0,0],[0,0,0,0,0],[2016,1,2,0,0]]
+}

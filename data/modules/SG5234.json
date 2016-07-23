@@ -1,0 +1,22 @@
+{
+"moduleCode": "SG5234",
+"moduleTitle": "Digital User Experience Design",
+"moduleCredit": "3",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "There are no hard prerequisites in terms of existing courses, but students are expected to have basic knowledge of software development techniques and the software development lifecycle.",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "SG5234", 
+            "children": []
+},
+"moduleDescription": "With the rapid growth of digital consumption and proliferation of various interfaces and technological devices, software development is constantly challenged to provide seamless experiences across various platforms and devices. Digital User Experience Design provides a variety of best practices under-pinned by design principles that help to address this issue. It is a holistic, multidisciplinary approach that leads to the development of useful and usable digital solutions. The course focuses on the discovery, analysis, design and evaluation of the needs of the various stakeholders and the role of user experience design throughout the software development lifecycle to deliver useful and usable systems.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "NON-FACULTY-BASED DEPARTMENTS",
+"department": "INSTITUTE OF SYSTEMS SCIENCE",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2016,1,0,0,0]]
+}

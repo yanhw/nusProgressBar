@@ -1,0 +1,32 @@
+{
+"moduleCode": "UTW2001J",
+"moduleTitle": "Blood, Death and Desire, Interpreting the Vampire",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "IEM2201%, UTW2001%",
+"prerequisite": "IEM1201%, UTW1001%",
+"preclusionList": [
+            "IEM2201",
+            "UTW2001"
+        ],
+"parsedPrerequisite": {
+" and ": ["UTW1001"]
+},
+"prerequisiteList": ["UTW1001"],
+"completePrerequisite": {
+            "name": "UTW2001J", 
+            "children": [
+                {
+                    "name": "UTW1001", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "Vampire literature has undergone a twenty-first Century resuscitation, evident in novels such as Twilight and television series including The Vampire Diaries and True Blood. But how similar are these vampires to the traditional vampire in Western and other cultures? In this module you will explore different explanations for the role/function of the Vampire and have the opportunity to research manifestations of the Vampire across cultures, genres and historical periods. You will review different research methodologies, and compile a list of terms and ideas that enable you to participate in the conversation to understand the ongoing fascination with the Vampire.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "NON-FACULTY-BASED DEPARTMENTS",
+"department": "CTR FOR ENGLISH LANGUAGE COMMUNICATION",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2016,1,0,0,0]]
+}

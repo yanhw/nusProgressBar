@@ -1,0 +1,22 @@
+{
+"moduleCode": "EC6881",
+"moduleTitle": "Advanced Topics in Microeconomics",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "EC6881", 
+            "children": []
+},
+"moduleDescription": "Selected topics in decision-making under uncertainty, game theory, and information economics.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "ECONOMICS",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2016,1,0,0,0]]
+}

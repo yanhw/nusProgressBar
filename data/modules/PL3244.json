@@ -1,0 +1,47 @@
+{
+"moduleCode": "PL3244",
+"moduleTitle": "Adolescent Psychology",
+"moduleCredit": "4",
+"lockedModules":[
+            "PL3283A"
+        ],
+"preclusion": "NIL",
+"prerequisite": "PL1101E and PL3234",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " and ": [
+                "PL1101E", 
+                "PL3234"
+            ]
+},
+"prerequisiteList": ["PL1101E","PL3234"],
+"completePrerequisite": {
+            "name": "PL3244", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "PL1101E", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "PL3234", 
+                            "children": [
+                                {
+                                    "name": "PL1101E", 
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "Adolescence is a period of many transitions. This module will explore some of these transitions, ranging from the physical changes related to puberty to the psychological processes of identity formation to the social challenges of negotiating new patterns of relationships with family and peers.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "PSYCHOLOGY",
+"history": [[0,0,0,0,0],[2012,0,2,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2016,1,0,0,0]]
+}

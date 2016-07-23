@@ -1,0 +1,22 @@
+{
+"moduleCode": "LL6400",
+"moduleTitle": "Biomedical Law & Ethics",
+"moduleCredit": "8",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "LL6400", 
+            "children": []
+},
+
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "LAW",
+"department": "LAW",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[2013,0,2,0,0],[0,0,0,0,0],[0,0,0,0,0],[2016,0,2,0,0]]
+}

@@ -14,66 +14,113 @@
                 "LSM2103"
             ]
 },
-"prerequisiteList": ["LSM2101","LSM1101","LSM1401","LSM2102","LSM1102","LSM2103"],
+"prerequisiteList": ["LSM3211","LSM2101","LSM1101","LSM1401","LSM2103","LSM1102","LSM3221"],
 "completePrerequisite": {
-            "name": "LSM4210", 
+            "name": "LSM4211", 
             "children": [
                 {
                     "name": "or", 
                     "children": [
                         {
-                            "name": "LSM2101", 
+                            "name": "LSM3211", 
                             "children": [
                                 {
                                     "name": "or", 
                                     "children": [
                                         {
-                                            "name": "LSM1101", 
-                                            "children": []
+                                            "name": "LSM2101", 
+                                            "children": [
+                                                {
+                                                    "name": "or", 
+                                                    "children": [
+                                                        {
+                                                            "name": "LSM1101", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "LSM1401", 
+                                                            "children": []
+                                                        }
+                                                    ]
+                                                }
+                                            ]
                                         }, 
                                         {
-                                            "name": "LSM1401", 
-                                            "children": []
+                                            "name": "LSM2103", 
+                                            "children": [
+                                                {
+                                                    "name": "or", 
+                                                    "children": [
+                                                        {
+                                                            "name": "LSM1101", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "LSM1401", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "LSM1102", 
+                                                            "children": []
+                                                        }
+                                                    ]
+                                                }
+                                            ]
                                         }
                                     ]
                                 }
                             ]
                         }, 
                         {
-                            "name": "LSM2102", 
+                            "name": "LSM3221", 
                             "children": [
                                 {
-                                    "name": "and", 
+                                    "name": "LSM3211", 
                                     "children": [
                                         {
-                                            "name": "LSM1401", 
-                                            "children": []
-                                        }, 
-                                        {
-                                            "name": "LSM1102", 
-                                            "children": []
-                                        }
-                                    ]
-                                }
-                            ]
-                        }, 
-                        {
-                            "name": "LSM2103", 
-                            "children": [
-                                {
-                                    "name": "or", 
-                                    "children": [
-                                        {
-                                            "name": "LSM1101", 
-                                            "children": []
-                                        }, 
-                                        {
-                                            "name": "LSM1401", 
-                                            "children": []
-                                        }, 
-                                        {
-                                            "name": "LSM1102", 
-                                            "children": []
+                                            "name": "or", 
+                                            "children": [
+                                                {
+                                                    "name": "LSM2101", 
+                                                    "children": [
+                                                        {
+                                                            "name": "or", 
+                                                            "children": [
+                                                                {
+                                                                    "name": "LSM1101", 
+                                                                    "children": []
+                                                                }, 
+                                                                {
+                                                                    "name": "LSM1401", 
+                                                                    "children": []
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }, 
+                                                {
+                                                    "name": "LSM2103", 
+                                                    "children": [
+                                                        {
+                                                            "name": "or", 
+                                                            "children": [
+                                                                {
+                                                                    "name": "LSM1101", 
+                                                                    "children": []
+                                                                }, 
+                                                                {
+                                                                    "name": "LSM1401", 
+                                                                    "children": []
+                                                                }, 
+                                                                {
+                                                                    "name": "LSM1102", 
+                                                                    "children": []
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
                                         }
                                     ]
                                 }
@@ -88,5 +135,5 @@
 "corequisite": "Nil",
 "faculty": "SCIENCE",
 "department": "BIOLOGICAL SCIENCES",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,0,0,0,4]]
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2014,0,0,3,4],[2015,0,0,0,4],[0,0,0,0,0]]
 }

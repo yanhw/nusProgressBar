@@ -1,0 +1,22 @@
+{
+"moduleCode": "BPS5111",
+"moduleTitle": "Integrated Building Design",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "BPS5111", 
+            "children": []
+},
+"moduleDescription": "This module aims to provide the concept, principles, methods and practice of integrated building design that adopts total building performance (TBP) as the underlying paradigm. Integration is emphasized, fostering holistic considerations for performance from the structure, facade, mechanical & electrical and interior systems, and consistently devolving this through design development, contracting, construction, commissioning and into the occupancy phases",
+"crossModule": "-1",
+"corequisite": "None",
+"faculty": "SCHOOL OF DESIGN AND ENVIRONMENT",
+"department": "BUILDING",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2016,1,0,0,0]]
+}

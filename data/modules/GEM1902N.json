@@ -1,0 +1,24 @@
+{
+"moduleCode": "GEM1902N",
+"moduleTitle": "Junior Seminar: The Bio-tech Future: Sci-Fi Film and Society",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "UTC1102N GEM1902NX",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "UTC1102N"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "GEM1902N", 
+            "children": []
+},
+"moduleDescription": "From the earliest films in the late 19th century to contemporary Hollywood blockbusters, science and technology have long played a role in how the future has been envisioned. In this seminar students will study a range of popular science fiction films and examine how the futures portrayed in these films are a creative, ociocultural response to the techno-scientific milieu of their production. Students will consider how film challenges us to re-examine concepts of scientific progress and technological advancement by asking questions such as: what is monstrous about sci-fi monsters, and what is biology in the age of the machine?",
+"crossModule": "-1",
+"corequisite": "Nil",
+"faculty": "NON-FACULTY-BASED DEPARTMENTS",
+"department": "TEMBUSU COLLEGE",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[2013,0,2,0,0],[0,0,0,0,0],[0,0,0,0,0],[2016,1,0,0,0]]
+}

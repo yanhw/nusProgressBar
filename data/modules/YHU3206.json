@@ -10,20 +10,15 @@
 "parsedPrerequisite": {
 " and ": ["YHU2202"]
 },
-"prerequisiteList": ["YHU2202"],
+"prerequisiteList": [],
 "completePrerequisite": {
-            "name": "YHU3206", 
-            "children": [
-                {
-                    "name": "YHU2202", 
-                    "children": []
-                }
-            ]
+            "name": "YHU3207", 
+            "children": []
 },
 "moduleDescription": "This course is designed for students who have previously taken the Introduction to Creative Nonfiction course. The course is designed to hone the writing skills of students who are particularly interested in the personal essay form.",
 "crossModule": "-1",
 "corequisite": "-1",
 "faculty": "YALE-NUS COLLEGE",
 "department": "YALE-NUS COLLEGE",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,1,0,0,0]]
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,1,0,0,0],[0,0,0,0,0]]
 }

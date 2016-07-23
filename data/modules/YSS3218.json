@@ -8,15 +8,20 @@
 "prerequisite" : "NIL",
 "preclusionList": [],
 "parsedPrerequisite" : "nil",
-"prerequisiteList": [],
+"prerequisiteList": ["YSS2201"],
 "completePrerequisite": {
-            "name": "YSS3218", 
-            "children": []
+            "name": "YSS3219", 
+            "children": [
+                {
+                    "name": "YSS2201", 
+                    "children": []
+                }
+            ]
 },
 "moduleDescription": "This course offers students and in-depth and interdisciplinary understanding of processes of urbanization in contemporary Southeast Asia. Students will understand the specific features of urbanization in Southeast Asia and the ways these are linked to the restructuring of economic, political and social agendas. Students will be given opportunities to understand and evaluate the social and environmental costs and opportunities of urbanization in contemporary Southeast Asia.",
 "crossModule": "-1",
 "corequisite": "-1",
 "faculty": "YALE-NUS COLLEGE",
 "department": "YALE-NUS COLLEGE",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,0,2,0,0]]
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,0,2,0,0],[0,0,0,0,0]]
 }

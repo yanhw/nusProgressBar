@@ -15,7 +15,7 @@
 },
 "prerequisiteList": ["UTW1001"],
 "completePrerequisite": {
-            "name": "UTW2001P", 
+            "name": "UTW2001S", 
             "children": [
                 {
                     "name": "UTW1001", 
@@ -28,5 +28,5 @@
 "corequisite": "-1",
 "faculty": "NON-FACULTY-BASED DEPARTMENTS",
 "department": "CTR FOR ENGLISH LANGUAGE COMMUNICATION",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,1,2,0,0]]
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,1,2,0,0],[0,0,0,0,0]]
 }

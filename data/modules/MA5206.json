@@ -18,203 +18,99 @@
                 }
             ]
 },
-"prerequisiteList": ["MA4211","MA3207H","MA3209","MA3110","MA2108","MA1102","MA1102R","MA1505","MA1505C","MA1507","MA1521","MA2108S","MA3110S","MA1104","EE1401","EE1461","EG1402","MA4262","MA5205"],
+"prerequisiteList": ["MA3201","MA2202","MA1100","MA1100S","CS1231","CS1231S","MA2202S","MA2101","MA1101","MA1101R","MA1506","MA1102R","MA1505","MA1521","MA1508","GM1302","GM1308","MA2101S","MA5203","MA5204"],
 "completePrerequisite": {
-            "name": "MA5206", 
+            "name": "MA5208", 
             "children": [
                 {
-                    "name": "and", 
+                    "name": "or", 
                     "children": [
                         {
-                            "name": "MA4211", 
+                            "name": "MA3201", 
                             "children": [
                                 {
-                                    "name": "or", 
+                                    "name": "and", 
                                     "children": [
                                         {
-                                            "name": "MA3207H", 
-                                            "children": []
-                                        }, 
-                                        {
-                                            "name": "MA3209", 
+                                            "name": "or", 
                                             "children": [
                                                 {
-                                                    "name": "and", 
+                                                    "name": "MA2202", 
                                                     "children": [
                                                         {
                                                             "name": "or", 
                                                             "children": [
                                                                 {
-                                                                    "name": "MA3110", 
-                                                                    "children": [
-                                                                        {
-                                                                            "name": "or", 
-                                                                            "children": [
-                                                                                {
-                                                                                    "name": "MA2108", 
-                                                                                    "children": [
-                                                                                        {
-                                                                                            "name": "or", 
-                                                                                            "children": [
-                                                                                                {
-                                                                                                    "name": "MA1102", 
-                                                                                                    "children": []
-                                                                                                }, 
-                                                                                                {
-                                                                                                    "name": "MA1102R", 
-                                                                                                    "children": []
-                                                                                                }, 
-                                                                                                {
-                                                                                                    "name": "MA1505", 
-                                                                                                    "children": []
-                                                                                                }, 
-                                                                                                {
-                                                                                                    "name": "MA1505C", 
-                                                                                                    "children": []
-                                                                                                }, 
-                                                                                                {
-                                                                                                    "name": "MA1507", 
-                                                                                                    "children": []
-                                                                                                }, 
-                                                                                                {
-                                                                                                    "name": "MA1521", 
-                                                                                                    "children": []
-                                                                                                }
-                                                                                            ]
-                                                                                        }
-                                                                                    ]
-                                                                                }, 
-                                                                                {
-                                                                                    "name": "MA2108S", 
-                                                                                    "children": [
-                                                                                        {
-                                                                                            "name": "or", 
-                                                                                            "children": [
-                                                                                                {
-                                                                                                    "name": "MA1102", 
-                                                                                                    "children": []
-                                                                                                }, 
-                                                                                                {
-                                                                                                    "name": "MA1102R", 
-                                                                                                    "children": []
-                                                                                                }, 
-                                                                                                {
-                                                                                                    "name": "MA1505", 
-                                                                                                    "children": []
-                                                                                                }, 
-                                                                                                {
-                                                                                                    "name": "MA1505C", 
-                                                                                                    "children": []
-                                                                                                }, 
-                                                                                                {
-                                                                                                    "name": "MA1507", 
-                                                                                                    "children": []
-                                                                                                }, 
-                                                                                                {
-                                                                                                    "name": "MA1521", 
-                                                                                                    "children": []
-                                                                                                }
-                                                                                            ]
-                                                                                        }
-                                                                                    ]
-                                                                                }
-                                                                            ]
-                                                                        }
-                                                                    ]
+                                                                    "name": "MA1100", 
+                                                                    "children": []
                                                                 }, 
                                                                 {
-                                                                    "name": "MA3110S", 
-                                                                    "children": [
-                                                                        {
-                                                                            "name": "or", 
-                                                                            "children": [
-                                                                                {
-                                                                                    "name": "MA2108", 
-                                                                                    "children": [
-                                                                                        {
-                                                                                            "name": "or", 
-                                                                                            "children": [
-                                                                                                {
-                                                                                                    "name": "MA1102", 
-                                                                                                    "children": []
-                                                                                                }, 
-                                                                                                {
-                                                                                                    "name": "MA1102R", 
-                                                                                                    "children": []
-                                                                                                }, 
-                                                                                                {
-                                                                                                    "name": "MA1505", 
-                                                                                                    "children": []
-                                                                                                }, 
-                                                                                                {
-                                                                                                    "name": "MA1505C", 
-                                                                                                    "children": []
-                                                                                                }, 
-                                                                                                {
-                                                                                                    "name": "MA1507", 
-                                                                                                    "children": []
-                                                                                                }, 
-                                                                                                {
-                                                                                                    "name": "MA1521", 
-                                                                                                    "children": []
-                                                                                                }
-                                                                                            ]
-                                                                                        }
-                                                                                    ]
-                                                                                }, 
-                                                                                {
-                                                                                    "name": "MA2108S", 
-                                                                                    "children": [
-                                                                                        {
-                                                                                            "name": "or", 
-                                                                                            "children": [
-                                                                                                {
-                                                                                                    "name": "MA1102", 
-                                                                                                    "children": []
-                                                                                                }, 
-                                                                                                {
-                                                                                                    "name": "MA1102R", 
-                                                                                                    "children": []
-                                                                                                }, 
-                                                                                                {
-                                                                                                    "name": "MA1505", 
-                                                                                                    "children": []
-                                                                                                }, 
-                                                                                                {
-                                                                                                    "name": "MA1505C", 
-                                                                                                    "children": []
-                                                                                                }, 
-                                                                                                {
-                                                                                                    "name": "MA1507", 
-                                                                                                    "children": []
-                                                                                                }, 
-                                                                                                {
-                                                                                                    "name": "MA1521", 
-                                                                                                    "children": []
-                                                                                                }
-                                                                                            ]
-                                                                                        }
-                                                                                    ]
-                                                                                }
-                                                                            ]
-                                                                        }
-                                                                    ]
+                                                                    "name": "MA1100S", 
+                                                                    "children": []
+                                                                }, 
+                                                                {
+                                                                    "name": "CS1231", 
+                                                                    "children": []
+                                                                }, 
+                                                                {
+                                                                    "name": "CS1231S", 
+                                                                    "children": []
                                                                 }
                                                             ]
-                                                        }, 
+                                                        }
+                                                    ]
+                                                }, 
+                                                {
+                                                    "name": "MA2202S", 
+                                                    "children": [
                                                         {
                                                             "name": "or", 
                                                             "children": [
                                                                 {
-                                                                    "name": "MA1104", 
+                                                                    "name": "MA1100", 
+                                                                    "children": []
+                                                                }, 
+                                                                {
+                                                                    "name": "MA1100S", 
+                                                                    "children": []
+                                                                }, 
+                                                                {
+                                                                    "name": "CS1231", 
+                                                                    "children": []
+                                                                }, 
+                                                                {
+                                                                    "name": "CS1231S", 
+                                                                    "children": []
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "or", 
+                                            "children": [
+                                                {
+                                                    "name": "MA2101", 
+                                                    "children": [
+                                                        {
+                                                            "name": "or", 
+                                                            "children": [
+                                                                {
+                                                                    "name": "MA1101", 
+                                                                    "children": []
+                                                                }, 
+                                                                {
+                                                                    "name": "MA1101R", 
+                                                                    "children": []
+                                                                }, 
+                                                                {
+                                                                    "name": "MA1506", 
                                                                     "children": [
                                                                         {
                                                                             "name": "or", 
                                                                             "children": [
-                                                                                {
-                                                                                    "name": "MA1102", 
-                                                                                    "children": []
-                                                                                }, 
                                                                                 {
                                                                                     "name": "MA1102R", 
                                                                                     "children": []
@@ -224,23 +120,7 @@
                                                                                     "children": []
                                                                                 }, 
                                                                                 {
-                                                                                    "name": "MA1505C", 
-                                                                                    "children": []
-                                                                                }, 
-                                                                                {
                                                                                     "name": "MA1521", 
-                                                                                    "children": []
-                                                                                }, 
-                                                                                {
-                                                                                    "name": "EE1401", 
-                                                                                    "children": []
-                                                                                }, 
-                                                                                {
-                                                                                    "name": "EE1461", 
-                                                                                    "children": []
-                                                                                }, 
-                                                                                {
-                                                                                    "name": "EG1402", 
                                                                                     "children": []
                                                                                 }
                                                                             ]
@@ -248,7 +128,67 @@
                                                                     ]
                                                                 }, 
                                                                 {
-                                                                    "name": "MA1507", 
+                                                                    "name": "MA1508", 
+                                                                    "children": []
+                                                                }, 
+                                                                {
+                                                                    "name": "GM1302", 
+                                                                    "children": []
+                                                                }, 
+                                                                {
+                                                                    "name": "GM1308", 
+                                                                    "children": []
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }, 
+                                                {
+                                                    "name": "MA2101S", 
+                                                    "children": [
+                                                        {
+                                                            "name": "or", 
+                                                            "children": [
+                                                                {
+                                                                    "name": "MA1101", 
+                                                                    "children": []
+                                                                }, 
+                                                                {
+                                                                    "name": "MA1101R", 
+                                                                    "children": []
+                                                                }, 
+                                                                {
+                                                                    "name": "MA1506", 
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "or", 
+                                                                            "children": [
+                                                                                {
+                                                                                    "name": "MA1102R", 
+                                                                                    "children": []
+                                                                                }, 
+                                                                                {
+                                                                                    "name": "MA1505", 
+                                                                                    "children": []
+                                                                                }, 
+                                                                                {
+                                                                                    "name": "MA1521", 
+                                                                                    "children": []
+                                                                                }
+                                                                            ]
+                                                                        }
+                                                                    ]
+                                                                }, 
+                                                                {
+                                                                    "name": "MA1508", 
+                                                                    "children": []
+                                                                }, 
+                                                                {
+                                                                    "name": "GM1302", 
+                                                                    "children": []
+                                                                }, 
+                                                                {
+                                                                    "name": "GM1308", 
                                                                     "children": []
                                                                 }
                                                             ]
@@ -262,421 +202,94 @@
                             ]
                         }, 
                         {
-                            "name": "or", 
+                            "name": "MA5203", 
                             "children": [
                                 {
-                                    "name": "MA4262", 
+                                    "name": "MA3201", 
                                     "children": [
                                         {
-                                            "name": "MA3209", 
+                                            "name": "and", 
                                             "children": [
                                                 {
-                                                    "name": "and", 
+                                                    "name": "or", 
                                                     "children": [
                                                         {
-                                                            "name": "or", 
+                                                            "name": "MA2202", 
                                                             "children": [
                                                                 {
-                                                                    "name": "MA3110", 
+                                                                    "name": "or", 
                                                                     "children": [
                                                                         {
-                                                                            "name": "or", 
-                                                                            "children": [
-                                                                                {
-                                                                                    "name": "MA2108", 
-                                                                                    "children": [
-                                                                                        {
-                                                                                            "name": "or", 
-                                                                                            "children": [
-                                                                                                {
-                                                                                                    "name": "MA1102", 
-                                                                                                    "children": []
-                                                                                                }, 
-                                                                                                {
-                                                                                                    "name": "MA1102R", 
-                                                                                                    "children": []
-                                                                                                }, 
-                                                                                                {
-                                                                                                    "name": "MA1505", 
-                                                                                                    "children": []
-                                                                                                }, 
-                                                                                                {
-                                                                                                    "name": "MA1505C", 
-                                                                                                    "children": []
-                                                                                                }, 
-                                                                                                {
-                                                                                                    "name": "MA1507", 
-                                                                                                    "children": []
-                                                                                                }, 
-                                                                                                {
-                                                                                                    "name": "MA1521", 
-                                                                                                    "children": []
-                                                                                                }
-                                                                                            ]
-                                                                                        }
-                                                                                    ]
-                                                                                }, 
-                                                                                {
-                                                                                    "name": "MA2108S", 
-                                                                                    "children": [
-                                                                                        {
-                                                                                            "name": "or", 
-                                                                                            "children": [
-                                                                                                {
-                                                                                                    "name": "MA1102", 
-                                                                                                    "children": []
-                                                                                                }, 
-                                                                                                {
-                                                                                                    "name": "MA1102R", 
-                                                                                                    "children": []
-                                                                                                }, 
-                                                                                                {
-                                                                                                    "name": "MA1505", 
-                                                                                                    "children": []
-                                                                                                }, 
-                                                                                                {
-                                                                                                    "name": "MA1505C", 
-                                                                                                    "children": []
-                                                                                                }, 
-                                                                                                {
-                                                                                                    "name": "MA1507", 
-                                                                                                    "children": []
-                                                                                                }, 
-                                                                                                {
-                                                                                                    "name": "MA1521", 
-                                                                                                    "children": []
-                                                                                                }
-                                                                                            ]
-                                                                                        }
-                                                                                    ]
-                                                                                }
-                                                                            ]
-                                                                        }
-                                                                    ]
-                                                                }, 
-                                                                {
-                                                                    "name": "MA3110S", 
-                                                                    "children": [
+                                                                            "name": "MA1100", 
+                                                                            "children": []
+                                                                        }, 
                                                                         {
-                                                                            "name": "or", 
-                                                                            "children": [
-                                                                                {
-                                                                                    "name": "MA2108", 
-                                                                                    "children": [
-                                                                                        {
-                                                                                            "name": "or", 
-                                                                                            "children": [
-                                                                                                {
-                                                                                                    "name": "MA1102", 
-                                                                                                    "children": []
-                                                                                                }, 
-                                                                                                {
-                                                                                                    "name": "MA1102R", 
-                                                                                                    "children": []
-                                                                                                }, 
-                                                                                                {
-                                                                                                    "name": "MA1505", 
-                                                                                                    "children": []
-                                                                                                }, 
-                                                                                                {
-                                                                                                    "name": "MA1505C", 
-                                                                                                    "children": []
-                                                                                                }, 
-                                                                                                {
-                                                                                                    "name": "MA1507", 
-                                                                                                    "children": []
-                                                                                                }, 
-                                                                                                {
-                                                                                                    "name": "MA1521", 
-                                                                                                    "children": []
-                                                                                                }
-                                                                                            ]
-                                                                                        }
-                                                                                    ]
-                                                                                }, 
-                                                                                {
-                                                                                    "name": "MA2108S", 
-                                                                                    "children": [
-                                                                                        {
-                                                                                            "name": "or", 
-                                                                                            "children": [
-                                                                                                {
-                                                                                                    "name": "MA1102", 
-                                                                                                    "children": []
-                                                                                                }, 
-                                                                                                {
-                                                                                                    "name": "MA1102R", 
-                                                                                                    "children": []
-                                                                                                }, 
-                                                                                                {
-                                                                                                    "name": "MA1505", 
-                                                                                                    "children": []
-                                                                                                }, 
-                                                                                                {
-                                                                                                    "name": "MA1505C", 
-                                                                                                    "children": []
-                                                                                                }, 
-                                                                                                {
-                                                                                                    "name": "MA1507", 
-                                                                                                    "children": []
-                                                                                                }, 
-                                                                                                {
-                                                                                                    "name": "MA1521", 
-                                                                                                    "children": []
-                                                                                                }
-                                                                                            ]
-                                                                                        }
-                                                                                    ]
-                                                                                }
-                                                                            ]
+                                                                            "name": "MA1100S", 
+                                                                            "children": []
+                                                                        }, 
+                                                                        {
+                                                                            "name": "CS1231", 
+                                                                            "children": []
+                                                                        }, 
+                                                                        {
+                                                                            "name": "CS1231S", 
+                                                                            "children": []
                                                                         }
                                                                     ]
                                                                 }
                                                             ]
                                                         }, 
                                                         {
-                                                            "name": "or", 
+                                                            "name": "MA2202S", 
                                                             "children": [
                                                                 {
-                                                                    "name": "MA1104", 
+                                                                    "name": "or", 
                                                                     "children": [
                                                                         {
-                                                                            "name": "or", 
-                                                                            "children": [
-                                                                                {
-                                                                                    "name": "MA1102", 
-                                                                                    "children": []
-                                                                                }, 
-                                                                                {
-                                                                                    "name": "MA1102R", 
-                                                                                    "children": []
-                                                                                }, 
-                                                                                {
-                                                                                    "name": "MA1505", 
-                                                                                    "children": []
-                                                                                }, 
-                                                                                {
-                                                                                    "name": "MA1505C", 
-                                                                                    "children": []
-                                                                                }, 
-                                                                                {
-                                                                                    "name": "MA1521", 
-                                                                                    "children": []
-                                                                                }, 
-                                                                                {
-                                                                                    "name": "EE1401", 
-                                                                                    "children": []
-                                                                                }, 
-                                                                                {
-                                                                                    "name": "EE1461", 
-                                                                                    "children": []
-                                                                                }, 
-                                                                                {
-                                                                                    "name": "EG1402", 
-                                                                                    "children": []
-                                                                                }
-                                                                            ]
+                                                                            "name": "MA1100", 
+                                                                            "children": []
+                                                                        }, 
+                                                                        {
+                                                                            "name": "MA1100S", 
+                                                                            "children": []
+                                                                        }, 
+                                                                        {
+                                                                            "name": "CS1231", 
+                                                                            "children": []
+                                                                        }, 
+                                                                        {
+                                                                            "name": "CS1231S", 
+                                                                            "children": []
                                                                         }
                                                                     ]
-                                                                }, 
-                                                                {
-                                                                    "name": "MA1507", 
-                                                                    "children": []
                                                                 }
                                                             ]
                                                         }
                                                     ]
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }, 
-                                {
-                                    "name": "MA5205", 
-                                    "children": [
-                                        {
-                                            "name": "MA4262", 
-                                            "children": [
+                                                }, 
                                                 {
-                                                    "name": "MA3209", 
+                                                    "name": "or", 
                                                     "children": [
                                                         {
-                                                            "name": "and", 
+                                                            "name": "MA2101", 
                                                             "children": [
                                                                 {
                                                                     "name": "or", 
                                                                     "children": [
                                                                         {
-                                                                            "name": "MA3110", 
-                                                                            "children": [
-                                                                                {
-                                                                                    "name": "or", 
-                                                                                    "children": [
-                                                                                        {
-                                                                                            "name": "MA2108", 
-                                                                                            "children": [
-                                                                                                {
-                                                                                                    "name": "or", 
-                                                                                                    "children": [
-                                                                                                        {
-                                                                                                            "name": "MA1102", 
-                                                                                                            "children": []
-                                                                                                        }, 
-                                                                                                        {
-                                                                                                            "name": "MA1102R", 
-                                                                                                            "children": []
-                                                                                                        }, 
-                                                                                                        {
-                                                                                                            "name": "MA1505", 
-                                                                                                            "children": []
-                                                                                                        }, 
-                                                                                                        {
-                                                                                                            "name": "MA1505C", 
-                                                                                                            "children": []
-                                                                                                        }, 
-                                                                                                        {
-                                                                                                            "name": "MA1507", 
-                                                                                                            "children": []
-                                                                                                        }, 
-                                                                                                        {
-                                                                                                            "name": "MA1521", 
-                                                                                                            "children": []
-                                                                                                        }
-                                                                                                    ]
-                                                                                                }
-                                                                                            ]
-                                                                                        }, 
-                                                                                        {
-                                                                                            "name": "MA2108S", 
-                                                                                            "children": [
-                                                                                                {
-                                                                                                    "name": "or", 
-                                                                                                    "children": [
-                                                                                                        {
-                                                                                                            "name": "MA1102", 
-                                                                                                            "children": []
-                                                                                                        }, 
-                                                                                                        {
-                                                                                                            "name": "MA1102R", 
-                                                                                                            "children": []
-                                                                                                        }, 
-                                                                                                        {
-                                                                                                            "name": "MA1505", 
-                                                                                                            "children": []
-                                                                                                        }, 
-                                                                                                        {
-                                                                                                            "name": "MA1505C", 
-                                                                                                            "children": []
-                                                                                                        }, 
-                                                                                                        {
-                                                                                                            "name": "MA1507", 
-                                                                                                            "children": []
-                                                                                                        }, 
-                                                                                                        {
-                                                                                                            "name": "MA1521", 
-                                                                                                            "children": []
-                                                                                                        }
-                                                                                                    ]
-                                                                                                }
-                                                                                            ]
-                                                                                        }
-                                                                                    ]
-                                                                                }
-                                                                            ]
+                                                                            "name": "MA1101", 
+                                                                            "children": []
                                                                         }, 
                                                                         {
-                                                                            "name": "MA3110S", 
-                                                                            "children": [
-                                                                                {
-                                                                                    "name": "or", 
-                                                                                    "children": [
-                                                                                        {
-                                                                                            "name": "MA2108", 
-                                                                                            "children": [
-                                                                                                {
-                                                                                                    "name": "or", 
-                                                                                                    "children": [
-                                                                                                        {
-                                                                                                            "name": "MA1102", 
-                                                                                                            "children": []
-                                                                                                        }, 
-                                                                                                        {
-                                                                                                            "name": "MA1102R", 
-                                                                                                            "children": []
-                                                                                                        }, 
-                                                                                                        {
-                                                                                                            "name": "MA1505", 
-                                                                                                            "children": []
-                                                                                                        }, 
-                                                                                                        {
-                                                                                                            "name": "MA1505C", 
-                                                                                                            "children": []
-                                                                                                        }, 
-                                                                                                        {
-                                                                                                            "name": "MA1507", 
-                                                                                                            "children": []
-                                                                                                        }, 
-                                                                                                        {
-                                                                                                            "name": "MA1521", 
-                                                                                                            "children": []
-                                                                                                        }
-                                                                                                    ]
-                                                                                                }
-                                                                                            ]
-                                                                                        }, 
-                                                                                        {
-                                                                                            "name": "MA2108S", 
-                                                                                            "children": [
-                                                                                                {
-                                                                                                    "name": "or", 
-                                                                                                    "children": [
-                                                                                                        {
-                                                                                                            "name": "MA1102", 
-                                                                                                            "children": []
-                                                                                                        }, 
-                                                                                                        {
-                                                                                                            "name": "MA1102R", 
-                                                                                                            "children": []
-                                                                                                        }, 
-                                                                                                        {
-                                                                                                            "name": "MA1505", 
-                                                                                                            "children": []
-                                                                                                        }, 
-                                                                                                        {
-                                                                                                            "name": "MA1505C", 
-                                                                                                            "children": []
-                                                                                                        }, 
-                                                                                                        {
-                                                                                                            "name": "MA1507", 
-                                                                                                            "children": []
-                                                                                                        }, 
-                                                                                                        {
-                                                                                                            "name": "MA1521", 
-                                                                                                            "children": []
-                                                                                                        }
-                                                                                                    ]
-                                                                                                }
-                                                                                            ]
-                                                                                        }
-                                                                                    ]
-                                                                                }
-                                                                            ]
-                                                                        }
-                                                                    ]
-                                                                }, 
-                                                                {
-                                                                    "name": "or", 
-                                                                    "children": [
+                                                                            "name": "MA1101R", 
+                                                                            "children": []
+                                                                        }, 
                                                                         {
-                                                                            "name": "MA1104", 
+                                                                            "name": "MA1506", 
                                                                             "children": [
                                                                                 {
                                                                                     "name": "or", 
                                                                                     "children": [
-                                                                                        {
-                                                                                            "name": "MA1102", 
-                                                                                            "children": []
-                                                                                        }, 
                                                                                         {
                                                                                             "name": "MA1102R", 
                                                                                             "children": []
@@ -686,23 +299,7 @@
                                                                                             "children": []
                                                                                         }, 
                                                                                         {
-                                                                                            "name": "MA1505C", 
-                                                                                            "children": []
-                                                                                        }, 
-                                                                                        {
                                                                                             "name": "MA1521", 
-                                                                                            "children": []
-                                                                                        }, 
-                                                                                        {
-                                                                                            "name": "EE1401", 
-                                                                                            "children": []
-                                                                                        }, 
-                                                                                        {
-                                                                                            "name": "EE1461", 
-                                                                                            "children": []
-                                                                                        }, 
-                                                                                        {
-                                                                                            "name": "EG1402", 
                                                                                             "children": []
                                                                                         }
                                                                                     ]
@@ -710,7 +307,67 @@
                                                                             ]
                                                                         }, 
                                                                         {
-                                                                            "name": "MA1507", 
+                                                                            "name": "MA1508", 
+                                                                            "children": []
+                                                                        }, 
+                                                                        {
+                                                                            "name": "GM1302", 
+                                                                            "children": []
+                                                                        }, 
+                                                                        {
+                                                                            "name": "GM1308", 
+                                                                            "children": []
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }, 
+                                                        {
+                                                            "name": "MA2101S", 
+                                                            "children": [
+                                                                {
+                                                                    "name": "or", 
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "MA1101", 
+                                                                            "children": []
+                                                                        }, 
+                                                                        {
+                                                                            "name": "MA1101R", 
+                                                                            "children": []
+                                                                        }, 
+                                                                        {
+                                                                            "name": "MA1506", 
+                                                                            "children": [
+                                                                                {
+                                                                                    "name": "or", 
+                                                                                    "children": [
+                                                                                        {
+                                                                                            "name": "MA1102R", 
+                                                                                            "children": []
+                                                                                        }, 
+                                                                                        {
+                                                                                            "name": "MA1505", 
+                                                                                            "children": []
+                                                                                        }, 
+                                                                                        {
+                                                                                            "name": "MA1521", 
+                                                                                            "children": []
+                                                                                        }
+                                                                                    ]
+                                                                                }
+                                                                            ]
+                                                                        }, 
+                                                                        {
+                                                                            "name": "MA1508", 
+                                                                            "children": []
+                                                                        }, 
+                                                                        {
+                                                                            "name": "GM1302", 
+                                                                            "children": []
+                                                                        }, 
+                                                                        {
+                                                                            "name": "GM1308", 
                                                                             "children": []
                                                                         }
                                                                     ]
@@ -724,6 +381,10 @@
                                     ]
                                 }
                             ]
+                        }, 
+                        {
+                            "name": "MA5204", 
+                            "children": []
                         }
                     ]
                 }
@@ -734,5 +395,5 @@
 "corequisite": "NIL",
 "faculty": "SCIENCE",
 "department": "MATHEMATICS",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,0,2,0,0]]
+"history": [[0,0,0,0,0],[2012,0,2,0,0],[2013,0,2,0,0],[2014,0,2,0,0],[2015,0,2,0,0],[0,0,0,0,0]]
 }

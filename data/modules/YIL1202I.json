@@ -1,0 +1,29 @@
+{
+"moduleCode": "YIL1202I",
+"moduleTitle": "Directed Language Study: Beginning Italian 2",
+"moduleCredit": "2",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "YIL1201I Directed Language Study: Beginning Italian 1 or permission of the Language Coordinator.",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["YIL1201I"]
+},
+"prerequisiteList": ["YIL1201I"],
+"completePrerequisite": {
+            "name": "YIL1202I", 
+            "children": [
+                {
+                    "name": "YIL1201I", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "Students taking this module will study a foreign language of special interest to them and not available at Yale-NUS or CLS (Italian in this case). This module provides the continuation for the beginning 1 module. In most instances, instruction will be done via Skype or similar videoconferencing technology.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "YALE-NUS COLLEGE",
+"department": "YALE-NUS COLLEGE",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2016,1,0,0,0]]
+}

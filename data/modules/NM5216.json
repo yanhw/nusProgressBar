@@ -1,0 +1,22 @@
+{
+"moduleCode": "NM5216",
+"moduleTitle": "Culture, Communication & Health",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "NM5216", 
+            "children": []
+},
+"moduleDescription": "Culture, Communication & Health explores the intersection of culture, communication and health, and seeks to understand health communication from cross cultural perspectives. It is organized around answering the fundamental questions: \u201cHow does culture impact communication about health and illness? How do communicative practices vary across cultures?\u201d",
+"crossModule": "-1",
+"corequisite": "Nil",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "COMMUNICATIONS AND NEW MEDIA",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[2013,1,0,0,0],[2014,1,0,0,0],[0,0,0,0,0],[2016,1,2,0,0]]
+}

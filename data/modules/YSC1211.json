@@ -1,0 +1,29 @@
+{
+"moduleCode": "YSC1211",
+"moduleTitle": "Applied Calculus",
+"moduleCredit": "2",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "YSC1206 Conceptual Calculus or a secondary school equivalent.",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["YSC1206"]
+},
+"prerequisiteList": ["YSC1206"],
+"completePrerequisite": {
+            "name": "YSC1211", 
+            "children": [
+                {
+                    "name": "YSC1206", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "An introduction to multivariable calculus and its applications. Major topics include linear approximation, parametric curves and surfaces, directional derivatives, (constrained) optimisation, and iterated integrals. Examples from the social and physical sciences will abound.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "YALE-NUS COLLEGE",
+"department": "YALE-NUS COLLEGE",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2016,1,0,0,0]]
+}

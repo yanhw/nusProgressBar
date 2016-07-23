@@ -6,18 +6,30 @@
             "FST3202"
         ],
 "preclusion": "NIL",
-"prerequisite": "LSM1101",
+"prerequisite": "LSM1101 or LSM1106",
 "preclusionList": [],
 "parsedPrerequisite": {
-" and ": ["LSM1101"]
+            " or ": [
+                "LSM1101", 
+                "LSM1106"
+            ]
 },
-"prerequisiteList": ["LSM1101"],
+"prerequisiteList": ["LSM1101","LSM1106"],
 "completePrerequisite": {
             "name": "FST2201", 
             "children": [
                 {
-                    "name": "LSM1101", 
-                    "children": []
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "LSM1101", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "LSM1106", 
+                            "children": []
+                        }
+                    ]
                 }
             ]
 },
@@ -26,5 +38,5 @@
 "corequisite": "-1",
 "faculty": "SCIENCE",
 "department": "CHEMISTRY",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,0,2,0,0]]
+"history": [[0,0,0,0,0],[2012,0,2,0,0],[2013,0,2,0,0],[2014,0,2,0,0],[2015,0,2,0,0],[2016,0,2,0,0]]
 }

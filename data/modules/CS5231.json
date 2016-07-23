@@ -3,7 +3,8 @@
 "moduleTitle": "Systems Security",
 "moduleCredit": "4",
 "lockedModules":[
-],
+            "CS6231"
+        ],
 "preclusion": "NIL",
 "prerequisite": "CS3235 Computer Security",
 "preclusionList": [],
@@ -169,5 +170,5 @@
 "corequisite": "-1",
 "faculty": "SCHOOL OF COMPUTING",
 "department": "COMPUTER SCIENCE",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,1,0,0,0]]
+"history": [[0,0,0,0,0],[2012,0,2,0,0],[2013,0,2,0,0],[2014,1,0,0,0],[2015,1,0,0,0],[2016,1,0,0,0]]
 }

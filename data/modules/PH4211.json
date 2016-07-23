@@ -1,0 +1,22 @@
+{
+"moduleCode": "PH4211",
+"moduleTitle": "Issues in Epistemology",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "Cohort 2011 and before: Completed 80 MCs, including 28 MCs in PH, with a minimum CAP of 3.50 or be on the Honours track. Cohort 2012 onwards: Completed 80MCs, including 28 MCs in PH, with a minimum CAP of 3.20 or be on the Honours track.",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "PH4211", 
+            "children": []
+},
+"moduleDescription": "This module will explore an advanced topic in epistemology in depth. Some possible topics are the problem of scepticism, including realist and anti-realist responses to it, the nature of certainty and the relationship of knowledge to chance and credence, the internalism versus externalism debate about the nature of knowledge and justification, and the definability of knowledge in terms of truth, belief, justification and their cognates. The module may also explore a problem from formal epistemology, such as the lottery paradox, the problem of logical omniscience, or probabilistic approaches to the problem of induction.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "PHILOSOPHY",
+"history": [[0,0,0,0,0],[2012,0,2,0,0],[0,0,0,0,0],[2014,0,2,0,0],[0,0,0,0,0],[2016,1,0,0,0]]
+}

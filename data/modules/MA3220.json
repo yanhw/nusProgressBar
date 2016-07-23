@@ -3,9 +3,9 @@
 "moduleTitle": "Ordinary Differential Equations",
 "moduleCredit": "4",
 "lockedModules":[
-            "MA4221",
-            "MA4233",
-            "MA4255"
+            "MA4252",
+            "MA4255",
+            "MA4221"
         ],
 "preclusion": "MA2312, PC2174.",
 "prerequisite": "(MA1104 or MA1505 or MA1507 or MA1521) and (MA1101R or MA1311 or MA1506 or MA1508) and (MA2108 or MA2108S)",
@@ -226,5 +226,5 @@
 "corequisite": "-1",
 "faculty": "SCIENCE",
 "department": "MATHEMATICS",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,1,0,0,0]]
+"history": [[0,0,0,0,0],[2012,1,0,0,0],[2013,1,0,0,0],[2014,1,2,0,0],[2015,1,0,0,0],[2016,1,0,0,0]]
 }

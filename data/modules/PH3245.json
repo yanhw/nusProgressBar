@@ -1,0 +1,51 @@
+{
+"moduleCode": "PH3245",
+"moduleTitle": "Language and Thought",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "PH2241 or PH3212 or PH2242 or PH3210",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " or ": [
+                "PH2241", 
+                "PH3212", 
+                "PH2242", 
+                "PH3210"
+            ]
+},
+"prerequisiteList": ["PH2241","PH3212","PH2242","PH3210"],
+"completePrerequisite": {
+            "name": "PH3245", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "PH2241", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "PH3212", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "PH2242", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "PH3210", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "Topics at the intersection of philosophy of mind and language, such as whether thought depends on talk or vice versa, whether we think in words or images, whether those words are words of English or a sui generis mental language just for thinking, whether animals which can\u2019t talk can think and whether the mind is like a computer. These questions are central to contemporary philosophy and language and are also an important case study in the relationship between the methods of analysis, experiment and introspection in philosophical psychology.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "PHILOSOPHY",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2016,1,0,0,0]]
+}

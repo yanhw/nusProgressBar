@@ -3,10 +3,9 @@
 "moduleTitle": "Mathematical Analysis I (S)",
 "moduleCredit": "5",
 "lockedModules":[
+            "MA3265",
             "MA3264",
             "MA3110S",
-            "MA3265",
-            "MA3291",
             "MA3220",
             "MA3110"
         ],
@@ -75,5 +74,5 @@
 "corequisite": "-1",
 "faculty": "SCIENCE",
 "department": "MATHEMATICS",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,0,2,0,0]]
+"history": [[0,0,0,0,0],[0,0,0,0,0],[2013,0,2,0,0],[2014,0,2,0,0],[2015,0,2,0,0],[2016,0,2,0,0]]
 }

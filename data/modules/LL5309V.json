@@ -1,0 +1,26 @@
+{
+"moduleCode": "LL5309V",
+"moduleTitle": "The Practical Realities of Dispute Resolution in Asia",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "LL4309/LL5309/LL6309 The Practical Realities of Dispute Resolution in Asia",
+"prerequisite": "NUS Compulsory Core Law Curriculum or equivalent.",
+"preclusionList": [
+            "LL4309",
+            "LL5309",
+            "LL6309"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "LL5309V", 
+            "children": []
+},
+"moduleDescription": "Litigation, Arbitration and Mediation are three forms of resolving commercial disputes. However, resolving disputes through either of these methods makes absolutely no sense if they do not yield a result that is effectively enforceable. The Asean Region, China and India have different cultures to dispute resolution. The New York Convention for enforcing international arbitral awards has been ratified by more than 150 countries but not been harmoniously interpreted by State Courts. The region is also famously known for Guerrilla tactics to scuttle effective dispute resolution. This course aims to set out the practical realities of enforcing court judgments, arbitral awards and mediation settlements.",
+"crossModule": "-1",
+"corequisite": "Nil",
+"faculty": "LAW",
+"department": "LAW",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2016,1,0,0,0]]
+}

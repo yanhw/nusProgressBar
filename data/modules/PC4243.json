@@ -10,7 +10,7 @@
 "parsedPrerequisite": {
 " and ": ["PC3233"]
 },
-"prerequisiteList": ["PC3233","PC2130","PC1144","PC1432","MA1505","MA1506","MA1102R","MA1521","MA1101R","PC2130B","PC1432X","PC1433"],
+"prerequisiteList": ["PC3233","PC2130","PC1144","PC1432","PC1432X","MA1505","MA1506","MA1102R","MA1521","MA1101R","PC2130B","PC1433"],
 "completePrerequisite": {
             "name": "PC4243", 
             "children": [
@@ -35,6 +35,10 @@
                                                         }, 
                                                         {
                                                             "name": "PC1432", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "PC1432X", 
                                                             "children": []
                                                         }
                                                     ]
@@ -129,5 +133,5 @@
 "corequisite": "-1",
 "faculty": "SCIENCE",
 "department": "PHYSICS",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,0,2,0,0]]
+"history": [[0,0,0,0,0],[2012,0,2,0,0],[2013,0,2,0,0],[2014,0,2,0,0],[2015,0,2,0,0],[2016,0,2,0,0]]
 }

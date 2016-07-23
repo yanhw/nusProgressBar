@@ -1,7 +1,7 @@
 {
 "moduleCode": "SXL2991",
 "moduleTitle": "Exchange Enrichment Level 2000 Module",
-"moduleCredit": "2",
+"moduleCredit": "4",
 "lockedModules":[
 ],
 "preclusion": "NIL",
@@ -10,7 +10,7 @@
 "parsedPrerequisite" : "nil",
 "prerequisiteList": [],
 "completePrerequisite": {
-            "name": "SXL2991", 
+            "name": "SXL2997", 
             "children": []
 },
 

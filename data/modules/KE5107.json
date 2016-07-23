@@ -3,22 +3,35 @@
 "moduleTitle": "Data Mining Methodology and Methods",
 "moduleCredit": "8",
 "lockedModules":[
-            "KE5108",
             "KE5109"
         ],
 "preclusion": "NIL",
 "prerequisite" : "NIL",
 "preclusionList": [],
 "parsedPrerequisite" : "nil",
-"prerequisiteList": [],
+"prerequisiteList": ["KE4102","KE5107"],
 "completePrerequisite": {
-            "name": "KE5107", 
-            "children": []
+            "name": "KE5108", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "KE4102", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "KE5107", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
 },
 "moduleDescription": "The aim of this third core course - unit 5 of the Master of Technology (MTech) in Knowledge Engineering (KE) - is to present Data Mining as an important knowledge discovery process in the development of intelligent systems for Business Analytics. The objectives of the course are to: (1) Provide in-depth coverage the methodology and methods of Data Mining. (2) Present Data Mining as the fundamental technique for Knowledge Discovery through the discussion of representative machine learning schemes and algorithms, typical tasks in mining relationships, classification and clustering.",
 "crossModule": "-1",
 "corequisite": "-1",
 "faculty": "NON-FACULTY-BASED DEPARTMENTS",
 "department": "INSTITUTE OF SYSTEMS SCIENCE",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,0,2,0,0]]
+"history": [[0,0,0,0,0],[0,0,0,0,0],[2013,0,2,0,0],[2014,0,2,0,0],[2015,0,2,0,0],[0,0,0,0,0]]
 }

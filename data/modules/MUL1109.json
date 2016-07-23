@@ -1,0 +1,22 @@
+{
+"moduleCode": "MUL1109",
+"moduleTitle": "German for Singers 1",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "MUL1109", 
+            "children": []
+},
+"moduleDescription": "This module will serve as the first semester of German language studies for Voice Majors in the Yong Siew Toh Conservatory of Music. Basic grammar, morphology, syntax and conversation with emphasis on situations which a musician in Germany will encounter will be emphasized.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "YONG SIEW TOH CONSERVATORY OF MUSIC",
+"department": "YONG SIEW TOH CONSERVATORY OF MUSIC",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2016,1,0,0,0]]
+}

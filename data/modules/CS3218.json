@@ -6,15 +6,15 @@
             "CS3283"
         ],
 "preclusion": "NIL",
-"prerequisite": "(MA1521 Calculus for Computing or MA1505 Mathematics I or MA1102R Calculus) and (MA1101R Linear Algebra I or MA1506 Mathematics II) and CS2108 Introduction to Media Computing.",
+"prerequisite": "(MA1102R or MA1505 or MA1521) and (MA1101R or MA1506) and (CS2108 or EE3206).",
 "preclusionList": [],
 "parsedPrerequisite": {
             " and ": [
                 {
                     " or ": [
-                        "MA1521", 
+                        "MA1102R", 
                         "MA1505", 
-                        "MA1102R"
+                        "MA1521"
                     ]
                 }, 
                 {
@@ -23,10 +23,15 @@
                         "MA1506"
                     ]
                 }, 
-                "CS2108"
+                {
+                    " or ": [
+                        "CS2108", 
+                        "EE3206"
+                    ]
+                }
             ]
 },
-"prerequisiteList": ["MA1521","MA1505","MA1102R","MA1101R","MA1506","CS2108","CS1020","CS1010"],
+"prerequisiteList": ["MA1102R","MA1505","MA1521","MA1101R","MA1506","CS2108","CS1020","CS1010","EE3206","EE2023"],
 "completePrerequisite": {
             "name": "CS3218", 
             "children": [
@@ -37,7 +42,7 @@
                             "name": "or", 
                             "children": [
                                 {
-                                    "name": "MA1521", 
+                                    "name": "MA1102R", 
                                     "children": []
                                 }, 
                                 {
@@ -45,7 +50,7 @@
                                     "children": []
                                 }, 
                                 {
-                                    "name": "MA1102R", 
+                                    "name": "MA1521", 
                                     "children": []
                                 }
                             ]
@@ -82,14 +87,51 @@
                             ]
                         }, 
                         {
-                            "name": "CS2108", 
+                            "name": "or", 
                             "children": [
                                 {
-                                    "name": "CS1020", 
+                                    "name": "CS2108", 
                                     "children": [
                                         {
-                                            "name": "CS1010", 
-                                            "children": []
+                                            "name": "CS1020", 
+                                            "children": [
+                                                {
+                                                    "name": "CS1010", 
+                                                    "children": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }, 
+                                {
+                                    "name": "EE3206", 
+                                    "children": [
+                                        {
+                                            "name": "EE2023", 
+                                            "children": [
+                                                {
+                                                    "name": "MA1506", 
+                                                    "children": [
+                                                        {
+                                                            "name": "or", 
+                                                            "children": [
+                                                                {
+                                                                    "name": "MA1102R", 
+                                                                    "children": []
+                                                                }, 
+                                                                {
+                                                                    "name": "MA1505", 
+                                                                    "children": []
+                                                                }, 
+                                                                {
+                                                                    "name": "MA1521", 
+                                                                    "children": []
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
                                         }
                                     ]
                                 }
@@ -104,5 +146,5 @@
 "corequisite": "NIL",
 "faculty": "SCHOOL OF COMPUTING",
 "department": "COMPUTER SCIENCE",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,0,2,0,0]]
+"history": [[0,0,0,0,0],[0,0,0,0,0],[2013,0,2,0,0],[2014,0,2,0,0],[2015,0,2,0,0],[2016,0,2,0,0]]
 }

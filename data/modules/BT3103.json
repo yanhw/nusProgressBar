@@ -1,0 +1,43 @@
+{
+"moduleCode": "BT3103",
+"moduleTitle": "Application Systems Development for Business Analytics",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "BT2102 Data Management and Visualisation",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["BT2102"]
+},
+"prerequisiteList": ["BT2102","CS1010","BT1101"],
+"completePrerequisite": {
+            "name": "BT3103", 
+            "children": [
+                {
+                    "name": "BT2102", 
+                    "children": [
+                        {
+                            "name": "and", 
+                            "children": [
+                                {
+                                    "name": "CS1010", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "BT1101", 
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module aims to train students to be conversant in the technologies, approaches, principles and issues in designing IT applications systems for business analytics. Major topics include: rapid web frameworks, scripting languages, database design, web and mobile interfaces, tracking and analysis of customers, payment services / verification, implementing security, designing and deploying web and mobile services, and operational considerations and technical tradeoffs.",
+"crossModule": "-1",
+"corequisite": "Nil",
+"faculty": "SCHOOL OF COMPUTING",
+"department": "INFORMATION SYSTEMS",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2016,1,0,0,0]]
+}

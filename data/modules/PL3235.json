@@ -3,12 +3,13 @@
 "moduleTitle": "Social Psychology",
 "moduleCredit": "4",
 "lockedModules":[
+            "PL3289",
             "PL3252",
             "PL3259",
             "PL3240",
-            "PL3282C",
-            "PL3238",
+            "PL5305R",
             "PL3282",
+            "PL5305",
             "PL3282A"
         ],
 "preclusion": "NIL",
@@ -32,5 +33,5 @@
 "corequisite": "-1",
 "faculty": "ARTS & SOCIAL SCIENCES",
 "department": "PSYCHOLOGY",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,1,2,0,0]]
+"history": [[0,0,0,0,0],[2012,1,2,0,0],[2013,1,2,0,0],[2014,1,2,0,0],[2015,1,2,0,0],[2016,1,2,0,0]]
 }

@@ -1,0 +1,24 @@
+{
+"moduleCode": "IE4102",
+"moduleTitle": "Independent Study Module",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "IE4100R",
+"prerequisite": "Stage 4 Standing",
+"preclusionList": [
+            "IE4100R"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "IE4102", 
+            "children": []
+},
+"moduleDescription": "The purpose of IE4102 Independent Study is to promote self-study, critical thinking and independent research abilities. The project, which must be relevant to industrial and systems engineering, are proposed by the students and must be approved by the Department Coordinator identify a Department of Industrial and Systems Engineering staff member who is willing to oversee the projects and obtain their approval before submitting the proposal for consideration.",
+"crossModule": "-1",
+"corequisite": "Nil",
+"faculty": "ENGINEERING",
+"department": "INDUSTRIAL & SYSTEMS ENGINEERING",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2016,1,2,0,0]]
+}

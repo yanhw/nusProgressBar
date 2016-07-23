@@ -3,19 +3,29 @@
 "moduleTitle": "Corporate Finance",
 "moduleCredit": "4",
 "lockedModules":[
-            "FIN4111"
+            "FIN3117",
+            "FIN3116",
+            "FIN3115",
+            "FIN3131",
+            "FIN3130",
+            "FIN4111",
+            "FIN4115",
+            "FIN4112G",
+            "FIN4112H",
+            "FIN4112K"
         ],
-"preclusion": "BH3101 or BZ3301 or BK3100 or FNA3101 or FE5105 or FIN3101 or FIN3101A or FIN3101C",
+"preclusion": "BH3102 or BZ3302 or BK3101 or FNA3102A/B/C or FIN3102A/B/C or FE5108 or EC3333 or CF3101/QF3101",
 "prerequisite": "FNA2004 or FIN2004 or BH2004 or BZ2004 or BK2004",
 "preclusionList": [
-            "FE5105",
-            "BH3101",
-            "BZ3301",
-            "BK3100",
-            "FIN3101",
-            "FNA3101",
-            "FIN3101C",
-            "FIN3101A"
+            "CF3101",
+            "EC3333",
+            "FE5108",
+            "BK3101",
+            "BH3102",
+            "BZ3302",
+            "FNA3102A",
+            "FIN3102A",
+            "QF3101"
         ],
 "parsedPrerequisite": {
             " or ": [
@@ -28,7 +38,7 @@
 },
 "prerequisiteList": ["FNA2004","FIN2004","BK1003","BZ1002","BH1002","FNA1002","ACC1002","FNA1002X","ACC1002X","FNA1002E","BH1002E","EC3212","EG1422","BH2004","BZ2004","BK2004"],
 "completePrerequisite": {
-            "name": "FIN3101B", 
+            "name": "FIN3102", 
             "children": [
                 {
                     "name": "or", 
@@ -112,5 +122,5 @@
 "corequisite": "-1",
 "faculty": "SCHOOL OF BUSINESS",
 "department": "FINANCE",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,1,0,0,0]]
+"history": [[0,0,0,0,0],[2012,0,2,0,0],[0,0,0,0,0],[2014,1,0,0,0],[2015,1,0,0,0],[0,0,0,0,0]]
 }

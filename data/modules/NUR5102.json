@@ -1,8 +1,9 @@
 {
 "moduleCode": "NUR5102",
-"moduleTitle": "Advanced Pathophysiology",
-"moduleCredit": "6",
+"moduleTitle": "Applied Pathophysiology",
+"moduleCredit": "8",
 "lockedModules":[
+            "NUR5011",
             "PA1113A"
         ],
 "preclusion": "NIL",
@@ -19,5 +20,5 @@
 "corequisite": "NUR5101 Advanced Health Assessment",
 "faculty": "YONG LOO LIN SCHOOL OF MEDICINE",
 "department": "NURSING/ALICE LEE CTR FOR NURSING STUD",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,1,0,0,0]]
+"history": [[0,0,0,0,0],[0,0,0,0,0],[2013,1,0,0,0],[2014,1,0,0,0],[2015,1,0,0,0],[2016,1,2,0,0]]
 }

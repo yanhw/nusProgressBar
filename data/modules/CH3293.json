@@ -1,0 +1,43 @@
+{
+"moduleCode": "CH3293",
+"moduleTitle": "Selected Topics in Chinese Art (taught in English)",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "CH3272",
+"prerequisite": "CH2272 or CH2293",
+"preclusionList": [
+            "CH3272"
+        ],
+"parsedPrerequisite": {
+            " or ": [
+                "CH2272", 
+                "CH2293"
+            ]
+},
+"prerequisiteList": ["CH2272","CH2293"],
+"completePrerequisite": {
+            "name": "CH3293", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "CH2272", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "CH2293", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "The module consists of readings and research on selected topics in Chinese art and focuses on one to two particular art forms in Chinese history, for example, Chinese calligraphy, Chinese ceramics, wood-block prints and Chinese painting. Historical development, changing forms and techniques, and the relation between the art form and society will be discussed. The course is designed for students across the University with an interest in Chinese art.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "CHINESE STUDIES",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2016,1,0,0,0]]
+}

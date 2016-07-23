@@ -7,19 +7,23 @@
             "CM2142",
             "CM4227"
         ],
-"preclusion": "NIL",
-"prerequisite": "GCE 'A' level or H2 pass in Chemistry or equivalent or CM1417",
-"preclusionList": [],
+"preclusion": "CM1121 or CM1402 or CM1501",
+"prerequisite": "GCE 'A' level or H2 pass in Chemistry or equivalent or CM1417/CM1417X",
+"preclusionList": [
+            "CM1402",
+            "CM1501",
+            "CM1121"
+        ],
 "parsedPrerequisite" : "nil",
 "prerequisiteList": [],
 "completePrerequisite": {
             "name": "CM1401", 
             "children": []
 },
-"moduleDescription": "This is a Chemistry module catered for Life Sciences students and deals primarily with the basic principles to understand the structure and reactivity of organic molecules, basic thermodynamics and kinetics, and basic analytical techniques.",
+"moduleDescription": "This is a chemistry module catered for Life Sciences students and deals primarily with the basic principles to understand the structure and reactivity of organic molecules, towards the syntheses of functional molecules and basic analytical techniques.",
 "crossModule": "-1",
 "corequisite": "-1",
 "faculty": "SCIENCE",
 "department": "CHEMISTRY",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,1,2,0,0]]
+"history": [[0,0,0,0,0],[0,0,0,0,0],[2013,1,0,0,0],[2014,1,0,0,0],[2015,1,2,0,0],[2016,0,2,0,0]]
 }

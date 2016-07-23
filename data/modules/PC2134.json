@@ -1,45 +1,42 @@
 {
 "moduleCode": "PC2134",
-"moduleTitle": "Mathematical Methods In Physics 2",
+"moduleTitle": "Mathematical Mtds In Physics I",
 "moduleCredit": "4",
 "lockedModules":[
-],
-"preclusion": "Overlap: MA2210, MA3248, PC2211 (old code)",
-"prerequisite": "PC1143 or PC1144",
-"preclusionList": [
-            "MA2210",
-            "MA3248",
-            "PC2211"
+            "PC3130"
         ],
+"preclusion": "NIL",
+"prerequisite": "MA1101R and MA1102R or equivalent",
+"preclusionList": [],
 "parsedPrerequisite": {
-            " or ": [
-                "PC1143", 
-                "PC1144"
+            " and ": [
+                "MA1101R", 
+                "MA1102R"
             ]
 },
-"prerequisiteList": ["PC1143","PC1144"],
+"prerequisiteList": ["MA1101R","MA1102R"],
 "completePrerequisite": {
             "name": "PC2134", 
             "children": [
                 {
-                    "name": "or", 
+                    "name": "and", 
                     "children": [
                         {
-                            "name": "PC1143", 
+                            "name": "MA1101R", 
                             "children": []
                         }, 
                         {
-                            "name": "PC1144", 
+                            "name": "MA1102R", 
                             "children": []
                         }
                     ]
                 }
             ]
 },
-"moduleDescription": "Vector analysis, line and surface integrals, divergence theorem and Stokes' theorem, applications to the electromagnetic field. Fourier series and Fourier transform, applications to waves and oscillations. Differential equations for simple physical systems. Ordinary and partial differential equations. Green functions. Special functions associated to physical systems.",
+"moduleDescription": "This module aims to give students the necessary mathematical skills for other physics courses. The topics to be covered include: complex numbers and hyperbolic functions; multivariable calculus; elements of vector calculus; Taylor series; Fourier series, Dirac delta-function, Fourier transforms, Laplace transforms, physical applications; second-order ordinary and partial differential equations, wave equation, diffusion equation, Poisson\u2019s equation; Green\u2019s functions; Sturm-Liouville theory; special functions associated with physical systems, Hermite polynomials, Bessel functions, Legendre functions.",
 "crossModule": "-1",
 "corequisite": "-1",
 "faculty": "SCIENCE",
 "department": "PHYSICS",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,0,0,3,4]]
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,0,0,3,4],[2016,1,0,0,0]]
 }

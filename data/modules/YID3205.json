@@ -1,0 +1,29 @@
+{
+"moduleCode": "YID3205",
+"moduleTitle": "Global Environmental Governance",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "YID1201 Introduction to Environmental Studies or permission of instructor",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["YID1201"]
+},
+"prerequisiteList": ["YID1201"],
+"completePrerequisite": {
+            "name": "YID3205", 
+            "children": [
+                {
+                    "name": "YID1201", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "An analysis of several transnational environmental issues with special focus on how these issues have shaped, and are shaping, domestic and international political relations. Particular attention is devoted to understanding the strengths and weaknesses of contemporary efforts to forge enduring systems of global environmental governance. Special topics include the global climate regime, transnational biodiversity protocols, governance at various levels of scale, and analytic and activist challenges to mainstream strategies for establishing effective global environmental governance.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "YALE-NUS COLLEGE",
+"department": "YALE-NUS COLLEGE",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2016,1,0,0,0]]
+}

@@ -3,18 +3,17 @@
 "moduleTitle": "Molecular Biology",
 "moduleCredit": "4",
 "lockedModules":[
+            "LSM4227",
             "LSM4225",
             "LSM3232",
             "LSM4234",
             "LSM4235",
             "LSM3225",
-            "LSM4210",
             "LSM3241",
             "LSM3242",
             "LSM3246",
-            "LSM3245",
-            "LSM4227",
-            "LSM4245"
+            "LSM4245",
+            "LSM3245"
         ],
 "preclusion": "NIL",
 "prerequisite": "LSM1101 (or LSM1401) and LSM1102",
@@ -49,5 +48,5 @@
 "corequisite": "-1",
 "faculty": "SCIENCE",
 "department": "BIOLOGICAL SCIENCES",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,1,2,0,0]]
+"history": [[0,0,0,0,0],[0,0,0,0,0],[2013,1,2,0,0],[2014,1,2,0,0],[2015,1,2,0,0],[2016,1,2,0,0]]
 }

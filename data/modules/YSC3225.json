@@ -1,0 +1,51 @@
+{
+"moduleCode": "YSC3225",
+"moduleTitle": "Logic in Computer Science",
+"moduleCredit": "2",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "Either of the two introductory programming courses (YSC1202 Introduction to Computation and Programming for All; YSC2204 Introduction to Computer Science) and YSC2209 Proof (or as a co-requisite).",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " and ": [
+                "YSC1202", 
+                "YSC2204", 
+                "YSC2209"
+            ]
+},
+"prerequisiteList": ["YSC1202","YSC2204","YCC2133","YSC2209"],
+"completePrerequisite": {
+            "name": "YSC3225", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "YSC1202", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "YSC2204", 
+                            "children": [
+                                {
+                                    "name": "YCC2133", 
+                                    "children": []
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "YSC2209", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "Logic is an indispensable tool in computer science and is used in every facet of the field. One may even argue that computers are built on top of logic (logic gates are the basic building blocks of computers). In this course, you\u2019ll learn the basics of logic in computer science (propositional logic, predicate logic, and, if time permits, temporal logic) in a rigorous, but hands-on manner. Applications covered in this course will mostly use examples from constraint programming, artificial intelligence, and software verification, but could also use examples from databases, and electronic design automation.",
+"crossModule": "-1",
+"corequisite": "YSC2209 Proof (or as a pre-requisite)",
+"faculty": "YALE-NUS COLLEGE",
+"department": "YALE-NUS COLLEGE",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2016,1,0,0,0]]
+}

@@ -4,9 +4,11 @@
 "moduleCredit": "4",
 "lockedModules":[
 ],
-"preclusion": "NIL",
+"preclusion": "EE4436 Semiconductor Process Technology",
 "prerequisite": "MLE2101",
-"preclusionList": [],
+"preclusionList": [
+            "EE4436"
+        ],
 "parsedPrerequisite": {
 " and ": ["MLE2101"]
 },
@@ -25,5 +27,5 @@
 "corequisite": "-1",
 "faculty": "ENGINEERING",
 "department": "MATERIALS SCIENCE AND ENGINEERING",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,0,2,0,0]]
+"history": [[0,0,0,0,0],[2012,0,2,0,0],[2013,0,2,0,0],[2014,0,2,0,0],[2015,0,2,0,0],[2016,0,2,0,0]]
 }

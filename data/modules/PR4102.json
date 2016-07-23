@@ -10,7 +10,7 @@
 "parsedPrerequisite": {
 " and ": ["PR4101"]
 },
-"prerequisiteList": ["PR4101","PR3105","PX3108","PY1106","PR1908","PP2107","PA2107","PP2106"],
+"prerequisiteList": ["PR4101","PR3105"],
 "completePrerequisite": {
             "name": "PR4102", 
             "children": [
@@ -19,49 +19,7 @@
                     "children": [
                         {
                             "name": "PR3105", 
-                            "children": [
-                                {
-                                    "name": "and", 
-                                    "children": [
-                                        {
-                                            "name": "PX3108", 
-                                            "children": [
-                                                {
-                                                    "name": "and", 
-                                                    "children": [
-                                                        {
-                                                            "name": "PY1106", 
-                                                            "children": []
-                                                        }, 
-                                                        {
-                                                            "name": "PR1908", 
-                                                            "children": []
-                                                        }
-                                                    ]
-                                                }
-                                            ]
-                                        }, 
-                                        {
-                                            "name": "or", 
-                                            "children": [
-                                                {
-                                                    "name": "PP2107", 
-                                                    "children": []
-                                                }, 
-                                                {
-                                                    "name": "PA2107", 
-                                                    "children": [
-                                                        {
-                                                            "name": "PP2106", 
-                                                            "children": []
-                                                        }
-                                                    ]
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
+                            "children": []
                         }
                     ]
                 }
@@ -72,5 +30,5 @@
 "corequisite": "-1",
 "faculty": "SCIENCE",
 "department": "PHARMACY",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,0,2,0,4]]
+"history": [[0,0,0,0,0],[0,0,0,0,0],[2013,0,2,0,0],[2014,0,2,0,0],[2015,0,2,0,4],[2016,0,2,0,0]]
 }

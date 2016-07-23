@@ -3,8 +3,9 @@
 "moduleTitle": "Water & Wastewater Engineering 1",
 "moduleCredit": "4",
 "lockedModules":[
+            "ESE4408",
             "ESE4407",
-            "ESE4405"
+            "ESE4401"
         ],
 "preclusion": "NIL",
 "prerequisite": "ESE2401",
@@ -32,5 +33,5 @@
 "corequisite": "-1",
 "faculty": "ENGINEERING",
 "department": "CIVIL & ENVIRONMENTAL ENGINEERING",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,1,0,0,0]]
+"history": [[0,0,0,0,0],[2012,1,0,0,0],[2013,1,0,0,0],[2014,1,0,0,0],[2015,1,0,0,0],[2016,1,0,0,0]]
 }

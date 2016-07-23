@@ -3,14 +3,17 @@
 "moduleTitle": "Acoustics",
 "moduleCredit": "2",
 "lockedModules":[
-],
+            "AUD5108",
+            "AUD5110",
+            "AUD5112"
+        ],
 "preclusion": "NIL",
 "prerequisite" : "NIL",
 "preclusionList": [],
 "parsedPrerequisite" : "nil",
 "prerequisiteList": [],
 "completePrerequisite": {
-            "name": "AUD5101", 
+            "name": "AUD5102", 
             "children": []
 },
 "moduleDescription": "This module provides an introduction to the physics of the generation, propagation and measurement of sound.",
@@ -18,5 +21,5 @@
 "corequisite": "NIL",
 "faculty": "YONG LOO LIN SCHOOL OF MEDICINE",
 "department": "DIVISION OF GRADUATE MEDICAL STUDIES",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,1,0,0,0]]
+"history": [[0,0,0,0,0],[0,0,0,0,0],[2013,1,0,0,0],[0,0,0,0,0],[2015,1,0,0,0],[0,0,0,0,0]]
 }

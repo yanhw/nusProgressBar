@@ -1,0 +1,83 @@
+{
+"moduleCode": "CS5234",
+"moduleTitle": "Combinatorial and Graph Algorithms",
+"moduleCredit": "4",
+"lockedModules":[
+            "CS6234"
+        ],
+"preclusion": "CS4234",
+"prerequisite": "CS3230",
+"preclusionList": [
+            "CS4234"
+        ],
+"parsedPrerequisite": {
+" and ": ["CS3230"]
+},
+"prerequisiteList": ["CS3230","CS2010","CS1020","CS1010","CS1020E","CS1010E","CG1103","CS1231","MA1100"],
+"completePrerequisite": {
+            "name": "CS5234", 
+            "children": [
+                {
+                    "name": "CS3230", 
+                    "children": [
+                        {
+                            "name": "and", 
+                            "children": [
+                                {
+                                    "name": "CS2010", 
+                                    "children": [
+                                        {
+                                            "name": "or", 
+                                            "children": [
+                                                {
+                                                    "name": "CS1020", 
+                                                    "children": [
+                                                        {
+                                                            "name": "CS1010", 
+                                                            "children": []
+                                                        }
+                                                    ]
+                                                }, 
+                                                {
+                                                    "name": "CS1020E", 
+                                                    "children": [
+                                                        {
+                                                            "name": "CS1010E", 
+                                                            "children": []
+                                                        }
+                                                    ]
+                                                }, 
+                                                {
+                                                    "name": "CG1103", 
+                                                    "children": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }, 
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "CS1231", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "MA1100", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This course presents advanced material on the design and analysis of combinatorial algorithms with emphasis on efficient algorithms and data structures. This course is meant for students who intend to (i) do research in computer science in general, and algorithm design in particular, or (ii) do advanced application/software development in other areas of computer science. (It assumes that the student has already done one course on design and analysis of algorithms equivalent to CS3230.)",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF COMPUTING",
+"department": "COMPUTER SCIENCE",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[2013,1,0,0,0],[2014,1,0,0,0],[0,0,0,0,0],[2016,1,0,0,0]]
+}

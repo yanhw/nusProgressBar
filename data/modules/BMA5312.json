@@ -1,0 +1,29 @@
+{
+"moduleCode": "BMA5312",
+"moduleTitle": "Advance Corporate Finance",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "BMA5008",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["BMA5008"]
+},
+"prerequisiteList": ["BMA5008"],
+"completePrerequisite": {
+            "name": "BMA5312", 
+            "children": [
+                {
+                    "name": "BMA5008", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "This module is designed to help you develop a deeper understanding of the issues and the basic tools needed for corporate finance managers. The issues addressed in this course include capital structure and payout policy, how to raise external capital, mergers, Economic Value Added (EVA), real options and corporate risk management. It is designed for everyone who have taken introductory corporate finance course and/or an investment course. This module will cover cases as well as academic/ practitioner papers on the issues being covered in the class",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF BUSINESS",
+"department": "DEAN'S OFFICE (BIZ)",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2016,1,0,0,0]]
+}

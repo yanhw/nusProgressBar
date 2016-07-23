@@ -1,0 +1,29 @@
+{
+"moduleCode": "BBP6794",
+"moduleTitle": "Seminar in Innovation and Entrepreneurship",
+"moduleCredit": "2",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "BBP6781 Seminar In Strategic Management I",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["BBP6781"]
+},
+"prerequisiteList": ["BBP6781"],
+"completePrerequisite": {
+            "name": "BBP6794", 
+            "children": [
+                {
+                    "name": "BBP6781", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "This seminar surveys the core conceptual issues in innovation and entrepreneurship research, examines the key theoretical approaches for addressing these issues, and reviews the major past and current research work that have made significant contribution to our understanding of these issues. The seminar will draw on the core disciplines of economics, sociology, strategy and organizational behaviour and apply them to identify and answer key questions in innovation and entrepreneurship",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF BUSINESS",
+"department": "STRATEGY AND POLICY",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2014,0,2,0,0],[0,0,0,0,0],[2016,0,2,0,0]]
+}

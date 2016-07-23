@@ -1,0 +1,29 @@
+{
+"moduleCode": "PR3123",
+"moduleTitle": "Formulation &Technology II",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "PR1120 PR2114",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["PR2114"]
+},
+"prerequisiteList": ["PR2114"],
+"completePrerequisite": {
+            "name": "PR3123", 
+            "children": [
+                {
+                    "name": "PR2114", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "This module focuses on the concept and importance of sterilization techniques and their application to pharmaceutical products and devices. The major topics to be covered include: \u00bf principles of sterilization and sterilization techniques; \u00bf range of materials and products required to be sterile, formulation and preparation of selected pharmaceutical products; \u00bf sterile requirements in nanoformulations; \u00bf concepts and considerations in preparing sterile biological products, viral removal and viral inactivation strategies, validation of viral inactivation processes; aseptic manufacturing (Self-directed study).",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCIENCE",
+"department": "PHARMACY",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2016,1,0,0,0]]
+}

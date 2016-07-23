@@ -8,10 +8,43 @@
 "prerequisite" : "NIL",
 "preclusionList": [],
 "parsedPrerequisite" : "nil",
-"prerequisiteList": [],
+"prerequisiteList": ["FST3104","FST2102A","FST2106","FST1101","LSM1101"],
 "completePrerequisite": {
-            "name": "FST3992", 
-            "children": []
+            "name": "FST4101", 
+            "children": [
+                {
+                    "name": "FST3104", 
+                    "children": [
+                        {
+                            "name": "and", 
+                            "children": [
+                                {
+                                    "name": "FST2102A", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "FST2106", 
+                                    "children": [
+                                        {
+                                            "name": "and", 
+                                            "children": [
+                                                {
+                                                    "name": "FST1101", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "LSM1101", 
+                                                    "children": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
 },
 
 "crossModule": "-1",

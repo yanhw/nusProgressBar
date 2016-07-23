@@ -4,12 +4,9 @@
 "moduleCredit": "4",
 "lockedModules":[
 ],
-"preclusion": "RE4880 Topics in Real Estate; RE4910 Real Estate Internship Programme",
+"preclusion": "NIL",
 "prerequisite": "RE3105 Regional Real Estate Development",
-"preclusionList": [
-            "RE4880",
-            "RE4910"
-        ],
+"preclusionList": [],
 "parsedPrerequisite": {
 " and ": ["RE3105"]
 },
@@ -38,10 +35,10 @@
                 }
             ]
 },
-"moduleDescription": "This module is designed for third-year undergraduates to examine country-specific issues in socioeconomic, demographic and political dimensions underlying the real estate processes. Students will attend lectures and seminars in both NUS and partner universities in the country of discussion. Site visits to projects and organisations are integral part of the module. Students will work on a project for in-depth study of selected aspects of the real estate industry in the country. This module precludes students who take the Real Estate Internship Programme module.",
+"moduleDescription": "This module examines country-specific issues in socioeconomic, demographic and political dimensions underlying the real estate processes. Students will attend lectures and seminars in both NUS and partner universities in the country of discussion. Site visits to projects and organisations are integral part of the module. Students will work on a project for in-depth study of selected aspects of the real estate industry in the country.",
 "crossModule": "-1",
 "corequisite": "-1",
 "faculty": "SCHOOL OF DESIGN AND ENVIRONMENT",
 "department": "REAL ESTATE",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,1,0,0,0]]
+"history": [[0,0,0,0,0],[0,0,0,0,0],[2013,1,0,0,0],[2014,1,0,0,0],[2015,1,0,0,0],[2016,1,0,0,0]]
 }

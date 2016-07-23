@@ -1,7 +1,7 @@
 {
 "moduleCode": "SX2884",
 "moduleTitle": "Exchange Enrichment Module",
-"moduleCredit": "1",
+"moduleCredit": "2",
 "lockedModules":[
 ],
 "preclusion": "NIL",
@@ -10,7 +10,7 @@
 "parsedPrerequisite" : "nil",
 "prerequisiteList": [],
 "completePrerequisite": {
-            "name": "SX2884", 
+            "name": "SX2991", 
             "children": []
 },
 

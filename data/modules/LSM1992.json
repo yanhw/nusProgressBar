@@ -3,15 +3,40 @@
 "moduleTitle": "Exchange Enrichment Module",
 "moduleCredit": "4",
 "lockedModules":[
-],
+            "LSM3232",
+            "LSM3224",
+            "LSM3225",
+            "LSM3214",
+            "FST4202",
+            "LSM4210",
+            "LSM3242",
+            "LSM3246",
+            "LSM3231",
+            "LSM3212",
+            "LSM3211"
+        ],
 "preclusion": "NIL",
 "prerequisite" : "NIL",
 "preclusionList": [],
 "parsedPrerequisite" : "nil",
-"prerequisiteList": [],
+"prerequisiteList": ["LSM1101","LSM1401"],
 "completePrerequisite": {
-            "name": "LSM1992", 
-            "children": []
+            "name": "LSM2101", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "LSM1101", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "LSM1401", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
 },
 
 "crossModule": "-1",

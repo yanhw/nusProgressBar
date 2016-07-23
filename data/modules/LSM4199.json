@@ -4,9 +4,11 @@
 "moduleCredit": "16",
 "lockedModules":[
 ],
-"preclusion": "NIL",
+"preclusion": "LSM4299",
 "prerequisite": "For Life Sciences major students with overall CAP of 3.50 or more are eligible to enrol for this module (for Cohort 2011 and before). For Life Sciences major students with overall CAP of 3.20 or more are eligible to enrol for this module (for Cohort 2012 and after).",
-"preclusionList": [],
+"preclusionList": [
+            "LSM4299"
+        ],
 "parsedPrerequisite" : "nil",
 "prerequisiteList": [],
 "completePrerequisite": {
@@ -18,5 +20,5 @@
 "corequisite": "-1",
 "faculty": "SCIENCE",
 "department": "BIOLOGICAL SCIENCES",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,1,2,0,0]]
+"history": [[0,0,0,0,0],[0,0,0,0,0],[2013,1,2,0,0],[2014,1,2,0,0],[2015,1,2,0,0],[2016,1,2,0,0]]
 }

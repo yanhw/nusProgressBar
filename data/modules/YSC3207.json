@@ -3,19 +3,17 @@
 "moduleTitle": "Principles and Tools of Software Development",
 "moduleCredit": "5",
 "lockedModules":[
-            "YSC3217",
-            "YSC3221"
-        ],
+],
 "preclusion": "NIL",
-"prerequisite": "YCC2133 Integrated Science (Computer Track) or YSC1202 introduction to Computational Thinking and Programming for All or permission of instructor",
+"prerequisite": "YSC1202 Introduction to Computational Thinking and Programming for All or YSC2204 Fundamentals of Programming or permission of instructor",
 "preclusionList": [],
 "parsedPrerequisite": {
             " or ": [
-                "YCC2133", 
-                "YSC1202"
+                "YSC1202", 
+                "YSC2204"
             ]
 },
-"prerequisiteList": ["YCC2133","YCC1132","YSC1202"],
+"prerequisiteList": ["YSC1202","YSC2204","YCC2133"],
 "completePrerequisite": {
             "name": "YSC3207", 
             "children": [
@@ -23,17 +21,17 @@
                     "name": "or", 
                     "children": [
                         {
-                            "name": "YCC2133", 
+                            "name": "YSC1202", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "YSC2204", 
                             "children": [
                                 {
-                                    "name": "YCC1132", 
+                                    "name": "YCC2133", 
                                     "children": []
                                 }
                             ]
-                        }, 
-                        {
-                            "name": "YSC1202", 
-                            "children": []
                         }
                     ]
                 }
@@ -44,5 +42,5 @@
 "corequisite": "-1",
 "faculty": "YALE-NUS COLLEGE",
 "department": "YALE-NUS COLLEGE",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,1,0,0,0]]
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,1,0,0,0],[2016,1,0,0,0]]
 }

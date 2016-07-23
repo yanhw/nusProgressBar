@@ -1,0 +1,24 @@
+{
+"moduleCode": "LL6042V",
+"moduleTitle": "Law and Religion",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "Students who are taking or have taken LL6042.",
+"prerequisite": "For Law - NUS Compulsory Core Curriculum or its equivalent. For Non-Law \u2013 At least 3rd year students from Arts and Social Sciences.",
+"preclusionList": [
+            "LL6042"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "LL6042V", 
+            "children": []
+},
+"moduleDescription": "This course will consider the interaction of law and religion in three aspects: firstly, through a consideration of theoretical materials that discuss and debate religion\u2019s (possible) roles in public discourse and in the shaping of law, especially in multi-religious and multi-cultural environments; second, through an examination of a range of religio-legal traditions (e.g., Islamic law, Hindu Law etc); and, third, a consideration of specific instances \u2013 in cases, legislation and public issues etc -- where law and religion meet.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "LAW",
+"department": "LAW",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2014,1,0,0,0],[0,0,0,0,0],[2016,0,2,0,0]]
+}

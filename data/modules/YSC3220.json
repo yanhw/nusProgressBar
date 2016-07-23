@@ -13,19 +13,38 @@
                 "YSC3204"
             ]
 },
-"prerequisiteList": ["YSC2209","YSC3204"],
+"prerequisiteList": ["YSC3207","YCC2133","YCC1132","YSC1202","YSC3205","YSC2209"],
 "completePrerequisite": {
-            "name": "YSC3220", 
+            "name": "YSC3221", 
             "children": [
                 {
                     "name": "and", 
                     "children": [
                         {
-                            "name": "YSC2209", 
-                            "children": []
+                            "name": "YSC3207", 
+                            "children": [
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "YCC2133", 
+                                            "children": [
+                                                {
+                                                    "name": "YCC1132", 
+                                                    "children": []
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "YSC1202", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
                         }, 
                         {
-                            "name": "YSC3204", 
+                            "name": "YSC3205", 
                             "children": [
                                 {
                                     "name": "YSC2209", 
@@ -42,5 +61,5 @@
 "corequisite": "-1",
 "faculty": "YALE-NUS COLLEGE",
 "department": "YALE-NUS COLLEGE",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,0,2,0,0]]
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,0,2,0,0],[0,0,0,0,0]]
 }

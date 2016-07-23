@@ -1,0 +1,71 @@
+{
+"moduleCode": "PR3122",
+"moduleTitle": "Self Care II",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "PR2134",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["PR2134"]
+},
+"prerequisiteList": ["PR2134","PX2108","AY1130","PY1131","PA1113","PR1140"],
+"completePrerequisite": {
+            "name": "PR3122", 
+            "children": [
+                {
+                    "name": "PR2134", 
+                    "children": [
+                        {
+                            "name": "and", 
+                            "children": [
+                                {
+                                    "name": "PX2108", 
+                                    "children": [
+                                        {
+                                            "name": "and", 
+                                            "children": [
+                                                {
+                                                    "name": "AY1130", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "PY1131", 
+                                                    "children": [
+                                                        {
+                                                            "name": "AY1130", 
+                                                            "children": []
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }, 
+                                {
+                                    "name": "PA1113", 
+                                    "children": [
+                                        {
+                                            "name": "AY1130", 
+                                            "children": []
+                                        }
+                                    ]
+                                }, 
+                                {
+                                    "name": "PR1140", 
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module aims to prepare pharmacy students in integrating and recommending appropriate non-prescription products and non-pharmacological therapies to patients in pharmacy practice settings.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCIENCE",
+"department": "PHARMACY",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2016,1,0,0,0]]
+}

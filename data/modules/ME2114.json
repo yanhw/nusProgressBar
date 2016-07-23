@@ -3,9 +3,9 @@
 "moduleTitle": "Mechanics Of Materials II",
 "moduleCredit": "3",
 "lockedModules":[
-            "ME4235",
             "ME3211",
-            "ME4212"
+            "ME4212",
+            "ME5305"
         ],
 "preclusion": "NIL",
 "prerequisite": "ME2113",
@@ -46,5 +46,5 @@
 "corequisite": "-1",
 "faculty": "ENGINEERING",
 "department": "MECHANICAL ENGINEERING",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,0,2,0,0]]
+"history": [[0,0,0,0,0],[2012,0,2,0,0],[2013,0,2,0,0],[2014,0,2,0,0],[2015,0,2,0,0],[2016,0,2,0,0]]
 }

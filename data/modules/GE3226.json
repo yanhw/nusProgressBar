@@ -1,0 +1,22 @@
+{
+"moduleCode": "GE3226",
+"moduleTitle": "Tourism Development",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "GE3226", 
+            "children": []
+},
+"moduleDescription": "This module provides an understanding of tourism development, together with its elements, processes and planning to meet specific objectives. The topics include basic components of tourism development, forms of tourism (coastal, urban, ecotourism), various models in tourism development and planning. These are supported with case studies from both developed and developing countries. The module would be suitable for students keen to develop their interest in tourism development.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "GEOGRAPHY",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2016,0,2,0,0]]
+}

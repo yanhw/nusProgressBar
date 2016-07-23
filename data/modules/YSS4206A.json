@@ -1,0 +1,29 @@
+{
+"moduleCode": "YSS4206A",
+"moduleTitle": "Topics in Psychology",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "YSS2201 Understanding Behavior and Cognition or consent of instructor",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["YSS2201"]
+},
+"prerequisiteList": ["YSS2201"],
+"completePrerequisite": {
+            "name": "YSS4206A", 
+            "children": [
+                {
+                    "name": "YSS2201", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "This course covers current topics in psychology with the topic changing according to the staff teaching the course. Among the areas that may be covered are advanced social psychology, advanced cognitive psychology, advanced health psychology, advanced abnormal psychology, and advanced developmental psychology.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "YALE-NUS COLLEGE",
+"department": "YALE-NUS COLLEGE",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2016,1,0,0,0]]
+}

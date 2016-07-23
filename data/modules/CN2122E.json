@@ -3,10 +3,10 @@
 "moduleTitle": "Fluid Mechanics",
 "moduleCredit": "4",
 "lockedModules":[
-            "CN3135E",
             "CN2125E",
             "CN3124E",
             "CN4208E",
+            "CN4233E",
             "CN4118E"
         ],
 "preclusion": "TC2112",
@@ -44,5 +44,5 @@
 "corequisite": "-1",
 "faculty": "ENGINEERING",
 "department": "BACHELOR OF TECHNOLOGY PROGRAMME",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,1,0,0,0]]
+"history": [[0,0,0,0,0],[2012,1,0,0,0],[2013,1,0,0,0],[2014,1,0,0,0],[2015,1,0,0,0],[2016,1,0,0,0]]
 }

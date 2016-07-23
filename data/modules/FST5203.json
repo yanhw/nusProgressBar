@@ -13,7 +13,7 @@
                 "LSM3232"
             ]
 },
-"prerequisiteList": ["FST3101","FST2102A","LSM3232","LSM2101","LSM1101","LSM1401","LSM2102","LSM1102","LSM2103"],
+"prerequisiteList": ["FST3101","FST2102B","FST1101","CM1121","CM1501","LSM3232","LSM2101","LSM1101","LSM1401","LSM2102","LSM1102","LSM2103"],
 "completePrerequisite": {
             "name": "FST5203", 
             "children": [
@@ -24,8 +24,31 @@
                             "name": "FST3101", 
                             "children": [
                                 {
-                                    "name": "FST2102A", 
-                                    "children": []
+                                    "name": "FST2102B", 
+                                    "children": [
+                                        {
+                                            "name": "and", 
+                                            "children": [
+                                                {
+                                                    "name": "FST1101", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "or", 
+                                                    "children": [
+                                                        {
+                                                            "name": "CM1121", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "CM1501", 
+                                                            "children": []
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
                                 }
                             ]
                         }, 
@@ -106,5 +129,5 @@
 "corequisite": "NIL",
 "faculty": "SCIENCE",
 "department": "CHEMISTRY",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,0,2,0,0]]
+"history": [[0,0,0,0,0],[2012,0,2,0,0],[2013,0,2,0,0],[2014,0,2,0,0],[2015,0,2,0,0],[2016,0,2,0,0]]
 }

@@ -8,15 +8,67 @@
 "prerequisite" : "NIL",
 "preclusionList": [],
 "parsedPrerequisite" : "nil",
-"prerequisiteList": [],
+"prerequisiteList": ["ST1232","ST2334","MA1306","MA1102","MA1102R","MA1505","MA1505C","MA1521","MA1312","MA1507"],
 "completePrerequisite": {
-            "name": "SPH2201", 
-            "children": []
+            "name": "SPH3101", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "ST1232", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "ST2334", 
+                            "children": [
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "MA1306", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "MA1102", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "MA1102R", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "MA1505", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "MA1505C", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "MA1521", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "MA1312", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "MA1507", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
 },
 "moduleDescription": "This module introduces students to global public health, with a focus on health issues among some of the poor in Asia. Key issues explored by the module include the following: What are the priority health issues that dominate the global health agenda today, and which disproportionately affect the poor? What are the systemic and societal factors that determine disease burden and adverse health outcomes among this subgroup? What are the community, health system and policy levers that are available to ameliorate these disparities?",
 "crossModule": "-1",
 "corequisite": "-1",
 "faculty": "SAW SWEE HOCK SCHOOL OF PUBLIC HEALTH",
 "department": "SAW SWEE HOCK SCHOOL OF PUBLIC HEALTH",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,0,0,0,4]]
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,0,0,0,4],[0,0,0,0,0]]
 }

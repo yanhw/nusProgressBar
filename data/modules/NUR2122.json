@@ -1,0 +1,24 @@
+{
+"moduleCode": "NUR2122",
+"moduleTitle": "Psychology for Nurses",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NUR1116",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "NUR1116"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "NUR2122", 
+            "children": []
+},
+"moduleDescription": "This introductory module aims to provide health professionals with an understanding of psychological concepts underpinning health, illness and well being. It explores the foundations of health and behavior, factors affecting health and behavior, psychophysiological aspects of health, and prevention of illness and promotion of health.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "YONG LOO LIN SCHOOL OF MEDICINE",
+"department": "NURSING/ALICE LEE CTR FOR NURSING STUD",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2016,0,2,0,0]]
+}

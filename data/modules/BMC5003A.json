@@ -1,0 +1,22 @@
+{
+"moduleCode": "BMC5003A",
+"moduleTitle": "Decision Making",
+"moduleCredit": "3",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "BMC5003A", 
+            "children": []
+},
+"moduleDescription": "This module provides for an appreciation of the business decision-making process from the perspective of senior executives. It focuses on the process involving problemformulation and model building. Possible biases and pitfalls in the decision making process are discussed. Hands-on experiences are induced for the students to appreciate and understand the biases and pitfalls, and to formulate strategy and methods to overcome their own biases and pitfalls.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF BUSINESS",
+"department": "DEAN'S OFFICE (BIZ)",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2014,0,2,0,0],[0,0,0,0,0],[2016,1,0,0,0]]
+}

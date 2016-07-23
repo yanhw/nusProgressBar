@@ -1,7 +1,7 @@
 {
 "moduleCode": "SX1998",
 "moduleTitle": "Exchange Enrichment 1000 Module",
-"moduleCredit": "5",
+"moduleCredit": "6",
 "lockedModules":[
 ],
 "preclusion": "NIL",
@@ -10,7 +10,7 @@
 "parsedPrerequisite" : "nil",
 "prerequisiteList": [],
 "completePrerequisite": {
-            "name": "SX1998", 
+            "name": "SX2881", 
             "children": []
 },
 

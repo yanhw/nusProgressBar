@@ -16,7 +16,7 @@
 },
 "prerequisiteList": ["YCC1132"],
 "completePrerequisite": {
-            "name": "YCC2133", 
+            "name": "YCC2134", 
             "children": [
                 {
                     "name": "YCC1132", 
@@ -29,5 +29,5 @@
 "corequisite": "-1",
 "faculty": "YALE-NUS COLLEGE",
 "department": "YALE-NUS COLLEGE",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,1,0,0,0]]
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2014,1,0,0,0],[2015,1,0,0,0],[0,0,0,0,0]]
 }

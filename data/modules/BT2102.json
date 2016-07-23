@@ -1,0 +1,44 @@
+{
+"moduleCode": "BT2102",
+"moduleTitle": "Data Management and Visualisation",
+"moduleCredit": "4",
+"lockedModules":[
+            "BT2101",
+            "BT3103",
+            "BT4221"
+        ],
+"preclusion": "NIL",
+"prerequisite": "CS1010 Programming Methodology or its equivalent, and BT1101 Introduction to Business Analytics",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " and ": [
+                "CS1010", 
+                "BT1101"
+            ]
+},
+"prerequisiteList": ["CS1010","BT1101"],
+"completePrerequisite": {
+            "name": "BT2102", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "CS1010", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "BT1101", 
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module aims to provide students with practical knowledge and understanding of basic issues and techniques in data management and warehousing with relational database management systems, as well as data visualisation principles, techniques and tools. The module covers data management concepts, conceptual and logical design, database management, data warehousing concepts, data warehousing design, relational database management systems and tools, data visualisation and dashboard design concepts, visual perception and design principles, visualisation techniques and tools for temporal and spatial data, proportions and relationships, multivariate and complex data, etc.",
+"crossModule": "-1",
+"corequisite": "Nil",
+"faculty": "SCHOOL OF COMPUTING",
+"department": "INFORMATION SYSTEMS",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2016,0,2,0,0]]
+}

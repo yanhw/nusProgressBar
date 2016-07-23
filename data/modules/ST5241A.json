@@ -1,16 +1,24 @@
 {
 "moduleCode": "ST5241A",
 "moduleTitle": "Topics IA",
-"moduleCredit": "2",
+"moduleCredit": "4",
 "lockedModules":[
-],
+            "SW3103A",
+            "SW3105",
+            "SW3101",
+            "SW3216",
+            "SW3209",
+            "SW2106",
+            "SW2101",
+            "SW2105"
+        ],
 "preclusion": "NIL",
 "prerequisite" : "NIL",
 "preclusionList": [],
 "parsedPrerequisite" : "nil",
 "prerequisiteList": [],
 "completePrerequisite": {
-            "name": "ST5241A", 
+            "name": "SW1101E", 
             "children": []
 },
 "moduleDescription": "For the NUS Bulletin This module consists of selected topics which may vary from year to year depending on the interests and availability of staff. For Sem 2 16/17 The module is titled \u201cData-driven Decision Science I\u201d and is based on topics from a book with the same title, and subtitle \u201cwith Financial, Healthcare, IT and Other Applications,\u201d currently being written by Anna L Choi (Harvard and NUS), Alex S Deng (Microsoft), TL Lai (Stanford and NUS) and KW Tsang (Chinese University of Hong Kong at Shenzhen). The topics chosen will cover both methodology and applications, with healthcare being the focus of applications.",
@@ -18,5 +26,5 @@
 "corequisite": "-1",
 "faculty": "SCIENCE",
 "department": "STATISTICS & APPLIED PROBABILITY",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,0,2,0,0]]
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,0,2,0,0],[0,0,0,0,0]]
 }

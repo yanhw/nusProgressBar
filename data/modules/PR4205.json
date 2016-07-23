@@ -3,26 +3,20 @@
 "moduleTitle": "Bioorganic Principles of Medicinal Chemistry",
 "moduleCredit": "4",
 "lockedModules":[
-            "PR5216"
-        ],
+],
 "preclusion": "NIL",
 "prerequisite": "Pass in PR2115 OR PR3101 OR by permission",
 "preclusionList": [],
 "parsedPrerequisite": {
 " and ": ["PR3101"]
 },
-"prerequisiteList": ["PR3101","PR1101"],
+"prerequisiteList": ["PR3101"],
 "completePrerequisite": {
             "name": "PR4205", 
             "children": [
                 {
                     "name": "PR3101", 
-                    "children": [
-                        {
-                            "name": "PR1101", 
-                            "children": []
-                        }
-                    ]
+                    "children": []
                 }
             ]
 },
@@ -31,5 +25,5 @@
 "corequisite": "-1",
 "faculty": "SCIENCE",
 "department": "PHARMACY",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,1,0,0,0]]
+"history": [[0,0,0,0,0],[0,0,0,0,0],[2013,1,0,0,0],[2014,1,0,0,0],[2015,1,0,0,0],[2016,1,0,0,0]]
 }

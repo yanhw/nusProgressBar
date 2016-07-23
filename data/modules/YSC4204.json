@@ -1,0 +1,61 @@
+{
+"moduleCode": "YSC4204",
+"moduleTitle": "Statistical Computing",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "Students enrolling in this course should already have taken at least one course in programming (e.g. YSC2210 Data Analysis & Visualization (DAVis) in R or YSC2204 Fundamentals of Programming) and statistics/probability (e.g. YSC1204 Statistical Inference or YSC3216 Stochastic Processes and Models) or consider taking these in tandem with this course. If in doubt, please email the course instructor before enrolling.",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " or ": [
+                "YSC1204", 
+                "YSC3216", 
+                "YSC2210", 
+                "YSC2204"
+            ]
+},
+"prerequisiteList": ["YSC1204","YSC3216","YSC2210","YCC1122","YSC2204","YCC2133"],
+"completePrerequisite": {
+            "name": "YSC4204", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "YSC1204", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "YSC3216", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "YSC2210", 
+                            "children": [
+                                {
+                                    "name": "YCC1122", 
+                                    "children": []
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "YSC2204", 
+                            "children": [
+                                {
+                                    "name": "YCC2133", 
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "Increasing volumes of data are being collected across many fields, but often their complexity and size makes it challenging to transform data into information. Increasing computing power, married with advances in statistical methodology to harness such power, have provided a means to make sense of such big data. This course covers various computational statistical approaches such as Markov chain Monte Carlo or lasso, illustrated via copious real world examples.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "YALE-NUS COLLEGE",
+"department": "YALE-NUS COLLEGE",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2016,1,0,0,0]]
+}

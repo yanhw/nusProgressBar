@@ -1,0 +1,29 @@
+{
+"moduleCode": "UQR2211",
+"moduleTitle": "Passing Time: Processes, Temporality, and Econometrics",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "Not applicable to USP modules.",
+"prerequisite": "UQF2101% modules",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["UQF2101"]
+},
+"prerequisiteList": ["UQF2101"],
+"completePrerequisite": {
+            "name": "UQR2211", 
+            "children": [
+                {
+                    "name": "UQF2101", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "This module discusses on the implications of \u201ctime\u201d for quantitative analyses. What is \u201ctime\u201d? How is it important for understanding certain phenomena? How might its passage, in and of itself, be of interest? What econometric models are appropriate for quantitatively testing timerelated hypotheses? Students will explore these questions using political science as a thematic topic. They will first read substantive material, regarding the importance of time for understanding the processes that produce politics-related phenomena. Students will then learn more advanced quantitative modelling strategies that can accommodate the implications of \u201ctime,\u201d allowing students to correctly test time-related hypotheses (e.g., survival analysis).",
+"crossModule": "-1",
+"corequisite": "Not applicable to USP modules.",
+"faculty": "UNIVERSITY SCHOLARS PROGRAMME",
+"department": "UNIVERSITY SCHOLARS PROGRAMME",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[2013,0,2,0,0],[0,0,0,0,0],[0,0,0,0,0],[2016,0,2,0,0]]
+}

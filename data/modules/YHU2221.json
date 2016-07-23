@@ -1,7 +1,7 @@
 {
 "moduleCode": "YHU2221",
 "moduleTitle": "Dance in Society",
-"moduleCredit": "2",
+"moduleCredit": "5",
 "lockedModules":[
 ],
 "preclusion": "NIL",
@@ -10,7 +10,7 @@
 "parsedPrerequisite" : "nil",
 "prerequisiteList": [],
 "completePrerequisite": {
-            "name": "YHU2221", 
+            "name": "YHU2222", 
             "children": []
 },
 "moduleDescription": "This course explores how and in what ways dance has played a crucial role in society. Using the text \u201cDancing: The pleasure, power and art of movement\u201d by Gerald Jonas, this course will explore how dance functions in human societies. Students will be encouraged to explore the relationships between dance and culture, dance and identity, and dance and the community, as well as reflecting on the role, place, purpose and value of dance in a range of cultures and societies, including their own.",
@@ -18,5 +18,5 @@
 "corequisite": "-1",
 "faculty": "YALE-NUS COLLEGE",
 "department": "YALE-NUS COLLEGE",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,1,0,0,0]]
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,1,0,0,0],[0,0,0,0,0]]
 }

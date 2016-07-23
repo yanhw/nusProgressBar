@@ -1,0 +1,24 @@
+{
+"moduleCode": "SSA2222",
+"moduleTitle": "Public Administration in Singapore",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "PS2244",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "PS2244"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "SSA2222", 
+            "children": []
+},
+"moduleDescription": "This module deals with major themed and issues in public administration with specific reference to Singapore. It covers relevant domains of the city-state government and explores issues such as the relationship between politics and administration, meritocracy and performance, combating corruption, grassroots administration, and e-governance. It also discusses administrative trends and challenges in contemporary Singapore.",
+        "CrossModule": "PS2244", 
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "POLITICAL SCIENCE",
+"history": [[0,0,0,0,0],[2012,1,0,0,0],[2013,0,2,0,0],[2014,0,2,0,0],[0,0,0,0,0],[2016,0,2,0,0]]
+}

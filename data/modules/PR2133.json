@@ -3,7 +3,8 @@
 "moduleTitle": "Pharmacotherapeutics I",
 "moduleCredit": "4",
 "lockedModules":[
-],
+            "PR3124"
+        ],
 "preclusion": "NIL",
 "prerequisite": "PA1113, PR1111",
 "preclusionList": [],
@@ -42,5 +43,5 @@
 "corequisite": "PX2108",
 "faculty": "SCIENCE",
 "department": "PHARMACY",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,1,0,0,0]]
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,1,0,0,0],[2016,1,0,0,0]]
 }

@@ -3,13 +3,14 @@
 "moduleTitle": "Intermediate Microeconomics",
 "moduleCredit": "5",
 "lockedModules":[
-            "YSS3206",
+            "YSS3244",
+            "YSS3243",
             "YSS3203",
             "YSS2212",
             "YSS3208"
         ],
 "preclusion": "NIL",
-"prerequisite" : "NIL",
+"prerequisite": "YSS1203 Principles of Economics or A-level or equivalent Mathematics. To emphasize, prior knowledge of economics is NOT necessary to take Intermediate Microeconomics. If a student has completed A-level or equivalent Mathematics, then he/she is allowed to take Intermediate Microeconomics even if he/she has neither completed A-level or equivalent Economics nor YSS1203 Principles of Economics. Students without this background may enroll with instructors\u2019 permission",
 "preclusionList": [],
 "parsedPrerequisite" : "nil",
 "prerequisiteList": [],
@@ -22,5 +23,5 @@
 "corequisite": "Nil",
 "faculty": "YALE-NUS COLLEGE",
 "department": "YALE-NUS COLLEGE",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,1,2,0,0]]
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2014,1,0,0,0],[2015,1,2,0,0],[2016,1,0,0,0]]
 }

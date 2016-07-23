@@ -1,0 +1,29 @@
+{
+"moduleCode": "FE5222",
+"moduleTitle": "Advanced Derivatives Pricing",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "FE5112/D Stochastic Calculus and Quantitative Methods",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["FE5112"]
+},
+"prerequisiteList": ["FE5112"],
+"completePrerequisite": {
+            "name": "FE5222", 
+            "children": [
+                {
+                    "name": "FE5112", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "This module will cover the advanced topics related to derivative pricing, including stochastic differential equations, martingale representation theorem and risk-neutral pricing, the change of numeraire argument and pricing of pathdependent options (e.g. barrier, lookback, and Asian options), optimal stopping and American options, jump diffusion processes and stochastic volatility for option pricing.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SPECIALITY RESEARCH INSTITUTES/CENTRES",
+"department": "RISK MANAGEMENT INSTITUTE",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2014,0,2,0,0],[0,0,0,0,0],[2016,0,2,0,0]]
+}

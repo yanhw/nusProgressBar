@@ -8,15 +8,30 @@
 "prerequisite" : "NIL",
 "preclusionList": [],
 "parsedPrerequisite" : "nil",
-"prerequisiteList": [],
+"prerequisiteList": ["LAJ2202","LAJ2201","LAJ1201"],
 "completePrerequisite": {
-            "name": "JS3227", 
-            "children": []
+            "name": "JS3229", 
+            "children": [
+                {
+                    "name": "LAJ2202", 
+                    "children": [
+                        {
+                            "name": "LAJ2201", 
+                            "children": [
+                                {
+                                    "name": "LAJ1201", 
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
 },
 "moduleDescription": "Entrepreneurship is one of the main factors determining the dynamics of a country's economy. However, Japan has been described as a collectivist society where individual initiative is not appreciated and where it was often the government that led economic development. Yet, Japan has produced a number of extraordinary individuals who played an important role in shaping its economy. Through a series of case studies of dynamic and colourful entrepreneurship the module aims to identify the forces underlying entrepreneurship in Japan, thereby creating a general understanding of the interaction between the individual and its economic, political and social environment.",
 "crossModule": "-1",
 "corequisite": "-1",
 "faculty": "ARTS & SOCIAL SCIENCES",
 "department": "JAPANESE STUDIES",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,1,0,0,0]]
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,1,0,0,0],[0,0,0,0,0]]
 }

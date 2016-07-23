@@ -1,0 +1,32 @@
+{
+"moduleCode": "MKT3513",
+"moduleTitle": "Game Theory And Strategic Analysis",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "EC3312 Game Theory and Applications To Economics MA4264 Game Theory",
+"prerequisite": "MKT1003 Principles of Marketing (or TR2201 Entrepreneurial Marketing) BSP1005 Managerial Economics or equivalent",
+"preclusionList": [
+            "MA4264",
+            "EC3312"
+        ],
+"parsedPrerequisite": {
+" and ": ["BSP1005"]
+},
+"prerequisiteList": ["BSP1005"],
+"completePrerequisite": {
+            "name": "MKT3513", 
+            "children": [
+                {
+                    "name": "BSP1005", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "This course is an introduction to game theory and its applications in the realm of business. It aims to provide an overview of non-cooperative and cooperative games through the analysis of strategic interactions in conflict situations such as bargaining, market competition, monetary policy, auction, international trade, to name a few. Recurring themes include threatening and bluffing, punishing and rewarding, building reputations, and sustaining cooperation in non-cooperative environments through repeated interactions. More advanced topics on games with incomplete information such as moral hazard and incentives theory, mechanism design and the Revelation Principle will also be covered.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF BUSINESS",
+"department": "MARKETING",
+"history": [[0,0,0,0,0],[2012,0,2,0,0],[2013,0,2,0,0],[0,0,0,0,0],[0,0,0,0,0],[2016,0,2,0,0]]
+}

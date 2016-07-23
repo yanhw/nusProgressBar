@@ -5,10 +5,10 @@
 "lockedModules":[
             "PC3242",
             "PC3241",
+            "PC4253",
             "PC3243",
             "PC4236",
-            "PC4240",
-            "PC4253"
+            "PC4240"
         ],
 "preclusion": "EE3406 or PC2133",
 "prerequisite": "PC2130 or PC2130B",
@@ -22,7 +22,7 @@
                 "PC2130B"
             ]
 },
-"prerequisiteList": ["PC2130","PC1144","PC1432","MA1505","MA1506","MA1102R","MA1521","MA1101R","PC2130B","PC1432X","PC1433"],
+"prerequisiteList": ["PC2130","PC1144","PC1432","PC1432X","MA1505","MA1506","MA1102R","MA1521","MA1101R","PC2130B","PC1433"],
 "completePrerequisite": {
             "name": "PC3235", 
             "children": [
@@ -44,6 +44,10 @@
                                                 }, 
                                                 {
                                                     "name": "PC1432", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "PC1432X", 
                                                     "children": []
                                                 }
                                             ]
@@ -136,5 +140,5 @@
 "corequisite": "NIL",
 "faculty": "SCIENCE",
 "department": "PHYSICS",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,1,0,0,0]]
+"history": [[0,0,0,0,0],[2012,1,0,0,0],[2013,1,0,0,0],[2014,1,0,0,0],[2015,1,0,0,0],[2016,1,0,0,0]]
 }

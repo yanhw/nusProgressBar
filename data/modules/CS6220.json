@@ -10,7 +10,7 @@
 "parsedPrerequisite": {
 " and ": ["CS5228"]
 },
-"prerequisiteList": ["CS5228","CS2102","CS1020","CS1010","CS1231","MA1100","ST1232","ST2131","MA1102","MA1102R","MA1312","MA1507","MA1505","MA1505C","MA1521","ST2334","MA1306","CS3243","CS2010","CS1020E","CS1010E","CG1103"],
+"prerequisiteList": ["CS5228","CS2102","CS1020","CS1010","CS1231","MA1100","ST1232","ST2131","MA1102","MA1102R","MA1312","MA1507","MA1505","MA1505C","MA1521","ST2334","CS3243","CS2010","CS1020E","CS1010E","CG1103"],
 "completePrerequisite": {
             "name": "CS6220", 
             "children": [
@@ -104,27 +104,7 @@
                                                     "name": "or", 
                                                     "children": [
                                                         {
-                                                            "name": "MA1306", 
-                                                            "children": []
-                                                        }, 
-                                                        {
-                                                            "name": "MA1102", 
-                                                            "children": []
-                                                        }, 
-                                                        {
                                                             "name": "MA1102R", 
-                                                            "children": []
-                                                        }, 
-                                                        {
-                                                            "name": "MA1505", 
-                                                            "children": []
-                                                        }, 
-                                                        {
-                                                            "name": "MA1505C", 
-                                                            "children": []
-                                                        }, 
-                                                        {
-                                                            "name": "MA1521", 
                                                             "children": []
                                                         }, 
                                                         {
@@ -132,7 +112,15 @@
                                                             "children": []
                                                         }, 
                                                         {
+                                                            "name": "MA1505", 
+                                                            "children": []
+                                                        }, 
+                                                        {
                                                             "name": "MA1507", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "MA1521", 
                                                             "children": []
                                                         }
                                                     ]
@@ -207,5 +195,5 @@
 "corequisite": "-1",
 "faculty": "SCHOOL OF COMPUTING",
 "department": "COMPUTER SCIENCE",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,0,2,0,0]]
+"history": [[0,0,0,0,0],[0,0,0,0,0],[2013,0,2,0,0],[2014,0,2,0,0],[2015,0,2,0,0],[2016,0,2,0,0]]
 }

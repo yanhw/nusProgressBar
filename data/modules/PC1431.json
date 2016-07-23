@@ -3,16 +3,17 @@
 "moduleTitle": "Physics IE",
 "moduleCredit": "4",
 "lockedModules":[
+            "ME2121",
             "PC2132",
+            "ME2134",
             "ME3122",
             "ME3112",
             "ME2143",
-            "ME2134",
-            "ME2121E",
-            "ME2121"
+            "BN2204",
+            "ME2121E"
         ],
 "preclusion": "Students majoring in Physics or students who have passed in PC1141 or PC1142 or PC1433 or PC1431FC or PC1431X are not allowed to take this module.",
-"prerequisite": "STUDENTS FROM FOE (I.E. CIVIL ENG, ENVIRONMENTAL ENG, COMMON ENGINEERING, MECHANICAL ENG, BIOENGINEERING, INDUSTRIAL & SYSTEMS ENG AND MATERIAL SCIENCE & ENG) WITH \u2018A\u2019 LEVEL OR H2 PASS IN PHYSICS; OR 'A' LEVEL OR H2 PASS IN PHYSICS; OR PC1221/PC1221FC/ PC1221X & PC1222",
+"prerequisite": "Students from FOE (i.e. Civil Eng, Environmental Eng, Common Engineering, Mechanical Eng, Bioengineering, Industrial & Systems Eng and Material Science & Eng) with \u2018A\u2019 level or H2 pass in Physics; or 'A' level or H2 pass in Physics; or PC1221/PC1221FC/PC1221X & PC1222/PC1222X",
 "preclusionList": [
             "PC1433",
             "PC1142",
@@ -31,5 +32,5 @@
 "corequisite": "-1",
 "faculty": "SCIENCE",
 "department": "PHYSICS",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,1,2,0,0]]
+"history": [[0,0,0,0,0],[2012,1,2,0,0],[2013,1,2,0,0],[2014,1,2,0,0],[2015,1,2,0,0],[2016,1,2,0,0]]
 }

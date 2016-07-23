@@ -1,0 +1,63 @@
+{
+"moduleCode": "LAS3201",
+"moduleTitle": "Spanish 3",
+"moduleCredit": "4",
+"lockedModules":[
+            "LAS3202"
+        ],
+"preclusion": "YLS2201 Intermediate Spanish I",
+"prerequisite": "LAS2201 Spanish 2 or YLS1202 Introductory Spanish II, or placement test",
+"preclusionList": [
+            "YLS2201"
+        ],
+"parsedPrerequisite": {
+            " or ": [
+                "LAS2201", 
+                "YLS1202"
+            ]
+},
+"prerequisiteList": ["LAS2201","LAS1201","YLS1201","YLS1202"],
+"completePrerequisite": {
+            "name": "LAS3201", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "LAS2201", 
+                            "children": [
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "LAS1201", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "YLS1201", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "YLS1202", 
+                            "children": [
+                                {
+                                    "name": "YLS1201", 
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module targets students who have completed the elementary Spanish modules (LAS1201 and LAS2201). It offers a combination of listening and speaking practice with a review of key concepts of Spanish grammar via targeted reading and writing activities. This module continues to incorporate Hispanic cultural elements through representative texts and audiovisual materials from the Spanish-speaking world.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "CENTRE FOR LANGUAGE STUDIES",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2016,1,0,0,0]]
+}

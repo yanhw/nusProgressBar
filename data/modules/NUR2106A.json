@@ -1,0 +1,24 @@
+{
+"moduleCode": "NUR2106A",
+"moduleTitle": "Nursing Practice Experience 2.1",
+"moduleCredit": "2",
+"lockedModules":[
+],
+"preclusion": "NUR2106 Clinical Practicum 2.1 is precluded.",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "NUR2106"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "NUR2106A", 
+            "children": []
+},
+
+"crossModule": "-1",
+"corequisite": "NUR2116 Medical/Surgical Nursing II, NUR2118 Pathophysiology and Pharmacology for Nurses II",
+"faculty": "YONG LOO LIN SCHOOL OF MEDICINE",
+"department": "NURSING/ALICE LEE CTR FOR NURSING STUD",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2016,1,0,0,0]]
+}

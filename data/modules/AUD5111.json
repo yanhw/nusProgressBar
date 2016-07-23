@@ -1,7 +1,7 @@
 {
 "moduleCode": "AUD5111",
 "moduleTitle": "Hearing Devices & Rehabilitation A - Part 2",
-"moduleCredit": "3",
+"moduleCredit": "4",
 "lockedModules":[
 ],
 "preclusion": "NIL",
@@ -13,13 +13,17 @@
                 "AUD5105"
             ]
 },
-"prerequisiteList": ["AUD5104","AUD5105"],
+"prerequisiteList": ["AUD5103","AUD5104","AUD5105","AUD5102"],
 "completePrerequisite": {
-            "name": "AUD5111", 
+            "name": "AUD5112", 
             "children": [
                 {
                     "name": "and", 
                     "children": [
+                        {
+                            "name": "AUD5103", 
+                            "children": []
+                        }, 
                         {
                             "name": "AUD5104", 
                             "children": []
@@ -32,6 +36,10 @@
                                     "children": []
                                 }
                             ]
+                        }, 
+                        {
+                            "name": "AUD5102", 
+                            "children": []
                         }
                     ]
                 }
@@ -42,5 +50,5 @@
 "corequisite": "AUD5112 Clinical Audiology A - Part 2",
 "faculty": "YONG LOO LIN SCHOOL OF MEDICINE",
 "department": "DIVISION OF GRADUATE MEDICAL STUDIES",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,0,2,0,0]]
+"history": [[0,0,0,0,0],[0,0,0,0,0],[2013,0,2,0,0],[0,0,0,0,0],[2015,0,2,0,0],[0,0,0,0,0]]
 }

@@ -1,0 +1,29 @@
+{
+"moduleCode": "NUR2120",
+"moduleTitle": "Professional Nursing Practice, Ethics and Law",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "NUR1110 Effective Communication for Health Professionals",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["NUR1110"]
+},
+"prerequisiteList": ["NUR1110"],
+"completePrerequisite": {
+            "name": "NUR2120", 
+            "children": [
+                {
+                    "name": "NUR1110", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "This module will introduce students to the foundations of the profession and discipline of nursing including the principles of ethics and legal accountability. It will equip students with knowledge of the evolution of nursing in the historical and social context, nursing epistemology and theoretical frameworks of nursing practice. It will provide opportunities to examine ethical and legal factors influencing the performance of nurses in the healthcare setting within a multi-professional team in a collaborative inquiry process.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "YONG LOO LIN SCHOOL OF MEDICINE",
+"department": "NURSING/ALICE LEE CTR FOR NURSING STUD",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2016,1,0,0,0]]
+}

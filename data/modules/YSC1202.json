@@ -12,7 +12,7 @@
 "parsedPrerequisite" : "nil",
 "prerequisiteList": [],
 "completePrerequisite": {
-            "name": "YSC1202", 
+            "name": "YSC1204", 
             "children": []
 },
 "moduleDescription": "This course introduces students with little or no programming experience to computational thinking and programming. Students will learn some basic concepts and techniques from computer science and programming and apply them to problems from different scientific domains, which might include epidemics, optimal routes in networks, data mining, and winning simple games.",
@@ -20,5 +20,5 @@
 "corequisite": "-1",
 "faculty": "YALE-NUS COLLEGE",
 "department": "YALE-NUS COLLEGE",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,0,2,0,0]]
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2014,0,2,0,0],[2015,0,2,0,0],[0,0,0,0,0]]
 }

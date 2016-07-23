@@ -1,0 +1,49 @@
+{
+"moduleCode": "EE4438",
+"moduleTitle": "Solar Cells and Modules",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "EE4432 Devices for Electric Energy Generation",
+"prerequisite": "EE2021 Devices and Circuits",
+"preclusionList": [
+            "EE4432"
+        ],
+"parsedPrerequisite": {
+" and ": ["EE2021"]
+},
+"prerequisiteList": ["EE2021","EE1002","EG1108","CG1108"],
+"completePrerequisite": {
+            "name": "EE4438", 
+            "children": [
+                {
+                    "name": "EE2021", 
+                    "children": [
+                        {
+                            "name": "or", 
+                            "children": [
+                                {
+                                    "name": "EE1002", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "EG1108", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "CG1108", 
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module covers the theory, operating principles, and basic function of solar cells and photovoltaic modules. Major topics covered are the status of the PV market, the properties of sunlight, properties of semiconductors, efficiency limits of solar cells, carrier properties in semiconductors, currents in p-n diodes in the dark and under illumination, computer simulation of solar cells, characterisation of solar cells, technology of silicon wafer solar cells, technology of thin-film solar cells, properties of interconnected solar cells, technology of PV modules, and the characterisation and testing of PV modules",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "ELECTRICAL & COMPUTER ENGINEERING",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2016,0,2,0,0]]
+}

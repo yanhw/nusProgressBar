@@ -1,0 +1,22 @@
+{
+"moduleCode": "YSC2214",
+"moduleTitle": "Introduction to Optics and Imaging",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "None although it is mainly aimed at science majors (life and physical)",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "YSC2214", 
+            "children": []
+},
+"moduleDescription": "This course combines theoretical concepts with experimentation and computational analysis to give a solid introduction to the field of optics and imaging. A fundamental understanding of the nature of light, and how it interacts with physical systems is important for many higher level courses. In this course students will learn geometrical optics, wave optics, polarization, interference, diffraction and how these concepts relate to imaging. Students will also be introduced to modern applications of optics that have had a significant impact on our lives such as lasers and optical communication.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "YALE-NUS COLLEGE",
+"department": "YALE-NUS COLLEGE",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2016,1,0,0,0]]
+}

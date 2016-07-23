@@ -1,0 +1,94 @@
+{
+"moduleCode": "PL3283A",
+"moduleTitle": "Lab in Adolescent Psychology",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "PL1101E, PL2131, PL2132, PL3234 and PL3244",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " and ": [
+                "PL1101E", 
+                "PL2131", 
+                "PL2132", 
+                "PL3234", 
+                "PL3244"
+            ]
+},
+"prerequisiteList": ["PL1101E","PL2131","PL2132","PL3234","PL3244"],
+"completePrerequisite": {
+            "name": "PL3283A", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "PL1101E", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "PL2131", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "PL2132", 
+                            "children": [
+                                {
+                                    "name": "and", 
+                                    "children": [
+                                        {
+                                            "name": "PL1101E", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "PL2131", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "PL3234", 
+                            "children": [
+                                {
+                                    "name": "PL1101E", 
+                                    "children": []
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "PL3244", 
+                            "children": [
+                                {
+                                    "name": "and", 
+                                    "children": [
+                                        {
+                                            "name": "PL1101E", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "PL3234", 
+                                            "children": [
+                                                {
+                                                    "name": "PL1101E", 
+                                                    "children": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module seeks to give students a practical introduction to some of the concepts, methods, and techniques used in research involving adolescents. The aim of the module is to cover essential conceptual, methodological, ethical, and practical issues of importance when conducting research on adolescents, especially in Singapore.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "PSYCHOLOGY",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2016,0,2,0,0]]
+}

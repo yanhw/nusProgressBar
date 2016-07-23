@@ -3,7 +3,8 @@
 "moduleTitle": "Pharmacogenetics and Drug Responses",
 "moduleCredit": "4",
 "lockedModules":[
-],
+            "PR5222"
+        ],
 "preclusion": "NIL",
 "prerequisite": "LSM3211 or LSM3221",
 "preclusionList": [],
@@ -72,58 +73,7 @@
                         }, 
                         {
                             "name": "LSM3221", 
-                            "children": [
-                                {
-                                    "name": "LSM3211", 
-                                    "children": [
-                                        {
-                                            "name": "or", 
-                                            "children": [
-                                                {
-                                                    "name": "LSM2101", 
-                                                    "children": [
-                                                        {
-                                                            "name": "or", 
-                                                            "children": [
-                                                                {
-                                                                    "name": "LSM1101", 
-                                                                    "children": []
-                                                                }, 
-                                                                {
-                                                                    "name": "LSM1401", 
-                                                                    "children": []
-                                                                }
-                                                            ]
-                                                        }
-                                                    ]
-                                                }, 
-                                                {
-                                                    "name": "LSM2103", 
-                                                    "children": [
-                                                        {
-                                                            "name": "or", 
-                                                            "children": [
-                                                                {
-                                                                    "name": "LSM1101", 
-                                                                    "children": []
-                                                                }, 
-                                                                {
-                                                                    "name": "LSM1401", 
-                                                                    "children": []
-                                                                }, 
-                                                                {
-                                                                    "name": "LSM1102", 
-                                                                    "children": []
-                                                                }
-                                                            ]
-                                                        }
-                                                    ]
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
+                            "children": []
                         }
                     ]
                 }
@@ -134,5 +84,5 @@
 "corequisite": "-1",
 "faculty": "YONG LOO LIN SCHOOL OF MEDICINE",
 "department": "PHARMACOLOGY",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,1,0,0,0]]
+"history": [[0,0,0,0,0],[2012,1,0,0,0],[2013,1,0,0,0],[2014,1,0,0,0],[2015,1,0,0,0],[2016,1,0,0,0]]
 }

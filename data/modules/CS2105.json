@@ -4,11 +4,12 @@
 "moduleCredit": "4",
 "lockedModules":[
             "CP3106",
-            "EE4210",
+            "EE4210E",
             "CS4226",
             "CS4222",
+            "IS3230",
+            "EE4210",
             "CS3103",
-            "EE4210E",
             "CS3235"
         ],
 "preclusion": "IT2001, EE3204/E, EE4210. CEG, CPE and EEE students are not allowed to take this module.",
@@ -41,5 +42,5 @@
 "corequisite": "-1",
 "faculty": "SCHOOL OF COMPUTING",
 "department": "COMPUTER SCIENCE",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,1,2,0,0]]
+"history": [[0,0,0,0,0],[2012,1,2,0,0],[2013,1,2,0,0],[2014,1,2,0,0],[2015,1,2,0,0],[2016,1,2,0,0]]
 }

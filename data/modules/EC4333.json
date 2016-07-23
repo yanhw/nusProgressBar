@@ -4,9 +4,10 @@
 "moduleCredit": "5",
 "lockedModules":[
 ],
-"preclusion": "MA3245",
+"preclusion": "MA3245 and MA4269",
 "prerequisite": "Cohort 2011 and before: Completed 80 MCs, including 28 MCs in EC, with a minimum CAP of 3.50 or be on the Honours track. EC3101, EC3102, and (EC3333 or FNA3102/FIN3102 or FNA2004/FIN2004/FIN2004X). Cohort 2012 onwards: Completed 80 MCs, including 28 MCs in EC, with a minimum CAP of 3.20 or be on the Honours track. EC3101, EC3102, and (EC3333 or FNA3102/FIN3102 or FNA2004/FIN2004/FIN2004X).",
 "preclusionList": [
+            "MA4269",
             "MA3245"
         ],
 "parsedPrerequisite" : "nil",
@@ -20,5 +21,5 @@
 "corequisite": "-1",
 "faculty": "ARTS & SOCIAL SCIENCES",
 "department": "ECONOMICS",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,1,2,0,0]]
+"history": [[0,0,0,0,0],[2012,0,2,0,0],[2013,1,2,0,0],[2014,1,2,0,0],[2015,1,2,0,0],[2016,1,2,0,0]]
 }

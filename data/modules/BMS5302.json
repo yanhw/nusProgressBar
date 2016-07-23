@@ -1,0 +1,155 @@
+{
+"moduleCode": "BMS5302",
+"moduleTitle": "International Finance",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "FIN2004/FIN2004X Finance",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " or ": [
+                "FIN2004", 
+                "FIN2004X"
+            ]
+},
+"prerequisiteList": ["FIN2004","BK1003","BZ1002","BH1002","FNA1002","ACC1002","FNA1002X","ACC1002X","FNA1002E","BH1002E","EC3212","EG1422","FIN2004X"],
+"completePrerequisite": {
+            "name": "BMS5302", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "FIN2004", 
+                            "children": [
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "BK1003", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "BZ1002", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "BH1002", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "FNA1002", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "ACC1002", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "FNA1002X", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "ACC1002X", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "FNA1002E", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "BH1002E", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "EC3212", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "EG1422", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "FIN2004X", 
+                            "children": [
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "EG1422", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "FIN2004", 
+                                            "children": [
+                                                {
+                                                    "name": "or", 
+                                                    "children": [
+                                                        {
+                                                            "name": "BK1003", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "BZ1002", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "BH1002", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "FNA1002", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "ACC1002", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "FNA1002X", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "ACC1002X", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "FNA1002E", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "BH1002E", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "EC3212", 
+                                                            "children": []
+                                                        }, 
+                                                        {
+                                                            "name": "EG1422", 
+                                                            "children": []
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "In this course, we will place our emphasis on the international financial system, international investments, and international financial management, particularly in Asia. This course is especially helpful for a student pursuing a career in international banking, global asset management, or international corporate finance. Our course begins with a thorough analysis of international business risks and the structure of the international monetary system. We will then cover the following topics: currency risk management; international asset allocation; exchange-rate determination; international investments; international capital raising and budgeting; foreign direct investment; and corporate governance in Asia.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF BUSINESS",
+"department": "DEAN'S OFFICE (BIZ)",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2016,1,0,0,0]]
+}

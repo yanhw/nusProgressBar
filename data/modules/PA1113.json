@@ -3,9 +3,9 @@
 "moduleTitle": "Basic Pharmacology",
 "moduleCredit": "4",
 "lockedModules":[
+            "PR2135",
             "PR2133",
-            "PR2134",
-            "PR2135"
+            "PR2134"
         ],
 "preclusion": "NIL",
 "prerequisite": "AY1130",
@@ -28,5 +28,5 @@
 "corequisite": "PY1131",
 "faculty": "YONG LOO LIN SCHOOL OF MEDICINE",
 "department": "PHARMACOLOGY",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,0,2,0,0]]
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2014,0,2,0,0],[2015,0,2,0,0],[2016,0,2,0,0]]
 }

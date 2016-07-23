@@ -13,7 +13,7 @@
                 "ST2334"
             ]
 },
-"prerequisiteList": ["ST1232","ST2334","MA1306","MA1102","MA1102R","MA1505","MA1505C","MA1521","MA1312","MA1507"],
+"prerequisiteList": ["ST1232","ST2334","MA1102R","MA1312","MA1505","MA1507","MA1521"],
 "completePrerequisite": {
             "name": "SPH3101", 
             "children": [
@@ -31,27 +31,7 @@
                                     "name": "or", 
                                     "children": [
                                         {
-                                            "name": "MA1306", 
-                                            "children": []
-                                        }, 
-                                        {
-                                            "name": "MA1102", 
-                                            "children": []
-                                        }, 
-                                        {
                                             "name": "MA1102R", 
-                                            "children": []
-                                        }, 
-                                        {
-                                            "name": "MA1505", 
-                                            "children": []
-                                        }, 
-                                        {
-                                            "name": "MA1505C", 
-                                            "children": []
-                                        }, 
-                                        {
-                                            "name": "MA1521", 
                                             "children": []
                                         }, 
                                         {
@@ -59,7 +39,15 @@
                                             "children": []
                                         }, 
                                         {
+                                            "name": "MA1505", 
+                                            "children": []
+                                        }, 
+                                        {
                                             "name": "MA1507", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "MA1521", 
                                             "children": []
                                         }
                                     ]
@@ -75,5 +63,5 @@
 "corequisite": "NIL",
 "faculty": "SAW SWEE HOCK SCHOOL OF PUBLIC HEALTH",
 "department": "SAW SWEE HOCK SCHOOL OF PUBLIC HEALTH",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,1,0,0,0]]
+"history": [[0,0,0,0,0],[0,0,0,0,0],[2013,1,0,0,0],[2014,1,0,0,0],[2015,1,0,0,0],[2016,1,0,0,0]]
 }

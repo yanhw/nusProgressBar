@@ -19,7 +19,7 @@
                 "PR3301"
             ]
 },
-"prerequisiteList": ["PR2101","PR1102","PR3102","PR2105","PR4106","PR3301"],
+"prerequisiteList": ["PR2101","PR3102","PR4106","PR1102","PR3301"],
 "completePrerequisite": {
             "name": "PR5302", 
             "children": [
@@ -31,30 +31,11 @@
                             "children": [
                                 {
                                     "name": "PR2101", 
-                                    "children": [
-                                        {
-                                            "name": "PR1102", 
-                                            "children": []
-                                        }
-                                    ]
+                                    "children": []
                                 }, 
                                 {
                                     "name": "PR3102", 
-                                    "children": [
-                                        {
-                                            "name": "and", 
-                                            "children": [
-                                                {
-                                                    "name": "PR1102", 
-                                                    "children": []
-                                                }, 
-                                                {
-                                                    "name": "PR2105", 
-                                                    "children": []
-                                                }
-                                            ]
-                                        }
-                                    ]
+                                    "children": []
                                 }, 
                                 {
                                     "name": "PR4106", 
@@ -80,5 +61,5 @@
 "corequisite": "-1",
 "faculty": "SCIENCE",
 "department": "PHARMACY",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,0,2,0,0]]
+"history": [[0,0,0,0,0],[0,0,0,0,0],[2013,0,2,0,0],[2014,0,2,0,0],[2015,0,2,0,0],[2016,0,2,0,0]]
 }

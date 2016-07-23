@@ -1,41 +1,22 @@
 {
 "moduleCode": "NUR2118",
-"moduleTitle": "Pathophysiology and Pharmacology II",
+"moduleTitle": "Pathophysiology and Pharmacology for Nurses II",
 "moduleCredit": "4",
 "lockedModules":[
 ],
 "preclusion": "NIL",
-"prerequisite": "NUR2117 Pathophysiology and Pharmacology I",
+"prerequisite": "NUR1121 Pathophysiology and Pharmacology for Nurses 1 is now a pre-requisite.",
 "preclusionList": [],
 "parsedPrerequisite": {
-" and ": ["NUR2117"]
+" and ": ["NUR1121"]
 },
-"prerequisiteList": ["NUR2117","NUR1117","NUR1118"],
+"prerequisiteList": ["NUR1121"],
 "completePrerequisite": {
             "name": "NUR2118", 
             "children": [
                 {
-                    "name": "NUR2117", 
-                    "children": [
-                        {
-                            "name": "and", 
-                            "children": [
-                                {
-                                    "name": "NUR1117", 
-                                    "children": []
-                                }, 
-                                {
-                                    "name": "NUR1118", 
-                                    "children": [
-                                        {
-                                            "name": "NUR1117", 
-                                            "children": []
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
+                    "name": "NUR1121", 
+                    "children": []
                 }
             ]
 },
@@ -44,5 +25,5 @@
 "corequisite": "Nil",
 "faculty": "YONG LOO LIN SCHOOL OF MEDICINE",
 "department": "NURSING/ALICE LEE CTR FOR NURSING STUD",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,0,2,0,0]]
+"history": [[0,0,0,0,0],[0,0,0,0,0],[2013,0,2,0,0],[2014,0,2,0,0],[2015,0,2,0,0],[2016,1,0,0,0]]
 }

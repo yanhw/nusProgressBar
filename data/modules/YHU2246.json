@@ -1,7 +1,7 @@
 {
 "moduleCode": "YHU2246",
 "moduleTitle": "The Speaking Body 1",
-"moduleCredit": "2",
+"moduleCredit": "5",
 "lockedModules":[
             "YHU3228"
         ],
@@ -9,15 +9,34 @@
 "prerequisite" : "NIL",
 "preclusionList": [],
 "parsedPrerequisite" : "nil",
-"prerequisiteList": [],
+"prerequisiteList": ["YCC1111","YCC1112"],
 "completePrerequisite": {
-            "name": "YHU2246", 
-            "children": []
+            "name": "YHU2247", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "YCC1111", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "YCC1112", 
+                            "children": [
+                                {
+                                    "name": "YCC1111", 
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
 },
 "moduleDescription": "The Speaking Body 1: Introduction to basic composition extending the learning that has been developed in Improvisation by providing the skills to enable students to structure and arrange movement for choreographic purposes.",
 "crossModule": "-1",
 "corequisite": "None",
 "faculty": "YALE-NUS COLLEGE",
 "department": "YALE-NUS COLLEGE",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,0,2,0,0]]
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,0,2,0,0],[0,0,0,0,0]]
 }

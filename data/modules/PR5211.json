@@ -13,7 +13,7 @@
                 "PR4203"
             ]
 },
-"prerequisiteList": ["PR2104","PR1101","PR4203","PR1103","PR3107"],
+"prerequisiteList": ["PR2104","PR4203","PR1103","PR3107"],
 "completePrerequisite": {
             "name": "PR5211", 
             "children": [
@@ -22,12 +22,7 @@
                     "children": [
                         {
                             "name": "PR2104", 
-                            "children": [
-                                {
-                                    "name": "PR1101", 
-                                    "children": []
-                                }
-                            ]
+                            "children": []
                         }, 
                         {
                             "name": "PR4203", 
@@ -41,12 +36,7 @@
                                         }, 
                                         {
                                             "name": "PR3107", 
-                                            "children": [
-                                                {
-                                                    "name": "PR1103", 
-                                                    "children": []
-                                                }
-                                            ]
+                                            "children": []
                                         }
                                     ]
                                 }
@@ -61,5 +51,5 @@
 "corequisite": "NIL",
 "faculty": "SCIENCE",
 "department": "PHARMACY",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,1,0,0,0]]
+"history": [[0,0,0,0,0],[0,0,0,0,0],[2013,1,0,0,0],[2014,1,0,0,0],[2015,1,0,0,0],[2016,1,0,0,0]]
 }

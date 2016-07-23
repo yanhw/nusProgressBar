@@ -1,7 +1,7 @@
 {
 "moduleCode": "BMA5112A",
 "moduleTitle": "Special Topics in Asia Pacific Business",
-"moduleCredit": "2",
+"moduleCredit": "4",
 "lockedModules":[
 ],
 "preclusion": "NIL",
@@ -10,7 +10,7 @@
 "parsedPrerequisite" : "nil",
 "prerequisiteList": [],
 "completePrerequisite": {
-            "name": "BMA5112A", 
+            "name": "BMA5115", 
             "children": []
 },
 
@@ -18,5 +18,5 @@
 "corequisite": "-1",
 "faculty": "SCHOOL OF BUSINESS",
 "department": "DEAN'S OFFICE (BIZ)",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,0,2,0,0]]
+"history": [[0,0,0,0,0],[0,0,0,0,0],[2013,0,2,0,0],[2014,0,2,0,0],[2015,0,2,0,0],[0,0,0,0,0]]
 }

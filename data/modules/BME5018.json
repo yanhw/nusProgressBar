@@ -1,0 +1,22 @@
+{
+"moduleCode": "BME5018",
+"moduleTitle": "Managing Business For Sustainability",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "BME5018", 
+            "children": []
+},
+"moduleDescription": "The module examines how firms and the markets on which they depend are affected by considerations related to global, national, and corporate sustainability.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF BUSINESS",
+"department": "DEAN'S OFFICE (BIZ)",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2014,1,0,0,0],[0,0,0,0,0],[2016,1,0,0,0]]
+}

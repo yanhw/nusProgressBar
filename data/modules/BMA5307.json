@@ -12,7 +12,7 @@
 },
 "prerequisiteList": ["BMA5008"],
 "completePrerequisite": {
-            "name": "BMA5307", 
+            "name": "BMA5309", 
             "children": [
                 {
                     "name": "BMA5008", 
@@ -25,5 +25,5 @@
 "corequisite": "-1",
 "faculty": "SCHOOL OF BUSINESS",
 "department": "DEAN'S OFFICE (BIZ)",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,1,0,0,0]]
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,1,0,0,0],[0,0,0,0,0]]
 }

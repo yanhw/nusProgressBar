@@ -10,7 +10,7 @@
 "parsedPrerequisite" : "nil",
 "prerequisiteList": [],
 "completePrerequisite": {
-            "name": "YHU4201", 
+            "name": "YHU4202", 
             "children": []
 },
 "moduleDescription": "In classical logic, every sentence is either true or false, every argument with contradictory premises or a tautologous conclusion is valid, and every conditional with a false antecedent or true consequent is true. In this course, we explore non-classical logics which weaken these assumptions, including but not limited to various many-valued, modal and relevant logics, along with the philosophical questions they raise and answer",
@@ -18,5 +18,5 @@
 "corequisite": "-1",
 "faculty": "YALE-NUS COLLEGE",
 "department": "YALE-NUS COLLEGE",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,1,0,0,0]]
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,1,0,0,0],[0,0,0,0,0]]
 }

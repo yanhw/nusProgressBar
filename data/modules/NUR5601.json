@@ -1,9 +1,9 @@
 {
 "moduleCode": "NUR5601",
 "moduleTitle": "Advanced Health Assessment (Paediatrics)",
-"moduleCredit": "6",
+"moduleCredit": "8",
 "lockedModules":[
-            "NUR5611",
+            "NUR5612",
             "NUR5603"
         ],
 "preclusion": "NIL",
@@ -15,10 +15,10 @@
             "name": "NUR5601", 
             "children": []
 },
-"moduleDescription": "This module aims to provide a thorough understanding of paediatric health assessment and to develop competent skills in performing physical examination. These skills are essential for diagnostic reasoning and clinical decision making. Principles and techniques from the physical and behavioral sciences are utilised to obtain assessment data and make differential diagnoses and subsequently, the final diagnosis.",
+"moduleDescription": "This module aims to provide a thorough understanding of paediatric health assessment and to develop competent skills in interviewing and physical examination technique for different developmental age. These skills are essential for differentiation of normal and abnormal findings, critical thinking and clinical decision-making through problems related to child health. Principles and techniques from the physical and behavioral sciences are utilised to obtain assessment data and make differential diagnoses and subsequently, the final diagnosis.",
 "crossModule": "-1",
-"corequisite": "NUR5602",
+"corequisite": "NUR5602 Applied Pathophysiology (Paediatrics)",
 "faculty": "YONG LOO LIN SCHOOL OF MEDICINE",
 "department": "NURSING/ALICE LEE CTR FOR NURSING STUD",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,1,0,0,0]]
+"history": [[0,0,0,0,0],[0,0,0,0,0],[2013,1,0,0,0],[2014,1,0,0,0],[2015,1,0,0,0],[2016,1,0,0,0]]
 }

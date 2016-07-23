@@ -15,7 +15,7 @@
                 "ME2151"
             ]
 },
-"prerequisiteList": ["PC2133","PC1144","PC1433","MLE2105","MLE1101","MLE2101","EE3431C","ME2151"],
+"prerequisiteList": ["PC2133","PC1144","PC1433","MLE2105","MLE1101","MLE2101","MLE1111","EE3431C","ME2151"],
 "completePrerequisite": {
             "name": "ESP3401", 
             "children": [
@@ -53,6 +53,10 @@
                                         {
                                             "name": "MLE2101", 
                                             "children": []
+                                        }, 
+                                        {
+                                            "name": "MLE1111", 
+                                            "children": []
                                         }
                                     ]
                                 }
@@ -75,5 +79,5 @@
 "corequisite": "-1",
 "faculty": "ENGINEERING",
 "department": "ENGINEERING SCIENCE PROGRAMME",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,1,0,0,0]]
+"history": [[0,0,0,0,0],[0,0,0,0,0],[2013,1,0,0,0],[2014,1,0,0,0],[2015,1,0,0,0],[2016,1,0,0,0]]
 }

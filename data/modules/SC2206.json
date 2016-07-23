@@ -1,0 +1,22 @@
+{
+"moduleCode": "SC2206",
+"moduleTitle": "Culture & Society",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "SC2206", 
+            "children": []
+},
+"moduleDescription": "We are living in a world marked by cultural diversity. We encounter different cultural norms and practices every day, which may enable us to become more reflexive, curious, and open-minded or, in some cases, lead us to become defensive. This course provides an analytical lens to learn how cultures affect social behaviour and how different cultures interact with each other in the contemporary world. We shall discuss issues related to \"ethnocentrism\", \"cultural relativism\", \u201chybrid cultures\u201d, \u201csub cultures\u201d and \"multiculturalism\". This course will furthermore discuss how cultures are socially constructed. In this sphere, the module will explore such topics as travel and encounters, the construction of personal and collective identities, ethnic minorities and the state, gender relations and family systems, workspaces and hierarchy, and globalization.",
+"crossModule": "-1",
+"corequisite": "NIL",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "SOCIOLOGY",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2016,1,0,0,0]]
+}

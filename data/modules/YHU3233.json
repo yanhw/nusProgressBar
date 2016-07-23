@@ -1,0 +1,67 @@
+{
+"moduleCode": "YHU3233",
+"moduleTitle": "The Political Philosophy of Spinoza",
+"moduleCredit": "5",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "YCC1114 Philosophy and Political Thought 2 and YCC2121 Modern Social Thought",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " and ": [
+                "YCC1114", 
+                "YCC2121"
+            ]
+},
+"prerequisiteList": ["YCC1114","YCC2121","YCC1111","YCC1112","YCC1113","YCC1121"],
+"completePrerequisite": {
+            "name": "YHU3233", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "YCC1114", 
+                            "children": []
+                        }, 
+                        {
+                            "name": "YCC2121", 
+                            "children": [
+                                {
+                                    "name": "and", 
+                                    "children": [
+                                        {
+                                            "name": "YCC1111", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "YCC1112", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "YCC1113", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "YCC1114", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "YCC1121", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "There has been a recent surge of interest in the political philosophy of Benedict-de-Spinoza. He has been hailed variously as the originator of an enlightenment more radical than that of the philosophes or as a conservative thinker; as an early champion of liberalism, or as a proto-Marxist materialist; as an atheist hostile to religion or as a defender of religious forms; as an arch-rationalist, or a champion of the imagination. In this course, students will read the original texts on their own terms; on this foundation, students will be able to navigate the contemporary debates over those texts' significance.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "YALE-NUS COLLEGE",
+"department": "YALE-NUS COLLEGE",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2016,1,0,0,0]]
+}

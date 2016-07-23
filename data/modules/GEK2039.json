@@ -1,0 +1,24 @@
+{
+"moduleCode": "GEK2039",
+"moduleTitle": "Chinese Philosophical Traditions I",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "PH2302",
+"prerequisite" : "NIL",
+"preclusionList": [
+            "PH2302"
+        ],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "GEK2039", 
+            "children": []
+},
+"moduleDescription": "This is the first half of a two-part course on Chinese Philosophy. This module surveys the philosophical discourse of the period from early Han dynasty up to the close of the Tang dynasty. We begin by considering the philosophical developments in Confucianism and Xuan Xue thought. Then, we turn to the arrival of Buddhism in China and survey the transformations in Chinese Buddhist philosophy through the Tang. We will treat these thinkers and their ideas in their proper historical contexts and evaluate their philosophies critically. We will also address and assess the relevance of these ideas to contemporary philosophical debates.",
+        "CrossModule": "PH2302", 
+"corequisite": "NIL",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "PHILOSOPHY",
+"history": [[0,0,0,0,0],[2012,1,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2016,1,0,0,0]]
+}

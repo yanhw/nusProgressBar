@@ -1,0 +1,142 @@
+{
+"moduleCode": "ST3242",
+"moduleTitle": "Introduction to Survival Analysis",
+"moduleCredit": "4",
+"lockedModules":[
+            "ST4241"
+        ],
+"preclusion": "NIL",
+"prerequisite": "ST2132",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["ST2132"]
+},
+"prerequisiteList": ["ST2132","MA2216","MA1102","MA1102R","MA1312","MA1507","MA1505","MA1505C","MA1521","ST2131","ST2334"],
+"completePrerequisite": {
+            "name": "ST3242", 
+            "children": [
+                {
+                    "name": "ST2132", 
+                    "children": [
+                        {
+                            "name": "or", 
+                            "children": [
+                                {
+                                    "name": "MA2216", 
+                                    "children": [
+                                        {
+                                            "name": "or", 
+                                            "children": [
+                                                {
+                                                    "name": "MA1102", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MA1102R", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MA1312", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MA1507", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MA1505", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MA1505C", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MA1521", 
+                                                    "children": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }, 
+                                {
+                                    "name": "ST2131", 
+                                    "children": [
+                                        {
+                                            "name": "or", 
+                                            "children": [
+                                                {
+                                                    "name": "MA1102", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MA1102R", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MA1312", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MA1507", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MA1505", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MA1505C", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MA1521", 
+                                                    "children": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }, 
+                                {
+                                    "name": "ST2334", 
+                                    "children": [
+                                        {
+                                            "name": "or", 
+                                            "children": [
+                                                {
+                                                    "name": "MA1102R", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MA1312", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MA1505", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MA1507", 
+                                                    "children": []
+                                                }, 
+                                                {
+                                                    "name": "MA1521", 
+                                                    "children": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module focuses on the analysis of survival data or \u201cfailure times\u201d, which measure the length of time until the occurrence of an event, with the objective of modelling the underlying distribution of the failure time variable and to assess the dependence of the failure time variable on the independent variables. Topics include: examples of survival data, concepts and techniques used in the analysis of time to event data, including censoring, hazard rates, estimation of survival curves, parametric and nonparametric models, regression techniques, regression diagnostics. This module is targeted at students who are interested in Statistics and are able to meet the prerequisite.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCIENCE",
+"department": "STATISTICS & APPLIED PROBABILITY",
+"history": [[0,0,0,0,0],[2012,0,2,0,0],[0,0,0,0,0],[2014,0,2,0,0],[0,0,0,0,0],[2016,1,0,0,0]]
+}

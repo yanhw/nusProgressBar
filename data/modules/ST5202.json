@@ -3,7 +3,8 @@
 "moduleTitle": "Applied Regression Analysis",
 "moduleCredit": "4",
 "lockedModules":[
-],
+            "ST5227"
+        ],
 "preclusion": "ST5318",
 "prerequisite": "Departmental approval",
 "preclusionList": [
@@ -20,5 +21,5 @@
 "corequisite": "-1",
 "faculty": "SCIENCE",
 "department": "STATISTICS & APPLIED PROBABILITY",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,0,2,0,0]]
+"history": [[0,0,0,0,0],[0,0,0,0,0],[2013,0,2,0,0],[2014,0,2,0,0],[2015,0,2,0,0],[2016,0,2,0,0]]
 }

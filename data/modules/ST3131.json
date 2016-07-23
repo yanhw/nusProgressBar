@@ -4,20 +4,23 @@
 "moduleCredit": "4",
 "lockedModules":[
             "BT3101",
+            "ST5220",
             "ST3240",
             "ST4233",
+            "BT4211",
+            "DSA4211",
+            "BT4221",
             "MA4270",
+            "ST5213",
             "ST4242",
             "ST4240",
             "ST4245",
-            "ST3241",
-            "ST5207"
+            "ST3241"
         ],
-"preclusion": "ST2335, EC3231, EC3303",
+"preclusion": "ST2335, EC3303",
 "prerequisite": "ST2131 or MA2216 or ST2334",
 "preclusionList": [
             "EC3303",
-            "EC3231",
             "ST2335"
         ],
 "parsedPrerequisite": {
@@ -27,7 +30,7 @@
                 "ST2334"
             ]
 },
-"prerequisiteList": ["ST2131","MA1102","MA1102R","MA1312","MA1507","MA1505","MA1505C","MA1521","MA2216","ST2334","MA1306"],
+"prerequisiteList": ["ST2131","MA1102","MA1102R","MA1312","MA1507","MA1505","MA1505C","MA1521","MA2216","ST2334"],
 "completePrerequisite": {
             "name": "ST3131", 
             "children": [
@@ -117,27 +120,7 @@
                                     "name": "or", 
                                     "children": [
                                         {
-                                            "name": "MA1306", 
-                                            "children": []
-                                        }, 
-                                        {
-                                            "name": "MA1102", 
-                                            "children": []
-                                        }, 
-                                        {
                                             "name": "MA1102R", 
-                                            "children": []
-                                        }, 
-                                        {
-                                            "name": "MA1505", 
-                                            "children": []
-                                        }, 
-                                        {
-                                            "name": "MA1505C", 
-                                            "children": []
-                                        }, 
-                                        {
-                                            "name": "MA1521", 
                                             "children": []
                                         }, 
                                         {
@@ -145,7 +128,15 @@
                                             "children": []
                                         }, 
                                         {
+                                            "name": "MA1505", 
+                                            "children": []
+                                        }, 
+                                        {
                                             "name": "MA1507", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "MA1521", 
                                             "children": []
                                         }
                                     ]
@@ -161,5 +152,5 @@
 "corequisite": "-1",
 "faculty": "SCIENCE",
 "department": "STATISTICS & APPLIED PROBABILITY",
-"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2015,1,2,0,0]]
+"history": [[0,0,0,0,0],[2012,1,2,0,0],[2013,1,2,0,0],[2014,1,2,0,0],[2015,1,2,0,0],[2016,1,2,0,0]]
 }

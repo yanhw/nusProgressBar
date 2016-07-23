@@ -1,0 +1,22 @@
+{
+"moduleCode": "PS3262",
+"moduleTitle": "Managing Non-Profit Organisations",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite" : "NIL",
+"preclusionList": [],
+"parsedPrerequisite" : "nil",
+"prerequisiteList": [],
+"completePrerequisite": {
+            "name": "PS3262", 
+            "children": []
+},
+"moduleDescription": "This module presents a broad overview of non-profit organization management. Based on public administration and strategic management theory, it focuses on practical problem-solving ideas. Topics to be considered include: 1) shaping an organisation\u2019s vision and mission, 2) SWOT analysis, 3) decision-making, 4) establishing strategic management capacity, 5) inter-organizational cooperation and partnership, and 6) other management techniques.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ARTS & SOCIAL SCIENCES",
+"department": "POLITICAL SCIENCE",
+"history": [[0,0,0,0,0],[2012,0,2,0,0],[2013,0,2,0,0],[2014,0,2,0,0],[0,0,0,0,0],[2016,0,2,0,0]]
+}

@@ -1,17 +1,103 @@
 {
 "moduleCode": "MA2993",
 "moduleTitle": "Exchange Enrichment Module",
-"moduleCredit": "3",
+"moduleCredit": "4",
 "lockedModules":[
-],
-"preclusion": "NIL",
+            "MA4207",
+            "MA4229",
+            "MA3111S",
+            "MA3111",
+            "MA3209"
+        ],
+"preclusion": "MA2118, MA2118H, MA2205, MQ3202, MA3110S, ST2236.",
 "prerequisite" : "NIL",
-"preclusionList": [],
+"preclusionList": [
+            "MA2205",
+            "ST2236",
+            "MQ3202",
+            "MA2118H",
+            "MA2118",
+            "MA3110S"
+        ],
 "parsedPrerequisite" : "nil",
-"prerequisiteList": [],
+"prerequisiteList": ["MA2108","MA1102","MA1102R","MA1505","MA1505C","MA1507","MA1521","MA2108S"],
 "completePrerequisite": {
-            "name": "MA2993", 
-            "children": []
+            "name": "MA3110", 
+            "children": [
+                {
+                    "name": "or", 
+                    "children": [
+                        {
+                            "name": "MA2108", 
+                            "children": [
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "MA1102", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "MA1102R", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "MA1505", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "MA1505C", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "MA1507", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "MA1521", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "MA2108S", 
+                            "children": [
+                                {
+                                    "name": "or", 
+                                    "children": [
+                                        {
+                                            "name": "MA1102", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "MA1102R", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "MA1505", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "MA1505C", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "MA1507", 
+                                            "children": []
+                                        }, 
+                                        {
+                                            "name": "MA1521", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
 },
 
 "crossModule": "-1",

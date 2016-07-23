@@ -1,0 +1,39 @@
+{
+"moduleCode": "CS5219",
+"moduleTitle": "Automated Software Validation",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "CS2104 Programming Language Concepts",
+"preclusionList": [],
+"parsedPrerequisite": {
+" and ": ["CS2104"]
+},
+"prerequisiteList": ["CS2104","CS1020","CS1010"],
+"completePrerequisite": {
+            "name": "CS5219", 
+            "children": [
+                {
+                    "name": "CS2104", 
+                    "children": [
+                        {
+                            "name": "CS1020", 
+                            "children": [
+                                {
+                                    "name": "CS1010", 
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "SCHOOL OF COMPUTING",
+"department": "COMPUTER SCIENCE",
+"history": [[0,0,0,0,0],[2012,0,2,0,0],[0,0,0,0,0],[2014,0,2,0,0],[0,0,0,0,0],[2016,0,2,0,0]]
+}

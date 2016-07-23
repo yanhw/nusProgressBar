@@ -1,0 +1,31 @@
+{
+"moduleCode": "EE3206E",
+"moduleTitle": "Introduction To Computer Vision And Image Processing",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "CS4243",
+"prerequisite": "EE2009E",
+"preclusionList": [
+            "CS4243"
+        ],
+"parsedPrerequisite": {
+" and ": ["EE2009E"]
+},
+"prerequisiteList": ["EE2009E"],
+"completePrerequisite": {
+            "name": "EE3206E", 
+            "children": [
+                {
+                    "name": "EE2009E", 
+                    "children": []
+                }
+            ]
+},
+"moduleDescription": "This module covers the basic concepts and techniques in computer vision and digital image processing. The following topics are taught: elements of a vision system, image acquisition, 2-D discrete Fourier transform, image enhancement techniques, error-free and lossy compression, segmentation methods, and representation and description methods.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "BACHELOR OF TECHNOLOGY PROGRAMME",
+"history": [[0,0,0,0,0],[2012,1,0,0,0],[2013,1,0,0,0],[2014,0,2,0,0],[0,0,0,0,0],[2016,0,2,0,0]]
+}

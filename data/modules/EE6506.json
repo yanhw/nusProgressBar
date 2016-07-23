@@ -1,0 +1,74 @@
+{
+"moduleCode": "EE6506",
+"moduleTitle": "Advanced Integrated Circuit Design",
+"moduleCredit": "4",
+"lockedModules":[
+],
+"preclusion": "NIL",
+"prerequisite": "EE5507/EE5507R, EE5518/EE5518R",
+"preclusionList": [],
+"parsedPrerequisite": {
+            " and ": [
+                {
+                    " or ": [
+                        "EE5507", 
+                        "EE5507R"
+                    ]
+                }, 
+                {
+                    " or ": [
+                        "EE5518", 
+                        "EE5518R"
+                    ]
+                }
+            ]
+},
+"prerequisiteList": ["EE5507","EE5507R","EE3408","EE5518","EE5518R"],
+"completePrerequisite": {
+            "name": "EE6506", 
+            "children": [
+                {
+                    "name": "and", 
+                    "children": [
+                        {
+                            "name": "or", 
+                            "children": [
+                                {
+                                    "name": "EE5507", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "EE5507R", 
+                                    "children": [
+                                        {
+                                            "name": "EE3408", 
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "or", 
+                            "children": [
+                                {
+                                    "name": "EE5518", 
+                                    "children": []
+                                }, 
+                                {
+                                    "name": "EE5518R", 
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+},
+"moduleDescription": "This module covers systematical analysis and design of advanced mixed-signal integrated circuits in CMOS technology and updates students with the current state-ofthe-art designs. It also stresses the understanding of the mixed-signal circuit design from the system level perspectives.",
+"crossModule": "-1",
+"corequisite": "-1",
+"faculty": "ENGINEERING",
+"department": "ELECTRICAL & COMPUTER ENGINEERING",
+"history": [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[2014,1,0,0,0],[0,0,0,0,0],[2016,1,0,0,0]]
+}
