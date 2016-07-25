@@ -5,11 +5,11 @@ var editProgramme = {
 
 		//I have no idea why this part is needed...
 		for (var i = 0; i < programme.specialisations.length; i++) {
-			for (var j = 0; j < programme.mainList.length; j++) {
-				if (programme.visibleLists[j] === programme.specialisations[i].listName) {
+			for (var j = 0; j < programme.visibleLists.length; j++) {
+				if ((programme.visibleLists[j] === programme.specialisations[i].listName) || (programme.visibleLists[j] === "FLR") || (programme.visibleLists[j] === "ULR")) {
 					programme.visibleLists.splice(j, 1);
-					programme.mainList.splice(j, 1);
-					break;
+					if ((programme.visibleLists[j] === programme.specialisations[i].listName))
+						programme.mainList.splice(j, 1);
 				}
 			}
 		}
@@ -24,6 +24,10 @@ var editProgramme = {
 					programme.visibleLists.push(programme.specialisations[i].listName);
 				}
 			}
+		}
+		
+		if (programme.faculty === "SCIENCE") {
+			programme.visibleLists.push("FLR");
 		}
 		return programme;
 	}
