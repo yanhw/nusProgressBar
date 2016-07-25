@@ -310,6 +310,7 @@ function addCol() {
 		i++;
 	})
 	// });
+	KeepData.updateColToLocalStorage('add');
 	
 }
 
@@ -323,6 +324,8 @@ function removeCol() {
 	// 		$(this.addClass("second-last-tile"));
 	// });
 	numCol--;
+
+	KeepData.updateColToLocalStorage('remove');
 }
 
 module.exports = moduleTable;

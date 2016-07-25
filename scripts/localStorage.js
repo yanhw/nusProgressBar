@@ -1,6 +1,7 @@
 'use strict';
 
 var recovering = false;
+var Col = 5;
 
 var keepData = {
 /*
@@ -12,7 +13,32 @@ var keepData = {
         return JSON.parse(this.getItem(key));
     },
 */
-	saveModuleToLocalStorage: function(mod, tile) {
+    updateColToLocalStorage: function(type){
+    	if (type === 'add'){
+    		Col++;
+    	}
+    	else if(type === 'remove'){
+    		if (Col === 5) {
+    			console.log('error: trying to remove col from 5 fix column');
+    		}else {
+    			Col--;
+    		}
+    	}
+    	localStorage.setItem('Col',Col);
+    },
+/*
+    retreiveCol: function() {
+    	Col = 5;
+    	var noColToAdd = localStorage.getItem('Col');
+    	if(noColToAdd === 0) return;
+    	console.log('start to add col');
+    	var moduleTable = require('./moduleTable/index.js');
+    	for(var i=0; i<noColToAdd; i++){
+    		moduleTable.addCol();
+    	}
+    },
+*/
+    saveModuleToLocalStorage: function(mod, tile) {
 		if (recovering === true)
 			return;
 		var tiles;
@@ -68,7 +94,6 @@ var keepData = {
 	        modules = JSON.parse(localStorage.getItem('modules'));
 	        // console.log(modules);
             var AppBody = require("./common/index.js");
-            var moduleTable = require("./moduleTable/index.js");
 
 	        for(var i=0; i<modules.length; i++){
 	        	var moduleCode = modules[i].mod;
@@ -81,8 +106,6 @@ var keepData = {
           //       console.log(elements);
                 //AppBody.request("addModuleToTile", elements, moduleCode);
 				AppBody.request("addModuleToTile", modules[i].tile, moduleCode);
-				console.log('trying to refesh');
-				//moduleTable.refresh();
 			}
 	    }
 
