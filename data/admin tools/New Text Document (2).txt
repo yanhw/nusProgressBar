@@ -1,0 +1,15 @@
+
+moduleCode : String
+moduleTitle : String
+moduleCredit : int
+lockedModules: String[]    	//string of moduleCode
+preclusion:
+preclusionList: String[]    	//string of moduleCode
+prerequisite: modmaventree
+moduleDescription: String
+faculty: String
+department: String
+semesters: int[]  		 
+crossModule: String[]
+corequisite: String[]
+history: [][]              

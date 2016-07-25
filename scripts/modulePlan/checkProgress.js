@@ -166,8 +166,13 @@ var checkProgress = {
 			updatePackage.chosenList.push(FLRArray);
 		}
 
-		//UE
-
+		//UE, basically, just clean up everything else
+		var UEArray = [];
+		for (var i = 0; i < moduleArray.length; i++) {
+			if (moduleNodes[i] !== true)
+				UEArray.push(moduleArray[i]);
+		}
+		updatePackage.chosenList.push(UEArray);
 		//specialisation
 
 		return updatePackage;
