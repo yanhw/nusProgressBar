@@ -84,7 +84,7 @@ var modulePlan = {
 			for (var j = 0; j < tempModule.prerequisiteList.length; j++) {
 				if (tempModule.prerequisiteList[j] === moduleCode) {
 					chosenChildrenList.push(moduleCodeList[i]);
-					console.log(moduleCodeList[i]);
+					// console.log(moduleCodeList[i]);
 					break;
 				}
 			}

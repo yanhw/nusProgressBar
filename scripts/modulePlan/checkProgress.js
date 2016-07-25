@@ -101,6 +101,75 @@ var checkProgress = {
 			nonRepeatListRecur(programme.mainList[i].list, i);
 		}
 
+		//FLR for science
+		if (programme.faculty === "SCIENCE"){
+			var ownBasket = programme.FLR.ownBasket;
+			var others = programme.FLR.others;
+			var FLRArray = [];
+			var basketCount = 0;
+			var countArray = [0,0,0,0,0,0];
+			
+			//match modules for other baskets
+			var restrictTo1 = false;
+			for (var i = 0; i < moduleArray.length; i++) {							//each module in module list
+				var matchedFLR = false;
+				for (var j = 0; j < 5; j++) {										//each basket other than own basket
+					for (var k = 0; k < others[j].length; k++) {					//each item in the basket
+						
+						if (matchScienceFLR(moduleArray[i], others[j][k])) {
+							if ((countArray[j] <= 1) ||((countArray[j] === 2) && (restrictTo1 === false))) {
+								FLRArray.push(moduleArray[i]);
+								if (countArray[j] === 0)
+									basketCount++;
+								countArray[j]++;
+								if (countArray[j] === 2)
+									restrictTo1 = true;
+								break;
+							}
+						}
+						if (matchedFLR === true)
+							break;													//go to next basket
+					}
+					if (matchedFLR === true)
+						break;														//go to next module					
+				}
+			}
+
+			//if not enough modules found, check ownbasket
+			if (basketCount <= 3) {
+				var matchownbasket = false;
+				for (var i = 0; i < moduleArray.length; i++) {
+					for (var j = 0; j < ownBasket.length; j++) {
+						if (matchScienceFLR(moduleArray[i], ownBasket[j])) {
+							FLRArray.push(moduleArray[i]);
+							basketCount++;
+							matchownbasket = true;
+							break;
+						}
+					}
+					if (matchownbasket)
+						break;
+				}
+			}
+			// console.log(FLRArray);
+			//if still not enough, optimise among baskets, targeted at "CZ","FST", and "PR"
+			//Just too annoying, i don't want to do it now...
+			// var annoyingArray = ["CZ","FST","PR"];
+			// for (var i = 0; i < 3; i++) {
+			// 	var annoyingTarget = annoyingArray[i];
+			// }
+
+			//tally
+			while (FLRArray.length > 4) {
+				FLRArray.splice(FLRArray.length-1, 1);
+			}
+			updatePackage.chosenList.push(FLRArray);
+		}
+
+		//UE
+
+		//specialisation
+
 		return updatePackage;
 	}
 };
@@ -247,6 +316,8 @@ function nonRepeat(moduleCode, index) {
 	return true;
 }
 
+
+//This has to be improved because it does not support one way preclusion
 function notPrecluded(moduleCode) {
 	for (var i = 0; i < preclusionArray.length; i++) {
 		if (preclusionArray[i] === moduleCode)
@@ -269,6 +340,19 @@ function checkAndUpdateRestriction(moduleCode) {
 		return false;
 	}
 	return true;
+}
+
+function matchScienceFLR(moduleCode, targetCode) {
+	if (targetCode.length <= 5) {
+		if ((moduleCode.substring(0,targetCode.length) === targetCode) && (!isNaN(moduleCode.charAt(targetCode.length))))
+			return true;
+		else
+			return false;
+	}
+	else if (moduleCode === targetCode)
+		return true;
+	else 
+		return false;
 }
 
 module.exports = checkProgress;
