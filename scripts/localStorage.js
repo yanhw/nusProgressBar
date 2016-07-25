@@ -68,6 +68,7 @@ var keepData = {
 	        modules = JSON.parse(localStorage.getItem('modules'));
 	        // console.log(modules);
             var AppBody = require("./common/index.js");
+            var moduleTable = require("./moduleTable/index.js");
 
 	        for(var i=0; i<modules.length; i++){
 	        	var moduleCode = modules[i].mod;
@@ -80,6 +81,8 @@ var keepData = {
           //       console.log(elements);
                 //AppBody.request("addModuleToTile", elements, moduleCode);
 				AppBody.request("addModuleToTile", modules[i].tile, moduleCode);
+				console.log('trying to refesh');
+				//moduleTable.refresh();
 			}
 	    }
 

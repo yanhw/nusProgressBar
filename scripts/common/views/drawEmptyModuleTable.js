@@ -21,7 +21,7 @@ var drawEmptyModuleTable = {
 				else
 					$(semId).append("<div class='module-tile empty-module-tile' id='s" + i + "t" + j +"'></div>");
 			}
-			$(semId).append("<div class= 'semester-mc'>0 MCs</div>")
+			//$(semId).append("<div class= 'semester-mc'>0 MCs</div>")
 		}
 	},
 };
