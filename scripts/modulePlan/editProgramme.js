@@ -29,6 +29,9 @@ var editProgramme = {
 		if (programme.faculty === "SCIENCE") {
 			programme.visibleLists.push("FLR");
 		}
+
+		//Add UE
+		programme.visibleLists.push("UE");
 		return programme;
 	}
 };
