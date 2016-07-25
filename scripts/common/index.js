@@ -26,6 +26,7 @@ var AppBody = {
 		//Use the line below if you want to refresh browser history
 		//localStorage.setItem('modules', "[]");
 		
+		//keepData.retreiveCol();
 		keepData.retreiveProgramme();
 		keepData.retreiveModules();
 
