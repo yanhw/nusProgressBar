@@ -6,7 +6,7 @@ var editProgramme = {
 		//I have no idea why this part is needed...
 		for (var i = 0; i < programme.specialisations.length; i++) {
 			for (var j = 0; j < programme.visibleLists.length; j++) {
-				if ((programme.visibleLists[j] === programme.specialisations[i].listName) || (programme.visibleLists[j] === "FLR") || (programme.visibleLists[j] === "ULR")) {
+				if ((programme.visibleLists[j] === programme.specialisations[i].listName) || (programme.visibleLists[j] === "FLR") || ((programme.visibleLists[j] === "ULR") && (programme.AY < 2015))) {
 					programme.visibleLists.splice(j, 1);
 					if ((programme.visibleLists[j] === programme.specialisations[i].listName))
 						programme.mainList.splice(j, 1);
@@ -30,8 +30,14 @@ var editProgramme = {
 			programme.visibleLists.push("FLR");
 		}
 
+		//Add ULR for 2014 and before
+		if (programme.AY <= 2014) {
+			programme.visibleLists.push("ULR")
+		}
 		//Add UE
 		programme.visibleLists.push("UE");
+
+		console.log(programme.visibleLists);
 		return programme;
 	}
 };
