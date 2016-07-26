@@ -2,7 +2,6 @@
 
 var ProgrammeList = require("../../data/ProgrammeList.json");
 var keepData = require("../localStorage.js");
-
 var facultyObject;
 var departmentObject;
 var programmeObject;
@@ -17,9 +16,7 @@ var department;
 var programme;
 var specialisation;
 
-
 var ChooseProgramme = {
-
 	//Add event listeners
 	setup : function() {
 
@@ -56,7 +53,7 @@ var ChooseProgramme = {
 		$("#AY-choice").change(function(){
     		AY = parseInt($(this).children(":selected").html());
     		hasAY = true;
-            //keepData.saveProgrammeToLocalStorage('AY', AY);
+            keepData.saveProgrammeToLocalStorage('AY', AY);
     		update("AY");
     		block = false;
 		});
@@ -65,7 +62,7 @@ var ChooseProgramme = {
 		$("#faculty-choice").change(function() {
 			faculty = $(this).children(":selected").html();
 			hasFaculty = true;
-            //keepData.saveProgrammeToLocalStorage('faculty', faculty);
+            keepData.saveProgrammeToLocalStorage('faculty', faculty);
 			update("faculty");
 			block = false;
 		});
@@ -73,7 +70,7 @@ var ChooseProgramme = {
 		//Choose your department
 		$("#department-choice").change(function() {
 			department = $(this).children(":selected").html();
-            //keepData.saveProgrammeToLocalStorage('department', department);
+            keepData.saveProgrammeToLocalStorage('department', department);
 			update("department");
 			block = false;
 		});
@@ -81,7 +78,7 @@ var ChooseProgramme = {
 		//Choose your programme
 		$("#programme-choice").change(function() {
 			programme = $(this).children(":selected").html();
-            //keepData.saveProgrammeToLocalStorage('programme', programme);
+            keepData.saveProgrammeToLocalStorage('programme', programme);
 			update("programme");
 			block = false;
 		});
@@ -89,21 +86,11 @@ var ChooseProgramme = {
 		//Choose your specialisation
 		$("#specialisation-choice").change(function() {
 			specialisation = $(this).children(":selected").html();
-			//console.log('spec changed');
-			//console.log(facultyObject);
-			//console.log(departmentObject);
-			//console.log(programmeObject);
-            //keepData.saveProgrammeToLocalStorage('specialisation', specialisation);
+            keepData.saveProgrammeToLocalStorage('specialisation', specialisation);
 		});
 
 		//Save your programme
 		$("#save-programme").on("click", function(){
-			keepData.saveProgrammeToLocalStorage('AY', AY);
-            keepData.saveProgrammeToLocalStorage('faculty', faculty);
-            keepData.saveProgrammeToLocalStorage('department', department);
-            keepData.saveProgrammeToLocalStorage('programme', programme);
-            keepData.saveProgrammeToLocalStorage('specialisation', specialisation);
-
 			var AppBody = require("./index.js");			
 			AppBody.request("saveProgramme", programmeObject, specialisation);
 		});
@@ -112,35 +99,30 @@ var ChooseProgramme = {
 			localStorage.clear();
 			console.log("cleared localStorage");
 		});
-	},
+    },
 
 	updateFrLocalStorage: function(year, fac, dept, prog, spec){
 		AY = year;
+		console.log(AY);
 		document.getElementById('AY-choice').value = AY;
 		hasAY = true;
-		update('AY');
 		block = false;
-		
-
+		update('AY');
 		faculty = fac;
 		document.getElementById('faculty-choice').value = faculty;
 		hasFaculty = true;
-		update('faculty');
 		block = false;
-		
+		update('faculty');
 		department = dept;
 		document.getElementById('department-choice').value = department;
-		update('department');
 		block = false;
-		
+		update('department');
 		programme = prog;
 		document.getElementById('programme-choice').value = programme;
-		update('programme');
 		block = false;
-		//console.log('check programmeObject');
-		//console.log(programmeObject);
-
+		update('programme');
 		specialisation = spec;
+		block = false;
 		document.getElementById('specialisation-choice').value = specialisation;
 		var AppBody = require("./index.js");			
 		AppBody.request("saveProgramme", programmeObject, specialisation);
@@ -164,7 +146,7 @@ function update(triger) {
 				$(".specialisation-option").each(function() {
 					$(this).remove();
 				});
-				console.log(AY);
+				// console.log(AY);
 				for (var i = 0; i < ProgrammeList[AY-2012].length; i++) {
 					if (ProgrammeList[AY-2012][i].facultyName === faculty) {
 						facultyObject = ProgrammeList[AY-2012][i];
@@ -214,9 +196,7 @@ function update(triger) {
 			xhr.open("GET", address, false);
 			xhr.send();
 			programmeObject = JSON.parse(xhr.responseText);
-            //console.log('programmeObject:');
-            //console.log(programmeObject);
-
+			// console.log(programmeObject);
 			$("#specialisation-choice").append("<option class='programme-option' value='nil'>nil</option>");
 			for (var i = 0; i < programmeObject.specialisations.length; i++) {
 				var string = "<option class='specialisation-option' value='" + programmeObject.specialisations[i].name + "'>" + programmeObject.specialisations[i].name + "</option>";
