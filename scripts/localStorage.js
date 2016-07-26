@@ -143,7 +143,7 @@ var keepData = {
 		//console.log(savedDATA);
 	},
 
-	retreiveProgramme: function(){
+	retreiveProgramme: function(jsfile){
 		//localStorage.clear();
 		recovering = true;
 		console.log("retriving last programme");
@@ -180,9 +180,10 @@ var keepData = {
 	        //console.log(specialisation);
 	    }
         
-        var ChooseProgramme = require("./common/ChooseProgramme.js");
+        //var ChooseProgramme = require("./common/ChooseProgramme.js");
         console.log(faculty);
-        ChooseProgramme.updateFrLocalStorage(AY, faculty, department, programme, specialisation);
+        //ChooseProgramme.updateFrLocalStorage(AY, faculty, department, programme, specialisation);
+        jsfile.updateFrLocalStorage(AY, faculty, department, programme, specialisation);
 	    recovering = false;
 	},
 
