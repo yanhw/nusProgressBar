@@ -37,6 +37,18 @@ var progressBar = {
 	       	console.log("select module from menu " + moduleCode);
 	       	AppBody.request("moduleSearchBox", "select", moduleCode);
 		});
+
+		$("#progress-bar").on("mouseenter", ".module-item", function() {
+			// $(this).addClass("hover-item");
+			$(this).css("background-color","gray");
+			$(this).css("color","white");
+		});
+
+		$("#progress-bar").on("mouseleave", ".module-item", function() {
+			// $(this).removeClass("hover-item");
+			$(this).css("background-color","white");
+			$(this).css("color","black");
+		});
 	},
 
 

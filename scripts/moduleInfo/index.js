@@ -34,6 +34,18 @@ var moduleInfo = {
 	       	AppBody.request("moduleSearchBox", "select", moduleCode);
 		});
         
+		$("#module-info").on("mouseenter", ".tt-suggestion", function() {
+			// $(this).addClass("hover-item");
+			$(this).css("background-color","gray");
+			$(this).css("color","white");
+		});
+
+		$("#module-info").on("mouseleave", ".tt-suggestion", function() {
+			// $(this).removeClass("hover-item");
+			$(this).css("background-color","white");
+			$(this).css("color","black");
+		});
+
         //Module search bar button triggered by Enter key
         $("#module-info").on("keydown","#module-search-bar-box",function(event){
 		   if(event.keyCode == 13){

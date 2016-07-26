@@ -203,7 +203,7 @@ function update(triger) {
 			xhr.send();
 			programmeObject = JSON.parse(xhr.responseText);
 			// console.log(programmeObject);
-			$("#specialisation-choice").append("<option class='programme-option' value='nil'>nil</option>");
+			$("#specialisation-choice").append("<option class='specialisation-option' value='nil'>nil</option>");
 			for (var i = 0; i < programmeObject.specialisations.length; i++) {
 				var string = "<option class='specialisation-option' value='" + programmeObject.specialisations[i].name + "'>" + programmeObject.specialisations[i].name + "</option>";
 				$("#specialisation-choice").append(string);

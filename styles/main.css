@@ -15,7 +15,7 @@
 }
 
 #button-area {
-    display: inline-block;
+    /*display: inline-block;*/
 }
 
 .pogramme-selector-area select {
@@ -40,36 +40,44 @@
 	display: inline-block;
 }
 
+.visible-list a {
+    color: black;
+}
+
+.hover-item {
+    background-color: red;
+}
+
 .module-list-1 {
-	background-color: lightpink;
+	background-color: #DAF0FB;
 }
 
 .module-list-2 {
-	background-color: salmon;
+	background-color: #B5DAEC;
 }
 
 .module-list-3 {
-	background-color: hotpink;
+	background-color: #7AB6D4;
 }
 
 .module-list-4 {
-	background-color: deeppink;
+	background-color: #2A90C3;
 }
 
 .module-list-5 {
-	background-color: wheat;
+	background-color: #FDF7A9;
 }
 
 .module-list-6 {
-	background-color: moccasin;
+	background-color: palegreen;
 }
 
 .module-list-7 {
-	background-color: papayawhip;
+	background-color: darksalmon;
 }
 
 .module-list-8 {
-    background-color: violet;
+    background-color: #E1A2FD;
 }
 
 #module-table {
@@ -78,8 +86,8 @@
     width:80%;
 }
 
-.module-search-bar {
-	
+.module-search-bar-box {
+	width: 300px;
 }
 
 .logo {
@@ -91,8 +99,11 @@
 }
 
 #module-info {
-	border-right: dotted;
-	border-right-color: gray;
+    border-left-width: 20px;
+	border: solid;
+	border-color: gray;
+    background-color: #E7EAEC;
+    border-radius: 20px;
 }
 
 .desciption-block {
@@ -114,20 +125,20 @@
 	border-color: gold;
 }
 
-.pre-requisite-module-tile {
+/*.pre-requisite-module-tile {
 	border-color: gold;
 }
 
 .chosen-locked-module-tile {
     border-color: gold;
-}
+}*/
 
 .unrelated-module-tile {
     border-color: black;
 }
 
 .free-to-swap-module-tile {
-	border-color: gold;
+	/*border-color: gold;*/
 	/*background-color: brown;   The same as .occupied-module-tile */
 }
 
@@ -138,6 +149,10 @@
 
 .active-module-tile {
 	/*background-color: green;*/
+}
+
+.relative-tile {
+    border-color: gold;
 }
 
 /*This should be the same as .active-module-tile  */
