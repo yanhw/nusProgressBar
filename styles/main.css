@@ -137,7 +137,11 @@
 }
 
 
-#message-area {
+.message-item {
+    border-style: solid;
+    border-color: red;
+    border-radius:8px;
+    font-family: 'Lucida' Grande;
     
 }
 
