@@ -53,7 +53,6 @@ var ChooseProgramme = {
 		$("#AY-choice").change(function(){
     		AY = parseInt($(this).children(":selected").html());
     		hasAY = true;
-            keepData.saveProgrammeToLocalStorage('AY', AY);
     		update("AY");
     		block = false;
 		});
@@ -62,7 +61,6 @@ var ChooseProgramme = {
 		$("#faculty-choice").change(function() {
 			faculty = $(this).children(":selected").html();
 			hasFaculty = true;
-            keepData.saveProgrammeToLocalStorage('faculty', faculty);
 			update("faculty");
 			block = false;
 		});
@@ -70,7 +68,6 @@ var ChooseProgramme = {
 		//Choose your department
 		$("#department-choice").change(function() {
 			department = $(this).children(":selected").html();
-            keepData.saveProgrammeToLocalStorage('department', department);
 			update("department");
 			block = false;
 		});
@@ -78,7 +75,6 @@ var ChooseProgramme = {
 		//Choose your programme
 		$("#programme-choice").change(function() {
 			programme = $(this).children(":selected").html();
-            keepData.saveProgrammeToLocalStorage('programme', programme);
 			update("programme");
 			block = false;
 		});
@@ -86,11 +82,15 @@ var ChooseProgramme = {
 		//Choose your specialisation
 		$("#specialisation-choice").change(function() {
 			specialisation = $(this).children(":selected").html();
-            keepData.saveProgrammeToLocalStorage('specialisation', specialisation);
 		});
 
 		//Save your programme
 		$("#save-programme").on("click", function(){
+			keepData.saveProgrammeToLocalStorage('AY', AY);
+            keepData.saveProgrammeToLocalStorage('faculty', faculty);
+            keepData.saveProgrammeToLocalStorage('department', department);
+            keepData.saveProgrammeToLocalStorage('programme', programme);
+            keepData.saveProgrammeToLocalStorage('specialisation', specialisation);
 			var AppBody = require("./index.js");			
 			AppBody.request("saveProgramme", programmeObject, specialisation);
 		});
@@ -106,21 +106,25 @@ var ChooseProgramme = {
 		console.log(AY);
 		document.getElementById('AY-choice').value = AY;
 		hasAY = true;
-		block = false;
 		update('AY');
+		block = false;
+		
 		faculty = fac;
 		document.getElementById('faculty-choice').value = faculty;
 		hasFaculty = true;
-		block = false;
 		update('faculty');
+		block = false;
+
 		department = dept;
 		document.getElementById('department-choice').value = department;
-		block = false;
 		update('department');
+		block = false;
+
 		programme = prog;
 		document.getElementById('programme-choice').value = programme;
-		block = false;
 		update('programme');
+		block = false;
+		
 		specialisation = spec;
 		block = false;
 		document.getElementById('specialisation-choice').value = specialisation;
