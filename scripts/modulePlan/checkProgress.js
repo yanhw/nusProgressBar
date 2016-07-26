@@ -17,6 +17,10 @@ var limitedArray;
 var limitSize;
 var limitCount;
 
+var orId;
+var trackedId;
+var orCount;
+
 var checkProgress = {
 	check: function (modules, programme, preclusions) {
 		
@@ -35,7 +39,8 @@ var checkProgress = {
 		}
 
 		// fulfilledExclusive = [];
-		
+		orId = 1;
+		trackedId = [];
 
 		var moduleNodes = [];	//In step 1 it is 2D array to match tree nodes with modules, then it becomes 1D array as flag for modules
 		var length = modules.length;
@@ -45,10 +50,10 @@ var checkProgress = {
 
 		var programmeTreeNodes = [];
 		for (var i = 0; i < programme.mainList.length; i++) {
+			orCount = 0;
 			buildTreeRecur(programmeTreeNodes, programme.mainList[i].list);
 		}
 
-		var UE = [];
 
 		//Step 1
 		for (var i = 0; i < programmeTreeNodes.length; i++) {
@@ -66,8 +71,11 @@ var checkProgress = {
 				if (moduleNodes[i] === true)
 					continue;
 				for (var j = 0; j < moduleNodes[i].length; j++) {
-					if ((moduleNodes[i][j].rank === r) && (checkAndUpdateRestriction(modules[j]))) {
+					if ((moduleNodes[i][j].rank === r) && (checkAndUpdateRestriction(modules[j]) && (notOnTrackedOr(moduleNodes[i][j])))) {
 						moduleNodes[i][j].flag = true;
+						if (moduleNodes[i][j].hasOwnProperty("orId")) {
+							trackedId.push(moduleNodes[i][j].orId);
+						}
 						moduleNodes[i] = true;
 						break;
 					}
@@ -100,6 +108,76 @@ var checkProgress = {
 			chosenListRecur(programme.mainList[i].list, i)
 			nonRepeatListRecur(programme.mainList[i].list, i);
 		}
+
+
+		//Pre-2015 ULR
+
+		//Specialisation
+
+		var hasSpecialisation = false;
+		var specialisationIdx = -1;
+		for (var i = 0; i < programme.visibleLists.length; i++) {
+			for (var j = 0; j < programme.specialisations.length; j++) {
+				if (programme.visibleLists[i] === programme.specialisations[j].listName){
+					hasSpecialisation = true;
+					specialisationIdx = j;
+				}
+			}
+		}
+
+		if (hasSpecialisation) {
+			var moduleNodes2 = [];	//In step 1 it is 2D array to match tree nodes with modules, then it becomes 1D array as flag for modules
+			var length = modules.length;
+			var specialisationList = programme.specialisations[specialisationIdx].list;
+			orId = 1;
+			trackedId = [];
+		
+			for (var i = 0; i < length; i++) {
+				moduleNodes2.push([]);
+			}
+
+			var specialisationTreeNodes = [];
+			orCount = 0;
+			buildTreeRecur(specialisationTreeNodes, specialisationList);
+
+			//Step 1
+			for (var i = 0; i < specialisationTreeNodes.length; i++) {
+				for (var j = 0; j < modules.length; j++) {
+					if (specialisationTreeNodes[i].code === modules[j]) {
+						moduleNodes2[j].push(specialisationTreeNodes[i]);
+						break;
+					}
+				}
+			}
+			
+			//Step 2
+			for (var r = 0; r <= 5; r++) {
+				for (var i = 0; i < modules.length; i++) {
+					if (moduleNodes2[i] === true)
+						continue;
+					for (var j = 0; j < moduleNodes2[i].length; j++) {
+						if ((moduleNodes2[i][j].rank === r) &&(notOnTrackedOr(moduleNodes2[i][j]))) {
+							moduleNodes2[i][j].flag = true;
+							moduleNodes2[i] = true;
+							break;
+						}
+					}
+				}
+				// console.log("r = " + r);
+				// console.log(moduleNodes);
+			}
+
+			//Step 3			
+			traceTreeRecur(specialisationList);
+			updatePackage.chosenList.push([]);
+			updatePackage.nonRepeatList.push([]);
+
+			chosenListRecur(specialisationList, updatePackage.chosenList.length-1);
+			nonRepeatListRecur(specialisationList, updatePackage.chosenList.length-1);
+
+		}	//end of specialisation
+
+
 
 		//FLR for science
 		if (programme.faculty === "SCIENCE"){
@@ -173,28 +251,48 @@ var checkProgress = {
 				UEArray.push(moduleArray[i]);
 		}
 		updatePackage.chosenList.push(UEArray);
-		//specialisation
+
 
 		return updatePackage;
 	}
 };
 
+
+
 function buildTreeRecur(programmeTreeNodes, list) {
 	if (list.hasOwnProperty("and")) {
 		list.fulfilled = false;
 		var array = list.and;
-	} 
-	if (list.hasOwnProperty("or")) {
-		list.fulfilled = false;
-		var array = list.or;
-	}
-	for (var i = 0; i < array.length; i++) {
-		if ((array[i].hasOwnProperty("and")) || (array[i].hasOwnProperty("or")))
-			buildTreeRecur(programmeTreeNodes,array[i]);
-		else {
-			array[i].flag = false;
-			programmeTreeNodes.push(array[i]);
+		for (var i = 0; i < array.length; i++) {
+			if ((array[i].hasOwnProperty("and")) || (array[i].hasOwnProperty("or")))
+				buildTreeRecur(programmeTreeNodes,array[i]);
+			else {
+				array[i].flag = false;
+				if (orCount > 0) {
+					array[i].orId = orId;
+				}
+				programmeTreeNodes.push(array[i]);
+			}
 		}
+	}
+	else if (list.hasOwnProperty("or")) {
+		list.fulfilled = false;
+		if (orCount === 0)
+			orId++;
+		orCount++;
+		var array = list.or;
+		for (var i = 0; i < array.length; i++) {
+			if ((array[i].hasOwnProperty("and")) || (array[i].hasOwnProperty("or")))
+				buildTreeRecur(programmeTreeNodes,array[i]);
+			else {
+				array[i].flag = false;
+				if (orCount > 0) {
+					array[i].orId = orId;
+				}
+				programmeTreeNodes.push(array[i]);
+			}
+		}
+		orCount--;
 	}
 }
 
@@ -358,6 +456,17 @@ function matchScienceFLR(moduleCode, targetCode) {
 		return true;
 	else 
 		return false;
+}
+
+function notOnTrackedOr(moduleNode) {
+	if (moduleNode.hasOwnProperty("orId")) {
+		var target = moduleNode.orId;
+		for (var i = 0; i < trackedId.length; i++) {
+			if (target === trackedId[i])
+				return false;
+		}
+	}
+	return true;
 }
 
 module.exports = checkProgress;

@@ -244,7 +244,9 @@ var moduleTable = {
 			return;
 		}
 
-		if ((maxCount < numCol-1) && (numCol > 6)) {
+		var colFlag = true;
+		while ((maxCount < numCol-1) && (numCol > 6) &&(colFlag === true)) {
+			colFlag = false;
 			var isFilled = false;
 			var index = 0;
 			$(".semester").each(function() {
@@ -255,8 +257,10 @@ var moduleTable = {
 					index++;
 				});
 			});
-			if (!isFilled)
+			if (!isFilled) {
 				removeCol();
+				colFlag = true;
+			}
 		}
 	},
 

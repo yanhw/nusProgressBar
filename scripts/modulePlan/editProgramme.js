@@ -6,10 +6,10 @@ var editProgramme = {
 		//I have no idea why this part is needed...
 		for (var i = 0; i < programme.specialisations.length; i++) {
 			for (var j = 0; j < programme.visibleLists.length; j++) {
-				if ((programme.visibleLists[j] === programme.specialisations[i].listName) || (programme.visibleLists[j] === "FLR") || ((programme.visibleLists[j] === "ULR") && (programme.AY < 2015))) {
+				if ((programme.visibleLists[j] === programme.specialisations[i].listName) || (programme.visibleLists[j] === "UE") || (programme.visibleLists[j] === "FLR") || ((programme.visibleLists[j] === "ULR") && (programme.AY < 2015))) {
 					programme.visibleLists.splice(j, 1);
-					if ((programme.visibleLists[j] === programme.specialisations[i].listName))
-						programme.mainList.splice(j, 1);
+					// if ((programme.visibleLists[j] === programme.specialisations[i].listName))
+					// 	programme.mainList.splice(j, 1);
 				}
 			}
 		}
@@ -20,7 +20,7 @@ var editProgramme = {
 			// console.log(programme.specialisations);
 			for (var i = 0; i < programme.specialisations.length; i++) {
 				if ((programme.specialisations[i].name === specialisation) && (programme.visibleLists[programme.mainList.length-1] !== specialisation)) {
-					programme.mainList.push(programme.specialisations[i]);
+					// programme.mainList.push(programme.specialisations[i]);
 					programme.visibleLists.push(programme.specialisations[i].listName);
 				}
 			}
@@ -37,7 +37,7 @@ var editProgramme = {
 		//Add UE
 		programme.visibleLists.push("UE");
 
-		console.log(programme.visibleLists);
+		// console.log(programme.visibleLists);
 		return programme;
 	}
 };
