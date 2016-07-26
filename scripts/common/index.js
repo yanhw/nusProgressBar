@@ -27,7 +27,8 @@ var AppBody = {
 		//localStorage.setItem('modules', "[]");
 		
 		//keepData.retreiveCol();
-		keepData.retreiveProgramme();
+		//keepData.retreiveProgramme();
+		keepData.retreiveProgramme(ChooseProgramme);
 		keepData.retreiveModules();
 
 	},
@@ -38,7 +39,12 @@ var AppBody = {
 
 			//type = programmeObject, data = specialisation name
 			case "saveProgramme" :
+			    console.log('type');
+			    console.log(type);
+			    console.log('data');
+			    console.log(data);
 				var editedProgramme = MyPlan.saveAndEditProgramme(type, data);
+				console.log('editedProgramme');
 				ProgressBar.setup(editedProgramme);
 				hasProgramme = true;
 				if (hasProgramme) {
