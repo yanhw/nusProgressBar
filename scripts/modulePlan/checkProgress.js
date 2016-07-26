@@ -109,9 +109,6 @@ var checkProgress = {
 			nonRepeatListRecur(programme.mainList[i].list, i);
 		}
 
-
-		//Pre-2015 ULR
-
 		//Specialisation
 
 		var hasSpecialisation = false;
@@ -173,7 +170,7 @@ var checkProgress = {
 			updatePackage.nonRepeatList.push([]);
 
 			chosenListRecur(specialisationList, updatePackage.chosenList.length-1);
-			nonRepeatListRecur(specialisationList, updatePackage.chosenList.length-1);
+			nonRepeatListRecur(specialisationList, updatePackage.nonRepeatList.length-1);
 
 		}	//end of specialisation
 
@@ -242,6 +239,41 @@ var checkProgress = {
 				FLRArray.splice(FLRArray.length-1, 1);
 			}
 			updatePackage.chosenList.push(FLRArray);
+		}
+
+		//Pre-2015 ULR
+		if (programme.AY < 2015) {
+			var SS = [];
+			var GEM = [];
+			var Breadth = [];
+			for (var i = 0; i < moduleArray.length; i++) {
+				if ((moduleArray[i].substring(0,2) === "SS") && (SS.length === 0)) {
+					SS.push(moduleArray[i]);
+					continue;
+				}
+				else if ((moduleArray[i].substring(0,2) === "GE") && (moduleArray[i].charAt(2) !== 1)  && (moduleArray[i].charAt(2) !== 2)  && (moduleArray[i].charAt(2) !== 3)  && (moduleArray[i].charAt(2) !== 4) && (GEM.length < 2)) {					
+					if (GEM.length === 1) {
+						if (GEM[0].charAt(4) === 9)
+							GEM.push(moduleArray[i]);
+						else if (GEM[0].charAt(4) !== moduleArray[i].charAt(4)) {
+							GEM.push(moduleArray[i]);
+						}
+						continue;
+					}
+					else if (GEM.length === 0) {
+						GEM.push(moduleArray[i]);
+						continue;
+					}
+				}
+				else if ((outsideSci(moduleArray[i])) && (Breadth.length < 2))
+					Breadth.push(moduleArray[i]);
+			}
+
+			updatePackage.chosenList.push([]);
+			updatePackage.chosenList[updatePackage.chosenList.length-1] = updatePackage.chosenList[updatePackage.chosenList.length-1].concat(SS);
+			updatePackage.chosenList[updatePackage.chosenList.length-1] = updatePackage.chosenList[updatePackage.chosenList.length-1].concat(GEM);
+			updatePackage.chosenList[updatePackage.chosenList.length-1] = updatePackage.chosenList[updatePackage.chosenList.length-1].concat(Breadth);
+			// console.log(updatePackage);
 		}
 
 		//UE, basically, just clean up everything else
@@ -411,6 +443,7 @@ function search(moduleCode) {
 }
 
 function nonRepeat(moduleCode, index) {
+	// console.log(updatePackage);
 	for (var i = 0; i < updatePackage.nonRepeatList[index].length; i++) {
 		if (updatePackage.nonRepeatList[index][i] === moduleCode) {
 			return false;
@@ -464,6 +497,24 @@ function notOnTrackedOr(moduleNode) {
 		for (var i = 0; i < trackedId.length; i++) {
 			if (target === trackedId[i])
 				return false;
+		}
+	}
+	return true;
+}
+
+function outsideSci(moduleCode) {
+	var target = "";
+	var i = 0;
+	while ((moduleCode.charAt(i)!=="0") && (moduleCode.charAt(i)!=="1") && (moduleCode.charAt(i)!=="2")&& (moduleCode.charAt(i)!=="3")&& (moduleCode.charAt(i)!=="4")&& (moduleCode.charAt(i)!=="5")&& (moduleCode.charAt(i)!=="6")&& (moduleCode.charAt(i)!=="7")&& (moduleCode.charAt(i)!=="8")&& (moduleCode.charAt(i)!=="9")) {
+		target += moduleCode.charAt(i);
+		i++;
+	}
+
+	var sci = ["MA","ST","CZ","ST","QF","DSA","QF","ZB","CM","FST","PR","LSM","PC","SP","FMS", "GEM", "GEK", "GET","GES","GEH","GER","SSA","SSS"]
+	for (var j = 0; j < sci.length; j++) {
+		if (target === sci[j]) {
+			console.log("false!!!!!");
+			return false;
 		}
 	}
 	return true;

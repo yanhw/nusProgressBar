@@ -28,7 +28,7 @@ var ChooseProgramme = {
 		$("#AY-choice").prop("selectedIndex", -1);
 
 		//Load faculty choices
-		var facultyList = ["Science", "Computing"];
+		var facultyList = ["Science"];
 		for (var i = 0; i < facultyList.length; i++) {
 			var string = "<option class='faculty-option' value='" + facultyList[i] + "'>" + facultyList[i] + "</option>";
 			$("#faculty-choice").append(string);
