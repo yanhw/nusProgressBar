@@ -111,6 +111,13 @@ var moduleTable = {
 					$(this).addClass("free-to-swap-module-tile");
 					$(this).removeClass("occupied-module-tile");
 				}
+				var code = $(this).children(".tile-code").html();
+				var chosenList = relatives.getChosenChildrenList();
+				chosenList = chosenList.concat(relatives.getPrerequisiteList());
+				for (var i = 0; i < chosenList.length; i++) {
+					if (chosenList[i] === code)
+						$(this).addClass("relative-tile");
+				}
 			});
 			isSelected = true;
 		}
@@ -138,6 +145,9 @@ var moduleTable = {
 		$(".free-to-swap-module-tile").each(function (){
 			$(this).addClass("occupied-module-tile");
 			$(this).removeClass("free-to-swap-module-tile");
+		});
+		$(".relative-tile").each(function() {
+			$(this).removeClass("relative-tile");
 		});
 		isSelected = false;
 		selectedTile = null;
