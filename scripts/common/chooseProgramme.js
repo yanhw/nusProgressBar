@@ -98,6 +98,8 @@ var ChooseProgramme = {
 		$('#memory').on("click",function(){
 			localStorage.clear();
 			console.log("cleared localStorage");
+            location.reload();
+
 		});
     },
 
