@@ -10,6 +10,7 @@
 #progress-bar {
 /*	background-color: blue;*/
 	height: 120px;
+    white-space: nowrap;;
     display: inline-block;
 }
 
