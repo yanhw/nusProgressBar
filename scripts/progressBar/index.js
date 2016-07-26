@@ -16,13 +16,15 @@ var progressBar = {
 
 		//Click on module-item to display module info. select the module if the module is inside module table
 
-		for (var i = 0; i < programme.mainList.length; i++) {
+		for (var i = 0; i < programme.visibleLists.length; i++) {
 			var string = "<li class='nav-item dropdown visible-list module-list-" + (i+1).toString() + "'>";
-			string += "<a class='nav-link dropdown-toggle' data-toggle='dropdown' href='#' role='button' aria-haspopup='true' aria-expanded='false'>" + programme.mainList[i].listName +"</a>";
+			string += "<a class='nav-link dropdown-toggle' data-toggle='dropdown' href='#' role='button' aria-haspopup='true' aria-expanded='false'>" + programme.visibleLists[i] +"</a>";
 			string += "<div class='dropdown-menu scrollable-menu' role='menu'>";
 			string += "<a class='dropdown-item fixed-item' id='chosen-" + (i+1).toString() + "' href='#'>Chosen Modules:</a>";
-			string += "<div class='dropdown-divider'></div>";
-			string += "<a class='dropdown-item fixed-item' id='avaliable-" + (i+1).toString() +"' href='#'>Avaliable Modules:</a>";
+			if ((programme.visibleLists[i] !== "FLR") && ((programme.visibleLists[i] !== "ULR") || (programme.AY>2014)) && (programme.visibleLists[i] !== "UE" )) {
+				string += "<div class='dropdown-divider'></div>";
+				string += "<a class='dropdown-item fixed-item' id='avaliable-" + (i+1).toString() +"' href='#'>Avaliable Modules:</a>";
+			}
 			string += "</div>";
 			string += "</li>";
 			$("#module-lists").append(string);
@@ -44,11 +46,14 @@ var progressBar = {
 		})
 
 		for(var i = 0; i < updatePackage.nonRepeatList.length; i++) {
-			var chosenList = "#chosen-" + (i+1).toString();
 			var avaliableList = "#avaliable-" + (i+1).toString();
 			for (var j = 0; j < updatePackage.nonRepeatList[i].length; j++){
 				$(avaliableList).append("<a class='dropdown-item module-item' href='#'>" + updatePackage.nonRepeatList[i][j] + "</a>");
 			}
+		}
+
+		for (var i = 0; i < updatePackage.chosenList.length; i++) {
+			var chosenList = "#chosen-" + (i+1).toString();
 			for (var j = 0; j < updatePackage.chosenList[i].length; j++){
 				$(chosenList).append("<a class='dropdown-item module-item' href='#'>" + updatePackage.chosenList[i][j] + "</a>");
 			}

@@ -57,7 +57,7 @@ var moduleTable = {
 
 		//Click on locked module tile
 		$("#module-table").on("click", ".locked-module-tile", function() {
-			var moduleCode = $(this).children(".tile-code").html();
+			var moduleCode = $(this).html();
 			var AppBody = require("../common/index.js");
 			AppBody.request("selectLockedModule", moduleCode, this);
 		});

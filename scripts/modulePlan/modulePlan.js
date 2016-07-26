@@ -59,7 +59,7 @@ var modulePlan = {
 		var moduleArray = getCodeArray(0, 20);
 		var update = CheckProgress.check(moduleArray, myProgramme, precludedArray);
 		// console.log(moduleArray);
-		console.log(update);
+		// console.log(update);
 		// console.log(myProgramme);
 		return update;
 	},
@@ -84,7 +84,7 @@ var modulePlan = {
 			for (var j = 0; j < tempModule.prerequisiteList.length; j++) {
 				if (tempModule.prerequisiteList[j] === moduleCode) {
 					chosenChildrenList.push(moduleCodeList[i]);
-					console.log(moduleCodeList[i]);
+					// console.log(moduleCodeList[i]);
 					break;
 				}
 			}

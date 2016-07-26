@@ -117,6 +117,91 @@ var moduleInfo = {
 		$(".description").html("<STRONG>Description:</STRONG> " + displayedText);
 		$(".pre-requisites").html("<STRONG>Prerequisites:</STRONG> " + moduleObject.prerequisite);
 		$(".preclusion").html("<STRONG>Preclusion:</STRONG> " + moduleObject.preclusion);
+
+		var historyArray = moduleObject.history;
+		var count1;
+		var count2;
+		var count3;
+		var count4;
+		var addArray = [0,0,0,0,0];
+		var resultArray = [0,0,0,0];
+		var countArray = [0,0,0,0];
+		for (var i = 1; i <= 5; i++) {				//OMG, what did i just write...
+			if (historyArray[i][1] !== 0) {
+				countArray[0]++;
+				addArray[i-1]++;
+			}
+			if (historyArray[i][2] !== 0) {
+				countArray[1]++;
+				addArray[i-1]++;
+			}
+			if (historyArray[i][3] !== 0) {
+				countArray[2]++;
+				addArray[i-1]++;
+			}
+			if (historyArray[i][4] !== 0) {
+				countArray[3]++;
+				addArray[i-1]++;
+			}
+		}
+
+		var record = 5;
+		for (var i = 0; i < 5; i++) {
+			if (addArray[i] === 0)
+				record--;
+			else
+				break;
+		}
+
+		var newModule = false;
+		if (record <= 2)
+			newModule = true;
+
+		for (var i = 0; i < 4; i++) {
+			if (countArray[i] === record)		//offered regularly
+				resultArray[i] = 1;
+			else if (countArray[i] === 0)		//not offered
+				resultArray[i] = 2;
+			else								//offered irregularly
+				resultArray[i] = 3;
+		}
+
+		var string = "<STRONG>History:</STRONG> This module is ";
+
+		if (resultArray[0] === 1)
+			string += "offered regularly in Semester 1; ";
+		else if (resultArray[0] === 2)
+			string += "not offered in Semester 1; ";
+		else
+			string += "offered irregularly in Semester 1; ";
+
+		if (resultArray[1] === 1)
+			string += "offered regularly in Semester 2; ";
+		else if (resultArray[1] === 2)
+			string += "not offered in Semester 2; ";
+		else
+			string += "offered irregularly in Semester 2; ";
+
+		if (resultArray[2] === 1)
+			string += "offered regularly in Special Term 1; ";
+		else if (resultArray[2] === 2)
+			string += "not offered in Special Term 1; ";
+		else
+			string += "offered irregularly in Special Term 1; ";
+
+		if (resultArray[3] === 1)
+			string += "offered regularly in Special Term 2; ";
+		else if (resultArray[3] === 2)
+			string += "not offered in Special Term 2; ";
+		else
+			string += "offered irregularly in Special Term 2; ";
+
+		string += "according to record from past " + record + " years.";
+
+		if (newModule)
+			string += " This might be a new module."
+
+		$(".history").html(string);
 		return true;
 	},
 
