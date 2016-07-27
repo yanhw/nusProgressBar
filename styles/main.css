@@ -4,13 +4,13 @@
 }
 
 #primary-plan {
+    padding-top: 10px;
 
 }
 
 
 #progress-bar {
 /*	background-color: blue;*/
-    top: 15px;
 	height: 120px;
     white-space: nowrap;;
     display: inline-block;
@@ -18,7 +18,7 @@
 
 #button-area {
     /*display: inline-block;*/
-    width:100%;
+    background-color:#555555;/*FF717E;/*1FBED6;/*#A3CBF1;*/
 }
 
 .pogramme-selector-area select {
@@ -30,7 +30,7 @@
     width: 850px;
 	position: absolute;
 	left: 20px;
-	top: 0px;
+	padding-top: 1px;
 	z-index: -1;
 }
 
@@ -88,30 +88,46 @@
 /*	background-color: yellow;   */
     overflow: auto;
     width:100%;
-    left: 7px;
+    padding-top: 5px;
+    padding-left: 15px;
 }
 
-.col-md-4{
-    background-color: #C3C3E5;/*#56BAEC; /*97C30A; /*#FF717E;/*#CC99FF;*/
-    width:200px;
+.col-md-3{
+    background-color: #21B6A8;/*C3C3E5;/*#56BAEC; /*97C30A; /*#FF717E;/*#CC99FF;*/
 }
 
-.module-search-bar-box {
-	width: 250px;
+#module-search-bar{
+}
+#module-search-bar-box {
+    width:214px;
+}
+
+#module-search-bar-select{
+    position: absolute;
+    bottom:6.5px;
 }
 
 .logo {
 	height: 50px;
+    color:white;
+    padding-top: 5px;
 }
 
 #logo-image {
 	height: 50px;
     font:fantasy;
-    font-color: white;
     font-weight: bold;
-    font-size:23pt;
+    font-size:22pt;
 }
-
+#logo-highlight{
+    color:#EC799A;/*FF717E;*/
+}
+.selected-module-info{
+    padding-top: 20px;
+    height: 700px;
+    padding-left: 5px;
+    color:#555555;
+}
 #module-info {
     /*
     border-left-width: 20px;
@@ -120,16 +136,17 @@
     background-color: #E7EAEC;
     border-radius: 20px;
     */
-    left: 20px;
-    width: 90%;
-    height: 700px;
+    width: 100%;
     font-family: "Lucida" Grande;
 }
 
 .desciption-block {
 	width: 100%;
 }
-
+.all-module-info{
+    overflow-y: auto;
+    max-height: 510px;
+}
 #show-more {
 	position: relative;
     bottom:0;
@@ -181,7 +198,7 @@
 
 /*This should be the same as .active-module-tile  */
 .avaliable-to-replace-module-tile {
-	background-color: springgreen;
+	background-color: #F9F6F4;
 	border-color: lightgray;
 }
 
@@ -233,19 +250,18 @@
 	vertical-align: top;
     text-align: center;
     font-family: "Lucida" Grande;
-    font-weight: bold;
 	font-size:   13pt;
-    line-height: 14pt; 
     margin-right: 15px;
     background-color: #F1F0FF;
     border-radius: 5px;
-    /*line-height: 20px;*/
+    line-height: 5px;
+    padding-top: 17px;
 }
 
 .semester-head p {
     /*display: inline-block;*/
     vertical-align: middle;
-    line-height: 85%; 
+    line-height:5px;
 }
 
 .inline {
@@ -372,7 +388,7 @@
 /*Footer*/
 .container-fluid{
    min-height:100%;
-   font-color:white;
+   
 }
 
 .footer-container {
@@ -381,32 +397,29 @@
   bottom: 0;
   left: 0;
   right: 0;
-  background-color:  #A3CBF1; /*#333333; /*#9ed1ff;*/
-  text-decoration-color: white;
-  font-color: white;
+  background-color:  #555555; /*#A3CBF1; /*#9ed1ff;*/
+  color: white;
+  color:#1FBED6;
   height:200px;
   padding-top: 20px;
   padding-bottom: 15px;
 }
 
 .section-title{
-    font-color:white;
+    color:#FF717E;
 }
 
 #copyright{
     text-align:center;
-    font-color: white;
 }
 
 #footer-link{
-    font-color: white;
     padding-left: 70px;
     text-decoration: none;
 }
 
 ul li a {
-    font-color: white;
-    color: white;
+    color: #1FBED6;
     text-decoration:none;
 }
 

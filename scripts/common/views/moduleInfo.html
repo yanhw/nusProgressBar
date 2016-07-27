@@ -1,8 +1,8 @@
 
-<div class='input-group' id='moudle-search-bar'>
+<div class='input-group' id='module-search-bar'>
 	<input type='text' class='form-control' id='module-search-bar-box' placeholder='Enter module code here'>
 	<span class='input-group-btn'>
-		<button class='btn btn-default' id='module-search-bar-select' type='button'>Select</button>
+		<button class='btn btn-warning btn-sm' id='module-search-bar-select' type='button'>Select</button>
 	</span>
 </div>
 
@@ -13,7 +13,7 @@
 				<STRONG>Module Code:</STRONG>
 			</div>
 			<div>
-				
+				<p></p>
 			</div>
 		</div>
 		<div class='MC inline'>
@@ -23,32 +23,49 @@
 	<div class='module-title'>
 		<STRONG>Module Title:</STRONG>
 	</div>
-	<div class="description-block">
-		<div class="description">
-			<STRONG>Description:</STRONG>
+	<div>
+		<p></p>
+	</div>
+	<div class="all-module-info">
+		<div class="description-block">
+			<div class="description">
+				<STRONG>Description:</STRONG>
+			</div>
+			<a class="btn" id="show-more" data-popup-open="popup-description" href="#">Show more</a>
+			<div class="popup" data-popup="popup-description">
+			    <div class="popup-inner">
+			        <p id="full-module-description"></p>
+			        <p class="hide-description"><a data-popup-close="popup-description" href="#">Close</a></p>
+			        <a class="popup-close hide-description" id="hide-description-button" data-popup-close="popup-description" href="#">x</a>
+			    </div>
+			</div>
 		</div>
-		<a class="btn" id="show-more" data-popup-open="popup-description" href="#">show more</a>
-		<div class="popup" data-popup="popup-description">
-		    <div class="popup-inner">
-		        <p id="full-module-description"></p>
-		        <p class="hide-description"><a data-popup-close="popup-description" href="#">Close</a></p>
-		        <a class="popup-close hide-description" id="hide-description-button" data-popup-close="popup-description" href="#">x</a>
-		    </div>
+		<div>
+			<p></p>
+		</div>
+		<div class="pre-requisites">
+			<STRONG>Pre-requisites:</STRONG>
+		</div>
+		<div>
+			<p></p>
+		</div>
+		<div class="preclusion">
+			<STRONG>Preclusions:</STRONG>
+		</div>
+		<div>
+			<p></p>
+		</div>
+		<div class='history'>
+			<STRONG>History:</STRONG>
+		</div>
+		<div class='semester-history'>
 		</div>
 	</div>
-	<div class="pre-requisites">
-		<STRONG>Pre-requisites:</STRONG>
-	</div>
-	<div class="preclusion">
-		<STRONG>Preclusions:</STRONG>
-	</div>
-	<div class='history'>
-		<STRONG>History:</STRONG>
+	<div>
+		<p></p>
 	</div>
 	<div class="add-module">
-		<button class="btn" id="add-module-button" type="button">Add</button>
-	</div>
-	<div class='semester-history'>
+		<button class="btn btn-warning" id="add-module-button" type="button">Add</button>
 	</div>
 </div>
 
