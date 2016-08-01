@@ -20,10 +20,10 @@ var messageArea = {
 			var string = "";
 			switch (messageList[i].type) {
 				case "prerequisite" :
-					string = "<div class='message-item prerequisite-item' id='m"+i+"'>You have not fulfilled prerequisites of " + messageList[i].content + "</div>";
+					string = "<div class='message-item prerequisite-item alert alert-danger' role='alert' id='m"+i+"'>You have not fulfilled prerequisites of " + messageList[i].content + "</div>";
 					break;
 				case "preclusion" :
-					string = "<div class='message-item preclusion-item' id='m"+i+"'>You cannot take "+messageList[i].content[0]+"because it is precluded by "+messageList[i].content[0]+"</div>";
+					string = "<div class='message-item preclusion-item alert alert-danger' role='alert' id='m"+i+"'>You cannot take "+messageList[i].content[0]+"because it is precluded by "+messageList[i].content[0]+"</div>";
 					break;
 				case "fulfillment" :
 					break;

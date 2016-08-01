@@ -93,7 +93,7 @@
 }
 
 .col-md-3{
-    background-color: #21B6A8;/*C3C3E5;/*#56BAEC; /*97C30A; /*#FF717E;/*#CC99FF;*/
+    background-color: #46DDCF;/*C3C3E5;/*#56BAEC; /*97C30A; /*#FF717E;/*#CC99FF;*/
 }
 
 #module-search-bar{
@@ -154,12 +154,10 @@
 }
 
 
-.message-item {
-    border-style: solid;
-    border-color: red;
-    border-radius:8px;
-    font-family: 'Lucida' Grande;
-    
+.alert{
+    padding:0px;
+    margin:0;
+    line-height: 0px;
 }
 
 .selected-module-tile {
@@ -252,7 +250,7 @@
     font-family: "Lucida" Grande;
 	font-size:   13pt;
     margin-right: 15px;
-    background-color: #F1F0FF;
+    background-color: #c8f5e6;
     border-radius: 5px;
     line-height: 5px;
     padding-top: 17px;
