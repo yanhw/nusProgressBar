@@ -127,7 +127,7 @@ function checkPreclusion(module, semester) {
 	var scanningArray = getCodeArray(0, semester+1);
 	for (var i = 0; i < targetModule.preclusionList.length; i++) {
 		for (var j = 0; j < scanningArray.length; j++) {
-			if (targetModule.preclusionList[i] === scanningArray[j])
+			if ((targetModule.preclusionList[i] === scanningArray[j]) && (targetModule.moduleCode !== scanningArray[j]))
 				notPrecluded = new Message("preclusion", [module.getModuleCode(), scanningArray[j]]);
 		}
 	}

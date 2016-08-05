@@ -8,13 +8,15 @@ var drawEmptyModuleTable = {
 		//for debugging purpose
 		$(".remove-me-module-table").remove();
 
+		// if(localStorage.getItem('Col')){
+  //           	console.log('load no of columns');
+  //           	numCol = localStorage.getItem('Col');
+  //       }
+  //       console.log(numCol);
+
 		var flag = 1;
 		for (var i = 1; i <= numRow; i++) {			
 			$("#module-table").append("<div class='semester' id='s" + i + "'>");
-            if(localStorage.getItem('Col')){
-            	console.log('load no of columns');
-            	numCol = localStorage.getItem('Col');
-            }
 			var semId = "#s" + i;
 			$(semId).append("<div class='semester-head'><p>Year " + (i + flag)/2 + "</p><p>Sem " + (2-flag) + "</p></div>");
 			flag = 1-flag;

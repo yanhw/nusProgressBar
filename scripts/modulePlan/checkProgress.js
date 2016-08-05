@@ -66,6 +66,9 @@ var checkProgress = {
 		}
 		
 		//Step 2
+		for (var i = 0; i < modules.length; i++)
+				moduleNodes[i].reverse();
+
 		for (var r = 0; r <= 5; r++) {
 			for (var i = 0; i < modules.length; i++) {
 				if (moduleNodes[i] === true)
@@ -148,6 +151,8 @@ var checkProgress = {
 			}
 			
 			//Step 2
+
+
 			for (var r = 0; r <= 5; r++) {
 				for (var i = 0; i < modules.length; i++) {
 					if (moduleNodes2[i] === true)
