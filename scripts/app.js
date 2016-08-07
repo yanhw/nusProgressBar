@@ -5,8 +5,8 @@ var AppBody = require("./common/index.js");
 
 var App = {
 	start: function(){
-		ApplicationView.initialise();
-		AppBody.run();
+		var numCol = ApplicationView.initialise();
+		AppBody.run(numCol);
 	}
 };
 

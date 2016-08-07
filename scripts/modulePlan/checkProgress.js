@@ -518,7 +518,6 @@ function outsideSci(moduleCode) {
 	var sci = ["MA","ST","CZ","ST","QF","DSA","QF","ZB","CM","FST","PR","LSM","PC","SP","FMS", "GEM", "GEK", "GET","GES","GEH","GER","SSA","SSS"]
 	for (var j = 0; j < sci.length; j++) {
 		if (target === sci[j]) {
-			console.log("false!!!!!");
 			return false;
 		}
 	}

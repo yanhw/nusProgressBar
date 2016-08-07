@@ -18,9 +18,9 @@ var updatePackage = false;
 var AppBody = {
 
 	//Setup event listeners
-	run: function(){
+	run: function(numCol){
 		ModuleInfo.setup();
-		ModuleTable.setup();
+		ModuleTable.setup(numCol);
 		ChooseProgramme.setup();
 
 		//Use the line below if you want to refresh browser history

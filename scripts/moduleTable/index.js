@@ -11,7 +11,7 @@ var SelectedModule = require("./view/selectedModule.js");
 var KeepData = require("../localStorage.js");
 
 var moduleTable = {
-	setup: function() {
+	setup: function(updatednumCol) {
 		//Add module to vacant module tile in module table
 		$("#module-table").on("click", '.active-module-tile', function() {
 			if (isStandingBy) {
@@ -68,7 +68,7 @@ var moduleTable = {
 			AppBody.request("recoverLockedModule", $(selectedTile).children(".tile-code").html(), this);
 		});
 
-		
+		numCol = parseInt(updatednumCol);
 	},
 
 	//Stand by to add a given module
@@ -248,8 +248,10 @@ var moduleTable = {
 			if (count > maxCount)
 				maxCount = count;
 		});
-
+		console.log(maxCount);
+		console.log(numCol);
 		if (maxCount === numCol) {  //">=" should work
+			console.log("addcol");
 			addCol();
 			return;
 		}

@@ -8,11 +8,11 @@ var drawEmptyModuleTable = {
 		//for debugging purpose
 		$(".remove-me-module-table").remove();
 
-		// if(localStorage.getItem('Col')){
-  //           	console.log('load no of columns');
-  //           	numCol = localStorage.getItem('Col');
-  //       }
-  //       console.log(numCol);
+		if(localStorage.getItem('Col')){
+            	console.log('load no of columns');
+            	numCol = localStorage.getItem('Col');
+        }
+        console.log(numCol);
 
 		var flag = 1;
 		for (var i = 1; i <= numRow; i++) {			
@@ -28,6 +28,9 @@ var drawEmptyModuleTable = {
 			}
 			//$(semId).append("<div class= 'semester-mc'>0 MCs</div>")
 		}
+
+
+		return numCol;
 	},
 };
 
