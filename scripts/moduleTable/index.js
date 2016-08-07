@@ -278,7 +278,7 @@ var moduleTable = {
 
 	refreshColour: function(updatePackage) {
 		//Remove existing colours
-		for (var i = 0; i < 8; i++) {
+		for (var i = 0; i < 9; i++) {
 			var string = ".module-list-" + i.toString();
 			$(string).each(function() {
 				if ($(this).hasClass("module-tile"))
