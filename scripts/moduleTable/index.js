@@ -248,8 +248,8 @@ var moduleTable = {
 			if (count > maxCount)
 				maxCount = count;
 		});
-		console.log(maxCount);
-		console.log(numCol);
+		// console.log(maxCount);
+		// console.log(numCol);
 		if (maxCount === numCol) {  //">=" should work
 			console.log("addcol");
 			addCol();

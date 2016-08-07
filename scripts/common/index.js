@@ -244,7 +244,7 @@ var AppBody = {
 
 			//This should not happen, only trigered by spelling mistake
 			default: 
-				alert("unrecorded request!  " + origin);
+				alert("unrecorded request!  Please contact admin." + origin);
 		}
 
 	}

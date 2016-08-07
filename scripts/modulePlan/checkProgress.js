@@ -38,6 +38,8 @@ var checkProgress = {
 			limitSize = programme.restriction.limit;
 		}
 
+		// console.log(limitedArray);
+
 		// fulfilledExclusive = [];
 		orId = 1;
 		trackedId = [];
@@ -74,7 +76,7 @@ var checkProgress = {
 				if (moduleNodes[i] === true)
 					continue;
 				for (var j = 0; j < moduleNodes[i].length; j++) {
-					if ((moduleNodes[i][j].rank === r) && (checkAndUpdateRestriction(modules[j]) && (notOnTrackedOr(moduleNodes[i][j])))) {
+					if ((moduleNodes[i][j].rank === r) && (checkAndUpdateRestriction(modules[i]) && (notOnTrackedOr(moduleNodes[i][j])))) {
 						moduleNodes[i][j].flag = true;
 						if (moduleNodes[i][j].hasOwnProperty("orId")) {
 							trackedId.push(moduleNodes[i][j].orId);
@@ -473,6 +475,8 @@ function checkAndUpdateRestriction(moduleCode) {
 		if (moduleCode === limitedArray[i])
 			isInside = true;
 	}
+	console.log("limitCount" + limitCount + " limitSize: "+ limitSize);
+	console.log(moduleCode);
 	if ((isInside) && (limitCount < limitSize)) {
 		limitCount++;
 		return true;
